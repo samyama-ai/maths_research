@@ -6,6 +6,7 @@ import time
 import argparse
 import asyncio
 from pathlib import Path
+import shutil
 import subprocess
 import re
 
@@ -24,6 +25,13 @@ from fix_math_hash import transform as fix_math_hash_transform  # noqa: E402
 # 124 of 1,000 files.
 BACKEND = os.getenv("CATALOG_BACKEND", "claude").lower()
 
+# Both CLIs have independent subscription budgets, and this run has now been
+# stopped by each of them in turn: agy at 124 files, claude at 563. Failing over
+# to the other backend turns a hard stop into a slower run. FAILOVER=0 disables.
+FAILOVER = os.getenv("CATALOG_FAILOVER", "1") != "0"
+_EXHAUSTED = set()
+_BACKEND_LOCK = asyncio.Lock()
+
 # Each call takes tens of seconds, so the run is latency-bound, not CPU-bound.
 # Bound total in-flight calls across all topics.
 AGY_CONCURRENCY = int(os.getenv("AGY_CONCURRENCY", "8"))
@@ -34,7 +42,15 @@ AGY_SEMAPHORE = asyncio.Semaphore(AGY_CONCURRENCY)
 # ~1,100 queued calls retrying against "Individual quota reached", producing nothing:
 # every call returned in under 10 seconds, so the retry loop just spun. Once this is
 # seen, the whole run aborts and says when the quota resets.
-QUOTA_RE = re.compile(r"quota reached|rate limit|Resets in", re.I)
+# Every phrasing either CLI uses to say "stop asking". The first version matched
+# only agy's wording ("quota reached ... Resets in"), so claude's
+# "You've hit your session limit - resets 1:10pm" sailed straight past it: 709
+# calls retried into a wall that was never going to answer, which is the exact
+# failure this class was added to prevent.
+QUOTA_RE = re.compile(
+    r"quota reached|quota exceeded|rate limit|resets? (in|at|\d)|"
+    r"(session|usage|weekly|daily) limit|hit your limit|"
+    r"upgrade your subscription|too many requests|429", re.I)
 
 
 class QuotaExhausted(RuntimeError):
@@ -124,6 +140,25 @@ def normalize_markdown(text, topic_slug, slug, title, status, month=None):
     return header + body
 
 
+
+async def _switch_backend(reason):
+    """Move to the other CLI when this one's budget is gone. True if switched."""
+    global BACKEND
+    if not FAILOVER:
+        return False
+    async with _BACKEND_LOCK:
+        _EXHAUSTED.add(BACKEND)
+        other = "agy" if BACKEND == "claude" else "claude"
+        if other in _EXHAUSTED:
+            return False                   # both gone; let the run abort
+        if not shutil.which(other):
+            return False
+        note(f"!! {BACKEND} is out of budget ({reason[:80]}); "
+             f"switching to {other}")
+        BACKEND = other
+        return True
+
+
 async def call_agy_cli(prompt, is_json=False):
     """Run one prompt through the configured CLI backend and return its text."""
     
@@ -131,6 +166,16 @@ async def call_agy_cli(prompt, is_json=False):
     # also replaces Claude Code's own harness prompt. Left as a prefix, the default
     # agent boots MCP servers and project context for every call: one page took
     # 283s that way and 30s with --strict-mcp-config and --system-prompt.
+    # Recomputed per attempt inside _run, not once here: claude takes the role
+    # instruction through --system-prompt while agy needs it prefixed, so a
+    # failover mid-page would otherwise send agy a prompt with no role at all.
+    def _compose():
+        base = prompt if BACKEND == "claude" else SYSTEM_INSTRUCTION + "\n\n" + prompt
+        if is_json:
+            base += ("\n\nCRITICAL: Return ONLY valid JSON. Do not wrap it in markdown "
+                     "blocks (e.g. ```json ... ```). Just raw JSON.")
+        return base
+
     full_prompt = prompt if BACKEND == "claude" else SYSTEM_INSTRUCTION + "\n\n" + prompt
     if is_json:
         full_prompt += "\n\nCRITICAL: Return ONLY valid JSON. Do not wrap it in markdown blocks (e.g. ```json ... ```). Just raw JSON."
@@ -138,10 +183,11 @@ async def call_agy_cli(prompt, is_json=False):
     loop = asyncio.get_event_loop()
     
     def _run():
+        composed = _compose()
         if BACKEND == "agy":
-            cmd = ["agy", "-p", full_prompt, "--print-timeout", AGY_TIMEOUT]
+            cmd = ["agy", "-p", composed, "--print-timeout", AGY_TIMEOUT]
         else:
-            cmd = ["claude", "-p", full_prompt,
+            cmd = ["claude", "-p", composed,
                    "--output-format", "text",
                    "--strict-mcp-config",
                    "--system-prompt", SYSTEM_INSTRUCTION]
@@ -170,8 +216,10 @@ async def call_agy_cli(prompt, is_json=False):
                 # showed a reason. Always say it happened.
                 note(f"    {BACKEND} returned an empty response "
                      f"(attempt {attempt + 1}/3)")
-            except QuotaExhausted:
-                raise
+            except QuotaExhausted as e:
+                if not await _switch_backend(str(e)):
+                    raise
+                continue                   # retry this same page on the other CLI
             except Exception as e:
                 note(f"    {BACKEND} call failed (attempt {attempt + 1}/3): {e}")
             await asyncio.sleep(5 * (attempt + 1))
