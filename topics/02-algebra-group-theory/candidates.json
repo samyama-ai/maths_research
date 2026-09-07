@@ -2,31 +2,655 @@
   {
     "title": "Inverse Galois Problem",
     "slug": "inverse-galois-problem",
-    "status": "partially-solved",
-    "description": "Asks if all finite groups appear as Galois groups over rationals."
+    "status": "open",
+    "description": "Does every finite group appear as a Galois group?"
   },
   {
     "title": "Jacobian Conjecture",
     "slug": "jacobian-conjecture",
     "status": "open",
-    "description": "Asks if polynomial maps with constant nonzero Jacobian determinant are invertible."
+    "description": "Is every polynomial map with nonzero constant Jacobian invertible?"
+  },
+  {
+    "title": "Dixmier Conjecture",
+    "slug": "dixmier-conjecture",
+    "status": "open",
+    "description": "Is every endomorphism of a Weyl algebra an automorphism?"
+  },
+  {
+    "title": "Burnside Problem",
+    "slug": "burnside-problem",
+    "status": "partially-solved",
+    "description": "Are finitely generated groups of bounded exponent finite?"
+  },
+  {
+    "title": "Whitehead Problem",
+    "slug": "whitehead-problem",
+    "status": "partially-solved",
+    "description": "Is every abelian group with vanishing Ext isomorphic to a free group?"
+  },
+  {
+    "title": "Koethe Conjecture",
+    "slug": "koethe-conjecture",
+    "status": "open",
+    "description": "Does every ring with a nil right ideal have a nil ideal?"
+  },
+  {
+    "title": "Kaplansky's Unit Conjecture",
+    "slug": "kaplanskys-unit-conjecture",
+    "status": "solved-recently",
+    "description": "Are the only units in a torsion-free group ring the trivial ones?"
+  },
+  {
+    "title": "Kaplansky's Zero Divisor Conjecture",
+    "slug": "kaplanskys-zero-divisor-conjecture",
+    "status": "open",
+    "description": "Does a group ring of a torsion-free group have zero divisors?"
+  },
+  {
+    "title": "Kaplansky's Idempotent Conjecture",
+    "slug": "kaplanskys-idempotent-conjecture",
+    "status": "open",
+    "description": "Does a group ring of a torsion-free group have nontrivial idempotents?"
   },
   {
     "title": "Andrews-Curtis Conjecture",
     "slug": "andrews-curtis-conjecture",
     "status": "open",
-    "description": "Proposes that all balanced presentations of the trivial group are equivalent."
+    "description": "Can every balanced presentation of the trivial group be reduced trivially?"
+  },
+  {
+    "title": "Bass Conjecture",
+    "slug": "bass-conjecture",
+    "status": "open",
+    "description": "Is the trace of a projective module over group rings integer-valued?"
   },
   {
     "title": "Congruence Subgroup Problem",
     "slug": "congruence-subgroup-problem",
     "status": "partially-solved",
-    "description": "Asks if all finite index subgroups contain a principal congruence subgroup."
+    "description": "Does every finite index subgroup contain a principal congruence subgroup?"
   },
   {
-    "title": "Kaplansky Unit Conjecture",
-    "slug": "kaplansky-unit-conjecture",
+    "title": "Farrell-Jones Conjecture",
+    "slug": "farrell-jones-conjecture",
+    "status": "open",
+    "description": "Is algebraic K-theory of group rings computed from virtually cyclic subgroups?"
+  },
+  {
+    "title": "Baum-Connes Conjecture",
+    "slug": "baum-connes-conjecture",
+    "status": "open",
+    "description": "Does analytical K-theory of a crossed product correspond to topological K-theory?"
+  },
+  {
+    "title": "Novikov Conjecture",
+    "slug": "novikov-conjecture",
+    "status": "open",
+    "description": "Are higher signatures of manifolds always strictly homotopy invariant?"
+  },
+  {
+    "title": "Grothendieck-Katz p-curvature Conjecture",
+    "slug": "grothendieck-katz-p-curvature-conjecture",
+    "status": "open",
+    "description": "Is a linear differential equation with zero p-curvature algebraically solvable?"
+  },
+  {
+    "title": "Eilenberg-Ganea Conjecture",
+    "slug": "eilenberg-ganea-conjecture",
+    "status": "open",
+    "description": "Is the cohomological dimension of a group equal to geometric dimension?"
+  },
+  {
+    "title": "Abhyankar's Conjecture",
+    "slug": "abhyankars-conjecture",
     "status": "solved-recently",
-    "description": "Hypothesizes that group rings of torsion-free groups have only trivial units."
+    "description": "Which finite groups are Galois groups of coverings of affine curves?"
+  },
+  {
+    "title": "Resolution of Singularities",
+    "slug": "resolution-of-singularities",
+    "status": "open",
+    "description": "Can every algebraic variety over a positive characteristic field be resolved?"
+  },
+  {
+    "title": "Nagata's Conjecture on Curves",
+    "slug": "nagatas-conjecture-on-curves",
+    "status": "open",
+    "description": "What is the minimal degree of a curve through general points?"
+  },
+  {
+    "title": "Harbourne-Hirschowitz Conjecture",
+    "slug": "harbourne-hirschowitz-conjecture",
+    "status": "open",
+    "description": "Predicts the dimension of linear systems of curves with assigned base points."
+  },
+  {
+    "title": "Froberg Conjecture",
+    "slug": "froberg-conjecture",
+    "status": "open",
+    "description": "What is the Hilbert series of ideals generated by generic forms?"
+  },
+  {
+    "title": "Iarrobino's Conjecture",
+    "slug": "iarrobinos-conjecture",
+    "status": "open",
+    "description": "Generalizes the Froberg conjecture to fat points in modern algebraic geometry."
+  },
+  {
+    "title": "Eisenbud-Green-Harris Conjecture",
+    "slug": "eisenbud-green-harris-conjecture",
+    "status": "open",
+    "description": "What are the possible Hilbert functions of ideals containing regular sequences?"
+  },
+  {
+    "title": "Stanley-Ionescu Conjecture",
+    "slug": "stanley-ionescu-conjecture",
+    "status": "open",
+    "description": "Relates to the depth of symbolic powers of various edge ideals."
+  },
+  {
+    "title": "Chudnovsky's Conjecture",
+    "slug": "chudnovskys-conjecture",
+    "status": "partially-solved",
+    "description": "Proposes lower bounds for the Waldschmidt constant of a point set."
+  },
+  {
+    "title": "Demailly's Conjecture",
+    "slug": "demaillys-conjecture",
+    "status": "open",
+    "description": "Relates the Waldschmidt constant to singular metrics in complex algebraic geometry."
+  },
+  {
+    "title": "Herzog-Huneke-Srinivasan Conjecture",
+    "slug": "herzog-huneke-srinivasan-conjecture",
+    "status": "partially-solved",
+    "description": "Bounds the multiplicity of a graded ring using its Betti numbers."
+  },
+  {
+    "title": "Boij-Soderberg Theory",
+    "slug": "boij-soderberg-theory",
+    "status": "solved-recently",
+    "description": "Completely characterizes the Betti tables of graded modules in commutative algebra."
+  },
+  {
+    "title": "Auslander-Reiten Conjecture",
+    "slug": "auslander-reiten-conjecture",
+    "status": "open",
+    "description": "Is a module with vanishing self-extensions over its ring necessarily projective?"
+  },
+  {
+    "title": "Finitistic Dimension Conjecture",
+    "slug": "finitistic-dimension-conjecture",
+    "status": "open",
+    "description": "Is the supremum of finite projective dimensions of modules always finite?"
+  },
+  {
+    "title": "Nakayama Conjecture",
+    "slug": "nakayama-conjecture",
+    "status": "open",
+    "description": "If a finite-dimensional algebra has infinite dominant dimension, is it self-injective?"
+  },
+  {
+    "title": "Telescope Conjecture",
+    "slug": "telescope-conjecture",
+    "status": "partially-solved",
+    "description": "Characterizes Bousfield localization in stable homotopy categories using pure algebra."
+  },
+  {
+    "title": "Whitehead's Asphericity Conjecture",
+    "slug": "whiteheads-asphericity-conjecture",
+    "status": "open",
+    "description": "Is every subcomplex of an aspherical two-complex also strictly aspherical?"
+  },
+  {
+    "title": "Day's Conjecture",
+    "slug": "days-conjecture",
+    "status": "partially-solved",
+    "description": "Are elementary amenable groups exactly the same as amenable groups?"
+  },
+  {
+    "title": "von Neumann Conjecture",
+    "slug": "von-neumann-conjecture",
+    "status": "solved-recently",
+    "description": "Does every non-amenable group always contain a free subgroup of rank two?"
+  },
+  {
+    "title": "Hanna Neumann Conjecture",
+    "slug": "hanna-neumann-conjecture",
+    "status": "solved-recently",
+    "description": "Bounds the rank of the intersection of two finitely generated free subgroups."
+  },
+  {
+    "title": "R. Thompson's Group Amenability",
+    "slug": "r-thompsons-group-amenability",
+    "status": "open",
+    "description": "Is Richard Thompson's well-known group F an amenable group?"
+  },
+  {
+    "title": "Isomorphism Problem for Group Rings",
+    "slug": "isomorphism-problem-for-group-rings",
+    "status": "partially-solved",
+    "description": "Does the integral group ring uniquely determine a group up to isomorphism?"
+  },
+  {
+    "title": "Zassenhaus Conjecture",
+    "slug": "zassenhaus-conjecture",
+    "status": "partially-solved",
+    "description": "Are normalized units of an integral group ring conjugate to group elements?"
+  },
+  {
+    "title": "Normalizer Conjecture",
+    "slug": "normalizer-conjecture",
+    "status": "open",
+    "description": "Is the normalizer of a group in its integral group ring trivial?"
+  },
+  {
+    "title": "Rota's Basis Conjecture",
+    "slug": "rotas-basis-conjecture",
+    "status": "open",
+    "description": "Can one find independent transversal sets of bases in any matroid?"
+  },
+  {
+    "title": "Rota's Conjecture on Log-Concavity",
+    "slug": "rotas-conjecture-on-log-concavity",
+    "status": "solved-recently",
+    "description": "Are the coefficients of the characteristic polynomial of a matroid log-concave?"
+  },
+  {
+    "title": "Zariski Cancellation Problem",
+    "slug": "zariski-cancellation-problem",
+    "status": "partially-solved",
+    "description": "If products of varieties with affine lines are isomorphic, are the varieties?"
+  },
+  {
+    "title": "Epimorphism Theorem",
+    "slug": "epimorphism-theorem",
+    "status": "solved-recently",
+    "description": "Is every epimorphism of rings of integer polynomials a strict isomorphism?"
+  },
+  {
+    "title": "Abhyankar-Moh Theorem",
+    "slug": "abhyankar-moh-theorem",
+    "status": "solved-recently",
+    "description": "Can every affine line embedding extend to a full plane automorphism?"
+  },
+  {
+    "title": "Tame Generator Problem",
+    "slug": "tame-generator-problem",
+    "status": "solved-recently",
+    "description": "Are all automorphisms of affine space generated purely by tame automorphisms?"
+  },
+  {
+    "title": "Linearization Problem",
+    "slug": "linearization-problem",
+    "status": "open",
+    "description": "Is every action of a reductive group on affine space strictly linearizable?"
+  },
+  {
+    "title": "Cancellation Problem for Affine Spaces",
+    "slug": "cancellation-problem-for-affine-spaces",
+    "status": "partially-solved",
+    "description": "If a variety multiplied by an affine space is affine, is it?"
+  },
+  {
+    "title": "Gap Conjecture on Group Growth",
+    "slug": "gap-conjecture-on-group-growth",
+    "status": "open",
+    "description": "Is there a gap in group growth between polynomial and intermediate?"
+  },
+  {
+    "title": "Kervaire-Laudenbach Conjecture",
+    "slug": "kervaire-laudenbach-conjecture",
+    "status": "open",
+    "description": "Can a nontrivial group be trivialized by adding one generator and relation?"
+  },
+  {
+    "title": "Alperin's Weight Conjecture",
+    "slug": "alperins-weight-conjecture",
+    "status": "open",
+    "description": "Relates the number of weights of a block to its simple modules."
+  },
+  {
+    "title": "Broue's Abelian Defect Group Conjecture",
+    "slug": "broues-abelian-defect-group-conjecture",
+    "status": "open",
+    "description": "Is a block with an abelian defect group derived equivalent to another?"
+  },
+  {
+    "title": "Donovan's Conjecture",
+    "slug": "donovans-conjecture",
+    "status": "open",
+    "description": "Are Morita equivalence classes of blocks with a given defect group finite?"
+  },
+  {
+    "title": "Puig's Conjecture",
+    "slug": "puigs-conjecture",
+    "status": "open",
+    "description": "Are Puig equivalence classes of blocks with a given defect group finite?"
+  },
+  {
+    "title": "Dade's Ordinary Conjecture",
+    "slug": "dades-ordinary-conjecture",
+    "status": "open",
+    "description": "Relates the number of characters of a finite group to local subgroups."
+  },
+  {
+    "title": "McKay Conjecture",
+    "slug": "mckay-conjecture",
+    "status": "partially-solved",
+    "description": "Do coprime degree characters match those of the normalizer in total count?"
+  },
+  {
+    "title": "Isaacs-Navarro Conjecture",
+    "slug": "isaacs-navarro-conjecture",
+    "status": "open",
+    "description": "Proposes a strong refinement of the McKay conjecture involving prime residues."
+  },
+  {
+    "title": "Ore's Conjecture",
+    "slug": "ores-conjecture",
+    "status": "solved-recently",
+    "description": "Is every element in a finite simple group actually a mathematical commutator?"
+  },
+  {
+    "title": "Schreier Conjecture",
+    "slug": "schreier-conjecture",
+    "status": "solved-recently",
+    "description": "Is the outer automorphism group of a finite simple group always solvable?"
+  },
+  {
+    "title": "Classification of Finite Simple Groups",
+    "slug": "classification-of-finite-simple-groups",
+    "status": "solved-recently",
+    "description": "Is the official list of finite simple groups completely accurate and exhaustive?"
+  },
+  {
+    "title": "Herzog-Schonheim Conjecture",
+    "slug": "herzog-schonheim-conjecture",
+    "status": "open",
+    "description": "If a group is partitioned into cosets, do two share an index?"
+  },
+  {
+    "title": "Tarski Monster Group",
+    "slug": "tarski-monster-group",
+    "status": "solved-recently",
+    "description": "Does there exist a group where every proper subgroup is strictly cyclic?"
+  },
+  {
+    "title": "Kurosh Problem",
+    "slug": "kurosh-problem",
+    "status": "solved-recently",
+    "description": "Is every algebraic algebra necessarily finite-dimensional over its defining base field?"
+  },
+  {
+    "title": "Golod-Shafarevich Theorem",
+    "slug": "golod-shafarevich-theorem",
+    "status": "solved-recently",
+    "description": "Provides a specific condition for a nil algebra to be infinite-dimensional."
+  },
+  {
+    "title": "Baer-Suzuki Theorem",
+    "slug": "baer-suzuki-theorem",
+    "status": "solved-recently",
+    "description": "Generates a guaranteed nilpotent normal subgroup within specific types of finite groups."
+  },
+  {
+    "title": "Gorenstein-Walter Theorem",
+    "slug": "gorenstein-walter-theorem",
+    "status": "solved-recently",
+    "description": "Completely classifies all finite groups possessing dihedral Sylow two-subgroups in pure algebra."
+  },
+  {
+    "title": "Feit-Thompson Theorem",
+    "slug": "feit-thompson-theorem",
+    "status": "solved-recently",
+    "description": "Proves that every finite group of odd order is always perfectly solvable."
+  },
+  {
+    "title": "Burnside's pq Theorem",
+    "slug": "burnsides-pq-theorem",
+    "status": "solved-recently",
+    "description": "Proves every group of order given by two prime powers is solvable."
+  },
+  {
+    "title": "Wall's Conjecture",
+    "slug": "walls-conjecture",
+    "status": "open",
+    "description": "Does the number of maximal subgroups of a group grow sub-exponentially?"
+  },
+  {
+    "title": "Wiegold's Conjecture",
+    "slug": "wiegolds-conjecture",
+    "status": "open",
+    "description": "Is the Schur multiplier of a finite perfect group strictly upper bounded?"
+  },
+  {
+    "title": "Iwahori-Hecke Algebra Isomorphism",
+    "slug": "iwahori-hecke-algebra-isomorphism",
+    "status": "partially-solved",
+    "description": "When is an Iwahori-Hecke algebra fully isomorphic to its corresponding group algebra?"
+  },
+  {
+    "title": "Macdonald Positivity Conjecture",
+    "slug": "macdonald-positivity-conjecture",
+    "status": "solved-recently",
+    "description": "Are the Kostka-Macdonald polynomials always strictly positive in their fundamental underlying coefficients?"
+  },
+  {
+    "title": "Kerov's Conjecture",
+    "slug": "kerovs-conjecture",
+    "status": "open",
+    "description": "Poses fundamental questions about the roots of Jack polynomials in representation theory."
+  },
+  {
+    "title": "Foulkes' Conjecture",
+    "slug": "foulkes-conjecture",
+    "status": "open",
+    "description": "Compares multiplicities of irreducible representations within complex symmetric group plethysm mathematical operations."
+  },
+  {
+    "title": "Kronecker Coefficients Positivity",
+    "slug": "kronecker-coefficients-positivity",
+    "status": "open",
+    "description": "When are the Kronecker coefficients of symmetric groups strictly greater than zero?"
+  },
+  {
+    "title": "Plethysm Problem",
+    "slug": "plethysm-problem",
+    "status": "open",
+    "description": "How can one decompose the plethysm of symmetric functions into Schur functions?"
+  },
+  {
+    "title": "Casselman-Wallach Theorem",
+    "slug": "casselman-wallach-theorem",
+    "status": "solved-recently",
+    "description": "Provides a detailed characterization for smooth representations of reductive algebraic groups."
+  },
+  {
+    "title": "Vogan's Conjecture",
+    "slug": "vogans-conjecture",
+    "status": "partially-solved",
+    "description": "Proposes a robust local Langlands correspondence for real reductive algebraic groups."
+  },
+  {
+    "title": "Adams-Barbasch-Vogan Conjecture",
+    "slug": "adams-barbasch-vogan-conjecture",
+    "status": "partially-solved",
+    "description": "Describes complex Arthur packets specifically for real reductive algebraic mathematical groups."
+  },
+  {
+    "title": "Littelmann Path Model",
+    "slug": "littelmann-path-model",
+    "status": "solved-recently",
+    "description": "Provides a combinatorial path model for generating detailed algebraic representation characters."
+  },
+  {
+    "title": "Mirkovic-Vilonen Cycles",
+    "slug": "mirkovic-vilonen-cycles",
+    "status": "solved-recently",
+    "description": "Gives a direct geometric construction of bases for complex algebraic representations."
+  },
+  {
+    "title": "Nakajima Quiver Varieties",
+    "slug": "nakajima-quiver-varieties",
+    "status": "solved-recently",
+    "description": "Provides a rigorous geometric realization of specific Kac-Moody abstract algebraic representations."
+  },
+  {
+    "title": "Kashiwara's Crystal Base Theory",
+    "slug": "kashiwaras-crystal-base-theory",
+    "status": "solved-recently",
+    "description": "Establishes a pure combinatorial basis for quantum group theoretical algebraic representations."
+  },
+  {
+    "title": "Canonical Basis Positivity",
+    "slug": "canonical-basis-positivity",
+    "status": "solved-recently",
+    "description": "Proves the strict positivity of structure constants within theoretical canonical algebraic bases."
+  },
+  {
+    "title": "Broue-Michel Conjecture",
+    "slug": "broue-michel-conjecture",
+    "status": "open",
+    "description": "Relates Deligne-Lusztig geometric varieties directly to unipotent blocks of finite simple groups."
+  },
+  {
+    "title": "Gelfand-Kirillov Conjecture",
+    "slug": "gelfand-kirillov-conjecture",
+    "status": "partially-solved",
+    "description": "Are fields of fractions of enveloping algebras always isomorphic to Weyl fields?"
+  },
+  {
+    "title": "Poisson-Lie Group Quantization",
+    "slug": "poisson-lie-group-quantization",
+    "status": "solved-recently",
+    "description": "Does every Poisson-Lie group successfully admit a rigorous quantum group deformation?"
+  },
+  {
+    "title": "Kontsevich Formality Theorem",
+    "slug": "kontsevich-formality-theorem",
+    "status": "solved-recently",
+    "description": "Proves the systematic quantization of arbitrary Poisson smooth manifolds in abstract algebra."
+  },
+  {
+    "title": "Etingof-Kazhdan Quantization",
+    "slug": "etingof-kazhdan-quantization",
+    "status": "solved-recently",
+    "description": "Proves the strict quantization of arbitrary Lie bialgebras directly into quantum groups."
+  },
+  {
+    "title": "Drinfeld-Jimbo Quantum Groups",
+    "slug": "drinfeld-jimbo-quantum-groups",
+    "status": "solved-recently",
+    "description": "Defines the standard geometric deformations of arbitrary universal enveloping abstract algebras."
+  },
+  {
+    "title": "Kac-Moody Algebra Classification",
+    "slug": "kac-moody-algebra-classification",
+    "status": "solved-recently",
+    "description": "Exhaustively classifies all generalized Kac-Moody algebras in abstract mathematical representation theory."
+  },
+  {
+    "title": "Monster Lie Algebra",
+    "slug": "monster-lie-algebra",
+    "status": "solved-recently",
+    "description": "Establishes the existence and specific structural properties of the Monster Lie algebra."
+  },
+  {
+    "title": "Moonshine Conjecture",
+    "slug": "moonshine-conjecture",
+    "status": "solved-recently",
+    "description": "Connects the Monster algebraic group directly to complex modular functions."
+  },
+  {
+    "title": "Generalized Moonshine Conjecture",
+    "slug": "generalized-moonshine-conjecture",
+    "status": "partially-solved",
+    "description": "Connects arbitrary elements of the Monster group directly to modular functions."
+  },
+  {
+    "title": "Mathieu Moonshine",
+    "slug": "mathieu-moonshine",
+    "status": "partially-solved",
+    "description": "Connects the Mathieu group to K-three surface elliptic genera in pure geometry."
+  },
+  {
+    "title": "Umbral Moonshine",
+    "slug": "umbral-moonshine",
+    "status": "partially-solved",
+    "description": "Connects unique Niemeier lattices to intricate mock modular forms in algebra."
+  },
+  {
+    "title": "Baumslag-Solitar Group Isomorphism",
+    "slug": "baumslag-solitar-group-isomorphism",
+    "status": "partially-solved",
+    "description": "What is the precise isomorphism problem for Baumslag-Solitar infinite algebraic groups?"
+  },
+  {
+    "title": "Tarski's High School Algebra Problem",
+    "slug": "tarskis-high-school-algebra-problem",
+    "status": "solved-recently",
+    "description": "Are there exponentiation identities entirely unprovable from standard high school algebra rules?"
+  },
+  {
+    "title": "Hilbert's Fourteenth Problem",
+    "slug": "hilberts-fourteenth-problem",
+    "status": "solved-recently",
+    "description": "Is the invariant ring of an algebraic group action always finitely generated?"
+  },
+  {
+    "title": "Positivity Conjecture for Kazhdan-Lusztig Polynomials",
+    "slug": "positivity-conjecture-for-kazhdan-lusztig-polynomials",
+    "status": "solved-recently",
+    "description": "Proves the positivity of coefficients within standard Kazhdan-Lusztig algebraic mathematical polynomials."
+  },
+  {
+    "title": "Jantzen Sum Formula",
+    "slug": "jantzen-sum-formula",
+    "status": "partially-solved",
+    "description": "Computes the precise determinant of a contravariant form on standard Weyl modules."
+  },
+  {
+    "title": "Lusztig's Conjecture on Characters",
+    "slug": "lusztigs-conjecture-on-characters",
+    "status": "partially-solved",
+    "description": "Describes irreducible characters of reductive groups in positive characteristic algebraic fields."
+  },
+  {
+    "title": "Humphreys' Conjecture",
+    "slug": "humphreys-conjecture",
+    "status": "open",
+    "description": "Describes the structural blocks of restricted enveloping algebras of finite Lie algebras."
+  },
+  {
+    "title": "Milnor's Conjecture on Quadratic Forms",
+    "slug": "milnors-conjecture-on-quadratic-forms",
+    "status": "solved-recently",
+    "description": "Relates deep Galois cohomology directly to the fundamental Witt ring structure."
+  },
+  {
+    "title": "Bloch-Kato Conjecture on Galois Cohomology",
+    "slug": "bloch-kato-conjecture-on-galois-cohomology",
+    "status": "solved-recently",
+    "description": "Generalizes Milnor's profound conjecture on quadratic forms to completely arbitrary prime numbers."
+  },
+  {
+    "title": "Beilinson's Conjectures",
+    "slug": "beilinsons-conjectures",
+    "status": "open",
+    "description": "Relates complex values of L-functions directly to motivic algebraic cohomology theory."
+  },
+  {
+    "title": "Voevodsky's Derived Category of Motives",
+    "slug": "voevodskys-derived-category-of-motives",
+    "status": "solved-recently",
+    "description": "Constructs the robust triangulated category of mixed motives in pure algebraic geometry."
+  },
+  {
+    "title": "Hodge Conjecture",
+    "slug": "hodge-conjecture",
+    "status": "open",
+    "description": "Are all rational Hodge classes on a projective complex manifold strictly algebraic?"
   }
 ]

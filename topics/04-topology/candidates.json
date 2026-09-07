@@ -1,0 +1,554 @@
+[
+  {
+    "title": "Smooth 4D Poincare Conjecture",
+    "slug": "smooth-4d-poincare-conjecture",
+    "status": "open",
+    "description": "Every homotopy 4-sphere is diffeomorphic to the standard 4-sphere."
+  },
+  {
+    "title": "Slice-Ribbon Conjecture",
+    "slug": "slice-ribbon-conjecture",
+    "status": "open",
+    "description": "Every slice knot in three-dimensional space is actually a ribbon knot."
+  },
+  {
+    "title": "Volume Conjecture",
+    "slug": "volume-conjecture",
+    "status": "open",
+    "description": "Asymptotic behavior of colored Jones polynomials relates to knot complement hyperbolic volume."
+  },
+  {
+    "title": "Unknotting Problem in P",
+    "slug": "unknotting-problem-in-p",
+    "status": "open",
+    "description": "Does a polynomial-time algorithm exist to determine if a knot is trivial."
+  },
+  {
+    "title": "11/8 Conjecture",
+    "slug": "11-8-conjecture",
+    "status": "open",
+    "description": "Bounds the betti numbers and signature of smooth spin 4-manifolds."
+  },
+  {
+    "title": "Whitehead Conjecture",
+    "slug": "whitehead-conjecture",
+    "status": "partially-solved",
+    "description": "Every subcomplex of an aspherical two-dimensional complex is itself aspherical."
+  },
+  {
+    "title": "Zeeman Conjecture",
+    "slug": "zeeman-conjecture",
+    "status": "open",
+    "description": "Adding a one-cell to a contractible two-complex makes it collapsible."
+  },
+  {
+    "title": "Cabling Conjecture",
+    "slug": "cabling-conjecture",
+    "status": "open",
+    "description": "Only cable knots admit Dehn surgeries yielding a reducible manifold."
+  },
+  {
+    "title": "Berge Conjecture",
+    "slug": "berge-conjecture",
+    "status": "partially-solved",
+    "description": "Classifies knots admitting Dehn surgeries that yield lens spaces."
+  },
+  {
+    "title": "L-space Conjecture",
+    "slug": "l-space-conjecture",
+    "status": "open",
+    "description": "Relates Heegaard Floer homology to fundamental group orderability and taut foliations."
+  },
+  {
+    "title": "Cosmetic Surgery Conjecture",
+    "slug": "cosmetic-surgery-conjecture",
+    "status": "open",
+    "description": "No two distinct Dehn surgeries on a knot yield homeomorphic manifolds."
+  },
+  {
+    "title": "Cosmetic Crossing Conjecture",
+    "slug": "cosmetic-crossing-conjecture",
+    "status": "open",
+    "description": "Changing a crossing in a knot projection cannot preserve its oriented type."
+  },
+  {
+    "title": "Nakanishi's 4-move Conjecture",
+    "slug": "nakanishis-4-move-conjecture",
+    "status": "open",
+    "description": "Every knot can be unknotted using a sequence of four-moves."
+  },
+  {
+    "title": "Montesinos Conjecture",
+    "slug": "montesinos-conjecture",
+    "status": "open",
+    "description": "Classifies amphicheiral knots with specific branched double covers."
+  },
+  {
+    "title": "Smooth Schoenflies Problem",
+    "slug": "smooth-schoenflies-problem",
+    "status": "open",
+    "description": "Does every embedded 3-sphere in 4-space bound a standard smooth 4-ball."
+  },
+  {
+    "title": "Halperin Conjecture",
+    "slug": "halperin-conjecture",
+    "status": "open",
+    "description": "Relates rational cohomology of certain spaces to their minimal Sullivan models."
+  },
+  {
+    "title": "Moore's Conjecture",
+    "slug": "moores-conjecture",
+    "status": "open",
+    "description": "Relates the homotopy groups of finite complexes to their homology."
+  },
+  {
+    "title": "Freyd's Generating Hypothesis",
+    "slug": "freyds-generating-hypothesis",
+    "status": "open",
+    "description": "Homotopy classes of stable maps are detected by their action on homology."
+  },
+  {
+    "title": "Kervaire Invariant One Problem",
+    "slug": "kervaire-invariant-one-problem",
+    "status": "solved-recently",
+    "description": "Determines the dimensions in which framed manifolds have Kervaire invariant one."
+  },
+  {
+    "title": "Triangulation Conjecture",
+    "slug": "triangulation-conjecture",
+    "status": "solved-recently",
+    "description": "Not all topological manifolds can be triangulated as simplicial complexes."
+  },
+  {
+    "title": "Hauptvermutung",
+    "slug": "hauptvermutung",
+    "status": "solved-recently",
+    "description": "Two triangulations of a space do not always share a common refinement."
+  },
+  {
+    "title": "Poincare Conjecture",
+    "slug": "poincare-conjecture",
+    "status": "solved-recently",
+    "description": "Every simply connected closed 3-manifold is homeomorphic to the 3-sphere."
+  },
+  {
+    "title": "Geometrization Conjecture",
+    "slug": "geometrization-conjecture",
+    "status": "solved-recently",
+    "description": "Every closed 3-manifold can be decomposed into pieces with standard geometries."
+  },
+  {
+    "title": "Property P Conjecture",
+    "slug": "property-p-conjecture",
+    "status": "solved-recently",
+    "description": "Non-trivial Dehn surgery on a non-trivial knot cannot yield simply-connected manifolds."
+  },
+  {
+    "title": "Smith Conjecture",
+    "slug": "smith-conjecture",
+    "status": "solved-recently",
+    "description": "Fixed point sets of periodic homeomorphisms of the 3-sphere cannot be knotted."
+  },
+  {
+    "title": "Milnor's Conjecture on Torus Knots",
+    "slug": "milnors-conjecture-on-torus-knots",
+    "status": "solved-recently",
+    "description": "Determines the slice genus of torus knots."
+  },
+  {
+    "title": "Cobordism Hypothesis",
+    "slug": "cobordism-hypothesis",
+    "status": "solved-recently",
+    "description": "Classifies fully extended topological quantum field theories via their value on points."
+  },
+  {
+    "title": "Tait Flyping Conjecture",
+    "slug": "tait-flyping-conjecture",
+    "status": "solved-recently",
+    "description": "Reduced alternating diagrams of the same knot are related by flypes."
+  },
+  {
+    "title": "Tait Alternating Knot Conjecture",
+    "slug": "tait-alternating-knot-conjecture",
+    "status": "solved-recently",
+    "description": "Reduced alternating diagrams have the minimal number of crossings possible."
+  },
+  {
+    "title": "Hofer's Conjecture",
+    "slug": "hofers-conjecture",
+    "status": "open",
+    "description": "Concerns the geometry of the group of Hamiltonian symplectomorphisms."
+  },
+  {
+    "title": "Nearby Lagrangian Conjecture",
+    "slug": "nearby-lagrangian-conjecture",
+    "status": "open",
+    "description": "Closed exact Lagrangian submanifolds are Hamiltonian isotopic to the zero section."
+  },
+  {
+    "title": "Atiyah Conjecture on L2-Betti Numbers",
+    "slug": "atiyah-conjecture-on-l2-betti-numbers",
+    "status": "partially-solved",
+    "description": "The L2-Betti numbers of a finite complex with torsion-free group are integers."
+  },
+  {
+    "title": "Kaplansky Zero Divisor Conjecture",
+    "slug": "kaplansky-zero-divisor-conjecture",
+    "status": "partially-solved",
+    "description": "The group ring of a torsion-free group has no zero divisors."
+  },
+  {
+    "title": "Hopf Conjecture on Curvature",
+    "slug": "hopf-conjecture-on-curvature",
+    "status": "open",
+    "description": "Compact even-dimensional manifolds with negative sectional curvature have positive Euler characteristic."
+  },
+  {
+    "title": "Chern's Conjecture on Affine Manifolds",
+    "slug": "cherns-conjecture-on-affine-manifolds",
+    "status": "open",
+    "description": "The Euler characteristic of a compact affine manifold is always zero."
+  },
+  {
+    "title": "Singer Conjecture",
+    "slug": "singer-conjecture",
+    "status": "open",
+    "description": "The L2-cohomology of a closed aspherical manifold vanishes outside the middle dimension."
+  },
+  {
+    "title": "Gromov's Filling Area Conjecture",
+    "slug": "gromovs-filling-area-conjecture",
+    "status": "solved-recently",
+    "description": "The hemisphere minimizes filling area among surfaces with a given boundary."
+  },
+  {
+    "title": "Borsuk's Conjecture",
+    "slug": "borsuks-conjecture",
+    "status": "solved-recently",
+    "description": "Can every set in n-dimensional space be divided into smaller diameter subsets."
+  },
+  {
+    "title": "Kneser-Poulsen Conjecture",
+    "slug": "kneser-poulsen-conjecture",
+    "status": "solved-recently",
+    "description": "Rearranging centers to decrease pairwise distances decreases union volume of balls."
+  },
+  {
+    "title": "Hirsch's Conjecture",
+    "slug": "hirschs-conjecture",
+    "status": "solved-recently",
+    "description": "Bounds the diameter of the graph of a convex polytope."
+  },
+  {
+    "title": "g-Conjecture",
+    "slug": "g-conjecture",
+    "status": "solved-recently",
+    "description": "Characterizes the possible face numbers of simplicial spheres."
+  },
+  {
+    "title": "Charney-Davis Conjecture",
+    "slug": "charney-davis-conjecture",
+    "status": "open",
+    "description": "Flag complexes of rational homology manifolds satisfy specific Euler characteristic bounds."
+  },
+  {
+    "title": "Galewski-Stern Conjecture",
+    "slug": "galewski-stern-conjecture",
+    "status": "solved-recently",
+    "description": "Concerns existence of a homology 3-sphere with specific Rokhlin invariant properties."
+  },
+  {
+    "title": "Lusternik-Schnirelmann Category of Spheres",
+    "slug": "lusternik-schnirelmann-category-of-spheres",
+    "status": "solved-recently",
+    "description": "Determines the minimal number of contractible open sets covering a manifold."
+  },
+  {
+    "title": "Milnor's Degree of Mappings Conjecture",
+    "slug": "milnors-degree-of-mappings-conjecture",
+    "status": "partially-solved",
+    "description": "Relates mapping degrees between manifolds to their fundamental groups."
+  },
+  {
+    "title": "Eilenberg-Zilber Theorem",
+    "slug": "eilenberg-zilber-theorem",
+    "status": "solved-recently",
+    "description": "Calculates the homology of the Cartesian product of two topological spaces."
+  },
+  {
+    "title": "Kashaev's Volume Conjecture",
+    "slug": "kashaevs-volume-conjecture",
+    "status": "open",
+    "description": "Relates the Kashaev invariant of a knot to its hyperbolic volume."
+  },
+  {
+    "title": "AJ Conjecture",
+    "slug": "aj-conjecture",
+    "status": "open",
+    "description": "Relates the A-polynomial of a knot to its colored Jones polynomials."
+  },
+  {
+    "title": "Slope Conjecture",
+    "slug": "slope-conjecture",
+    "status": "open",
+    "description": "The degree of colored Jones polynomials relates to boundary slopes of knots."
+  },
+  {
+    "title": "Strong Slope Conjecture",
+    "slug": "strong-slope-conjecture",
+    "status": "open",
+    "description": "Refines the slope conjecture linking colored Jones polynomials to essential surfaces."
+  },
+  {
+    "title": "LMOV Conjecture",
+    "slug": "lmov-conjecture",
+    "status": "partially-solved",
+    "description": "Relates Chern-Simons partition functions to BPS states in string theory."
+  },
+  {
+    "title": "Witten's Conjecture",
+    "slug": "wittens-conjecture",
+    "status": "solved-recently",
+    "description": "Relates intersection numbers on moduli spaces of curves to the KdV equation."
+  },
+  {
+    "title": "Gopakumar-Vafa Conjecture",
+    "slug": "gopakumar-vafa-conjecture",
+    "status": "partially-solved",
+    "description": "Expresses Gromov-Witten invariants in terms of integer BPS state counts."
+  },
+  {
+    "title": "Quantum Modularity Conjecture",
+    "slug": "quantum-modularity-conjecture",
+    "status": "empirically-supported",
+    "description": "Asserts quantum invariants of knots exhibit properties of modular forms."
+  },
+  {
+    "title": "HOMFLYPT Skein Module Finite Generation",
+    "slug": "homflypt-skein-module-finite-generation",
+    "status": "partially-solved",
+    "description": "The HOMFLYPT skein module of a compact 3-manifold is finitely generated."
+  },
+  {
+    "title": "Kauffman Bracket Skein Module Finite Generation",
+    "slug": "kauffman-bracket-skein-module-finite-generation",
+    "status": "solved-recently",
+    "description": "The Kauffman bracket skein module of any closed 3-manifold is finitely generated."
+  },
+  {
+    "title": "Witten-Reshetikhin-Turaev Asymptotics",
+    "slug": "witten-reshetikhin-turaev-asymptotics",
+    "status": "partially-solved",
+    "description": "Describes the large level asymptotic behavior of quantum invariants of 3-manifolds."
+  },
+  {
+    "title": "AMU Conjecture",
+    "slug": "amu-conjecture",
+    "status": "open",
+    "description": "Pseudo-Anosov mapping classes act on skein modules with exponentially growing traces."
+  },
+  {
+    "title": "Turaev-Viro Invariants Asymptotics",
+    "slug": "turaev-viro-invariants-asymptotics",
+    "status": "partially-solved",
+    "description": "Relates the asymptotic behavior of Turaev-Viro invariants to hyperbolic volumes."
+  },
+  {
+    "title": "Colored Jones Polynomial Stability",
+    "slug": "colored-jones-polynomial-stability",
+    "status": "partially-solved",
+    "description": "The coefficients of colored Jones polynomials of a knot eventually stabilize."
+  },
+  {
+    "title": "3D-3D Correspondence",
+    "slug": "3d-3d-correspondence",
+    "status": "empirically-supported",
+    "description": "Relates supersymmetric gauge theories on 3-manifolds to topological invariants."
+  },
+  {
+    "title": "Khovanov Homology Detects the Unknot",
+    "slug": "khovanov-homology-detects-the-unknot",
+    "status": "solved-recently",
+    "description": "Khovanov homology can distinguish the unknot from all other knots."
+  },
+  {
+    "title": "Combinatorial Definition of Rasmussen s-invariant",
+    "slug": "combinatorial-definition-of-rasmussen-s-invariant",
+    "status": "open",
+    "description": "Seeking a purely combinatorial computation of the Rasmussen s-invariant without homology."
+  },
+  {
+    "title": "Kronheimer-Mrowka P-property",
+    "slug": "kronheimer-mrowka-p-property",
+    "status": "solved-recently",
+    "description": "Instanton Floer homology detects the unknot."
+  },
+  {
+    "title": "Gordon-Luecke Theorem",
+    "slug": "gordon-luecke-theorem",
+    "status": "solved-recently",
+    "description": "Knots in the 3-sphere are determined by their complements."
+  },
+  {
+    "title": "Exotic Spheres in Dimension 4",
+    "slug": "exotic-spheres-in-dimension-4",
+    "status": "open",
+    "description": "Do exotic smooth structures exist on the 4-sphere."
+  },
+  {
+    "title": "Classification of Exotic R4s",
+    "slug": "classification-of-exotic-r4s",
+    "status": "open",
+    "description": "Can we completely classify all uncountable exotic smooth structures on Euclidean 4-space."
+  },
+  {
+    "title": "Fintushel-Stern Knot Surgery",
+    "slug": "fintushel-stern-knot-surgery",
+    "status": "solved-recently",
+    "description": "Knot surgery produces infinitely many exotic smooth structures on 4-manifolds."
+  },
+  {
+    "title": "Akbulut Corks Existence",
+    "slug": "akbulut-corks-existence",
+    "status": "solved-recently",
+    "description": "Any two homeomorphic smooth simply connected 4-manifolds are related by cork twists."
+  },
+  {
+    "title": "Unknotting Number Computation",
+    "slug": "unknotting-number-computation",
+    "status": "open",
+    "description": "Finding an efficient algorithm to compute the minimal unknotting number of knots."
+  },
+  {
+    "title": "Fox-Artin Arc Problem",
+    "slug": "fox-artin-arc-problem",
+    "status": "partially-solved",
+    "description": "Classifies wild arcs in 3-dimensional space up to ambient isotopy."
+  },
+  {
+    "title": "Bing's Recognition Problem",
+    "slug": "bings-recognition-problem",
+    "status": "open",
+    "description": "Characterizing topological spaces that are homeomorphic to the standard 3-sphere."
+  },
+  {
+    "title": "Sullivan Conjecture",
+    "slug": "sullivan-conjecture",
+    "status": "solved-recently",
+    "description": "Relates the fixed point set of finite group actions to localized spaces."
+  },
+  {
+    "title": "Segal Conjecture",
+    "slug": "segal-conjecture",
+    "status": "solved-recently",
+    "description": "Relates the stable cohomotopy of classifying spaces to Burnside rings."
+  },
+  {
+    "title": "Ravenel's Conjectures",
+    "slug": "ravenels-conjectures",
+    "status": "solved-recently",
+    "description": "Describes the large-scale structure of the stable homotopy category of spheres."
+  },
+  {
+    "title": "Nilpotence Theorem",
+    "slug": "nilpotence-theorem",
+    "status": "solved-recently",
+    "description": "Characterizes nilpotent self-maps of finite CW complexes in stable homotopy theory."
+  },
+  {
+    "title": "Chromatic Convergence Theorem",
+    "slug": "chromatic-convergence-theorem",
+    "status": "solved-recently",
+    "description": "The p-local sphere spectrum can be recovered from its chromatic localizations."
+  },
+  {
+    "title": "Ganea Conjecture",
+    "slug": "ganea-conjecture",
+    "status": "solved-recently",
+    "description": "Adding a cell to a space increases its Lusternik-Schnirelmann category by one."
+  },
+  {
+    "title": "Smale's Paradox",
+    "slug": "smales-paradox",
+    "status": "solved-recently",
+    "description": "A standard 2-sphere can be turned inside out smoothly without tearing."
+  },
+  {
+    "title": "Yau's Conjecture on Minimal Surfaces",
+    "slug": "yaus-conjecture-on-minimal-surfaces",
+    "status": "partially-solved",
+    "description": "Every closed Riemannian 3-manifold contains infinitely many smooth closed minimal surfaces."
+  },
+  {
+    "title": "Kadomtsev-Petviashvili Equation and Novikov",
+    "slug": "kadomtsev-petviashvili-equation-and-novikov",
+    "status": "solved-recently",
+    "description": "Solves the Schottky problem characterizing Jacobians using the KP equation."
+  },
+  {
+    "title": "Suslin's Conjecture",
+    "slug": "suslins-conjecture",
+    "status": "partially-solved",
+    "description": "Relates algebraic K-theory of fields to their etale cohomology."
+  },
+  {
+    "title": "Lichtenbaum-Quillen Conjecture",
+    "slug": "lichtenbaum-quillen-conjecture",
+    "status": "solved-recently",
+    "description": "Relates the algebraic K-theory of rings of integers to etale cohomology."
+  },
+  {
+    "title": "Beilinson-Lichtenbaum Conjecture",
+    "slug": "beilinson-lichtenbaum-conjecture",
+    "status": "solved-recently",
+    "description": "Asserts motivic cohomology complexes compute etale cohomology in specific degrees."
+  },
+  {
+    "title": "Gromov-Witten Invariants Integrality",
+    "slug": "gromov-witten-invariants-integrality",
+    "status": "partially-solved",
+    "description": "Certain combinations of Gromov-Witten invariants are integers due to underlying geometry."
+  },
+  {
+    "title": "Ooguri-Vafa-Witten Invariants",
+    "slug": "ooguri-vafa-witten-invariants",
+    "status": "open",
+    "description": "Provides an integer invariant structure underlying colored Jones polynomials of knots."
+  },
+  {
+    "title": "Categorification of Witten-Reshetikhin-Turaev Invariants",
+    "slug": "categorification-of-witten-reshetikhin-turaev-invariants",
+    "status": "open",
+    "description": "Finding a homology theory whose Euler characteristic recovers WRT quantum invariants."
+  },
+  {
+    "title": "Khovanov Homotopy Type Properties",
+    "slug": "khovanov-homotopy-type-properties",
+    "status": "partially-solved",
+    "description": "Exploring stable homotopy refinements of Khovanov homology for knots and links."
+  },
+  {
+    "title": "Szabo's Geometric Spectral Sequence",
+    "slug": "szabos-geometric-spectral-sequence",
+    "status": "open",
+    "description": "Constructs a combinatorial spectral sequence from Khovanov homology to Heegaard Floer homology."
+  },
+  {
+    "title": "Manolescu's Floer Homotopy Theory",
+    "slug": "manolescus-floer-homotopy-theory",
+    "status": "partially-solved",
+    "description": "Extending Seiberg-Witten Floer homology to a stable homotopy type for 3-manifolds."
+  },
+  {
+    "title": "Gukov-Peacock-Putrov Conjecture",
+    "slug": "gukov-peacock-putrov-conjecture",
+    "status": "empirically-supported",
+    "description": "Predicts specific relations between homological blocks and quantum invariants."
+  },
+  {
+    "title": "Jones Polynomial Detecting the Unknot",
+    "slug": "jones-polynomial-detecting-the-unknot",
+    "status": "open",
+    "description": "Does the Jones polynomial distinguish the trivial knot from all other knots."
+  }
+]

@@ -4,3 +4,4 @@ Representation theory, classification of groups, ring & module theory, homologic
 
 ## Problems Index
 
+* 🟡 [Congruence Subgroup Problem](./congruence-subgroup-problem.md) — Does every finite index subgroup contain a principal congruence subgroup?

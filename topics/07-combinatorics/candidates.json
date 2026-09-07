@@ -1,0 +1,650 @@
+[
+  {
+    "title": "Hadwiger Conjecture",
+    "slug": "hadwiger-conjecture",
+    "status": "open",
+    "description": "Every graph with chromatic number k has a complete k minor."
+  },
+  {
+    "title": "Erd\u0151s-Faber-Lov\u00e1sz Conjecture",
+    "slug": "erdos-faber-lovasz-conjecture",
+    "status": "solved-recently",
+    "description": "The union of k complete graphs of order k is k colorable."
+  },
+  {
+    "title": "Graceful Tree Conjecture",
+    "slug": "graceful-tree-conjecture",
+    "status": "open",
+    "description": "Every tree admits a graceful labeling of its vertices."
+  },
+  {
+    "title": "Ringel's Conjecture",
+    "slug": "ringels-conjecture",
+    "status": "solved-recently",
+    "description": "Every complete graph of odd order decomposes into identical trees."
+  },
+  {
+    "title": "Graph Reconstruction Conjecture",
+    "slug": "graph-reconstruction-conjecture",
+    "status": "open",
+    "description": "Graphs are determined uniquely by their vertex deleted subgraphs."
+  },
+  {
+    "title": "Edge Reconstruction Conjecture",
+    "slug": "edge-reconstruction-conjecture",
+    "status": "open",
+    "description": "Graphs with enough edges are determined by edge deleted subgraphs."
+  },
+  {
+    "title": "Berge-Fulkerson Conjecture",
+    "slug": "berge-fulkerson-conjecture",
+    "status": "open",
+    "description": "Bridgeless cubic graphs have six perfect matchings covering edges twice."
+  },
+  {
+    "title": "Cycle Double Cover Conjecture",
+    "slug": "cycle-double-cover-conjecture",
+    "status": "open",
+    "description": "Every bridgeless graph has a family of cycles covering edges twice."
+  },
+  {
+    "title": "Lov\u00e1sz Conjecture on Hamiltonian Paths",
+    "slug": "lovasz-conjecture-hamiltonian",
+    "status": "open",
+    "description": "Every connected vertex transitive graph contains a Hamiltonian path."
+  },
+  {
+    "title": "Barnette's Conjecture",
+    "slug": "barnettes-conjecture",
+    "status": "open",
+    "description": "Every bipartite cubic polyhedral graph is Hamiltonian."
+  },
+  {
+    "title": "Tutte's 5-Flow Conjecture",
+    "slug": "tuttes-5-flow-conjecture",
+    "status": "open",
+    "description": "Every bridgeless graph has a nowhere zero integer five flow."
+  },
+  {
+    "title": "Tutte's 4-Flow Conjecture",
+    "slug": "tuttes-4-flow-conjecture",
+    "status": "open",
+    "description": "Every bridgeless graph without Petersen minors has a four flow."
+  },
+  {
+    "title": "Tutte's 3-Flow Conjecture",
+    "slug": "tuttes-3-flow-conjecture",
+    "status": "open",
+    "description": "Every four edge connected graph has a nowhere zero three flow."
+  },
+  {
+    "title": "Jaeger's 8-Flow Conjecture",
+    "slug": "jaegers-8-flow-conjecture",
+    "status": "open",
+    "description": "Every five edge connected graph has a nowhere zero three flow."
+  },
+  {
+    "title": "Petersen Coloring Conjecture",
+    "slug": "petersen-coloring-conjecture",
+    "status": "open",
+    "description": "Every bridgeless cubic graph maps homomorphically to the Petersen graph."
+  },
+  {
+    "title": "Hedetniemi's Conjecture",
+    "slug": "hedetniemis-conjecture",
+    "status": "solved-recently",
+    "description": "The chromatic number of a tensor product equals the minimum factor."
+  },
+  {
+    "title": "Vizing's Planar Graph Conjecture",
+    "slug": "vizings-planar-graph-conjecture",
+    "status": "open",
+    "description": "Every planar graph has an edge coloring using maximum degree colors."
+  },
+  {
+    "title": "Total Coloring Conjecture",
+    "slug": "total-coloring-conjecture",
+    "status": "open",
+    "description": "Total chromatic number never exceeds maximum degree plus two."
+  },
+  {
+    "title": "List Coloring Conjecture",
+    "slug": "list-coloring-conjecture",
+    "status": "open",
+    "description": "The list chromatic index of a graph equals its chromatic index."
+  },
+  {
+    "title": "Erd\u0151s-Rubin-Taylor Conjecture",
+    "slug": "erdos-rubin-taylor-conjecture",
+    "status": "partially-solved",
+    "description": "The choice number of a graph relates to its average degree."
+  },
+  {
+    "title": "Alon-Tarsi Conjecture",
+    "slug": "alon-tarsi-conjecture",
+    "status": "open",
+    "description": "Even and odd Eulerian subgraphs differ in bipartite graphs."
+  },
+  {
+    "title": "Meyniel's Conjecture",
+    "slug": "meyniels-conjecture",
+    "status": "open",
+    "description": "Cop number is bounded by the square root of graph vertices."
+  },
+  {
+    "title": "Zarankiewicz Problem",
+    "slug": "zarankiewicz-problem",
+    "status": "open",
+    "description": "Maximum edges in graphs avoiding complete bipartite subgraphs."
+  },
+  {
+    "title": "Tur\u00e1n's Brick Factory Problem",
+    "slug": "turans-brick-factory-problem",
+    "status": "open",
+    "description": "Find the crossing number of complete bipartite graphs."
+  },
+  {
+    "title": "Erd\u0151s-S\u00f3s Conjecture",
+    "slug": "erdos-sos-conjecture",
+    "status": "open",
+    "description": "Graphs with enough edges contain all trees of a specific size."
+  },
+  {
+    "title": "Loebl-Koml\u00f3s-Szemer\u00e9di Conjecture",
+    "slug": "loebl-komlos-szemeredi-conjecture",
+    "status": "solved-recently",
+    "description": "Graphs with many large degree vertices contain large trees."
+  },
+  {
+    "title": "Kelly's Conjecture",
+    "slug": "kellys-conjecture",
+    "status": "solved-recently",
+    "description": "Every regular tournament can be decomposed into directed Hamiltonian cycles."
+  },
+  {
+    "title": "Sumner's Universal Tournament Conjecture",
+    "slug": "sumners-conjecture",
+    "status": "partially-solved",
+    "description": "Large tournaments contain all directed trees of a certain size."
+  },
+  {
+    "title": "Burr-Erd\u0151s Conjecture",
+    "slug": "burr-erdos-conjecture",
+    "status": "solved-recently",
+    "description": "Sparse graphs have linearly bounded Ramsey numbers."
+  },
+  {
+    "title": "Rota's Conjecture",
+    "slug": "rotas-conjecture",
+    "status": "solved-recently",
+    "description": "The excluded minors for matroids over finite fields are finite."
+  },
+  {
+    "title": "Polynomial Hirsch Conjecture",
+    "slug": "polynomial-hirsch-conjecture",
+    "status": "open",
+    "description": "Polytope graphs have diameters bounded by a polynomial in facets."
+  },
+  {
+    "title": "Frankl's Union-Closed Sets Conjecture",
+    "slug": "frankls-conjecture",
+    "status": "partially-solved",
+    "description": "Union closed set families have an element in half the sets."
+  },
+  {
+    "title": "Chv\u00e1tal's Toughness Conjecture",
+    "slug": "chvatals-toughness-conjecture",
+    "status": "open",
+    "description": "There exists a toughness threshold guaranteeing a graph is Hamiltonian."
+  },
+  {
+    "title": "Thomassen's Chordal Graph Conjecture",
+    "slug": "thomassens-chordal-graph-conjecture",
+    "status": "open",
+    "description": "Every highly connected chordal graph has a Hamiltonian cycle."
+  },
+  {
+    "title": "Erd\u0151s-Hajnal Conjecture",
+    "slug": "erdos-hajnal-conjecture",
+    "status": "partially-solved",
+    "description": "Graphs without a specific induced subgraph have large homogeneous subsets."
+  },
+  {
+    "title": "Ramsey Number R(5,5)",
+    "slug": "ramsey-number-r-5-5",
+    "status": "open",
+    "description": "Find the exact value of the fifth diagonal Ramsey number."
+  },
+  {
+    "title": "Empty Hexagon Problem",
+    "slug": "empty-hexagon-problem",
+    "status": "solved-recently",
+    "description": "Any large planar point set contains an empty convex hexagon."
+  },
+  {
+    "title": "Sunflower Conjecture",
+    "slug": "sunflower-conjecture",
+    "status": "partially-solved",
+    "description": "Bounding the size of set systems lacking large sunflowers."
+  },
+  {
+    "title": "Cap Set Problem",
+    "slug": "cap-set-problem",
+    "status": "solved-recently",
+    "description": "Maximum size of subset avoiding three term arithmetic progressions."
+  },
+  {
+    "title": "Polynomial Freiman-Ruzsa Conjecture",
+    "slug": "polynomial-freiman-ruzsa-conjecture",
+    "status": "solved-recently",
+    "description": "Subsets with small doubling have polynomial size equivalent algebraic structures."
+  },
+  {
+    "title": "Erd\u0151s-Szemer\u00e9di Sum-Product Conjecture",
+    "slug": "erdos-szemeredi-sum-product-conjecture",
+    "status": "open",
+    "description": "Finite sets of integers have either many sums or many products."
+  },
+  {
+    "title": "Lonely Runner Conjecture",
+    "slug": "lonely-runner-conjecture",
+    "status": "open",
+    "description": "Runners on a circular track will eventually all be separated."
+  },
+  {
+    "title": "Hadwiger-Nelson Problem",
+    "slug": "hadwiger-nelson-problem",
+    "status": "partially-solved",
+    "description": "Find the chromatic number of the geometric plane."
+  },
+  {
+    "title": "Graph Isomorphism Problem",
+    "slug": "graph-isomorphism-problem",
+    "status": "partially-solved",
+    "description": "Determine if two finite graphs are structurally identical in polynomial time."
+  },
+  {
+    "title": "Sensitivity Conjecture",
+    "slug": "sensitivity-conjecture",
+    "status": "solved-recently",
+    "description": "The sensitivity of a boolean function polynomially bounds its degree."
+  },
+  {
+    "title": "Log-Rank Conjecture",
+    "slug": "log-rank-conjecture",
+    "status": "open",
+    "description": "Communication complexity is polynomially bounded by the matrix log rank."
+  },
+  {
+    "title": "Sidorenko's Conjecture",
+    "slug": "sidorenkos-conjecture",
+    "status": "partially-solved",
+    "description": "Bipartite graph homomorphism densities have a specific lower bound."
+  },
+  {
+    "title": "Forcing Conjecture",
+    "slug": "forcing-conjecture",
+    "status": "open",
+    "description": "Perfect matchings in bipartite graphs can be uniquely forced."
+  },
+  {
+    "title": "Singmaster's Conjecture",
+    "slug": "singmasters-conjecture",
+    "status": "open",
+    "description": "Bounding how often an integer appears in the Pascal triangle."
+  },
+  {
+    "title": "Erd\u0151s Discrepancy Problem",
+    "slug": "erdos-discrepancy-problem",
+    "status": "solved-recently",
+    "description": "Infinite sequences of ones and negative ones have unbounded discrepancy."
+  },
+  {
+    "title": "Conway's Thrackle Conjecture",
+    "slug": "conways-thrackle-conjecture",
+    "status": "open",
+    "description": "The number of edges in a thrackle cannot exceed its vertices."
+  },
+  {
+    "title": "Erd\u0151s-Szekeres Conjecture",
+    "slug": "erdos-szekeres-conjecture",
+    "status": "open",
+    "description": "Determine the number of points ensuring a convex polygon."
+  },
+  {
+    "title": "Harborth's Conjecture",
+    "slug": "harborths-conjecture",
+    "status": "open",
+    "description": "Every planar graph can be drawn with integer edge lengths."
+  },
+  {
+    "title": "Kemnitz's Conjecture",
+    "slug": "kemnitzs-conjecture",
+    "status": "solved-recently",
+    "description": "Sets of lattice points contain subsets with an integer centroid."
+  },
+  {
+    "title": "Tuza's Conjecture",
+    "slug": "tuzas-conjecture",
+    "status": "open",
+    "description": "Bounding the ratio of minimum triangle cover to maximum triangle packing."
+  },
+  {
+    "title": "Woodall's Conjecture",
+    "slug": "woodalls-conjecture",
+    "status": "open",
+    "description": "Directed graph cuts dictate the maximum number of disjoint cycles."
+  },
+  {
+    "title": "Oberwolfach Problem",
+    "slug": "oberwolfach-problem",
+    "status": "solved-recently",
+    "description": "Seating attendees at round tables of specified sizes across multiple dinners."
+  },
+  {
+    "title": "Seymour's Second Neighborhood Conjecture",
+    "slug": "seymours-second-neighborhood-conjecture",
+    "status": "open",
+    "description": "Every directed graph has a vertex with a large second neighborhood."
+  },
+  {
+    "title": "Caccetta-H\u00e4ggkvist Conjecture",
+    "slug": "caccetta-haggkvist-conjecture",
+    "status": "open",
+    "description": "Directed graphs with sufficient out degree must contain a short cycle."
+  },
+  {
+    "title": "Jackson's Conjecture",
+    "slug": "jacksons-conjecture",
+    "status": "open",
+    "description": "Strongly connected regular digraphs contain a Hamiltonian cycle."
+  },
+  {
+    "title": "Matthews-Sumner Conjecture",
+    "slug": "matthews-sumner-conjecture",
+    "status": "open",
+    "description": "Every four connected claw free graph contains a Hamiltonian cycle."
+  },
+  {
+    "title": "Bondy's Meta-Conjecture",
+    "slug": "bondys-meta-conjecture",
+    "status": "open",
+    "description": "Conditions ensuring a Hamiltonian cycle also ensure specific cycle lengths."
+  },
+  {
+    "title": "Erd\u0151s-Ko-Rado Theorem q-analogue",
+    "slug": "erdos-ko-rado-q-analogue",
+    "status": "solved-recently",
+    "description": "Bounding the size of intersecting families of vector spaces."
+  },
+  {
+    "title": "Bollob\u00e1s-Eldridge-Catlin Conjecture",
+    "slug": "bollobas-eldridge-catlin-conjecture",
+    "status": "solved-recently",
+    "description": "Graphs can be partitioned into specific dense subgraphs."
+  },
+  {
+    "title": "Haj\u00f3s Conjecture",
+    "slug": "hajos-conjecture",
+    "status": "solved-recently",
+    "description": "High chromatic number graphs contain complete graph subdivisions."
+  },
+  {
+    "title": "Gy\u00e1rf\u00e1s-Sumner Conjecture",
+    "slug": "gyarfas-sumner-conjecture",
+    "status": "partially-solved",
+    "description": "Graphs excluding a tree and clique are bounded in chromatic number."
+  },
+  {
+    "title": "Graph Minor Theorem",
+    "slug": "graph-minor-theorem",
+    "status": "solved-recently",
+    "description": "Every minor closed graph property is characterized by finite forbidden minors."
+  },
+  {
+    "title": "Nash-Williams Conjecture",
+    "slug": "nash-williams-conjecture",
+    "status": "open",
+    "description": "Highly connected infinite graphs contain a Hamiltonian cycle."
+  },
+  {
+    "title": "Read's Conjecture",
+    "slug": "reads-conjecture",
+    "status": "solved-recently",
+    "description": "Coefficients of the chromatic polynomial are strictly log concave."
+  },
+  {
+    "title": "Rota-Heron-Welsh Conjecture",
+    "slug": "rota-heron-welsh-conjecture",
+    "status": "solved-recently",
+    "description": "Coefficients of the characteristic polynomial of a matroid are log concave."
+  },
+  {
+    "title": "Mason's Conjectures",
+    "slug": "masons-conjectures",
+    "status": "solved-recently",
+    "description": "The number of independent sets in matroids forms a log concave sequence."
+  },
+  {
+    "title": "Degree-Diameter Problem",
+    "slug": "degree-diameter-problem",
+    "status": "open",
+    "description": "Find the largest graph given maximum degree and diameter bounds."
+  },
+  {
+    "title": "Cage Problem",
+    "slug": "cage-problem",
+    "status": "open",
+    "description": "Find the smallest regular graph with a specific girth."
+  },
+  {
+    "title": "Spectral Gap of Random Graphs",
+    "slug": "spectral-gap-random-graphs",
+    "status": "partially-solved",
+    "description": "Bounding the second largest eigenvalue of random regular graphs."
+  },
+  {
+    "title": "Firefighting on Trees",
+    "slug": "firefighting-on-trees",
+    "status": "open",
+    "description": "Determine the optimal strategy to stop fire spreading on graphs."
+  },
+  {
+    "title": "Burning Number Conjecture",
+    "slug": "burning-number-conjecture",
+    "status": "open",
+    "description": "Bounding the time required to completely burn a connected graph."
+  },
+  {
+    "title": "Vizing's Conjecture",
+    "slug": "vizings-conjecture",
+    "status": "open",
+    "description": "Cartesian graph products have domination numbers exceeding their independent factors."
+  },
+  {
+    "title": "Blankinship-Oporowski Conjecture",
+    "slug": "blankinship-oporowski-conjecture",
+    "status": "open",
+    "description": "Bounding the book thickness of specific minor closed graph classes."
+  },
+  {
+    "title": "Book Thickness of Graphs",
+    "slug": "book-thickness-problem",
+    "status": "partially-solved",
+    "description": "Determine the minimum number of pages required to embed a graph."
+  },
+  {
+    "title": "Colin de Verdi\u00e8re Parameter Conjecture",
+    "slug": "colin-de-verdiere-conjecture",
+    "status": "open",
+    "description": "Spectral graph parameters relate strongly to fundamental topological properties."
+  },
+  {
+    "title": "Crossing Number Inequality",
+    "slug": "crossing-number-inequality",
+    "status": "partially-solved",
+    "description": "Lower bounding the number of edge crossings in any planar drawing."
+  },
+  {
+    "title": "Albertson Conjecture",
+    "slug": "albertson-conjecture",
+    "status": "open",
+    "description": "Complete graphs minimize the crossing number among all same chromatic graphs."
+  },
+  {
+    "title": "Gr\u00fcnbaum's Conjecture",
+    "slug": "grunbaums-conjecture",
+    "status": "partially-solved",
+    "description": "Triangulations of the plane can be properly three colored."
+  },
+  {
+    "title": "Negami's Conjecture",
+    "slug": "negamis-conjecture",
+    "status": "open",
+    "description": "Graphs have planar covers only if embeddable in the projective plane."
+  },
+  {
+    "title": "Hill's Conjecture",
+    "slug": "hills-conjecture",
+    "status": "open",
+    "description": "Exact crossing number formulas for complete graphs in cylindrical drawings."
+  },
+  {
+    "title": "Harary's Conjecture",
+    "slug": "hararys-conjecture",
+    "status": "open",
+    "description": "Integral graphs have characteristic polynomials with only integer roots."
+  },
+  {
+    "title": "Cayley Graph Isomorphism Problem",
+    "slug": "cayley-graph-isomorphism-problem",
+    "status": "partially-solved",
+    "description": "Deciding if two Cayley graphs of a group are isomorphic."
+  },
+  {
+    "title": "Babai's Conjecture",
+    "slug": "babais-conjecture",
+    "status": "open",
+    "description": "Bounding the diameter of Cayley graphs of finite simple groups."
+  },
+  {
+    "title": "Lov\u00e1sz-Plummer Conjecture",
+    "slug": "lovasz-plummer-conjecture",
+    "status": "solved-recently",
+    "description": "Bounding the number of perfect matchings in cubic bridgeless graphs."
+  },
+  {
+    "title": "Fulkerson's Conjecture",
+    "slug": "fulkersons-conjecture",
+    "status": "open",
+    "description": "Cubic bridgeless graphs have six perfect matchings covering all edges."
+  },
+  {
+    "title": "Fano Plane Coloring Conjecture",
+    "slug": "fano-plane-coloring-conjecture",
+    "status": "open",
+    "description": "Colorings of the Fano plane under specific structural restrictions."
+  },
+  {
+    "title": "Erd\u0151s-Lov\u00e1sz Tihany Conjecture",
+    "slug": "erdos-lovasz-tihany-conjecture",
+    "status": "open",
+    "description": "Splitting a graph into two subgraphs with specific chromatic properties."
+  },
+  {
+    "title": "Erd\u0151s-Moser Problem",
+    "slug": "erdos-moser-problem",
+    "status": "solved-recently",
+    "description": "Bounding the number of equal distances in a finite point set."
+  },
+  {
+    "title": "Erd\u0151s Distinct Distances Problem",
+    "slug": "erdos-distinct-distances-problem",
+    "status": "solved-recently",
+    "description": "Bounding the minimum number of distinct distances between points."
+  },
+  {
+    "title": "Daykin's Conjecture",
+    "slug": "daykins-conjecture",
+    "status": "open",
+    "description": "Inequalities concerning the size of Boolean algebra ideals and filters."
+  },
+  {
+    "title": "Chv\u00e1tal-Sankoff Constants",
+    "slug": "chvatal-sankoff-constants",
+    "status": "open",
+    "description": "Expected length of the longest common subsequence of random words."
+  },
+  {
+    "title": "Ulam's Packing Conjecture",
+    "slug": "ulams-packing-conjecture",
+    "status": "open",
+    "description": "The maximum density of identical spheres packed in three dimensions."
+  },
+  {
+    "title": "Heilbronn Triangle Problem",
+    "slug": "heilbronn-triangle-problem",
+    "status": "partially-solved",
+    "description": "Maximizing the minimum area of a triangle formed by points."
+  },
+  {
+    "title": "Keller's Conjecture",
+    "slug": "kellers-conjecture",
+    "status": "solved-recently",
+    "description": "Tiling spaces with hypercubes must contain two sharing a face."
+  },
+  {
+    "title": "Kakeya Set Conjecture",
+    "slug": "kakeya-set-conjecture",
+    "status": "open",
+    "description": "Sets containing a unit line segment have maximal Hausdorff dimension."
+  },
+  {
+    "title": "Ringel-Kotzig Conjecture",
+    "slug": "ringel-kotzig-conjecture",
+    "status": "open",
+    "description": "All trees can gracefully label a complete bipartite graph perfectly."
+  },
+  {
+    "title": "Erd\u0151s-Gy\u00e1rf\u00e1s Conjecture",
+    "slug": "erdos-gyarfas-conjecture",
+    "status": "open",
+    "description": "Cubic graphs contain cycles whose length is a power of two."
+  },
+  {
+    "title": "Jaeger's Circular Flow Conjecture",
+    "slug": "jaegers-circular-flow-conjecture",
+    "status": "open",
+    "description": "Highly connected graphs admit specific continuous circular nowhere zero flows."
+  },
+  {
+    "title": "MacLane's Planarity Criterion Analogue",
+    "slug": "maclanes-planarity-analogue",
+    "status": "open",
+    "description": "Extending algebraic planarity criteria to higher dimensional topological spaces."
+  },
+  {
+    "title": "Tutte's Tangent Chord Conjecture",
+    "slug": "tuttes-tangent-chord-conjecture",
+    "status": "open",
+    "description": "Hamiltonian cycles in planar graphs relate to tangent chord structures."
+  },
+  {
+    "title": "Scheinerman's Conjecture",
+    "slug": "scheinermans-conjecture",
+    "status": "solved-recently",
+    "description": "Planar graphs are representable as line segment intersection graphs."
+  },
+  {
+    "title": "Erd\u0151s Intersection Pattern Problem",
+    "slug": "erdos-intersection-pattern-problem",
+    "status": "open",
+    "description": "Classifying impossible intersection sizes for families of finite sets."
+  },
+  {
+    "title": "Frankl-R\u00f6dl Conjecture",
+    "slug": "frankl-rodl-conjecture",
+    "status": "solved-recently",
+    "description": "Bounding the number of intersections in a uniform hypergraph."
+  }
+]

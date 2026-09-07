@@ -1,0 +1,644 @@
+[
+  {
+    "title": "Euler Equations Global Regularity",
+    "slug": "euler-equations-global-regularity",
+    "status": "open",
+    "description": "Prove if ideal three dimensional fluids remain smooth forever."
+  },
+  {
+    "title": "Onsager Conjecture",
+    "slug": "onsager-conjecture",
+    "status": "solved-recently",
+    "description": "Relates energy dissipation in fluids to minimal H\u00f6lder regularity of solutions."
+  },
+  {
+    "title": "Weak Cosmic Censorship",
+    "slug": "weak-cosmic-censorship",
+    "status": "open",
+    "description": "Assert that spacetime singularities are always hidden within black holes."
+  },
+  {
+    "title": "Strong Cosmic Censorship",
+    "slug": "strong-cosmic-censorship",
+    "status": "open",
+    "description": "Claim that general relativity is a purely deterministic theory everywhere."
+  },
+  {
+    "title": "De Giorgi Conjecture",
+    "slug": "de-giorgi-conjecture",
+    "status": "partially-solved",
+    "description": "Classifies entire solutions of the Allen Cahn equation in high dimensions."
+  },
+  {
+    "title": "Soliton Resolution Conjecture",
+    "slug": "soliton-resolution-conjecture",
+    "status": "partially-solved",
+    "description": "Solutions of dispersive equations eventually decompose into distinct solitary waves."
+  },
+  {
+    "title": "Vlasov-Poisson Point Charges",
+    "slug": "vlasov-poisson-point-charges",
+    "status": "open",
+    "description": "Determine if collisionless plasmas with discrete charges have global smooth solutions."
+  },
+  {
+    "title": "Boltzmann Equation Large Data",
+    "slug": "boltzmann-equation-large-data",
+    "status": "open",
+    "description": "Establish global existence of smooth solutions for gases far from equilibrium."
+  },
+  {
+    "title": "Boussinesq Equations Regularity",
+    "slug": "boussinesq-equations-regularity",
+    "status": "open",
+    "description": "Prove global well posedness for stratified fluids lacking full dissipation."
+  },
+  {
+    "title": "Surface Quasi Geostrophic Regularity",
+    "slug": "surface-quasi-geostrophic-regularity",
+    "status": "partially-solved",
+    "description": "Determine if the inviscid surface atmospheric fluid model forms finite singularities."
+  },
+  {
+    "title": "Magnetohydrodynamics Regularity",
+    "slug": "magnetohydrodynamics-regularity",
+    "status": "open",
+    "description": "Determine if magnetic fluids develop finite time singular structures."
+  },
+  {
+    "title": "Prandtl Boundary Layer Equations",
+    "slug": "prandtl-boundary-layer-equations",
+    "status": "partially-solved",
+    "description": "Prove well posedness of the inviscid limit near a solid boundary."
+  },
+  {
+    "title": "Kuramoto-Sivashinsky 2D Regularity",
+    "slug": "kuramoto-sivashinsky-2d-regularity",
+    "status": "open",
+    "description": "Determine if chaotic flame front propagation remains bounded in two dimensions."
+  },
+  {
+    "title": "Water Waves Singularities",
+    "slug": "water-waves-singularities",
+    "status": "partially-solved",
+    "description": "Understand how wave breaking and splashing occur in ideal fluids."
+  },
+  {
+    "title": "Muskat Problem Singularities",
+    "slug": "muskat-problem-singularities",
+    "status": "partially-solved",
+    "description": "Analyze interface breakdown between two fluids in porous media."
+  },
+  {
+    "title": "Rayleigh-Taylor Instability",
+    "slug": "rayleigh-taylor-instability",
+    "status": "partially-solved",
+    "description": "Quantify nonlinear mixing when heavy fluids rest on lighter ones."
+  },
+  {
+    "title": "Kelvin-Helmholtz Ill Posedness",
+    "slug": "kelvin-helmholtz-ill-posedness",
+    "status": "solved-recently",
+    "description": "Understand the rigorous instability mechanism of sheared fluid interfaces."
+  },
+  {
+    "title": "Vlasov-Maxwell Global Regularity",
+    "slug": "vlasov-maxwell-global-regularity",
+    "status": "open",
+    "description": "Determine if relativistic collisionless plasmas form singularities in three dimensions."
+  },
+  {
+    "title": "Landau Equation Large Data",
+    "slug": "landau-equation-large-data",
+    "status": "open",
+    "description": "Prove global smoothness for grazing collisions in plasma physics models."
+  },
+  {
+    "title": "Compressible Navier-Stokes Vacuum",
+    "slug": "compressible-navier-stokes-vacuum",
+    "status": "partially-solved",
+    "description": "Track the dynamic boundary of a gas expanding into empty space."
+  },
+  {
+    "title": "Zero Viscosity Limit",
+    "slug": "zero-viscosity-limit",
+    "status": "partially-solved",
+    "description": "Prove viscous fluid solutions converge to ideal ones vanishingly small friction."
+  },
+  {
+    "title": "Kolmogorov Turbulence Law",
+    "slug": "kolmogorov-turbulence-law",
+    "status": "empirically-supported",
+    "description": "Mathematically derive the universal scaling laws of turbulent fluid flows."
+  },
+  {
+    "title": "D Alembert Paradox",
+    "slug": "d-alembert-paradox",
+    "status": "partially-solved",
+    "description": "Explain the emergence of drag from purely inviscid fluid theory."
+  },
+  {
+    "title": "Couette Flow Stability",
+    "slug": "couette-flow-stability",
+    "status": "solved-recently",
+    "description": "Prove sheared fluid flows stabilize despite high Reynolds number perturbations."
+  },
+  {
+    "title": "Inviscid Damping",
+    "slug": "inviscid-damping",
+    "status": "solved-recently",
+    "description": "Show how ideal fluids relax to equilibrium without any physical friction."
+  },
+  {
+    "title": "Enhanced Dissipation",
+    "slug": "enhanced-dissipation",
+    "status": "partially-solved",
+    "description": "Quantify how rapid mixing accelerates energy decay in viscous flows."
+  },
+  {
+    "title": "Kerr Black Hole Stability",
+    "slug": "kerr-black-hole-stability",
+    "status": "solved-recently",
+    "description": "Prove rotating black holes remain stable under small spacetime perturbations."
+  },
+  {
+    "title": "Schwarzschild Black Hole Stability",
+    "slug": "schwarzschild-black-hole-stability",
+    "status": "solved-recently",
+    "description": "Establish non rotating black holes return to equilibrium after disturbance."
+  },
+  {
+    "title": "Vacuum Black Hole Formation",
+    "slug": "vacuum-black-hole-formation",
+    "status": "solved-recently",
+    "description": "Show gravitational waves alone can concentrate enough energy to collapse."
+  },
+  {
+    "title": "Einstein-Euler Shock Formation",
+    "slug": "einstein-euler-shock-formation",
+    "status": "partially-solved",
+    "description": "Prove fluid shocks develop in the relativistic regime of general relativity."
+  },
+  {
+    "title": "Ricci Flow Surgery",
+    "slug": "ricci-flow-surgery",
+    "status": "partially-solved",
+    "description": "Extend geometric smoothing past topological changes in higher dimensional spaces."
+  },
+  {
+    "title": "Mean Curvature Flow Singularities",
+    "slug": "mean-curvature-flow-singularities",
+    "status": "partially-solved",
+    "description": "Classify all possible ways surfaces pinch and break under area reduction."
+  },
+  {
+    "title": "Calabi Conjecture",
+    "slug": "calabi-conjecture",
+    "status": "solved-recently",
+    "description": "Prove the existence of canonical metrics on complex geometric manifolds."
+  },
+  {
+    "title": "Minimal Surface Bernstein Problem",
+    "slug": "minimal-surface-bernstein-problem",
+    "status": "solved-recently",
+    "description": "Determine if entire minimal graphs must be flat planes everywhere."
+  },
+  {
+    "title": "Harmonic Map Heat Flow",
+    "slug": "harmonic-map-heat-flow",
+    "status": "partially-solved",
+    "description": "Understand singularity formation when mapping manifolds to minimize stretching energy."
+  },
+  {
+    "title": "Plateau Problem Uniqueness",
+    "slug": "plateau-problem-uniqueness",
+    "status": "partially-solved",
+    "description": "Determine when exactly one soap film spans a given wire frame."
+  },
+  {
+    "title": "Novikov Topological Conjecture",
+    "slug": "novikov-topological-conjecture",
+    "status": "partially-solved",
+    "description": "Relate topological invariants to signatures of differential operators on manifolds."
+  },
+  {
+    "title": "Sphere Theorem Ricci Flow",
+    "slug": "sphere-theorem-ricci-flow",
+    "status": "solved-recently",
+    "description": "Prove manifolds with positive curvature are strictly equivalent to spheres."
+  },
+  {
+    "title": "Yau First Eigenvalue Conjecture",
+    "slug": "yau-first-eigenvalue-conjecture",
+    "status": "open",
+    "description": "Bound the fundamental vibrational frequency of surfaces by their area."
+  },
+  {
+    "title": "Schoen Harmonic Map Conjecture",
+    "slug": "schoen-harmonic-map-conjecture",
+    "status": "open",
+    "description": "Characterize the existence of minimal stretching maps between complex spaces."
+  },
+  {
+    "title": "Chern Ricci Flow Singularities",
+    "slug": "chern-ricci-flow-singularities",
+    "status": "partially-solved",
+    "description": "Classify geometric bottlenecks in the evolution of non Kaehler complex manifolds."
+  },
+  {
+    "title": "Local Isometric Embedding",
+    "slug": "local-isometric-embedding",
+    "status": "open",
+    "description": "Determine if smooth abstract surfaces always locally fit into standard space."
+  },
+  {
+    "title": "Nonlinear Schrodinger 3D Regularity",
+    "slug": "nonlinear-schrodinger-3d-regularity",
+    "status": "open",
+    "description": "Determine if focusing quantum waves blow up in critical dimensions."
+  },
+  {
+    "title": "NLS Blow Up Rate",
+    "slug": "nls-blow-up-rate",
+    "status": "partially-solved",
+    "description": "Characterize the exact speed at which focusing waves reach infinite amplitude."
+  },
+  {
+    "title": "Wave Equation Soliton Resolution",
+    "slug": "wave-equation-soliton-resolution",
+    "status": "partially-solved",
+    "description": "Show scattered waves eventually decouple into distinct stable traveling pulses."
+  },
+  {
+    "title": "KdV Low Regularity Well Posedness",
+    "slug": "kdv-low-regularity-well-posedness",
+    "status": "partially-solved",
+    "description": "Find the lowest smoothness required to uniquely evolve shallow water waves."
+  },
+  {
+    "title": "KP Equation Global Regularity",
+    "slug": "kp-equation-global-regularity",
+    "status": "open",
+    "description": "Determine if two dimensional shallow water waves maintain their initial smoothness."
+  },
+  {
+    "title": "Gross Pitaevskii Vortex Dynamics",
+    "slug": "gross-pitaevskii-vortex-dynamics",
+    "status": "partially-solved",
+    "description": "Rigorously track quantum tornado paths in low temperature Bose Einstein condensates."
+  },
+  {
+    "title": "Nonlinear Wave Supercritical Regularity",
+    "slug": "nonlinear-wave-supercritical-regularity",
+    "status": "open",
+    "description": "Prove global existence for highly energetic waves in three spatial dimensions."
+  },
+  {
+    "title": "Zakharov System Regularity",
+    "slug": "zakharov-system-regularity",
+    "status": "partially-solved",
+    "description": "Determine if coupled Langmuir and acoustic waves in plasmas form singularities."
+  },
+  {
+    "title": "Klein Gordon Small Data",
+    "slug": "klein-gordon-small-data",
+    "status": "solved-recently",
+    "description": "Prove weak relativistic waves disperse completely without forming bound states."
+  },
+  {
+    "title": "Water Wave Small Data 2D",
+    "slug": "water-wave-small-data-2d",
+    "status": "solved-recently",
+    "description": "Show gentle ripples on infinite deep water eventually fade away forever."
+  },
+  {
+    "title": "Wave Maps Critical Regularity",
+    "slug": "wave-maps-critical-regularity",
+    "status": "solved-recently",
+    "description": "Prove geometric string vibrations do not snap for small initial energy."
+  },
+  {
+    "title": "Maxwell Klein Gordon Regularity",
+    "slug": "maxwell-klein-gordon-regularity",
+    "status": "solved-recently",
+    "description": "Establish global existence for charged scalar fields interacting with electromagnetism."
+  },
+  {
+    "title": "Yang Mills Classical Regularity",
+    "slug": "yang-mills-classical-regularity",
+    "status": "solved-recently",
+    "description": "Prove standard gauge field equations do not develop finite time singularities."
+  },
+  {
+    "title": "NLS Solitary Wave Stability",
+    "slug": "nls-solitary-wave-stability",
+    "status": "partially-solved",
+    "description": "Determine conditions under which isolated quantum wave packets resist destruction."
+  },
+  {
+    "title": "Benjamin Ono Global Well Posedness",
+    "slug": "benjamin-ono-global-well-posedness",
+    "status": "solved-recently",
+    "description": "Prove internal fluid waves propagate forever without breaking down entirely."
+  },
+  {
+    "title": "Half Wave Equation Existence",
+    "slug": "half-wave-equation-existence",
+    "status": "partially-solved",
+    "description": "Study the well posedness of fractional dispersive wave propagation models."
+  },
+  {
+    "title": "Ginzburg Landau Vortex Pinning",
+    "slug": "ginzburg-landau-vortex-pinning",
+    "status": "partially-solved",
+    "description": "Explain mathematically how magnetic vortices get trapped by material impurities."
+  },
+  {
+    "title": "Porous Medium Interface Regularity",
+    "slug": "porous-medium-interface-regularity",
+    "status": "partially-solved",
+    "description": "Prove the moving boundary of groundwater seepage remains perfectly smooth."
+  },
+  {
+    "title": "Stefan Problem Interface Regularity",
+    "slug": "stefan-problem-interface-regularity",
+    "status": "partially-solved",
+    "description": "Characterize the smoothness of melting ice and water phase transition boundaries."
+  },
+  {
+    "title": "Infinity Laplacian Regularity",
+    "slug": "infinity-laplacian-regularity",
+    "status": "open",
+    "description": "Determine if solutions to absolutely minimizing Lipschitz extensions are continuously differentiable."
+  },
+  {
+    "title": "Monge Ampere Degenerate Regularity",
+    "slug": "monge-ampere-degenerate-regularity",
+    "status": "partially-solved",
+    "description": "Determine optimal smoothness of optimal transport maps with zero boundary curvature."
+  },
+  {
+    "title": "Optimal Transport MTW Conditions",
+    "slug": "optimal-transport-mtw-conditions",
+    "status": "partially-solved",
+    "description": "Identify precise geometric criteria ensuring optimal mass mappings are perfectly continuous."
+  },
+  {
+    "title": "P Laplacian Smoothness",
+    "slug": "p-laplacian-smoothness",
+    "status": "partially-solved",
+    "description": "Find the exact fractional derivative regularity of nonlinear potential equations."
+  },
+  {
+    "title": "Fractional Laplacian Regularity",
+    "slug": "fractional-laplacian-regularity",
+    "status": "partially-solved",
+    "description": "Classify the boundary behavior of non local anomalous diffusion processes."
+  },
+  {
+    "title": "Signorini Optimal Regularity",
+    "slug": "signorini-optimal-regularity",
+    "status": "solved-recently",
+    "description": "Determine the precise smoothness of elastic bodies pressing against rigid surfaces."
+  },
+  {
+    "title": "Obstacle Problem Singularities",
+    "slug": "obstacle-problem-singularities",
+    "status": "partially-solved",
+    "description": "Classify the geometric structure where elastic membranes detach from underlying constraints."
+  },
+  {
+    "title": "Thin Obstacle Free Boundary",
+    "slug": "thin-obstacle-free-boundary",
+    "status": "partially-solved",
+    "description": "Analyze detachment zones when membranes are constrained by lower dimensional barriers."
+  },
+  {
+    "title": "Navier Stokes Fractional Dissipation",
+    "slug": "navier-stokes-fractional-dissipation",
+    "status": "partially-solved",
+    "description": "Find the minimum fractional damping required to prevent fluid singularities."
+  },
+  {
+    "title": "Camassa Holm Wave Breaking",
+    "slug": "camassa-holm-wave-breaking",
+    "status": "solved-recently",
+    "description": "Rigorously prove that shallow water waves steepen into vertical walls."
+  },
+  {
+    "title": "Hunter Saxton Weak Solutions",
+    "slug": "hunter-saxton-weak-solutions",
+    "status": "partially-solved",
+    "description": "Extend solutions of liquid crystal dynamics beyond their initial orientation breakdown."
+  },
+  {
+    "title": "Degasperis Procesi Global Existence",
+    "slug": "degasperis-procesi-global-existence",
+    "status": "partially-solved",
+    "description": "Establish criteria for discontinuous shock formation in nonlinear wave equations."
+  },
+  {
+    "title": "Perona Malik Well Posedness",
+    "slug": "perona-malik-well-posedness",
+    "status": "open",
+    "description": "Explain how reverse diffusion algorithms successfully denoise images without mathematical blowup."
+  },
+  {
+    "title": "Keller Segel Blow Up Profile",
+    "slug": "keller-segel-blow-up-profile",
+    "status": "partially-solved",
+    "description": "Describe exactly how chemotactic bacterial populations aggregate into infinite density clusters."
+  },
+  {
+    "title": "Smoluchowski Coagulation Gelation",
+    "slug": "smoluchowski-coagulation-gelation",
+    "status": "partially-solved",
+    "description": "Model the precise moment distinct particles suddenly form an infinite cluster."
+  },
+  {
+    "title": "Fokker Planck Convergence",
+    "slug": "fokker-planck-convergence",
+    "status": "partially-solved",
+    "description": "Quantify the exact rate at which particle probabilities reach thermal equilibrium."
+  },
+  {
+    "title": "Cahn Hilliard Droplet Formation",
+    "slug": "cahn-hilliard-droplet-formation",
+    "status": "partially-solved",
+    "description": "Describe the mathematical sequence of phase separation into distinct pure domains."
+  },
+  {
+    "title": "Stochastic Navier Stokes Uniqueness",
+    "slug": "stochastic-navier-stokes-uniqueness",
+    "status": "open",
+    "description": "Determine if randomly forced fluids have unique probability distributions over time."
+  },
+  {
+    "title": "KPZ Equation Strong Solutions",
+    "slug": "kpz-equation-strong-solutions",
+    "status": "solved-recently",
+    "description": "Construct rigorous mathematical models for stochastically growing rough surface interfaces."
+  },
+  {
+    "title": "Stochastic Quantization Regularity",
+    "slug": "stochastic-quantization-regularity",
+    "status": "solved-recently",
+    "description": "Make rigorous sense of highly singular random fields in quantum mechanics."
+  },
+  {
+    "title": "Regularity Structures Theory",
+    "slug": "regularity-structures-theory",
+    "status": "solved-recently",
+    "description": "Provide a robust mathematical framework for solving extremely singular stochastic PDEs."
+  },
+  {
+    "title": "Fisher KPP Wave Stability",
+    "slug": "fisher-kpp-wave-stability",
+    "status": "partially-solved",
+    "description": "Prove propagating biological population fronts remain stable under arbitrary small disruptions."
+  },
+  {
+    "title": "Kuramoto Synchronization Threshold",
+    "slug": "kuramoto-synchronization-threshold",
+    "status": "partially-solved",
+    "description": "Determine the exact coupling strength causing random oscillators to beat simultaneously."
+  },
+  {
+    "title": "Leray Hopf Uniqueness",
+    "slug": "leray-hopf-uniqueness",
+    "status": "open",
+    "description": "Determine if turbulent weak fluid solutions are uniquely determined by origins."
+  },
+  {
+    "title": "Euler Anomalous Dissipation",
+    "slug": "euler-anomalous-dissipation",
+    "status": "partially-solved",
+    "description": "Prove ideal fluids can mysteriously lose energy without any explicit friction."
+  },
+  {
+    "title": "Batchelor Spectrum Turbulence",
+    "slug": "batchelor-spectrum-turbulence",
+    "status": "empirically-supported",
+    "description": "Mathematically derive the scalar variance cascade in turbulent fluid mixing."
+  },
+  {
+    "title": "Kraichnan Spectrum 2D",
+    "slug": "kraichnan-spectrum-2d",
+    "status": "empirically-supported",
+    "description": "Prove the existence of dual energy cascades in flat fluid turbulence."
+  },
+  {
+    "title": "Boussinesq Inviscid Limit",
+    "slug": "boussinesq-inviscid-limit",
+    "status": "partially-solved",
+    "description": "Prove that slightly viscous stratified flows converge to completely ideal models."
+  },
+  {
+    "title": "Navier Stokes Attractor Dimension",
+    "slug": "navier-stokes-attractor-dimension",
+    "status": "partially-solved",
+    "description": "Bound the complexity of long term turbulent fluid flow phase spaces."
+  },
+  {
+    "title": "Kuramoto Sivashinsky Attractor",
+    "slug": "kuramoto-sivashinsky-attractor",
+    "status": "partially-solved",
+    "description": "Estimate the finite degrees of freedom in chaotic flame front dynamics."
+  },
+  {
+    "title": "Gierer Meinhardt Spike Dynamics",
+    "slug": "gierer-meinhardt-spike-dynamics",
+    "status": "partially-solved",
+    "description": "Track the motion of localized chemical concentration peaks in biological systems."
+  },
+  {
+    "title": "FitzHugh Nagumo Spiral Waves",
+    "slug": "fitzhugh-nagumo-spiral-waves",
+    "status": "partially-solved",
+    "description": "Analyze the stability of rotating chemical waves in excitable nerve tissues."
+  },
+  {
+    "title": "Turing Pattern Selection",
+    "slug": "turing-pattern-selection",
+    "status": "partially-solved",
+    "description": "Determine which specific biological patterns emerge from completely uniform initial states."
+  },
+  {
+    "title": "Nernst Planck Navier Stokes",
+    "slug": "nernst-planck-navier-stokes",
+    "status": "open",
+    "description": "Prove global well posedness for interacting ions moving through fluid flows."
+  },
+  {
+    "title": "Ericksen Leslie Liquid Crystals",
+    "slug": "ericksen-leslie-liquid-crystals",
+    "status": "partially-solved",
+    "description": "Characterize the development of orientation defects in flowing nematic liquid crystals."
+  },
+  {
+    "title": "Landau Lifshitz Gilbert Blow Up",
+    "slug": "landau-lifshitz-gilbert-blow-up",
+    "status": "partially-solved",
+    "description": "Determine if magnetic spin vectors can form singular configurations over time."
+  },
+  {
+    "title": "Temperature Dependent Viscosity Fluids",
+    "slug": "temperature-dependent-viscosity-fluids",
+    "status": "open",
+    "description": "Analyze global regularity for fluids where heat radically alters internal friction."
+  },
+  {
+    "title": "Euler Poisson Shock Formation",
+    "slug": "euler-poisson-shock-formation",
+    "status": "partially-solved",
+    "description": "Prove that compressible plasmas inevitably develop abrupt discontinuities in finite time."
+  },
+  {
+    "title": "Vlasov Poisson Fokker Planck",
+    "slug": "vlasov-poisson-fokker-planck",
+    "status": "solved-recently",
+    "description": "Establish global solutions for plasmas incorporating both long range and collisions."
+  },
+  {
+    "title": "Gross Pitaevskii Acoustic Horizons",
+    "slug": "gross-pitaevskii-acoustic-horizons",
+    "status": "partially-solved",
+    "description": "Model artificial black holes using supersonic flow in Bose Einstein condensates."
+  },
+  {
+    "title": "Kuramoto Sivashinsky Rigorous Bounds",
+    "slug": "kuramoto-sivashinsky-rigorous-bounds",
+    "status": "open",
+    "description": "Find precise mathematical limits on the chaotic variations of flame fronts."
+  },
+  {
+    "title": "Navier Stokes Partial Regularity",
+    "slug": "navier-stokes-partial-regularity",
+    "status": "partially-solved",
+    "description": "Shrink the maximum possible size of the singularity set for fluids."
+  },
+  {
+    "title": "Boussinesq Stratification Limit",
+    "slug": "boussinesq-stratification-limit",
+    "status": "partially-solved",
+    "description": "Show how strong gravity forces atmospheric flows into purely horizontal layers."
+  },
+  {
+    "title": "Prandtl Separation Point",
+    "slug": "prandtl-separation-point",
+    "status": "partially-solved",
+    "description": "Mathematically pinpoint where viscous boundary layers detach from curved object surfaces."
+  },
+  {
+    "title": "Taylor Couette Bifurcations",
+    "slug": "taylor-couette-bifurcations",
+    "status": "partially-solved",
+    "description": "Classify all transition states of fluid trapped between rapidly rotating cylinders."
+  },
+  {
+    "title": "Ginzburg Landau Magnetic Monopoles",
+    "slug": "ginzburg-landau-magnetic-monopoles",
+    "status": "partially-solved",
+    "description": "Describe the mathematical topology of isolated magnetic charges in superconductor models."
+  }
+]

@@ -175,6 +175,52 @@ Ensure the response contains only the valid JSON array."""
         print(result_text)
         return []
 
+
+async def topup_candidates(topic_slug, topic_name, extra):
+    """Ask for `extra` more candidates for a topic, excluding the ones already held.
+
+    Deduplication across topics removes candidates, and some generation calls fail,
+    so the pool has to run ahead of the target rather than exactly meet it. The
+    exclusion list is sent verbatim: without it the model re-proposes the same
+    headline conjectures and the pool does not grow.
+    """
+    topic_dir = ROOT / "topics" / topic_slug
+    topic_dir.mkdir(parents=True, exist_ok=True)
+    candidates_file = topic_dir / "candidates.json"
+    existing = json.loads(candidates_file.read_text(encoding="utf-8")) if candidates_file.exists() else []
+    have = {c["slug"] for c in existing}
+
+    print(f"=== Topping up {topic_name} by {extra} (have {len(have)}) ===")
+    prompt = f"""Identify exactly {extra} distinct open, hard, or recently solved mathematical problems, conjectures, or theorems in the field of {topic_name}.
+
+You must NOT return any of the following, which are already catalogued:
+{", ".join(sorted(have))}
+
+Go deeper into the specialised sub-areas of the field to find problems that are genuinely distinct from that list.
+For each problem, provide:
+1. The official/common Title.
+2. A kebab-case filename slug.
+3. The Status: one of "open", "partially-solved", "solved-recently", or "empirically-supported".
+4. A very brief 1-sentence Description (maximum 12 words). Do NOT use LaTeX, math blocks ($ or $$), or backslashes. Keep it strictly plain text.
+
+Return a JSON array of objects with keys: title, slug, status, description.
+Ensure the response contains only the valid JSON array."""
+
+    result_text = await call_agy_cli(prompt, is_json=True)
+    try:
+        sanitized_text = re.sub(r'\\(?!["\\/bfnrt]|u[0-9a-fA-F]{4})', r'\\\\', result_text)
+        new = json.loads(sanitized_text)
+    except Exception as e:
+        print(f"Error parsing topup JSON for {topic_slug}: {e}")
+        return existing
+
+    added = [c for c in new if c.get("slug") and c["slug"] not in have]
+    merged = existing + added
+    candidates_file.write_text(json.dumps(merged, indent=2), encoding="utf-8")
+    print(f"Topped up {topic_slug}: +{len(added)} -> {len(merged)}")
+    return merged
+
+
 async def generate_problem_file(topic_slug, topic_name, candidate):
     """Generate a single problem markdown file following TEMPLATE.md."""
     title = candidate["title"]
@@ -244,7 +290,9 @@ async def process_topic(topic_slug, topic_name, limit_candidates, limit_generate
     candidates_file = topic_dir / "candidates.json"
     
     candidates = []
-    if stage in ["discovery", "all"] or not candidates_file.exists():
+    if stage == "topup":
+        candidates = await topup_candidates(topic_slug, topic_name, limit_candidates)
+    elif stage in ["discovery", "all"] or not candidates_file.exists():
         candidates = await discover_candidates(topic_slug, topic_name, limit_candidates)
     else:
         with open(candidates_file, "r", encoding="utf-8") as f:
@@ -353,7 +401,7 @@ async def generate_topic_readme(topic_slug, topic_name):
 def parse_args():
     parser = argparse.ArgumentParser(description="Generate Maths Research Catalog using AGY CLI.")
     parser.add_argument("--topic", help="Specific topic slug to generate (default: all topics).")
-    parser.add_argument("--stage", choices=["discovery", "generation", "all"], default="all",
+    parser.add_argument("--stage", choices=["discovery", "topup", "generation", "all"], default="all",
                         help="Execution stage: discovery, generation, or all.")
     parser.add_argument("--limit-candidates", type=int, default=100,
                         help="Number of candidates to discover per topic (default: 100).")

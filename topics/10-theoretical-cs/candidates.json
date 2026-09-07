@@ -1,0 +1,548 @@
+[
+  {
+    "title": "P versus NP Problem",
+    "slug": "p-versus-np-problem",
+    "status": "open",
+    "description": "Can every verified solution be computed in polynomial time."
+  },
+  {
+    "title": "Unique Games Conjecture",
+    "slug": "unique-games-conjecture",
+    "status": "open",
+    "description": "Approximating the value of unique games is computationally intractable."
+  },
+  {
+    "title": "Exponential Time Hypothesis",
+    "slug": "exponential-time-hypothesis",
+    "status": "open",
+    "description": "Boolean satisfiability cannot be solved in subexponential time."
+  },
+  {
+    "title": "Strong Exponential Time Hypothesis",
+    "slug": "strong-exponential-time-hypothesis",
+    "status": "open",
+    "description": "Boolean satisfiability requires time nearly exponential in the number of variables."
+  },
+  {
+    "title": "Matrix Multiplication Exponent",
+    "slug": "matrix-multiplication-exponent",
+    "status": "open",
+    "description": "What is the optimal algorithm for multiplying two matrices."
+  },
+  {
+    "title": "Dynamic Optimality Conjecture",
+    "slug": "dynamic-optimality-conjecture",
+    "status": "open",
+    "description": "Splay trees are asymptotically optimal among all binary search trees."
+  },
+  {
+    "title": "Quantum PCP Conjecture",
+    "slug": "quantum-pcp-conjecture",
+    "status": "open",
+    "description": "All local Hamiltonian problems have a constant energy gap."
+  },
+  {
+    "title": "BPP versus P",
+    "slug": "bpp-versus-p",
+    "status": "open",
+    "description": "Every randomized polynomial time algorithm can be derandomized efficiently."
+  },
+  {
+    "title": "L versus NL",
+    "slug": "l-versus-nl",
+    "status": "open",
+    "description": "Nondeterminism does not increase power for logarithmic space computation."
+  },
+  {
+    "title": "NC versus P",
+    "slug": "nc-versus-p",
+    "status": "open",
+    "description": "Are all tractable problems efficiently parallelizable."
+  },
+  {
+    "title": "Polynomial Hierarchy Collapse",
+    "slug": "polynomial-hierarchy-collapse",
+    "status": "open",
+    "description": "Does the polynomial time hierarchy collapse to a finite level."
+  },
+  {
+    "title": "All-Pairs Shortest Paths Conjecture",
+    "slug": "all-pairs-shortest-paths-conjecture",
+    "status": "open",
+    "description": "Can the shortest paths problem be solved in strictly subcubic time."
+  },
+  {
+    "title": "Exact Matching in Parallel",
+    "slug": "exact-matching-in-parallel",
+    "status": "open",
+    "description": "Can exact matching be solved using fast deterministic parallel algorithms."
+  },
+  {
+    "title": "Graph Isomorphism Complexity",
+    "slug": "graph-isomorphism-complexity",
+    "status": "partially-solved",
+    "description": "Can graph isomorphism be solved in deterministic polynomial time."
+  },
+  {
+    "title": "Edit Distance Complexity",
+    "slug": "edit-distance-complexity",
+    "status": "open",
+    "description": "Can edit distance be computed in strictly subquadratic time."
+  },
+  {
+    "title": "Planted Clique Conjecture",
+    "slug": "planted-clique-conjecture",
+    "status": "open",
+    "description": "Finding a planted clique is hard for naturally occurring sizes."
+  },
+  {
+    "title": "Small Set Expansion Hypothesis",
+    "slug": "small-set-expansion-hypothesis",
+    "status": "open",
+    "description": "Finding small non-expanding sets in graphs is computationally hard."
+  },
+  {
+    "title": "Existence of One-Way Functions",
+    "slug": "existence-of-one-way-functions",
+    "status": "open",
+    "description": "Do functions exist that are easy to compute but hard to invert."
+  },
+  {
+    "title": "BQP versus PH",
+    "slug": "bqp-versus-ph",
+    "status": "open",
+    "description": "Are quantum computers strictly more powerful than the polynomial hierarchy."
+  },
+  {
+    "title": "NEXP versus ACC0",
+    "slug": "nexp-versus-acc0",
+    "status": "partially-solved",
+    "description": "Do exponential time problems have small constant depth threshold circuits."
+  },
+  {
+    "title": "Traveling Salesperson Inapproximability",
+    "slug": "traveling-salesperson-inapproximability",
+    "status": "open",
+    "description": "What is the exact constant factor approximation limit for the TSP."
+  },
+  {
+    "title": "Vertex Cover Inapproximability",
+    "slug": "vertex-cover-inapproximability",
+    "status": "open",
+    "description": "Can vertex cover be approximated better than a factor of two."
+  },
+  {
+    "title": "Union-Closed Sets Conjecture",
+    "slug": "union-closed-sets-conjecture",
+    "status": "partially-solved",
+    "description": "Every union-closed family of sets has an element in half the sets."
+  },
+  {
+    "title": "Cerny Conjecture",
+    "slug": "cerny-conjecture",
+    "status": "open",
+    "description": "What is the true length of the shortest synchronizing word."
+  },
+  {
+    "title": "Generalized Star Height",
+    "slug": "generalized-star-height",
+    "status": "open",
+    "description": "Is the generalized star height of every regular language computable."
+  },
+  {
+    "title": "P versus PSPACE",
+    "slug": "p-versus-pspace",
+    "status": "open",
+    "description": "Are polynomial space algorithms strictly more powerful than polynomial time."
+  },
+  {
+    "title": "RL versus L",
+    "slug": "rl-versus-l",
+    "status": "open",
+    "description": "Can randomized logarithmic space be fully derandomized."
+  },
+  {
+    "title": "Directed Reachability in L",
+    "slug": "directed-reachability-in-l",
+    "status": "open",
+    "description": "Can directed reachability be solved in deterministic logarithmic space."
+  },
+  {
+    "title": "TC0 Lower Bounds",
+    "slug": "tc0-lower-bounds",
+    "status": "open",
+    "description": "Can we prove superpolynomial lower bounds for constant depth threshold circuits."
+  },
+  {
+    "title": "Extended Frege Lower Bounds",
+    "slug": "extended-frege-lower-bounds",
+    "status": "open",
+    "description": "Do there exist hard tautologies for extended Frege proof systems."
+  },
+  {
+    "title": "AC0 with Parity versus NP",
+    "slug": "ac0-with-parity-versus-np",
+    "status": "open",
+    "description": "Can constant depth circuits with parity gates solve NP problems."
+  },
+  {
+    "title": "Strongly Polynomial Linear Programming",
+    "slug": "strongly-polynomial-linear-programming",
+    "status": "open",
+    "description": "Does there exist a strongly polynomial time algorithm for linear programming."
+  },
+  {
+    "title": "Strongly Polynomial Minimum Cost Flow",
+    "slug": "strongly-polynomial-minimum-cost-flow",
+    "status": "solved-recently",
+    "description": "Can minimum cost flow be solved in strongly polynomial time."
+  },
+  {
+    "title": "Discrepancy of Set Systems",
+    "slug": "discrepancy-of-set-systems",
+    "status": "partially-solved",
+    "description": "What is the minimum combinatorial discrepancy of hypergraphs."
+  },
+  {
+    "title": "Komlos Conjecture",
+    "slug": "komlos-conjecture",
+    "status": "open",
+    "description": "Can vectors in a unit ball be signed to have bounded norm."
+  },
+  {
+    "title": "K-sets Problem",
+    "slug": "k-sets-problem",
+    "status": "open",
+    "description": "What is the maximum number of k-sets of points in the plane."
+  },
+  {
+    "title": "Boolean Pythagorean Triples",
+    "slug": "boolean-pythagorean-triples",
+    "status": "solved-recently",
+    "description": "Can natural numbers be colored to avoid monochromatic Pythagorean triples."
+  },
+  {
+    "title": "Ringel Conjecture",
+    "slug": "ringel-conjecture",
+    "status": "solved-recently",
+    "description": "Can complete graphs be decomposed into copies of any given tree."
+  },
+  {
+    "title": "Reconstruction Conjecture",
+    "slug": "reconstruction-conjecture",
+    "status": "open",
+    "description": "Are graphs uniquely determined by their vertex-deleted subgraphs."
+  },
+  {
+    "title": "1-2-3 Conjecture",
+    "slug": "1-2-3-conjecture",
+    "status": "solved-recently",
+    "description": "Can graphs be weighted with three values to induce proper colorings."
+  },
+  {
+    "title": "Rota Basis Conjecture",
+    "slug": "rota-basis-conjecture",
+    "status": "open",
+    "description": "Can bases of matroids be rearranged into independent transversal sets."
+  },
+  {
+    "title": "Tutte 5-Flow Conjecture",
+    "slug": "tutte-5-flow-conjecture",
+    "status": "open",
+    "description": "Does every bridgeless graph admit a nowhere-zero integer flow of five."
+  },
+  {
+    "title": "Tutte 4-Flow Conjecture",
+    "slug": "tutte-4-flow-conjecture",
+    "status": "open",
+    "description": "Does every Petersen-minor-free bridgeless graph have a nowhere-zero four flow."
+  },
+  {
+    "title": "Tutte 3-Flow Conjecture",
+    "slug": "tutte-3-flow-conjecture",
+    "status": "open",
+    "description": "Does every four-edge-connected graph have a nowhere-zero three flow."
+  },
+  {
+    "title": "Meyniel Conjecture",
+    "slug": "meyniel-conjecture",
+    "status": "open",
+    "description": "Is the cop number of a graph bounded by square root vertices."
+  },
+  {
+    "title": "Vizing Planar Graph Conjecture",
+    "slug": "vizing-planar-graph-conjecture",
+    "status": "solved-recently",
+    "description": "What is the maximum edge chromatic number of planar graphs."
+  },
+  {
+    "title": "3-SUM Conjecture",
+    "slug": "3-sum-conjecture",
+    "status": "open",
+    "description": "Does the three sum problem require strictly quadratic time."
+  },
+  {
+    "title": "Boolean Matrix Multiplication",
+    "slug": "boolean-matrix-multiplication",
+    "status": "open",
+    "description": "Can boolean matrix multiplication be computed as fast as ring matrix multiplication."
+  },
+  {
+    "title": "Fast Fourier Transform Lower Bound",
+    "slug": "fast-fourier-transform-lower-bound",
+    "status": "open",
+    "description": "Does the discrete Fourier transform require superlinear time."
+  },
+  {
+    "title": "Cell-Probe Lower Bounds",
+    "slug": "cell-probe-lower-bounds",
+    "status": "open",
+    "description": "Can we prove polynomial cell-probe lower bounds for dynamic data structures."
+  },
+  {
+    "title": "Dictator Testing Conjecture",
+    "slug": "dictator-testing-conjecture",
+    "status": "open",
+    "description": "Are dictator functions the hardest to test with constant queries."
+  },
+  {
+    "title": "Tuza Conjecture",
+    "slug": "tuza-conjecture",
+    "status": "open",
+    "description": "Is the triangle covering number bounded by twice the packing number."
+  },
+  {
+    "title": "Chvatal Toughness Conjecture",
+    "slug": "chvatal-toughness-conjecture",
+    "status": "open",
+    "description": "Do sufficiently tough graphs always contain a Hamiltonian cycle."
+  },
+  {
+    "title": "Chromatic Number of the Plane",
+    "slug": "chromatic-number-of-the-plane",
+    "status": "partially-solved",
+    "description": "How many colors are required to avoid monochromatic unit distance pairs."
+  },
+  {
+    "title": "Hedetniemi Conjecture",
+    "slug": "hedetniemi-conjecture",
+    "status": "solved-recently",
+    "description": "Is the chromatic number of a tensor product bounded by its factors."
+  },
+  {
+    "title": "Sidorenko Conjecture",
+    "slug": "sidorenko-conjecture",
+    "status": "partially-solved",
+    "description": "Do bipartite graphs have minimal homomorphism densities in random graphs."
+  },
+  {
+    "title": "Woodall Conjecture",
+    "slug": "woodall-conjecture",
+    "status": "open",
+    "description": "Does every directed graph have a specific ratio of disjoint directed cuts."
+  },
+  {
+    "title": "Conway Thrackle Conjecture",
+    "slug": "conway-thrackle-conjecture",
+    "status": "open",
+    "description": "Can a graph be drawn such that every edge intersects exactly once."
+  },
+  {
+    "title": "Harborth Conjecture",
+    "slug": "harborth-conjecture",
+    "status": "open",
+    "description": "Can all planar graphs be drawn with straight integer length edges."
+  },
+  {
+    "title": "Group Isomorphism Complexity",
+    "slug": "group-isomorphism-complexity",
+    "status": "open",
+    "description": "Can isomorphism of finite groups be decided in polynomial time."
+  },
+  {
+    "title": "Integer Factorization in P",
+    "slug": "integer-factorization-in-p",
+    "status": "open",
+    "description": "Can integers be factored efficiently using classical deterministic algorithms."
+  },
+  {
+    "title": "Discrete Logarithm in P",
+    "slug": "discrete-logarithm-in-p",
+    "status": "open",
+    "description": "Can discrete logarithms be computed efficiently without a quantum computer."
+  },
+  {
+    "title": "Shortest Vector Approximation",
+    "slug": "shortest-vector-approximation",
+    "status": "open",
+    "description": "What is the complexity of approximating the shortest vector in a lattice."
+  },
+  {
+    "title": "Learning with Errors Complexity",
+    "slug": "learning-with-errors-complexity",
+    "status": "open",
+    "description": "Is solving random linear equations with noise computationally intractable."
+  },
+  {
+    "title": "Quantum State Tomography Complexity",
+    "slug": "quantum-state-tomography-complexity",
+    "status": "open",
+    "description": "What is the optimal complexity for full quantum state tomography."
+  },
+  {
+    "title": "NLTS Theorem",
+    "slug": "nlts-theorem",
+    "status": "solved-recently",
+    "description": "Do there exist quantum states with trivial local structures at all temperatures."
+  },
+  {
+    "title": "QMA versus QCMA",
+    "slug": "qma-versus-qcma",
+    "status": "open",
+    "description": "Do quantum proofs offer an advantage over classical proofs for quantum verifiers."
+  },
+  {
+    "title": "MIP Star equals RE",
+    "slug": "mip-star-equals-re",
+    "status": "solved-recently",
+    "description": "Are multiprover interactive proofs with quantum entanglement equivalent to halting."
+  },
+  {
+    "title": "Permanent versus Determinant",
+    "slug": "permanent-versus-determinant",
+    "status": "open",
+    "description": "Can the permanent of a matrix be efficiently simulated by a determinant."
+  },
+  {
+    "title": "VP versus VNP",
+    "slug": "vp-versus-vnp",
+    "status": "open",
+    "description": "Are there polynomial families that require superpolynomial size arithmetic circuits."
+  },
+  {
+    "title": "Lempel-Ziv Parallelization",
+    "slug": "lempel-ziv-parallelization",
+    "status": "open",
+    "description": "Can Lempel-Ziv parsing be computed efficiently in parallel."
+  },
+  {
+    "title": "HITTING-SET Conjecture",
+    "slug": "hitting-set-conjecture",
+    "status": "open",
+    "description": "Does hitting set for orthogonal vectors require strongly subquadratic time."
+  },
+  {
+    "title": "Fourier Entropy Influence",
+    "slug": "fourier-entropy-influence",
+    "status": "open",
+    "description": "Is the entropy of a Boolean function bounded by its total influence."
+  },
+  {
+    "title": "Quantum Church-Turing Thesis",
+    "slug": "quantum-church-turing-thesis",
+    "status": "empirically-supported",
+    "description": "Can all physical processes be simulated efficiently by a quantum computer."
+  },
+  {
+    "title": "NC1 versus P",
+    "slug": "nc1-versus-p",
+    "status": "open",
+    "description": "Are logarithmic depth boolean circuits strictly less powerful than polynomial time."
+  },
+  {
+    "title": "Polynomial Identity Testing",
+    "slug": "polynomial-identity-testing",
+    "status": "open",
+    "description": "Can polynomial identity testing be derandomized."
+  },
+  {
+    "title": "Bipartite Matching in NC",
+    "slug": "bipartite-matching-in-nc",
+    "status": "open",
+    "description": "Does bipartite perfect matching have a deterministic parallel algorithm."
+  },
+  {
+    "title": "GNFS Complexity Limit",
+    "slug": "gnfs-complexity-limit",
+    "status": "empirically-supported",
+    "description": "What is the lower bound for the number field sieve algorithm."
+  },
+  {
+    "title": "Quantum Money Security",
+    "slug": "quantum-money-security",
+    "status": "open",
+    "description": "Can public key quantum money be made unconditionally secure."
+  },
+  {
+    "title": "Random Oracle Uninstantiability",
+    "slug": "random-oracle-uninstantiability",
+    "status": "partially-solved",
+    "description": "Are there cryptographic schemes secure with random oracles but insecure when instantiated."
+  },
+  {
+    "title": "Symmetric Cipher Lower Bounds",
+    "slug": "symmetric-cipher-lower-bounds",
+    "status": "open",
+    "description": "Can we prove non-trivial circuit lower bounds for block ciphers."
+  },
+  {
+    "title": "Oblivious RAM Lower Bound",
+    "slug": "oblivious-ram-lower-bound",
+    "status": "partially-solved",
+    "description": "What is the strict overhead required for oblivious random access memory."
+  },
+  {
+    "title": "Minimum Circuit Size Problem",
+    "slug": "minimum-circuit-size-problem",
+    "status": "open",
+    "description": "Is computing the minimum circuit size of a Boolean function NP-hard."
+  },
+  {
+    "title": "Circuit Lower Bounds for NP",
+    "slug": "circuit-lower-bounds-for-np",
+    "status": "open",
+    "description": "Can we prove superlinear circuit lower bounds for an NP-complete problem."
+  },
+  {
+    "title": "Information Causality",
+    "slug": "information-causality",
+    "status": "open",
+    "description": "Does information causality uniquely determine the boundary of quantum correlations."
+  },
+  {
+    "title": "SIC-POVM Existence",
+    "slug": "sic-povm-existence",
+    "status": "empirically-supported",
+    "description": "Do symmetric informationally complete positive operator-valued measures exist in all dimensions."
+  },
+  {
+    "title": "Mutually Unbiased Bases",
+    "slug": "mutually-unbiased-bases",
+    "status": "open",
+    "description": "What is the maximum number of mutually unbiased bases in non-prime dimensions."
+  },
+  {
+    "title": "Quantum Threshold Theorem",
+    "slug": "quantum-threshold-theorem",
+    "status": "partially-solved",
+    "description": "What is the absolute maximum noise threshold for fault-tolerant quantum computation."
+  },
+  {
+    "title": "Aaronson-Ambainis Conjecture",
+    "slug": "aaronson-ambainis-conjecture",
+    "status": "open",
+    "description": "Do completely bounded polynomials tightly characterize quantum query complexity."
+  },
+  {
+    "title": "Log-Approximate-Rank Conjecture",
+    "slug": "log-approximate-rank-conjecture",
+    "status": "open",
+    "description": "Is quantum communication complexity bounded by the logarithm of approximate rank."
+  },
+  {
+    "title": "Quantum Singular Value Transformation Optimality",
+    "slug": "quantum-singular-value-transformation-optimality",
+    "status": "open",
+    "description": "Is QSVT the optimal framework for all quantum algorithms."
+  }
+]

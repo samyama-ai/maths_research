@@ -1,0 +1,500 @@
+[
+  {
+    "title": "Sendov Conjecture",
+    "slug": "sendov-conjecture",
+    "status": "partially-solved",
+    "description": "Roots of a polynomial relate to its critical points."
+  },
+  {
+    "title": "Bieberbach Conjecture",
+    "slug": "bieberbach-conjecture",
+    "status": "solved-recently",
+    "description": "Coefficients of univalent functions are bounded by their index."
+  },
+  {
+    "title": "Brennan Conjecture",
+    "slug": "brennan-conjecture",
+    "status": "open",
+    "description": "Bounds the integral of derivatives of conformal mappings."
+  },
+  {
+    "title": "Kra Conjecture",
+    "slug": "kra-conjecture",
+    "status": "open",
+    "description": "Relates to the norm of the Poincare series operator."
+  },
+  {
+    "title": "Iwaniec Conjecture",
+    "slug": "iwaniec-conjecture",
+    "status": "open",
+    "description": "Bounds the coefficients of univalent functions with real coefficients."
+  },
+  {
+    "title": "Vitushkin Conjecture",
+    "slug": "vitushkin-conjecture",
+    "status": "partially-solved",
+    "description": "Characterizes compact sets for rational approximation."
+  },
+  {
+    "title": "Fatou Conjecture",
+    "slug": "fatou-conjecture",
+    "status": "open",
+    "description": "Hyperbolic rational maps are dense in all rational maps."
+  },
+  {
+    "title": "Mandelbrot Local Connectivity",
+    "slug": "mandelbrot-local-connectivity",
+    "status": "open",
+    "description": "The Mandelbrot set is locally connected everywhere."
+  },
+  {
+    "title": "Eremenko Conjecture",
+    "slug": "eremenko-conjecture",
+    "status": "open",
+    "description": "Escaping sets of entire functions have connected components."
+  },
+  {
+    "title": "Baker Conjecture",
+    "slug": "baker-conjecture",
+    "status": "open",
+    "description": "Entire functions of order less than half lack wandering domains."
+  },
+  {
+    "title": "Wiman-Valiron Conjecture",
+    "slug": "wiman-valiron-conjecture",
+    "status": "partially-solved",
+    "description": "Relates maximum modulus and central index of entire functions."
+  },
+  {
+    "title": "Hayman Conjecture",
+    "slug": "hayman-conjecture",
+    "status": "solved-recently",
+    "description": "An entire function and its derivative have common values."
+  },
+  {
+    "title": "Corona Theorem",
+    "slug": "corona-theorem",
+    "status": "solved-recently",
+    "description": "The open unit disk is dense in its maximal ideal space."
+  },
+  {
+    "title": "Ahlfors Measure Conjecture",
+    "slug": "ahlfors-measure-conjecture",
+    "status": "solved-recently",
+    "description": "Limit sets of finitely generated Kleinian groups have zero measure."
+  },
+  {
+    "title": "Marden Conjecture",
+    "slug": "marden-conjecture",
+    "status": "solved-recently",
+    "description": "Finitely generated Kleinian groups are topologically tame."
+  },
+  {
+    "title": "Thurston Ending Lamination",
+    "slug": "thurston-ending-lamination",
+    "status": "solved-recently",
+    "description": "Kleinian groups are determined by their ending laminations."
+  },
+  {
+    "title": "Rigidity of Rational Maps",
+    "slug": "rigidity-of-rational-maps",
+    "status": "open",
+    "description": "Topological conjugacy implies conformal conjugacy for rational maps."
+  },
+  {
+    "title": "Schanuel Conjecture",
+    "slug": "schanuel-conjecture",
+    "status": "open",
+    "description": "Bounds the transcendence degree of exponential fields."
+  },
+  {
+    "title": "Kakeya Conjecture",
+    "slug": "kakeya-conjecture",
+    "status": "open",
+    "description": "Sets containing line segments in all directions have maximal dimension."
+  },
+  {
+    "title": "Bochner-Riesz Conjecture",
+    "slug": "bochner-riesz-conjecture",
+    "status": "open",
+    "description": "Concerns the convergence of certain spherical partial sums."
+  },
+  {
+    "title": "Restriction Conjecture",
+    "slug": "restriction-conjecture",
+    "status": "open",
+    "description": "Bounds the Fourier transform of functions on curved surfaces."
+  },
+  {
+    "title": "Montgomery Pair Correlation",
+    "slug": "montgomery-pair-correlation",
+    "status": "empirically-supported",
+    "description": "Zeros of the zeta function follow random matrix eigenvalue distributions."
+  },
+  {
+    "title": "Carleson Conjecture",
+    "slug": "carleson-conjecture",
+    "status": "solved-recently",
+    "description": "Fourier series of square integrable functions converge almost everywhere."
+  },
+  {
+    "title": "Zygmund Conjecture",
+    "slug": "zygmund-conjecture",
+    "status": "open",
+    "description": "Differentiability of Lipschitz functions along vector fields."
+  },
+  {
+    "title": "Calderon Zygmund Extensions",
+    "slug": "calderon-zygmund-extensions",
+    "status": "open",
+    "description": "Generalizations of singular integral operators to non homogeneous spaces."
+  },
+  {
+    "title": "Erdos Similarity Problem",
+    "slug": "erdos-similarity-problem",
+    "status": "open",
+    "description": "Sets of positive measure contain affine copies of sequences."
+  },
+  {
+    "title": "Falconer Distance Set",
+    "slug": "falconer-distance-set",
+    "status": "open",
+    "description": "Sets of large dimension have distance sets of positive measure."
+  },
+  {
+    "title": "Furstenberg Set Problem",
+    "slug": "furstenberg-set-problem",
+    "status": "open",
+    "description": "Bounds the Hausdorff dimension of intersections of fractal sets."
+  },
+  {
+    "title": "Marstrand Projection Generalizations",
+    "slug": "marstrand-projection-generalizations",
+    "status": "partially-solved",
+    "description": "Projections of fractal sets retain maximal possible dimensions."
+  },
+  {
+    "title": "Bourgain Slicing Problem",
+    "slug": "bourgain-slicing-problem",
+    "status": "open",
+    "description": "Convex bodies have hyperplanes with large intersection volumes."
+  },
+  {
+    "title": "KLS Conjecture",
+    "slug": "kls-conjecture",
+    "status": "partially-solved",
+    "description": "Isoperimetric constants of convex bodies are universally bounded."
+  },
+  {
+    "title": "Frankl Conjecture",
+    "slug": "frankl-conjecture",
+    "status": "open",
+    "description": "Union closed families of sets contain elements in half the sets."
+  },
+  {
+    "title": "Fuglede Conjecture",
+    "slug": "fuglede-conjecture",
+    "status": "partially-solved",
+    "description": "Spectral sets tile the space by translations."
+  },
+  {
+    "title": "Berry Random Wave Model",
+    "slug": "berry-random-wave-model",
+    "status": "empirically-supported",
+    "description": "High energy eigenfunctions behave like random plane waves."
+  },
+  {
+    "title": "Quantum Unique Ergodicity",
+    "slug": "quantum-unique-ergodicity",
+    "status": "partially-solved",
+    "description": "High energy eigenfunctions become uniformly distributed on manifolds."
+  },
+  {
+    "title": "Selberg Eigenvalue Conjecture",
+    "slug": "selberg-eigenvalue-conjecture",
+    "status": "partially-solved",
+    "description": "First non trivial eigenvalue of Laplacian is strictly bounded."
+  },
+  {
+    "title": "Invariant Subspace Problem",
+    "slug": "invariant-subspace-problem",
+    "status": "partially-solved",
+    "description": "Every bounded operator on a Banach space has invariant subspaces."
+  },
+  {
+    "title": "Connes Embedding Problem",
+    "slug": "connes-embedding-problem",
+    "status": "solved-recently",
+    "description": "Finite von Neumann algebras embed into the ultrapower of hyperfinite."
+  },
+  {
+    "title": "Kadison-Singer Problem",
+    "slug": "kadison-singer-problem",
+    "status": "solved-recently",
+    "description": "Pure states on discrete groups extend uniquely to operators."
+  },
+  {
+    "title": "Halmos Invariant Subspace",
+    "slug": "halmos-invariant-subspace",
+    "status": "partially-solved",
+    "description": "Polynomially compact operators have non trivial invariant subspaces."
+  },
+  {
+    "title": "AM-GM for Matrices",
+    "slug": "am-gm-for-matrices",
+    "status": "partially-solved",
+    "description": "Generalizes arithmetic and geometric means to positive definite matrices."
+  },
+  {
+    "title": "Lieb-Thirring Inequalities",
+    "slug": "lieb-thirring-inequalities",
+    "status": "partially-solved",
+    "description": "Sharp constants for bounds on negative eigenvalues of Schrodinger operators."
+  },
+  {
+    "title": "Nirenberg Problem",
+    "slug": "nirenberg-problem",
+    "status": "partially-solved",
+    "description": "Prescribing scalar curvature on the standard sphere."
+  },
+  {
+    "title": "Kazdan-Warner Problem",
+    "slug": "kazdan-warner-problem",
+    "status": "partially-solved",
+    "description": "Characterizes functions that can be scalar curvatures of metrics."
+  },
+  {
+    "title": "Navier-Stokes Smoothness",
+    "slug": "navier-stokes-smoothness",
+    "status": "open",
+    "description": "Do solutions to three dimensional fluid equations remain smooth forever?"
+  },
+  {
+    "title": "Euler Equations Blowup",
+    "slug": "euler-equations-blowup",
+    "status": "open",
+    "description": "Do solutions to incompressible Euler equations develop finite time singularities?"
+  },
+  {
+    "title": "Ginzburg-Landau Vortex Dynamics",
+    "slug": "ginzburg-landau-vortex-dynamics",
+    "status": "partially-solved",
+    "description": "Describes the motion and interaction of vortices in superconductivity."
+  },
+  {
+    "title": "KPZ Equation Analysis",
+    "slug": "kpz-equation-analysis",
+    "status": "partially-solved",
+    "description": "Mathematical rigorous formulation of the stochastic growth model."
+  },
+  {
+    "title": "Vlasov-Poisson System",
+    "slug": "vlasov-poisson-system",
+    "status": "partially-solved",
+    "description": "Long time behavior of collisionless plasma density evolution."
+  },
+  {
+    "title": "Water Waves Problem",
+    "slug": "water-waves-problem",
+    "status": "partially-solved",
+    "description": "Global well posedness for surface wave equations with gravity."
+  },
+  {
+    "title": "Singular Yamabe Problem",
+    "slug": "singular-yamabe-problem",
+    "status": "partially-solved",
+    "description": "Finding metrics with constant scalar curvature and prescribed singularities."
+  },
+  {
+    "title": "Yamabe Problem",
+    "slug": "yamabe-problem",
+    "status": "solved-recently",
+    "description": "Every compact Riemannian manifold admits a conformal metric with constant curvature."
+  },
+  {
+    "title": "Schoen-Yau Positive Mass",
+    "slug": "schoen-yau-positive-mass",
+    "status": "solved-recently",
+    "description": "Total mass of an asymptotically flat spacetime is non negative."
+  },
+  {
+    "title": "Yau Conjecture on First Eigenvalue",
+    "slug": "yau-conjecture-on-first-eigenvalue",
+    "status": "open",
+    "description": "First eigenvalue of minimal surfaces is equal to their dimension."
+  },
+  {
+    "title": "Schoen Conjecture",
+    "slug": "schoen-conjecture",
+    "status": "open",
+    "description": "Compact minimal surfaces in spheres have bounded Morse index."
+  },
+  {
+    "title": "Chern-Ricci Flow",
+    "slug": "chern-ricci-flow",
+    "status": "partially-solved",
+    "description": "Evolution of Hermitian metrics by their Chern Ricci curvature."
+  },
+  {
+    "title": "Kahler-Ricci Flow Blowup",
+    "slug": "kahler-ricci-flow-blowup",
+    "status": "partially-solved",
+    "description": "Characterization of limits when flow encounters a singularity."
+  },
+  {
+    "title": "Kobayashi Hyperbolicity",
+    "slug": "kobayashi-hyperbolicity",
+    "status": "open",
+    "description": "Generic projective hypersurfaces of high degree are hyperbolic."
+  },
+  {
+    "title": "Lang Hyperbolic Varieties",
+    "slug": "lang-hyperbolic-varieties",
+    "status": "open",
+    "description": "Varieties are hyperbolic if and only if subvarieties are general type."
+  },
+  {
+    "title": "Shafarevich Holomorphic Convexity",
+    "slug": "shafarevich-holomorphic-convexity",
+    "status": "open",
+    "description": "Universal covers of projective varieties are holomorphically convex spaces."
+  },
+  {
+    "title": "Bloch Conjecture",
+    "slug": "bloch-conjecture",
+    "status": "open",
+    "description": "Surfaces with zero geometric genus have trivial maps."
+  },
+  {
+    "title": "Density Hypothesis",
+    "slug": "density-hypothesis",
+    "status": "open",
+    "description": "Bounds the number of zeros of the Riemann zeta function."
+  },
+  {
+    "title": "L-function Non-vanishing",
+    "slug": "l-function-non-vanishing",
+    "status": "open",
+    "description": "Central values of certain families of L functions are non zero."
+  },
+  {
+    "title": "Birch and Swinnerton-Dyer Analytic",
+    "slug": "birch-and-swinnerton-dyer-analytic",
+    "status": "partially-solved",
+    "description": "Rank of elliptic curves equals order of function at one."
+  },
+  {
+    "title": "Ramanujan Conjecture",
+    "slug": "ramanujan-conjecture",
+    "status": "solved-recently",
+    "description": "Fourier coefficients of cusp forms satisfy strict asymptotic bounds."
+  },
+  {
+    "title": "Four Exponentials Conjecture",
+    "slug": "four-exponentials-conjecture",
+    "status": "open",
+    "description": "Matrix of logarithms of algebraic numbers has maximal possible rank."
+  },
+  {
+    "title": "Six Exponentials Theorem",
+    "slug": "six-exponentials-theorem",
+    "status": "solved-recently",
+    "description": "At least one ratio of certain exponential combinations is transcendental."
+  },
+  {
+    "title": "Lehmer Conjecture",
+    "slug": "lehmer-conjecture",
+    "status": "open",
+    "description": "Mahler measure of non cyclotomic polynomials is strictly bounded away."
+  },
+  {
+    "title": "Gelfond Conjecture",
+    "slug": "gelfond-conjecture",
+    "status": "solved-recently",
+    "description": "Transcendence of certain values of exponential and logarithmic functions."
+  },
+  {
+    "title": "Leopoldt Conjecture",
+    "slug": "leopoldt-conjecture",
+    "status": "partially-solved",
+    "description": "Non vanishing of the regulator for number fields."
+  },
+  {
+    "title": "Greenberg Conjecture",
+    "slug": "greenberg-conjecture",
+    "status": "open",
+    "description": "Invariants vanish for totally real number fields."
+  },
+  {
+    "title": "Vandiver Conjecture",
+    "slug": "vandiver-conjecture",
+    "status": "empirically-supported",
+    "description": "Class number of real cyclotomic fields is not divisible by prime."
+  },
+  {
+    "title": "Novikov Conjecture Analysis",
+    "slug": "novikov-conjecture-analysis",
+    "status": "partially-solved",
+    "description": "Higher signatures of manifolds are invariants of their homotopy type."
+  },
+  {
+    "title": "Zimmer Conjecture",
+    "slug": "zimmer-conjecture",
+    "status": "solved-recently",
+    "description": "Higher rank lattices cannot act on low dimensional compact manifolds."
+  },
+  {
+    "title": "Mehler-Heine Asymptotics",
+    "slug": "mehler-heine-asymptotics",
+    "status": "partially-solved",
+    "description": "Asymptotic behavior of orthogonal polynomials near boundary points of domains."
+  },
+  {
+    "title": "Pisot-Vijayaraghavan Problem",
+    "slug": "pisot-vijayaraghavan-problem",
+    "status": "open",
+    "description": "Distribution of fractional parts of powers of algebraic integers."
+  },
+  {
+    "title": "Khavinson-Shapiro Conjecture",
+    "slug": "khavinson-shapiro-conjecture",
+    "status": "open",
+    "description": "Harmonic extensions of polynomials to ellipsoids are entire functions."
+  },
+  {
+    "title": "Nevanlinna Theory Extensions",
+    "slug": "nevanlinna-theory-extensions",
+    "status": "open",
+    "description": "Value distribution theory of meromorphic functions on complex manifolds."
+  },
+  {
+    "title": "Pommerenke Conjecture",
+    "slug": "pommerenke-conjecture",
+    "status": "open",
+    "description": "Coefficients of certain univalent functions have specific asymptotic growth rates."
+  },
+  {
+    "title": "Shields Conjecture",
+    "slug": "shields-conjecture",
+    "status": "open",
+    "description": "Multipliers on certain Banach spaces of analytic functions are strictly bounded."
+  },
+  {
+    "title": "Polya-Carlson Theorem Extensions",
+    "slug": "polya-carlson-theorem-extensions",
+    "status": "open",
+    "description": "Characterization of power series with integer coefficients and natural boundaries."
+  },
+  {
+    "title": "Szego Limit Theorems",
+    "slug": "szego-limit-theorems",
+    "status": "partially-solved",
+    "description": "Asymptotic determinants of Toeplitz matrices with various classes of symbols."
+  },
+  {
+    "title": "Beurling-Lax Theorem Generalizations",
+    "slug": "beurling-lax-theorem-generalizations",
+    "status": "open",
+    "description": "Characterization of invariant subspaces for operators on general Banach spaces."
+  }
+]

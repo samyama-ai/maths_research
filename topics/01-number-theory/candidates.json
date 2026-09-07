@@ -1,0 +1,662 @@
+[
+  {
+    "title": "Riemann Hypothesis",
+    "slug": "riemann-hypothesis",
+    "status": "open",
+    "description": "All non-trivial zeros of the zeta function have real part half."
+  },
+  {
+    "title": "Goldbach's Conjecture",
+    "slug": "goldbachs-conjecture",
+    "status": "open",
+    "description": "Every even integer greater than two is the sum of two primes."
+  },
+  {
+    "title": "Twin Prime Conjecture",
+    "slug": "twin-prime-conjecture",
+    "status": "open",
+    "description": "There are infinitely many primes that differ by exactly two."
+  },
+  {
+    "title": "Collatz Conjecture",
+    "slug": "collatz-conjecture",
+    "status": "open",
+    "description": "Repeated application of the three n plus one rule reaches one."
+  },
+  {
+    "title": "abc Conjecture",
+    "slug": "abc-conjecture",
+    "status": "open",
+    "description": "Relates the prime factors of numbers in addition equations."
+  },
+  {
+    "title": "Birch and Swinnerton-Dyer Conjecture",
+    "slug": "birch-and-swinnerton-dyer-conjecture",
+    "status": "open",
+    "description": "Relates the rank of an elliptic curve to its L function."
+  },
+  {
+    "title": "Beal Conjecture",
+    "slug": "beal-conjecture",
+    "status": "open",
+    "description": "A generalized form of Fermat's Last Theorem requiring a common prime factor."
+  },
+  {
+    "title": "Fermat's Last Theorem",
+    "slug": "fermats-last-theorem",
+    "status": "solved-recently",
+    "description": "No three positive integers satisfy the equation for powers greater than two."
+  },
+  {
+    "title": "Weak Goldbach Conjecture",
+    "slug": "weak-goldbach-conjecture",
+    "status": "solved-recently",
+    "description": "Every odd number greater than five is the sum of three primes."
+  },
+  {
+    "title": "Green-Tao Theorem",
+    "slug": "green-tao-theorem",
+    "status": "solved-recently",
+    "description": "The prime numbers contain arithmetic progressions of arbitrary length."
+  },
+  {
+    "title": "Catalan's Conjecture",
+    "slug": "catalans-conjecture",
+    "status": "solved-recently",
+    "description": "Eight and nine are the only consecutive perfect powers."
+  },
+  {
+    "title": "Erdos-Straus Conjecture",
+    "slug": "erdos-straus-conjecture",
+    "status": "open",
+    "description": "The fraction four over n can be written using three unit fractions."
+  },
+  {
+    "title": "Legendre's Conjecture",
+    "slug": "legendres-conjecture",
+    "status": "open",
+    "description": "There is always a prime between consecutive perfect squares."
+  },
+  {
+    "title": "Brocard's Problem",
+    "slug": "brocards-problem",
+    "status": "open",
+    "description": "Finds integers whose factorial plus one equals a perfect square."
+  },
+  {
+    "title": "Littlewood Conjecture",
+    "slug": "littlewood-conjecture",
+    "status": "open",
+    "description": "Concerns simultaneous Diophantine approximation for two real numbers."
+  },
+  {
+    "title": "Elliott-Halberstam Conjecture",
+    "slug": "elliott-halberstam-conjecture",
+    "status": "open",
+    "description": "Bounds the error term in the distribution of primes in arithmetic progressions."
+  },
+  {
+    "title": "Sato-Tate Conjecture",
+    "slug": "sato-tate-conjecture",
+    "status": "solved-recently",
+    "description": "Describes the statistical distribution of the number of points on elliptic curves."
+  },
+  {
+    "title": "Schanuel's Conjecture",
+    "slug": "schanuels-conjecture",
+    "status": "open",
+    "description": "Provides a unifying generalization for the transcendence of exponential expressions."
+  },
+  {
+    "title": "Lehmer's Totient Problem",
+    "slug": "lehmers-totient-problem",
+    "status": "open",
+    "description": "Asks if a composite number totient divides the number minus one."
+  },
+  {
+    "title": "Carmichael's Totient Function Conjecture",
+    "slug": "carmichaels-totient-function-conjecture",
+    "status": "open",
+    "description": "States that no totient value is achieved by exactly one integer."
+  },
+  {
+    "title": "Odd Perfect Number Conjecture",
+    "slug": "odd-perfect-number-conjecture",
+    "status": "open",
+    "description": "Proposes that there are no odd perfect numbers."
+  },
+  {
+    "title": "Infinitude of Mersenne Primes",
+    "slug": "infinitude-of-mersenne-primes",
+    "status": "open",
+    "description": "There are infinitely many primes one less than a power of two."
+  },
+  {
+    "title": "Infinitude of Fermat Primes",
+    "slug": "infinitude-of-fermat-primes",
+    "status": "open",
+    "description": "Asks whether there are infinitely many primes of the Fermat form."
+  },
+  {
+    "title": "Infinitude of Regular Primes",
+    "slug": "infinitude-of-regular-primes",
+    "status": "empirically-supported",
+    "description": "Conjectures that there are infinitely many regular prime numbers."
+  },
+  {
+    "title": "Infinitude of Sophie Germain Primes",
+    "slug": "infinitude-of-sophie-germain-primes",
+    "status": "open",
+    "description": "Are there infinitely many primes whose double plus one is prime."
+  },
+  {
+    "title": "Infinitude of Cullen Primes",
+    "slug": "infinitude-of-cullen-primes",
+    "status": "open",
+    "description": "Asks if there are infinitely many primes of the Cullen form."
+  },
+  {
+    "title": "Infinitude of Woodall Primes",
+    "slug": "infinitude-of-woodall-primes",
+    "status": "open",
+    "description": "Asks if there are infinitely many primes of the Woodall form."
+  },
+  {
+    "title": "Infinitude of Wieferich Primes",
+    "slug": "infinitude-of-wieferich-primes",
+    "status": "open",
+    "description": "Asks if there are infinitely many primes satisfying the Wieferich congruence."
+  },
+  {
+    "title": "Infinitude of Wall-Sun-Sun Primes",
+    "slug": "infinitude-of-wall-sun-sun-primes",
+    "status": "open",
+    "description": "Asks if any primes satisfy a specific congruence involving Fibonacci numbers."
+  },
+  {
+    "title": "Infinitude of Wilson Primes",
+    "slug": "infinitude-of-wilson-primes",
+    "status": "open",
+    "description": "Asks if there are infinitely many primes satisfying the Wilson congruence."
+  },
+  {
+    "title": "Infinitude of Wolstenholme Primes",
+    "slug": "infinitude-of-wolstenholme-primes",
+    "status": "open",
+    "description": "Asks if there are infinitely many primes satisfying the Wolstenholme congruence."
+  },
+  {
+    "title": "Infinitude of Wagstaff Primes",
+    "slug": "infinitude-of-wagstaff-primes",
+    "status": "open",
+    "description": "Asks if there are infinitely many primes of the Wagstaff form."
+  },
+  {
+    "title": "Bateman-Horn Conjecture",
+    "slug": "bateman-horn-conjecture",
+    "status": "open",
+    "description": "Predicts the density of primes generated by systems of polynomials."
+  },
+  {
+    "title": "Hardy-Littlewood First Tuple Conjecture",
+    "slug": "hardy-littlewood-first-tuple-conjecture",
+    "status": "open",
+    "description": "Quantifies the asymptotic frequency of prime constellations."
+  },
+  {
+    "title": "Hardy-Littlewood Second Conjecture",
+    "slug": "hardy-littlewood-second-conjecture",
+    "status": "partially-solved",
+    "description": "Claims the number of primes in intervals is subadditive."
+  },
+  {
+    "title": "Agoh-Giuga Conjecture",
+    "slug": "agoh-giuga-conjecture",
+    "status": "open",
+    "description": "Relates prime numbers to a specific Bernoulli number congruence."
+  },
+  {
+    "title": "Erdos-Moser Equation",
+    "slug": "erdos-moser-equation",
+    "status": "open",
+    "description": "Asks if the sum of consecutive powers can equal the next power."
+  },
+  {
+    "title": "Lemoine's Conjecture",
+    "slug": "lemoines-conjecture",
+    "status": "open",
+    "description": "States every odd integer is a prime plus twice a prime."
+  },
+  {
+    "title": "Oppermann's Conjecture",
+    "slug": "oppermanns-conjecture",
+    "status": "open",
+    "description": "Predicts primes closely related to squares and oblong numbers."
+  },
+  {
+    "title": "Firoozbakht's Conjecture",
+    "slug": "firoozbakhts-conjecture",
+    "status": "empirically-supported",
+    "description": "States the nth root of the nth prime is strictly decreasing."
+  },
+  {
+    "title": "Cramer's Conjecture",
+    "slug": "cramers-conjecture",
+    "status": "open",
+    "description": "Provides an asymptotic upper bound for the gaps between consecutive primes."
+  },
+  {
+    "title": "Andrica's Conjecture",
+    "slug": "andricas-conjecture",
+    "status": "open",
+    "description": "States the difference between square roots of consecutive primes is under one."
+  },
+  {
+    "title": "Gilbreath's Conjecture",
+    "slug": "gilbreaths-conjecture",
+    "status": "open",
+    "description": "Concerns the absolute differences between consecutive terms in prime sequences."
+  },
+  {
+    "title": "Polignac's Conjecture",
+    "slug": "polignacs-conjecture",
+    "status": "open",
+    "description": "States every even number is the difference of two primes infinitely often."
+  },
+  {
+    "title": "Grimm's Conjecture",
+    "slug": "grimms-conjecture",
+    "status": "open",
+    "description": "Assigns distinct prime factors to elements of sequences of composite numbers."
+  },
+  {
+    "title": "Schinzel's Hypothesis H",
+    "slug": "schinzels-hypothesis-h",
+    "status": "open",
+    "description": "Generalizes the twin prime conjecture to sets of irreducible polynomials."
+  },
+  {
+    "title": "Bounded Gaps Between Primes",
+    "slug": "bounded-gaps-between-primes",
+    "status": "solved-recently",
+    "description": "Proves the existence of a finite bound for gaps between prime pairs."
+  },
+  {
+    "title": "Artin's Conjecture on Primitive Roots",
+    "slug": "artins-conjecture-on-primitive-roots",
+    "status": "partially-solved",
+    "description": "Predicts the frequency a given integer is a primitive root modulo primes."
+  },
+  {
+    "title": "Bunyakovsky Conjecture",
+    "slug": "bunyakovsky-conjecture",
+    "status": "open",
+    "description": "States certain irreducible polynomials yield infinitely many primes."
+  },
+  {
+    "title": "Chowla Conjecture",
+    "slug": "chowla-conjecture",
+    "status": "open",
+    "description": "Asserts the Mobius function acts like a random coin toss."
+  },
+  {
+    "title": "Sarnak's Mobius Disjointness Conjecture",
+    "slug": "sarnaks-mobius-disjointness-conjecture",
+    "status": "partially-solved",
+    "description": "Relates the Mobius function to zero entropy dynamical systems."
+  },
+  {
+    "title": "Grand Riemann Hypothesis",
+    "slug": "grand-riemann-hypothesis",
+    "status": "open",
+    "description": "Generalizes the Riemann Hypothesis to all automorphic L functions."
+  },
+  {
+    "title": "Generalized Riemann Hypothesis",
+    "slug": "generalized-riemann-hypothesis",
+    "status": "open",
+    "description": "Generalizes the Riemann Hypothesis to Dirichlet L functions."
+  },
+  {
+    "title": "Extended Riemann Hypothesis",
+    "slug": "extended-riemann-hypothesis",
+    "status": "open",
+    "description": "Generalizes the Riemann Hypothesis to Dedekind zeta functions of algebraic number fields."
+  },
+  {
+    "title": "Lindelof Hypothesis",
+    "slug": "lindelof-hypothesis",
+    "status": "open",
+    "description": "Bounds the growth of the Riemann zeta function on the critical line."
+  },
+  {
+    "title": "Montgomery's Pair Correlation Conjecture",
+    "slug": "montgomerys-pair-correlation-conjecture",
+    "status": "open",
+    "description": "Suggests zeta zeros follow the statistics of random unitary matrices."
+  },
+  {
+    "title": "Hilbert-Polya Conjecture",
+    "slug": "hilbert-polya-conjecture",
+    "status": "open",
+    "description": "Proposes proving the Riemann Hypothesis using self adjoint operators."
+  },
+  {
+    "title": "Bloch-Kato Conjecture",
+    "slug": "bloch-kato-conjecture",
+    "status": "partially-solved",
+    "description": "Relates algebraic K theory to special values of L functions."
+  },
+  {
+    "title": "Fontaine-Mazur Conjecture",
+    "slug": "fontaine-mazur-conjecture",
+    "status": "partially-solved",
+    "description": "Characterizes Galois representations arising from algebraic geometry."
+  },
+  {
+    "title": "Main Conjecture of Iwasawa Theory",
+    "slug": "main-conjecture-of-iwasawa-theory",
+    "status": "solved-recently",
+    "description": "Relates ideal class groups to p adic L functions."
+  },
+  {
+    "title": "Langlands Program",
+    "slug": "langlands-program",
+    "status": "partially-solved",
+    "description": "A vast web of conjectures unifying number theory and representation theory."
+  },
+  {
+    "title": "Fundamental Lemma of the Langlands Program",
+    "slug": "fundamental-lemma-of-the-langlands-program",
+    "status": "solved-recently",
+    "description": "An algebraic identity essential for proving Arthur Selberg trace formula."
+  },
+  {
+    "title": "Modularity Theorem",
+    "slug": "modularity-theorem",
+    "status": "solved-recently",
+    "description": "States that all rational elliptic curves arise from modular forms."
+  },
+  {
+    "title": "Serre's Modularity Conjecture",
+    "slug": "serres-modularity-conjecture",
+    "status": "solved-recently",
+    "description": "Relates odd irreducible Galois representations to modular forms."
+  },
+  {
+    "title": "Waring's Problem",
+    "slug": "warings-problem",
+    "status": "partially-solved",
+    "description": "Determines the minimum kth powers needed to sum to any integer."
+  },
+  {
+    "title": "Sums of Three Cubes",
+    "slug": "sums-of-three-cubes",
+    "status": "partially-solved",
+    "description": "Explores which integers can be written as the sum of three cubes."
+  },
+  {
+    "title": "Euler's Sum of Powers Conjecture",
+    "slug": "eulers-sum-of-powers-conjecture",
+    "status": "solved-recently",
+    "description": "A disproved generalization of Fermat's Last Theorem."
+  },
+  {
+    "title": "Lander-Parkin-Selfridge Conjecture",
+    "slug": "lander-parkin-selfridge-conjecture",
+    "status": "open",
+    "description": "Predicts the minimum number of terms in sums of equal powers."
+  },
+  {
+    "title": "Giuga's Conjecture",
+    "slug": "giugas-conjecture",
+    "status": "open",
+    "description": "Provides a criterion for primality based on a sum of powers."
+  },
+  {
+    "title": "Goormaghtigh Conjecture",
+    "slug": "goormaghtigh-conjecture",
+    "status": "open",
+    "description": "Identifies numbers with identical repdigit representations in different bases."
+  },
+  {
+    "title": "Hall's Conjecture",
+    "slug": "halls-conjecture",
+    "status": "open",
+    "description": "Bounds the difference between perfect squares and perfect cubes."
+  },
+  {
+    "title": "Erdos-Woods Conjecture",
+    "slug": "erdos-woods-conjecture",
+    "status": "open",
+    "description": "Determines integers solely by the prime factors of adjacent intervals."
+  },
+  {
+    "title": "Szpiro's Conjecture",
+    "slug": "szpiros-conjecture",
+    "status": "open",
+    "description": "Relates the discriminant of an elliptic curve to its conductor."
+  },
+  {
+    "title": "Vojta's Conjecture",
+    "slug": "vojtas-conjecture",
+    "status": "open",
+    "description": "Generalizes the abc conjecture using Diophantine geometry."
+  },
+  {
+    "title": "Manin Conjecture",
+    "slug": "manin-conjecture",
+    "status": "open",
+    "description": "Describes the distribution of rational points on algebraic varieties."
+  },
+  {
+    "title": "Batyrev-Manin Conjecture",
+    "slug": "batyrev-manin-conjecture",
+    "status": "open",
+    "description": "Extends the Manin conjecture to the distribution of points on Fano varieties."
+  },
+  {
+    "title": "Tate Conjecture",
+    "slug": "tate-conjecture",
+    "status": "partially-solved",
+    "description": "Relates algebraic cycles on varieties to Galois representations."
+  },
+  {
+    "title": "Congruent Number Problem",
+    "slug": "congruent-number-problem",
+    "status": "open",
+    "description": "Asks which rational numbers are areas of right triangles with rational sides."
+  },
+  {
+    "title": "Lehmer's Mahler Measure Problem",
+    "slug": "lehmers-mahler-measure-problem",
+    "status": "open",
+    "description": "Asks if the Mahler measure of integer polynomials is close to one."
+  },
+  {
+    "title": "Pisot-Vijayaraghavan Numbers Problem",
+    "slug": "pisot-vijayaraghavan-numbers-problem",
+    "status": "open",
+    "description": "Asks about the algebraic nature of specific Salem numbers."
+  },
+  {
+    "title": "Irrationality of the Euler-Mascheroni Constant",
+    "slug": "irrationality-of-the-euler-mascheroni-constant",
+    "status": "open",
+    "description": "Asks whether the limiting difference between harmonic series and logarithm is irrational."
+  },
+  {
+    "title": "Irrationality of Catalan's Constant",
+    "slug": "irrationality-of-catalans-constant",
+    "status": "open",
+    "description": "Asks if the sum of the alternating inverse square series is irrational."
+  },
+  {
+    "title": "Irrationality of Apery's Constant for Odd Integers",
+    "slug": "irrationality-of-aperys-constant-for-odd-integers",
+    "status": "partially-solved",
+    "description": "Determines the irrationality of the Riemann zeta function at odd integers."
+  },
+  {
+    "title": "Irrationality of Pi plus E",
+    "slug": "irrationality-of-pi-plus-e",
+    "status": "open",
+    "description": "Asks if the sum of pi and Euler's number is irrational."
+  },
+  {
+    "title": "Irrationality of Pi times E",
+    "slug": "irrationality-of-pi-times-e",
+    "status": "open",
+    "description": "Asks if the product of pi and Euler's number is irrational."
+  },
+  {
+    "title": "Normal Number Property of Pi",
+    "slug": "normal-number-property-of-pi",
+    "status": "open",
+    "description": "Asks if the digits of pi are uniformly distributed in all bases."
+  },
+  {
+    "title": "Normal Number Property of Root Two",
+    "slug": "normal-number-property-of-root-two",
+    "status": "open",
+    "description": "Asks if the square root of two digits are uniformly distributed."
+  },
+  {
+    "title": "Skolem's Problem",
+    "slug": "skolems-problem",
+    "status": "open",
+    "description": "Asks if a linear recurrence sequence ever contains the number zero."
+  },
+  {
+    "title": "Leopoldt's Conjecture",
+    "slug": "leopoldts-conjecture",
+    "status": "partially-solved",
+    "description": "Concerns the p adic regulator of an algebraic number field."
+  },
+  {
+    "title": "Gross-Stark Conjecture",
+    "slug": "gross-stark-conjecture",
+    "status": "partially-solved",
+    "description": "Relates p adic L functions to the units of number fields."
+  },
+  {
+    "title": "Stark's Conjecture",
+    "slug": "starks-conjecture",
+    "status": "open",
+    "description": "Evaluates Artin L functions at zero in terms of algebraic units."
+  },
+  {
+    "title": "Brumer-Stark Conjecture",
+    "slug": "brumer-stark-conjecture",
+    "status": "partially-solved",
+    "description": "Provides a generalization of Stickelberger's theorem to totally real fields."
+  },
+  {
+    "title": "Vandiver's Conjecture",
+    "slug": "vandivers-conjecture",
+    "status": "empirically-supported",
+    "description": "States cyclotomic field maximal real subfield class numbers avoid division by p."
+  },
+  {
+    "title": "Greenberg's Conjecture",
+    "slug": "greenbergs-conjecture",
+    "status": "open",
+    "description": "States that the Iwasawa mu and lambda invariants are zero."
+  },
+  {
+    "title": "Ankeny-Artin-Chowla Conjecture",
+    "slug": "ankeny-artin-chowla-conjecture",
+    "status": "open",
+    "description": "Concerns the fundamental unit of real quadratic fields."
+  },
+  {
+    "title": "Cohen-Lenstra Heuristics",
+    "slug": "cohen-lenstra-heuristics",
+    "status": "empirically-supported",
+    "description": "Predicts the statistical distribution of class groups of quadratic fields."
+  },
+  {
+    "title": "Gauss Class Number Problem for Imaginary Quadratic Fields",
+    "slug": "gauss-class-number-problem-for-imaginary-quadratic-fields",
+    "status": "solved-recently",
+    "description": "Classifies imaginary quadratic fields based on their class numbers."
+  },
+  {
+    "title": "Gauss Class Number Problem for Real Quadratic Fields",
+    "slug": "gauss-class-number-problem-for-real-quadratic-fields",
+    "status": "open",
+    "description": "Asks if infinitely many real quadratic fields have class number one."
+  },
+  {
+    "title": "Existential Theory of the Rationals",
+    "slug": "existential-theory-of-the-rationals",
+    "status": "open",
+    "description": "Asks if Hilbert's tenth problem is decidable over the rational numbers."
+  },
+  {
+    "title": "Erdos Ulam Problem",
+    "slug": "erdos-ulam-problem",
+    "status": "open",
+    "description": "Asks if a dense planar set can have all pairwise rational distances."
+  },
+  {
+    "title": "Erdos Squarefree Conjecture",
+    "slug": "erdos-squarefree-conjecture",
+    "status": "solved-recently",
+    "description": "States that a specific central binomial coefficient is never squarefree."
+  },
+  {
+    "title": "Cassels' Conjecture",
+    "slug": "cassels-conjecture",
+    "status": "partially-solved",
+    "description": "Concerns the divisibility of the sum of three cubes."
+  },
+  {
+    "title": "Erdos-Graham Problem",
+    "slug": "erdos-graham-problem",
+    "status": "solved-recently",
+    "description": "Shows partitions of integers contain subsets with reciprocal sum one."
+  },
+  {
+    "title": "Mertens Conjecture",
+    "slug": "mertens-conjecture",
+    "status": "solved-recently",
+    "description": "A disproved bound on the growth of the Mertens function."
+  },
+  {
+    "title": "Polya Conjecture",
+    "slug": "polya-conjecture",
+    "status": "solved-recently",
+    "description": "A disproved conjecture about the sum of the Liouville function."
+  },
+  {
+    "title": "Turan's Inequalities",
+    "slug": "turans-inequalities",
+    "status": "solved-recently",
+    "description": "Concerns the roots of the Riemann zeta function and related polynomials."
+  },
+  {
+    "title": "Ulam's Spiral Conjectures",
+    "slug": "ulams-spiral-conjectures",
+    "status": "empirically-supported",
+    "description": "Explains the diagonal alignments of prime numbers in a square grid."
+  },
+  {
+    "title": "Boundedness of Elliptic Curve Ranks",
+    "slug": "boundedness-of-elliptic-curve-ranks",
+    "status": "empirically-supported",
+    "description": "Asks whether the rank of elliptic curves is uniformly bounded."
+  },
+  {
+    "title": "Infinitude of Amicable Numbers",
+    "slug": "infinitude-of-amicable-numbers",
+    "status": "open",
+    "description": "Asks whether there are infinitely many pairs of amicable numbers."
+  },
+  {
+    "title": "Singular Moduli Problem",
+    "slug": "singular-moduli-problem",
+    "status": "partially-solved",
+    "description": "Concerns algebraic differences between j invariants of elliptic curves with complex multiplication."
+  }
+]

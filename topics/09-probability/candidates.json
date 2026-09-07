@@ -1,0 +1,662 @@
+[
+  {
+    "title": "KPZ Equation Universality",
+    "slug": "kpz-equation-universality",
+    "status": "partially-solved",
+    "description": "Understand the universal scaling limits of surface growth models."
+  },
+  {
+    "title": "Self-Avoiding Walk Scaling Limit in 3D",
+    "slug": "self-avoiding-walk-scaling-limit-in-3d",
+    "status": "open",
+    "description": "Determine the rigorous continuum limit of three dimensional self-avoiding walks."
+  },
+  {
+    "title": "Aldous Spectral Gap Conjecture",
+    "slug": "aldous-spectral-gap-conjecture",
+    "status": "solved-recently",
+    "description": "Prove the spectral gap of random walks on certain graphs."
+  },
+  {
+    "title": "First-Passage Percolation Variance Exponent",
+    "slug": "first-passage-percolation-variance-exponent",
+    "status": "open",
+    "description": "Find the exact fluctuation exponent for first passage percolation distances."
+  },
+  {
+    "title": "Blank-Shiryaev Problem",
+    "slug": "blank-shiryaev-problem",
+    "status": "open",
+    "description": "Characterize the optimal stopping rule for specific sequential testing models."
+  },
+  {
+    "title": "Boolean Satisfiability Phase Transition",
+    "slug": "boolean-satisfiability-phase-transition",
+    "status": "partially-solved",
+    "description": "Prove the existence of a sharp satisfiability threshold for formulas."
+  },
+  {
+    "title": "Crossing Probabilities in 3D Percolation",
+    "slug": "crossing-probabilities-in-3d-percolation",
+    "status": "open",
+    "description": "Establish conformal invariance of crossing probabilities in three dimensional percolation."
+  },
+  {
+    "title": "Cutoff Phenomenon Universality for Markov Chains",
+    "slug": "cutoff-phenomenon-universality-for-markov-chains",
+    "status": "partially-solved",
+    "description": "Show most mixing times exhibit an abrupt cutoff phenomenon."
+  },
+  {
+    "title": "Dyson Brownian Motion Universality",
+    "slug": "dyson-brownian-motion-universality",
+    "status": "solved-recently",
+    "description": "Prove the universal local eigenvalue statistics for random matrix paths."
+  },
+  {
+    "title": "Spin Glass Phase Transition in Edwards-Anderson Model",
+    "slug": "spin-glass-phase-transition-in-edwards-anderson-model",
+    "status": "open",
+    "description": "Determine if there is a finite temperature spin glass phase."
+  },
+  {
+    "title": "Extinction Probability in Branching Random Walks",
+    "slug": "extinction-probability-in-branching-random-walks",
+    "status": "partially-solved",
+    "description": "Calculate exact extinction probabilities for spatially dependent branching processes."
+  },
+  {
+    "title": "Parisi Formula for Spin Glasses",
+    "slug": "parisi-formula-for-spin-glasses",
+    "status": "solved-recently",
+    "description": "Rigorously establish the free energy of the Sherrington-Kirkpatrick model."
+  },
+  {
+    "title": "Fluctuation of Longest Increasing Subsequence",
+    "slug": "fluctuation-of-longest-increasing-subsequence",
+    "status": "solved-recently",
+    "description": "Prove length fluctuations follow the Tracy Widom asymptotic distribution."
+  },
+  {
+    "title": "Random Band Matrices Universality",
+    "slug": "random-band-matrices-universality",
+    "status": "partially-solved",
+    "description": "Prove universal eigenvalue statistics for symmetric random band matrices."
+  },
+  {
+    "title": "Anderson Localization for Random Band Matrices",
+    "slug": "anderson-localization-for-random-band-matrices",
+    "status": "open",
+    "description": "Show a transition between localized and delocalized eigenvector states."
+  },
+  {
+    "title": "Ballisticity of Random Walks in Random Environments",
+    "slug": "ballisticity-of-random-walks-in-random-environments",
+    "status": "partially-solved",
+    "description": "Find criteria for random walks to have positive asymptotic velocity."
+  },
+  {
+    "title": "Reversibility of Schramm-Loewner Evolution",
+    "slug": "reversibility-of-schramm-loewner-evolution",
+    "status": "solved-recently",
+    "description": "Prove that reversing the process yields the same curve distribution."
+  },
+  {
+    "title": "Smirnov Conformal Invariance of Percolation",
+    "slug": "smirnov-conformal-invariance-of-percolation",
+    "status": "solved-recently",
+    "description": "Prove the conformal invariance of critical site percolation crossing limits."
+  },
+  {
+    "title": "Stationarity of the KPZ Fixed Point",
+    "slug": "stationarity-of-the-kpz-fixed-point",
+    "status": "solved-recently",
+    "description": "Construct and characterize the stationary measure of the KPZ equation."
+  },
+  {
+    "title": "The Circular Law for Random Matrices",
+    "slug": "the-circular-law-for-random-matrices",
+    "status": "solved-recently",
+    "description": "Prove complex eigenvalues of random matrices are uniformly distributed circularly."
+  },
+  {
+    "title": "The Gaussian Correlation Inequality",
+    "slug": "the-gaussian-correlation-inequality",
+    "status": "solved-recently",
+    "description": "Prove intersections of symmetric convex sets increase Gaussian measure."
+  },
+  {
+    "title": "Strict Positivity of Lyapunov Exponents for Standard Map",
+    "slug": "strict-positivity-of-lyapunov-exponents-for-standard-map",
+    "status": "open",
+    "description": "Show that the Chirikov standard map has positive Lyapunov exponents."
+  },
+  {
+    "title": "Exact Critical Exponents for 3D Ising Model",
+    "slug": "exact-critical-exponents-for-3d-ising-model",
+    "status": "empirically-supported",
+    "description": "Find exact rational values for three dimensional Ising critical exponents."
+  },
+  {
+    "title": "Stochastic Navier-Stokes Global Regularity",
+    "slug": "stochastic-navier-stokes-global-regularity",
+    "status": "open",
+    "description": "Establish existence and uniqueness of global solutions in three dimensions."
+  },
+  {
+    "title": "Fractional Brownian Motion Local Time Existence",
+    "slug": "fractional-brownian-motion-local-time-existence",
+    "status": "solved-recently",
+    "description": "Prove conditions for the existence of square integrable local times."
+  },
+  {
+    "title": "Kesten Percolation Threshold Theorem",
+    "slug": "kesten-percolation-threshold-theorem",
+    "status": "solved-recently",
+    "description": "Show the critical probability for bond percolation is exactly half."
+  },
+  {
+    "title": "Malliavin Calculus for Jump Processes Regularity",
+    "slug": "malliavin-calculus-for-jump-processes-regularity",
+    "status": "partially-solved",
+    "description": "Extend Malliavin derivative operators to general discontinuous jump processes."
+  },
+  {
+    "title": "Maximum of the Characteristic Polynomial of Random Matrices",
+    "slug": "maximum-of-the-characteristic-polynomial-of-random-matrices",
+    "status": "partially-solved",
+    "description": "Determine the extreme value statistics of random matrix characteristic polynomials."
+  },
+  {
+    "title": "Optimal Mixing Time of the Riffle Shuffle",
+    "slug": "optimal-mixing-time-of-the-riffle-shuffle",
+    "status": "solved-recently",
+    "description": "Prove that exactly seven shuffles are needed to mix cards."
+  },
+  {
+    "title": "Parabolic Anderson Model Intermittency Exponents",
+    "slug": "parabolic-anderson-model-intermittency-exponents",
+    "status": "partially-solved",
+    "description": "Compute the exact growth rates of statistical moments over time."
+  },
+  {
+    "title": "Phase Transition of the Random-Cluster Model",
+    "slug": "phase-transition-of-the-random-cluster-model",
+    "status": "partially-solved",
+    "description": "Characterize first and second order phase transitions in random graphs."
+  },
+  {
+    "title": "Regularity of the Stochastic Heat Equation",
+    "slug": "regularity-of-the-stochastic-heat-equation",
+    "status": "partially-solved",
+    "description": "Determine precise Holder continuity for solutions with rough multiplicative noise."
+  },
+  {
+    "title": "Super-Brownian Motion Support Dimension",
+    "slug": "super-brownian-motion-support-dimension",
+    "status": "solved-recently",
+    "description": "Find the exact Hausdorff dimension of the process support measure."
+  },
+  {
+    "title": "Talagrand Concentration Inequality",
+    "slug": "talagrand-concentration-inequality",
+    "status": "solved-recently",
+    "description": "Bound the probability that random variables deviate from their medians."
+  },
+  {
+    "title": "Contact Process Critical Value Approximation",
+    "slug": "contact-process-critical-value-approximation",
+    "status": "empirically-supported",
+    "description": "Find accurate numerical bounds for the critical infection rate threshold."
+  },
+  {
+    "title": "Convergence of the KMT Approximation",
+    "slug": "convergence-of-the-kmt-approximation",
+    "status": "solved-recently",
+    "description": "Give tight error bounds for embedding random walks into paths."
+  },
+  {
+    "title": "Stochastic Block Model Detection Threshold",
+    "slug": "stochastic-block-model-detection-threshold",
+    "status": "solved-recently",
+    "description": "Find the critical density for detecting communities in random graphs."
+  },
+  {
+    "title": "Tracy-Widom Distribution Universality",
+    "slug": "tracy-widom-distribution-universality",
+    "status": "partially-solved",
+    "description": "Prove Tracy Widom limits appear in varied statistical mechanics models."
+  },
+  {
+    "title": "Universality of the Gaussian Free Field",
+    "slug": "universality-of-the-gaussian-free-field",
+    "status": "partially-solved",
+    "description": "Show diverse discrete random surfaces converge to the continuous field."
+  },
+  {
+    "title": "Tsirelson Equation Strong Solutions",
+    "slug": "tsirelson-equation-strong-solutions",
+    "status": "solved-recently",
+    "description": "Prove that certain stochastic differential equations lack strong solution paths."
+  },
+  {
+    "title": "Williams Path Decomposition Generalization",
+    "slug": "williams-path-decomposition-generalization",
+    "status": "partially-solved",
+    "description": "Extend decomposition theorems to spectrally negative Levy processes."
+  },
+  {
+    "title": "Exact Critical Temperature of 3D Lattices",
+    "slug": "exact-critical-temperature-of-3d-lattices",
+    "status": "open",
+    "description": "Find an analytical formula for the three dimensional Curie temperature."
+  },
+  {
+    "title": "Limit Shape of the Monomer-Dimer Model",
+    "slug": "limit-shape-of-the-monomer-dimer-model",
+    "status": "partially-solved",
+    "description": "Characterize the macroscopic boundary curve of typical large dimer configurations."
+  },
+  {
+    "title": "Odlyzko Conjecture on Zeta Zeros",
+    "slug": "odlyzko-conjecture-on-zeta-zeros",
+    "status": "empirically-supported",
+    "description": "Show Riemann zeros match the Gaussian Unitary Ensemble eigenvalue spacings."
+  },
+  {
+    "title": "Random Schr\u00f6dinger Operators Mobility Edge",
+    "slug": "random-schrodinger-operators-mobility-edge",
+    "status": "open",
+    "description": "Prove the existence of a sharp energy boundary between states."
+  },
+  {
+    "title": "Harris-Kesten Theorem for Bond Percolation",
+    "slug": "harris-kesten-theorem-for-bond-percolation",
+    "status": "solved-recently",
+    "description": "Establish the exact percolation threshold for the square lattice."
+  },
+  {
+    "title": "Slowdown of Random Walks in Random Environments",
+    "slug": "slowdown-of-random-walks-in-random-environments",
+    "status": "partially-solved",
+    "description": "Analyze subdiffusive behavior and anomalous trapping in disordered random environments."
+  },
+  {
+    "title": "Zero-Temperature Glauber Dynamics Fixation",
+    "slug": "zero-temperature-glauber-dynamics-fixation",
+    "status": "partially-solved",
+    "description": "Determine if spin flip dynamics inevitably reach a constant state."
+  },
+  {
+    "title": "Aldous-Lyons Conjecture on Unimodular Networks",
+    "slug": "aldous-lyons-conjecture-on-unimodular-networks",
+    "status": "open",
+    "description": "Characterize networks obtainable as limits of finite planar random graphs."
+  },
+  {
+    "title": "No-Envy Routing on Random Graphs",
+    "slug": "no-envy-routing-on-random-graphs",
+    "status": "open",
+    "description": "Find routing strategies that minimize maximum congestion almost everywhere."
+  },
+  {
+    "title": "Scaling Limit of Loop-Erased Random Walk in 3D",
+    "slug": "scaling-limit-of-loop-erased-random-walk-in-3d",
+    "status": "open",
+    "description": "Identify the precise continuous object describing erased walks in 3D."
+  },
+  {
+    "title": "Dimension of the SLE Curve",
+    "slug": "dimension-of-the-sle-curve",
+    "status": "solved-recently",
+    "description": "Calculate the exact fractional dimension of Schramm Loewner evolution traces."
+  },
+  {
+    "title": "Ginibre Ensemble Circular Law",
+    "slug": "ginibre-ensemble-circular-law",
+    "status": "solved-recently",
+    "description": "Prove non Hermitian random matrix eigenvalues converge to a circle."
+  },
+  {
+    "title": "Directed Polymers in Random Environment Weak Disorder",
+    "slug": "directed-polymers-in-random-environment-weak-disorder",
+    "status": "partially-solved",
+    "description": "Analyze the high temperature fluctuation behavior of directed random paths."
+  },
+  {
+    "title": "Stochastic Burgers Equation Shock Waves",
+    "slug": "stochastic-burgers-equation-shock-waves",
+    "status": "partially-solved",
+    "description": "Understand the creation and propagation of shocks under random forcing."
+  },
+  {
+    "title": "Wigner Semicircular Law Universality",
+    "slug": "wigner-semicircular-law-universality",
+    "status": "solved-recently",
+    "description": "Show the semicircular eigenvalue distribution holds for general random matrices."
+  },
+  {
+    "title": "Invariant Measures of 2D Navier-Stokes",
+    "slug": "invariant-measures-of-2d-navier-stokes",
+    "status": "partially-solved",
+    "description": "Construct and classify invariant statistical measures for fluid flows."
+  },
+  {
+    "title": "Expected Euler Characteristic of Random Manifolds",
+    "slug": "expected-euler-characteristic-of-random-manifolds",
+    "status": "partially-solved",
+    "description": "Compute the expected topology invariants of high dimensional random geometries."
+  },
+  {
+    "title": "Newman Conjecture on Riemann Zeta Zeros",
+    "slug": "newman-conjecture-on-riemann-zeta-zeros",
+    "status": "open",
+    "description": "Bound the variance of random variables modeling the Riemann zeros."
+  },
+  {
+    "title": "Kac Ring Model Recurrence",
+    "slug": "kac-ring-model-recurrence",
+    "status": "solved-recently",
+    "description": "Explain the origin of macroscopic irreversibility from reversible microscopic dynamics."
+  },
+  {
+    "title": "Ray-Knight Theorem for Fractional Brownian Motion",
+    "slug": "ray-knight-theorem-for-fractional-brownian-motion",
+    "status": "open",
+    "description": "Find the exact local time distribution for fractional stochastic processes."
+  },
+  {
+    "title": "Convergence of the On Model Loop Soup",
+    "slug": "convergence-of-the-on-model-loop-soup",
+    "status": "partially-solved",
+    "description": "Show discrete loop models converge to continuous conformal loop ensembles."
+  },
+  {
+    "title": "Law of Large Numbers for Random Sets",
+    "slug": "law-of-large-numbers-for-random-sets",
+    "status": "solved-recently",
+    "description": "Establish convergence criteria for averages of independent random compact sets."
+  },
+  {
+    "title": "Optimal Stopping Problem for Fractional Brownian Motion",
+    "slug": "optimal-stopping-problem-for-fractional-brownian-motion",
+    "status": "partially-solved",
+    "description": "Determine optimal early exercise strategies for long memory random assets."
+  },
+  {
+    "title": "Snell Envelope Regularity",
+    "slug": "snell-envelope-regularity",
+    "status": "partially-solved",
+    "description": "Prove continuity and differentiability properties of the optimal stopping value."
+  },
+  {
+    "title": "Poincare Inequality for Log-Concave Measures",
+    "slug": "poincare-inequality-for-log-concave-measures",
+    "status": "partially-solved",
+    "description": "Bound the spectral gap of diffusion generators with log targets."
+  },
+  {
+    "title": "Edgeworth Expansion for Markov Chains",
+    "slug": "edgeworth-expansion-for-markov-chains",
+    "status": "partially-solved",
+    "description": "Develop higher order asymptotic corrections for Markov chain limit theorems."
+  },
+  {
+    "title": "Maximal Inequality for Fractional Martingales",
+    "slug": "maximal-inequality-for-fractional-martingales",
+    "status": "open",
+    "description": "Establish optimal bounds for the running maximum of fractional processes."
+  },
+  {
+    "title": "Local Limit Theorem for Random Walks in Random Environment",
+    "slug": "local-limit-theorem-for-random-walks-in-random-environment",
+    "status": "partially-solved",
+    "description": "Find pointwise asymptotic probability distributions for walks in disordered media."
+  },
+  {
+    "title": "Expected Number of Real Roots of Random Polynomials",
+    "slug": "expected-number-of-real-roots-of-random-polynomials",
+    "status": "solved-recently",
+    "description": "Calculate precisely the mean real zeros of random algebraic equations."
+  },
+  {
+    "title": "Random Energy Model Phase Transition Exact Solutions",
+    "slug": "random-energy-model-phase-transition-exact-solutions",
+    "status": "solved-recently",
+    "description": "Solve explicitly the thermodynamic limit of the random energy model."
+  },
+  {
+    "title": "Replica Symmetry Breaking in Sherrington-Kirkpatrick",
+    "slug": "replica-symmetry-breaking-in-sherrington-kirkpatrick",
+    "status": "solved-recently",
+    "description": "Rigorously justify the Parisi assumption of replica symmetry breaking patterns."
+  },
+  {
+    "title": "Extinction Time of the Contact Process on Finite Graphs",
+    "slug": "extinction-time-of-the-contact-process-on-finite-graphs",
+    "status": "partially-solved",
+    "description": "Bound the survival duration of infections on different graph topologies."
+  },
+  {
+    "title": "Voter Model Consensus Time on Random Graphs",
+    "slug": "voter-model-consensus-time-on-random-graphs",
+    "status": "partially-solved",
+    "description": "Calculate the expected time until all nodes share one opinion."
+  },
+  {
+    "title": "Scaling Limit of the Abelian Sandpile Model",
+    "slug": "scaling-limit-of-the-abelian-sandpile-model",
+    "status": "open",
+    "description": "Identify the rigorous continuous limit of discrete self organized sandpiles."
+  },
+  {
+    "title": "Fluctuation of the KPZ Equation in Higher Dimensions",
+    "slug": "fluctuation-of-the-kpz-equation-in-higher-dimensions",
+    "status": "open",
+    "description": "Determine the exact scaling exponents for surface growth beyond 1D."
+  },
+  {
+    "title": "Uniqueness of the KPZ Fixed Point",
+    "slug": "uniqueness-of-the-kpz-fixed-point",
+    "status": "open",
+    "description": "Prove the scale invariant limit of KPZ is strictly unique."
+  },
+  {
+    "title": "Critical Probability for Site Percolation on the Square Lattice",
+    "slug": "critical-probability-for-site-percolation-on-the-square-lattice",
+    "status": "open",
+    "description": "Find the exact analytical value of the site percolation threshold."
+  },
+  {
+    "title": "Russo-Seymour-Welsh Theory for 3D Percolation",
+    "slug": "russo-seymour-welsh-theory-for-3d-percolation",
+    "status": "open",
+    "description": "Bound crossing probabilities of rectangles uniformly at criticality in 3D."
+  },
+  {
+    "title": "Strict Inequalities for Percolation Critical Points",
+    "slug": "strict-inequalities-for-percolation-critical-points",
+    "status": "partially-solved",
+    "description": "Prove site percolation thresholds are strictly larger than bond thresholds."
+  },
+  {
+    "title": "Absence of Percolation at Criticality for 3D Lattices",
+    "slug": "absence-of-percolation-at-criticality-for-3d-lattices",
+    "status": "open",
+    "description": "Prove there is no infinite open cluster precisely at criticality."
+  },
+  {
+    "title": "Connectivity of the Random Telegraph Noise",
+    "slug": "connectivity-of-the-random-telegraph-noise",
+    "status": "partially-solved",
+    "description": "Analyze the topological properties of level sets of telegraph processes."
+  },
+  {
+    "title": "Scaling of the Random Spanning Tree in 3D",
+    "slug": "scaling-of-the-random-spanning-tree-in-3d",
+    "status": "open",
+    "description": "Find the continuous scaling limit of uniform 3D spanning trees."
+  },
+  {
+    "title": "Conformal Invariance of the 2D Ising Model",
+    "slug": "conformal-invariance-of-the-2d-ising-model",
+    "status": "solved-recently",
+    "description": "Show critical Ising correlations are invariant under planar conformal mappings."
+  },
+  {
+    "title": "Conformal Invariance of the 2D On Model",
+    "slug": "conformal-invariance-of-the-2d-on-model",
+    "status": "open",
+    "description": "Establish conformal invariance limits for the general O spin model."
+  },
+  {
+    "title": "Scaling Limit of the Random Planar Map",
+    "slug": "scaling-limit-of-the-random-planar-map",
+    "status": "solved-recently",
+    "description": "Prove discrete random triangulations converge to the continuous Brownian map."
+  },
+  {
+    "title": "Universality of the Brownian Map",
+    "slug": "universality-of-the-brownian-map",
+    "status": "solved-recently",
+    "description": "Show diverse random graph classes share the same continuous limit."
+  },
+  {
+    "title": "Geodesic Dimension of the Brownian Map",
+    "slug": "geodesic-dimension-of-the-brownian-map",
+    "status": "solved-recently",
+    "description": "Calculate the Hausdorff dimension of shortest paths in Brownian maps."
+  },
+  {
+    "title": "Volume of the Brownian Sphere",
+    "slug": "volume-of-the-brownian-sphere",
+    "status": "solved-recently",
+    "description": "Construct and characterize the natural volume measure on Brownian maps."
+  },
+  {
+    "title": "Random Walk on the Giant Component of Erdos-Renyi Graphs",
+    "slug": "random-walk-on-the-giant-component-of-erdos-renyi-graphs",
+    "status": "partially-solved",
+    "description": "Determine mixing times for walks constrained to the largest component."
+  },
+  {
+    "title": "Mixing Time of the Glauber Dynamics for the Ising Model",
+    "slug": "mixing-time-of-the-glauber-dynamics-for-the-ising-model",
+    "status": "partially-solved",
+    "description": "Bound the relaxation time of spin flips near critical temperatures."
+  },
+  {
+    "title": "Cutoff for the Simple Random Walk on Random Regular Graphs",
+    "slug": "cutoff-for-the-simple-random-walk-on-random-regular-graphs",
+    "status": "solved-recently",
+    "description": "Prove an abrupt mixing transition occurs on large regular graphs."
+  },
+  {
+    "title": "Phase Transition of the Random k-SAT Problem",
+    "slug": "phase-transition-of-the-random-k-sat-problem",
+    "status": "partially-solved",
+    "description": "Rigorously locate the exact critical density for constraint satisfiability."
+  },
+  {
+    "title": "Strict Bounds for the Random Maximum Satisfiability",
+    "slug": "strict-bounds-for-the-random-maximum-satisfiability",
+    "status": "partially-solved",
+    "description": "Find tight asymptotic bounds on unsatisfied clauses in random formulas."
+  },
+  {
+    "title": "Cover Time of the Random Walk on Fractals",
+    "slug": "cover-time-of-the-random-walk-on-fractals",
+    "status": "partially-solved",
+    "description": "Analyze the expected time required to visit every fractal node."
+  },
+  {
+    "title": "Recurrence of the Simple Random Walk on Comb Lattices",
+    "slug": "recurrence-of-the-simple-random-walk-on-comb-lattices",
+    "status": "solved-recently",
+    "description": "Prove recurrence properties for random walks on infinite comb structures."
+  },
+  {
+    "title": "Capacity of the Brownian Motion Path in 3D",
+    "slug": "capacity-of-the-brownian-motion-path-in-3d",
+    "status": "solved-recently",
+    "description": "Calculate exact asymptotics for the Newtonian capacity of Brownian paths."
+  },
+  {
+    "title": "Intersection Equivalence of Brownian Paths",
+    "slug": "intersection-equivalence-of-brownian-paths",
+    "status": "partially-solved",
+    "description": "Characterize sets that multiple independent Brownian motions can simultaneously intersect."
+  },
+  {
+    "title": "Multiple Points of Fractional Brownian Motion",
+    "slug": "multiple-points-of-fractional-brownian-motion",
+    "status": "partially-solved",
+    "description": "Find the dimensions of self intersection sets for fractional paths."
+  },
+  {
+    "title": "Smoothness of the Local Time of Brownian Motion",
+    "slug": "smoothness-of-the-local-time-of-brownian-motion",
+    "status": "solved-recently",
+    "description": "Characterize the precise modulus of continuity for the local time."
+  },
+  {
+    "title": "Hausdorff Dimension of the Zero Set of Fractional Brownian Motion",
+    "slug": "hausdorff-dimension-of-the-zero-set-of-fractional-brownian-motion",
+    "status": "solved-recently",
+    "description": "Determine the exact fractal dimension of the set of roots."
+  },
+  {
+    "title": "Continuity of the Local Time of the Stochastic Heat Equation",
+    "slug": "continuity-of-the-local-time-of-the-stochastic-heat-equation",
+    "status": "partially-solved",
+    "description": "Prove Holder continuity properties for local times of SPDE solutions."
+  },
+  {
+    "title": "Exact Asymptotics for the First Passage Time of Brownian Motion",
+    "slug": "exact-asymptotics-for-the-first-passage-time-of-brownian-motion",
+    "status": "solved-recently",
+    "description": "Calculate heavy tailed probabilities for Brownian motions reaching moving boundaries."
+  },
+  {
+    "title": "Spectral Gap of the Kawasaki Dynamics",
+    "slug": "spectral-gap-of-the-kawasaki-dynamics",
+    "status": "partially-solved",
+    "description": "Bound the mixing rate of conservative interacting particle systems."
+  },
+  {
+    "title": "Relaxation Time of the Exclusion Process",
+    "slug": "relaxation-time-of-the-exclusion-process",
+    "status": "partially-solved",
+    "description": "Determine exact convergence rates to equilibrium for asymmetric exclusions."
+  },
+  {
+    "title": "Hydrodynamic Limit of the Zero-Range Process",
+    "slug": "hydrodynamic-limit-of-the-zero-range-process",
+    "status": "solved-recently",
+    "description": "Derive macroscopic partial differential equations governing microscopic zero range dynamics."
+  },
+  {
+    "title": "Large Deviations for the Asymmetric Simple Exclusion Process",
+    "slug": "large-deviations-for-the-asymmetric-simple-exclusion-process",
+    "status": "partially-solved",
+    "description": "Calculate exact rate functions for macroscopic density profile fluctuations."
+  },
+  {
+    "title": "Macroscopic Fluctuation Theory for Driven Lattice Gases",
+    "slug": "macroscopic-fluctuation-theory-for-driven-lattice-gases",
+    "status": "partially-solved",
+    "description": "Establish a unified large deviation framework for stationary states."
+  },
+  {
+    "title": "Exact Solution of the Multispecies ASEP",
+    "slug": "exact-solution-of-the-multispecies-asep",
+    "status": "partially-solved",
+    "description": "Use algebraic Bethe ansatz to solve multi particle exclusion models."
+  },
+  {
+    "title": "Integrability of the Stochastic Six-Vertex Model",
+    "slug": "integrability-of-the-stochastic-six-vertex-model",
+    "status": "solved-recently",
+    "description": "Prove rigorous algebraic integrability for specific configurations of vertex weights."
+  }
+]

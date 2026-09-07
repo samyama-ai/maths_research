@@ -1,0 +1,620 @@
+[
+  {
+    "title": "Continuum Hypothesis",
+    "slug": "continuum-hypothesis",
+    "status": "partially-solved",
+    "description": "Is there a set sized strictly between the integers and the reals."
+  },
+  {
+    "title": "Generalized Continuum Hypothesis",
+    "slug": "generalized-continuum-hypothesis",
+    "status": "partially-solved",
+    "description": "Does every infinite set have no intermediate cardinality before its power set."
+  },
+  {
+    "title": "Suslin Hypothesis",
+    "slug": "suslin-hypothesis",
+    "status": "partially-solved",
+    "description": "Is every dense complete linear order without endpoints isomorphic to the reals."
+  },
+  {
+    "title": "Kurepa Hypothesis",
+    "slug": "kurepa-hypothesis",
+    "status": "partially-solved",
+    "description": "Do there exist Kurepa trees of height aleph one."
+  },
+  {
+    "title": "Vaught Conjecture",
+    "slug": "vaught-conjecture",
+    "status": "open",
+    "description": "Does every countable complete theory have countably or continuum many countable models."
+  },
+  {
+    "title": "Singular Cardinals Hypothesis",
+    "slug": "singular-cardinals-hypothesis",
+    "status": "partially-solved",
+    "description": "Does the singular cardinals hypothesis hold universally in set theory."
+  },
+  {
+    "title": "Woodin Omega Conjecture",
+    "slug": "woodin-omega-conjecture",
+    "status": "open",
+    "description": "Is the structural theory of the inner model canonical and unique."
+  },
+  {
+    "title": "Ultimate L Conjecture",
+    "slug": "ultimate-l-conjecture",
+    "status": "open",
+    "description": "Does there exist an inner model compatible with all large cardinal axioms."
+  },
+  {
+    "title": "Inner Model Problem for Supercompact Cardinals",
+    "slug": "inner-model-problem-supercompact-cardinals",
+    "status": "open",
+    "description": "Can one construct canonical inner models for supercompact cardinals."
+  },
+  {
+    "title": "Chang Conjecture",
+    "slug": "chang-conjecture",
+    "status": "partially-solved",
+    "description": "Do certain structural relationships hold between specific infinite cardinalities."
+  },
+  {
+    "title": "Keisler Order Conjecture",
+    "slug": "keisler-order-conjecture",
+    "status": "partially-solved",
+    "description": "Is the Keisler order on unstable theories well founded and linear."
+  },
+  {
+    "title": "Cherlin-Zilber Conjecture",
+    "slug": "cherlin-zilber-conjecture",
+    "status": "open",
+    "description": "Is every simple group of finite Morley rank an algebraic group."
+  },
+  {
+    "title": "Podewski Conjecture",
+    "slug": "podewski-conjecture",
+    "status": "partially-solved",
+    "description": "Is every minimal field strictly algebraically closed."
+  },
+  {
+    "title": "Zilber Trichotomy Conjecture",
+    "slug": "zilber-trichotomy-conjecture",
+    "status": "partially-solved",
+    "description": "Do all strongly minimal sets fall into three specific geometric categories."
+  },
+  {
+    "title": "Decidability of Reals with Exponential",
+    "slug": "decidability-of-reals-with-exponential",
+    "status": "partially-solved",
+    "description": "Is the theory of the real field with exponential function decidable."
+  },
+  {
+    "title": "Decidability of p-adic Exponential",
+    "slug": "decidability-of-p-adic-exponential",
+    "status": "open",
+    "description": "Is the field of p adic numbers with exponential function decidable."
+  },
+  {
+    "title": "Existential Theory of Reals with Sine",
+    "slug": "existential-theory-of-reals-with-sine",
+    "status": "open",
+    "description": "Is the existential theory of the real field with sine function decidable."
+  },
+  {
+    "title": "Hilbert Tenth Problem for Rationals",
+    "slug": "hilbert-tenth-problem-for-rationals",
+    "status": "open",
+    "description": "Is there an algorithm to find rational solutions to Diophantine equations."
+  },
+  {
+    "title": "Hilbert Tenth Problem for Number Fields",
+    "slug": "hilbert-tenth-problem-for-number-fields",
+    "status": "open",
+    "description": "Is Diophantine equation solvability over algebraic number fields algorithmic."
+  },
+  {
+    "title": "Decidability of Theory of Free Groups",
+    "slug": "decidability-of-theory-of-free-groups",
+    "status": "solved-recently",
+    "description": "Is the elementary theory of non abelian free groups decidable."
+  },
+  {
+    "title": "Tarski High School Algebra Problem",
+    "slug": "tarski-high-school-algebra-problem",
+    "status": "solved-recently",
+    "description": "Are all identities of exponentiation provable from basic high school algebra rules."
+  },
+  {
+    "title": "Tarski Exponential Function Problem",
+    "slug": "tarski-exponential-function-problem",
+    "status": "open",
+    "description": "Is the theory of the real field with exponentiation complete and decidable."
+  },
+  {
+    "title": "Strict Order Property Problem",
+    "slug": "strict-order-property-problem",
+    "status": "partially-solved",
+    "description": "Does the strict order property imply non structure in model theory."
+  },
+  {
+    "title": "Tree Property at Aleph Two",
+    "slug": "tree-property-at-aleph-two",
+    "status": "partially-solved",
+    "description": "Can the tree property hold at the second uncountable cardinal."
+  },
+  {
+    "title": "Proper Forcing Axiom Consistency",
+    "slug": "proper-forcing-axiom-consistency",
+    "status": "partially-solved",
+    "description": "Is the proper forcing axiom consistent relative to large cardinals."
+  },
+  {
+    "title": "Martin Maximum Consistency",
+    "slug": "martin-maximum-consistency",
+    "status": "partially-solved",
+    "description": "Is Martin Maximum consistent relative to the existence of supercompact cardinals."
+  },
+  {
+    "title": "Katetov Metrizability Problem",
+    "slug": "katetov-metrizability-problem",
+    "status": "solved-recently",
+    "description": "Do Katetov spaces admit a metrization under certain combinatorial conditions."
+  },
+  {
+    "title": "Normal Moore Space Conjecture",
+    "slug": "normal-moore-space-conjecture",
+    "status": "partially-solved",
+    "description": "Is every normal Moore space necessarily metrizable."
+  },
+  {
+    "title": "L Space Problem",
+    "slug": "l-space-problem",
+    "status": "solved-recently",
+    "description": "Does there exist a regular hereditarily Lindelof space that is not separable."
+  },
+  {
+    "title": "S Space Problem",
+    "slug": "s-space-problem",
+    "status": "partially-solved",
+    "description": "Does there exist a regular hereditarily separable space that is not Lindelof."
+  },
+  {
+    "title": "Dowker Space Problem",
+    "slug": "dowker-space-problem",
+    "status": "partially-solved",
+    "description": "Does there exist a normal topological space which is not countably paracompact."
+  },
+  {
+    "title": "Tsirelson Problem",
+    "slug": "tsirelson-problem",
+    "status": "solved-recently",
+    "description": "Are the commuting operator and tensor product models of quantum correlation equivalent."
+  },
+  {
+    "title": "Kaplansky Group Ring Conjecture",
+    "slug": "kaplansky-group-ring-conjecture",
+    "status": "partially-solved",
+    "description": "Does the group ring of a torsion free group lack zero divisors."
+  },
+  {
+    "title": "Invariant Basis Number Problem",
+    "slug": "invariant-basis-number-problem",
+    "status": "solved-recently",
+    "description": "Do all non trivial rings have an invariant basis number."
+  },
+  {
+    "title": "Whitehead Asphericity Conjecture",
+    "slug": "whitehead-asphericity-conjecture",
+    "status": "partially-solved",
+    "description": "Is any subcomplex of an aspherical two dimensional complex also aspherical."
+  },
+  {
+    "title": "Word Problem for One Relation Groups",
+    "slug": "word-problem-for-one-relation-groups",
+    "status": "partially-solved",
+    "description": "Is the word problem solvable for all groups with a single relation."
+  },
+  {
+    "title": "Conjugacy Problem for Braid Groups",
+    "slug": "conjugacy-problem-for-braid-groups",
+    "status": "solved-recently",
+    "description": "Is there an algorithm to solve the conjugacy problem in braid groups."
+  },
+  {
+    "title": "Homotopy Type Theory Coherence Problem",
+    "slug": "homotopy-type-theory-coherence-problem",
+    "status": "open",
+    "description": "Is it possible to strictly model identity types in homotopy type theory."
+  },
+  {
+    "title": "Normalization for Cubical Type Theory",
+    "slug": "normalization-for-cubical-type-theory",
+    "status": "partially-solved",
+    "description": "Does cubical type theory satisfy strong normalization properties."
+  },
+  {
+    "title": "Church Turing Thesis",
+    "slug": "church-turing-thesis",
+    "status": "empirically-supported",
+    "description": "Can every computable function be computed by a Turing machine."
+  },
+  {
+    "title": "Reverse Mathematics of Ramsey Theorem",
+    "slug": "reverse-mathematics-of-ramsey-theorem",
+    "status": "partially-solved",
+    "description": "What is the exact logical strength of Ramsey theorem for pairs."
+  },
+  {
+    "title": "Strength of Weak Konig Lemma",
+    "slug": "strength-of-weak-konig-lemma",
+    "status": "partially-solved",
+    "description": "What axioms precisely capture the computational strength of weak Konig lemma."
+  },
+  {
+    "title": "Genericity Problem for Turing Degrees",
+    "slug": "genericity-problem-for-turing-degrees",
+    "status": "open",
+    "description": "Are the generic degrees dense in the Turing degrees."
+  },
+  {
+    "title": "Martin Conjecture on Turing Degrees",
+    "slug": "martin-conjecture-on-turing-degrees",
+    "status": "open",
+    "description": "Are all natural functions on Turing degrees equivalent to constant or identity."
+  },
+  {
+    "title": "Automorphism Problem for Turing Degrees",
+    "slug": "automorphism-problem-for-turing-degrees",
+    "status": "open",
+    "description": "Are there non trivial automorphisms of the structure of Turing degrees."
+  },
+  {
+    "title": "Bi Interpretability of Turing Degrees",
+    "slug": "bi-interpretability-of-turing-degrees",
+    "status": "open",
+    "description": "Is the structure of Turing degrees bi interpretable with true arithmetic."
+  },
+  {
+    "title": "Theory of RE Degrees Decidability",
+    "slug": "theory-of-re-degrees-decidability",
+    "status": "solved-recently",
+    "description": "Is the first order theory of recursively enumerable degrees decidable."
+  },
+  {
+    "title": "Rigidity Conjecture for RE Degrees",
+    "slug": "rigidity-conjecture-for-re-degrees",
+    "status": "open",
+    "description": "Is the structure of recursively enumerable degrees totally rigid."
+  },
+  {
+    "title": "Definability of the Jump Operator",
+    "slug": "definability-of-the-jump-operator",
+    "status": "partially-solved",
+    "description": "Is the Turing jump operator definable in the partial order of degrees."
+  },
+  {
+    "title": "Global Structure of Turing Degrees",
+    "slug": "global-structure-of-turing-degrees",
+    "status": "partially-solved",
+    "description": "What is the precise algebraic structure of the upper semilattice of degrees."
+  },
+  {
+    "title": "Uniformization Problem for Projective Sets",
+    "slug": "uniformization-problem-for-projective-sets",
+    "status": "partially-solved",
+    "description": "Can every projective set be uniformized by a projective function."
+  },
+  {
+    "title": "Scale Property for Projective Sets",
+    "slug": "scale-property-for-projective-sets",
+    "status": "partially-solved",
+    "description": "Do all projective sets admit scales in descriptive set theory."
+  },
+  {
+    "title": "Perfect Set Property for Projective Sets",
+    "slug": "perfect-set-property-for-projective-sets",
+    "status": "partially-solved",
+    "description": "Do all projective sets have the perfect set property under large cardinals."
+  },
+  {
+    "title": "Measurability of Projective Sets",
+    "slug": "measurability-of-projective-sets",
+    "status": "partially-solved",
+    "description": "Are all projective sets Lebesgue measurable under large cardinal assumptions."
+  },
+  {
+    "title": "Axiom of Real Determinacy Consistency",
+    "slug": "axiom-of-real-determinacy-consistency",
+    "status": "partially-solved",
+    "description": "Is the axiom of real determinacy consistent with basic set theory."
+  },
+  {
+    "title": "Axiom of Projective Determinacy Consistency",
+    "slug": "axiom-of-projective-determinacy-consistency",
+    "status": "solved-recently",
+    "description": "Is projective determinacy consistent relative to the existence of Woodin cardinals."
+  },
+  {
+    "title": "Consistency of Quine New Foundations",
+    "slug": "consistency-of-quine-new-foundations",
+    "status": "solved-recently",
+    "description": "Is Quine set theory New Foundations equiconsistent with strictly bounded arithmetic."
+  },
+  {
+    "title": "Consistency of Positive Set Theory",
+    "slug": "consistency-of-positive-set-theory",
+    "status": "partially-solved",
+    "description": "Is positive set theory consistent when augmented with certain closure axioms."
+  },
+  {
+    "title": "Laver Tables Periodicity Problem",
+    "slug": "laver-tables-periodicity-problem",
+    "status": "open",
+    "description": "Do the periods of Laver tables grow unboundedly with their index."
+  },
+  {
+    "title": "Algebra of Elementary Embeddings Freeness",
+    "slug": "algebra-of-elementary-embeddings-freeness",
+    "status": "open",
+    "description": "Is the algebra of elementary embeddings on a rank inherently free."
+  },
+  {
+    "title": "Critical Sequence Problem",
+    "slug": "critical-sequence-problem",
+    "status": "open",
+    "description": "What are the limits on the critical sequence of an elementary embedding."
+  },
+  {
+    "title": "Jonson Algebras Existence",
+    "slug": "jonson-algebras-existence",
+    "status": "partially-solved",
+    "description": "Do there exist Jonsson algebras for every infinite cardinal."
+  },
+  {
+    "title": "Rowbottom Cardinals Existence",
+    "slug": "rowbottom-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Are Rowbottom cardinals consistent with the constructible universe."
+  },
+  {
+    "title": "Jonsson Cardinals Existence",
+    "slug": "jonsson-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Can a Jonsson cardinal be the successor of a singular cardinal."
+  },
+  {
+    "title": "Ramsey Cardinals Existence",
+    "slug": "ramsey-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Do Ramsey cardinals exist as a robust large cardinal notion."
+  },
+  {
+    "title": "Erdos Cardinals Existence",
+    "slug": "erdos-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Are Erdos cardinals compatible with various combinatorial partition properties."
+  },
+  {
+    "title": "Silver Cardinals Existence",
+    "slug": "silver-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Do Silver cardinals provide a distinct tier in the large cardinal hierarchy."
+  },
+  {
+    "title": "Strongly Compact Cardinals Existence",
+    "slug": "strongly-compact-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Is the existence of strongly compact cardinals equiconsistent with supercompact cardinals."
+  },
+  {
+    "title": "Supercompact Cardinals Existence",
+    "slug": "supercompact-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Can supercompact cardinals be the minimal large cardinal for forcing axioms."
+  },
+  {
+    "title": "Huge Cardinals Existence",
+    "slug": "huge-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Are huge cardinals consistent with standard Zermelo Fraenkel set theory."
+  },
+  {
+    "title": "Rank Into Rank Cardinals Existence",
+    "slug": "rank-into-rank-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Do rank into rank cardinals represent the upper limit of large cardinals."
+  },
+  {
+    "title": "Measurable Cardinals Existence",
+    "slug": "measurable-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Are measurable cardinals equiconsistent with the existence of elementary embeddings."
+  },
+  {
+    "title": "Inaccessible Cardinals Existence",
+    "slug": "inaccessible-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Can the existence of inaccessible cardinals be proved consistent."
+  },
+  {
+    "title": "Mahlo Cardinals Existence",
+    "slug": "mahlo-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Do Mahlo cardinals have reflection properties that extend beyond inaccessible cardinals."
+  },
+  {
+    "title": "Woodin Cardinals Existence",
+    "slug": "woodin-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Do Woodin cardinals capture the exact consistency strength of projective determinacy."
+  },
+  {
+    "title": "Shelah Cardinals Existence",
+    "slug": "shelah-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Are Shelah cardinals necessary for certain strong forms of forcing axioms."
+  },
+  {
+    "title": "Strong Cardinals Existence",
+    "slug": "strong-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Do strong cardinals provide a natural stepping stone to supercompactness."
+  },
+  {
+    "title": "Extendible Cardinals Existence",
+    "slug": "extendible-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Are extendible cardinals equiconsistent with a hierarchy of huge cardinals."
+  },
+  {
+    "title": "Vopenka Principle Consistency",
+    "slug": "vopenka-principle-consistency",
+    "status": "partially-solved",
+    "description": "Is Vopenka Principle consistent and how does it relate to large cardinals."
+  },
+  {
+    "title": "I0 Cardinals Existence",
+    "slug": "i0-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Are I zero cardinals the strongest non contradictory large cardinal axioms."
+  },
+  {
+    "title": "I1 Cardinals Existence",
+    "slug": "i1-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Do I one cardinals allow for non trivial elementary embeddings."
+  },
+  {
+    "title": "I2 Cardinals Existence",
+    "slug": "i2-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Are I two cardinals strictly weaker than their higher counterparts."
+  },
+  {
+    "title": "I3 Cardinals Existence",
+    "slug": "i3-cardinals-existence",
+    "status": "partially-solved",
+    "description": "Do I three cardinals exhibit unique combinatorial properties in rank extensions."
+  },
+  {
+    "title": "Reinhardt Cardinals Consistency",
+    "slug": "reinhardt-cardinals-consistency",
+    "status": "open",
+    "description": "Are Reinhardt cardinals consistent if the axiom of choice is omitted."
+  },
+  {
+    "title": "Berkeley Cardinals Consistency",
+    "slug": "berkeley-cardinals-consistency",
+    "status": "open",
+    "description": "Are Berkeley cardinals consistent in choiceless constructive set theories."
+  },
+  {
+    "title": "Club Guessing Principle Consistency",
+    "slug": "club-guessing-principle-consistency",
+    "status": "partially-solved",
+    "description": "Is the club guessing principle consistent with arbitrary large cardinals."
+  },
+  {
+    "title": "Diamond Principle Consistency",
+    "slug": "diamond-principle-consistency",
+    "status": "partially-solved",
+    "description": "Can the diamond principle hold alongside various large cardinal hypotheses."
+  },
+  {
+    "title": "Square Principle Consistency",
+    "slug": "square-principle-consistency",
+    "status": "partially-solved",
+    "description": "Is the square principle consistent with the existence of strongly compact cardinals."
+  },
+  {
+    "title": "Gap One Morass Existence",
+    "slug": "gap-one-morass-existence",
+    "status": "partially-solved",
+    "description": "Does a gap one morass exist under the constructibility axiom."
+  },
+  {
+    "title": "Bounded Proper Forcing Axiom",
+    "slug": "bounded-proper-forcing-axiom",
+    "status": "partially-solved",
+    "description": "What is the exact consistency strength of the bounded proper forcing axiom."
+  },
+  {
+    "title": "Semi Proper Forcing Axiom",
+    "slug": "semi-proper-forcing-axiom",
+    "status": "partially-solved",
+    "description": "Does the semi proper forcing axiom imply the singular cardinals hypothesis."
+  },
+  {
+    "title": "Iterated Forcing Convergence Problem",
+    "slug": "iterated-forcing-convergence-problem",
+    "status": "open",
+    "description": "Do generic iterated forcings converge under specialized chain conditions."
+  },
+  {
+    "title": "Prikry Forcing Generalization",
+    "slug": "prikry-forcing-generalization",
+    "status": "partially-solved",
+    "description": "Can Prikry forcing be generalized to handle multiple singular cardinals simultaneously."
+  },
+  {
+    "title": "Radin Forcing Generalization",
+    "slug": "radin-forcing-generalization",
+    "status": "partially-solved",
+    "description": "Does Radin forcing preserve large cardinal properties beyond measurability."
+  },
+  {
+    "title": "Namba Forcing Problem",
+    "slug": "namba-forcing-problem",
+    "status": "partially-solved",
+    "description": "Does Namba forcing inevitably collapse the second uncountable cardinal."
+  },
+  {
+    "title": "Magidor Forcing Problem",
+    "slug": "magidor-forcing-problem",
+    "status": "partially-solved",
+    "description": "Can Magidor forcing be used to precisely control cardinal arithmetic."
+  },
+  {
+    "title": "Mitchell Ordering Well Foundedness",
+    "slug": "mitchell-ordering-well-foundedness",
+    "status": "partially-solved",
+    "description": "Is the Mitchell ordering well founded for all coherent extender sequences."
+  },
+  {
+    "title": "Extender Models Core Model Problem",
+    "slug": "extender-models-core-model-problem",
+    "status": "partially-solved",
+    "description": "Does a core model exist for cardinals beyond a Woodin limit."
+  },
+  {
+    "title": "Fine Structure Theory Generalization",
+    "slug": "fine-structure-theory-generalization",
+    "status": "open",
+    "description": "Can fine structure theory be extended to models of supercompactness."
+  },
+  {
+    "title": "Mice Iteration Problem",
+    "slug": "mice-iteration-problem",
+    "status": "open",
+    "description": "Do iteration strategies for mice extend uniquely to uncountable lengths."
+  },
+  {
+    "title": "Covering Lemma for Extender Models",
+    "slug": "covering-lemma-for-extender-models",
+    "status": "open",
+    "description": "Does a strong covering lemma hold for all canonical extender models."
+  },
+  {
+    "title": "Weak Covering Lemma Problem",
+    "slug": "weak-covering-lemma-problem",
+    "status": "partially-solved",
+    "description": "Can the weak covering lemma be established for arbitrary core models."
+  },
+  {
+    "title": "Unique Limit of Woodin Cardinals",
+    "slug": "unique-limit-of-woodin-cardinals",
+    "status": "open",
+    "description": "Is the limit of Woodin cardinals structurally unique in extender models."
+  }
+]

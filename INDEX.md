@@ -16,6 +16,41 @@ Dir: [`02-algebra-group-theory`](./topics/02-algebra-group-theory/)
 
 - [Congruence Subgroup Problem](./topics/02-algebra-group-theory/congruence-subgroup-problem.md)
 
+## Algebraic & Differential Geometry (0)
+
+Dir: [`03-geometry`](./topics/03-geometry/)
+
+
+## Topology & Knot Theory (0)
+
+Dir: [`04-topology`](./topics/04-topology/)
+
+
+## Real & Complex Analysis (0)
+
+Dir: [`05-analysis`](./topics/05-analysis/)
+
+
+## Partial Differential Equations (0)
+
+Dir: [`06-pdes`](./topics/06-pdes/)
+
+
+## Combinatorics & Graph Theory (0)
+
+Dir: [`07-combinatorics`](./topics/07-combinatorics/)
+
+
+## Mathematical Logic & Set Theory (0)
+
+Dir: [`08-logic-set-theory`](./topics/08-logic-set-theory/)
+
+
+## Probability & Stochastic Processes (0)
+
+Dir: [`09-probability`](./topics/09-probability/)
+
+
 ## Theoretical Computer Science (1)
 
 Dir: [`10-theoretical-cs`](./topics/10-theoretical-cs/)

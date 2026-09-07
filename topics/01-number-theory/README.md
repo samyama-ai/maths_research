@@ -4,5 +4,5 @@ The study of integers, prime numbers, Diophantine equations, and related structu
 
 ## Problems Index
 
-* 🔴 [Riemann Hypothesis](./riemann-hypothesis.md) — The distribution of prime numbers is closely related to the non-trivial zeros of the Riemann zeta function.
-* 🔴 [Twin Prime Conjecture](./twin-prime-conjecture.md) — There are infinitely many prime pairs of the form $(p, p+2)$.
+* 🔴 [Riemann Hypothesis](./riemann-hypothesis.md) — All non-trivial zeros of the zeta function have real part half.
+* 🔴 [Twin Prime Conjecture](./twin-prime-conjecture.md) — There are infinitely many primes that differ by exactly two.
