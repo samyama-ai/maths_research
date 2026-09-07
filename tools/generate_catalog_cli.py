@@ -11,6 +11,12 @@ import re
 
 ROOT = Path(__file__).resolve().parent.parent
 
+# Each agy call takes ~30-60s, so the run is latency-bound, not CPU-bound.
+# Bound total in-flight calls across all topics.
+AGY_CONCURRENCY = int(os.getenv("AGY_CONCURRENCY", "8"))
+AGY_TIMEOUT = os.getenv("AGY_PRINT_TIMEOUT", "10m")
+AGY_SEMAPHORE = asyncio.Semaphore(AGY_CONCURRENCY)
+
 # System instruction to enforce math detail and schema adherence
 SYSTEM_INSTRUCTION = """You are a world-class mathematician, theoretical computer scientist, and editor of a comprehensive open math catalog.
 Your goal is to identify and write highly detailed, rigorous, and accurate markdown pages for open and hard mathematical problems.
@@ -18,6 +24,9 @@ All mathematical equations must be properly formatted using LaTeX: $...$ for inl
 All citations and references must be real, verifiable publications (papers, books, surveys) with accurate titles, authors, venues, and years.
 You must adhere strictly to the 10-section TEMPLATE.md schema.
 Do not skip any sections. Do not use placeholders."""
+
+# The 10 section headings TEMPLATE.md requires, matched by prefix.
+REQUIRED_SECTIONS = [f"{i}." for i in range(1, 11)]
 
 # Let's define the topics from TAXONOMY.md
 TOPICS = {
@@ -33,6 +42,55 @@ TOPICS = {
     "10-theoretical-cs": "Theoretical Computer Science"
 }
 
+
+FM_ORDER = ["id", "title", "topic", "status", "first_added", "last_reviewed",
+            "last_substantive_update", "stale_since", "provenance"]
+
+
+def normalize_markdown(text, topic_slug, slug, title, status, month=None):
+    """Strip code fences the model wraps output in, then force the frontmatter.
+
+    The model reliably fences the YAML block (```yaml ... ```), which makes the file
+    fail the frontmatter check and renders the block as a code sample. Frontmatter
+    fields are also identity, not prose, so they are rewritten from the candidate
+    rather than trusted: `id` must equal the file's path or the audit rejects it.
+    """
+    text = text.strip()
+
+    # A whole-response ```markdown fence.
+    if text.startswith("```"):
+        first, _, rest = text.partition("\n")
+        if first.strip("` ").lower() in ("markdown", "md", "yaml", "", "text"):
+            text = rest
+            if text.rstrip().endswith("```"):
+                text = text.rstrip()[:-3]
+    text = text.strip()
+
+    # A fence closing right after the frontmatter block.
+    text = re.sub(r"\A(---\n.*?\n---)\n```\s*\n", r"\1\n", text, flags=re.S)
+
+    month = month or time.strftime("%Y-%m")
+    body = text
+    if body.startswith("---"):
+        end = body.find("\n---", 3)
+        if end >= 0:
+            body = body[end + 4:].lstrip("\n")
+
+    fm = {
+        "id": f"{topic_slug}/{slug}",
+        "title": f'"{title}"',
+        "topic": topic_slug,
+        "status": status,
+        "first_added": month,
+        "last_reviewed": month,
+        "last_substantive_update": month,
+        "stale_since": '""',
+        "provenance": "synthesized",
+    }
+    header = "---\n" + "\n".join(f"{k}: {fm[k]}" for k in FM_ORDER) + "\n---\n\n"
+    return header + body
+
+
 async def call_agy_cli(prompt, is_json=False):
     """Call agy CLI to generate content."""
     
@@ -43,16 +101,26 @@ async def call_agy_cli(prompt, is_json=False):
     loop = asyncio.get_event_loop()
     
     def _run():
-        result = subprocess.run(
-            ["agy", "prompt", full_prompt],
-            capture_output=True,
-            text=True
-        )
+        cmd = ["agy", "-p", full_prompt, "--print-timeout", AGY_TIMEOUT]
+        model = os.getenv("AGY_MODEL")
+        if model:
+            cmd += ["--model", model]
+        result = subprocess.run(cmd, capture_output=True, text=True)
         if result.returncode != 0:
-            raise RuntimeError(f"agy prompt failed: {result.stderr}")
+            raise RuntimeError(f"agy -p failed: {result.stderr.strip()[:500]}")
         return result.stdout.strip()
-        
-    response_text = await loop.run_in_executor(None, _run)
+
+    async with AGY_SEMAPHORE:
+        for attempt in range(3):
+            try:
+                response_text = await loop.run_in_executor(None, _run)
+                if response_text:
+                    break
+            except Exception as e:
+                print(f"    agy call failed (attempt {attempt + 1}/3): {e}")
+                await asyncio.sleep(5 * (attempt + 1))
+        else:
+            raise RuntimeError("agy call failed after 3 attempts")
     
     if is_json:
         # Strip potential markdown formatting if model didn't listen
@@ -149,6 +217,14 @@ Additional Instructions:
 Return only the markdown content, starting with the YAML frontmatter block."""
 
     markdown_content = await call_agy_cli(prompt, is_json=False)
+    markdown_content = normalize_markdown(
+        markdown_content, topic_slug, slug, title, status)
+
+    missing = [h for h in REQUIRED_SECTIONS if f"## {h}" not in markdown_content]
+    if missing:
+        print(f"    ! {slug}.md: missing sections {missing}, skipping write")
+        return False
+
     
     # Post-process to fix math hash character parsing issues
     from fix_math_hash import transform
@@ -182,8 +258,10 @@ async def process_topic(topic_slug, topic_name, limit_candidates, limit_generate
         # Limit to the requested generation limit
         candidates_to_gen = candidates[:limit_generate]
         
-        for cand in candidates_to_gen:
-            await generate_problem_file(topic_slug, topic_name, cand)
+        await asyncio.gather(*(
+            generate_problem_file(topic_slug, topic_name, cand)
+            for cand in candidates_to_gen
+        ), return_exceptions=True)
             
     # Update the topic README.md index
     await generate_topic_readme(topic_slug, topic_name)
@@ -299,11 +377,13 @@ async def main():
         
     print(f"Starting Maths Research Catalog generator (AGY CLI). Target topics: {len(target_topics)}")
     
-    for slug, name in target_topics.items():
+    async def _one(slug, name):
         try:
             await process_topic(slug, name, args.limit_candidates, args.limit_generate, args.stage)
         except Exception as e:
             print(f"Failed processing topic {slug}: {e}")
+
+    await asyncio.gather(*(_one(s, n) for s, n in target_topics.items()))
             
     print("Regenerating global INDEX.md...")
     subprocess.run([str(ROOT / "gen_index.sh")], cwd=str(ROOT))

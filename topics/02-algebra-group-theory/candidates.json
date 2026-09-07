@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Inverse Galois Problem",
+    "slug": "inverse-galois-problem",
+    "status": "partially-solved",
+    "description": "Asks if all finite groups appear as Galois groups over rationals."
+  },
+  {
+    "title": "Jacobian Conjecture",
+    "slug": "jacobian-conjecture",
+    "status": "open",
+    "description": "Asks if polynomial maps with constant nonzero Jacobian determinant are invertible."
+  },
+  {
+    "title": "Andrews-Curtis Conjecture",
+    "slug": "andrews-curtis-conjecture",
+    "status": "open",
+    "description": "Proposes that all balanced presentations of the trivial group are equivalent."
+  },
+  {
+    "title": "Congruence Subgroup Problem",
+    "slug": "congruence-subgroup-problem",
+    "status": "partially-solved",
+    "description": "Asks if all finite index subgroups contain a principal congruence subgroup."
+  },
+  {
+    "title": "Kaplansky Unit Conjecture",
+    "slug": "kaplansky-unit-conjecture",
+    "status": "solved-recently",
+    "description": "Hypothesizes that group rings of torsion-free groups have only trivial units."
+  }
+]
