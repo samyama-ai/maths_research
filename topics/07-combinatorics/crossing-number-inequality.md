@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 07-combinatorics/crossing-number-inequality
-title: "Crossing Number Inequality"
-topic: 07-combinatorics
-status: partially-solved
-first_added: 2026-09
-last_reviewed: 2026-09
-last_substantive_update: 2026-09
-stale_since: ""
-provenance: synthesized
----
-
 # Crossing Number Inequality
 
 > **Topic:** Combinatorics & Graph Theory · **ID:** `07-combinatorics/crossing-number-inequality` · **Status:** partially-solved

@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 05-analysis/gelfond-conjecture
-title: "Gelfond's Sum of Digits Conjecture"
-topic: 05-analysis
-status: solved-recently
-first_added: 2024-01
-last_reviewed: 2026-06
-last_substantive_update: 2026-06
-stale_since: ""
-provenance: synthesized
-```
-
 # Gelfond's Sum of Digits Conjecture
 
 > **Topic:** Real & Complex Analysis · **ID:** `05-analysis/gelfond-conjecture` · **Status:** solved-recently

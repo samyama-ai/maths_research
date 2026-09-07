@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 04-topology/freyds-generating-hypothesis
-title: "Freyd's Generating Hypothesis"
-topic: 04-topology
-status: open
-first_added: 2026-09
-last_reviewed: 2026-09
-last_substantive_update: 2026-09
-stale_since: ""
-provenance: synthesized
-```
-
 # Freyd's Generating Hypothesis
 
 > **Topic:** Topology & Knot Theory · **ID:** `04-topology/freyds-generating-hypothesis` · **Status:** open

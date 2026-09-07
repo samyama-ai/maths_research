@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 01-number-theory/bakers-conjecture
-title: "Baker's Explicit abc-Conjecture"
-topic: 01-number-theory
-status: open
-first_added: 2026-09
-last_reviewed: 2026-09
-last_substantive_update: 2026-09
-stale_since: ""
-provenance: synthesized
-```
-
 # Baker's Explicit abc-Conjecture
 
 > **Topic:** Number Theory · **ID:** `01-number-theory/bakers-conjecture` · **Status:** open

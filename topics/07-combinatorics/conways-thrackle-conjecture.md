@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 07-combinatorics/conways-thrackle-conjecture
-title: "Conway's Thrackle Conjecture"
-topic: 07-combinatorics
-status: open
-first_added: 2026-09
-last_reviewed: 2026-09
-last_substantive_update: 2026-09
-stale_since: ""
-provenance: synthesized
-```
-
 # Conway's Thrackle Conjecture
 
 > **Topic:** Combinatorics & Graph Theory · **ID:** `07-combinatorics/conways-thrackle-conjecture` · **Status:** open

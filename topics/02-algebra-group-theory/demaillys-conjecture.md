@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 02-algebra-group-theory/demaillys-conjecture
-title: "Demailly's Conjecture"
-topic: 02-algebra-group-theory
-status: open
-first_added: 2026-09
-last_reviewed: 2026-09
-last_substantive_update: 2026-09
-stale_since: ""
-provenance: synthesized
-```
-
 # Demailly's Conjecture
 
 > **Topic:** Algebra & Group Theory · **ID:** `02-algebra-group-theory/demaillys-conjecture` · **Status:** open

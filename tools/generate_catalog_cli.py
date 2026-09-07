@@ -125,6 +125,26 @@ def normalize_markdown(text, topic_slug, slug, title, status, month=None):
         if end >= 0:
             body = body[end + 4:].lstrip("\n")
 
+    # The model sometimes emits the frontmatter fields with no opening '---'.
+    # The delimited strip above then matches nothing, the generated header is
+    # prepended anyway, and the original fields survive as visible body text --
+    # 18 pages shipped with their frontmatter printed twice before this was
+    # caught, and audit.py missed it because the first block parses correctly.
+    # Drop a leading run of bare frontmatter keys, and any stray '---' after it.
+    lines = body.lstrip("\n").split("\n")
+    cut = 0
+    while cut < len(lines) and re.match(r"^(" + "|".join(FM_ORDER) + r"):\s", lines[cut]):
+        cut += 1
+    if cut:
+        while cut < len(lines) and lines[cut].strip() in ("", "---"):
+            cut += 1
+        body = "\n".join(lines[cut:])
+
+    # A lone ``` left over from the model fencing its frontmatter. The opener is
+    # removed by the fence handling above; when the block was not delimited the
+    # closer had nothing to pair with and survived into the page.
+    body = re.sub(r"\A\s*```[a-z]*\s*\n", "", body.lstrip("\n"))
+
     fm = {
         "id": f"{topic_slug}/{slug}",
         "title": f'"{title}"',

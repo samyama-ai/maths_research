@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 09-probability/cutoff-for-the-simple-random-walk-on-random-regular-graphs
-title: "Cutoff for the Simple Random Walk on Random Regular Graphs"
-topic: 09-probability
-status: solved-recently
-first_added: 2026-09
-last_reviewed: 2026-09
-last_substantive_update: 2026-09
-stale_since: ""
-provenance: synthesized
-```
-
 # Cutoff for the Simple Random Walk on Random Regular Graphs
 
 > **Topic:** Probability & Stochastic Processes · **ID:** `09-probability/cutoff-for-the-simple-random-walk-on-random-regular-graphs` · **Status:** solved-recently

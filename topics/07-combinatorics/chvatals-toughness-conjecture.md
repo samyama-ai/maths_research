@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 07-combinatorics/chvatals-toughness-conjecture
-title: "Chvátal's Toughness Conjecture"
-topic: 07-combinatorics
-status: open
-first_added: 2026-09
-last_reviewed: 2026-09
-last_substantive_update: 2026-09
-stale_since: ""
-provenance: synthesized
-```
-
 # Chvátal's Toughness Conjecture
 
 > **Topic:** 07-combinatorics · **ID:** `07-combinatorics/chvatals-toughness-conjecture` · **Status:** open

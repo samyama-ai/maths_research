@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 03-geometry/franchetta-conjecture
-title: "Franchetta Conjecture"
-topic: 03-geometry
-status: solved-recently
-first_added: 2024-01
-last_reviewed: 2026-06
-last_substantive_update: 2026-05
-stale_since: ""
-provenance: synthesized
-```
-
 # Franchetta Conjecture
 
 > **Topic:** Algebraic & Differential Geometry · **ID:** `03-geometry/franchetta-conjecture` · **Status:** solved-recently

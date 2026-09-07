@@ -93,6 +93,24 @@ def check_structure(files):
             fail(f"{rel}: id '{fm['id']}' does not match path (expected '{want}')")
         if fm.get("status") == "stale" and not fm.get("stale_since"):
             fail(f"{rel}: status stale with empty stale_since")
+        # Frontmatter keys appearing again in the body. The generator prepends a
+        # header and strips the model's own; when the model omitted the opening
+        # '---' the strip matched nothing and the fields survived as visible
+        # text. 18 pages shipped that way, and every existing check passed them:
+        # the first block parses, so frontmatter() is happy, and the sections
+        # are all present. Nothing was looking at what came between them.
+        after = text[text.find("\n---\n", 4) + 5:] if text.startswith("---\n") else text
+        dup = [k for k in REQUIRED_FM
+               if re.search(r"^" + k + r":\s", after[:2000], re.M)]
+        if dup:
+            fail(f"{rel}: frontmatter keys repeated in the body: {dup[:4]}")
+
+        # A stray code fence between the frontmatter and the H1: the model fenced
+        # its frontmatter and the closer outlived the opener. It renders the top
+        # of the page as an empty code block.
+        if re.match(r"\A\s*```", after):
+            fail(f"{rel}: stray code fence immediately after the frontmatter")
+
         # all ten sections, in order
         heads = re.findall(r"^## (.+)$", text, re.M)
         pos = 0

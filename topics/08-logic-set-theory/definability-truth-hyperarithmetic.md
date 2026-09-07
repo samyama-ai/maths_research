@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 08-logic-set-theory/definability-truth-hyperarithmetic
-title: "Definability of Truth in the Hyperarithmetic Universe"
-topic: 08-logic-set-theory
-status: open
-first_added: 2026-02
-last_reviewed: 2026-09
-last_substantive_update: 2026-06
-stale_since: ""
-provenance: synthesized
-```
-
 # Definability of Truth in the Hyperarithmetic Universe
 
 > **Topic:** Mathematical Logic & Set Theory · **ID:** `08-logic-set-theory/definability-truth-hyperarithmetic` · **Status:** open

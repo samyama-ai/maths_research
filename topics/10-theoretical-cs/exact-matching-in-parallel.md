@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 10-theoretical-cs/exact-matching-in-parallel
-title: "Exact Matching in Parallel"
-topic: 10-theoretical-cs
-status: open
-first_added: 2021-04
-last_reviewed: 2026-06
-last_substantive_update: 2026-06
-stale_since: ""
-provenance: synthesized
----
-
 # Exact Matching in Parallel
 
 > **Topic:** Theoretical Computer Science · **ID:** `10-theoretical-cs/exact-matching-in-parallel` · **Status:** open

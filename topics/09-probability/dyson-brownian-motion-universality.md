@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 09-probability/dyson-brownian-motion-universality
-title: "Dyson Brownian Motion Universality"
-topic: 09-probability
-status: solved-recently
-first_added: 2026-09
-last_reviewed: 2026-09
-last_substantive_update: 2026-09
-stale_since: ""
-provenance: synthesized
-```
-
 # Dyson Brownian Motion Universality
 
 > **Topic:** Probability & Stochastic Processes · **ID:** `09-probability/dyson-brownian-motion-universality` · **Status:** solved-recently

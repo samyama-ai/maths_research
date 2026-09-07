@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 01-number-theory/iwasawa-mu-invariant-conjecture
-title: "Iwasawa Mu-invariant Conjecture"
-topic: 01-number-theory
-status: partially-solved
-first_added: 2026-09
-last_reviewed: 2026-09
-last_substantive_update: 2026-09
-stale_since: ""
-provenance: synthesized
-```
-
 # Iwasawa Mu-invariant Conjecture
 
 > **Topic:** Number Theory · **ID:** `01-number-theory/iwasawa-mu-invariant-conjecture` · **Status:** partially-solved

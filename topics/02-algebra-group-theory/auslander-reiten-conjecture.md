@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 02-algebra-group-theory/auslander-reiten-conjecture
-title: "Auslander-Reiten Conjecture"
-topic: 02-algebra-group-theory
-status: open
-first_added: 2026-09
-last_reviewed: 2026-09
-last_substantive_update: 2026-09
-stale_since: ""
-provenance: synthesized
-```
-
 # Auslander-Reiten Conjecture
 
 > **Topic:** Algebra & Group Theory · **ID:** `02-algebra-group-theory/auslander-reiten-conjecture` · **Status:** open

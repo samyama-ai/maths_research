@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 01-number-theory/brumer-stark-conjecture
-title: "Brumer-Stark Conjecture"
-topic: 01-number-theory
-status: partially-solved
-first_added: 2023-11
-last_reviewed: 2026-06
-last_substantive_update: 2026-06
-stale_since: ""
-provenance: synthesized
----
-
 # Brumer-Stark Conjecture
 
 > **Topic:** Number Theory · **ID:** `01-number-theory/brumer-stark-conjecture` · **Status:** partially-solved

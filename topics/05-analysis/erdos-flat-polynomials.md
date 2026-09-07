@@ -10,17 +10,6 @@ stale_since: ""
 provenance: synthesized
 ---
 
-id: 05-analysis/erdos-flat-polynomials
-title: "Erdös Flat Polynomials Problem"
-topic: 05-analysis
-status: open
-first_added: 2026-09
-last_reviewed: 2026-09
-last_substantive_update: 2026-09
-stale_since: ""
-provenance: synthesized
-```
-
 # Erdös Flat Polynomials Problem
 
 > **Topic:** Real & Complex Analysis · **ID:** `05-analysis/erdos-flat-polynomials` · **Status:** open
