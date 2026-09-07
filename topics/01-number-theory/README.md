@@ -34,12 +34,13 @@ The study of integers, prime numbers, Diophantine equations, and related structu
 * 🔴 [Dirichlet Divisor Problem](./dirichlet-divisor-problem.md) — Estimates the number of divisors of integers up to a given limit.
 * 🟢 [Duffin-Schaeffer Conjecture](./duffin-schaeffer-conjecture.md) — Provides a condition for metric Diophantine approximation of real numbers.
 * 🔴 [Elliott-Halberstam Conjecture](./elliott-halberstam-conjecture.md) — Bounds the error term in the distribution of primes in arithmetic progressions.
-* 🟢 [Erdos-Graham Problem](./erdos-graham-problem.md) — Shows partitions of integers contain subsets with reciprocal sum one.
-* 🔴 [Erdos-Moser Equation](./erdos-moser-equation.md) — Asks if the sum of consecutive powers can equal the next power.
-* 🟢 [Erdos Squarefree Conjecture](./erdos-squarefree-conjecture.md) — States that a specific central binomial coefficient is never squarefree.
-* 🔴 [Erdos-Straus Conjecture](./erdos-straus-conjecture.md) — The fraction four over n can be written using three unit fractions.
-* 🟡 [Erdos-Szemeredi Sum-Product Conjecture](./erdos-szemeredi-sum-product-conjecture.md) — Claims that integer sets cannot have both small sums and products.
-* 🔴 [Erdos Ulam Problem](./erdos-ulam-problem.md) — Asks if a dense planar set can have all pairwise rational distances.
+* 🟢 [Erdős–Graham Problem](./erdos-graham-problem.md) — Shows partitions of integers contain subsets with reciprocal sum one.
+* 🔴 [Erdős-Moser Equation](./erdos-moser-equation.md) — Asks if the sum of consecutive powers can equal the next power.
+* 🟢 [Erdős Squarefree Conjecture](./erdos-squarefree-conjecture.md) — States that a specific central binomial coefficient is never squarefree.
+* 🔴 [Erdős-Straus Conjecture](./erdos-straus-conjecture.md) — The fraction four over n can be written using three unit fractions.
+* 🟡 [Erdős-Szemerédi Sum-Product Conjecture](./erdos-szemeredi-sum-product-conjecture.md) — Claims that integer sets cannot have both small sums and products.
+* 🔴 [Erdős-Ulam Problem](./erdos-ulam-problem.md) — Asks if a dense planar set can have all pairwise rational distances.
+* 🔴 [Erdős–Woods Conjecture](./erdos-woods-conjecture.md) — Determines integers solely by the prime factors of adjacent intervals.
 * 🟢 [Euler's Sum of Powers Conjecture](./eulers-sum-of-powers-conjecture.md) — A disproved generalization of Fermat's Last Theorem.
 * 🔴 [Existential Theory of the Rationals](./existential-theory-of-the-rationals.md) — Asks if Hilbert's tenth problem is decidable over the rational numbers.
 * 🔴 [Extended Riemann Hypothesis](./extended-riemann-hypothesis.md) — Generalizes the Riemann Hypothesis to Dedekind zeta functions of algebraic number fields.
@@ -95,13 +96,13 @@ The study of integers, prime numbers, Diophantine equations, and related structu
 * 🔴 [Lehmer's Totient Problem](./lehmers-totient-problem.md) — Asks if a composite number totient divides the number minus one.
 * 🔴 [Lemoine's Conjecture](./lemoines-conjecture.md) — States every odd integer is a prime plus twice a prime.
 * 🟡 [Leopoldt's Conjecture](./leopoldts-conjecture.md) — Concerns the p adic regulator of an algebraic number field.
-* 🔴 [Lindelof Hypothesis](./lindelof-hypothesis.md) — Bounds the growth of the Riemann zeta function on the critical line.
+* 🔴 [Lindelöf Hypothesis](./lindelof-hypothesis.md) — Bounds the growth of the Riemann zeta function on the critical line.
 * 🔴 [Linnik's Constant Problem](./linniks-constant-problem.md) — Bounds the size of the smallest prime in an arithmetic progression.
 * 🔴 [Littlewood Conjecture](./littlewood-conjecture.md) — Concerns simultaneous Diophantine approximation for two real numbers.
 * 🔴 [Mahler's 3/2 Problem](./mahlers-3-2-problem.md) — Asks whether any real number possesses fractional parts bounded away from zero.
 * 🟢 [Main Conjecture of Iwasawa Theory](./main-conjecture-of-iwasawa-theory.md) — Relates ideal class groups to p adic L functions.
 * 🔴 [Manin Conjecture](./manin-conjecture.md) — Describes the distribution of rational points on algebraic varieties.
-* 🔴 [Mazur's Torsion Conjecture](./mazurs-torsion-conjecture-for-number-fields.md) — Bounds the torsion subgroup of elliptic curves over arbitrary number fields.
+* 🔴 [Mazur's Torsion Conjecture for Number Fields](./mazurs-torsion-conjecture-for-number-fields.md) — Bounds the torsion subgroup of elliptic curves over arbitrary number fields.
 * 🟢 [Mertens Conjecture](./mertens-conjecture.md) — A disproved bound on the growth of the Mertens function.
 * 🟢 [Modularity Theorem](./modularity-theorem.md) — States that all rational elliptic curves arise from modular forms.
 * 🔴 [Montgomery's Pair Correlation Conjecture](./montgomerys-pair-correlation-conjecture.md) — Suggests zeta zeros follow the statistics of random unitary matrices.
@@ -114,7 +115,7 @@ The study of integers, prime numbers, Diophantine equations, and related structu
 * 🔴 [Perfect Cuboid Problem](./perfect-cuboid-problem.md) — Asks whether a rectangular cuboid can have entirely integer side lengths.
 * 🔴 [Pillai's Conjecture](./pillais-conjecture.md) — Suggests the gap between consecutive perfect powers approaches infinity.
 * 🔴 [Polignac's Conjecture](./polignacs-conjecture.md) — States every even number is the difference of two primes infinitely often.
-* 🟢 [Polya Conjecture](./polya-conjecture.md) — A disproved conjecture about the sum of the Liouville function.
+* 🟢 [Pólya Conjecture](./polya-conjecture.md) — A disproved conjecture about the sum of the Liouville function.
 * 🔴 [Riemann Hypothesis](./riemann-hypothesis.md) — All non-trivial zeros of the zeta function have real part half.
 * 🔴 [Robin's Criterion](./robins-criterion.md) — Formulates the Riemann hypothesis in terms of the sum of divisors function.
 * 🟡 [Sarnak's Mobius Disjointness Conjecture](./sarnaks-mobius-disjointness-conjecture.md) — Relates the Mobius function to zero entropy dynamical systems.

@@ -569,6 +569,16 @@ async def generate_topic_readme(topic_slug, topic_name):
             elif line.startswith("status:"):
                 status = line.split(":", 1)[1].strip()
 
+        # Prefer the page's own H1. The frontmatter title comes from the candidate
+        # record, which is ASCII and often terse: 'Erdos-Straus Conjecture' where
+        # the page itself says 'Erdős-Straus Conjecture', and 'Berger Conjecture'
+        # where the page says 'Berger Conjecture (Manifolds All of Whose Geodesics
+        # Are Closed)'. INDEX.md already reads the H1, so reading it here too makes
+        # the two indexes agree and keeps the better-formed name.
+        h1 = re.search(r"^# (.+)$", text, re.M)
+        if h1:
+            title_line = h1.group(1).strip()
+
         if not title_line:
             title_line = f.stem.replace("-", " ").title()
 
