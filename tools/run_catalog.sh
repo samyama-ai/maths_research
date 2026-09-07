@@ -13,6 +13,13 @@
 #
 # Env: CATALOG_BACKEND (claude|agy)  AGY_CONCURRENCY  PER_TOPIC  TOPUP  POOL
 set -uo pipefail
+
+# Everything below runs inside main(). Bash reads a script incrementally from
+# disk, so editing this file while a run is in flight shifts the byte offsets
+# and the shell resumes mid-token: a run was killed that way at 744 files,
+# reporting "target met: 563 files" and a syntax error on a line that is valid.
+# A function body is parsed in full before it executes, so an edit during a run
+# can no longer corrupt it.
 cd "$(dirname "$0")/.."
 
 TARGET=${1:-1000}
@@ -41,54 +48,58 @@ print(len(all_ - have))
 PY
 }
 
-started_at=$(date +%s)
-say() { echo "$*" | tee -a "$LOG"; }
+main() {
+  started_at=$(date +%s)
+  say() { echo "$*" | tee -a "$LOG"; }
 
-say "=== run start $(date -u +%FT%TZ) — $(count) files, target ${TARGET}, backend ${CATALOG_BACKEND} ==="
+  say "=== run start $(date -u +%FT%TZ) — $(count) files, target ${TARGET}, backend ${CATALOG_BACKEND} ==="
 
-# Stage 1: discovery, skipped when a pool already exists so a restart does not re-ask.
-if [ "$(uncovered)" -gt 0 ]; then
-  say "=== discovery: $(uncovered) topics with no candidate pool ==="
-  python3 -u tools/generate_catalog_cli.py --stage discovery \
-    --limit-candidates "$PER_TOPIC" 2>&1 | tee -a "$LOG"
-fi
-python3 tools/dedupe_candidates.py --target "$TARGET" 2>&1 | tail -5 | tee -a "$LOG"
-
-# Stage 2: top up until the candidate pool clears the target with headroom. Calls
-# fail and duplicates get dropped, so the pool has to run ahead of the file target.
-for round in 1 2 3 4; do
-  p=$(pool)
-  [ "$p" -ge "$POOL" ] && break
-  say "=== topup round ${round} — pool ${p}/${POOL} ==="
-  python3 -u tools/generate_catalog_cli.py --stage topup \
-    --limit-candidates "$TOPUP" 2>&1 | tail -20 | tee -a "$LOG"
-  python3 tools/dedupe_candidates.py --target "$TARGET" 2>&1 | tail -3 | tee -a "$LOG"
-done
-say "=== candidate pool: $(pool) ==="
-
-# Stage 3: generation, repeated until the target is met or the passes run out.
-# Repeats matter: a call that times out or returns a short page writes nothing,
-# and the next pass simply retries that file.
-for pass in $(seq 1 "$PASSES"); do
-  n=$(count)
-  if [ "$n" -ge "$TARGET" ]; then
-    say "=== target met: ${n} files ==="
-    break
+  # Stage 1: discovery, skipped when a pool already exists so a restart does not re-ask.
+  if [ "$(uncovered)" -gt 0 ]; then
+    say "=== discovery: $(uncovered) topics with no candidate pool ==="
+    python3 -u tools/generate_catalog_cli.py --stage discovery \
+      --limit-candidates "$PER_TOPIC" 2>&1 | tee -a "$LOG"
   fi
-  say "=== pass ${pass}/${PASSES} — ${n} files, $(( $(date +%s) - started_at ))s elapsed ==="
-  python3 -u tools/generate_catalog_cli.py --stage generation \
-    --limit-generate "$PER_TOPIC" 2>&1 | tee -a "$LOG"
-  # exit 2 = quota wall. Retrying is pure waste until it resets.
-  if [ "${PIPESTATUS[0]}" -eq 2 ]; then
-    say "=== aborted on quota at $(count) files; re-run after reset ==="
-    break
-  fi
-  if [ "$(count)" -eq "$n" ]; then
-    say "=== pass ${pass} wrote nothing; stopping rather than looping ==="
-    break
-  fi
-done
+  python3 tools/dedupe_candidates.py --target "$TARGET" 2>&1 | tail -5 | tee -a "$LOG"
 
-./gen_index.sh | tee -a "$LOG"
-python3 tools/audit.py 2>&1 | tail -30 | tee -a "$LOG"
-say "=== run end $(date -u +%FT%TZ) — $(count) files, $(( ($(date +%s) - started_at) / 60 )) min ==="
+  # Stage 2: top up until the candidate pool clears the target with headroom. Calls
+  # fail and duplicates get dropped, so the pool has to run ahead of the file target.
+  for round in 1 2 3 4; do
+    p=$(pool)
+    [ "$p" -ge "$POOL" ] && break
+    say "=== topup round ${round} — pool ${p}/${POOL} ==="
+    python3 -u tools/generate_catalog_cli.py --stage topup \
+      --limit-candidates "$TOPUP" 2>&1 | tail -20 | tee -a "$LOG"
+    python3 tools/dedupe_candidates.py --target "$TARGET" 2>&1 | tail -3 | tee -a "$LOG"
+  done
+  say "=== candidate pool: $(pool) ==="
+
+  # Stage 3: generation, repeated until the target is met or the passes run out.
+  # Repeats matter: a call that times out or returns a short page writes nothing,
+  # and the next pass simply retries that file.
+  for pass in $(seq 1 "$PASSES"); do
+    n=$(count)
+    if [ "$n" -ge "$TARGET" ]; then
+      say "=== target met: ${n} files ==="
+      break
+    fi
+    say "=== pass ${pass}/${PASSES} — ${n} files, $(( $(date +%s) - started_at ))s elapsed ==="
+    python3 -u tools/generate_catalog_cli.py --stage generation \
+      --limit-generate "$PER_TOPIC" 2>&1 | tee -a "$LOG"
+    # exit 2 = quota wall. Retrying is pure waste until it resets.
+    if [ "${PIPESTATUS[0]}" -eq 2 ]; then
+      say "=== aborted on quota at $(count) files; re-run after reset ==="
+      break
+    fi
+    if [ "$(count)" -eq "$n" ]; then
+      say "=== pass ${pass} wrote nothing; stopping rather than looping ==="
+      break
+    fi
+  done
+
+  ./gen_index.sh | tee -a "$LOG"
+  python3 tools/audit.py 2>&1 | tail -30 | tee -a "$LOG"
+  say "=== run end $(date -u +%FT%TZ) — $(count) files, $(( ($(date +%s) - started_at) / 60 )) min ==="
+}
+
+main "$@"
