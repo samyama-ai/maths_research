@@ -46,12 +46,30 @@ TITLE_RE = re.compile(r"\*([^*]{8,300})\*")
 YEAR_RE = re.compile(r"\b(1[89]\d{2}|20[0-4]\d)\b")
 
 
+# Edition and volume suffixes are bibliographic decoration, not part of the title.
+# "Unsolved Problems in Number Theory (3rd ed.)" scored 0.83 against Crossref's
+# "Unsolved problems in number theory" -- the same book, rejected by the 0.9
+# threshold purely on the suffix.
+EDITION_RE = re.compile(
+    r"[\s,;]*[\(\[]?\s*(?:\d+\s*(?:st|nd|rd|th)\s+(?:ed\.?|edition)|"
+    r"(?:revised\s+)?(?:ed\.|edition)|revised|reprint|"
+    r"vol\.?\s*\d+|volume\s+\d+|part\s+[IVX\d]+)\s*[\)\]]?\s*\.?\s*$", re.I)
+
+
+def strip_edition(s):
+    prev = None
+    while prev != s:
+        prev = s
+        s = EDITION_RE.sub("", s).strip().rstrip(",;")
+    return s
+
+
 def norm(s):
     return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
 
 
 def f1(a, b):
-    ta, tb = set(norm(a).split()), set(norm(b).split())
+    ta, tb = set(norm(strip_edition(a)).split()), set(norm(strip_edition(b)).split())
     if not ta or not tb:
         return 0.0
     inter = len(ta & tb)
