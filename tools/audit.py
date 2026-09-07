@@ -131,6 +131,13 @@ def check_structure(files):
             for seg in parts[1::2]:
                 if re.search(r"(?<!\\)#", seg):
                     fail(f"{rel}:{lineno}: unescaped '#' inside math: {seg[:56]}")
+        # An odd number of '$$' means a display-math block is unterminated, or two
+        # inline spans sit flush against each other ('$\\{$' followed by '$Z$') and
+        # read as a display delimiter. Either way the rest of the page renders as
+        # math. One page shipped that way.
+        if len(re.findall(r"\$\$", text)) % 2:
+            fail(f"{rel}: odd number of '$$' -- unbalanced display math")
+
         for m in LEAK.finditer(text):
             fail(f"{rel}: internal/secret token in a PUBLIC repo: '{m.group(0)[:40]}'")
         for m in re.finditer(r"\b(TODO|FIXME|XXX|Lorem ipsum)\b|\bTBD\b", text):
