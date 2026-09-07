@@ -264,12 +264,6 @@
     "description": "Characterizes functions that can be scalar curvatures of metrics."
   },
   {
-    "title": "Navier-Stokes Smoothness",
-    "slug": "navier-stokes-smoothness",
-    "status": "open",
-    "description": "Do solutions to three dimensional fluid equations remain smooth forever?"
-  },
-  {
     "title": "Euler Equations Blowup",
     "slug": "euler-equations-blowup",
     "status": "open",

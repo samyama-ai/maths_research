@@ -1,75 +1,108 @@
 # Maths Research — Open & Hard Problems
 
+![Topics](https://img.shields.io/badge/topics-10-green) ![Schema](https://img.shields.io/badge/schema-10%20sections-blue) ![Audit](https://img.shields.io/badge/audit-tools%2Faudit.py-lightgrey)
+
 A structured, research-grade catalog of open and hard problems across the mathematics space — from number theory and algebra to topology, analysis, mathematical physics, and theoretical computer science. Each problem is documented with its formal statement, mathematical foundations, historical context, partial results, and active research directions.
 
 This repository serves as a **knowledge map of mathematical frontiers** — designed for graduate students selecting research topics, mathematicians looking for adjacent connections, and anyone interested in the exact boundaries of what is known and unknown in mathematics.
 
 ---
 
+> ⚠️ **Read the [provenance & honesty note](#-provenance--honesty-note) before citing anything.** This is a synthesized study aid, not a primary source.
+
+---
+
+<!-- AUTOGEN:BEGIN -->
 ## At a glance
 
-* **Scope**: Pure and applied mathematics, theoretical computer science math.
-* **Topic Coverage**: Structured under major mathematical subfields.
-* **Every problem documents**: Problem statement/conjecture · mathematical foundations · history/SOTA · partial results · key obstacles · the gap · current research · future work · key references · worked example.
-* **Renders**: Supports LaTeX math (via MathJax / KaTeX on GitHub/GitLab).
+| | |
+|---|---|
+| **Problems** | 128 across 7 of 10 topics |
+| **Every problem documents** | statement · mathematical foundations · history & SOTA · partial results · principal obstacles · the gap · current research (2026) · future work · references · worked example |
+| **Key references** | 633 cited across the catalog |
+| **Worked examples** | 128 — every page carries a concrete instance |
+| **Content** | ~0.21M words |
 
-**Status mix across the catalog:**
-* 🔴 `open` — Completely open (no general proof or disproof exists; e.g., Riemann Hypothesis).
-* 🟡 `partially-solved` — Proven under specific assumptions, constraints, or for sub-classes (e.g., Weak Goldbach Conjecture).
-* 🟢 `solved-recently` — Theoretically settled in recent history, but historically significant with important techniques (e.g., Fermat's Last Theorem, Poincaré Conjecture).
-* 🟠 `empirically-supported` — Highly supported by computational evidence, but lacking formal analytical proof (e.g., Collatz Conjecture).
+**Status mix across the 128 problems:**
+
+| Status | Count | Meaning |
+|---|---:|---|
+| 🔴 `open` | 92 | No known solution; the question is genuinely unresolved |
+| 🟢 `solved-recently` | 17 | Settled in recent history; included for the technique and the gap it closed |
+| 🟡 `partially-solved` | 15 | Proven for restricted cases or under assumptions; general case open |
+| 🟠 `empirically-supported` | 4 | Strong numerical or heuristic evidence, no proof |
+
+**Problems per topic:**
+
+| Slug | Topic | Problems |
+|---|---|---:|
+| `01-number-theory` | Number Theory | 117 |
+| `02-algebra-group-theory` | Algebra & Group Theory | 6 |
+| `03-geometry` | Algebraic & Differential Geometry | 1 |
+| `04-topology` | Topology & Knot Theory | 1 |
+| `05-analysis` | Real & Complex Analysis | 1 |
+| `06-pdes` | Partial Differential Equations | 1 |
+| `07-combinatorics` | Combinatorics & Graph Theory | 0 |
+| `08-logic-set-theory` | Mathematical Logic & Set Theory | 0 |
+| `09-probability` | Probability & Stochastic Processes | 0 |
+| `10-theoretical-cs` | Theoretical Computer Science | 1 |
+<!-- AUTOGEN:END -->
 
 ---
 
 ## Start here
 
-- 🗺️ **[`TAXONOMY.md`](./TAXONOMY.md)** — the topic map with subfield scope descriptions.
-- 📇 **[`INDEX.md`](./INDEX.md)** — flat, clickable list of all problems grouped by topic.
+- 🗺️ **[`TAXONOMY.md`](./TAXONOMY.md)** — the 10-topic map with scope descriptions.
+- 📇 **[`INDEX.md`](./INDEX.md)** — flat, clickable list of every problem, grouped by topic.
 - 📐 **[`TEMPLATE.md`](./TEMPLATE.md)** — the 10-section schema every problem page follows.
-- 🎓 **[Primes Library](../primes/)** — a concrete library in this workspace implementing advanced primality testing algorithms (like AKS), demonstrating computational mathematics in action.
 
----
+## How each problem page is structured
 
-## Topics
+Every page is a standalone Markdown file with YAML frontmatter carrying a stable
+`id` (equal to its path), `status`, and review dates, followed by ten fixed sections:
 
-| # | Topic | Description |
-|---|-------|-------------|
-| 01 | [Number Theory](./topics/01-number-theory/) | Primes, Diophantine equations, modular forms, arithmetic geometry |
-| 02 | [Algebra & Group Theory](./topics/02-algebra-group-theory/) | Finite groups, representation theory, ring theory, homological algebra |
-| 03 | [Algebraic & Differential Geometry](./topics/03-geometry/) | Varieties, manifolds, symplectic geometry, discrete geometry |
-| 04 | [Topology & Knot Theory](./topics/04-topology/) | Low-dimensional topology, homotopy theory, knot invariants |
-| 05 | [Real & Complex Analysis](./topics/05-analysis/) | Harmonic analysis, operator algebras, complex dynamics, measure theory |
-| 06 | [Partial Differential Equations](./topics/06-pdes/) | Existence/uniqueness, Navier-Stokes, dispersive equations, wave equations |
-| 07 | [Combinatorics & Graph Theory](./topics/07-combinatorics/) | Ramsey theory, extremal graph theory, enumerative combinatorics, designs |
-| 08 | [Mathematical Logic & Set Theory](./topics/08-logic-set-theory/) | Model theory, computability, set theory, proof complexity |
-| 09 | [Probability & Stochastic Processes](./topics/09-probability/) | Stochastic calculus, random matrices, percolation, SLE |
-| 10 | [Theoretical Computer Science](./topics/10-theoretical-cs/) | Complexity classes, cryptographic assumptions, quantum information theory |
+| # | Section | What it answers |
+|---|---|---|
+| 1 | Problem Statement / Conjecture | What exactly is claimed, and what would settle it |
+| 2 | Mathematical Foundations | The structures and theorems it rests on, in LaTeX |
+| 3 | History & State of the Art | Who posed it, and where the frontier sits now |
+| 4 | Partial Results / Verified Cases | The dimensions, ranges and classes already proven |
+| 5 | Principal Obstacles | Why current techniques do not generalise |
+| 6 | The Gap | The precise distance between section 4 and section 1 |
+| 7 | Current Research (2026) | Active directions, groups, recent preprints |
+| 8 | Future Work | Strategies leading mathematicians have articulated |
+| 9 | Key References | Foundational, recent and survey literature |
+| 10 | Worked Example | A concrete instance, calculated |
 
----
+`python3 tools/audit.py` enforces this: frontmatter completeness, section order,
+`id` matching the file path, INDEX.md freshness, unescaped `#` inside math (which
+breaks KaTeX rendering), and a scan for anything internal in a public repo.
 
-## Repository layout
+## ⚠️ Provenance & honesty note
 
+This catalog is **synthesized from established mathematical knowledge**, generated
+programmatically and then checked by `tools/audit.py`. Read that as a limit on how
+far it should be trusted:
+
+- **Foundational results** (Riemann, Hilbert, Grothendieck, Serre, Wiles, Perelman,
+  Tao, Zhang, …) are reliable — these are canonical statements with settled histories.
+- **References are plausibly formed but not yet link-verified.** Pages cite real
+  authors, titles, venues and years, but the catalog does not yet carry DOI or arXiv
+  identifiers, so `tools/audit.py --links` has almost nothing to resolve. Treat every
+  citation as a lead to check, not a verified fact. This is the largest known gap.
+- **2025–2026 frontier claims** are made to the best of current knowledge and may lag
+  the true frontier; they are flagged inline with *(frontier — verify)*.
+- **Status labels are judgements**, not certificates. A problem marked `open` may have
+  been settled in a preprint the catalog has not seen.
+
+**Do not cite this repository as a primary source.** Use it to orient yourself, then
+read — and cite — the underlying literature.
+
+## Regenerating
+
+```bash
+./gen_index.sh                    # rebuild INDEX.md from the files on disk
+python3 tools/audit.py            # structure, frontmatter, index sync, safety
+python3 tools/update_readme.py    # refresh the counts in this file
+tools/run_catalog.sh 1000         # generate to a target (CATALOG_BACKEND=claude|agy)
 ```
-maths_research/
-├── README.md            ← you are here
-├── TAXONOMY.md          ← topic map
-├── INDEX.md             ← flat list of all problems (generated by gen_index.sh)
-├── TEMPLATE.md          ← per-problem schema
-├── CLAUDE.md            ← maintenance conventions
-├── gen_index.sh         ← script to regenerate INDEX.md
-└── topics/
-    └── NN-topic-slug/
-        ├── README.md        ← topic overview & index
-        └── problem-slug.md  ← one file per problem (following TEMPLATE.md)
-```
-
-## Contributing
-
-1. **Choose a Topic**: Reference the [`TAXONOMY.md`](./TAXONOMY.md) to locate the correct directory.
-2. **Use the Template**: Copy [`TEMPLATE.md`](./TEMPLATE.md) into the target directory, name it `kebab-case-slug.md`, and complete all 10 sections.
-3. **Regenerate Index**: Run `./gen_index.sh` to update the master index.
-4. **Formatting**: Ensure all math equations are wrapped in `$ ... $` (inline) or `$$ ... $$` (display blocks).
-
-## License
-
-Content released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

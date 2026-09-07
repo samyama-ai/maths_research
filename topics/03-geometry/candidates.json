@@ -294,12 +294,6 @@
     "description": "Certain Hodge cycles on abelian varieties are absolute Hodge classes."
   },
   {
-    "title": "Borel Conjecture",
-    "slug": "borel-conjecture",
-    "status": "partially-solved",
-    "description": "Aspherical manifolds with isomorphic fundamental groups are homeomorphic."
-  },
-  {
     "title": "Bass-Quillen Conjecture",
     "slug": "bass-quillen-conjecture",
     "status": "open",

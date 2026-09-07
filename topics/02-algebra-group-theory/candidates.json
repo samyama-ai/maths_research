@@ -642,12 +642,6 @@
     "description": "Constructs the robust triangulated category of mixed motives in pure algebraic geometry."
   },
   {
-    "title": "Hodge Conjecture",
-    "slug": "hodge-conjecture",
-    "status": "open",
-    "description": "Are all rational Hodge classes on a projective complex manifold strictly algebraic?"
-  },
-  {
     "title": "Pierce-Birkhoff Conjecture",
     "slug": "pierce-birkhoff-conjecture",
     "status": "open",
