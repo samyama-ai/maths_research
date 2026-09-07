@@ -29,6 +29,11 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 UA = "maths_research-linker/1.0 (mailto:research@samyama.ai)"
 CACHE_PATH = os.path.join(os.path.expanduser("~"), ".cache", "maths_research-crossref.json")
 
+# arXiv asks for one request every 3 seconds. Enforced as a next-allowed clock
+# rather than a trailing sleep, so retries and error paths are paced too.
+ARXIV_MIN_INTERVAL = float(os.getenv("ARXIV_MIN_INTERVAL", "3.5"))
+_ARXIV_NEXT_OK = 0.0
+
 # A reference line looks like:
 #   - **[Foundational]** Author, A. *Title.* Venue, Year.
 #
@@ -125,6 +130,68 @@ def best_match(title, year, cands):
     return best, best_score
 
 
+
+def arxiv(title, cache):
+    """Search arXiv by title. Crossref indexes journals; a large share of the
+    literature this catalog cites is preprints that never got a DOI, or got one
+    years later under a different title."""
+    key = "arxiv:" + norm(title)
+    if key in cache:
+        return cache[key]
+    q = urllib.parse.quote(f'ti:"{title[:200]}"')
+    url = f"https://export.arxiv.org/api/query?search_query={q}&max_results=5"
+
+    # The sleep used to run only after a successful call, so the error path
+    # returned immediately and a failing query spun with no delay at all. That is
+    # what earned an HTTP 429 in the first place. Pace every request, and back off
+    # when told to.
+    global _ARXIV_NEXT_OK
+    for attempt in range(4):
+        wait = _ARXIV_NEXT_OK - time.time()
+        if wait > 0:
+            time.sleep(wait)
+        _ARXIV_NEXT_OK = time.time() + ARXIV_MIN_INTERVAL
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=30) as r:
+                body = r.read().decode()
+        except Exception as e:
+            code = getattr(e, "code", None)
+            if code == 429:
+                backoff = ARXIV_MIN_INTERVAL * (4 ** (attempt + 1))
+                print(f"    arxiv 429; backing off {backoff:.0f}s", file=sys.stderr)
+                _ARXIV_NEXT_OK = time.time() + backoff
+                continue
+            print(f"    arxiv error for {title[:50]!r}: {e}", file=sys.stderr)
+            return None
+        out = []
+        for entry in re.findall(r"<entry>(.*?)</entry>", body, re.S):
+            tm = re.search(r"<title>(.*?)</title>", entry, re.S)
+            im = re.search(r"<id>https?://arxiv\.org/abs/([^<v]+)", entry)
+            pm = re.search(r"<published>(\d{4})", entry)
+            if tm and im:
+                out.append({"title": " ".join(tm.group(1).split()),
+                            "arxiv": im.group(1),
+                            "year": int(pm.group(1)) if pm else None})
+        cache[key] = out
+        return out
+    print(f"    arxiv rate-limited after 4 attempts for {title[:50]!r}", file=sys.stderr)
+    return None
+
+
+def best_arxiv(title, year, cands):
+    best, best_score = None, 0.0
+    for c in cands or []:
+        score = f1(title, c["title"])
+        if score < 0.9:
+            continue
+        if year and c["year"] and abs(int(year) - int(c["year"])) > 2:
+            continue                       # preprint often predates publication
+        if score > best_score:
+            best, best_score = c, score
+    return best, best_score
+
+
 def process(path, cache, dry_run):
     text = open(path, encoding="utf-8").read()
     if "## 9." not in text:
@@ -145,14 +212,29 @@ def process(path, cache, dry_run):
             continue
         title = m.group(1).strip().rstrip(".")
         ym = YEAR_RE.search(line)
-        cands = crossref(title, cache)
-        hit, score = best_match(title, ym.group(1) if ym else None, cands)
-        if not hit or not hit["doi"]:
+        year = ym.group(1) if ym else None
+        hit, _ = best_match(title, year, crossref(title, cache))
+        if hit and hit["doi"]:
+            lines[i] = (line.rstrip().rstrip(".")
+                        + f". [DOI](https://doi.org/{hit['doi']})")
+            linked += 1
+            time.sleep(0.2)                # Crossref etiquette
+            continue
+        if VENUE_WORDS.match(title.strip()):
             skipped += 1
             continue
-        lines[i] = line.rstrip().rstrip(".") + f". [DOI](https://doi.org/{hit['doi']})"
-        linked += 1
-        time.sleep(0.2)                    # Crossref etiquette
+        # arXiv started in 1991 and costs 3.5s a query. Spending that on a 1930s
+        # paper that cannot be there is how a 5,000-reference pass becomes a day.
+        if not year or int(year) < 1991:
+            skipped += 1
+            continue
+        ahit, _ = best_arxiv(title, year, arxiv(title, cache))
+        if ahit:
+            lines[i] = (line.rstrip().rstrip(".")
+                        + f". [arXiv:{ahit['arxiv']}](https://arxiv.org/abs/{ahit['arxiv']})")
+            linked += 1
+            continue
+        skipped += 1
 
     if linked and not dry_run:
         new = head + "## 9." + "\n".join(lines) + sep + tail
