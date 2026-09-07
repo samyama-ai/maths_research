@@ -4,3 +4,5 @@ __pycache__/
 .env
 
 catalog-run.log
+catalog-run.nohup
+*.md.tmp

@@ -11,7 +11,13 @@ import re
 
 ROOT = Path(__file__).resolve().parent.parent
 
-# Each agy call takes ~30-60s, so the run is latency-bound, not CPU-bound.
+# Backend: "claude" or "agy". Both are print-mode CLIs that take a prompt and
+# return text, so only the argv differs. agy is kept because it was the original
+# mandate; claude is the default after agy's subscription quota stopped a run at
+# 124 of 1,000 files.
+BACKEND = os.getenv("CATALOG_BACKEND", "claude").lower()
+
+# Each call takes tens of seconds, so the run is latency-bound, not CPU-bound.
 # Bound total in-flight calls across all topics.
 AGY_CONCURRENCY = int(os.getenv("AGY_CONCURRENCY", "8"))
 AGY_TIMEOUT = os.getenv("AGY_PRINT_TIMEOUT", "10m")
@@ -26,6 +32,16 @@ QUOTA_RE = re.compile(r"quota reached|rate limit|Resets in", re.I)
 
 class QuotaExhausted(RuntimeError):
     pass
+
+
+# Progress accounting, so the log shows completions rather than only the queue
+# being drained. Every "+ Generating" line is printed at enqueue time, which made
+# 2,081 of them appear in the first seconds of a run that had written no files.
+PROGRESS = {"done": 0, "failed": 0, "total": 0}
+
+
+def note(msg):
+    print(msg, flush=True)
 
 # System instruction to enforce math detail and schema adherence
 SYSTEM_INSTRUCTION = """You are a world-class mathematician, theoretical computer scientist, and editor of a comprehensive open math catalog.
@@ -102,7 +118,7 @@ def normalize_markdown(text, topic_slug, slug, title, status, month=None):
 
 
 async def call_agy_cli(prompt, is_json=False):
-    """Call agy CLI to generate content."""
+    """Run one prompt through the configured CLI backend and return its text."""
     
     full_prompt = SYSTEM_INSTRUCTION + "\n\n" + prompt
     if is_json:
@@ -111,8 +127,11 @@ async def call_agy_cli(prompt, is_json=False):
     loop = asyncio.get_event_loop()
     
     def _run():
-        cmd = ["agy", "-p", full_prompt, "--print-timeout", AGY_TIMEOUT]
-        model = os.getenv("AGY_MODEL")
+        if BACKEND == "agy":
+            cmd = ["agy", "-p", full_prompt, "--print-timeout", AGY_TIMEOUT]
+        else:
+            cmd = ["claude", "-p", full_prompt, "--output-format", "text"]
+        model = os.getenv("CATALOG_MODEL") or os.getenv("AGY_MODEL")
         if model:
             cmd += ["--model", model]
         result = subprocess.run(cmd, capture_output=True, text=True)
@@ -120,7 +139,7 @@ async def call_agy_cli(prompt, is_json=False):
             err = (result.stderr + result.stdout).strip()
             if QUOTA_RE.search(err):
                 raise QuotaExhausted(err[:200])
-            raise RuntimeError(f"agy -p failed: {err[:500]}")
+            raise RuntimeError(f"{BACKEND} -p failed: {err[:500]}")
         return result.stdout.strip()
 
     async with AGY_SEMAPHORE:
@@ -132,7 +151,7 @@ async def call_agy_cli(prompt, is_json=False):
             except QuotaExhausted:
                 raise
             except Exception as e:
-                print(f"    agy call failed (attempt {attempt + 1}/3): {e}")
+                print(f"    {BACKEND} call failed (attempt {attempt + 1}/3): {e}")
                 await asyncio.sleep(5 * (attempt + 1))
         else:
             raise RuntimeError("agy call failed after 3 attempts")
@@ -246,10 +265,9 @@ async def generate_problem_file(topic_slug, topic_name, candidate):
     file_path = topic_dir / f"{slug}.md"
     
     if file_path.exists():
-        print(f"  - {slug}.md already exists. Skipping.")
         return True
         
-    print(f"  + Generating: {title} ({status})")
+    note(f"  + queued: {title} ({status})")
     
     # Read TEMPLATE.md to feed into prompt
     template_path = ROOT / "TEMPLATE.md"
@@ -277,13 +295,16 @@ Additional Instructions:
 
 Return only the markdown content, starting with the YAML frontmatter block."""
 
+    started = time.time()
     markdown_content = await call_agy_cli(prompt, is_json=False)
+    elapsed = time.time() - started
     markdown_content = normalize_markdown(
         markdown_content, topic_slug, slug, title, status)
 
     missing = [h for h in REQUIRED_SECTIONS if f"## {h}" not in markdown_content]
     if missing:
-        print(f"    ! {slug}.md: missing sections {missing}, skipping write")
+        PROGRESS["failed"] += 1
+        note(f"    ! {slug}.md: missing sections {missing}, skipping write")
         return False
 
     
@@ -293,9 +314,16 @@ Return only the markdown content, starting with the YAML frontmatter block."""
     if n_escapes > 0:
         print(f"    Fixed {n_escapes} '#' in math mode for {slug}.md")
         
-    # Write to file
-    file_path.write_text(cleaned_content, encoding="utf-8")
-    print(f"    Wrote file: {file_path.relative_to(ROOT)}")
+    # Write through a temp file in the same directory, then rename. A run killed
+    # mid-write otherwise leaves a truncated page that the next pass skips as
+    # "already exists", so the damage is permanent and silent.
+    tmp = file_path.with_suffix(".md.tmp")
+    tmp.write_text(cleaned_content, encoding="utf-8")
+    tmp.replace(file_path)
+
+    PROGRESS["done"] += 1
+    note(f"  [{PROGRESS['done']}/{PROGRESS['total']}] {file_path.relative_to(ROOT)} "
+         f"({len(cleaned_content) // 1024} KB, {elapsed:.0f}s)")
     return True
 
 
@@ -323,8 +351,10 @@ async def generate_interleaved(target_topics, limit_generate):
         for slug, name, cands in queues:
             if i < len(cands):
                 ordered.append((slug, name, cands[i]))
-    print(f"=== Generating {len(ordered)} problems, round-robin across "
-          f"{len(queues)} topics ===")
+    PROGRESS["total"] = len(ordered)
+    note(f"=== Generating {len(ordered)} problems, round-robin across "
+         f"{len(queues)} topics ===")
+    run_started = time.time()
 
     results = await asyncio.gather(*(
         generate_problem_file(slug, name, cand) for slug, name, cand in ordered
@@ -332,6 +362,10 @@ async def generate_interleaved(target_topics, limit_generate):
     for r in results:
         if isinstance(r, QuotaExhausted):
             raise r
+
+    mins = (time.time() - run_started) / 60
+    note(f"=== pass done: {PROGRESS['done']} written, {PROGRESS['failed']} rejected, "
+         f"{mins:.0f} min ({PROGRESS['done'] / max(mins, 1):.1f} files/min) ===")
 
     for slug, name, _ in queues:
         await generate_topic_readme(slug, name)
@@ -456,7 +490,9 @@ async def generate_topic_readme(topic_slug, topic_name):
 
 
 def parse_args():
-    parser = argparse.ArgumentParser(description="Generate Maths Research Catalog using AGY CLI.")
+    parser = argparse.ArgumentParser(
+        description="Generate the Maths Research Catalog via the claude or agy CLI "
+                    "(set CATALOG_BACKEND=claude|agy; default claude).")
     parser.add_argument("--topic", help="Specific topic slug to generate (default: all topics).")
     parser.add_argument("--stage", choices=["discovery", "topup", "generation", "all"], default="all",
                         help="Execution stage: discovery, generation, or all.")
@@ -480,7 +516,8 @@ async def main():
     else:
         target_topics = TOPICS
         
-    print(f"Starting Maths Research Catalog generator (AGY CLI). Target topics: {len(target_topics)}")
+    print(f"Starting Maths Research Catalog generator (backend={BACKEND}, "
+          f"concurrency={AGY_CONCURRENCY}). Target topics: {len(target_topics)}")
     
     async def _one(slug, name):
         try:
@@ -496,7 +533,7 @@ async def main():
         else:
             await asyncio.gather(*(_one(s, n) for s, n in target_topics.items()))
     except QuotaExhausted as e:
-        print(f"\nABORT: agy quota exhausted -- {e}")
+        print(f"\nABORT: {BACKEND} quota exhausted -- {e}")
         print("Re-run tools/run_catalog.sh once it resets; generated files are skipped.")
         subprocess.run([str(ROOT / "gen_index.sh")], cwd=str(ROOT))
         sys.exit(2)
