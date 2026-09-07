@@ -11,6 +11,13 @@ import re
 
 ROOT = Path(__file__).resolve().parent.parent
 
+# sys.path is fixed up here, not in main(). fix_math_hash was imported inside
+# generate_problem_file and only resolved because main() appended tools/ first,
+# so every page failed with ModuleNotFoundError the moment the module was driven
+# from anywhere but its own CLI.
+sys.path.insert(0, str(ROOT / "tools"))
+from fix_math_hash import transform as fix_math_hash_transform  # noqa: E402
+
 # Backend: "claude" or "agy". Both are print-mode CLIs that take a prompt and
 # return text, so only the argv differs. agy is kept because it was the original
 # mandate; claude is the default after agy's subscription quota stopped a run at
@@ -120,7 +127,11 @@ def normalize_markdown(text, topic_slug, slug, title, status, month=None):
 async def call_agy_cli(prompt, is_json=False):
     """Run one prompt through the configured CLI backend and return its text."""
     
-    full_prompt = SYSTEM_INSTRUCTION + "\n\n" + prompt
+    # The claude backend takes the role instruction as a real system prompt, which
+    # also replaces Claude Code's own harness prompt. Left as a prefix, the default
+    # agent boots MCP servers and project context for every call: one page took
+    # 283s that way and 30s with --strict-mcp-config and --system-prompt.
+    full_prompt = prompt if BACKEND == "claude" else SYSTEM_INSTRUCTION + "\n\n" + prompt
     if is_json:
         full_prompt += "\n\nCRITICAL: Return ONLY valid JSON. Do not wrap it in markdown blocks (e.g. ```json ... ```). Just raw JSON."
         
@@ -130,7 +141,10 @@ async def call_agy_cli(prompt, is_json=False):
         if BACKEND == "agy":
             cmd = ["agy", "-p", full_prompt, "--print-timeout", AGY_TIMEOUT]
         else:
-            cmd = ["claude", "-p", full_prompt, "--output-format", "text"]
+            cmd = ["claude", "-p", full_prompt,
+                   "--output-format", "text",
+                   "--strict-mcp-config",
+                   "--system-prompt", SYSTEM_INSTRUCTION]
         model = os.getenv("CATALOG_MODEL") or os.getenv("AGY_MODEL")
         if model:
             cmd += ["--model", model]
@@ -143,18 +157,26 @@ async def call_agy_cli(prompt, is_json=False):
         return result.stdout.strip()
 
     async with AGY_SEMAPHORE:
+        response_text = ""
         for attempt in range(3):
             try:
                 response_text = await loop.run_in_executor(None, _run)
                 if response_text:
                     break
+                # rc 0 with nothing on stdout. This is how the CLI reports being
+                # unable to start a session, and it was the run's worst failure
+                # mode: silent. 16 workers cycled every 60s writing nothing, and
+                # the swallowed exception meant neither the log nor the file count
+                # showed a reason. Always say it happened.
+                note(f"    {BACKEND} returned an empty response "
+                     f"(attempt {attempt + 1}/3)")
             except QuotaExhausted:
                 raise
             except Exception as e:
-                print(f"    {BACKEND} call failed (attempt {attempt + 1}/3): {e}")
-                await asyncio.sleep(5 * (attempt + 1))
+                note(f"    {BACKEND} call failed (attempt {attempt + 1}/3): {e}")
+            await asyncio.sleep(5 * (attempt + 1))
         else:
-            raise RuntimeError("agy call failed after 3 attempts")
+            raise RuntimeError(f"{BACKEND} returned nothing after 3 attempts")
     
     if is_json:
         # Strip potential markdown formatting if model didn't listen
@@ -293,6 +315,12 @@ Additional Instructions:
 - Section 9 (Key References) must list real, accurate, and verifiable papers, books, or survey works with correct titles, authors, venues, and years.
 - Section 10 (Worked Example) must provide a concrete, calculated instance or walk through a simplified case to illustrate the problem.
 
+LENGTH: target 1,400-1,900 words for the whole page. This is a catalog entry, not
+a survey article. Uncapped, pages came back at 4,500 words and 400 seconds each,
+which is 3x the length of the rest of the catalog and puts a 1,000-page run at
+12 hours. Be dense and specific rather than expansive: name the theorem, state
+the bound, cite the paper, move on.
+
 Return only the markdown content, starting with the YAML frontmatter block."""
 
     started = time.time()
@@ -309,8 +337,7 @@ Return only the markdown content, starting with the YAML frontmatter block."""
 
     
     # Post-process to fix math hash character parsing issues
-    from fix_math_hash import transform
-    cleaned_content, n_escapes = transform(markdown_content)
+    cleaned_content, n_escapes = fix_math_hash_transform(markdown_content)
     if n_escapes > 0:
         print(f"    Fixed {n_escapes} '#' in math mode for {slug}.md")
         
@@ -362,6 +389,10 @@ async def generate_interleaved(target_topics, limit_generate):
     for r in results:
         if isinstance(r, QuotaExhausted):
             raise r
+    errs = [r for r in results if isinstance(r, Exception)]
+    if errs:
+        PROGRESS["failed"] += len(errs)
+        note(f"  {len(errs)} calls raised; first: {errs[0]}")
 
     mins = (time.time() - run_started) / 60
     note(f"=== pass done: {PROGRESS['done']} written, {PROGRESS['failed']} rejected, "
@@ -504,7 +535,6 @@ def parse_args():
 
 async def main():
     args = parse_args()
-    sys.path.append(str(ROOT / "tools"))
     
     target_topics = {}
     if args.topic:
@@ -543,5 +573,4 @@ async def main():
     print("Done!")
 
 if __name__ == "__main__":
-    sys.path.append(str(ROOT / "tools"))
     asyncio.run(main())
