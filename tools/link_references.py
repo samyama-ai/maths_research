@@ -1,0 +1,198 @@
+#!/usr/bin/env python3
+"""Resolve Section 9 references against Crossref and arXiv, and attach identifiers.
+
+The catalog's references name real authors, titles, venues and years, but carry no
+DOI or arXiv id, so `audit.py --links` had 2 URLs to check across 124 pages against
+dbms_research's 6,700. A citation nobody can resolve is a lead, not a reference.
+
+Matching is deliberately conservative, because a confidently wrong DOI is worse
+than none: a candidate is accepted only when the normalised Crossref title matches
+the cited title closely (token F1 >= 0.9) and the year agrees within one, to allow
+for preprint-vs-publication drift. Everything else is left alone and counted, so
+the miss rate is visible rather than hidden.
+
+  python3 tools/link_references.py --dry-run          # report, touch nothing
+  python3 tools/link_references.py --limit 20         # first 20 files
+  python3 tools/link_references.py                    # whole catalog
+"""
+import argparse
+import glob
+import json
+import os
+import re
+import sys
+import time
+import urllib.parse
+import urllib.request
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+UA = "maths_research-linker/1.0 (mailto:research@samyama.ai)"
+CACHE_PATH = os.path.join(os.path.expanduser("~"), ".cache", "maths_research-crossref.json")
+
+# A reference line looks like:
+#   - **[Foundational]** Author, A. *Title.* Venue, Year.
+#
+# The category tag is stripped before the title is read. Left in place, the first
+# *...* group in the line is the tag's own emphasis markers, so every lookup
+# searched Crossref for the word "Foundational" and matched nothing -- 0% resolved
+# across the whole catalog, with no error to show for it.
+TAG_RE = re.compile(r"^\s*-\s+(?:\*\*\[[^\]]+\]\*\*)?\s*")
+TITLE_RE = re.compile(r"\*([^*]{8,300})\*")
+YEAR_RE = re.compile(r"\b(1[89]\d{2}|20[0-4]\d)\b")
+
+
+def norm(s):
+    return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
+
+
+def f1(a, b):
+    ta, tb = set(norm(a).split()), set(norm(b).split())
+    if not ta or not tb:
+        return 0.0
+    inter = len(ta & tb)
+    if not inter:
+        return 0.0
+    p, r = inter / len(ta), inter / len(tb)
+    return 2 * p * r / (p + r)
+
+
+def load_cache():
+    if os.path.exists(CACHE_PATH):
+        try:
+            return json.load(open(CACHE_PATH, encoding="utf-8"))
+        except Exception:
+            return {}
+    return {}
+
+
+def save_cache(cache):
+    os.makedirs(os.path.dirname(CACHE_PATH), exist_ok=True)
+    json.dump(cache, open(CACHE_PATH, "w", encoding="utf-8"))
+
+
+def crossref(title, cache):
+    """One Crossref query per distinct title, cached across runs."""
+    key = norm(title)
+    if key in cache:
+        return cache[key]
+    url = ("https://api.crossref.org/works?rows=5&select=title,DOI,issued&query.bibliographic="
+           + urllib.parse.quote(title[:280]))
+    out = []
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=25) as r:
+            items = json.loads(r.read().decode()).get("message", {}).get("items", [])
+        for it in items:
+            t = (it.get("title") or [""])[0]
+            parts = it.get("issued", {}).get("date-parts", [[None]])
+            out.append({"title": t, "doi": it.get("DOI", ""),
+                        "year": parts[0][0] if parts and parts[0] else None})
+    except Exception as e:
+        print(f"    crossref error for {title[:50]!r}: {e}", file=sys.stderr)
+        return None                      # None = unknown, do not cache a failure
+    cache[key] = out
+    return out
+
+
+# Journal-level records, not articles. A reference line that italicises the venue
+# instead of the paper title matched its journal's ISSN DOI at f1 = 1.00 -- a link
+# that resolves, looks right, and points at the wrong kind of thing entirely.
+ISSN_DOI = re.compile(r"\(issn\)", re.I)
+VENUE_WORDS = re.compile(
+    r"^(the\s+)?(bulletin|journal|proceedings|transactions|annals|notices|acta|"
+    r"comptes rendus|archiv|memoirs|s[ée]minaire)\b", re.I)
+
+
+def best_match(title, year, cands):
+    """Accept only a close title match whose year agrees within one.
+
+    Coverage is deliberately sacrificed for correctness: an unresolved reference
+    is honest, a confidently wrong DOI is not.
+    """
+    if VENUE_WORDS.match(title.strip()):
+        return None, 0.0                   # a venue name, not a paper title
+    best, best_score = None, 0.0
+    for c in cands or []:
+        if ISSN_DOI.search(c.get("doi", "")) or not c.get("year"):
+            continue                       # journal record, not an article
+        score = f1(title, c["title"])
+        if score < 0.9:
+            continue
+        if year and abs(int(year) - int(c["year"])) > 1:
+            continue
+        if score > best_score:
+            best, best_score = c, score
+    return best, best_score
+
+
+def process(path, cache, dry_run):
+    text = open(path, encoding="utf-8").read()
+    if "## 9." not in text:
+        return 0, 0
+    head, _, rest = text.partition("## 9.")
+    sec, sep, tail = rest.partition("## 10.")
+
+    linked = skipped = 0
+    lines = sec.split("\n")
+    for i, line in enumerate(lines):
+        if not line.strip().startswith("-"):
+            continue
+        if "doi.org/" in line or "arxiv.org/" in line:
+            continue                       # already carries an identifier
+        m = TITLE_RE.search(TAG_RE.sub("", line))
+        if not m:
+            skipped += 1
+            continue
+        title = m.group(1).strip().rstrip(".")
+        ym = YEAR_RE.search(line)
+        cands = crossref(title, cache)
+        hit, score = best_match(title, ym.group(1) if ym else None, cands)
+        if not hit or not hit["doi"]:
+            skipped += 1
+            continue
+        lines[i] = line.rstrip().rstrip(".") + f". [DOI](https://doi.org/{hit['doi']})"
+        linked += 1
+        time.sleep(0.2)                    # Crossref etiquette
+
+    if linked and not dry_run:
+        new = head + "## 9." + "\n".join(lines) + sep + tail
+        tmp = path + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as f:
+            f.write(new)
+        os.replace(tmp, path)
+    return linked, skipped
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--limit", type=int)
+    a = ap.parse_args()
+
+    files = sorted(p for p in glob.glob(os.path.join(ROOT, "topics", "*", "*.md"))
+                   if os.path.basename(p) != "README.md")
+    if a.limit:
+        files = files[:a.limit]
+
+    cache = load_cache()
+    total_l = total_s = 0
+    try:
+        for n, p in enumerate(files, 1):
+            l, s = process(p, cache, a.dry_run)
+            total_l += l
+            total_s += s
+            if n % 25 == 0:
+                print(f"  {n}/{len(files)} files, {total_l} linked, {total_s} unmatched",
+                      flush=True)
+                save_cache(cache)
+    finally:
+        save_cache(cache)
+
+    rate = 100 * total_l / max(total_l + total_s, 1)
+    print(f"-- {len(files)} files: {total_l} references linked, {total_s} unmatched "
+          f"({rate:.0f}% resolved){' [dry run]' if a.dry_run else ''} --")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
