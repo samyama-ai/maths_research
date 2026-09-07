@@ -95,6 +95,7 @@ The study of integers, prime numbers, Diophantine equations, and related structu
 * 🔴 [Lehmer's Mahler Measure Problem](./lehmers-mahler-measure-problem.md) — Asks if the Mahler measure of integer polynomials is close to one.
 * 🔴 [Lehmer's Totient Problem](./lehmers-totient-problem.md) — Asks if a composite number totient divides the number minus one.
 * 🔴 [Lemoine's Conjecture](./lemoines-conjecture.md) — States every odd integer is a prime plus twice a prime.
+* 🟠 [Lenstra-Pomerance-Wagstaff Conjecture](./lenstra-pomerance-wagstaff-conjecture.md) — Provides a precise heuristic for the number of Mersenne primes.
 * 🟡 [Leopoldt's Conjecture](./leopoldts-conjecture.md) — Concerns the p adic regulator of an algebraic number field.
 * 🔴 [Lindelöf Hypothesis](./lindelof-hypothesis.md) — Bounds the growth of the Riemann zeta function on the critical line.
 * 🔴 [Linnik's Constant Problem](./linniks-constant-problem.md) — Bounds the size of the smallest prime in an arithmetic progression.
