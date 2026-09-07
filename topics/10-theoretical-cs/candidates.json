@@ -544,5 +544,149 @@
     "slug": "quantum-singular-value-transformation-optimality",
     "status": "open",
     "description": "Is QSVT the optimal framework for all quantum algorithms."
+  },
+  {
+    "title": "Exact Log-Rank Conjecture",
+    "slug": "exact-log-rank-conjecture",
+    "status": "open",
+    "description": "Relates deterministic communication complexity to the logarithm of the matrix rank."
+  },
+  {
+    "title": "Orthogonal Vectors Conjecture",
+    "slug": "orthogonal-vectors-conjecture",
+    "status": "open",
+    "description": "States no subquadratic algorithm exists for finding orthogonal boolean vectors."
+  },
+  {
+    "title": "BPL versus L",
+    "slug": "bpl-versus-l",
+    "status": "open",
+    "description": "Asks if randomized logarithmic space algorithms can be fully derandomized."
+  },
+  {
+    "title": "Sliding Scale Conjecture",
+    "slug": "sliding-scale-conjecture",
+    "status": "open",
+    "description": "Proposes a trade off between query complexity and error in PCPs."
+  },
+  {
+    "title": "NP versus BQP",
+    "slug": "np-versus-bqp",
+    "status": "open",
+    "description": "Determines if quantum computers can solve all nondeterministic polynomial time problems."
+  },
+  {
+    "title": "NC Complexity of Integer GCD",
+    "slug": "nc-complexity-of-integer-gcd",
+    "status": "open",
+    "description": "Asks whether computing the greatest common divisor is highly parallelizable."
+  },
+  {
+    "title": "Frege Proof System Lower Bounds",
+    "slug": "frege-proof-system-lower-bounds",
+    "status": "open",
+    "description": "Seeks superpolynomial size lower bounds for standard propositional logic proofs."
+  },
+  {
+    "title": "Matrix Rigidity Conjecture",
+    "slug": "matrix-rigidity-conjecture",
+    "status": "open",
+    "description": "Involves constructing matrices that cannot be approximated by low rank matrices."
+  },
+  {
+    "title": "Randomized Exponential Time Hypothesis",
+    "slug": "randomized-exponential-time-hypothesis",
+    "status": "open",
+    "description": "States that boolean satisfiability lacks subexponential randomized time algorithms."
+  },
+  {
+    "title": "Security of Fiat-Shamir in QROM",
+    "slug": "security-of-fiat-shamir-in-qrom",
+    "status": "partially-solved",
+    "description": "Determines if Fiat Shamir signatures are secure against quantum computing attackers."
+  },
+  {
+    "title": "Impossibility of Quantum Virtual Black Box Obfuscation",
+    "slug": "impossibility-of-quantum-vbb-obfuscation",
+    "status": "partially-solved",
+    "description": "Explores whether quantum programs can be completely hidden from adversaries."
+  },
+  {
+    "title": "Indistinguishability Obfuscation Construction",
+    "slug": "indistinguishability-obfuscation-construction",
+    "status": "solved-recently",
+    "description": "Creates cryptographic programs that hide their internal implementation details securely."
+  },
+  {
+    "title": "Turing Kernelization for Vertex Cover",
+    "slug": "turing-kernelization-for-vertex-cover",
+    "status": "open",
+    "description": "Asks if the vertex cover problem has a polynomial size kernel."
+  },
+  {
+    "title": "Reed-Solomon List Decoding Capacity",
+    "slug": "reed-solomon-list-decoding-capacity",
+    "status": "open",
+    "description": "Determines the maximum error radius for decoding polynomial evaluation codes."
+  },
+  {
+    "title": "Strongly Regular Graph Isomorphism",
+    "slug": "strongly-regular-graph-isomorphism",
+    "status": "open",
+    "description": "Focuses on the complexity of testing isomorphism for specific structured graphs."
+  },
+  {
+    "title": "Linear Time Maximum Flow",
+    "slug": "linear-time-maximum-flow",
+    "status": "solved-recently",
+    "description": "Finds the maximum flow in a network in nearly linear time."
+  },
+  {
+    "title": "Skolem Problem",
+    "slug": "skolem-problem",
+    "status": "open",
+    "description": "Asks whether a linear recurrence sequence ever reaches exactly zero."
+  },
+  {
+    "title": "Uniform UL versus NL",
+    "slug": "uniform-ul-versus-nl",
+    "status": "open",
+    "description": "Asks if nondeterministic logspace equals unambiguous logspace in uniform settings."
+  },
+  {
+    "title": "Asymmetric TSP Constant Factor Approximation",
+    "slug": "asymmetric-tsp-constant-factor-approximation",
+    "status": "solved-recently",
+    "description": "Achieves a constant factor approximation for the asymmetric traveling salesperson problem."
+  },
+  {
+    "title": "Metric TSP Four Thirds Conjecture",
+    "slug": "metric-tsp-four-thirds-conjecture",
+    "status": "open",
+    "description": "Proposes a tight approximation ratio for the metric traveling salesperson problem."
+  },
+  {
+    "title": "Correlation Bounds for Polynomials",
+    "slug": "correlation-bounds-for-polynomials",
+    "status": "open",
+    "description": "Bounds the correlation between parity and low degree polynomials over fields."
+  },
+  {
+    "title": "Junta Testing Complexity",
+    "slug": "junta-testing-complexity",
+    "status": "partially-solved",
+    "description": "Determines the number of queries needed to test if functions are juntas."
+  },
+  {
+    "title": "Quantum Advantage for Shallow Circuits",
+    "slug": "quantum-advantage-for-shallow-circuits",
+    "status": "solved-recently",
+    "description": "Proves constant depth quantum circuits are strictly stronger than classical ones."
+  },
+  {
+    "title": "Space Bounded Pseudorandom Generators",
+    "slug": "space-bounded-pseudorandom-generators",
+    "status": "open",
+    "description": "Creates efficient deterministic random bits for space bounded computational models."
   }
 ]

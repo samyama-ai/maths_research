@@ -54,12 +54,6 @@
     "description": "Classifies knots admitting Dehn surgeries that yield lens spaces."
   },
   {
-    "title": "L-space Conjecture",
-    "slug": "l-space-conjecture",
-    "status": "open",
-    "description": "Relates Heegaard Floer homology to fundamental group orderability and taut foliations."
-  },
-  {
     "title": "Cosmetic Surgery Conjecture",
     "slug": "cosmetic-surgery-conjecture",
     "status": "open",
@@ -550,5 +544,107 @@
     "slug": "jones-polynomial-detecting-the-unknot",
     "status": "open",
     "description": "Does the Jones polynomial distinguish the trivial knot from all other knots."
+  },
+  {
+    "title": "Fox Trapezoidal Conjecture",
+    "slug": "fox-trapezoidal-conjecture",
+    "status": "open",
+    "description": "The coefficients of alternating knot polynomials always form a strictly trapezoidal sequence."
+  },
+  {
+    "title": "Hoste Conjecture",
+    "slug": "hoste-conjecture",
+    "status": "open",
+    "description": "Alternating knot polynomial roots possess real parts greater than minus one."
+  },
+  {
+    "title": "Przytycki 3-Move Conjecture",
+    "slug": "przytycki-3-move-conjecture",
+    "status": "partially-solved",
+    "description": "Every classical link can be reduced to trivial components via three moves."
+  },
+  {
+    "title": "Virtual Haken Conjecture",
+    "slug": "virtual-haken-conjecture",
+    "status": "solved-recently",
+    "description": "Every irreducible closed three manifold has a finite cover containing essential surfaces."
+  },
+  {
+    "title": "Virtually Fibered Conjecture",
+    "slug": "virtually-fibered-conjecture",
+    "status": "solved-recently",
+    "description": "Closed hyperbolic three manifolds have finite covers fibering over the circle."
+  },
+  {
+    "title": "Tunnel Number Additivity Conjecture",
+    "slug": "tunnel-number-additivity-conjecture",
+    "status": "partially-solved",
+    "description": "The tunnel number of a connected sum of knots is exactly additive."
+  },
+  {
+    "title": "Melvin-Morton-Rozansky Conjecture",
+    "slug": "melvin-morton-rozansky-conjecture",
+    "status": "solved-recently",
+    "description": "The Alexander polynomial can be recovered from the colored Jones polynomial series."
+  },
+  {
+    "title": "Mutant Knot Unknotting Number Conjecture",
+    "slug": "mutant-knot-unknotting-number-conjecture",
+    "status": "open",
+    "description": "Mutant knots always share the exact same minimum unknotting number."
+  },
+  {
+    "title": "Marino-Vafa Conjecture",
+    "slug": "marino-vafa-conjecture",
+    "status": "solved-recently",
+    "description": "Relates Chern Simons theory knot invariants to topological string theory partition functions."
+  },
+  {
+    "title": "Gusarov-Habiro Conjecture",
+    "slug": "gusarov-habiro-conjecture",
+    "status": "partially-solved",
+    "description": "Knots share identical finite type invariants only if they are grope equivalent."
+  },
+  {
+    "title": "Completeness of Vassiliev Invariants",
+    "slug": "completeness-of-vassiliev-invariants",
+    "status": "open",
+    "description": "Finite type invariants completely distinguish all non isotopic knots in three dimensions."
+  },
+  {
+    "title": "Arnold Chord Conjecture",
+    "slug": "arnold-chord-conjecture",
+    "status": "partially-solved",
+    "description": "Every Legendrian submanifold of a contact manifold admits a Reeb chord."
+  },
+  {
+    "title": "Putman Torelli Group Conjecture",
+    "slug": "putman-torelli-group-conjecture",
+    "status": "open",
+    "description": "The second rational homology of the Torelli group vanishes for high genus."
+  },
+  {
+    "title": "Gromov Bounded Cohomology Conjecture",
+    "slug": "gromov-bounded-cohomology-conjecture",
+    "status": "open",
+    "description": "The comparison map to singular cohomology is injective for all aspherical manifolds."
+  },
+  {
+    "title": "Square Peg Problem",
+    "slug": "square-peg-problem",
+    "status": "partially-solved",
+    "description": "Every continuous simple closed curve contains four points forming a geometric square."
+  },
+  {
+    "title": "Composite Knot Crossing Number Conjecture",
+    "slug": "composite-knot-crossing-number-conjecture",
+    "status": "open",
+    "description": "The minimum crossing number strictly adds under the connected sum of knots."
+  },
+  {
+    "title": "Turaev Surface Words Conjecture",
+    "slug": "turaev-surface-words-conjecture",
+    "status": "open",
+    "description": "Virtual knots can be faithfully represented by equivalence classes of surface words."
   }
 ]

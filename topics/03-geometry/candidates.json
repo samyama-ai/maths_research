@@ -144,12 +144,6 @@
     "description": "The universal cover of a compact Kahler manifold is holomorphically convex."
   },
   {
-    "title": "Zilber-Pink Conjecture",
-    "slug": "zilber-pink-conjecture",
-    "status": "open",
-    "description": "Intersections of algebraic varieties with special subvarieties in Shimura varieties are constrained."
-  },
-  {
     "title": "Andre-Oort Conjecture",
     "slug": "andre-oort-conjecture",
     "status": "solved-recently",
@@ -340,18 +334,6 @@
     "slug": "grothendieck-serre-conjecture",
     "status": "partially-solved",
     "description": "Principal bundles for reductive algebraic groups are trivial over regular local rings."
-  },
-  {
-    "title": "Makar-Limanov Conjecture",
-    "slug": "makar-limanov-conjecture",
-    "status": "open",
-    "description": "The Makar-Limanov invariant of any contractible affine algebraic variety is trivial."
-  },
-  {
-    "title": "Pierce-Birkhoff Conjecture",
-    "slug": "pierce-birkhoff-conjecture",
-    "status": "open",
-    "description": "Every piecewise polynomial function can be expressed using maximum and minimum operations."
   },
   {
     "title": "Busemann-Petty Problem",
@@ -598,5 +580,155 @@
     "slug": "oort-conjecture",
     "status": "solved-recently",
     "description": "Cyclic groups of prime power order lift to characteristic zero."
+  },
+  {
+    "title": "Voisin Conjecture",
+    "slug": "voisin-conjecture",
+    "status": "open",
+    "description": "Questions whether compact Kahler manifolds are birationally equivalent to projective varieties."
+  },
+  {
+    "title": "Stolz Conjecture",
+    "slug": "stolz-conjecture",
+    "status": "open",
+    "description": "Suggests a relationship between positive scalar curvature and the vanishing Witten genus."
+  },
+  {
+    "title": "Seshadri Constant Conjecture",
+    "slug": "seshadri-constant-conjecture",
+    "status": "open",
+    "description": "Provides a universal lower bound for Seshadri constants of ample line bundles."
+  },
+  {
+    "title": "Cartan-Hadamard Conjecture",
+    "slug": "cartan-hadamard-conjecture",
+    "status": "open",
+    "description": "The isoperimetric inequality holds in simply connected spaces with non-positive curvature."
+  },
+  {
+    "title": "Filling Area Conjecture",
+    "slug": "filling-area-conjecture",
+    "status": "open",
+    "description": "The minimal area needed to bound a Riemannian circle is a hemisphere."
+  },
+  {
+    "title": "Cheeger-Gromoll Soul Conjecture",
+    "slug": "cheeger-gromoll-soul-conjecture",
+    "status": "solved-recently",
+    "description": "Complete open positively curved manifolds have souls diffeomorphic to a point."
+  },
+  {
+    "title": "Monodromy Conjecture",
+    "slug": "monodromy-conjecture",
+    "status": "open",
+    "description": "Relates poles of the local Igusa zeta function to eigenvalues of monodromy."
+  },
+  {
+    "title": "Zariski's Multiplicity Conjecture",
+    "slug": "zariski-multiplicity-conjecture",
+    "status": "open",
+    "description": "Hypothesizes that topological types of hypersurface singularities completely determine their algebraic multiplicities."
+  },
+  {
+    "title": "Durfee Conjecture",
+    "slug": "durfee-conjecture",
+    "status": "open",
+    "description": "Proposes an upper bound for the geometric signature of isolated surface singularities."
+  },
+  {
+    "title": "Coolidge Conjecture",
+    "slug": "coolidge-conjecture",
+    "status": "solved-recently",
+    "description": "Plane curves are rectifiable by Cremona transformations under specific rational geometric conditions."
+  },
+  {
+    "title": "Mather-Yau Theorem",
+    "slug": "mather-yau-theorem",
+    "status": "solved-recently",
+    "description": "Determines that isolated complex hypersurface singularities are characterized by their Tjurina algebras."
+  },
+  {
+    "title": "Zaidenberg's Conjecture",
+    "slug": "zaidenberg-conjecture",
+    "status": "open",
+    "description": "Conjectures that contractible affine surfaces without boundary are isomorphic to affine space."
+  },
+  {
+    "title": "Halperin-Carlsson Conjecture",
+    "slug": "halperin-carlsson-conjecture",
+    "status": "open",
+    "description": "Bounds the sum of Betti numbers for spaces admitting free torus actions."
+  },
+  {
+    "title": "Bott Conjecture",
+    "slug": "bott-conjecture",
+    "status": "open",
+    "description": "Posits that simply connected manifolds with positive sectional curvature are rationally elliptic."
+  },
+  {
+    "title": "Slope Conjecture for Moduli of Curves",
+    "slug": "slope-conjecture-moduli-curves",
+    "status": "partially-solved",
+    "description": "Predicts the exact effective cone boundaries for the moduli space of curves."
+  },
+  {
+    "title": "Alexandrov's Soap Bubble Theorem",
+    "slug": "alexandrov-soap-bubble-theorem",
+    "status": "solved-recently",
+    "description": "Proves embedded surfaces with constant mean curvature in Euclidean space are spheres."
+  },
+  {
+    "title": "Arakelov's Adjunction Formula Conjecture",
+    "slug": "arakelov-adjunction-conjecture",
+    "status": "open",
+    "description": "Generalizes classical intersection adjunction formulas to heights in arithmetic Arakelov geometry."
+  },
+  {
+    "title": "Donaldson-Thomas Positivity Conjecture",
+    "slug": "donaldson-thomas-positivity-conjecture",
+    "status": "partially-solved",
+    "description": "Generalized Donaldson Thomas invariants for stable objects are always non negative integers."
+  },
+  {
+    "title": "Oka-Grauert Principle",
+    "slug": "oka-grauert-principle",
+    "status": "partially-solved",
+    "description": "Classifies holomorphic vector bundles on Stein manifolds according to their topological classifications."
+  },
+  {
+    "title": "Nadel Vanishing Theorem",
+    "slug": "nadel-vanishing-theorem",
+    "status": "solved-recently",
+    "description": "Provides vanishing conditions for higher cohomology groups involving twisted multiplier ideal sheaves."
+  },
+  {
+    "title": "Lelong's Conjecture",
+    "slug": "lelong-conjecture",
+    "status": "open",
+    "description": "States that positive closed currents with regular constant densities are integration currents."
+  },
+  {
+    "title": "Siu's Invariance of Plurigenera",
+    "slug": "siu-invariance-plurigenera",
+    "status": "solved-recently",
+    "description": "Proves plurigenera remain invariant under smooth deformations of complex projective algebraic manifolds."
+  },
+  {
+    "title": "Kollar's Conjecture on Local Fundamental Groups",
+    "slug": "kollar-local-fundamental-group-conjecture",
+    "status": "open",
+    "description": "Questions the finiteness properties of local algebraic fundamental groups of singularity links."
+  },
+  {
+    "title": "Bloch's Conjecture on Zero Cycles",
+    "slug": "bloch-zero-cycles-conjecture",
+    "status": "open",
+    "description": "Suggests the vanishing of geometric genus implies a trivial Chow group."
+  },
+  {
+    "title": "L-space Conjecture",
+    "slug": "l-space-conjecture",
+    "status": "open",
+    "description": "Relates Heegaard Floer homology to the existence of orderable fundamental groups."
   }
 ]

@@ -24,12 +24,6 @@
     "description": "Claim that general relativity is a purely deterministic theory everywhere."
   },
   {
-    "title": "De Giorgi Conjecture",
-    "slug": "de-giorgi-conjecture",
-    "status": "partially-solved",
-    "description": "Classifies entire solutions of the Allen Cahn equation in high dimensions."
-  },
-  {
     "title": "Soliton Resolution Conjecture",
     "slug": "soliton-resolution-conjecture",
     "status": "partially-solved",
@@ -640,5 +634,185 @@
     "slug": "ginzburg-landau-magnetic-monopoles",
     "status": "partially-solved",
     "description": "Describe the mathematical topology of isolated magnetic charges in superconductor models."
+  },
+  {
+    "title": "Constantin-Lax-Majda Equation Blow-Up",
+    "slug": "constantin-lax-majda-blow-up",
+    "status": "partially-solved",
+    "description": "Describes singularity formation in one-dimensional models of fluid vorticity equations."
+  },
+  {
+    "title": "Regularity of Elliptic Systems in Morrey Spaces",
+    "slug": "elliptic-systems-morrey-regularity",
+    "status": "open",
+    "description": "Determines whether weak solutions to certain nonlinear systems are uniformly continuous."
+  },
+  {
+    "title": "Landis Conjecture on Exponential Decay",
+    "slug": "landis-conjecture-exponential-decay",
+    "status": "partially-solved",
+    "description": "Concerns the exact spatial decay rate of solutions to stationary equations."
+  },
+  {
+    "title": "Schiffer Conjecture on Neumann Eigenvalues",
+    "slug": "schiffer-conjecture-neumann-eigenvalues",
+    "status": "open",
+    "description": "Relates geometric symmetry of domains to the existence of constant eigenfunctions."
+  },
+  {
+    "title": "Hot Spots Conjecture",
+    "slug": "hot-spots-conjecture",
+    "status": "partially-solved",
+    "description": "Predicts the maximum temperature of a cooling domain concentrates on boundaries."
+  },
+  {
+    "title": "Gelfand Problem Blow-Up Curve",
+    "slug": "gelfand-problem-blow-up-curve",
+    "status": "partially-solved",
+    "description": "Analyzes singular limits and bifurcation diagrams of solid fuel ignition equations."
+  },
+  {
+    "title": "Willmore Flow Singularity Formation",
+    "slug": "willmore-flow-singularities",
+    "status": "partially-solved",
+    "description": "Explores how smooth surfaces evolve and form topological pinching under bending."
+  },
+  {
+    "title": "Toda Lattice Continuum Limit Rigorous Justification",
+    "slug": "toda-lattice-continuum-limit",
+    "status": "solved-recently",
+    "description": "Establishes precise conditions where discrete wave chains converge to continuous models."
+  },
+  {
+    "title": "Nirenberg Prescribed Scalar Curvature Problem",
+    "slug": "nirenberg-scalar-curvature-problem",
+    "status": "partially-solved",
+    "description": "Identifies which functions can be realized as curvatures of spherical metrics."
+  },
+  {
+    "title": "Derivative Nonlinear Schrodinger Global Solutions",
+    "slug": "derivative-nonlinear-schrodinger-global-solutions",
+    "status": "solved-recently",
+    "description": "Determines global existence for magnetic wave envelopes without mass threshold limits."
+  },
+  {
+    "title": "Zakharov-Kuznetsov Equation Global Regularity",
+    "slug": "zakharov-kuznetsov-global-regularity",
+    "status": "partially-solved",
+    "description": "Analyzes propagation of nonlinear ion acoustic waves in magnetized continuous plasmas."
+  },
+  {
+    "title": "Proudman-Johnson Equation Singularities",
+    "slug": "proudman-johnson-singularities",
+    "status": "partially-solved",
+    "description": "Studies infinite energy stagnation point flows and their temporal singularity structures."
+  },
+  {
+    "title": "Compressible Navier-Stokes-Fourier Regularity",
+    "slug": "compressible-navier-stokes-fourier-regularity",
+    "status": "open",
+    "description": "Explores heat conducting viscous compressible fluids and their large data existence."
+  },
+  {
+    "title": "Weyl Conjecture on Eigenvalue Asymptotics",
+    "slug": "weyl-conjecture-eigenvalue-asymptotics",
+    "status": "partially-solved",
+    "description": "Connects the precise remainder term in spectral counting functions to billiards."
+  },
+  {
+    "title": "Payne Nodal Line Conjecture",
+    "slug": "payne-nodal-line-conjecture",
+    "status": "solved-recently",
+    "description": "Examines whether the nodal line of the second eigenfunction touches boundaries."
+  },
+  {
+    "title": "Super-critical Lane-Emden Equation Existence",
+    "slug": "lane-emden-supercritical-existence",
+    "status": "partially-solved",
+    "description": "Investigates stable radial solutions in critical self interacting field theory models."
+  },
+  {
+    "title": "Lake Equations Global Regularity",
+    "slug": "lake-equations-global-regularity",
+    "status": "partially-solved",
+    "description": "Determines the rigorous existence of smooth solutions for variable depth waters."
+  },
+  {
+    "title": "Benjamin-Bona-Mahony Long Time Asymptotics",
+    "slug": "benjamin-bona-mahony-asymptotics",
+    "status": "partially-solved",
+    "description": "Examines the dispersive tail and stabilization rates of long surface waves."
+  },
+  {
+    "title": "Einstein-Vlasov System Cosmological Singularities",
+    "slug": "einstein-vlasov-cosmological-singularities",
+    "status": "open",
+    "description": "Investigates the initial big bang singularity structure for collisionless matter models."
+  },
+  {
+    "title": "Swift-Hohenberg Equation Defect Dynamics",
+    "slug": "swift-hohenberg-defect-dynamics",
+    "status": "partially-solved",
+    "description": "Studies how topological defects in convection patterns annihilate and move mathematically."
+  },
+  {
+    "title": "Highly Rotating Navier-Stokes Global Regularity",
+    "slug": "rotating-navier-stokes-regularity",
+    "status": "open",
+    "description": "Asks if strong rotational Coriolis forces prevent singularity formation in fluids."
+  },
+  {
+    "title": "Bingham Fluid Multi-Dimensional Regularity",
+    "slug": "bingham-fluid-multi-dimensional-regularity",
+    "status": "open",
+    "description": "Concerns the smoothness of velocity fields in visco plastic fluid models."
+  },
+  {
+    "title": "Oseen-Frank Minimizers Point Defect Structure",
+    "slug": "oseen-frank-minimizers-defects",
+    "status": "partially-solved",
+    "description": "Classifies the precise geometric shape of point singularities in liquid crystals."
+  },
+  {
+    "title": "G-Equation Turbulent Flame Speed",
+    "slug": "g-equation-turbulent-flame-speed",
+    "status": "open",
+    "description": "Determines the macroscopic propagation rate of wrinkled flames in turbulent flows."
+  },
+  {
+    "title": "High Frequency Helmholtz Resolvent Estimates",
+    "slug": "helmholtz-high-frequency-resolvent",
+    "status": "partially-solved",
+    "description": "Analyzes uniform bounds for scattering solutions at extremely short wave lengths."
+  },
+  {
+    "title": "Minkowski Problem for Torsional Rigidity",
+    "slug": "minkowski-problem-torsional-rigidity",
+    "status": "solved-recently",
+    "description": "Reconstructs a convex body strictly from its prescribed torsional rigidity measure."
+  },
+  {
+    "title": "Landau-de Gennes Isotropic-Nematic Interface",
+    "slug": "landau-de-gennes-interface",
+    "status": "partially-solved",
+    "description": "Tracks the sharp boundary moving between ordered and disordered liquid crystals."
+  },
+  {
+    "title": "Helfrich Willmore Boundary Value Problem",
+    "slug": "helfrich-willmore-boundary-value",
+    "status": "open",
+    "description": "Identifies existence of minimizing elastic lipid bilayer shapes satisfying boundary conditions."
+  },
+  {
+    "title": "Whitham Equation Wave Breaking",
+    "slug": "whitham-equation-wave-breaking",
+    "status": "solved-recently",
+    "description": "Proves that the fully dispersive shallow water model admits gradient blowup."
+  },
+  {
+    "title": "Logarithmic Schrodinger Equation Dispersive Estimates",
+    "slug": "logarithmic-schrodinger-dispersive-estimates",
+    "status": "partially-solved",
+    "description": "Studies wave spreading in optical media with logarithmic nonlinear refractive indices."
   }
 ]

@@ -66,12 +66,6 @@
     "description": "Is the Keisler order on unstable theories well founded and linear."
   },
   {
-    "title": "Cherlin-Zilber Conjecture",
-    "slug": "cherlin-zilber-conjecture",
-    "status": "open",
-    "description": "Is every simple group of finite Morley rank an algebraic group."
-  },
-  {
     "title": "Podewski Conjecture",
     "slug": "podewski-conjecture",
     "status": "partially-solved",
@@ -616,5 +610,185 @@
     "slug": "unique-limit-of-woodin-cardinals",
     "status": "open",
     "description": "Is the limit of Woodin cardinals structurally unique in extender models."
+  },
+  {
+    "title": "Shelah's Categoricity Conjecture",
+    "slug": "shelah-categoricity-conjecture",
+    "status": "open",
+    "description": "A theory categorical in one higher cardinality is categorical in all higher."
+  },
+  {
+    "title": "Kueker's Conjecture",
+    "slug": "kueker-conjecture",
+    "status": "open",
+    "description": "Every uncountable model with countably many automorphisms has a countable definable closure."
+  },
+  {
+    "title": "Woodin's Core Model Iterability Problem",
+    "slug": "woodin-core-model-iterability",
+    "status": "open",
+    "description": "Determines if there is a fully iterable core model for large cardinals."
+  },
+  {
+    "title": "Cicho\u0144's Maximum Problem",
+    "slug": "cichon-maximum-problem",
+    "status": "solved-recently",
+    "description": "Can all invariants in Cichon diagram be separated simultaneously into distinct values."
+  },
+  {
+    "title": "Borel's Conjecture on Strong Measure Zero Sets",
+    "slug": "borel-conjecture-strong-measure-zero",
+    "status": "solved-recently",
+    "description": "All strong measure zero sets of real numbers are necessarily countable sets."
+  },
+  {
+    "title": "NIP Fields Conjecture",
+    "slug": "nip-fields-conjecture",
+    "status": "open",
+    "description": "Infinite non independence property fields are real closed, algebraically closed, or padic."
+  },
+  {
+    "title": "Decidability of the Theory of the p-adic Numbers",
+    "slug": "decidability-of-p-adic-theory",
+    "status": "solved-recently",
+    "description": "Determining if the first order theory of padic numbers is logically decidable."
+  },
+  {
+    "title": "Roitman's Problem",
+    "slug": "roitman-problem",
+    "status": "open",
+    "description": "Does the countable box product of the reals have countable chain condition."
+  },
+  {
+    "title": "Gandy's Problem on the Arithmetical Hierarchy",
+    "slug": "gandy-problem-arithmetical-hierarchy",
+    "status": "open",
+    "description": "Characterizes structural bounds of hyperarithmetic sequences in higher order computability theory."
+  },
+  {
+    "title": "Post's Problem for Alpha Recursion Theory",
+    "slug": "post-problem-alpha-recursion",
+    "status": "solved-recently",
+    "description": "Generalization of Post problem to admissible ordinals via alpha recursive function sets."
+  },
+  {
+    "title": "Ordinal Analysis of Pi-1-2 Comprehension",
+    "slug": "ordinal-analysis-pi-1-2-comprehension",
+    "status": "open",
+    "description": "Finding the exact proof theoretic ordinal of pi one two comprehension axiom."
+  },
+  {
+    "title": "Whitehead's Problem for Abelian Groups",
+    "slug": "whitehead-problem-abelian-groups",
+    "status": "solved-recently",
+    "description": "Are all abelian groups with zero Ext group necessarily free abelian groups."
+  },
+  {
+    "title": "Moore's Boundary Problem",
+    "slug": "moore-boundary-problem",
+    "status": "open",
+    "description": "Topological questions about boundary sets inside forcing extensions of the real line."
+  },
+  {
+    "title": "P-ideal Dichotomy Consistency",
+    "slug": "p-ideal-dichotomy-consistency",
+    "status": "solved-recently",
+    "description": "Proves that every p ideal of countable sets has a certain dichotomy."
+  },
+  {
+    "title": "Open Coloring Axiom",
+    "slug": "open-coloring-axiom",
+    "status": "open",
+    "description": "Determines consistent coloring properties of uncountable graphs on Polish topological metric spaces."
+  },
+  {
+    "title": "Slaman-Woodin Conjecture on Enumeration Degrees",
+    "slug": "slaman-woodin-enumeration-degrees",
+    "status": "open",
+    "description": "Evaluates the definability and automorphism group structure of the enumeration Turing degrees."
+  },
+  {
+    "title": "Decidability of the Existential Theory of the Rationals",
+    "slug": "decidability-existential-theory-rationals",
+    "status": "open",
+    "description": "Deciding whether diophantine equations have solutions within the field of rational numbers."
+  },
+  {
+    "title": "Macintyre's Conjecture on O-minimal Fields",
+    "slug": "macintyre-conjecture-o-minimal-fields",
+    "status": "open",
+    "description": "Every infinite omega minimal field is isomorphic to a real closed field."
+  },
+  {
+    "title": "Decidability of the Theory of Rational Function Fields",
+    "slug": "decidability-rational-function-fields",
+    "status": "open",
+    "description": "Investigating the logical decidability of first order theories for rational function fields."
+  },
+  {
+    "title": "Hrushovski's Unidimensionality Conjecture",
+    "slug": "hrushovski-unidimensionality-conjecture",
+    "status": "solved-recently",
+    "description": "Characterizes strongly minimal sets in stable theories for geometric classification of models."
+  },
+  {
+    "title": "Isomorphism Problem for Torsion-Free Abelian Groups",
+    "slug": "isomorphism-problem-torsion-free-abelian",
+    "status": "open",
+    "description": "Determines the computable complexity degree for isomorphisms between torsion free abelian groups."
+  },
+  {
+    "title": "Decidability of the Theory of p-adic Subanalytic Sets",
+    "slug": "decidability-p-adic-subanalytic",
+    "status": "solved-recently",
+    "description": "Logical properties of subanalytic sets defined over the padic number field topology."
+  },
+  {
+    "title": "Cardinality of the Continuum under Martin's Axiom",
+    "slug": "cardinality-continuum-martins-axiom",
+    "status": "open",
+    "description": "Finding allowed sizes of the continuum under Martin axiom without continuum hypothesis."
+  },
+  {
+    "title": "Invertibility of the Turing Jump Operator",
+    "slug": "invertibility-turing-jump",
+    "status": "solved-recently",
+    "description": "Identifying which specific Turing degrees can be formed as a jump operation."
+  },
+  {
+    "title": "Prikry Forcing with Collapsing",
+    "slug": "prikry-forcing-collapsing",
+    "status": "open",
+    "description": "Evaluating cardinal preservation properties during singularization of large cardinals with structural collapses."
+  },
+  {
+    "title": "Definability of Truth in the Hyperarithmetic Universe",
+    "slug": "definability-truth-hyperarithmetic",
+    "status": "open",
+    "description": "Investigating limits of definable truth structures within higher order hyperarithmetic set theories."
+  },
+  {
+    "title": "Strict Finitism Consistency Problem",
+    "slug": "strict-finitism-consistency",
+    "status": "open",
+    "description": "Determining the foundational consistency of mathematical theories restricted to strictly finite objects."
+  },
+  {
+    "title": "Kat\u011btov's Order Problem for Ideals",
+    "slug": "katetov-order-problem-ideals",
+    "status": "open",
+    "description": "Classifying the partial ordering of Borel ideals under Katetov structural reduction maps."
+  },
+  {
+    "title": "Solovay's Model without Axiom of Choice",
+    "slug": "solovay-model-without-choice",
+    "status": "solved-recently",
+    "description": "Proves that Lebesgue measurability of all sets is consistent without full choice."
+  },
+  {
+    "title": "Forcing Axiom for Cohen Reals",
+    "slug": "forcing-axiom-cohen-reals",
+    "status": "open",
+    "description": "Exploring maximal consistent variations of forcing axioms restricted to adding Cohen reals."
   }
 ]

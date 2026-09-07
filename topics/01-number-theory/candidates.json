@@ -658,5 +658,185 @@
     "slug": "singular-moduli-problem",
     "status": "partially-solved",
     "description": "Concerns algebraic differences between j invariants of elliptic curves with complex multiplication."
+  },
+  {
+    "title": "Baker's Conjecture",
+    "slug": "bakers-conjecture",
+    "status": "open",
+    "description": "A bound on linear forms in logarithms of algebraic numbers."
+  },
+  {
+    "title": "Four Exponentials Conjecture",
+    "slug": "four-exponentials-conjecture",
+    "status": "open",
+    "description": "A statement about the transcendence of certain pairs of exponential values."
+  },
+  {
+    "title": "Finiteness of Tate-Shafarevich Groups",
+    "slug": "finiteness-of-tate-shafarevich-groups",
+    "status": "open",
+    "description": "Conjectures that the Tate-Shafarevich group of any abelian variety is finite."
+  },
+  {
+    "title": "Gauss Circle Problem",
+    "slug": "gauss-circle-problem",
+    "status": "open",
+    "description": "Bounds the number of integer lattice points within a given circle."
+  },
+  {
+    "title": "Dirichlet Divisor Problem",
+    "slug": "dirichlet-divisor-problem",
+    "status": "open",
+    "description": "Estimates the number of divisors of integers up to a given limit."
+  },
+  {
+    "title": "Kolyvagin's Conjecture",
+    "slug": "kolyvagins-conjecture",
+    "status": "partially-solved",
+    "description": "Relates the structure of Selmer groups to classes of Heegner points."
+  },
+  {
+    "title": "Iwasawa Mu-invariant Conjecture",
+    "slug": "iwasawa-mu-invariant-conjecture",
+    "status": "partially-solved",
+    "description": "Predicts that the Iwasawa mu-invariant of cyclotomic fields is zero."
+  },
+  {
+    "title": "Lang-Trotter Conjecture",
+    "slug": "lang-trotter-conjecture",
+    "status": "open",
+    "description": "Predicts the distribution of supersingular primes for a given elliptic curve."
+  },
+  {
+    "title": "Non-vanishing of Central L-values",
+    "slug": "non-vanishing-of-central-l-values",
+    "status": "open",
+    "description": "Conjectures that L-functions of elliptic curves rarely vanish at their center."
+  },
+  {
+    "title": "Linnik's Constant Problem",
+    "slug": "linniks-constant-problem",
+    "status": "open",
+    "description": "Bounds the size of the smallest prime in an arithmetic progression."
+  },
+  {
+    "title": "Mahler's 3/2 Problem",
+    "slug": "mahlers-3-2-problem",
+    "status": "open",
+    "description": "Asks whether any real number possesses fractional parts bounded away from zero."
+  },
+  {
+    "title": "Mazur's Torsion Conjecture",
+    "slug": "mazurs-torsion-conjecture-for-number-fields",
+    "status": "open",
+    "description": "Bounds the torsion subgroup of elliptic curves over arbitrary number fields."
+  },
+  {
+    "title": "Lenstra-Pomerance-Wagstaff Conjecture",
+    "slug": "lenstra-pomerance-wagstaff-conjecture",
+    "status": "empirically-supported",
+    "description": "Provides a precise heuristic for the number of Mersenne primes."
+  },
+  {
+    "title": "De Bruijn-Newman Constant Problem",
+    "slug": "de-bruijn-newman-constant-problem",
+    "status": "solved-recently",
+    "description": "Determines the positivity of a constant related to the Riemann hypothesis."
+  },
+  {
+    "title": "Parity Problem in Sieve Theory",
+    "slug": "parity-problem-in-sieve-theory",
+    "status": "open",
+    "description": "Identifies an inherent limitation in sieve methods for distinguishing prime factors."
+  },
+  {
+    "title": "Pillai's Conjecture",
+    "slug": "pillais-conjecture",
+    "status": "open",
+    "description": "Suggests the gap between consecutive perfect powers approaches infinity."
+  },
+  {
+    "title": "Generalized Ramanujan Conjecture",
+    "slug": "generalized-ramanujan-conjecture",
+    "status": "open",
+    "description": "Extends bounds on Fourier coefficients of modular forms to automorphic representations."
+  },
+  {
+    "title": "Sign Changes of Modular Forms",
+    "slug": "sign-changes-of-modular-forms-coefficients",
+    "status": "open",
+    "description": "Examines the frequency of sign changes in coefficients of cusp forms."
+  },
+  {
+    "title": "Subconvexity Problem for L-functions",
+    "slug": "subconvexity-problem-for-l-functions",
+    "status": "partially-solved",
+    "description": "Seeks bounds on L-functions inside the critical strip strictly beyond convexity."
+  },
+  {
+    "title": "Erdos-Szemeredi Sum-Product Conjecture",
+    "slug": "erdos-szemeredi-sum-product-conjecture",
+    "status": "partially-solved",
+    "description": "Claims that integer sets cannot have both small sums and products."
+  },
+  {
+    "title": "Zaremba's Conjecture",
+    "slug": "zareambas-conjecture",
+    "status": "partially-solved",
+    "description": "Claims rational numbers can be represented by continued fractions with bounded digits."
+  },
+  {
+    "title": "Zilber-Pink Conjecture",
+    "slug": "zilber-pink-conjecture",
+    "status": "open",
+    "description": "Describes intersections of algebraic varieties with special subvarieties in Shimura varieties."
+  },
+  {
+    "title": "Hilbert's Twelfth Problem",
+    "slug": "hilberts-twelfth-problem",
+    "status": "open",
+    "description": "Seeks to generate all abelian extensions of an arbitrary number field."
+  },
+  {
+    "title": "Unicity Conjecture for Markov Numbers",
+    "slug": "unicity-conjecture-for-markov-numbers",
+    "status": "open",
+    "description": "Proposes that every largest integer in a Markov triple uniquely determines it."
+  },
+  {
+    "title": "Beilinson's Conjectures",
+    "slug": "beilinsons-conjectures",
+    "status": "open",
+    "description": "Relates special values of L-functions to motivic cohomology and regulators."
+  },
+  {
+    "title": "Prouhet-Tarry-Escott Problem",
+    "slug": "prouhet-tarry-escott-problem",
+    "status": "open",
+    "description": "Asks for two disjoint sets of integers with identical power sums."
+  },
+  {
+    "title": "Perfect Cuboid Problem",
+    "slug": "perfect-cuboid-problem",
+    "status": "open",
+    "description": "Asks whether a rectangular cuboid can have entirely integer side lengths."
+  },
+  {
+    "title": "Robin's Criterion",
+    "slug": "robins-criterion",
+    "status": "open",
+    "description": "Formulates the Riemann hypothesis in terms of the sum of divisors function."
+  },
+  {
+    "title": "Dickson's Conjecture",
+    "slug": "dicksons-conjecture",
+    "status": "open",
+    "description": "Predicts when multiple linear polynomials simultaneously yield prime values infinitely often."
+  },
+  {
+    "title": "Duffin-Schaeffer Conjecture",
+    "slug": "duffin-schaeffer-conjecture",
+    "status": "solved-recently",
+    "description": "Provides a condition for metric Diophantine approximation of real numbers."
   }
 ]

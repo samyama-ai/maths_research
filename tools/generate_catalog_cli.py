@@ -17,6 +17,16 @@ AGY_CONCURRENCY = int(os.getenv("AGY_CONCURRENCY", "8"))
 AGY_TIMEOUT = os.getenv("AGY_PRINT_TIMEOUT", "10m")
 AGY_SEMAPHORE = asyncio.Semaphore(AGY_CONCURRENCY)
 
+# A quota wall is not a transient error. The first long run burned 20 minutes and
+# ~1,100 queued calls retrying against "Individual quota reached", producing nothing:
+# every call returned in under 10 seconds, so the retry loop just spun. Once this is
+# seen, the whole run aborts and says when the quota resets.
+QUOTA_RE = re.compile(r"quota reached|rate limit|Resets in", re.I)
+
+
+class QuotaExhausted(RuntimeError):
+    pass
+
 # System instruction to enforce math detail and schema adherence
 SYSTEM_INSTRUCTION = """You are a world-class mathematician, theoretical computer scientist, and editor of a comprehensive open math catalog.
 Your goal is to identify and write highly detailed, rigorous, and accurate markdown pages for open and hard mathematical problems.
@@ -107,7 +117,10 @@ async def call_agy_cli(prompt, is_json=False):
             cmd += ["--model", model]
         result = subprocess.run(cmd, capture_output=True, text=True)
         if result.returncode != 0:
-            raise RuntimeError(f"agy -p failed: {result.stderr.strip()[:500]}")
+            err = (result.stderr + result.stdout).strip()
+            if QUOTA_RE.search(err):
+                raise QuotaExhausted(err[:200])
+            raise RuntimeError(f"agy -p failed: {err[:500]}")
         return result.stdout.strip()
 
     async with AGY_SEMAPHORE:
@@ -116,6 +129,8 @@ async def call_agy_cli(prompt, is_json=False):
                 response_text = await loop.run_in_executor(None, _run)
                 if response_text:
                     break
+            except QuotaExhausted:
+                raise
             except Exception as e:
                 print(f"    agy call failed (attempt {attempt + 1}/3): {e}")
                 await asyncio.sleep(5 * (attempt + 1))
@@ -283,6 +298,45 @@ Return only the markdown content, starting with the YAML frontmatter block."""
     print(f"    Wrote file: {file_path.relative_to(ROOT)}")
     return True
 
+
+async def generate_interleaved(target_topics, limit_generate):
+    """Generate across all topics round-robin instead of topic by topic.
+
+    asyncio.gather queues per topic in order, and the semaphore hands out slots
+    FIFO, so the first topic's whole backlog is served before the second topic
+    gets a single slot. The first long run hit the agy quota wall after 124 files
+    and 117 of them were Number Theory; eight topics had nothing at all. Round-robin
+    means an interrupted run leaves the catalog evenly covered rather than deep in
+    one field.
+    """
+    queues = []
+    for slug, name in target_topics.items():
+        f = ROOT / "topics" / slug / "candidates.json"
+        if not f.exists():
+            print(f"No candidates.json for {slug}; run --stage discovery first.")
+            continue
+        cands = sorted(json.loads(f.read_text(encoding="utf-8")), key=lambda c: c["slug"])
+        queues.append((slug, name, cands[:limit_generate]))
+
+    ordered = []
+    for i in range(max((len(q[2]) for q in queues), default=0)):
+        for slug, name, cands in queues:
+            if i < len(cands):
+                ordered.append((slug, name, cands[i]))
+    print(f"=== Generating {len(ordered)} problems, round-robin across "
+          f"{len(queues)} topics ===")
+
+    results = await asyncio.gather(*(
+        generate_problem_file(slug, name, cand) for slug, name, cand in ordered
+    ), return_exceptions=True)
+    for r in results:
+        if isinstance(r, QuotaExhausted):
+            raise r
+
+    for slug, name, _ in queues:
+        await generate_topic_readme(slug, name)
+
+
 async def process_topic(topic_slug, topic_name, limit_candidates, limit_generate, stage):
     """Process a single topic (discovery and/or generation)."""
     topic_dir = ROOT / "topics" / topic_slug
@@ -306,10 +360,13 @@ async def process_topic(topic_slug, topic_name, limit_candidates, limit_generate
         # Limit to the requested generation limit
         candidates_to_gen = candidates[:limit_generate]
         
-        await asyncio.gather(*(
+        results = await asyncio.gather(*(
             generate_problem_file(topic_slug, topic_name, cand)
             for cand in candidates_to_gen
         ), return_exceptions=True)
+        for r in results:
+            if isinstance(r, QuotaExhausted):
+                raise r
             
     # Update the topic README.md index
     await generate_topic_readme(topic_slug, topic_name)
@@ -428,10 +485,21 @@ async def main():
     async def _one(slug, name):
         try:
             await process_topic(slug, name, args.limit_candidates, args.limit_generate, args.stage)
+        except QuotaExhausted:
+            raise
         except Exception as e:
             print(f"Failed processing topic {slug}: {e}")
 
-    await asyncio.gather(*(_one(s, n) for s, n in target_topics.items()))
+    try:
+        if args.stage == "generation":
+            await generate_interleaved(target_topics, args.limit_generate)
+        else:
+            await asyncio.gather(*(_one(s, n) for s, n in target_topics.items()))
+    except QuotaExhausted as e:
+        print(f"\nABORT: agy quota exhausted -- {e}")
+        print("Re-run tools/run_catalog.sh once it resets; generated files are skipped.")
+        subprocess.run([str(ROOT / "gen_index.sh")], cwd=str(ROOT))
+        sys.exit(2)
             
     print("Regenerating global INDEX.md...")
     subprocess.run([str(ROOT / "gen_index.sh")], cwd=str(ROOT))

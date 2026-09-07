@@ -636,12 +636,6 @@
     "description": "Generalizes Milnor's profound conjecture on quadratic forms to completely arbitrary prime numbers."
   },
   {
-    "title": "Beilinson's Conjectures",
-    "slug": "beilinsons-conjectures",
-    "status": "open",
-    "description": "Relates complex values of L-functions directly to motivic algebraic cohomology theory."
-  },
-  {
     "title": "Voevodsky's Derived Category of Motives",
     "slug": "voevodskys-derived-category-of-motives",
     "status": "solved-recently",
@@ -652,5 +646,167 @@
     "slug": "hodge-conjecture",
     "status": "open",
     "description": "Are all rational Hodge classes on a projective complex manifold strictly algebraic?"
+  },
+  {
+    "title": "Pierce-Birkhoff Conjecture",
+    "slug": "pierce-birkhoff-conjecture",
+    "status": "open",
+    "description": "Every piecewise polynomial function is a maximum of minimums of polynomials."
+  },
+  {
+    "title": "Buchsbaum-Eisenbud-Horrocks Conjecture",
+    "slug": "buchsbaum-eisenbud-horrocks-conjecture",
+    "status": "open",
+    "description": "Proposes lower bounds on the Betti numbers of finite length modules."
+  },
+  {
+    "title": "Zariski's Multiplicity Conjecture",
+    "slug": "zariskis-multiplicity-conjecture",
+    "status": "open",
+    "description": "Topologically equivalent complex hypersurface singularities must have identical algebraic local multiplicities."
+  },
+  {
+    "title": "Direct Summand Conjecture",
+    "slug": "direct-summand-conjecture",
+    "status": "solved-recently",
+    "description": "Regular rings are direct summands of all their finite module extensions."
+  },
+  {
+    "title": "Serre's Multiplicity Conjectures",
+    "slug": "serres-multiplicity-conjectures",
+    "status": "open",
+    "description": "Defines nonnegativity and exact vanishing criteria for intersection multiplicities of modules."
+  },
+  {
+    "title": "Green's Conjecture",
+    "slug": "greens-conjecture",
+    "status": "partially-solved",
+    "description": "Relates the syzygies of a canonical curve to its Clifford index."
+  },
+  {
+    "title": "Lex-Plus-Powers Conjecture",
+    "slug": "lex-plus-powers-conjecture",
+    "status": "open",
+    "description": "Bounds the Betti numbers of graded ideals via monomial ideal structures."
+  },
+  {
+    "title": "Malle's Conjecture",
+    "slug": "malles-conjecture",
+    "status": "open",
+    "description": "Predicts the asymptotic distribution of Galois groups over global number fields."
+  },
+  {
+    "title": "Lipman-Zariski Conjecture",
+    "slug": "lipman-zariski-conjecture",
+    "status": "open",
+    "description": "Complex spaces with locally free tangent sheaves must be completely smooth."
+  },
+  {
+    "title": "Kac's Conjecture on Quiver Representations",
+    "slug": "kacs-conjecture-on-quiver-representations",
+    "status": "solved-recently",
+    "description": "Positivity of coefficients in polynomials counting absolutely indecomposable representations of quivers."
+  },
+  {
+    "title": "Weight-Monodromy Conjecture",
+    "slug": "weight-monodromy-conjecture",
+    "status": "open",
+    "description": "Characterizes the poles of local zeta functions over general local fields."
+  },
+  {
+    "title": "Standard Conjectures on Algebraic Cycles",
+    "slug": "standard-conjectures-on-algebraic-cycles",
+    "status": "open",
+    "description": "Fundamental assumptions about the behavior of algebraic cycles on smooth varieties."
+  },
+  {
+    "title": "Makar-Limanov Conjecture",
+    "slug": "makar-limanov-conjecture",
+    "status": "open",
+    "description": "Affine spaces can be characterized by their invariant locally nilpotent derivations."
+  },
+  {
+    "title": "Snashall-Solberg Conjecture",
+    "slug": "snashall-solberg-conjecture",
+    "status": "partially-solved",
+    "description": "The Hochschild cohomology ring modulo nilpotents is a finitely generated algebra."
+  },
+  {
+    "title": "Han's Conjecture",
+    "slug": "hans-conjecture",
+    "status": "open",
+    "description": "An algebra is necessarily nilpotent if its higher Hochschild homology vanishes."
+  },
+  {
+    "title": "Green-Lazarsfeld Conjecture",
+    "slug": "green-lazarsfeld-conjecture",
+    "status": "open",
+    "description": "Connects the syzygies of line bundles on curves to algebraic geometry."
+  },
+  {
+    "title": "Benson's Conjecture",
+    "slug": "bensons-conjecture",
+    "status": "open",
+    "description": "Predicts specific properties of module structures in the cohomology of groups."
+  },
+  {
+    "title": "Robinson's Ordinary Weight Conjecture",
+    "slug": "robinsons-ordinary-weight-conjecture",
+    "status": "open",
+    "description": "Relates defect block representations to characters of normalizers of specific subgroups."
+  },
+  {
+    "title": "Bouc's Conjecture",
+    "slug": "boucs-conjecture",
+    "status": "open",
+    "description": "Characterizes the exact invariant structure of the Dade group for p-groups."
+  },
+  {
+    "title": "Howie's Conjecture",
+    "slug": "howies-conjecture",
+    "status": "open",
+    "description": "Certain specific types of relative group presentations are naturally locally indicable."
+  },
+  {
+    "title": "Kapovich-Kleiner Conjecture",
+    "slug": "kapovich-kleiner-conjecture",
+    "status": "open",
+    "description": "Classifies boundaries of one dimensional hyperbolic groups as specific topological spaces."
+  },
+  {
+    "title": "Linnell's Conjecture",
+    "slug": "linnells-conjecture",
+    "status": "open",
+    "description": "Proposes severe structural restrictions on zero divisors in arbitrary group rings."
+  },
+  {
+    "title": "Dixmier's Unitarizability Problem",
+    "slug": "dixmiers-unitarizability-problem",
+    "status": "open",
+    "description": "Asks if uniformly bounded group representations are unitarizable via bounded similarities."
+  },
+  {
+    "title": "Cherlin-Zilber Conjecture",
+    "slug": "cherlin-zilber-conjecture",
+    "status": "open",
+    "description": "Infinite simple groups of finite Morley rank are simple algebraic groups."
+  },
+  {
+    "title": "Kac-Weisfeiler Conjecture",
+    "slug": "kac-weisfeiler-conjecture",
+    "status": "solved-recently",
+    "description": "Dimensions of representations of Lie algebras in positive characteristic are divisible."
+  },
+  {
+    "title": "Mullineux Conjecture",
+    "slug": "mullineux-conjecture",
+    "status": "solved-recently",
+    "description": "Explicitly describes the involution of modular characters for the symmetric group."
+  },
+  {
+    "title": "James Conjecture",
+    "slug": "james-conjecture",
+    "status": "solved-recently",
+    "description": "Describes decomposition matrices for symmetric groups at sufficiently large prime characteristics."
   }
 ]

@@ -32,7 +32,7 @@ echo "=== run start $(date -u +%FT%TZ) — $(count) files on disk, target ${TARG
 
 # Stage 1: discovery, unless a pool already exists (so a restart does not re-ask).
 if [ "$(pool)" -lt 100 ]; then
-  python3 tools/generate_catalog_cli.py --stage discovery \
+  python3 -u tools/generate_catalog_cli.py --stage discovery \
     --limit-candidates "$PER_TOPIC" 2>&1 | tee -a "$LOG"
 fi
 python3 tools/dedupe_candidates.py --target "$TARGET" 2>&1 | tail -5 | tee -a "$LOG"
@@ -42,7 +42,7 @@ for round in 1 2 3; do
   p=$(pool)
   [ "$p" -ge "$POOL" ] && break
   echo "=== topup round ${round} — pool ${p}/${POOL} ===" | tee -a "$LOG"
-  python3 tools/generate_catalog_cli.py --stage topup \
+  python3 -u tools/generate_catalog_cli.py --stage topup \
     --limit-candidates "$TOPUP" 2>&1 | tail -20 | tee -a "$LOG"
   python3 tools/dedupe_candidates.py --target "$TARGET" 2>&1 | tail -3 | tee -a "$LOG"
 done
@@ -56,8 +56,13 @@ for pass in $(seq 1 "$PASSES"); do
     break
   fi
   echo "=== pass ${pass}/${PASSES} — ${n} files ===" | tee -a "$LOG"
-  python3 tools/generate_catalog_cli.py --stage generation \
+  python3 -u tools/generate_catalog_cli.py --stage generation \
     --limit-generate "$PER_TOPIC" 2>&1 | tee -a "$LOG"
+  # exit 2 = agy quota wall. Retrying is pure waste until it resets.
+  if [ "${PIPESTATUS[0]}" -eq 2 ]; then
+    echo "=== aborted on quota at $(count) files; re-run after reset ===" | tee -a "$LOG"
+    break
+  fi
 done
 
 ./gen_index.sh | tee -a "$LOG"

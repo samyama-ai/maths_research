@@ -390,12 +390,6 @@
     "description": "Fourier coefficients of cusp forms satisfy strict asymptotic bounds."
   },
   {
-    "title": "Four Exponentials Conjecture",
-    "slug": "four-exponentials-conjecture",
-    "status": "open",
-    "description": "Matrix of logarithms of algebraic numbers has maximal possible rank."
-  },
-  {
     "title": "Six Exponentials Theorem",
     "slug": "six-exponentials-theorem",
     "status": "solved-recently",
@@ -496,5 +490,161 @@
     "slug": "beurling-lax-theorem-generalizations",
     "status": "open",
     "description": "Characterization of invariant subspaces for operators on general Banach spaces."
+  },
+  {
+    "title": "Painlev\u00e9 Problem",
+    "slug": "painleve-problem",
+    "status": "partially-solved",
+    "description": "Characterizes removable singularities for bounded analytic functions in the complex plane."
+  },
+  {
+    "title": "Smale's Mean Value Conjecture",
+    "slug": "smales-mean-value-conjecture",
+    "status": "open",
+    "description": "Bounds the critical values of a complex polynomial in its domain."
+  },
+  {
+    "title": "Krzyz Conjecture",
+    "slug": "krzyz-conjecture",
+    "status": "open",
+    "description": "Bounds the Taylor coefficients of nonvanishing bounded analytic functions."
+  },
+  {
+    "title": "Morrey's Conjecture",
+    "slug": "morreys-conjecture",
+    "status": "open",
+    "description": "Asks if rank one convexity implies quasiconvexity for calculus of variations."
+  },
+  {
+    "title": "De Giorgi Conjecture",
+    "slug": "de-giorgi-conjecture",
+    "status": "partially-solved",
+    "description": "Concerns the one dimensional symmetry of solutions to Allen Cahn equation."
+  },
+  {
+    "title": "Mahler Volume Conjecture",
+    "slug": "mahler-volume-conjecture",
+    "status": "open",
+    "description": "Provides a strict lower bound for volume product of symmetric bodies."
+  },
+  {
+    "title": "Schiffer's Conjecture",
+    "slug": "schiffer-conjecture",
+    "status": "open",
+    "description": "Characterizes Euclidean domains with constant Neumann eigenfunctions on the boundary."
+  },
+  {
+    "title": "Pompeiu Problem",
+    "slug": "pompeiu-problem",
+    "status": "open",
+    "description": "Asks if a nonzero continuous function can have vanishing area integrals."
+  },
+  {
+    "title": "Suita Conjecture",
+    "slug": "suita-conjecture",
+    "status": "solved-recently",
+    "description": "Relates the Bergman kernel to logarithmic capacity of Riemann surfaces."
+  },
+  {
+    "title": "Littlewood's Flat Polynomials Problem",
+    "slug": "littlewood-flat-polynomials",
+    "status": "open",
+    "description": "Questions the existence of polynomials with coefficients of absolute value one."
+  },
+  {
+    "title": "Borwein Conjecture",
+    "slug": "borwein-conjecture",
+    "status": "open",
+    "description": "Concerns the sign patterns in expansion of certain polynomial products."
+  },
+  {
+    "title": "Yau's Conjecture on Nodal Sets",
+    "slug": "yau-nodal-sets-conjecture",
+    "status": "partially-solved",
+    "description": "Estimates the measure of nodal sets for Laplace eigenfunctions on manifolds."
+  },
+  {
+    "title": "Nadirashvili's Conjecture",
+    "slug": "nadirashvili-conjecture",
+    "status": "open",
+    "description": "Relates to the lower bound of the volume of nodal sets."
+  },
+  {
+    "title": "Kato's Root Problem",
+    "slug": "kato-root-problem",
+    "status": "solved-recently",
+    "description": "Addresses the domain of square roots of elliptic differential operators."
+  },
+  {
+    "title": "Beurling-Nyman Criterion",
+    "slug": "beurling-nyman-criterion",
+    "status": "open",
+    "description": "Equates the Riemann Hypothesis to a density problem in Hilbert space."
+  },
+  {
+    "title": "Garnett's Problem",
+    "slug": "garnett-problem",
+    "status": "open",
+    "description": "Explores the analytic capacity of Cantor sets in the complex plane."
+  },
+  {
+    "title": "Lusin's Return Times Theorem",
+    "slug": "lusin-return-times",
+    "status": "solved-recently",
+    "description": "Deals with pointwise convergence of ergodic averages in harmonic analysis."
+  },
+  {
+    "title": "Griffiths Positivity Conjecture",
+    "slug": "griffiths-positivity-conjecture",
+    "status": "open",
+    "description": "Relates various notions of positivity for holomorphic vector bundles in geometry."
+  },
+  {
+    "title": "Nakano Positivity Conjecture",
+    "slug": "nakano-positivity-conjecture",
+    "status": "open",
+    "description": "Concerns the equivalence of different positivity conditions in complex vector bundles."
+  },
+  {
+    "title": "Brascamp-Lieb Inequalities",
+    "slug": "brascamp-lieb-constants",
+    "status": "partially-solved",
+    "description": "Generalizes several classical inequalities by seeking their optimal bounding constants."
+  },
+  {
+    "title": "Alberti's Rank One Theorem",
+    "slug": "alberti-rank-one",
+    "status": "solved-recently",
+    "description": "Characterizes the singular part of derivative of bounded variation functions."
+  },
+  {
+    "title": "Baez-Duarte Criterion",
+    "slug": "baez-duarte-criterion",
+    "status": "open",
+    "description": "Formulates the Riemann Hypothesis as a distance problem in Hardy spaces."
+  },
+  {
+    "title": "Riesz Criterion",
+    "slug": "riesz-criterion",
+    "status": "open",
+    "description": "Relates the Riemann Hypothesis to asymptotic growth of specific functions."
+  },
+  {
+    "title": "Erd\u00f6s Flat Polynomials Problem",
+    "slug": "erdos-flat-polynomials",
+    "status": "open",
+    "description": "Asks for polynomials on unit circle with restricted maximum modulus."
+  },
+  {
+    "title": "Korevaar-Meyers Conjecture",
+    "slug": "korevaar-meyers-conjecture",
+    "status": "open",
+    "description": "Examines the Lipschitz regularity of harmonic functions on certain specific domains."
+  },
+  {
+    "title": "Ilin's Conjecture",
+    "slug": "ilin-conjecture",
+    "status": "open",
+    "description": "Investigates the uniform convergence of spectral expansions for general differential operators."
   }
 ]

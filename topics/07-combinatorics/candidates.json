@@ -240,12 +240,6 @@
     "description": "Subsets with small doubling have polynomial size equivalent algebraic structures."
   },
   {
-    "title": "Erd\u0151s-Szemer\u00e9di Sum-Product Conjecture",
-    "slug": "erdos-szemeredi-sum-product-conjecture",
-    "status": "open",
-    "description": "Finite sets of integers have either many sums or many products."
-  },
-  {
     "title": "Lonely Runner Conjecture",
     "slug": "lonely-runner-conjecture",
     "status": "open",
@@ -646,5 +640,173 @@
     "slug": "frankl-rodl-conjecture",
     "status": "solved-recently",
     "description": "Bounding the number of intersections in a uniform hypergraph."
+  },
+  {
+    "title": "Aanderaa-Karp-Rosenberg Conjecture",
+    "slug": "aanderaa-karp-rosenberg-conjecture",
+    "status": "open",
+    "description": "Monotone graph properties require evaluating a certain number of adjacency matrix entries."
+  },
+  {
+    "title": "Erd\u0151s-Ne\u0161et\u0159il Conjecture",
+    "slug": "erdos-nesetril-conjecture",
+    "status": "open",
+    "description": "Bounding the strong chromatic index of a graph by a quadratic function."
+  },
+  {
+    "title": "Erd\u0151s-Rothschild Problem",
+    "slug": "erdos-rothschild-problem",
+    "status": "partially-solved",
+    "description": "Determines the maximum number of edge colorings of graphs avoiding monochromatic cliques."
+  },
+  {
+    "title": "Bermond-Thomassen Conjecture",
+    "slug": "bermond-thomassen-conjecture",
+    "status": "open",
+    "description": "Directed graphs with minimum outdegree contain a specific number of disjoint cycles."
+  },
+  {
+    "title": "1-Factorization Conjecture",
+    "slug": "1-factorization-conjecture",
+    "status": "open",
+    "description": "Regular graphs of high degree can be decomposed into perfect matchings."
+  },
+  {
+    "title": "Overfull Conjecture",
+    "slug": "overfull-conjecture",
+    "status": "open",
+    "description": "Graphs satisfying an overfull condition must have a specific chromatic index."
+  },
+  {
+    "title": "Brouwer's Laplacian Spectrum Conjecture",
+    "slug": "brouwers-laplacian-spectrum-conjecture",
+    "status": "open",
+    "description": "Binds the sum of largest Laplacian eigenvalues by the number of edges."
+  },
+  {
+    "title": "Grone-Merris Conjecture",
+    "slug": "grone-merris-conjecture",
+    "status": "solved-recently",
+    "description": "Relates the Laplacian spectrum of a graph to its conjugate degree sequence."
+  },
+  {
+    "title": "Bollob\u00e1s-Riordan Conjecture",
+    "slug": "bollobas-riordan-conjecture",
+    "status": "open",
+    "description": "Defines critical probability for percolation on random graphs with given degree sequences."
+  },
+  {
+    "title": "Gy\u00e1rf\u00e1s' Tree Packing Conjecture",
+    "slug": "gyarfas-tree-packing-conjecture",
+    "status": "partially-solved",
+    "description": "A sequence of trees with specific sizes packs perfectly into complete graphs."
+  },
+  {
+    "title": "Alternating Sign Matrix Conjecture",
+    "slug": "alternating-sign-matrix-conjecture",
+    "status": "solved-recently",
+    "description": "Predicts the exact number of alternating sign matrices of a given size."
+  },
+  {
+    "title": "Meyniel's Cops and Robbers Conjecture",
+    "slug": "meyniels-cops-and-robbers-conjecture",
+    "status": "open",
+    "description": "Bounding the cop number of any connected graph by a square root."
+  },
+  {
+    "title": "Vizing's Independence Number Conjecture",
+    "slug": "vizings-independence-number-conjecture",
+    "status": "open",
+    "description": "Relates the independence number of a graph to its domination number."
+  },
+  {
+    "title": "Steinberg's Conjecture",
+    "slug": "steinbergs-conjecture",
+    "status": "solved-recently",
+    "description": "Planar graphs without cycles of length four or five are three colorable."
+  },
+  {
+    "title": "Lov\u00e1sz Path Removal Conjecture",
+    "slug": "lovasz-path-removal-conjecture",
+    "status": "open",
+    "description": "Removing an induced path from a connected graph leaves the graph connected."
+  },
+  {
+    "title": "Bouchet's 6-Flow Conjecture",
+    "slug": "bouchets-6-flow-conjecture",
+    "status": "open",
+    "description": "Every nowhere zero bidirected graph admits a nowhere zero six flow."
+  },
+  {
+    "title": "Cameron's Sum-Free Set Conjecture",
+    "slug": "camerons-sum-free-set-conjecture",
+    "status": "solved-recently",
+    "description": "The number of sum free subsets in integer sets is strictly bounded."
+  },
+  {
+    "title": "Erd\u0151s-Tur\u00e1n Conjecture on Additive Bases",
+    "slug": "erdos-turan-additive-bases-conjecture",
+    "status": "open",
+    "description": "Additive bases must have representation functions that are unbounded."
+  },
+  {
+    "title": "Kneser's Conjecture",
+    "slug": "knesers-conjecture",
+    "status": "solved-recently",
+    "description": "The chromatic number of a Kneser graph depends entirely on its parameters."
+  },
+  {
+    "title": "Ringel's Earth-Moon Problem",
+    "slug": "ringels-earth-moon-problem",
+    "status": "open",
+    "description": "Determines the chromatic number of planar graphs partitioned into two different layers."
+  },
+  {
+    "title": "Dinitz Conjecture",
+    "slug": "dinitz-conjecture",
+    "status": "solved-recently",
+    "description": "Partial Latin squares can always be completed from specific available symbol sets."
+  },
+  {
+    "title": "Alspach's Conjecture",
+    "slug": "alspachs-conjecture",
+    "status": "solved-recently",
+    "description": "A complete graph can be completely decomposed into cycles of specified lengths."
+  },
+  {
+    "title": "Erd\u0151s-Heilbronn Conjecture",
+    "slug": "erdos-heilbronn-conjecture",
+    "status": "solved-recently",
+    "description": "Binds the cardinality of restricted sumsets of elements in finite abelian groups."
+  },
+  {
+    "title": "Moore Graph of Degree 57 Problem",
+    "slug": "moore-graph-degree-57",
+    "status": "open",
+    "description": "Asks whether there exists a unique Moore graph with degree fifty seven."
+  },
+  {
+    "title": "Thomassen's Eulerian Trail Conjecture",
+    "slug": "thomassens-eulerian-trail-conjecture",
+    "status": "open",
+    "description": "Highly edge connected line graphs always contain a spanning Eulerian trail."
+  },
+  {
+    "title": "Babai's Core-Free Graph Problem",
+    "slug": "babais-core-free-graph-problem",
+    "status": "open",
+    "description": "Bounding the size of core free graphs using their related automorphism groups."
+  },
+  {
+    "title": "Buser's Conjecture",
+    "slug": "busers-conjecture",
+    "status": "open",
+    "description": "Binds the isoperimetric constant of a graph strictly using its spectral gap."
+  },
+  {
+    "title": "Erd\u0151s-Gallai Path Decomposition Conjecture",
+    "slug": "erdos-gallai-conjecture",
+    "status": "open",
+    "description": "Every graph can be decomposed into a linear number of simple paths."
   }
 ]

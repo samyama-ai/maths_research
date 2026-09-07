@@ -658,5 +658,185 @@
     "slug": "integrability-of-the-stochastic-six-vertex-model",
     "status": "solved-recently",
     "description": "Prove rigorous algebraic integrability for specific configurations of vertex weights."
+  },
+  {
+    "title": "Exceptional Times for Dynamical Percolation in 3D",
+    "slug": "exceptional-times-dynamical-percolation-3d",
+    "status": "open",
+    "description": "Determining if infinite clusters exist at exceptional times in three dimensions."
+  },
+  {
+    "title": "Critical Density for Random Interlacements",
+    "slug": "critical-density-for-random-interlacements",
+    "status": "open",
+    "description": "Finding the exact critical density for percolation of random interlacements."
+  },
+  {
+    "title": "Critical Exponents of the Bak-Sneppen Model",
+    "slug": "bak-sneppen-model-critical-exponents",
+    "status": "open",
+    "description": "Proving the existence of critical exponents for this evolutionary toy model."
+  },
+  {
+    "title": "Asymptotic Shape of IDLA in Random Environments",
+    "slug": "internal-dla-asymptotic-shape-random-environment",
+    "status": "open",
+    "description": "Finding the limiting shape of internal diffusion limited aggregation with traps."
+  },
+  {
+    "title": "Longest Self-Avoiding Walk on Sparse Random Graphs",
+    "slug": "longest-self-avoiding-walk-random-graph",
+    "status": "open",
+    "description": "Bounding the expected maximum length of self avoiding walks on graphs."
+  },
+  {
+    "title": "Mixing Time of Random Walks on Randomly Weighted Hypercubes",
+    "slug": "hypercube-random-walk-mixing-random-conductances",
+    "status": "partially-solved",
+    "description": "Analyzing how random edge weights affect hypercube markov chain mixing times."
+  },
+  {
+    "title": "Infinite Volume Limit for 2D Directed Polymers",
+    "slug": "directed-polymer-infinite-volume-limit-2d",
+    "status": "open",
+    "description": "Establishing the existence of the limit for two dimensional directed polymers."
+  },
+  {
+    "title": "Strict Monotonicity of Critical Percolation Probabilities by Dimension",
+    "slug": "strict-monotonicity-percolation-critical-probability-dimension",
+    "status": "open",
+    "description": "Proving critical percolation probability strictly decreases as lattice dimension positively increases."
+  },
+  {
+    "title": "Uniqueness of Busemann Functions in First-Passage Percolation",
+    "slug": "busemann-functions-first-passage-percolation",
+    "status": "open",
+    "description": "Characterizing the limiting behavior of Busemann functions in multi dimensional percolation."
+  },
+  {
+    "title": "Stationary Measure for the Multi-Type Contact Process",
+    "slug": "multi-type-contact-process-stationary-measure",
+    "status": "partially-solved",
+    "description": "Establishing conditions for unique stationary measures in competing multi contact processes."
+  },
+  {
+    "title": "Critical Exponents for the Self-Organized Forest Fire Model",
+    "slug": "forest-fire-model-critical-exponents",
+    "status": "open",
+    "description": "Determining the exact scaling exponents of clusters in the forest model."
+  },
+  {
+    "title": "Return Probability Decay for Random Planar Maps",
+    "slug": "random-walk-return-probability-random-planar-graphs",
+    "status": "partially-solved",
+    "description": "Deriving precise return probability asymptotics for random walks on random maps."
+  },
+  {
+    "title": "Optimal Coupling for Random Walks on the Symmetric Group",
+    "slug": "optimal-coupling-random-walk-symmetric-group",
+    "status": "open",
+    "description": "Finding bounds for mixing times using optimal transport on permutation groups."
+  },
+  {
+    "title": "Mixing Time of Adjacent Transposition Walks on Trees",
+    "slug": "adjacent-transposition-walk-mixing-trees",
+    "status": "partially-solved",
+    "description": "Bounding the mixing time when adjacent states swap along tree edges."
+  },
+  {
+    "title": "Critical Probability for 3D Voronoi Percolation",
+    "slug": "critical-probability-voronoi-percolation-3d",
+    "status": "open",
+    "description": "Finding exact bounds for percolation thresholds in three dimensional Voronoi tessellations."
+  },
+  {
+    "title": "Scaling Limit of the Random Transposition Walk",
+    "slug": "scaling-limit-random-transposition-walk",
+    "status": "open",
+    "description": "Identifying the macroscopic continuous limit of random transpositions on large sets."
+  },
+  {
+    "title": "Large Deviations for Schramm-Loewner Evolution",
+    "slug": "large-deviations-schramm-loewner-evolution",
+    "status": "partially-solved",
+    "description": "Establishing a rigorous large deviation principle for the planar evolving trace."
+  },
+  {
+    "title": "Phase Transition in the Majority Voter Model on Random Graphs",
+    "slug": "majority-voter-model-phase-transition-random-graphs",
+    "status": "empirically-supported",
+    "description": "Characterizing the consensus threshold for the majority voter model on networks."
+  },
+  {
+    "title": "Convergence of Random Maps in High Genus",
+    "slug": "random-planar-map-high-genus-convergence",
+    "status": "open",
+    "description": "Understanding the scaling limit of random maps as genus approaches infinity."
+  },
+  {
+    "title": "Exact Escape Rate on Galton-Watson Trees",
+    "slug": "exact-escape-rate-galton-watson-tree",
+    "status": "partially-solved",
+    "description": "Calculating the precise speed of random walks on generic random trees."
+  },
+  {
+    "title": "Winkler Blanket Time Conjecture",
+    "slug": "blanket-time-conjecture-for-random-walks",
+    "status": "solved-recently",
+    "description": "Relating the blanket time of a graph to its cover time."
+  },
+  {
+    "title": "Winkler Compatible Sequence Problem",
+    "slug": "winklers-compatible-sequence-problem",
+    "status": "open",
+    "description": "Finding conditions under which independent random sequences contain a common subsequence."
+  },
+  {
+    "title": "Law of the Iterated Logarithm for Stochastic Heat Equations",
+    "slug": "lil-stochastic-heat-equation",
+    "status": "partially-solved",
+    "description": "Describing the fine fluctuation structure of solutions to stochastic heat equations."
+  },
+  {
+    "title": "Survival Probability of Branching Random Walks with Selection",
+    "slug": "branching-random-walk-selection-survival-probability",
+    "status": "partially-solved",
+    "description": "Quantifying the chance of infinite lineage survival under specific selection pressures."
+  },
+  {
+    "title": "Exact Connection Probability in Random Geometric Graphs",
+    "slug": "exact-connection-probability-random-geometric-graph",
+    "status": "open",
+    "description": "Finding a closed form expression for global connectivity in geometric graphs."
+  },
+  {
+    "title": "Empirical Measure Fluctuations for Log-Gases with General Potentials",
+    "slug": "fluctuations-log-gas-general-potential",
+    "status": "partially-solved",
+    "description": "Characterizing large scale fluctuations of particles under logarithmic interacting repulsive potentials."
+  },
+  {
+    "title": "Lyons-Peres Conjecture for Determinantal Point Processes",
+    "slug": "lyons-peres-conjecture-on-determinantal-processes",
+    "status": "partially-solved",
+    "description": "Showing that determinantal point processes exhibit specific spatial negative association properties."
+  },
+  {
+    "title": "Schramm-Steif Noise Sensitivity Theorem Generalization",
+    "slug": "schramm-steif-noise-sensitivity",
+    "status": "open",
+    "description": "Extending noise sensitivity results for boolean functions to higher dimensional spins."
+  },
+  {
+    "title": "Kesten-Stumpf Conjecture on Conditioned Random Walks",
+    "slug": "kesten-stumpf-conjecture-on-random-walks",
+    "status": "partially-solved",
+    "description": "Analyzing the behavior of random walks conditioned to stay in cones."
+  },
+  {
+    "title": "Bramson Delay in Random Environments",
+    "slug": "bramson-delay-for-branching-brownian-motion-in-random-environment",
+    "status": "open",
+    "description": "Generalizing the logarithmic delay of the maximum of branching brownian motion."
   }
 ]
