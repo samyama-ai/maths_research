@@ -6,24 +6,10 @@ import time
 import argparse
 import asyncio
 from pathlib import Path
-import google.generativeai as genai
-from google.api_core import exceptions
-from dotenv import load_dotenv
+import subprocess
+import re
 
-# Load env variables from .env
 ROOT = Path(__file__).resolve().parent.parent
-load_dotenv(ROOT / ".env")
-
-# Configure Gemini
-api_key = os.getenv("GEMINI_API_KEY")
-if not api_key:
-    print("Error: GEMINI_API_KEY not found in environment or .env file.")
-    sys.exit(1)
-
-genai.configure(api_key=api_key)
-
-# We use gemini-2.5-flash for high-quality reasoning and mathematical detail
-MODEL_NAME = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 
 # System instruction to enforce math detail and schema adherence
 SYSTEM_INSTRUCTION = """You are a world-class mathematician, theoretical computer scientist, and editor of a comprehensive open math catalog.
@@ -47,43 +33,39 @@ TOPICS = {
     "10-theoretical-cs": "Theoretical Computer Science"
 }
 
-def get_model():
-    return genai.GenerativeModel(
-        model_name=MODEL_NAME,
-        generation_config={"temperature": 0.2},
-        system_instruction=SYSTEM_INSTRUCTION
-    )
+async def call_agy_cli(prompt, is_json=False):
+    """Call agy CLI to generate content."""
+    
+    full_prompt = SYSTEM_INSTRUCTION + "\n\n" + prompt
+    if is_json:
+        full_prompt += "\n\nCRITICAL: Return ONLY valid JSON. Do not wrap it in markdown blocks (e.g. ```json ... ```). Just raw JSON."
+        
+    loop = asyncio.get_event_loop()
+    
+    def _run():
+        result = subprocess.run(
+            ["agy", "prompt", full_prompt],
+            capture_output=True,
+            text=True
+        )
+        if result.returncode != 0:
+            raise RuntimeError(f"agy prompt failed: {result.stderr}")
+        return result.stdout.strip()
+        
+    response_text = await loop.run_in_executor(None, _run)
+    
+    if is_json:
+        # Strip potential markdown formatting if model didn't listen
+        if response_text.startswith("```json"):
+            response_text = response_text[7:]
+        if response_text.startswith("```"):
+            response_text = response_text[3:]
+        if response_text.endswith("```"):
+            response_text = response_text[:-3]
+        response_text = response_text.strip()
+        
+    return response_text
 
-async def call_gemini_with_retry(prompt, is_json=False):
-    """Call Gemini API with exponential backoff on rate limits."""
-    model = get_model()
-    backoff = 2
-    for attempt in range(6):
-        try:
-            # Run the synchronous API call in an executor to avoid blocking the event loop
-            loop = asyncio.get_event_loop()
-            
-            gen_config = {"temperature": 0.2, "max_output_tokens": 8192}
-            if is_json:
-                gen_config["response_mime_type"] = "application/json"
-                
-            response = await loop.run_in_executor(
-                None,
-                lambda: model.generate_content(
-                    prompt,
-                    generation_config=gen_config
-                )
-            )
-            return response.text
-        except exceptions.ResourceExhausted as e:
-            print(f"Rate limit hit (429). Retrying in {backoff}s... (Attempt {attempt+1})")
-            await asyncio.sleep(backoff)
-            backoff *= 2
-        except Exception as e:
-            print(f"Unexpected error calling Gemini API: {e}")
-            await asyncio.sleep(5)
-    raise RuntimeError("Failed to call Gemini API after multiple retries.")
- 
 async def discover_candidates(topic_slug, topic_name, limit=100):
     """Generate a list of candidate math problems for a topic."""
     print(f"=== Discovering {limit} candidates for {topic_name} ===")
@@ -106,9 +88,8 @@ Return this list as a JSON array of objects matching the following schema:
 ]
 Ensure the response contains only the valid JSON array."""
 
-    result_text = await call_gemini_with_retry(prompt, is_json=True)
+    result_text = await call_agy_cli(prompt, is_json=True)
     try:
-        import re
         # Escape any backslashes that are not part of valid JSON escape sequences
         sanitized_text = re.sub(r'\\(?!["\\/bfnrt]|u[0-9a-fA-F]{4})', r'\\\\', result_text)
         candidates = json.loads(sanitized_text)
@@ -167,10 +148,9 @@ Additional Instructions:
 
 Return only the markdown content, starting with the YAML frontmatter block."""
 
-    markdown_content = await call_gemini_with_retry(prompt, is_json=False)
+    markdown_content = await call_agy_cli(prompt, is_json=False)
     
     # Post-process to fix math hash character parsing issues
-    # Run the fix_math_hash function logic
     from fix_math_hash import transform
     cleaned_content, n_escapes = transform(markdown_content)
     if n_escapes > 0:
@@ -202,67 +182,101 @@ async def process_topic(topic_slug, topic_name, limit_candidates, limit_generate
         # Limit to the requested generation limit
         candidates_to_gen = candidates[:limit_generate]
         
-        # Generate files sequentially to respect API rate limits (gemini-1.5-pro has TPM/RPM limits)
         for cand in candidates_to_gen:
             await generate_problem_file(topic_slug, topic_name, cand)
-            # Short sleep between files to prevent rate limit spikes
-            await asyncio.sleep(2)
             
     # Update the topic README.md index
     await generate_topic_readme(topic_slug, topic_name)
 
+def topic_scope(topic_slug):
+    """Pull the topic's scope blurb out of TAXONOMY.md, if present."""
+    tax = ROOT / "TAXONOMY.md"
+    if not tax.exists():
+        return ""
+    for line in tax.read_text(encoding="utf-8").splitlines():
+        if f"`{topic_slug}`" in line and line.startswith("|"):
+            cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            if cells:
+                return cells[-1]
+    return ""
+
+
+def candidate_descriptions(topic_slug):
+    """Map slug -> 1-line description from candidates.json, if present."""
+    f = ROOT / "topics" / topic_slug / "candidates.json"
+    if not f.exists():
+        return {}
+    try:
+        return {c["slug"]: c.get("description", "") for c in json.loads(f.read_text(encoding="utf-8"))}
+    except Exception:
+        return {}
+
+
 async def generate_topic_readme(topic_slug, topic_name):
-    """Regenerate the topic's README.md based on generated markdown files."""
+    """Regenerate the topic's README.md based on generated markdown files.
+
+    Preserves the hand-written intro paragraph when one already exists; falls
+    back to the topic scope from TAXONOMY.md. Per-problem descriptions come
+    from candidates.json.
+    """
     topic_dir = ROOT / "topics" / topic_slug
     readme_path = topic_dir / "README.md"
-    
-    # Get all markdown files in the directory (except README.md)
+
+    intro = ""
+    if readme_path.exists():
+        body = readme_path.read_text(encoding="utf-8").split("## Problems Index")[0]
+        intro = "\n".join(l for l in body.splitlines() if l.strip() and not l.startswith("# ")).strip()
+    if not intro:
+        intro = topic_scope(topic_slug) or "Overview of the research topic and cataloged open problems."
+
+    descriptions = candidate_descriptions(topic_slug)
+    if readme_path.exists():
+        # Keep descriptions already written into the index for files that have
+        # no candidates.json entry (e.g. hand-authored problems).
+        for line in readme_path.read_text(encoding="utf-8").splitlines():
+            m = re.match(r"^\* \S+ \[.*?\]\(\./(.+?)\.md\)\s+\u2014\s+(.+)$", line)
+            if m and not descriptions.get(m.group(1)):
+                descriptions[m.group(1)] = m.group(2)
+
     problem_files = sorted(p for p in topic_dir.glob("*.md") if p.name != "README.md")
-    
-    lines = [
-        f"# {topic_name}",
-        "",
-        "Overview of the research topic and cataloged open problems.",
-        "",
-        "## Problems Index",
-        ""
-    ]
-    
-    # Parse status and description from each file
-    status_re = re_status = r"status:\s*([a-z][a-z-]*)"
+
+    lines = [f"# {topic_name}", "", intro, "", "## Problems Index", ""]
+
     for f in problem_files:
         text = f.read_text(encoding="utf-8")
         title_line = ""
         status = "open"
-        
-        # Parse YAML frontmatter or H1
+
         for line in text.splitlines():
             if line.startswith("title:"):
                 title_line = line.split(":", 1)[1].strip().strip('"').strip("'")
             elif line.startswith("status:"):
                 status = line.split(":", 1)[1].strip()
-                
+
         if not title_line:
             title_line = f.stem.replace("-", " ").title()
-            
-        status_emoji = "🔴"
-        if status == "partially-solved":
-            status_emoji = "🟡"
-        elif status == "solved-recently":
-            status_emoji = "🟢"
-        elif status == "empirically-supported":
-            status_emoji = "🟠"
-            
-        lines.append(f"* {status_emoji} [{title_line}](./{f.name})")
-        
+
+        status_emoji = {
+            "partially-solved": "\U0001F7E1",
+            "solved-recently": "\U0001F7E2",
+            "empirically-supported": "\U0001F7E0",
+        }.get(status, "\U0001F534")
+
+        entry = f"* {status_emoji} [{title_line}](./{f.name})"
+        desc = descriptions.get(f.stem, "").strip()
+        if desc:
+            entry += f" \u2014 {desc}"
+        lines.append(entry)
+
     readme_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"Updated README.md index for {topic_slug}")
 
+
 def parse_args():
-    parser = argparse.ArgumentParser(description="Generate Maths Research Catalog of Open Problems.")
+    parser = argparse.ArgumentParser(description="Generate Maths Research Catalog using AGY CLI.")
     parser.add_argument("--topic", help="Specific topic slug to generate (default: all topics).")
     parser.add_argument("--stage", choices=["discovery", "generation", "all"], default="all",
-                        help="Execution stage: discovery (identify candidates), generation (write markdown pages), or all.")
+                        help="Execution stage: discovery, generation, or all.")
     parser.add_argument("--limit-candidates", type=int, default=100,
                         help="Number of candidates to discover per topic (default: 100).")
     parser.add_argument("--limit-generate", type=int, default=100,
@@ -271,8 +285,6 @@ def parse_args():
 
 async def main():
     args = parse_args()
-    
-    # Add tools directory to path to import fix_math_hash
     sys.path.append(str(ROOT / "tools"))
     
     target_topics = {}
@@ -281,13 +293,11 @@ async def main():
             target_topics = {args.topic: TOPICS[args.topic]}
         else:
             print(f"Error: Unknown topic slug '{args.topic}'.")
-            print(f"Available topics: {list(TOPICS.keys())}")
             sys.exit(1)
     else:
         target_topics = TOPICS
         
-    print(f"Starting Maths Research Catalog generator. Target topics: {len(target_topics)}")
-    print(f"Stage: {args.stage} | Candidate limit: {args.limit_candidates} | Generation limit: {args.limit_generate}")
+    print(f"Starting Maths Research Catalog generator (AGY CLI). Target topics: {len(target_topics)}")
     
     for slug, name in target_topics.items():
         try:
@@ -295,13 +305,10 @@ async def main():
         except Exception as e:
             print(f"Failed processing topic {slug}: {e}")
             
-    # Regenerate global INDEX.md
     print("Regenerating global INDEX.md...")
-    import subprocess
     subprocess.run([str(ROOT / "gen_index.sh")], cwd=str(ROOT))
     print("Done!")
 
 if __name__ == "__main__":
-    # Ensure sys.path contains tools directory for imports
     sys.path.append(str(ROOT / "tools"))
     asyncio.run(main())
