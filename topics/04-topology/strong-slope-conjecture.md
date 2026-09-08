@@ -98,19 +98,19 @@ The exact missing step: given only the degree quasi-polynomial $a(n)n^2 + b(n)n 
 
 ## 9. Key References
 
-- **[Foundational]** S. Garoufalidis. *The Jones slopes of a knot.* Quantum Topology 2 (2011), 43–69.
-- **[Foundational]** S. Garoufalidis. *The degree of a $q$-holonomic sequence is a quadratic quasi-polynomial.* Electronic Journal of Combinatorics 18(2) (2011), \#P4.
+- **[Foundational]** S. Garoufalidis. *The Jones slopes of a knot.* Quantum Topology 2 (2011), 43–69. [DOI](https://doi.org/10.4171/qt/13)
+- **[Foundational]** S. Garoufalidis. *The degree of a $q$-holonomic sequence is a quadratic quasi-polynomial.* Electronic Journal of Combinatorics 18(2) (2011), \#P4. [DOI](https://doi.org/10.37236/2000)
 - **[Foundational]** E. Kalfagianni, A. T. Tran. *Knot cabling and the degree of the colored Jones polynomial.* New York Journal of Mathematics 21 (2015).
-- **[Foundational]** A. Hatcher. *On the boundary curves of incompressible surfaces.* Pacific Journal of Mathematics 99 (1982), 373–377.
-- **[Foundational]** A. Hatcher, U. Oertel. *Boundary slopes for Montesinos knots.* Topology 28 (1989), 453–480.
-- **[Survey]** D. Futer, E. Kalfagianni, J. Purcell. *Guts of Surfaces and the Colored Jones Polynomial.* Lecture Notes in Mathematics 2069, Springer, 2013.
+- **[Foundational]** A. Hatcher. *On the boundary curves of incompressible surfaces.* Pacific Journal of Mathematics 99 (1982), 373–377. [DOI](https://doi.org/10.2140/pjm.1982.99.373)
+- **[Foundational]** A. Hatcher, U. Oertel. *Boundary slopes for Montesinos knots.* Topology 28 (1989), 453–480. [DOI](https://doi.org/10.1016/0040-9383(89)90005-0)
+- **[Survey]** D. Futer, E. Kalfagianni, J. Purcell. *Guts of Surfaces and the Colored Jones Polynomial.* Lecture Notes in Mathematics 2069, Springer, 2013. [DOI](https://doi.org/10.1007/978-3-642-33302-6)
 - **[SOTA / Recent]** C. R. S. Lee, R. van der Veen. *Slopes for pretzel knots.* New York Journal of Mathematics 22 (2016).
 - **[SOTA / Recent]** S. Garoufalidis, R. van der Veen. *Quadratic integer programming and the slope conjecture.* New York Journal of Mathematics 22 (2016).
-- **[SOTA / Recent]** K. Motegi, T. Takata. *The slope conjecture for graph knots.* Mathematical Proceedings of the Cambridge Philosophical Society 162 (2017), 383–392.
-- **[SOTA / Recent]** K. L. Baker, K. Motegi, T. Takata. *The strong slope conjecture for twisted generalized Whitehead doubles.* Quantum Topology 11 (2020).
-- **[SOTA / Recent]** E. Kalfagianni. *A Jones slopes characterization of adequate knots.* Indiana University Mathematics Journal 67 (2018).
-- **[Supporting]** M. Ozawa. *Essential state surfaces for knots and links.* Journal of the Australian Mathematical Society 91 (2011), 391–404.
-- **[Supporting]** S. Garoufalidis, T. T. Q. Lê. *The colored Jones function is $q$-holonomic.* Geometry & Topology 9 (2005), 1253–1293.
+- **[SOTA / Recent]** K. Motegi, T. Takata. *The slope conjecture for graph knots.* Mathematical Proceedings of the Cambridge Philosophical Society 162 (2017), 383–392. [DOI](https://doi.org/10.1017/s0305004116000566)
+- **[SOTA / Recent]** K. L. Baker, K. Motegi, T. Takata. *The strong slope conjecture for twisted generalized Whitehead doubles.* Quantum Topology 11 (2020). [DOI](https://doi.org/10.4171/qt/242)
+- **[SOTA / Recent]** E. Kalfagianni. *A Jones slopes characterization of adequate knots.* Indiana University Mathematics Journal 67 (2018). [DOI](https://doi.org/10.1512/iumj.2018.67.6285)
+- **[Supporting]** M. Ozawa. *Essential state surfaces for knots and links.* Journal of the Australian Mathematical Society 91 (2011), 391–404. [DOI](https://doi.org/10.1017/s1446788712000055)
+- **[Supporting]** S. Garoufalidis, T. T. Q. Lê. *The colored Jones function is $q$-holonomic.* Geometry & Topology 9 (2005), 1253–1293. [DOI](https://doi.org/10.2140/gt.2005.9.1253)
 
 ## 10. Worked Example / Concrete Special Case
 

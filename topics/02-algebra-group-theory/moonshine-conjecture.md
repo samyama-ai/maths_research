@@ -106,17 +106,17 @@ The precise missing step is a proof that the orbifold $V/\langle g\rangle$ is ag
 ## 9. Key References
 
 - **[Foundational]** J. H. Conway and S. P. Norton. *Monstrous Moonshine.* Bulletin of the London Mathematical Society, 11(3):308–339, 1979.
-- **[Foundational]** J. G. Thompson. *Some numerology between the Fischer–Griess Monster and the elliptic modular function.* Bulletin of the London Mathematical Society, 11(3):352–353, 1979.
-- **[Foundational]** I. Frenkel, J. Lepowsky, A. Meurman. *Vertex Operator Algebras and the Monster.* Academic Press, Pure and Applied Mathematics 134, 1988.
-- **[Foundational]** R. E. Borcherds. *Monstrous moonshine and monstrous Lie superalgebras.* Inventiones Mathematicae, 109:405–444, 1992.
+- **[Foundational]** J. G. Thompson. *Some numerology between the Fischer–Griess Monster and the elliptic modular function.* Bulletin of the London Mathematical Society, 11(3):352–353, 1979. [DOI](https://doi.org/10.1112/blms/11.3.352)
+- **[Foundational]** I. Frenkel, J. Lepowsky, A. Meurman. *Vertex Operator Algebras and the Monster.* Academic Press, Pure and Applied Mathematics 134, 1988. [DOI](https://doi.org/10.1016/s0079-8169(08)x6136-7)
+- **[Foundational]** R. E. Borcherds. *Monstrous moonshine and monstrous Lie superalgebras.* Inventiones Mathematicae, 109:405–444, 1992. [DOI](https://doi.org/10.1007/bf01232032)
 - **[Foundational]** R. L. Griess Jr. *The Friendly Giant.* Inventiones Mathematicae, 69:1–102, 1982.
-- **[SOTA / Recent]** J. F. R. Duncan, M. J. Griffin, K. Ono. *Proof of the Umbral Moonshine Conjecture.* Research in the Mathematical Sciences, 2:26, 2015.
-- **[SOTA / Recent]** T. Gannon. *Much ado about Mathieu.* Advances in Mathematics, 301:322–358, 2016.
+- **[SOTA / Recent]** J. F. R. Duncan, M. J. Griffin, K. Ono. *Proof of the Umbral Moonshine Conjecture.* Research in the Mathematical Sciences, 2:26, 2015. [DOI](https://doi.org/10.1186/s40687-015-0044-7)
+- **[SOTA / Recent]** T. Gannon. *Much ado about Mathieu.* Advances in Mathematics, 301:322–358, 2016. [DOI](https://doi.org/10.1016/j.aim.2016.06.014)
 - **[SOTA / Recent]** J. van Ekeren, S. Möller, N. R. Scheithauer. *Construction and classification of holomorphic vertex operator algebras.* Journal für die reine und angewandte Mathematik (Crelle), 759:61–99, 2020.
-- **[SOTA / Recent]** J. F. R. Duncan, M. H. Mertens, K. Ono. *O'Nan moonshine and arithmetic.* American Journal of Mathematics, 143(4):1115–1159, 2021.
+- **[SOTA / Recent]** J. F. R. Duncan, M. H. Mertens, K. Ono. *O'Nan moonshine and arithmetic.* American Journal of Mathematics, 143(4):1115–1159, 2021. [DOI](https://doi.org/10.1353/ajm.2021.0029)
 - **[Survey]** T. Gannon. *Moonshine Beyond the Monster: The Bridge Connecting Algebra, Modular Forms and Physics.* Cambridge University Press, 2006.
 - **[Survey]** R. E. Borcherds. *What is moonshine?* Proceedings of the ICM, Berlin, Documenta Mathematica, Extra Volume ICM I:607–615, 1998.
-- **[Survey]** M. C. N. Cheng, J. F. R. Duncan, J. A. Harvey. *Umbral Moonshine.* Communications in Number Theory and Physics, 8(2):101–242, 2014.
+- **[Survey]** M. C. N. Cheng, J. F. R. Duncan, J. A. Harvey. *Umbral Moonshine.* Communications in Number Theory and Physics, 8(2):101–242, 2014. [DOI](https://doi.org/10.4310/cntp.2014.v8.n2.a1)
 
 ## 10. Worked Example / Concrete Special Case
 

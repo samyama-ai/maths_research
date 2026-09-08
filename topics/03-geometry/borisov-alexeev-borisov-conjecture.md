@@ -119,17 +119,17 @@ For characteristic $0$ there is no gap: BAB is a theorem. The residual gaps are:
 
 ## 9. Key References
 
-- **[Foundational]** J. Kollár, Y. Miyaoka, S. Mori. *Rational connectedness and boundedness of Fano manifolds.* Journal of Differential Geometry 36 (1992), 765–779.
-- **[Foundational]** A. A. Borisov, L. A. Borisov. *Singular toric Fano varieties.* Matematicheskii Sbornik 183 (1992); Russian Acad. Sci. Sb. Math. 75 (1993), 277–283.
-- **[Foundational]** V. Alexeev. *Boundedness and $K^2$ for log surfaces.* International Journal of Mathematics 5 (1994), 779–810.
-- **[Foundational]** C. D. Hacon, J. McKernan, C. Xu. *ACC for log canonical thresholds.* Annals of Mathematics 180 (2014), 523–571.
-- **[SOTA]** C. Birkar. *Anti-pluricanonical systems on Fano varieties.* Annals of Mathematics 190 (2019), 345–463.
-- **[SOTA]** C. Birkar. *Singularities of linear systems and boundedness of Fano varieties.* Annals of Mathematics 193 (2021), 347–405.
+- **[Foundational]** J. Kollár, Y. Miyaoka, S. Mori. *Rational connectedness and boundedness of Fano manifolds.* Journal of Differential Geometry 36 (1992), 765–779. [DOI](https://doi.org/10.4310/jdg/1214453188)
+- **[Foundational]** A. A. Borisov, L. A. Borisov. *Singular toric Fano varieties.* Matematicheskii Sbornik 183 (1992); Russian Acad. Sci. Sb. Math. 75 (1993), 277–283. [DOI](https://doi.org/10.1070/sm1993v075n01abeh003385)
+- **[Foundational]** V. Alexeev. *Boundedness and $K^2$ for log surfaces.* International Journal of Mathematics 5 (1994), 779–810. [DOI](https://doi.org/10.1142/s0129167x94000395)
+- **[Foundational]** C. D. Hacon, J. McKernan, C. Xu. *ACC for log canonical thresholds.* Annals of Mathematics 180 (2014), 523–571. [DOI](https://doi.org/10.4007/annals.2014.180.2.3)
+- **[SOTA]** C. Birkar. *Anti-pluricanonical systems on Fano varieties.* Annals of Mathematics 190 (2019), 345–463. [DOI](https://doi.org/10.4007/annals.2019.190.2.1)
+- **[SOTA]** C. Birkar. *Singularities of linear systems and boundedness of Fano varieties.* Annals of Mathematics 193 (2021), 347–405. [DOI](https://doi.org/10.4007/annals.2021.193.2.1)
 - **[SOTA]** C. Jiang. *Boundedness of anticanonical volumes of singular log Fano threefolds.* Communications in Analysis and Geometry 29 (2021), 1–36.
 - **[Related]** J. Kollár, Y. Miyaoka, S. Mori, H. Takagi. *Boundedness of canonical $\mathbb{Q}$-Fano 3-folds.* Proceedings of the Japan Academy, Ser. A 76 (2000), 73–77.
-- **[Related]** Yu. Prokhorov, V. V. Shokurov. *Towards the second main theorem on complements.* Journal of Algebraic Geometry 18 (2009), 151–199.
+- **[Related]** Yu. Prokhorov, V. V. Shokurov. *Towards the second main theorem on complements.* Journal of Algebraic Geometry 18 (2009), 151–199. [DOI](https://doi.org/10.1090/s1056-3911-08-00498-0)
 - **[Survey]** J. Kollár. *Singularities of the Minimal Model Program.* Cambridge Tracts in Mathematics 200, Cambridge University Press, 2013.
-- **[Survey]** C. Xu. *K-stability of Fano varieties: an algebro-geometric approach.* EMS Surveys in Mathematical Sciences 8 (2021), 265–354.
+- **[Survey]** C. Xu. *K-stability of Fano varieties: an algebro-geometric approach.* EMS Surveys in Mathematical Sciences 8 (2021), 265–354. [DOI](https://doi.org/10.4171/emss/51)
 - **[Survey]** C. Birkar. *Birational geometry of algebraic varieties.* Proceedings of the ICM 2018, Vol. I, World Scientific, 2018, 563–588.
 
 ## 10. Worked Example / Concrete Special Case

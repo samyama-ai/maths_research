@@ -102,17 +102,17 @@ where $B(-2) \ge 1$ is known from the Koebe function. Equivalently: one must sho
 
 ## 9. Key References
 
-- **[Foundational]** J. E. Brennan. *The integrability of the derivative in conformal mapping.* Journal of the London Mathematical Society (2), 18 (1978), 261–272.
-- **[Foundational]** B. G. Feng, T. H. MacGregor. *Estimates on integral means of the derivatives of univalent functions.* Journal d'Analyse Mathématique, 29 (1976), 203–231.
-- **[Foundational]** L. Carleson, P. W. Jones. *On coefficient problems for univalent functions and conformal dimension.* Duke Mathematical Journal, 66 (1992), 169–206.
-- **[SOTA]** H. Hedenmalm, S. Shimorin. *Weighted Bergman spaces and the integral means spectrum of conformal mappings.* Duke Mathematical Journal, 127 (2005), 341–393.
+- **[Foundational]** J. E. Brennan. *The integrability of the derivative in conformal mapping.* Journal of the London Mathematical Society (2), 18 (1978), 261–272. [DOI](https://doi.org/10.1112/jlms/s2-18.2.261)
+- **[Foundational]** B. G. Feng, T. H. MacGregor. *Estimates on integral means of the derivatives of univalent functions.* Journal d'Analyse Mathématique, 29 (1976), 203–231. [DOI](https://doi.org/10.1007/bf02789979)
+- **[Foundational]** L. Carleson, P. W. Jones. *On coefficient problems for univalent functions and conformal dimension.* Duke Mathematical Journal, 66 (1992), 169–206. [DOI](https://doi.org/10.1215/s0012-7094-92-06605-1)
+- **[SOTA]** H. Hedenmalm, S. Shimorin. *Weighted Bergman spaces and the integral means spectrum of conformal mappings.* Duke Mathematical Journal, 127 (2005), 341–393. [DOI](https://doi.org/10.1215/s0012-7094-04-12725-3)
 - **[SOTA]** D. Bertilsson. *On Brennan's conjecture in conformal mapping.* Doctoral thesis, Royal Institute of Technology (KTH), Stockholm, 1999.
-- **[Recent]** I. R. Kayumov. *Lower estimates for integral means of univalent functions.* Arkiv för Matematik, 44 (2006), 104–110.
-- **[Recent]** K. Astala, O. Ivrii, A. Perälä, I. Prause. *Asymptotic variance of the Beurling transform.* Geometric and Functional Analysis, 25 (2015), 1647–1687.
-- **[Recent]** H. Hedenmalm. *Bloch functions and asymptotic tail variance.* Advances in Mathematics, 313 (2017), 947–990.
+- **[Recent]** I. R. Kayumov. *Lower estimates for integral means of univalent functions.* Arkiv för Matematik, 44 (2006), 104–110. [DOI](https://doi.org/10.1007/s11512-005-0009-y)
+- **[Recent]** K. Astala, O. Ivrii, A. Perälä, I. Prause. *Asymptotic variance of the Beurling transform.* Geometric and Functional Analysis, 25 (2015), 1647–1687. [DOI](https://doi.org/10.1007/s00039-015-0347-2)
+- **[Recent]** H. Hedenmalm. *Bloch functions and asymptotic tail variance.* Advances in Mathematics, 313 (2017), 947–990. [DOI](https://doi.org/10.1016/j.aim.2017.04.016)
 - **[Special classes]** K. Barański, A. Volberg, A. Zdunik. *Brennan's conjecture and the Mandelbrot set.* International Mathematics Research Notices, 1998, no. 12, 589–600.
-- **[Special classes]** I. Prause, S. Smirnov. *Quasisymmetric distortion spectrum.* Bulletin of the London Mathematical Society, 43 (2011), 267–277.
-- **[Survey]** Ch. Pommerenke. *Boundary Behaviour of Conformal Maps.* Grundlehren der mathematischen Wissenschaften 299, Springer, 1992.
+- **[Special classes]** I. Prause, S. Smirnov. *Quasisymmetric distortion spectrum.* Bulletin of the London Mathematical Society, 43 (2011), 267–277. [DOI](https://doi.org/10.1112/blms/bdq098)
+- **[Survey]** Ch. Pommerenke. *Boundary Behaviour of Conformal Maps.* Grundlehren der mathematischen Wissenschaften 299, Springer, 1992. [DOI](https://doi.org/10.1007/978-3-662-02770-7)
 - **[Survey]** N. G. Makarov. *Fine structure of harmonic measure.* St. Petersburg Mathematical Journal, 10 (1999), 217–268.
 
 ## 10. Worked Example / Concrete Special Case

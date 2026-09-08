@@ -80,8 +80,8 @@ The gap between current knowledge and a full resolution of the conjecture is two
 - **[Foundational]** Wall, D. D. *Fibonacci Series Modulo m.* American Mathematical Monthly, 1960.
 - **[Foundational]** Sun, Z.-H. and Sun, Z.-W. *Fibonacci numbers and Fermat's last theorem.* Acta Arithmetica, 1992.
 - **[SOTA / Recent]** Dorais, F. G. and Klyve, D. *A Wieferich Prime Search up to $6.7 \times 10^{15}$.* Journal of Integer Sequences, 2011.
-- **[SOTA / Recent]** McIntosh, R. J. and Roettger, E. L. *A search for Fibonacci-Wieferich and Wolstenholme primes.* Mathematics of Computation, 2007.
-- **[Survey]** Ribenboim, P. *My Numbers, My Friends: Popular Lectures on Number Theory.* Springer-Verlag, 2000.
+- **[SOTA / Recent]** McIntosh, R. J. and Roettger, E. L. *A search for Fibonacci-Wieferich and Wolstenholme primes.* Mathematics of Computation, 2007. [DOI](https://doi.org/10.1090/s0025-5718-07-01955-2)
+- **[Survey]** Ribenboim, P. *My Numbers, My Friends: Popular Lectures on Number Theory.* Springer-Verlag, 2000. [DOI](https://doi.org/10.2307/3621797)
 
 ## 10. Worked Example / Concrete Special Case
 

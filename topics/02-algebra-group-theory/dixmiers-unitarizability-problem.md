@@ -103,13 +103,13 @@ Prominent mathematicians in the field advocate for the following strategic pathw
 ## 9. Key References
 
 - **[Foundational]** Dixmier, J. *Les moyennes invariantes dans les semi-groupes et leurs applications.* Acta Scientiarum Mathematicarum (Szeged), 12: 213-227, 1950.
-- **[Foundational]** Day, M. M. *Means for the bounded functions and ergodicity of the bounded representations of semi-groups.* Transactions of the American Mathematical Society, 69(2): 276-291, 1950.
+- **[Foundational]** Day, M. M. *Means for the bounded functions and ergodicity of the bounded representations of semi-groups.* Transactions of the American Mathematical Society, 69(2): 276-291, 1950. [DOI](https://doi.org/10.2307/1990358)
 - **[Foundational]** Ehrenpreis, L., and Mautner, F. I. *Uniformly bounded representations of groups.* Proceedings of the National Academy of Sciences of the United States of America, 41(4): 231-233, 1955.
-- **[Foundational]** Bożejko, M. *Uniformly bounded representations of free groups.* Journal für die reine und angewandte Mathematik, 377: 170-186, 1987.
+- **[Foundational]** Bożejko, M. *Uniformly bounded representations of free groups.* Journal für die reine und angewandte Mathematik, 377: 170-186, 1987. [DOI](https://doi.org/10.1515/crll.1987.377.170)
 - **[SOTA / Recent]** Epstein, I., and Monod, N. *Non-unitarizable representations and random forests.* Journal of Modern Dynamics, 3(3): 443-452, 2009.
 - **[SOTA / Recent]** Monod, N., and Ozawa, N. *The Dixmier problem, lamplighters and Burnside groups.* Journal of Functional Analysis, 258(1): 255-267, 2010.
 - **[Survey]** Pisier, G. *Similarity Problems and Completely Bounded Maps.* Lecture Notes in Mathematics 1618, Springer-Verlag, 2001.
-- **[Survey]** Pisier, G. *Are unitarizable groups amenable?* Infinite Groups: Geometric, Combinatorial and Dynamical Aspects (Progress in Mathematics, Vol. 248). Birkhäuser, Basel, 2005.
+- **[Survey]** Pisier, G. *Are unitarizable groups amenable?* Infinite Groups: Geometric, Combinatorial and Dynamical Aspects (Progress in Mathematics, Vol. 248). Birkhäuser, Basel, 2005. [DOI](https://doi.org/10.1007/3-7643-7447-0_8)
 
 ## 10. Worked Example / Concrete Special Case
 

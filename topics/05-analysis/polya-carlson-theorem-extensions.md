@@ -106,22 +106,22 @@ The exact step: produce a **scale-invariant arithmetic lower bound** playing the
 
 ## 9. Key References
 
-- **[Foundational]** G. Pólya. *Über Potenzreihen mit ganzzahligen Koeffizienten.* Mathematische Annalen 77 (1916), 497–513.
+- **[Foundational]** G. Pólya. *Über Potenzreihen mit ganzzahligen Koeffizienten.* Mathematische Annalen 77 (1916), 497–513. [DOI](https://doi.org/10.1007/bf01456965)
 - **[Foundational]** F. Carlson. *Über Potenzreihen mit ganzzahligen Koeffizienten.* Mathematische Zeitschrift 9 (1921), 1–13.
 - **[Foundational]** G. Szegő. *Über Potenzreihen mit endlich vielen verschiedenen Koeffizienten.* Sitzungsberichte der Preussischen Akademie der Wissenschaften (1922), 88–91.
-- **[Foundational]** G. Pólya. *Über gewisse notwendige Determinantenkriterien für die Fortsetzbarkeit einer Potenzreihe.* Mathematische Annalen 99 (1928), 687–706.
-- **[Foundational]** F. Bertrandias. *Ensembles remarquables d'adèles algébriques.* Bulletin de la Société Mathématique de France, Mémoire 4 (1965).
-- **[Foundational]** T. Estermann. *On certain functions represented by Dirichlet series.* Proceedings of the London Mathematical Society (2) 27 (1928), 435–448.
-- **[SOTA / Recent]** J. P. Bell, R. Miles, T. Ward. *Towards a Pólya–Carlson dichotomy for algebraic dynamics.* Indagationes Mathematicae 25 (2014), 652–668.
-- **[SOTA / Recent]** J. Byszewski, G. Cornelissen. *Dynamics on abelian varieties in positive characteristic* (with an appendix by R. Royals and T. Ward). Algebra & Number Theory 12 (2018), 2185–2235.
-- **[SOTA / Recent]** G. Everest, R. Miles, S. Stevens, T. Ward. *Orbit-counting in non-hyperbolic dynamical systems.* Journal für die reine und angewandte Mathematik 608 (2007), 155–182.
+- **[Foundational]** G. Pólya. *Über gewisse notwendige Determinantenkriterien für die Fortsetzbarkeit einer Potenzreihe.* Mathematische Annalen 99 (1928), 687–706. [DOI](https://doi.org/10.1007/bf01459120)
+- **[Foundational]** F. Bertrandias. *Ensembles remarquables d'adèles algébriques.* Bulletin de la Société Mathématique de France, Mémoire 4 (1965). [DOI](https://doi.org/10.24033/msmf.4)
+- **[Foundational]** T. Estermann. *On certain functions represented by Dirichlet series.* Proceedings of the London Mathematical Society (2) 27 (1928), 435–448. [DOI](https://doi.org/10.1112/plms/s2-27.1.435)
+- **[SOTA / Recent]** J. P. Bell, R. Miles, T. Ward. *Towards a Pólya–Carlson dichotomy for algebraic dynamics.* Indagationes Mathematicae 25 (2014), 652–668. [DOI](https://doi.org/10.1016/j.indag.2014.04.005)
+- **[SOTA / Recent]** J. Byszewski, G. Cornelissen. *Dynamics on abelian varieties in positive characteristic* (with an appendix by R. Royals and T. Ward). Algebra & Number Theory 12 (2018), 2185–2235. [DOI](https://doi.org/10.2140/ant.2018.12.2185)
+- **[SOTA / Recent]** G. Everest, R. Miles, S. Stevens, T. Ward. *Orbit-counting in non-hyperbolic dynamical systems.* Journal für die reine und angewandte Mathematik 608 (2007), 155–182. [DOI](https://doi.org/10.1515/crelle.2007.056)
 - **[SOTA / Recent]** J. P. Bell, M. Coons, E. Rowland. *The rational-transcendental dichotomy of Mahler functions.* Journal of Integer Sequences 16 (2013), Article 13.2.10.
-- **[SOTA / Recent]** N. Kurokawa. *On the meromorphy of Euler products, I & II.* Proceedings of the London Mathematical Society (3) 53 (1986), 1–47 and 209–236.
-- **[SOTA / Recent]** B. Dwork, P. Robba. *On natural radii of $p$-adic convergence.* Transactions of the American Mathematical Society 256 (1979), 199–213.
-- **[SOTA / Recent]** J. P. Bell, K. Nguyen, U. Zannier. *D-finiteness, rationality, and height.* Transactions of the American Mathematical Society 373 (2020), 4889–4906.
-- **[Survey]** S. L. Segal. *Nine Introductions in Complex Analysis*, revised edition. North-Holland/Elsevier, 2008 (chapter on natural boundaries and the Pólya–Carlson theorem).
+- **[SOTA / Recent]** N. Kurokawa. *On the meromorphy of Euler products, I & II.* Proceedings of the London Mathematical Society (3) 53 (1986), 1–47 and 209–236. [DOI](https://doi.org/10.1112/plms/s3-53.2.209)
+- **[SOTA / Recent]** B. Dwork, P. Robba. *On natural radii of $p$-adic convergence.* Transactions of the American Mathematical Society 256 (1979), 199–213. [DOI](https://doi.org/10.2307/1998108)
+- **[SOTA / Recent]** J. P. Bell, K. Nguyen, U. Zannier. *D-finiteness, rationality, and height.* Transactions of the American Mathematical Society 373 (2020), 4889–4906. [DOI](https://doi.org/10.1090/tran/8046)
+- **[Survey]** S. L. Segal. *Nine Introductions in Complex Analysis*, revised edition. North-Holland/Elsevier, 2008 (chapter on natural boundaries and the Pólya–Carlson theorem). [DOI](https://doi.org/10.1016/s0304-0208(08)x8001-6)
 - **[Survey]** J.-P. Allouche, J. Shallit. *Automatic Sequences: Theory, Applications, Generalizations.* Cambridge University Press, 2003.
-- **[Related]** B. Nickel. *On the singularity structure of the 2D Ising model susceptibility.* Journal of Physics A 32 (1999), 3889–3906.
+- **[Related]** B. Nickel. *On the singularity structure of the 2D Ising model susceptibility.* Journal of Physics A 32 (1999), 3889–3906. [DOI](https://doi.org/10.1088/0305-4470/32/21/303)
 
 ## 10. Worked Example / Concrete Special Case
 

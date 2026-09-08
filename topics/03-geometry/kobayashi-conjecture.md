@@ -109,20 +109,20 @@ The gap is quantitative in every dimension and qualitative in method. Concretely
 
 - **[Foundational]** S. Kobayashi. *Hyperbolic Manifolds and Holomorphic Mappings.* Marcel Dekker, New York, 1970.
 - **[Foundational]** S. Kobayashi. *Hyperbolic Complex Spaces.* Grundlehren der mathematischen Wissenschaften 318, Springer, 1998.
-- **[Foundational]** R. Brody. *Compact manifolds and hyperbolicity.* Transactions of the American Mathematical Society 235 (1978), 213–219.
-- **[Foundational]** M. Green, P. Griffiths. *Two applications of algebraic geometry to entire holomorphic mappings.* In: The Chern Symposium 1979, Springer, 1980, 41–74.
-- **[Foundational]** J.-P. Demailly. *Algebraic criteria for Kobayashi hyperbolic projective varieties and jet differentials.* Proceedings of Symposia in Pure Mathematics 62.2, AMS, 1997, 285–360.
-- **[Key]** C. Voisin. *On a conjecture of Clemens on rational curves on hypersurfaces.* Journal of Differential Geometry 44 (1996), 200–213.
-- **[Key]** Y.-T. Siu, S.-K. Yeung. *Hyperbolicity of the complement of a generic smooth curve of high degree in the complex projective plane.* Inventiones Mathematicae 124 (1996), 573–618.
-- **[Key]** M. McQuillan. *Diophantine approximations and foliations.* Publications Mathématiques de l'IHÉS 87 (1998), 121–174.
-- **[Key]** J.-P. Demailly, J. El Goul. *Hyperbolicity of generic surfaces of high degree in projective 3-space.* American Journal of Mathematics 122 (2000), 515–546.
-- **[Key]** M. Păun. *Vector fields on the total space of hypersurfaces in the projective space and hyperbolicity.* Mathematische Annalen 340 (2008), 875–892.
-- **[Key]** S. Diverio, J. Merker, E. Rousseau. *Effective algebraic degeneracy.* Inventiones Mathematicae 180 (2010), 161–223.
-- **[SOTA]** Y.-T. Siu. *Hyperbolicity of generic high-degree hypersurfaces in complex projective space.* Inventiones Mathematicae 202 (2015), 1069–1166.
-- **[SOTA]** D. Brotbek. *On the hyperbolicity of general hypersurfaces.* Publications Mathématiques de l'IHÉS 126 (2017), 1–34.
-- **[SOTA]** D. Brotbek, Y. Deng. *Hyperbolicity of the complements of general hypersurfaces of high degree.* Geometric and Functional Analysis 29 (2019), 690–750.
-- **[SOTA]** E. Riedl, D. Yang. *Applications of a Grassmannian technique to hyperbolicity, Chow equivalency, and Seshadri constants.* Journal of Algebraic Geometry 31 (2022).
-- **[Survey]** J.-P. Demailly. *Recent results on the Kobayashi and Green–Griffiths–Lang conjectures.* Japanese Journal of Mathematics 15 (2020), 1–120.
+- **[Foundational]** R. Brody. *Compact manifolds and hyperbolicity.* Transactions of the American Mathematical Society 235 (1978), 213–219. [DOI](https://doi.org/10.2307/1998216)
+- **[Foundational]** M. Green, P. Griffiths. *Two applications of algebraic geometry to entire holomorphic mappings.* In: The Chern Symposium 1979, Springer, 1980, 41–74. [DOI](https://doi.org/10.1007/978-1-4613-8109-9_4)
+- **[Foundational]** J.-P. Demailly. *Algebraic criteria for Kobayashi hyperbolic projective varieties and jet differentials.* Proceedings of Symposia in Pure Mathematics 62.2, AMS, 1997, 285–360. [DOI](https://doi.org/10.1090/pspum/062.2/1492539)
+- **[Key]** C. Voisin. *On a conjecture of Clemens on rational curves on hypersurfaces.* Journal of Differential Geometry 44 (1996), 200–213. [DOI](https://doi.org/10.4310/jdg/1214458743)
+- **[Key]** Y.-T. Siu, S.-K. Yeung. *Hyperbolicity of the complement of a generic smooth curve of high degree in the complex projective plane.* Inventiones Mathematicae 124 (1996), 573–618. [DOI](https://doi.org/10.1007/s002220050064)
+- **[Key]** M. McQuillan. *Diophantine approximations and foliations.* Publications Mathématiques de l'IHÉS 87 (1998), 121–174. [DOI](https://doi.org/10.1007/bf02698862)
+- **[Key]** J.-P. Demailly, J. El Goul. *Hyperbolicity of generic surfaces of high degree in projective 3-space.* American Journal of Mathematics 122 (2000), 515–546. [DOI](https://doi.org/10.1353/ajm.2000.0019)
+- **[Key]** M. Păun. *Vector fields on the total space of hypersurfaces in the projective space and hyperbolicity.* Mathematische Annalen 340 (2008), 875–892. [DOI](https://doi.org/10.1007/s00208-007-0172-5)
+- **[Key]** S. Diverio, J. Merker, E. Rousseau. *Effective algebraic degeneracy.* Inventiones Mathematicae 180 (2010), 161–223. [DOI](https://doi.org/10.1007/s00222-010-0232-4)
+- **[SOTA]** Y.-T. Siu. *Hyperbolicity of generic high-degree hypersurfaces in complex projective space.* Inventiones Mathematicae 202 (2015), 1069–1166. [DOI](https://doi.org/10.1007/s00222-015-0584-x)
+- **[SOTA]** D. Brotbek. *On the hyperbolicity of general hypersurfaces.* Publications Mathématiques de l'IHÉS 126 (2017), 1–34. [DOI](https://doi.org/10.1007/s10240-017-0090-3)
+- **[SOTA]** D. Brotbek, Y. Deng. *Hyperbolicity of the complements of general hypersurfaces of high degree.* Geometric and Functional Analysis 29 (2019), 690–750. [DOI](https://doi.org/10.1007/s00039-019-00496-2)
+- **[SOTA]** E. Riedl, D. Yang. *Applications of a Grassmannian technique to hyperbolicity, Chow equivalency, and Seshadri constants.* Journal of Algebraic Geometry 31 (2022). [DOI](https://doi.org/10.1090/jag/786)
+- **[Survey]** J.-P. Demailly. *Recent results on the Kobayashi and Green–Griffiths–Lang conjectures.* Japanese Journal of Mathematics 15 (2020), 1–120. [DOI](https://doi.org/10.1007/s11537-019-1566-3)
 - **[Survey]** S. Diverio, E. Rousseau. *A Survey on Hyperbolicity of Projective Hypersurfaces.* Publicações Matemáticas do IMPA, 2011.
 
 ## 10. Worked Example / Concrete Special Case

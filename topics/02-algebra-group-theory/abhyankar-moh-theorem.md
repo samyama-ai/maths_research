@@ -111,22 +111,22 @@ For the Abhyankar–Sathaye conjecture the gap is different: even in char $0$, n
 
 ## 9. Key References
 
-- **[Foundational]** S. S. Abhyankar and T. T. Moh. *Embeddings of the line in the plane.* Journal für die reine und angewandte Mathematik **276** (1975), 148–166.
-- **[Foundational]** S. S. Abhyankar and T. T. Moh. *Newton–Puiseux expansion and generalized Tschirnhausen transformation I, II.* J. reine angew. Math. **260** (1973), 47–83; **261** (1973), 29–54.
+- **[Foundational]** S. S. Abhyankar and T. T. Moh. *Embeddings of the line in the plane.* Journal für die reine und angewandte Mathematik **276** (1975), 148–166. [DOI](https://doi.org/10.1515/crll.1975.276.148)
+- **[Foundational]** S. S. Abhyankar and T. T. Moh. *Newton–Puiseux expansion and generalized Tschirnhausen transformation I, II.* J. reine angew. Math. **260** (1973), 47–83; **261** (1973), 29–54. [DOI](https://doi.org/10.1515/crll.1973.260.47)
 - **[Foundational]** M. Suzuki. *Propriétés topologiques des polynômes de deux variables complexes et automorphismes algébriques de l'espace $\mathbb{C}^2$.* Journal of the Mathematical Society of Japan **26** (1974), 241–257.
-- **[Foundational]** H. W. E. Jung. *Über ganze birationale Transformationen der Ebene.* J. reine angew. Math. **184** (1942), 161–174.
+- **[Foundational]** H. W. E. Jung. *Über ganze birationale Transformationen der Ebene.* J. reine angew. Math. **184** (1942), 161–174. [DOI](https://doi.org/10.1515/crll.1942.184.161)
 - **[Foundational]** W. van der Kulk. *On polynomial rings in two variables.* Nieuw Archief voor Wiskunde (3) **1** (1953), 33–41.
 - **[Structural]** M. Nagata. *On Automorphism Group of $k[x,y]$.* Lectures in Mathematics 5, Kyoto University, Kinokuniya, 1972.
-- **[SOTA / Recent]** R. Ganong. *On plane curves with one place at infinity.* J. reine angew. Math. **307/308** (1979), 173–193.
-- **[SOTA / Recent]** L. Rudolph. *Embeddings of the line in the plane.* J. reine angew. Math. **337** (1982), 113–118.
-- **[SOTA / Recent]** S. Kaliman. *Extensions of isomorphisms between affine algebraic subvarieties of $k^n$ to automorphisms of $k^n$.* Proceedings of the American Mathematical Society **113** (1991), 325–334.
-- **[SOTA / Recent]** Z. Jelonek. *The extension of regular and rational embeddings.* Mathematische Annalen **277** (1987), 113–120.
+- **[SOTA / Recent]** R. Ganong. *On plane curves with one place at infinity.* J. reine angew. Math. **307/308** (1979), 173–193. [DOI](https://doi.org/10.1515/crll.1979.307-308.173)
+- **[SOTA / Recent]** L. Rudolph. *Embeddings of the line in the plane.* J. reine angew. Math. **337** (1982), 113–118. [DOI](https://doi.org/10.1515/crll.1982.337.113)
+- **[SOTA / Recent]** S. Kaliman. *Extensions of isomorphisms between affine algebraic subvarieties of $k^n$ to automorphisms of $k^n$.* Proceedings of the American Mathematical Society **113** (1991), 325–334. [DOI](https://doi.org/10.2307/2048516)
+- **[SOTA / Recent]** Z. Jelonek. *The extension of regular and rational embeddings.* Mathematische Annalen **277** (1987), 113–120. [DOI](https://doi.org/10.1007/bf01457281)
 - **[SOTA / Recent]** A. Sathaye. *On linear planes.* Proceedings of the American Mathematical Society **56** (1976), 1–7.
-- **[SOTA / Recent]** I. P. Shestakov and U. U. Umirbaev. *The tame and the wild automorphisms of polynomial rings in three variables.* Journal of the AMS **17** (2004), 197–227.
-- **[SOTA / Recent]** N. Gupta. *On the cancellation problem for the affine space $\mathbb{A}^3$ in characteristic $p$.* Inventiones Mathematicae **195** (2014), 279–288.
-- **[Survey]** A. van den Essen. *Polynomial Automorphisms and the Jacobian Conjecture.* Progress in Mathematics 190, Birkhäuser, 2000.
-- **[Survey]** R. Ganong. *The pencil of translates of a line in the plane.* In *Affine Algebraic Geometry*, CRM Proceedings and Lecture Notes **54**, AMS, 2011, 57–71.
-- **[Survey]** M. Miyanishi. *Open Algebraic Surfaces.* CRM Monograph Series 12, AMS, 2001.
+- **[SOTA / Recent]** I. P. Shestakov and U. U. Umirbaev. *The tame and the wild automorphisms of polynomial rings in three variables.* Journal of the AMS **17** (2004), 197–227. [DOI](https://doi.org/10.1090/s0894-0347-03-00440-5)
+- **[SOTA / Recent]** N. Gupta. *On the cancellation problem for the affine space $\mathbb{A}^3$ in characteristic $p$.* Inventiones Mathematicae **195** (2014), 279–288. [DOI](https://doi.org/10.1007/s00222-013-0455-2)
+- **[Survey]** A. van den Essen. *Polynomial Automorphisms and the Jacobian Conjecture.* Progress in Mathematics 190, Birkhäuser, 2000. [DOI](https://doi.org/10.2307/3621827)
+- **[Survey]** R. Ganong. *The pencil of translates of a line in the plane.* In *Affine Algebraic Geometry*, CRM Proceedings and Lecture Notes **54**, AMS, 2011, 57–71. [DOI](https://doi.org/10.1090/crmp/054/05)
+- **[Survey]** M. Miyanishi. *Open Algebraic Surfaces.* CRM Monograph Series 12, AMS, 2001. [DOI](https://doi.org/10.1090/crmm/012/02)
 
 ## 10. Worked Example / Concrete Special Case
 

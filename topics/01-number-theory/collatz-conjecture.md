@@ -91,11 +91,11 @@ Leading mathematicians suggest that proving the Collatz conjecture will require 
 
 ## 9. Key References
 
-- **[Foundational]** Lagarias, J. C. *The 3x+1 problem and its generalizations.* The American Mathematical Monthly, 1985.
-- **[Foundational]** Lagarias, J. C. (Ed.). *The Ultimate Challenge: The 3x+1 Problem.* American Mathematical Society, 2010.
+- **[Foundational]** Lagarias, J. C. *The 3x+1 problem and its generalizations.* The American Mathematical Monthly, 1985. [DOI](https://doi.org/10.2307/2322189)
+- **[Foundational]** Lagarias, J. C. (Ed.). *The Ultimate Challenge: The 3x+1 Problem.* American Mathematical Society, 2010. [DOI](https://doi.org/10.5860/choice.48-6964)
 - **[SOTA / Recent]** Tao, T. *Almost all orbits of the Collatz map arrive at almost bounded values.* Forum of Mathematics, Pi, 2022.
-- **[SOTA / Recent]** Barina, D. *Convergence verification of the Collatz problem.* The Journal of Supercomputing, 2021.
-- **[Survey]** Krasikov, I., & Lagarias, J. C. *Bounds for the 3x+1 problem using difference inequalities.* Acta Arithmetica, 2003.
+- **[SOTA / Recent]** Barina, D. *Convergence verification of the Collatz problem.* The Journal of Supercomputing, 2021. [DOI](https://doi.org/10.1007/s11227-020-03368-x)
+- **[Survey]** Krasikov, I., & Lagarias, J. C. *Bounds for the 3x+1 problem using difference inequalities.* Acta Arithmetica, 2003. [DOI](https://doi.org/10.4064/aa109-3-4)
 
 ## 10. Worked Example / Concrete Special Case
 

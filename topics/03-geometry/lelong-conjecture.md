@@ -106,19 +106,19 @@ The precise missing step is a **potential-theoretic representation for plurisubh
 
 ## 9. Key References
 
-- **[Foundational]** P. Lelong. *Intégration sur un ensemble analytique complexe.* Bulletin de la Société Mathématique de France, 85 (1957), 239–262.
+- **[Foundational]** P. Lelong. *Intégration sur un ensemble analytique complexe.* Bulletin de la Société Mathématique de France, 85 (1957), 239–262. [DOI](https://doi.org/10.24033/bsmf.1488)
 - **[Foundational]** P. Lelong. *Fonctions plurisousharmoniques et formes différentielles positives.* Gordon & Breach / Dunod, Paris, 1968.
-- **[Foundational]** P. Thie. *The Lelong number of a point of a complex analytic set.* Mathematische Annalen, 172 (1967), 269–312.
-- **[Foundational]** Y.-T. Siu. *Analyticity of sets associated with Lelong numbers and the extension of closed positive currents.* Inventiones Mathematicae, 27 (1974), 53–156.
-- **[Foundational]** H. Skoda. *Sous-ensembles analytiques d'ordre fini ou infini dans $\mathbb{C}^n$.* Bulletin de la Société Mathématique de France, 100 (1972), 353–408.
-- **[SOTA]** J.-P. Demailly. *Nombres de Lelong généralisés, théorèmes d'intégralité et d'analyticité.* Acta Mathematica, 159 (1987), 153–169.
-- **[SOTA]** C. O. Kiselman. *Densité des fonctions plurisousharmoniques.* Bulletin de la Société Mathématique de France, 107 (1979), 295–304.
-- **[SOTA]** L. Alessandrini, G. Bassanelli. *Plurisubharmonic currents and their extension across analytic subsets.* Forum Mathematicum, 5 (1993), 577–602.
-- **[SOTA / Recent]** T.-C. Dinh, N. Sibony. *Density of positive closed currents, a theory of non-generic intersections.* Journal of Algebraic Geometry, 27 (2018), 497–551.
-- **[SOTA / Recent]** Q. Guan, X. Zhou. *A proof of Demailly's strong openness conjecture.* Annals of Mathematics, 182 (2015), 605–616.
+- **[Foundational]** P. Thie. *The Lelong number of a point of a complex analytic set.* Mathematische Annalen, 172 (1967), 269–312. [DOI](https://doi.org/10.1007/bf01351593)
+- **[Foundational]** Y.-T. Siu. *Analyticity of sets associated with Lelong numbers and the extension of closed positive currents.* Inventiones Mathematicae, 27 (1974), 53–156. [DOI](https://doi.org/10.1007/bf01389965)
+- **[Foundational]** H. Skoda. *Sous-ensembles analytiques d'ordre fini ou infini dans $\mathbb{C}^n$.* Bulletin de la Société Mathématique de France, 100 (1972), 353–408. [DOI](https://doi.org/10.24033/bsmf.1743)
+- **[SOTA]** J.-P. Demailly. *Nombres de Lelong généralisés, théorèmes d'intégralité et d'analyticité.* Acta Mathematica, 159 (1987), 153–169. [DOI](https://doi.org/10.1007/bf02392558)
+- **[SOTA]** C. O. Kiselman. *Densité des fonctions plurisousharmoniques.* Bulletin de la Société Mathématique de France, 107 (1979), 295–304. [DOI](https://doi.org/10.24033/bsmf.1898)
+- **[SOTA]** L. Alessandrini, G. Bassanelli. *Plurisubharmonic currents and their extension across analytic subsets.* Forum Mathematicum, 5 (1993), 577–602. [DOI](https://doi.org/10.1515/form.1993.5.577)
+- **[SOTA / Recent]** T.-C. Dinh, N. Sibony. *Density of positive closed currents, a theory of non-generic intersections.* Journal of Algebraic Geometry, 27 (2018), 497–551. [DOI](https://doi.org/10.1090/jag/711)
+- **[SOTA / Recent]** Q. Guan, X. Zhou. *A proof of Demailly's strong openness conjecture.* Annals of Mathematics, 182 (2015), 605–616. [DOI](https://doi.org/10.4007/annals.2015.182.2.5)
 - **[SOTA / Recent]** B. Berndtsson. *The openness conjecture for plurisubharmonic functions.* arXiv:1305.5781, 2013.
 - **[Survey]** J.-P. Demailly. *Complex Analytic and Differential Geometry.* Open-content book, Université Grenoble Alpes (Chapters II–III on positive currents and Lelong numbers).
-- **[Survey]** V. Guedj, A. Zeriahi. *Degenerate Complex Monge–Ampère Equations.* EMS Tracts in Mathematics 26, European Mathematical Society, 2017.
+- **[Survey]** V. Guedj, A. Zeriahi. *Degenerate Complex Monge–Ampère Equations.* EMS Tracts in Mathematics 26, European Mathematical Society, 2017. [DOI](https://doi.org/10.4171/167)
 
 ## 10. Worked Example / Concrete Special Case
 

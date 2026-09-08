@@ -104,18 +104,18 @@ implies this, because a finite-order image would force sub-exponential (polynomi
 
 ## 9. Key References
 
-- **[Foundational]** J. E. Andersen, G. Masbaum, K. Ueno. *Topological quantum field theory and the Nielsen–Thurston classification of $M(0,4)$.* Mathematical Proceedings of the Cambridge Philosophical Society, 141 (2006), 477–488.
+- **[Foundational]** J. E. Andersen, G. Masbaum, K. Ueno. *Topological quantum field theory and the Nielsen–Thurston classification of $M(0,4)$.* Mathematical Proceedings of the Cambridge Philosophical Society, 141 (2006), 477–488. [DOI](https://doi.org/10.1017/s0305004106009698)
 - **[Foundational]** C. Blanchet, N. Habegger, G. Masbaum, P. Vogel. *Topological quantum field theories derived from the Kauffman bracket.* Topology 34 (1995), 883–927.
-- **[Foundational]** M. Freedman, K. Walker, Z. Wang. *Quantum SU(2) faithfully detects mapping class groups modulo center.* Geometry & Topology 6 (2002), 523–539.
-- **[Foundational]** J. E. Andersen. *Asymptotic faithfulness of the quantum SU(n) representations of the mapping class groups.* Annals of Mathematics 163 (2006), 347–368.
-- **[Foundational]** G. Masbaum. *An element of infinite order in TQFT-representations of mapping class groups.* Contemporary Mathematics 233, AMS (1999), 137–139.
-- **[SOTA / Recent]** R. Detcherry, E. Kalfagianni. *Quantum representations and monodromies of fibered links.* Advances in Mathematics 351 (2019), 676–701.
-- **[SOTA / Recent]** R. Detcherry, E. Kalfagianni. *Gromov norm and Turaev–Viro invariants of 3-manifolds.* Annales Scientifiques de l'École Normale Supérieure 53 (2020), 1363–1391.
-- **[SOTA / Recent]** Q. Chen, T. Yang. *Volume conjectures for the Reshetikhin–Turaev and the Turaev–Viro invariants.* Quantum Topology 9 (2018), 419–460.
-- **[SOTA / Recent]** R. Santharoubane. *Action of $M(0,2n)$ on some kernel spaces coming from $SU(2)$-TQFT.* Journal of the London Mathematical Society 95 (2017), 785–803.
-- **[SOTA / Recent]** J. K. Egsgaard, S. F. Jørgensen. *The homological content of the Jones representations at $q=-1$.* Journal of Knot Theory and Its Ramifications 25 (2016).
-- **[SOTA / Recent]** T. Koberda, R. Santharoubane. *Quotients of surface groups and homology of finite covers via quantum representations.* Inventiones Mathematicae 206 (2016), 269–292.
-- **[SOTA / Recent]** J. Marché, M. Narimannejad. *Some asymptotics of topological quantum field theory via skein theory.* Duke Mathematical Journal 141 (2008), 573–587.
+- **[Foundational]** M. Freedman, K. Walker, Z. Wang. *Quantum SU(2) faithfully detects mapping class groups modulo center.* Geometry & Topology 6 (2002), 523–539. [DOI](https://doi.org/10.2140/gt.2002.6.523)
+- **[Foundational]** J. E. Andersen. *Asymptotic faithfulness of the quantum SU(n) representations of the mapping class groups.* Annals of Mathematics 163 (2006), 347–368. [DOI](https://doi.org/10.4007/annals.2006.163.347)
+- **[Foundational]** G. Masbaum. *An element of infinite order in TQFT-representations of mapping class groups.* Contemporary Mathematics 233, AMS (1999), 137–139. [DOI](https://doi.org/10.1090/conm/233/03423)
+- **[SOTA / Recent]** R. Detcherry, E. Kalfagianni. *Quantum representations and monodromies of fibered links.* Advances in Mathematics 351 (2019), 676–701. [DOI](https://doi.org/10.1016/j.aim.2019.05.014)
+- **[SOTA / Recent]** R. Detcherry, E. Kalfagianni. *Gromov norm and Turaev–Viro invariants of 3-manifolds.* Annales Scientifiques de l'École Normale Supérieure 53 (2020), 1363–1391. [DOI](https://doi.org/10.24033/asens.2449)
+- **[SOTA / Recent]** Q. Chen, T. Yang. *Volume conjectures for the Reshetikhin–Turaev and the Turaev–Viro invariants.* Quantum Topology 9 (2018), 419–460. [DOI](https://doi.org/10.4171/qt/111)
+- **[SOTA / Recent]** R. Santharoubane. *Action of $M(0,2n)$ on some kernel spaces coming from $SU(2)$-TQFT.* Journal of the London Mathematical Society 95 (2017), 785–803. [DOI](https://doi.org/10.1112/jlms.12037)
+- **[SOTA / Recent]** J. K. Egsgaard, S. F. Jørgensen. *The homological content of the Jones representations at $q=-1$.* Journal of Knot Theory and Its Ramifications 25 (2016). [DOI](https://doi.org/10.1142/s0218216516500620)
+- **[SOTA / Recent]** T. Koberda, R. Santharoubane. *Quotients of surface groups and homology of finite covers via quantum representations.* Inventiones Mathematicae 206 (2016), 269–292. [DOI](https://doi.org/10.1007/s00222-016-0652-x)
+- **[SOTA / Recent]** J. Marché, M. Narimannejad. *Some asymptotics of topological quantum field theory via skein theory.* Duke Mathematical Journal 141 (2008), 573–587. [DOI](https://doi.org/10.1215/00127094-2007-006)
 - **[Survey]** V. Turaev. *Quantum Invariants of Knots and 3-Manifolds.* de Gruyter Studies in Mathematics 18, 1994 (3rd ed. 2016).
 - **[Survey]** B. Farb, D. Margalit. *A Primer on Mapping Class Groups.* Princeton University Press, 2012.
 

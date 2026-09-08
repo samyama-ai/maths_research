@@ -101,14 +101,14 @@ The precise barrier is the passage from **3-strand to 4-strand tangle complexity
 
 - **[Foundational]** R. H. Fox. *Congruence classes of knots.* Osaka Mathematical Journal 10 (1958), 37–41.
 - **[Foundational]** Y. Nakanishi. *On Fox's congruence classes of knots.* Osaka Journal of Mathematics 24 (1987), 217–225.
-- **[Foundational]** Y. Nakanishi. *On generalized unknotting operations.* Journal of Knot Theory and Its Ramifications 3 (1994), 197–209.
+- **[Foundational]** Y. Nakanishi. *On generalized unknotting operations.* Journal of Knot Theory and Its Ramifications 3 (1994), 197–209. [DOI](https://doi.org/10.1142/s0218216594000150)
 - **[Foundational]** H. S. M. Coxeter. *Factor groups of the braid group.* Proceedings of the Fourth Canadian Mathematical Congress, Banff 1957, 95–122.
-- **[SOTA]** J. H. Przytycki, T. Tsukamoto. *The fourth skein module and the Montesinos–Nakanishi conjecture for 3-algebraic links.* Journal of Knot Theory and Its Ramifications 10 (2001), 959–982.
-- **[SOTA]** M. K. Dąbkowski, J. H. Przytycki. *Burnside obstructions to the Montesinos–Nakanishi 3-move conjecture.* Algebraic & Geometric Topology 2 (2002), 355–403.
-- **[SOTA]** M. K. Dąbkowski, J. H. Przytycki. *Unexpected connections between Burnside groups and knot theory.* Proceedings of the National Academy of Sciences USA 101 (2004), 17357–17360.
-- **[Survey]** J. H. Przytycki. *3-coloring and other elementary invariants of knots.* Banach Center Publications 42 (1998), 275–295.
-- **[Survey]** A. Kawauchi. *A Survey of Knot Theory.* Birkhäuser, 1996 (problem appendix).
-- **[Survey]** R. Kirby (ed.). *Problems in low-dimensional topology.* AMS/IP Studies in Advanced Mathematics 2.2 (1997) — Problem 1.59.
+- **[SOTA]** J. H. Przytycki, T. Tsukamoto. *The fourth skein module and the Montesinos–Nakanishi conjecture for 3-algebraic links.* Journal of Knot Theory and Its Ramifications 10 (2001), 959–982. [DOI](https://doi.org/10.1142/s0218216501001281)
+- **[SOTA]** M. K. Dąbkowski, J. H. Przytycki. *Burnside obstructions to the Montesinos–Nakanishi 3-move conjecture.* Algebraic & Geometric Topology 2 (2002), 355–403. [DOI](https://doi.org/10.2140/gt.2002.6.355)
+- **[SOTA]** M. K. Dąbkowski, J. H. Przytycki. *Unexpected connections between Burnside groups and knot theory.* Proceedings of the National Academy of Sciences USA 101 (2004), 17357–17360. [DOI](https://doi.org/10.1073/pnas.0406098101)
+- **[Survey]** J. H. Przytycki. *3-coloring and other elementary invariants of knots.* Banach Center Publications 42 (1998), 275–295. [DOI](https://doi.org/10.4064/-42-1-275-295)
+- **[Survey]** A. Kawauchi. *A Survey of Knot Theory.* Birkhäuser, 1996 (problem appendix). [DOI](https://doi.org/10.1007/978-3-0348-9227-8)
+- **[Survey]** R. Kirby (ed.). *Problems in low-dimensional topology.* AMS/IP Studies in Advanced Mathematics 2.2 (1997) — Problem 1.59. [DOI](https://doi.org/10.1090/amsip/002.2/02)
 
 ## 10. Worked Example / Concrete Special Case
 

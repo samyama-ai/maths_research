@@ -88,9 +88,9 @@ Leading figures in transcendental number theory suggest the following pathways:
 
 - **[Foundational]** Baker, A. *Transcendental Number Theory*. Cambridge University Press, 1975.
 - **[Foundational]** Lang, S. *Introduction to Transcendental Numbers*. Addison-Wesley, 1966.
-- **[SOTA / Recent]** Nesterenko, Y. V. *Modular functions and transcendence questions*. Sbornik: Mathematics, 187(9), 1319–1348, 1996.
-- **[Survey]** Kontsevich, M., and Zagier, D. *Periods*. In: *Mathematics unlimited—2001 and beyond*, Springer, 2001, pp. 771-808.
-- **[Survey]** Waldschmidt, M. *Diophantine Approximation on Linear Algebraic Groups*. Springer, 2000.
+- **[SOTA / Recent]** Nesterenko, Y. V. *Modular functions and transcendence questions*. Sbornik: Mathematics, 187(9), 1319–1348, 1996. [DOI](https://doi.org/10.1070/sm1996v187n09abeh000158)
+- **[Survey]** Kontsevich, M., and Zagier, D. *Periods*. In: *Mathematics unlimited—2001 and beyond*, Springer, 2001, pp. 771-808. [DOI](https://doi.org/10.1007/978-3-642-56478-9)
+- **[Survey]** Waldschmidt, M. *Diophantine Approximation on Linear Algebraic Groups*. Springer, 2000. [DOI](https://doi.org/10.1007/978-3-662-11569-5)
 
 ## 10. Worked Example / Concrete Special Case
 

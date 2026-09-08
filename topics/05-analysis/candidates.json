@@ -640,5 +640,185 @@
     "slug": "ilin-conjecture",
     "status": "open",
     "description": "Investigates the uniform convergence of spectral expansions for general differential operators."
+  },
+  {
+    "title": "Sarason's Conjecture on Toeplitz Product Boundedness",
+    "slug": "sarason-conjecture-toeplitz-products",
+    "status": "partially-solved",
+    "description": "When is a product of two Toeplitz operators bounded"
+  },
+  {
+    "title": "Zeros of the Riemann Xi Function and de Branges Spaces",
+    "slug": "de-branges-space-approach-to-rh",
+    "status": "open",
+    "description": "Hilbert space of entire functions approach to zero location"
+  },
+  {
+    "title": "Wolff's Conjecture on Cone Multipliers",
+    "slug": "cone-multiplier-conjecture",
+    "status": "partially-solved",
+    "description": "Sharp bounds for Fourier multipliers adapted to light cones"
+  },
+  {
+    "title": "Local Smoothing Conjecture for the Wave Equation",
+    "slug": "local-smoothing-conjecture",
+    "status": "partially-solved",
+    "description": "Averaging in time gains derivatives for wave solutions"
+  },
+  {
+    "title": "Stein's Maximal Principle Beyond Compact Groups",
+    "slug": "stein-maximal-principle-extensions",
+    "status": "open",
+    "description": "Equivalence of almost-everywhere convergence and maximal bounds"
+  },
+  {
+    "title": "The Dimension of Besicovitch Sets in Four Dimensions",
+    "slug": "besicovitch-sets-dimension-four",
+    "status": "partially-solved",
+    "description": "Hausdorff dimension of measure-zero sets containing all directions"
+  },
+  {
+    "title": "Zaremba-Type Problem for Continued Fraction Measures",
+    "slug": "zaremba-continued-fraction-spectrum",
+    "status": "partially-solved",
+    "description": "Bounded partial quotients and Hausdorff dimension of Cantor sets"
+  },
+  {
+    "title": "The Angular Derivative Problem for Inner Functions",
+    "slug": "angular-derivative-problem",
+    "status": "partially-solved",
+    "description": "Existence of finite angular derivatives at boundary points"
+  },
+  {
+    "title": "Cyclicity in Dirichlet-Type Spaces",
+    "slug": "cyclic-vectors-dirichlet-space",
+    "status": "open",
+    "description": "Characterizing cyclic functions for the shift on Dirichlet space"
+  },
+  {
+    "title": "Bergman Space Zero Set Characterization",
+    "slug": "bergman-space-zero-sets",
+    "status": "open",
+    "description": "Which discrete sets are zero sets of Bergman functions"
+  },
+  {
+    "title": "Composition Operator Spectra on the Hardy Space",
+    "slug": "composition-operator-spectra",
+    "status": "partially-solved",
+    "description": "Spectra of composition operators for general analytic self-maps"
+  },
+  {
+    "title": "The Bloch-Type Constant and Landau's Constant",
+    "slug": "landau-bloch-constants",
+    "status": "open",
+    "description": "Exact values of Bloch and Landau universal constants"
+  },
+  {
+    "title": "Chang-Marshall Sharp Exponential Inequality Extremals",
+    "slug": "chang-marshall-inequality-extremals",
+    "status": "partially-solved",
+    "description": "Extremal functions for exponential integrability of Dirichlet integrals"
+  },
+  {
+    "title": "Rate of Convergence in the Hardy-Littlewood Maximal Constant",
+    "slug": "best-constant-maximal-function",
+    "status": "open",
+    "description": "Sharp weak type constant for centered maximal operators"
+  },
+  {
+    "title": "Regularity of the Maximal Function on Sobolev Spaces",
+    "slug": "sobolev-regularity-of-maximal-operators",
+    "status": "partially-solved",
+    "description": "Does the maximal function preserve first-order Sobolev regularity"
+  },
+  {
+    "title": "Muckenhoupt Weight A-infinity Dimensional Dependence",
+    "slug": "a2-theorem-dimensional-dependence",
+    "status": "open",
+    "description": "Dimension-free weighted bounds for singular integral operators"
+  },
+  {
+    "title": "Rubio de Francia's Conjecture for Multiplier Square Functions",
+    "slug": "rubio-de-francia-square-function",
+    "status": "partially-solved",
+    "description": "Square functions over arbitrary intervals in higher dimensions"
+  },
+  {
+    "title": "The Two-Weight Problem for the Hilbert Transform in Higher Dimensions",
+    "slug": "two-weight-riesz-transform-problem",
+    "status": "partially-solved",
+    "description": "Testing conditions characterizing two-weight Riesz transform bounds"
+  },
+  {
+    "title": "Nazarov-Treil-Volberg Bellman Function Sharpness",
+    "slug": "bellman-function-sharp-constants",
+    "status": "open",
+    "description": "Explicit Bellman functions for dyadic martingale inequalities"
+  },
+  {
+    "title": "Analytic Capacity and the Cauchy Transform Semiadditivity Constants",
+    "slug": "analytic-capacity-comparability",
+    "status": "partially-solved",
+    "description": "Comparing analytic capacity with continuous analytic capacity"
+  },
+  {
+    "title": "The Denjoy Integral Descriptive Characterization in Higher Dimensions",
+    "slug": "multidimensional-denjoy-integration",
+    "status": "open",
+    "description": "A general integral recovering functions from their derivatives"
+  },
+  {
+    "title": "Rectifiability of Measures with Bounded Riesz Transform",
+    "slug": "riesz-transform-rectifiability",
+    "status": "partially-solved",
+    "description": "Do bounded Riesz transforms force rectifiable support"
+  },
+  {
+    "title": "Uniqueness Sets for Trigonometric Series",
+    "slug": "uniqueness-sets-trigonometric-series",
+    "status": "open",
+    "description": "Structural characterization of sets of uniqueness on the circle"
+  },
+  {
+    "title": "Talagrand's Conjecture on Selectors and Gaussian Processes",
+    "slug": "talagrand-selector-conjecture",
+    "status": "solved-recently",
+    "description": "Boundedness of empirical processes via selector process comparison"
+  },
+  {
+    "title": "The Dvoretzky Covering Problem for Random Arcs",
+    "slug": "dvoretzky-random-covering",
+    "status": "partially-solved",
+    "description": "When random arcs almost surely cover the whole circle"
+  },
+  {
+    "title": "Nevanlinna-Pick Interpolation in the Polydisc",
+    "slug": "polydisc-nevanlinna-pick-interpolation",
+    "status": "open",
+    "description": "Characterizing interpolation data for bounded multivariable analytic functions"
+  },
+  {
+    "title": "The Complex Plateau Problem for Strictly Pseudoconvex Boundaries",
+    "slug": "complex-plateau-problem",
+    "status": "partially-solved",
+    "description": "Which real submanifolds bound complex analytic varieties"
+  },
+  {
+    "title": "Regularity of the Bergman Projection on Worm Domains",
+    "slug": "bergman-projection-worm-domains",
+    "status": "partially-solved",
+    "description": "Sobolev irregularity of Bergman projections on smooth pseudoconvex domains"
+  },
+  {
+    "title": "Global Regularity for the d-bar Neumann Problem",
+    "slug": "dbar-neumann-global-regularity",
+    "status": "open",
+    "description": "Smooth solvability of the complex Neumann problem on pseudoconvex domains"
+  },
+  {
+    "title": "Zeros of the Partial Sums of the Exponential Series",
+    "slug": "zeros-of-exponential-partial-sums",
+    "status": "partially-solved",
+    "description": "Limiting distribution and free regions of Taylor section zeros"
   }
 ]

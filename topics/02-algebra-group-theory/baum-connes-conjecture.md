@@ -90,9 +90,9 @@ Leading researchers recommend the following strategic directions:
 
 - **[Foundational]** Baum, P., Connes, A., & Higson, N. *Classifying space for proper actions and K-theory of group C*-algebras.* C*-algebras: 1943–1993, Contemporary Mathematics (1994).
 - **[Foundational]** Kasparov, G. *Equivariant KK-theory and the Novikov conjecture.* Inventiones Mathematicae (1988).
-- **[SOTA / Recent]** Lafforgue, V. *K-théorie bivariante pour les algèbres de Banach et conjecture de Baum-Connes.* Inventiones Mathematicae (2002).
+- **[SOTA / Recent]** Lafforgue, V. *K-théorie bivariante pour les algèbres de Banach et conjecture de Baum-Connes.* Inventiones Mathematicae (2002). [DOI](https://doi.org/10.1007/s002220200213)
 - **[SOTA / Recent]** Gromov, M. *Random walk in random groups.* Geometric and Functional Analysis (2003).
-- **[Survey]** Baum, P., Guentner, E., & Willett, R. *Expanders, exact crossed products, and the Baum-Connes conjecture.* Annals of K-Theory (2016).
+- **[Survey]** Baum, P., Guentner, E., & Willett, R. *Expanders, exact crossed products, and the Baum-Connes conjecture.* Annals of K-Theory (2016). [DOI](https://doi.org/10.2140/akt.2016.1.155)
 
 ## 10. Worked Example / Concrete Special Case
 

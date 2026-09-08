@@ -89,8 +89,8 @@ Leading researchers suggest three primary pathways toward a full resolution:
 ## 9. Key References
 
 - **[Foundational]** Fox, R. H. *Some problems in knot theory*. Topology of 3-Manifolds and Related Topics (Proc. The Univ. of Georgia Institute, 1961), Prentice-Hall, 1962.
-- **[Foundational]** Hartley, R. I. *On two-bridged knot polynomials*. Journal of the Australian Mathematical Society, 28(2), 241-249, 1979.
-- **[SOTA / Recent]** Ozsváth, P., & Szabó, Z. *Heegaard Floer homology and alternating knots*. Geometry & Topology, 7(1), 225-254, 2003.
+- **[Foundational]** Hartley, R. I. *On two-bridged knot polynomials*. Journal of the Australian Mathematical Society, 28(2), 241-249, 1979. [DOI](https://doi.org/10.1017/s1446788700015743)
+- **[SOTA / Recent]** Ozsváth, P., & Szabó, Z. *Heegaard Floer homology and alternating knots*. Geometry & Topology, 7(1), 225-254, 2003. [DOI](https://doi.org/10.2140/gt.2003.7.225)
 - **[SOTA / Recent]** Stoimenow, A. *On the coefficients of the Alexander polynomial*. Journal of Topology, 2005.
 - **[SOTA / Recent]** Hafner, P., Mészáros, K., & Vidinas, A. *Lorentzian polynomials and the Fox Trapezoidal Conjecture for special alternating links*. arXiv:2311.17135, 2023.
 

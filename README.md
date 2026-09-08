@@ -17,35 +17,35 @@ This repository serves as a **knowledge map of mathematical frontiers** — desi
 
 | | |
 |---|---|
-| **Problems** | 1,001 across 10 of 10 topics |
+| **Problems** | 1,161 across 10 of 10 topics |
 | **Every problem documents** | statement · mathematical foundations · history & SOTA · partial results · principal obstacles · the gap · current research (2026) · future work · references · worked example |
-| **Key references** | 12,238 cited across the catalog |
-| **Worked examples** | 1,001 — every page carries a concrete instance |
-| **Content** | ~2.16M words |
+| **Key references** | 14,546 cited across the catalog |
+| **Worked examples** | 1,161 — every page carries a concrete instance |
+| **Content** | ~2.53M words |
 
-**Status mix across the 1,001 problems:**
+**Status mix across the 1,161 problems:**
 
 | Status | Count | Meaning |
 |---|---:|---|
-| 🔴 `open` | 497 | No known solution; the question is genuinely unresolved |
-| 🟡 `partially-solved` | 261 | Proven for restricted cases or under assumptions; general case open |
-| 🟢 `solved-recently` | 221 | Settled in recent history; included for the technique and the gap it closed |
+| 🔴 `open` | 577 | No known solution; the question is genuinely unresolved |
+| 🟡 `partially-solved` | 333 | Proven for restricted cases or under assumptions; general case open |
+| 🟢 `solved-recently` | 229 | Settled in recent history; included for the technique and the gap it closed |
 | 🟠 `empirically-supported` | 22 | Strong numerical or heuristic evidence, no proof |
 
 **Problems per topic:**
 
 | Slug | Topic | Problems |
 |---|---|---:|
-| `01-number-theory` | Number Theory | 119 |
-| `02-algebra-group-theory` | Algebra & Group Theory | 98 |
-| `03-geometry` | Algebraic & Differential Geometry | 99 |
-| `04-topology` | Topology & Knot Theory | 99 |
-| `05-analysis` | Real & Complex Analysis | 98 |
-| `06-pdes` | Partial Differential Equations | 99 |
-| `07-combinatorics` | Combinatorics & Graph Theory | 97 |
-| `08-logic-set-theory` | Mathematical Logic & Set Theory | 97 |
-| `09-probability` | Probability & Stochastic Processes | 97 |
-| `10-theoretical-cs` | Theoretical Computer Science | 98 |
+| `01-number-theory` | Number Theory | 134 |
+| `02-algebra-group-theory` | Algebra & Group Theory | 108 |
+| `03-geometry` | Algebraic & Differential Geometry | 113 |
+| `04-topology` | Topology & Knot Theory | 112 |
+| `05-analysis` | Real & Complex Analysis | 114 |
+| `06-pdes` | Partial Differential Equations | 119 |
+| `07-combinatorics` | Combinatorics & Graph Theory | 114 |
+| `08-logic-set-theory` | Mathematical Logic & Set Theory | 115 |
+| `09-probability` | Probability & Stochastic Processes | 115 |
+| `10-theoretical-cs` | Theoretical Computer Science | 117 |
 <!-- AUTOGEN:END -->
 
 ---

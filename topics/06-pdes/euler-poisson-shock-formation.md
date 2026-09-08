@@ -94,10 +94,10 @@ Leading mathematicians suggest the following open pathways:
 
 ## 9. Key References
 
-- **[Foundational]** Engelberg, S., Liu, H., & Tadmor, E. *Critical Thresholds in Euler-Poisson Equations.* Indiana University Mathematics Journal, 2001.
+- **[Foundational]** Engelberg, S., Liu, H., & Tadmor, E. *Critical Thresholds in Euler-Poisson Equations.* Indiana University Mathematics Journal, 2001. [DOI](https://doi.org/10.1512/iumj.2001.50.2177)
 - **[Foundational]** Christodoulou, D., & Miao, S. *Compressible Flow and Euler's Equations.* Surveys of Modern Mathematics, International Press, 2014.
-- **[SOTA / Recent]** Luk, J., & Speck, J. *Shock formation in solutions to the 2D compressible Euler equations in the presence of non-zero vorticity.* Inventiones mathematicae, 2018.
-- **[SOTA / Recent]** Wei, D., & Tadmor, E. *Critical Thresholds in Multi-dimensional Euler-Poisson Equations with Radial Symmetry.* Communications in Mathematical Sciences, 2012.
+- **[SOTA / Recent]** Luk, J., & Speck, J. *Shock formation in solutions to the 2D compressible Euler equations in the presence of non-zero vorticity.* Inventiones mathematicae, 2018. [DOI](https://doi.org/10.1007/s00222-018-0799-8)
+- **[SOTA / Recent]** Wei, D., & Tadmor, E. *Critical Thresholds in Multi-dimensional Euler-Poisson Equations with Radial Symmetry.* Communications in Mathematical Sciences, 2012. [DOI](https://doi.org/10.4310/cms.2012.v10.n1.a4)
 - **[Survey]** Chae, D., & Tadmor, E. *On the finite time blow-up of the Euler-Poisson equations in $\mathbb{R}^N$.* Communications in Mathematical Sciences, 2008.
 
 ## 10. Worked Example / Concrete Special Case

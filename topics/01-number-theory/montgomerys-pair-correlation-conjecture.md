@@ -99,10 +99,10 @@ Leading number theorists have identified several pathways for future exploration
 ## 9. Key References
 
 - **[Foundational]** Montgomery, H. L. *The pair correlation of zeros of the zeta function.* Analytic Number Theory, Proc. Sympos. Pure Math., Vol. XXIV, 181–193. American Mathematical Society, 1973.
-- **[Foundational]** Odlyzko, A. M. *On the distribution of spacings between zeros of the zeta function.* Mathematics of Computation, 48(177), 273-308. 1987.
-- **[Foundational]** Rudnick, Z., & Sarnak, P. *Zeros of principal L-functions and random matrix theory.* Duke Mathematical Journal, 81(2), 269-322. 1996.
-- **[SOTA / Recent]** Conrey, J. B., Farmer, D. W., & Zirnbauer, M. R. *Autocorrelation of ratios of L-functions.* Communications in Number Theory and Physics, 2(3), 593-636. 2008.
-- **[Survey]** Katz, N. M., & Sarnak, P. *Zeroes of zeta functions and symmetry.* Bulletin of the American Mathematical Society, 36(1), 1-26. 1999.
+- **[Foundational]** Odlyzko, A. M. *On the distribution of spacings between zeros of the zeta function.* Mathematics of Computation, 48(177), 273-308. 1987. [DOI](https://doi.org/10.1090/s0025-5718-1987-0866115-0)
+- **[Foundational]** Rudnick, Z., & Sarnak, P. *Zeros of principal L-functions and random matrix theory.* Duke Mathematical Journal, 81(2), 269-322. 1996. [DOI](https://doi.org/10.1215/s0012-7094-96-08115-6)
+- **[SOTA / Recent]** Conrey, J. B., Farmer, D. W., & Zirnbauer, M. R. *Autocorrelation of ratios of L-functions.* Communications in Number Theory and Physics, 2(3), 593-636. 2008. [DOI](https://doi.org/10.4310/cntp.2008.v2.n3.a4)
+- **[Survey]** Katz, N. M., & Sarnak, P. *Zeroes of zeta functions and symmetry.* Bulletin of the American Mathematical Society, 36(1), 1-26. 1999. [DOI](https://doi.org/10.1090/s0273-0979-99-00766-1)
 
 ## 10. Worked Example / Concrete Special Case
 

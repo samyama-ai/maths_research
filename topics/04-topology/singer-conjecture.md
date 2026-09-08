@@ -119,15 +119,15 @@ The gap is a **single closed aspherical 4-manifold with no extra structure**. Pr
 
 - **[Foundational]** M. F. Atiyah. *Elliptic operators, discrete groups and von Neumann algebras.* Astérisque 32–33 (1976), 43–72.
 - **[Foundational]** J. Dodziuk. *de Rham–Hodge theory for $L^2$-cohomology of infinite coverings.* Topology 16 (1977), 157–165.
-- **[Foundational]** J. Dodziuk. *$L^2$-harmonic forms on rotationally symmetric Riemannian manifolds.* Proc. Amer. Math. Soc. 77 (1979), 395–400.
+- **[Foundational]** J. Dodziuk. *$L^2$-harmonic forms on rotationally symmetric Riemannian manifolds.* Proc. Amer. Math. Soc. 77 (1979), 395–400. [DOI](https://doi.org/10.2307/2042193)
 - **[Foundational]** J. Cheeger, M. Gromov. *$L_2$-cohomology and group cohomology.* Topology 25 (1986), 189–215.
-- **[Foundational]** M. Gromov. *Kähler hyperbolicity and $L_2$-Hodge theory.* J. Differential Geom. 33 (1991), 263–292.
+- **[Foundational]** M. Gromov. *Kähler hyperbolicity and $L_2$-Hodge theory.* J. Differential Geom. 33 (1991), 263–292. [DOI](https://doi.org/10.4310/jdg/1214446039)
 - **[Foundational]** J. Lott, W. Lück. *$L^2$-topological invariants of 3-manifolds.* Invent. Math. 120 (1995), 15–60.
 - **[SOTA]** M. W. Davis, B. Okun. *Vanishing theorems and conjectures for the $\ell^2$-homology of right-angled Coxeter groups.* Geom. Topol. 5 (2001), 7–74.
-- **[SOTA]** J. Cao, F. Xavier. *Kähler parabolicity and the Euler number of compact manifolds of non-positive sectional curvature.* Math. Ann. 319 (2001), 483–491.
-- **[SOTA]** M. Olbrich. *$L^2$-invariants of locally symmetric spaces.* Doc. Math. 7 (2002), 219–237.
+- **[SOTA]** J. Cao, F. Xavier. *Kähler parabolicity and the Euler number of compact manifolds of non-positive sectional curvature.* Math. Ann. 319 (2001), 483–491. [DOI](https://doi.org/10.1007/pl00004444)
+- **[SOTA]** M. Olbrich. *$L^2$-invariants of locally symmetric spaces.* Doc. Math. 7 (2002), 219–237. [DOI](https://doi.org/10.4171/dm/125)
 - **[SOTA]** B. Okun, K. Schreve. *The $L^2$-(co)homology of groups with hierarchies.* Algebr. Geom. Topol. 16 (2016), 2549–2569.
-- **[SOTA]** G. Avramidi, B. Okun, K. Schreve. *Mod p and torsion homology growth in nonpositive curvature.* Invent. Math. 226 (2021), 711–723.
+- **[SOTA]** G. Avramidi, B. Okun, K. Schreve. *Mod p and torsion homology growth in nonpositive curvature.* Invent. Math. 226 (2021), 711–723. [DOI](https://doi.org/10.1007/s00222-021-01057-x)
 - **[Survey / Book]** W. Lück. *$L^2$-Invariants: Theory and Applications to Geometry and K-Theory.* Ergebnisse der Mathematik 44, Springer, 2002.
 - **[Survey / Book]** M. W. Davis. *The Geometry and Topology of Coxeter Groups.* London Math. Soc. Monographs 32, Princeton Univ. Press, 2008.
 

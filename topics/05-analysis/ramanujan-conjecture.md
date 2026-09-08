@@ -116,18 +116,18 @@ Equivalently, close the numeric gap from $\theta_2 \le 7/64 \approx 0.109$ to $\
 - **[Foundational]** S. Ramanujan. *On certain arithmetical functions.* Transactions of the Cambridge Philosophical Society, 22 (1916), 159–184.
 - **[Foundational]** L. J. Mordell. *On Mr. Ramanujan's empirical expansions of modular functions.* Proceedings of the Cambridge Philosophical Society, 19 (1917), 117–124.
 - **[Foundational]** P. Deligne. *Formes modulaires et représentations $\ell$-adiques.* Séminaire Bourbaki, exp. 355, Lecture Notes in Mathematics 179, Springer, 1971.
-- **[Foundational]** P. Deligne. *La conjecture de Weil. I.* Publications Mathématiques de l'IHÉS, 43 (1974), 273–307.
+- **[Foundational]** P. Deligne. *La conjecture de Weil. I.* Publications Mathématiques de l'IHÉS, 43 (1974), 273–307. [DOI](https://doi.org/10.1007/bf02684373)
 - **[Foundational]** P. Deligne, J.-P. Serre. *Formes modulaires de poids 1.* Annales scientifiques de l'ÉNS, 7 (1974), 507–530.
-- **[Counterexample]** R. Howe, I. Piatetski-Shapiro. *A counterexample to the "generalized Ramanujan conjecture" for (quasi-)split groups.* Proceedings of Symposia in Pure Mathematics 33, AMS, 1979, 315–322.
+- **[Counterexample]** R. Howe, I. Piatetski-Shapiro. *A counterexample to the "generalized Ramanujan conjecture" for (quasi-)split groups.* Proceedings of Symposia in Pure Mathematics 33, AMS, 1979, 315–322. [DOI](https://doi.org/10.1090/pspum/033.1/546605)
 - **[SOTA]** W. Luo, Z. Rudnick, P. Sarnak. *On Selberg's eigenvalue conjecture.* Geometric and Functional Analysis, 5 (1995), 387–401.
 - **[SOTA]** H. Kim (with appendices by D. Ramakrishnan and by H. Kim and P. Sarnak). *Functoriality for the exterior square of $\mathrm{GL}_4$ and the symmetric fourth of $\mathrm{GL}_2$.* Journal of the AMS, 16 (2003), 139–183.
-- **[SOTA]** L. Lafforgue. *Chtoucas de Drinfeld et correspondance de Langlands.* Inventiones Mathematicae, 147 (2002), 1–241.
-- **[SOTA]** V. Blomer, F. Brumley. *On the Ramanujan conjecture over number fields.* Annals of Mathematics, 174 (2011), 581–605.
-- **[SOTA]** S. W. Shin. *Galois representations arising from some compact Shimura varieties.* Annals of Mathematics, 173 (2011), 1645–1741.
-- **[SOTA]** A. Caraiani. *Local-global compatibility and the action of monodromy on nearby cycles.* Duke Mathematical Journal, 161 (2012), 2311–2413.
+- **[SOTA]** L. Lafforgue. *Chtoucas de Drinfeld et correspondance de Langlands.* Inventiones Mathematicae, 147 (2002), 1–241. [DOI](https://doi.org/10.1007/s002220100174)
+- **[SOTA]** V. Blomer, F. Brumley. *On the Ramanujan conjecture over number fields.* Annals of Mathematics, 174 (2011), 581–605. [DOI](https://doi.org/10.4007/annals.2011.174.1.18)
+- **[SOTA]** S. W. Shin. *Galois representations arising from some compact Shimura varieties.* Annals of Mathematics, 173 (2011), 1645–1741. [DOI](https://doi.org/10.4007/annals.2011.173.3.9)
+- **[SOTA]** A. Caraiani. *Local-global compatibility and the action of monodromy on nearby cycles.* Duke Mathematical Journal, 161 (2012), 2311–2413. [DOI](https://doi.org/10.1215/00127094-1723706)
 - **[Survey]** P. Sarnak. *Notes on the generalized Ramanujan conjectures.* In *Harmonic Analysis, the Trace Formula, and Shimura Varieties*, Clay Mathematics Proceedings 4, AMS, 2005, 659–685.
-- **[Survey]** V. Blomer, F. Brumley. *The role of the Ramanujan conjecture in analytic number theory.* Bulletin of the AMS, 50 (2013), 267–320.
-- **[Book]** H. Iwaniec. *Spectral Methods of Automorphic Forms.* 2nd ed., Graduate Studies in Mathematics 53, AMS, 2002.
+- **[Survey]** V. Blomer, F. Brumley. *The role of the Ramanujan conjecture in analytic number theory.* Bulletin of the AMS, 50 (2013), 267–320. [DOI](https://doi.org/10.1090/s0273-0979-2013-01404-6)
+- **[Book]** H. Iwaniec. *Spectral Methods of Automorphic Forms.* 2nd ed., Graduate Studies in Mathematics 53, AMS, 2002. [DOI](https://doi.org/10.1090/gsm/053)
 
 ## 10. Worked Example / Concrete Special Case
 

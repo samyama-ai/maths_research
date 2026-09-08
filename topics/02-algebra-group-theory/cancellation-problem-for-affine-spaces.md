@@ -99,20 +99,20 @@ Sharply: one must either (a) construct a stable, computable invariant $I$ with $
 
 ## 9. Key References
 
-- **[Foundational]** S. S. Abhyankar, P. Eakin, W. Heinzer. *On the uniqueness of the coefficient ring in a polynomial ring.* Journal of Algebra 23 (1972), 310–342.
-- **[Foundational]** M. Hochster. *Nonuniqueness of coefficient rings in a polynomial ring.* Proceedings of the AMS 34 (1972), 81–82.
+- **[Foundational]** S. S. Abhyankar, P. Eakin, W. Heinzer. *On the uniqueness of the coefficient ring in a polynomial ring.* Journal of Algebra 23 (1972), 310–342. [DOI](https://doi.org/10.1016/0021-8693(72)90134-2)
+- **[Foundational]** M. Hochster. *Nonuniqueness of coefficient rings in a polynomial ring.* Proceedings of the AMS 34 (1972), 81–82. [DOI](https://doi.org/10.1090/s0002-9939-1972-0294325-3)
 - **[Foundational]** T. Fujita. *On Zariski problem.* Proceedings of the Japan Academy, Ser. A 55 (1979), 106–110.
-- **[Foundational]** M. Miyanishi, T. Sugie. *Affine surfaces containing cylinderlike open sets.* Journal of Mathematics of Kyoto University 20 (1980), 11–42.
-- **[Foundational]** P. Russell. *On affine-ruled rational surfaces.* Mathematische Annalen 255 (1981), 287–302.
-- **[Foundational]** T. Asanuma. *Polynomial fibre rings of algebras over Noetherian rings.* Inventiones Mathematicae 87 (1987), 101–127.
+- **[Foundational]** M. Miyanishi, T. Sugie. *Affine surfaces containing cylinderlike open sets.* Journal of Mathematics of Kyoto University 20 (1980), 11–42. [DOI](https://doi.org/10.1215/kjm/1250522319)
+- **[Foundational]** P. Russell. *On affine-ruled rational surfaces.* Mathematische Annalen 255 (1981), 287–302. [DOI](https://doi.org/10.1007/bf01450704)
+- **[Foundational]** T. Asanuma. *Polynomial fibre rings of algebras over Noetherian rings.* Inventiones Mathematicae 87 (1987), 101–127. [DOI](https://doi.org/10.1007/bf01389155)
 - **[Key]** L. Makar-Limanov. *On the hypersurface $x + x^2y + z^2 + t^3 = 0$ in $\mathbb{C}^4$ or a $\mathbb{C}^3$-like threefold which is not $\mathbb{C}^3$.* Israel Journal of Mathematics 96 (1996), 419–429.
 - **[Key]** A. Beauville, J.-L. Colliot-Thélène, J.-J. Sansuc, P. Swinnerton-Dyer. *Variétés stablement rationnelles non rationnelles.* Annals of Mathematics 121 (1985), 283–318.
-- **[SOTA]** N. Gupta. *On the cancellation problem for the affine space $\mathbb{A}^3$ in characteristic $p$.* Inventiones Mathematicae 195 (2014), 279–288.
-- **[SOTA]** N. Gupta. *On Zariski's cancellation problem in positive characteristic.* Advances in Mathematics 264 (2014), 296–307.
+- **[SOTA]** N. Gupta. *On the cancellation problem for the affine space $\mathbb{A}^3$ in characteristic $p$.* Inventiones Mathematicae 195 (2014), 279–288. [DOI](https://doi.org/10.1007/s00222-013-0455-2)
+- **[SOTA]** N. Gupta. *On Zariski's cancellation problem in positive characteristic.* Advances in Mathematics 264 (2014), 296–307. [DOI](https://doi.org/10.1016/j.aim.2014.07.012)
 - **[SOTA]** N. Gupta. *On the family of affine threefolds $x^m y = F(x,z,t)$.* Compositio Mathematica 150 (2014), 979–998.
-- **[SOTA]** A. Dubouloz. *Additive group actions on Danielewski varieties and the cancellation problem.* Mathematische Zeitschrift 255 (2007), 77–93.
+- **[SOTA]** A. Dubouloz. *Additive group actions on Danielewski varieties and the cancellation problem.* Mathematische Zeitschrift 255 (2007), 77–93. [DOI](https://doi.org/10.1007/s00209-006-0013-3)
 - **[SOTA]** M. Hoyois, A. Krishna, P. A. Østvær. *$\mathbb{A}^1$-contractibility of Koras–Russell threefolds.* Algebraic Geometry 3 (2016), 407–423.
-- **[Survey]** N. Gupta. *The Zariski Cancellation Problem and related problems in affine algebraic geometry.* Proceedings of the ICM 2022, Vol. 3, EMS Press, 1578–1598.
+- **[Survey]** N. Gupta. *The Zariski Cancellation Problem and related problems in affine algebraic geometry.* Proceedings of the ICM 2022, Vol. 3, EMS Press, 1578–1598. [DOI](https://doi.org/10.4171/icm2022/151)
 - **[Survey]** H. Kraft. *Challenging problems on affine $n$-space.* Séminaire Bourbaki, Exp. 802, Astérisque 237 (1996), 295–317.
 - **[Book]** G. Freudenburg. *Algebraic Theory of Locally Nilpotent Derivations,* 2nd ed. Encyclopaedia of Mathematical Sciences 136, Springer, 2017.
 - **[Technical]** A. Sathaye. *Polynomial ring in two variables over a DVR: a criterion.* Inventiones Mathematicae 74 (1983), 159–168.

@@ -98,16 +98,16 @@ Missing: a Betti object $\mathcal{W} \in \mathrm{Shv}_{\mathcal{N}}(\mathrm{Bun}
 ## 9. Key References
 
 - **[Foundational]** D. Ben-Zvi, D. Nadler. *Betti Geometric Langlands.* In *Algebraic Geometry: Salt Lake City 2015*, Proc. Sympos. Pure Math. 97.2, American Mathematical Society, 2018.
-- **[Foundational]** D. Arinkin, D. Gaitsgory. *Singular support of coherent sheaves and the geometric Langlands conjecture.* Selecta Mathematica 21 (2015), 1–199.
-- **[Foundational]** A. Kapustin, E. Witten. *Electric-magnetic duality and the geometric Langlands program.* Communications in Number Theory and Physics 1 (2007), 1–236.
-- **[SOTA]** D. Nadler, Z. Yun. *Spectral action in Betti geometric Langlands.* Israel Journal of Mathematics 232 (2019), 299–349.
+- **[Foundational]** D. Arinkin, D. Gaitsgory. *Singular support of coherent sheaves and the geometric Langlands conjecture.* Selecta Mathematica 21 (2015), 1–199. [DOI](https://doi.org/10.1007/s00029-014-0167-5)
+- **[Foundational]** A. Kapustin, E. Witten. *Electric-magnetic duality and the geometric Langlands program.* Communications in Number Theory and Physics 1 (2007), 1–236. [DOI](https://doi.org/10.4310/cntp.2007.v1.n1.a1)
+- **[SOTA]** D. Nadler, Z. Yun. *Spectral action in Betti geometric Langlands.* Israel Journal of Mathematics 232 (2019), 299–349. [DOI](https://doi.org/10.1007/s11856-019-1871-9)
 - **[SOTA]** D. Nadler, Z. Yun. *Geometric Langlands correspondence for $\mathrm{SL}(2)$, $\mathrm{PGL}(2)$ over the pair of pants.* Compositio Mathematica 155 (2019), 324–371.
-- **[SOTA]** D. Ben-Zvi, D. Nadler. *Elliptic Springer theory.* Compositio Mathematica 151 (2015), 1568–1584.
-- **[SOTA]** P. Li, D. Nadler. *Uniformization of semistable bundles on elliptic curves.* Advances in Mathematics, 2021.
+- **[SOTA]** D. Ben-Zvi, D. Nadler. *Elliptic Springer theory.* Compositio Mathematica 151 (2015), 1568–1584. [DOI](https://doi.org/10.1112/s0010437x14008021)
+- **[SOTA]** P. Li, D. Nadler. *Uniformization of semistable bundles on elliptic curves.* Advances in Mathematics, 2021. [DOI](https://doi.org/10.1016/j.aim.2021.107572)
 - **[SOTA]** D. Gaitsgory, S. Raskin, et al. *Proof of the geometric Langlands conjecture I–V.* Preprint series, 2024.
-- **[Related]** S. Gunningham, D. Jordan, P. Safronov. *The finiteness conjecture for skein modules.* Inventiones mathematicae 232 (2023), 301–363.
-- **[Survey]** I. Mirković, K. Vilonen. *Geometric Langlands duality and representations of algebraic groups over commutative rings.* Annals of Mathematics 166 (2007), 95–143.
-- **[Survey]** O. Gabber, F. Loeser. *Faisceaux pervers $\ell$-adiques sur un tore.* Duke Mathematical Journal 83 (1996), 501–606.
+- **[Related]** S. Gunningham, D. Jordan, P. Safronov. *The finiteness conjecture for skein modules.* Inventiones mathematicae 232 (2023), 301–363. [DOI](https://doi.org/10.1007/s00222-022-01167-0)
+- **[Survey]** I. Mirković, K. Vilonen. *Geometric Langlands duality and representations of algebraic groups over commutative rings.* Annals of Mathematics 166 (2007), 95–143. [DOI](https://doi.org/10.4007/annals.2007.166.95)
+- **[Survey]** O. Gabber, F. Loeser. *Faisceaux pervers $\ell$-adiques sur un tore.* Duke Mathematical Journal 83 (1996), 501–606. [DOI](https://doi.org/10.1215/s0012-7094-96-08317-9)
 
 ## 10. Worked Example / Concrete Special Case
 

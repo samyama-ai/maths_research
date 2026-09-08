@@ -109,17 +109,17 @@ for $t\in[0,T)$, where $E$ is the (conjecturally analytic) singular set, with $C
 ## 9. Key References
 
 - **[Foundational]** H.-D. Cao. *Deformation of Kähler metrics to Kähler-Einstein metrics on compact Kähler manifolds.* Inventiones Mathematicae 81 (1985), 359-372.
-- **[Foundational]** M. Gill. *Convergence of the parabolic complex Monge-Ampère equation on compact Hermitian manifolds.* Communications in Analysis and Geometry 19 (2011), 277-303.
+- **[Foundational]** M. Gill. *Convergence of the parabolic complex Monge-Ampère equation on compact Hermitian manifolds.* Communications in Analysis and Geometry 19 (2011), 277-303. [DOI](https://doi.org/10.4310/cag.2011.v19.n2.a2)
 - **[Foundational]** V. Tosatti, B. Weinkove. *On the evolution of a Hermitian metric by its Chern-Ricci form.* Journal of Differential Geometry 99 (2015), 125-157.
-- **[Foundational]** V. Tosatti, B. Weinkove. *The Chern-Ricci flow on complex surfaces.* Compositio Mathematica 149 (2013), 2101-2138.
+- **[Foundational]** V. Tosatti, B. Weinkove. *The Chern-Ricci flow on complex surfaces.* Compositio Mathematica 149 (2013), 2101-2138. [DOI](https://doi.org/10.1112/s0010437x13007471)
 - **[SOTA / Recent]** M. Sherman, B. Weinkove. *Local Calabi and curvature estimates for the Chern-Ricci flow.* New York Journal of Mathematics 19 (2013), 565-582.
-- **[SOTA / Recent]** V. Tosatti, B. Weinkove, X. Yang. *Collapsing of the Chern-Ricci flow on elliptic surfaces.* Mathematische Annalen 362 (2015), 1223-1271.
-- **[SOTA / Recent]** S. Fang, V. Tosatti, B. Weinkove, T. Zheng. *Inoue surfaces and the Chern-Ricci flow.* Journal of Functional Analysis 271 (2016), 3162-3185.
-- **[SOTA / Recent]** X. Nie. *Weak solutions of the Chern-Ricci flow on compact complex surfaces.* Mathematical Research Letters 24 (2017), 1819-1844.
-- **[SOTA / Recent]** T. D. Tô. *Regularizing properties of complex Monge-Ampère flows II: Hermitian manifolds.* Mathematische Annalen 372 (2018), 699-741.
+- **[SOTA / Recent]** V. Tosatti, B. Weinkove, X. Yang. *Collapsing of the Chern-Ricci flow on elliptic surfaces.* Mathematische Annalen 362 (2015), 1223-1271. [DOI](https://doi.org/10.1007/s00208-014-1160-1)
+- **[SOTA / Recent]** S. Fang, V. Tosatti, B. Weinkove, T. Zheng. *Inoue surfaces and the Chern-Ricci flow.* Journal of Functional Analysis 271 (2016), 3162-3185. [DOI](https://doi.org/10.1016/j.jfa.2016.08.013)
+- **[SOTA / Recent]** X. Nie. *Weak solutions of the Chern-Ricci flow on compact complex surfaces.* Mathematical Research Letters 24 (2017), 1819-1844. [DOI](https://doi.org/10.4310/mrl.2017.v24.n6.a13)
+- **[SOTA / Recent]** T. D. Tô. *Regularizing properties of complex Monge-Ampère flows II: Hermitian manifolds.* Mathematische Annalen 372 (2018), 699-741. [DOI](https://doi.org/10.1007/s00208-017-1574-7)
 - **[Related flow]** J. Streets, G. Tian. *Hermitian curvature flow.* Journal of the European Mathematical Society 13 (2011), 601-634.
 - **[Survey]** V. Tosatti, B. Weinkove. *The Chern-Ricci flow.* Rendiconti dell'Istituto di Matematica dell'Università di Trieste 54 (2022).
-- **[Survey]** J. Song, B. Weinkove. *An introduction to the Kähler-Ricci flow.* In *An Introduction to the Kähler-Ricci Flow*, Lecture Notes in Mathematics 2086, Springer, 2013.
+- **[Survey]** J. Song, B. Weinkove. *An introduction to the Kähler-Ricci flow.* In *An Introduction to the Kähler-Ricci Flow*, Lecture Notes in Mathematics 2086, Springer, 2013. [DOI](https://doi.org/10.1007/978-3-319-00819-6_3)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -112,18 +112,18 @@ Concretely, the open sub-problem is: *classify all homogeneous $R$ of degree $2k
 
 ## 9. Key References
 
-- **[Foundational]** E. Fischer. *Über die Differentiationsprozesse der Algebra.* Journal für die reine und angewandte Mathematik **148** (1917), 1–78.
+- **[Foundational]** E. Fischer. *Über die Differentiationsprozesse der Algebra.* Journal für die reine und angewandte Mathematik **148** (1917), 1–78. [DOI](https://doi.org/10.1515/crll.1918.148.1)
 - **[Foundational]** N. M. Ferrers. *An Elementary Treatise on Spherical Harmonics and Subjects Connected with Them.* Macmillan, London, 1877.
-- **[Foundational]** D. Khavinson, H. S. Shapiro. *Dirichlet's problem when the data is an entire function.* Bulletin of the London Mathematical Society **24** (1992), 456–468.
-- **[Foundational]** H. S. Shapiro. *The Schwarz Function and Its Generalization to Higher Dimensions.* Wiley-Interscience, 1992.
-- **[SOTA]** H. Render. *Real Bargmann spaces, Fischer decompositions and sets of uniqueness for polyharmonic functions.* Duke Mathematical Journal **142** (2008), 313–352.
-- **[SOTA]** E. Lundberg, H. Render. *The Khavinson–Shapiro conjecture and polynomial decompositions.* Journal of Mathematical Analysis and Applications **376** (2011), 506–513.
-- **[SOTA]** H. Render. *A characterization of the Khavinson–Shapiro conjecture via Fischer operators.* Potential Analysis **45** (2016), 539–543.
-- **[Related]** S. Bell, P. Ebenfelt, D. Khavinson, H. S. Shapiro. *On the classical Dirichlet problem in the plane with rational data.* Journal d'Analyse Mathématique **100** (2006), 157–190.
-- **[Related]** D. H. Armitage. *The Dirichlet problem when the boundary function is entire.* Journal of Mathematical Analysis and Applications **291** (2004), 565–577.
-- **[Related]** M. Chamberland, D. Siegel. *Polynomial solutions to Dirichlet problems.* Proceedings of the American Mathematical Society **129** (2001), 211–217.
-- **[Survey]** D. Khavinson, E. Lundberg. *Linear Holomorphic Partial Differential Equations and Classical Potential Theory.* Mathematical Surveys and Monographs **232**, American Mathematical Society, 2018.
-- **[Survey]** D. Khavinson, E. Lundberg. *A tale of ellipsoids in potential theory.* Notices of the American Mathematical Society **61**(2) (2014), 148–156.
+- **[Foundational]** D. Khavinson, H. S. Shapiro. *Dirichlet's problem when the data is an entire function.* Bulletin of the London Mathematical Society **24** (1992), 456–468. [DOI](https://doi.org/10.1112/blms/24.5.456)
+- **[Foundational]** H. S. Shapiro. *The Schwarz Function and Its Generalization to Higher Dimensions.* Wiley-Interscience, 1992. [DOI](https://doi.org/10.1016/0378-4754(92)90026-d)
+- **[SOTA]** H. Render. *Real Bargmann spaces, Fischer decompositions and sets of uniqueness for polyharmonic functions.* Duke Mathematical Journal **142** (2008), 313–352. [DOI](https://doi.org/10.1215/00127094-2008-008)
+- **[SOTA]** E. Lundberg, H. Render. *The Khavinson–Shapiro conjecture and polynomial decompositions.* Journal of Mathematical Analysis and Applications **376** (2011), 506–513. [DOI](https://doi.org/10.1016/j.jmaa.2010.09.069)
+- **[SOTA]** H. Render. *A characterization of the Khavinson–Shapiro conjecture via Fischer operators.* Potential Analysis **45** (2016), 539–543. [DOI](https://doi.org/10.1007/s11118-016-9555-0)
+- **[Related]** S. Bell, P. Ebenfelt, D. Khavinson, H. S. Shapiro. *On the classical Dirichlet problem in the plane with rational data.* Journal d'Analyse Mathématique **100** (2006), 157–190. [DOI](https://doi.org/10.1007/bf02916759)
+- **[Related]** D. H. Armitage. *The Dirichlet problem when the boundary function is entire.* Journal of Mathematical Analysis and Applications **291** (2004), 565–577. [DOI](https://doi.org/10.1016/j.jmaa.2003.11.016)
+- **[Related]** M. Chamberland, D. Siegel. *Polynomial solutions to Dirichlet problems.* Proceedings of the American Mathematical Society **129** (2001), 211–217. [DOI](https://doi.org/10.1090/s0002-9939-00-05512-x)
+- **[Survey]** D. Khavinson, E. Lundberg. *Linear Holomorphic Partial Differential Equations and Classical Potential Theory.* Mathematical Surveys and Monographs **232**, American Mathematical Society, 2018. [DOI](https://doi.org/10.1090/surv/232)
+- **[Survey]** D. Khavinson, E. Lundberg. *A tale of ellipsoids in potential theory.* Notices of the American Mathematical Society **61**(2) (2014), 148–156. [DOI](https://doi.org/10.1090/noti1082)
 - **[Survey]** P. Ebenfelt, D. Khavinson, H. S. Shapiro. *Algebraic aspects of the Dirichlet problem.* In *Quadrature Domains and Their Applications*, Operator Theory: Advances and Applications **156**, Birkhäuser, 2005, 151–172.
 
 ## 10. Worked Example / Concrete Special Case

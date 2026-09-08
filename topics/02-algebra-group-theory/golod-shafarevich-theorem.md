@@ -109,16 +109,16 @@ Precisely:
 ## 9. Key References
 
 - **[Foundational]** E. S. Golod, I. R. Shafarevich. *On the class field tower.* Izv. Akad. Nauk SSSR Ser. Mat. 28 (1964), 261–272 (Russian); English transl. AMS Transl. (2) 48 (1965).
-- **[Foundational]** E. S. Golod. *On nil-algebras and finitely approximable $p$-groups.* Izv. Akad. Nauk SSSR Ser. Mat. 28 (1964), 273–276.
+- **[Foundational]** E. S. Golod. *On nil-algebras and finitely approximable $p$-groups.* Izv. Akad. Nauk SSSR Ser. Mat. 28 (1964), 273–276. [DOI](https://doi.org/10.1090/trans2/048/06)
 - **[Foundational]** E. B. Vinberg. *On the theorem concerning the infinite-dimensionality of an associative algebra.* Izv. Akad. Nauk SSSR Ser. Mat. 29 (1965), 209–214.
 - **[Foundational]** J. W. S. Cassels, A. Fröhlich (eds.). *Algebraic Number Theory.* Academic Press, 1967 (P. Roquette's chapter on the class field tower).
-- **[SOTA]** E. Zelmanov. *On groups satisfying the Golod–Shafarevich condition.* In *New Horizons in pro-$p$ Groups*, Progress in Mathematics 184, Birkhäuser, 2000, 223–232.
-- **[SOTA]** M. Ershov. *Golod–Shafarevich groups with property (T) and Kac–Moody groups.* Duke Mathematical Journal 145 (2008), 309–339.
-- **[SOTA]** M. Ershov, A. Jaikin-Zapirain. *Groups of positive weighted deficiency and their applications.* Journal für die reine und angewandte Mathematik (Crelle) 677 (2013), 71–134.
-- **[SOTA]** F. Hajir, C. Maire. *Tamely ramified towers and discriminant bounds for number fields.* Compositio Mathematica 128 (2001), 35–53.
-- **[Survey]** M. Ershov. *Golod–Shafarevich groups: a survey.* International Journal of Algebra and Computation 22 (2012), no. 5, 1230001.
+- **[SOTA]** E. Zelmanov. *On groups satisfying the Golod–Shafarevich condition.* In *New Horizons in pro-$p$ Groups*, Progress in Mathematics 184, Birkhäuser, 2000, 223–232. [DOI](https://doi.org/10.1007/978-1-4612-1380-2_7)
+- **[SOTA]** M. Ershov. *Golod–Shafarevich groups with property (T) and Kac–Moody groups.* Duke Mathematical Journal 145 (2008), 309–339. [DOI](https://doi.org/10.1215/00127094-2008-053)
+- **[SOTA]** M. Ershov, A. Jaikin-Zapirain. *Groups of positive weighted deficiency and their applications.* Journal für die reine und angewandte Mathematik (Crelle) 677 (2013), 71–134. [DOI](https://doi.org/10.1515/crelle.2012.013)
+- **[SOTA]** F. Hajir, C. Maire. *Tamely ramified towers and discriminant bounds for number fields.* Compositio Mathematica 128 (2001), 35–53. [DOI](https://doi.org/10.1023/a:1017537415688)
+- **[Survey]** M. Ershov. *Golod–Shafarevich groups: a survey.* International Journal of Algebra and Computation 22 (2012), no. 5, 1230001. [DOI](https://doi.org/10.1142/s0218196712300010)
 - **[Survey]** H. Koch. *Galois Theory of $p$-Extensions.* Springer Monographs in Mathematics, Springer, 2002.
-- **[Survey]** J. Martinet. *Tours de corps de classes et estimations de discriminants.* Inventiones Mathematicae 44 (1978), 65–73.
+- **[Survey]** J. Martinet. *Tours de corps de classes et estimations de discriminants.* Inventiones Mathematicae 44 (1978), 65–73. [DOI](https://doi.org/10.1007/bf01389902)
 
 ## 10. Worked Example / Concrete Special Case
 

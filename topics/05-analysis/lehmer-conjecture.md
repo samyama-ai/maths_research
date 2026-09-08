@@ -117,19 +117,19 @@ The precise missing step: an auxiliary construction that, for a reciprocal $f$ o
 
 ## 9. Key References
 
-- **[Foundational]** D. H. Lehmer. *Factorization of certain cyclotomic functions.* Annals of Mathematics **34** (1933), 461–479.
-- **[Foundational]** C. J. Smyth. *On the product of the conjugates outside the unit circle of an algebraic integer.* Bulletin of the London Mathematical Society **3** (1971), 169–175.
-- **[Foundational]** E. Dobrowolski. *On a question of Lehmer and the number of irreducible factors of a polynomial.* Acta Arithmetica **34** (1979), 391–401.
-- **[Effective bound]** P. Voutier. *An effective lower bound for the height of algebraic numbers.* Acta Arithmetica **74** (1996), 81–95.
-- **[SOTA]** P. Borwein, E. Dobrowolski, M. J. Mossinghoff. *Lehmer's problem for polynomials with odd coefficients.* Annals of Mathematics **166** (2007), 347–366.
-- **[SOTA]** F. Amoroso, S. David. *Le problème de Lehmer en dimension supérieure.* Journal für die reine und angewandte Mathematik (Crelle) **513** (1999), 145–179.
+- **[Foundational]** D. H. Lehmer. *Factorization of certain cyclotomic functions.* Annals of Mathematics **34** (1933), 461–479. [DOI](https://doi.org/10.2307/1968172)
+- **[Foundational]** C. J. Smyth. *On the product of the conjugates outside the unit circle of an algebraic integer.* Bulletin of the London Mathematical Society **3** (1971), 169–175. [DOI](https://doi.org/10.1112/blms/3.2.169)
+- **[Foundational]** E. Dobrowolski. *On a question of Lehmer and the number of irreducible factors of a polynomial.* Acta Arithmetica **34** (1979), 391–401. [DOI](https://doi.org/10.4064/aa-34-4-391-401)
+- **[Effective bound]** P. Voutier. *An effective lower bound for the height of algebraic numbers.* Acta Arithmetica **74** (1996), 81–95. [DOI](https://doi.org/10.4064/aa-74-1-81-95)
+- **[SOTA]** P. Borwein, E. Dobrowolski, M. J. Mossinghoff. *Lehmer's problem for polynomials with odd coefficients.* Annals of Mathematics **166** (2007), 347–366. [DOI](https://doi.org/10.4007/annals.2007.166.347)
+- **[SOTA]** F. Amoroso, S. David. *Le problème de Lehmer en dimension supérieure.* Journal für die reine und angewandte Mathematik (Crelle) **513** (1999), 145–179. [DOI](https://doi.org/10.1515/crll.1999.058)
 - **[SOTA]** F. Amoroso, U. Zannier. *A relative Dobrowolski lower bound over abelian extensions.* Annali della Scuola Normale Superiore di Pisa **29** (2000), 711–727.
 - **[SOTA]** V. Dimitrov. *A proof of the Schinzel–Zassenhaus conjecture on polynomials.* arXiv:1912.12545 (2019).
-- **[Computational]** M. J. Mossinghoff. *Polynomials with small Mahler measure.* Mathematics of Computation **67** (1998), 1697–1705.
-- **[Computational]** M. J. Mossinghoff, G. Rhin, Q. Wu. *Minimal Mahler measures.* Experimental Mathematics **17** (2008), 451–458.
-- **[Survey]** C. J. Smyth. *The Mahler measure of algebraic numbers: a survey.* In *Number Theory and Polynomials*, LMS Lecture Note Series 352, Cambridge University Press, 2008, 322–349.
-- **[Survey]** E. Ghate, E. Hironaka. *The arithmetic and geometry of Salem numbers.* Bulletin of the American Mathematical Society **38** (2001), 293–314.
-- **[Book]** P. Borwein. *Computational Excursions in Analysis and Number Theory.* CMS Books in Mathematics, Springer, 2002.
+- **[Computational]** M. J. Mossinghoff. *Polynomials with small Mahler measure.* Mathematics of Computation **67** (1998), 1697–1705. [DOI](https://doi.org/10.1090/s0025-5718-98-01006-0)
+- **[Computational]** M. J. Mossinghoff, G. Rhin, Q. Wu. *Minimal Mahler measures.* Experimental Mathematics **17** (2008), 451–458. [DOI](https://doi.org/10.1080/10586458.2008.10128872)
+- **[Survey]** C. J. Smyth. *The Mahler measure of algebraic numbers: a survey.* In *Number Theory and Polynomials*, LMS Lecture Note Series 352, Cambridge University Press, 2008, 322–349. [DOI](https://doi.org/10.1017/cbo9780511721274.021)
+- **[Survey]** E. Ghate, E. Hironaka. *The arithmetic and geometry of Salem numbers.* Bulletin of the American Mathematical Society **38** (2001), 293–314. [DOI](https://doi.org/10.1090/s0273-0979-01-00902-8)
+- **[Book]** P. Borwein. *Computational Excursions in Analysis and Number Theory.* CMS Books in Mathematics, Springer, 2002. [DOI](https://doi.org/10.1007/978-0-387-21652-2)
 
 ## 10. Worked Example / Concrete Special Case
 

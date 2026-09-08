@@ -112,22 +112,22 @@ The precise barrier: given $A = \mathbb{C}[X,Y,Z]$ and $f$ with $A/(f)\cong\math
 
 ## 9. Key References
 
-- **[Foundational]** S. S. Abhyankar and T. T. Moh. *Embeddings of the line in the plane.* Journal für die reine und angewandte Mathematik **276** (1975), 148–166.
+- **[Foundational]** S. S. Abhyankar and T. T. Moh. *Embeddings of the line in the plane.* Journal für die reine und angewandte Mathematik **276** (1975), 148–166. [DOI](https://doi.org/10.1515/crll.1975.276.148)
 - **[Foundational]** M. Suzuki. *Propriétés topologiques des polynômes de deux variables complexes, et automorphismes algébriques de l'espace $\mathbb{C}^2$.* Journal of the Mathematical Society of Japan **26** (1974), 241–257.
-- **[Foundational]** H. W. E. Jung. *Über ganze birationale Transformationen der Ebene.* J. reine angew. Math. **184** (1942), 161–174.
+- **[Foundational]** H. W. E. Jung. *Über ganze birationale Transformationen der Ebene.* J. reine angew. Math. **184** (1942), 161–174. [DOI](https://doi.org/10.1515/crll.1942.184.161)
 - **[Foundational]** W. van der Kulk. *On polynomial rings in two variables.* Nieuw Archief voor Wiskunde (3) **1** (1953), 33–41.
 - **[Foundational]** M. Nagata. *On Automorphism Group of $k[x,y]$.* Lectures in Mathematics 5, Kinokuniya, Tokyo, 1972.
 - **[Structural]** A. Sathaye. *On linear planes.* Proceedings of the American Mathematical Society **56** (1976), 1–7.
 - **[Structural]** P. Russell. *Simple birational extensions of two dimensional affine rational domains.* Compositio Mathematica **33** (1976), 197–208.
 - **[Structural]** A. Sathaye. *Polynomial ring in two variables over a DVR: a criterion.* Inventiones Mathematicae **74** (1983), 159–168.
-- **[Structural]** S. M. Bhatwadekar and A. K. Dutta. *Linear planes over a discrete valuation ring.* Journal of Algebra **166** (1994), 393–405.
-- **[Structural]** R. Ganong. *On plane curves with one place at infinity.* J. reine angew. Math. **307/308** (1979), 173–193.
+- **[Structural]** S. M. Bhatwadekar and A. K. Dutta. *Linear planes over a discrete valuation ring.* Journal of Algebra **166** (1994), 393–405. [DOI](https://doi.org/10.1006/jabr.1994.1159)
+- **[Structural]** R. Ganong. *On plane curves with one place at infinity.* J. reine angew. Math. **307/308** (1979), 173–193. [DOI](https://doi.org/10.1515/crll.1979.307-308.173)
 - **[SOTA]** S. Kaliman. *Polynomials with general $\mathbb{C}^2$-fibers are variables.* Pacific Journal of Mathematics **203** (2002), 161–190.
-- **[SOTA]** I. Shestakov and U. Umirbaev. *The tame and the wild automorphisms of polynomial rings in three variables.* Journal of the AMS **17** (2004), 197–227.
+- **[SOTA]** I. Shestakov and U. Umirbaev. *The tame and the wild automorphisms of polynomial rings in three variables.* Journal of the AMS **17** (2004), 197–227. [DOI](https://doi.org/10.1090/s0894-0347-03-00440-5)
 - **[SOTA]** N. Gupta. *On the family of affine threefolds $x^m y = F(x,z,t)$.* Compositio Mathematica **150** (2014), 979–998.
 - **[SOTA]** G. Freudenburg. *The Vénéreau polynomials relative to $\mathbb{C}^*$-fibrations and stable coordinates.* In *Affine Algebraic Geometry*, Contemporary Mathematics, AMS, 2005.
 - **[Survey]** H. Kraft. *Challenging problems on affine $n$-space.* Séminaire Bourbaki 1994/95, Exp. 802, Astérisque **237** (1996), 295–317.
-- **[Survey]** A. van den Essen. *Polynomial Automorphisms and the Jacobian Conjecture.* Progress in Mathematics 190, Birkhäuser, 2000.
+- **[Survey]** A. van den Essen. *Polynomial Automorphisms and the Jacobian Conjecture.* Progress in Mathematics 190, Birkhäuser, 2000. [DOI](https://doi.org/10.2307/3621827)
 - **[Survey]** G. Freudenburg. *Algebraic Theory of Locally Nilpotent Derivations.* 2nd ed., Encyclopaedia of Mathematical Sciences 136, Springer, 2017.
 
 ## 10. Worked Example / Concrete Special Case

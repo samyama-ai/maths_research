@@ -117,18 +117,18 @@ together with a proof that $C$ holds for the natural test classes: $\Sigma^\inft
 
 ## 9. Key References
 
-- **[Foundational]** D. C. Ravenel. *Localization with respect to certain periodic homology theories.* American Journal of Mathematics 106 (1984), 351–414.
-- **[Foundational]** A. K. Bousfield. *The localization of spectra with respect to homology.* Topology 18 (1979), 257–281.
+- **[Foundational]** D. C. Ravenel. *Localization with respect to certain periodic homology theories.* American Journal of Mathematics 106 (1984), 351–414. [DOI](https://doi.org/10.2307/2374308)
+- **[Foundational]** A. K. Bousfield. *The localization of spectra with respect to homology.* Topology 18 (1979), 257–281. [DOI](https://doi.org/10.1016/0040-9383(79)90018-1)
 - **[Foundational]** D. C. Johnson, W. S. Wilson. *BP operations and Morava's extraordinary K-theories.* Mathematische Zeitschrift 144 (1975), 55–75.
 - **[Proof]** D. C. Ravenel. *Nilpotence and Periodicity in Stable Homotopy Theory.* Annals of Mathematics Studies 128, Princeton University Press, 1992. (Chromatic convergence: Theorem 7.5.7; smash product theorem: Theorem 7.5.6.)
 - **[Foundational]** E. S. Devinatz, M. J. Hopkins, J. H. Smith. *Nilpotence and stable homotopy theory I.* Annals of Mathematics 128 (1988), 207–241.
 - **[Foundational]** M. J. Hopkins, J. H. Smith. *Nilpotence and stable homotopy theory II.* Annals of Mathematics 148 (1998), 1–49.
 - **[Related]** M. J. Hopkins, D. C. Ravenel. *Suspension spectra are harmonic.* Boletín de la Sociedad Matemática Mexicana (2) 37 (1992), 271–279.
 - **[Structural]** M. Hovey, N. P. Strickland. *Morava K-theories and localisation.* Memoirs of the American Mathematical Society 139, no. 666, 1999.
-- **[SOTA]** T. Barthel. *Chromatic completion.* Proceedings of the American Mathematical Society 144 (2016), 2263–2274.
+- **[SOTA]** T. Barthel. *Chromatic completion.* Proceedings of the American Mathematical Society 144 (2016), 2263–2274. [DOI](https://doi.org/10.1090/proc/12867)
 - **[SOTA / Recent]** R. Burklund, J. Hahn, I. Levy, T. M. Schlank. *K-theoretic counterexamples to Ravenel's telescope conjecture.* arXiv:2310.17459, 2023.
 - **[SOTA / Recent]** R. Burklund, T. M. Schlank, A. Yuan. *The chromatic Nullstellensatz.* arXiv:2207.09929, 2022.
-- **[Survey]** T. Barthel, A. Beaudry. *Chromatic structures in stable homotopy theory.* In *Handbook of Homotopy Theory* (H. Miller, ed.), CRC Press, 2020.
+- **[Survey]** T. Barthel, A. Beaudry. *Chromatic structures in stable homotopy theory.* In *Handbook of Homotopy Theory* (H. Miller, ed.), CRC Press, 2020. [DOI](https://doi.org/10.1201/9781351251624-5)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -104,17 +104,17 @@ Even the weaker statement "there exists a universal $C > 0$ with $\operatorname{
 
 ## 9. Key References
 
-- **[Foundational]** H. Seifert. *Über das Geschlecht von Knoten.* Mathematische Annalen 110 (1934), 571–592.
-- **[Foundational]** R. H. Crowell. *Genus of alternating link types.* Annals of Mathematics 69 (1959), 258–275.
-- **[Foundational]** K. Murasugi. *On the genus of the alternating knot, I & II.* Journal of the Mathematical Society of Japan 10 (1958), 94–105 and 235–248.
+- **[Foundational]** H. Seifert. *Über das Geschlecht von Knoten.* Mathematische Annalen 110 (1934), 571–592. [DOI](https://doi.org/10.1007/bf01448044)
+- **[Foundational]** R. H. Crowell. *Genus of alternating link types.* Annals of Mathematics 69 (1959), 258–275. [DOI](https://doi.org/10.2307/1970181)
+- **[Foundational]** K. Murasugi. *On the genus of the alternating knot, I & II.* Journal of the Mathematical Society of Japan 10 (1958), 94–105 and 235–248. [DOI](https://doi.org/10.2969/jmsj/01030235)
 - **[Foundational]** R. H. Fox. *Some problems in knot theory.* In: Topology of 3-Manifolds and Related Topics, Prentice-Hall, 1962, 168–176.
 - **[Computational]** J. Hoste, M. Thistlethwaite, J. Weeks. *The First 1,701,936 Knots.* The Mathematical Intelligencer 20 (1998), no. 4, 33–48.
-- **[SOTA / Recent]** L. Lyubich, K. Murasugi. *On zeros of the Alexander polynomial of an alternating knot.* Topology and its Applications 159 (2012), 290–303.
+- **[SOTA / Recent]** L. Lyubich, K. Murasugi. *On zeros of the Alexander polynomial of an alternating knot.* Topology and its Applications 159 (2012), 290–303. [DOI](https://doi.org/10.1016/j.topol.2011.09.035)
 - **[SOTA / Recent]** M. Hirasawa, K. Murasugi. *Various stabilities of the Alexander polynomials of knots and links.* arXiv preprint arXiv:1307.1578, 2013.
 - **[SOTA / Recent]** A. Stoimenow. *Hoste's conjecture and roots of link polynomials.* Annales mathématiques Blaise Pascal, 2015.
-- **[Related]** E. Hironaka. *The Lehmer polynomial and pretzel links.* Canadian Mathematical Bulletin 44 (2001), 440–451.
-- **[Related]** D. Silver, S. Williams. *Mahler measure, links and homology growth.* Topology 41 (2002), 979–991.
-- **[Tool]** N. Anderson, E. B. Saff, R. S. Varga. *On the Eneström–Kakeya theorem and its sharpness.* Linear Algebra and its Applications 28 (1979), 5–16.
+- **[Related]** E. Hironaka. *The Lehmer polynomial and pretzel links.* Canadian Mathematical Bulletin 44 (2001), 440–451. [DOI](https://doi.org/10.4153/cmb-2001-044-x)
+- **[Related]** D. Silver, S. Williams. *Mahler measure, links and homology growth.* Topology 41 (2002), 979–991. [DOI](https://doi.org/10.1016/s0040-9383(01)00014-3)
+- **[Tool]** N. Anderson, E. B. Saff, R. S. Varga. *On the Eneström–Kakeya theorem and its sharpness.* Linear Algebra and its Applications 28 (1979), 5–16. [DOI](https://doi.org/10.1016/0024-3795(79)90113-7)
 - **[Survey / Textbook]** W. B. R. Lickorish. *An Introduction to Knot Theory.* Graduate Texts in Mathematics 175, Springer, 1997.
 
 ## 10. Worked Example / Concrete Special Case

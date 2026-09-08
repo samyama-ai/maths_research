@@ -107,16 +107,16 @@ The precise step to be crossed: show that any finitely generated division algebr
 
 ## 9. Key References
 
-- **[Foundational]** L. Makar-Limanov. *The skew field of fractions of the Weyl algebra contains a free noncommutative subalgebra.* Communications in Algebra 11 (1983), 2003–2006.
-- **[Foundational]** L. Makar-Limanov. *On free subobjects of skew fields.* In: Methods in Ring Theory (Antwerp, 1983), NATO ASI Series C 129, Reidel, 1984.
-- **[Foundational]** A. I. Lichtman. *On subgroups of the multiplicative group of skew fields.* Proceedings of the American Mathematical Society 63 (1977), 15–16.
-- **[Partial results]** M. Lorenz. *On free subalgebras of certain division algebras.* Proceedings of the American Mathematical Society 98 (1986), 401–405.
-- **[Partial results]** L. Makar-Limanov, P. Malcolmson. *Free subalgebras of enveloping fields.* Proceedings of the American Mathematical Society 111 (1991), 315–322.
-- **[Partial results]** K. Chiba. *Free subgroups and free subsemigroups of division rings.* Journal of Algebra 184 (1996), 570–574.
-- **[SOTA]** J. P. Bell. *Division algebras of Gelfand–Kirillov transcendence degree 2.* Israel Journal of Mathematics 171 (2009), 51–60.
-- **[SOTA]** J. P. Bell, D. Rogalski. *Free subalgebras of quotient rings of Ore extensions.* Algebra & Number Theory 6 (2012), 1349–1367.
-- **[SOTA]** J. P. Bell, D. Rogalski. *Free subalgebras of division algebras over uncountable fields.* Mathematische Zeitschrift 277 (2014), 591–609.
-- **[Survey]** J. Z. Gonçalves, M. Shirvani. *A survey on free objects in division rings and in division rings with an involution.* Communications in Algebra 40 (2012), 1704–1723.
+- **[Foundational]** L. Makar-Limanov. *The skew field of fractions of the Weyl algebra contains a free noncommutative subalgebra.* Communications in Algebra 11 (1983), 2003–2006. [DOI](https://doi.org/10.1080/00927878308822945)
+- **[Foundational]** L. Makar-Limanov. *On free subobjects of skew fields.* In: Methods in Ring Theory (Antwerp, 1983), NATO ASI Series C 129, Reidel, 1984. [DOI](https://doi.org/10.1007/978-94-009-6369-6_20)
+- **[Foundational]** A. I. Lichtman. *On subgroups of the multiplicative group of skew fields.* Proceedings of the American Mathematical Society 63 (1977), 15–16. [DOI](https://doi.org/10.1090/s0002-9939-1977-0447432-0)
+- **[Partial results]** M. Lorenz. *On free subalgebras of certain division algebras.* Proceedings of the American Mathematical Society 98 (1986), 401–405. [DOI](https://doi.org/10.1090/s0002-9939-1986-0857930-9)
+- **[Partial results]** L. Makar-Limanov, P. Malcolmson. *Free subalgebras of enveloping fields.* Proceedings of the American Mathematical Society 111 (1991), 315–322. [DOI](https://doi.org/10.1090/s0002-9939-1991-1041015-7)
+- **[Partial results]** K. Chiba. *Free subgroups and free subsemigroups of division rings.* Journal of Algebra 184 (1996), 570–574. [DOI](https://doi.org/10.1006/jabr.1996.0275)
+- **[SOTA]** J. P. Bell. *Division algebras of Gelfand–Kirillov transcendence degree 2.* Israel Journal of Mathematics 171 (2009), 51–60. [DOI](https://doi.org/10.1007/s11856-009-0039-4)
+- **[SOTA]** J. P. Bell, D. Rogalski. *Free subalgebras of quotient rings of Ore extensions.* Algebra & Number Theory 6 (2012), 1349–1367. [DOI](https://doi.org/10.2140/ant.2012.6.1349)
+- **[SOTA]** J. P. Bell, D. Rogalski. *Free subalgebras of division algebras over uncountable fields.* Mathematische Zeitschrift 277 (2014), 591–609. [DOI](https://doi.org/10.1007/s00209-013-1267-1)
+- **[Survey]** J. Z. Gonçalves, M. Shirvani. *A survey on free objects in division rings and in division rings with an involution.* Communications in Algebra 40 (2012), 1704–1723. [DOI](https://doi.org/10.1080/00927872.2011.554934)
 - **[Background]** P. M. Cohn. *Skew Fields: Theory of General Division Rings.* Cambridge University Press, 1995.
 - **[Background]** G. R. Krause, T. H. Lenagan. *Growth of Algebras and Gelfand–Kirillov Dimension.* Revised edition, AMS Graduate Studies in Mathematics 22, 2000.
 

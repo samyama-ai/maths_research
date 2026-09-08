@@ -97,16 +97,16 @@ Proven: $R(x)\ll x^{\Theta/2+\varepsilon}$ with $\Theta\le 1$ (plus a sub-polyno
 ## 9. Key References
 
 - **[Foundational]** M. Riesz. *Sur l'hypothèse de Riemann.* Acta Mathematica **40** (1916), 185–190.
-- **[Foundational]** G. H. Hardy, J. E. Littlewood. *Contributions to the Theory of the Riemann Zeta-Function and the Theory of the Distribution of Primes.* Acta Mathematica **41** (1916), 119–196.
+- **[Foundational]** G. H. Hardy, J. E. Littlewood. *Contributions to the Theory of the Riemann Zeta-Function and the Theory of the Distribution of Primes.* Acta Mathematica **41** (1916), 119–196. [DOI](https://doi.org/10.1007/bf02422942)
 - **[Textbook]** E. C. Titchmarsh. *The Theory of the Riemann Zeta-Function*, 2nd ed., revised by D. R. Heath-Brown. Oxford University Press, 1986. (§14.32, Riesz's criterion.)
-- **[Foundational]** L. Báez-Duarte. *A sequential Riesz-like criterion for the Riemann hypothesis.* International Journal of Mathematics and Mathematical Sciences **2005**:21 (2005), 3527–3537.
+- **[Foundational]** L. Báez-Duarte. *A sequential Riesz-like criterion for the Riemann hypothesis.* International Journal of Mathematics and Mathematical Sciences **2005**:21 (2005), 3527–3537. [DOI](https://doi.org/10.1155/ijmms.2005.3527)
 - **[Foundational]** L. Báez-Duarte. *A strengthening of the Nyman–Beurling criterion for the Riemann hypothesis.* Atti della Accademia Nazionale dei Lincei, Rendiconti Lincei Mat. Appl. **14** (2003), 5–11.
 - **[Related]** L. Báez-Duarte, M. Balazard, B. Landreau, E. Saias. *Notes sur la fonction $\zeta$ de Riemann, 3.* Advances in Mathematics **149** (2000), 130–144.
-- **[SOTA / Recent]** A. Dixit, A. Roy, A. Zaharescu. *Riesz-type criteria and theta transformation analogues.* Journal of Number Theory **160** (2016), 385–408.
+- **[SOTA / Recent]** A. Dixit, A. Roy, A. Zaharescu. *Riesz-type criteria and theta transformation analogues.* Journal of Number Theory **160** (2016), 385–408. [DOI](https://doi.org/10.1016/j.jnt.2015.08.005)
 - **[SOTA / Recent]** M. Wolf. *Evidence in favor of the Báez-Duarte criterion for the Riemann Hypothesis.* Computational Methods in Science and Technology **14** (2008), 47–54.
 - **[Recent]** J. Cisło, M. Wolf. *Equivalence of the Riesz and Báez-Duarte criteria for the Riemann Hypothesis.* Preprint, 2008.
 - **[Survey]** E. Bombieri. *Problems of the Millennium: The Riemann Hypothesis.* Clay Mathematics Institute, 2000.
-- **[Survey]** P. Borwein, S. Choi, B. Rooney, A. Weirathmueller (eds.). *The Riemann Hypothesis: A Resource for the Afficionado and Virtuoso Alike.* Springer (CMS Books in Mathematics), 2008.
+- **[Survey]** P. Borwein, S. Choi, B. Rooney, A. Weirathmueller (eds.). *The Riemann Hypothesis: A Resource for the Afficionado and Virtuoso Alike.* Springer (CMS Books in Mathematics), 2008. [DOI](https://doi.org/10.5860/choice.45-6847)
 
 ## 10. Worked Example / Concrete Special Case
 

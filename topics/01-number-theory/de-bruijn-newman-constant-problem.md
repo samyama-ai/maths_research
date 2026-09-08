@@ -73,10 +73,10 @@ Leading mathematicians suggest two parallel tracks for future inquiry:
 
 ## 9. Key References
 
-- **[Foundational]** De Bruijn, N.G. *The roots of trigonometric integrals.* Duke Mathematical Journal, 1950.
-- **[Foundational]** Newman, C.M. *Fourier transforms with only real zeros.* Proceedings of the American Mathematical Society, 1976.
-- **[SOTA / Recent]** Rodgers, B., & Tao, T. *The De Bruijn-Newman constant is non-negative.* Forum of Mathematics, Pi, 2020.
-- **[SOTA / Recent]** D.H.J. Polymath. *Effective approximation of heat flow evolution of the Riemann $\xi$ function, and a new upper bound for the de Bruijn-Newman constant.* Research in the Mathematical Sciences, 2019.
+- **[Foundational]** De Bruijn, N.G. *The roots of trigonometric integrals.* Duke Mathematical Journal, 1950. [DOI](https://doi.org/10.1215/s0012-7094-50-01720-0)
+- **[Foundational]** Newman, C.M. *Fourier transforms with only real zeros.* Proceedings of the American Mathematical Society, 1976. [DOI](https://doi.org/10.1090/s0002-9939-1976-0434982-5)
+- **[SOTA / Recent]** Rodgers, B., & Tao, T. *The De Bruijn-Newman constant is non-negative.* Forum of Mathematics, Pi, 2020. [DOI](https://doi.org/10.1017/fmp.2020.6)
+- **[SOTA / Recent]** D.H.J. Polymath. *Effective approximation of heat flow evolution of the Riemann $\xi$ function, and a new upper bound for the de Bruijn-Newman constant.* Research in the Mathematical Sciences, 2019. [DOI](https://doi.org/10.1007/s40687-019-0193-1)
 - **[SOTA / Recent]** Platt, D., & Trudgian, T. *The Riemann hypothesis is true up to $3 \cdot 10^{12}$.* Bulletin of the London Mathematical Society, 2021.
 
 ## 10. Worked Example / Concrete Special Case

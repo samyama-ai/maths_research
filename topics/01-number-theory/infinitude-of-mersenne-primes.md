@@ -87,10 +87,10 @@ Leading mathematicians suggest several long-term research strategies:
 
 ## 9. Key References
 
-- **[Foundational]** D. H. Lehmer. *An Extended Theory of Lucas' Functions.* Annals of Mathematics, 1930.
-- **[Foundational]** S. S. Wagstaff Jr. *Divisors of Mersenne numbers.* Mathematics of Computation, 1983.
+- **[Foundational]** D. H. Lehmer. *An Extended Theory of Lucas' Functions.* Annals of Mathematics, 1930. [DOI](https://doi.org/10.2307/1968235)
+- **[Foundational]** S. S. Wagstaff Jr. *Divisors of Mersenne numbers.* Mathematics of Computation, 1983. [DOI](https://doi.org/10.1090/s0025-5718-1983-0679454-x)
 - **[SOTA / Recent]** R. Crandall and C. Pomerance. *Prime Numbers: A Computational Perspective.* Springer, 2005.
-- **[Survey]** C. Pomerance. *Recent developments in primality testing.* The Mathematical Intelligencer, 1981.
+- **[Survey]** C. Pomerance. *Recent developments in primality testing.* The Mathematical Intelligencer, 1981. [DOI](https://doi.org/10.1007/bf03022861)
 
 ## 10. Worked Example / Concrete Special Case
 

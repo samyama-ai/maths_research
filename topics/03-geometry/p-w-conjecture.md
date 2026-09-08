@@ -125,22 +125,22 @@ For $\mathrm{GL}_n$ with $\gcd(n,d)=1$ there is now no gap: the statement of Sec
 
 ## 9. Key References
 
-- **[Foundational]** N. Hitchin. *The self-duality equations on a Riemann surface.* Proc. London Math. Soc. (3) 55 (1987), 59–126.
-- **[Foundational]** C. Simpson. *Moduli of representations of the fundamental group of a smooth projective variety, I & II.* Publ. Math. IHÉS 79 (1994), 47–129; 80 (1994), 5–79.
-- **[Foundational]** K. Corlette. *Flat $G$-bundles with canonical metrics.* J. Differential Geom. 28 (1988), 361–382.
-- **[Foundational]** M. de Cataldo, L. Migliorini. *The perverse filtration and the Lefschetz hyperplane theorem.* Ann. of Math. 171 (2010), 2089–2113.
-- **[Foundational]** T. Hausel, F. Rodriguez-Villegas. *Mixed Hodge polynomials of character varieties.* Invent. Math. 174 (2008), 555–624.
-- **[Foundational]** M. de Cataldo, T. Hausel, L. Migliorini. *Topology of Hitchin systems and Hodge theory of character varieties: the case $A_1$.* Ann. of Math. 175 (2012), 1329–1407.
-- **[SOTA]** D. Maulik, J. Shen. *The P=W conjecture for $\mathrm{GL}_n$.* Ann. of Math. 200 (2024), 529–556.
+- **[Foundational]** N. Hitchin. *The self-duality equations on a Riemann surface.* Proc. London Math. Soc. (3) 55 (1987), 59–126. [DOI](https://doi.org/10.1112/plms/s3-55.1.59)
+- **[Foundational]** C. Simpson. *Moduli of representations of the fundamental group of a smooth projective variety, I & II.* Publ. Math. IHÉS 79 (1994), 47–129; 80 (1994), 5–79. [DOI](https://doi.org/10.1007/bf02698895)
+- **[Foundational]** K. Corlette. *Flat $G$-bundles with canonical metrics.* J. Differential Geom. 28 (1988), 361–382. [DOI](https://doi.org/10.4310/jdg/1214442469)
+- **[Foundational]** M. de Cataldo, L. Migliorini. *The perverse filtration and the Lefschetz hyperplane theorem.* Ann. of Math. 171 (2010), 2089–2113. [DOI](https://doi.org/10.4007/annals.2010.171.2089)
+- **[Foundational]** T. Hausel, F. Rodriguez-Villegas. *Mixed Hodge polynomials of character varieties.* Invent. Math. 174 (2008), 555–624. [DOI](https://doi.org/10.1007/s00222-008-0142-x)
+- **[Foundational]** M. de Cataldo, T. Hausel, L. Migliorini. *Topology of Hitchin systems and Hodge theory of character varieties: the case $A_1$.* Ann. of Math. 175 (2012), 1329–1407. [DOI](https://doi.org/10.4007/annals.2012.175.3.7)
+- **[SOTA]** D. Maulik, J. Shen. *The P=W conjecture for $\mathrm{GL}_n$.* Ann. of Math. 200 (2024), 529–556. [DOI](https://doi.org/10.4007/annals.2024.200.2.3)
 - **[SOTA]** T. Hausel, A. Mellit, A. Minets, O. Schiffmann. *P=W via $H_2$.* arXiv:2209.05429 (2022).
-- **[SOTA]** M. de Cataldo, D. Maulik, A. Neguț. *Hitchin fibrations, abelian surfaces, and the P=W conjecture.* J. Amer. Math. Soc. 35 (2022), 911–953.
-- **[SOTA]** D. Maulik, J. Shen. *Cohomological $\chi$-independence for moduli of one-dimensional sheaves and moduli of Higgs bundles.* Geom. Topol. 27 (2023), 1539–1586.
-- **[SOTA]** A. Mellit. *Poincaré polynomials of character varieties, Macdonald polynomials and affine Springer fibers.* Ann. of Math. 192 (2020), 165–228.
-- **[SOTA]** C. Felisetti, M. Mauri. *P=W conjectures for character varieties with symplectic resolution.* J. Éc. polytech. Math. 9 (2022), 853–905.
-- **[SOTA]** J. Shen, Z. Zhang. *Perverse filtrations, Hilbert schemes, and the P=W conjecture for parabolic Higgs bundles.* Algebraic Geometry 8 (2021), 465–489.
-- **[SOTA]** M. Groechenig, D. Wyss, P. Ziegler. *Mirror symmetry for moduli spaces of Higgs bundles via p-adic integration.* Invent. Math. 221 (2020), 505–596.
+- **[SOTA]** M. de Cataldo, D. Maulik, A. Neguț. *Hitchin fibrations, abelian surfaces, and the P=W conjecture.* J. Amer. Math. Soc. 35 (2022), 911–953. [DOI](https://doi.org/10.1090/jams/989)
+- **[SOTA]** D. Maulik, J. Shen. *Cohomological $\chi$-independence for moduli of one-dimensional sheaves and moduli of Higgs bundles.* Geom. Topol. 27 (2023), 1539–1586. [DOI](https://doi.org/10.2140/gt.2023.27.1539)
+- **[SOTA]** A. Mellit. *Poincaré polynomials of character varieties, Macdonald polynomials and affine Springer fibers.* Ann. of Math. 192 (2020), 165–228. [DOI](https://doi.org/10.4007/annals.2020.192.1.3)
+- **[SOTA]** C. Felisetti, M. Mauri. *P=W conjectures for character varieties with symplectic resolution.* J. Éc. polytech. Math. 9 (2022), 853–905. [DOI](https://doi.org/10.5802/jep.196)
+- **[SOTA]** J. Shen, Z. Zhang. *Perverse filtrations, Hilbert schemes, and the P=W conjecture for parabolic Higgs bundles.* Algebraic Geometry 8 (2021), 465–489. [DOI](https://doi.org/10.14231/ag-2021-014)
+- **[SOTA]** M. Groechenig, D. Wyss, P. Ziegler. *Mirror symmetry for moduli spaces of Higgs bundles via p-adic integration.* Invent. Math. 221 (2020), 505–596. [DOI](https://doi.org/10.1007/s00222-020-00957-8)
 - **[Survey]** T. Hausel. *Global topology of the Hitchin system.* In *Handbook of Moduli*, Vol. II, Adv. Lect. Math. 25, International Press, 2013, 29–69.
-- **[Survey]** B. C. Ngô. *Le lemme fondamental pour les algèbres de Lie.* Publ. Math. IHÉS 111 (2010), 1–169. (Source of the support theorem.)
+- **[Survey]** B. C. Ngô. *Le lemme fondamental pour les algèbres de Lie.* Publ. Math. IHÉS 111 (2010), 1–169. (Source of the support theorem.). [DOI](https://doi.org/10.1007/s10240-010-0026-7)
 
 ## 10. Worked Example / Concrete Special Case
 

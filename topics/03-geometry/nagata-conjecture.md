@@ -104,23 +104,23 @@ What is missing: for a single non-square $r \ge 10$ — canonically $r = 10$ —
 
 ## 9. Key References
 
-- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics 81 (1959), 766–772.
-- **[Foundational]** M. Nagata. *On rational surfaces II.* Memoirs of the College of Science, University of Kyoto, Ser. A 33 (1960), 271–293.
+- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics 81 (1959), 766–772. [DOI](https://doi.org/10.2307/2372927)
+- **[Foundational]** M. Nagata. *On rational surfaces II.* Memoirs of the College of Science, University of Kyoto, Ser. A 33 (1960), 271–293. [DOI](https://doi.org/10.1215/kjm/1250775912)
 - **[Foundational]** B. Segre. *Alcune questioni su insiemi finiti di punti in geometria algebrica.* Atti del Convegno Internazionale di Geometria Algebrica, Torino, 1961.
-- **[Foundational]** A. Hirschowitz. *Une conjecture pour la cohomologie des diviseurs sur les surfaces rationnelles génériques.* Journal für die reine und angewandte Mathematik 397 (1989), 208–213.
+- **[Foundational]** A. Hirschowitz. *Une conjecture pour la cohomologie des diviseurs sur les surfaces rationnelles génériques.* Journal für die reine und angewandte Mathematik 397 (1989), 208–213. [DOI](https://doi.org/10.1515/crll.1989.397.208)
 - **[Foundational]** B. Harbourne. *The geometry of rational surfaces and Hilbert functions of points in the plane.* Canadian Mathematical Society Conference Proceedings 6 (1986), 95–111.
-- **[SOTA]** G. Xu. *Ample line bundles on smooth surfaces.* Journal für die reine und angewandte Mathematik 469 (1995), 199–209.
-- **[SOTA]** C. Ciliberto, R. Miranda. *Degenerations of planar linear systems.* Journal für die reine und angewandte Mathematik 501 (1998), 191–220.
-- **[SOTA]** C. Ciliberto, R. Miranda. *Linear systems of plane curves with base points of equal multiplicity.* Transactions of the American Mathematical Society 352 (2000), 4037–4050.
+- **[SOTA]** G. Xu. *Ample line bundles on smooth surfaces.* Journal für die reine und angewandte Mathematik 469 (1995), 199–209. [DOI](https://doi.org/10.1515/crll.1995.469.199)
+- **[SOTA]** C. Ciliberto, R. Miranda. *Degenerations of planar linear systems.* Journal für die reine und angewandte Mathematik 501 (1998), 191–220. [DOI](https://doi.org/10.1515/crll.1998.077)
+- **[SOTA]** C. Ciliberto, R. Miranda. *Linear systems of plane curves with base points of equal multiplicity.* Transactions of the American Mathematical Society 352 (2000), 4037–4050. [DOI](https://doi.org/10.1090/s0002-9947-00-02416-8)
 - **[SOTA]** L. Evain. *La fonction de Hilbert de la réunion de $4^h$ gros points génériques de $\mathbb{P}^2$ de même multiplicité.* Journal of Algebraic Geometry 8 (1999), 787–796.
 - **[SOTA]** M. Dumnicki, W. Jarnicki. *New effective bounds on the dimension of a linear system in $\mathbb{P}^2$.* Journal of Symbolic Computation 42 (2007), 87–94.
-- **[SOTA]** P. Biran. *Constructing new ample divisors out of old ones.* Duke Mathematical Journal 98 (1999), 113–135.
-- **[SOTA]** M. Dumnicki, B. Harbourne, A. Küronya, J. Roé, T. Szemberg. *Very general monomial valuations of $\mathbb{P}^2$ and a Nagata type conjecture.* Communications in Analysis and Geometry 25 (2017), 125–161.
+- **[SOTA]** P. Biran. *Constructing new ample divisors out of old ones.* Duke Mathematical Journal 98 (1999), 113–135. [DOI](https://doi.org/10.1215/s0012-7094-99-09803-4)
+- **[SOTA]** M. Dumnicki, B. Harbourne, A. Küronya, J. Roé, T. Szemberg. *Very general monomial valuations of $\mathbb{P}^2$ and a Nagata type conjecture.* Communications in Analysis and Geometry 25 (2017), 125–161. [DOI](https://doi.org/10.4310/cag.2017.v25.n1.a4)
 - **[Survey]** C. Ciliberto, B. Harbourne, R. Miranda, J. Roé. *Variations on Nagata's conjecture.* In: A Celebration of Algebraic Geometry, Clay Mathematics Proceedings 18 (2013), 185–203.
-- **[Survey]** T. Bauer, S. Di Rocco, B. Harbourne, M. Kapustka, A. Knutsen, W. Syzdek, T. Szemberg. *A primer on Seshadri constants.* Contemporary Mathematics 496 (2009), 33–70.
-- **[Survey]** R. Lazarsfeld. *Positivity in Algebraic Geometry I.* Ergebnisse der Mathematik 48, Springer, 2004 (§5.1–5.3 on Seshadri constants).
-- **[Context]** D. McDuff, L. Polterovich. *Symplectic packings and algebraic geometry.* Inventiones Mathematicae 115 (1994), 405–434.
-- **[Context]** C. Bocci, B. Harbourne. *Comparing powers and symbolic powers of ideals.* Journal of Algebraic Geometry 19 (2010), 399–417.
+- **[Survey]** T. Bauer, S. Di Rocco, B. Harbourne, M. Kapustka, A. Knutsen, W. Syzdek, T. Szemberg. *A primer on Seshadri constants.* Contemporary Mathematics 496 (2009), 33–70. [DOI](https://doi.org/10.1090/conm/496/09718)
+- **[Survey]** R. Lazarsfeld. *Positivity in Algebraic Geometry I.* Ergebnisse der Mathematik 48, Springer, 2004 (§5.1–5.3 on Seshadri constants). [DOI](https://doi.org/10.1007/978-3-642-18808-4)
+- **[Context]** D. McDuff, L. Polterovich. *Symplectic packings and algebraic geometry.* Inventiones Mathematicae 115 (1994), 405–434. [DOI](https://doi.org/10.1007/bf01231766)
+- **[Context]** C. Bocci, B. Harbourne. *Comparing powers and symbolic powers of ideals.* Journal of Algebraic Geometry 19 (2010), 399–417. [DOI](https://doi.org/10.1090/s1056-3911-09-00530-x)
 
 ## 10. Worked Example / Concrete Special Case
 

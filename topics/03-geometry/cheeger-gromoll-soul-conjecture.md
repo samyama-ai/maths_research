@@ -97,10 +97,10 @@ Future mathematical pathways articulated by leaders in differential geometry inc
 
 ## 9. Key References
 
-- **[Foundational]** J. Cheeger, D. Gromoll. *On the structure of complete manifolds of nonnegative curvature.* Annals of Mathematics, 96(3), 1972.
-- **[Foundational]** D. Gromoll, W. Meyer. *On complete open manifolds of positive curvature.* Annals of Mathematics, 90(1), 1969.
+- **[Foundational]** J. Cheeger, D. Gromoll. *On the structure of complete manifolds of nonnegative curvature.* Annals of Mathematics, 96(3), 1972. [DOI](https://doi.org/10.2307/1970819)
+- **[Foundational]** D. Gromoll, W. Meyer. *On complete open manifolds of positive curvature.* Annals of Mathematics, 90(1), 1969. [DOI](https://doi.org/10.2307/1970682)
 - **[Foundational]** S. Cohn-Vossen. *Kürzeste Wege und Totalkrümmung auf Flächen.* Compositio Mathematica, 2, 1935.
-- **[SOTA / Recent]** G. Perelman. *Proof of the soul conjecture of Cheeger and Gromoll.* Journal of Differential Geometry, 40(1), 1994.
+- **[SOTA / Recent]** G. Perelman. *Proof of the soul conjecture of Cheeger and Gromoll.* Journal of Differential Geometry, 40(1), 1994. [DOI](https://doi.org/10.4310/jdg/1214455292)
 - **[Survey]** P. Petersen. *Riemannian Geometry* (3rd Edition). Graduate Texts in Mathematics, Springer, 2016.
 - **[Survey]** I. Belegradek. *Vector bundles with nonnegative sectional curvature.* Mathematische Annalen, 327(4), 2003.
 

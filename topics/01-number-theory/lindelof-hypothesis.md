@@ -98,7 +98,7 @@ Leading mathematicians suggest that attacking the Lindelöf Hypothesis directly 
 
 - **[Foundational]** Lindelöf, E. *Quelques remarques sur la croissance de la fonction $\zeta(s)$.* Bulletin des Sciences Mathématiques, 32, 341-356, 1908.
 - **[Foundational]** Titchmarsh, E. C., and Heath-Brown, D. R. *The Theory of the Riemann Zeta-Function.* Oxford University Press, 1986.
-- **[SOTA / Recent]** Bourgain, J. *Decoupling, exponential sums and the Riemann zeta function.* Journal of the American Mathematical Society, 30(1), 205-224, 2017.
+- **[SOTA / Recent]** Bourgain, J. *Decoupling, exponential sums and the Riemann zeta function.* Journal of the American Mathematical Society, 30(1), 205-224, 2017. [DOI](https://doi.org/10.1090/jams/860)
 - **[Survey]** Ivić, A. *The Riemann Zeta-Function: Theory and Applications.* Dover Publications, 2003.
 
 ## 10. Worked Example / Concrete Special Case

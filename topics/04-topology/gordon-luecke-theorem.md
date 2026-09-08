@@ -99,7 +99,7 @@ Leading mathematicians outline the following pathways for future work stemming f
 
 ## 9. Key References
 
-- **[Foundational/SOTA]** Gordon, C. McA., & Luecke, J. *Knots are determined by their complements.* Journal of the American Mathematical Society, 2(2), 371-415, 1989.
+- **[Foundational/SOTA]** Gordon, C. McA., & Luecke, J. *Knots are determined by their complements.* Journal of the American Mathematical Society, 2(2), 371-415, 1989. [DOI](https://doi.org/10.1090/s0273-0979-1989-15706-6)
 - **[Foundational]** Culler, M., Gordon, C. McA., Luecke, J., & Shalen, P. B. *Dehn surgery on knots.* Annals of Mathematics, 125(2), 237-300, 1987.
 - **[SOTA]** Ni, Y., & Wu, Z. *Cosmetic surgeries on knots in $S^3$.* Journal für die reine und angewandte Mathematik (Crelles Journal), 706, 1-17, 2015.
 - **[SOTA / Recent]** Hanselman, J. *Heegaard Floer homology and the cosmetic surgery conjecture.* Journal of the European Mathematical Society, 2022.

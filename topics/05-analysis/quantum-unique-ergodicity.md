@@ -106,20 +106,20 @@ The gap has two disjoint components:
 
 ## 9. Key References
 
-- **[Foundational]** Z. Rudnick and P. Sarnak. *The behaviour of eigenstates of arithmetic hyperbolic manifolds.* Communications in Mathematical Physics 161 (1994), 195–213.
-- **[Foundational]** Y. Colin de Verdière. *Ergodicité et fonctions propres du laplacien.* Communications in Mathematical Physics 102 (1985), 497–502.
-- **[Foundational]** S. Zelditch. *Uniform distribution of eigenfunctions on compact hyperbolic surfaces.* Duke Mathematical Journal 55 (1987), 919–941.
-- **[SOTA]** E. Lindenstrauss. *Invariant measures and arithmetic quantum unique ergodicity.* Annals of Mathematics 163 (2006), 165–219.
+- **[Foundational]** Z. Rudnick and P. Sarnak. *The behaviour of eigenstates of arithmetic hyperbolic manifolds.* Communications in Mathematical Physics 161 (1994), 195–213. [DOI](https://doi.org/10.1007/bf02099418)
+- **[Foundational]** Y. Colin de Verdière. *Ergodicité et fonctions propres du laplacien.* Communications in Mathematical Physics 102 (1985), 497–502. [DOI](https://doi.org/10.1007/bf01209296)
+- **[Foundational]** S. Zelditch. *Uniform distribution of eigenfunctions on compact hyperbolic surfaces.* Duke Mathematical Journal 55 (1987), 919–941. [DOI](https://doi.org/10.1215/s0012-7094-87-05546-3)
+- **[SOTA]** E. Lindenstrauss. *Invariant measures and arithmetic quantum unique ergodicity.* Annals of Mathematics 163 (2006), 165–219. [DOI](https://doi.org/10.4007/annals.2006.163.165)
 - **[SOTA]** K. Soundararajan. *Quantum unique ergodicity for $\mathrm{SL}_2(\mathbb{Z})\backslash\mathbb{H}$.* Annals of Mathematics 172 (2010), 1529–1538.
-- **[SOTA]** R. Holowinsky and K. Soundararajan. *Mass equidistribution for Hecke eigenforms.* Annals of Mathematics 172 (2010), 1517–1528.
-- **[SOTA]** N. Anantharaman. *Entropy and the localization of eigenfunctions.* Annals of Mathematics 168 (2008), 435–475.
-- **[SOTA]** N. Anantharaman and S. Nonnenmacher. *Half-delocalization of eigenfunctions for the Laplacian on an Anosov manifold.* Annales de l'Institut Fourier 57 (2007), 2465–2523.
-- **[SOTA]** S. Dyatlov, L. Jin and S. Nonnenmacher. *Control of eigenfunctions on surfaces of variable curvature.* Journal of the AMS 35 (2022), 361–465.
-- **[Counterexample]** A. Hassell. *Ergodic billiards that are not quantum unique ergodic.* Annals of Mathematics 171 (2010), 605–618.
-- **[Counterexample]** F. Faure, S. Nonnenmacher and S. De Bièvre. *Scarred eigenstates for quantum cat maps of minimal periods.* Communications in Mathematical Physics 239 (2003), 449–492.
+- **[SOTA]** R. Holowinsky and K. Soundararajan. *Mass equidistribution for Hecke eigenforms.* Annals of Mathematics 172 (2010), 1517–1528. [DOI](https://doi.org/10.4007/annals.2010.172.1517)
+- **[SOTA]** N. Anantharaman. *Entropy and the localization of eigenfunctions.* Annals of Mathematics 168 (2008), 435–475. [DOI](https://doi.org/10.4007/annals.2008.168.435)
+- **[SOTA]** N. Anantharaman and S. Nonnenmacher. *Half-delocalization of eigenfunctions for the Laplacian on an Anosov manifold.* Annales de l'Institut Fourier 57 (2007), 2465–2523. [DOI](https://doi.org/10.5802/aif.2340)
+- **[SOTA]** S. Dyatlov, L. Jin and S. Nonnenmacher. *Control of eigenfunctions on surfaces of variable curvature.* Journal of the AMS 35 (2022), 361–465. [DOI](https://doi.org/10.1090/jams/979)
+- **[Counterexample]** A. Hassell. *Ergodic billiards that are not quantum unique ergodic.* Annals of Mathematics 171 (2010), 605–618. [DOI](https://doi.org/10.4007/annals.2010.171.605)
+- **[Counterexample]** F. Faure, S. Nonnenmacher and S. De Bièvre. *Scarred eigenstates for quantum cat maps of minimal periods.* Communications in Mathematical Physics 239 (2003), 449–492. [DOI](https://doi.org/10.1007/s00220-003-0888-3)
 - **[Related]** W. Luo and P. Sarnak. *Quantum ergodicity of eigenfunctions on $\mathrm{PSL}_2(\mathbb{Z})\backslash\mathbb{H}^2$.* Publications Mathématiques de l'IHÉS 81 (1995), 207–237.
-- **[Survey]** P. Sarnak. *Recent progress on the quantum unique ergodicity conjecture.* Bulletin of the AMS 48 (2011), 211–228.
-- **[Survey]** S. Zelditch. *Recent developments in mathematical quantum chaos.* Current Developments in Mathematics 2009, International Press, 2010, 115–204.
+- **[Survey]** P. Sarnak. *Recent progress on the quantum unique ergodicity conjecture.* Bulletin of the AMS 48 (2011), 211–228. [DOI](https://doi.org/10.1090/s0273-0979-2011-01323-4)
+- **[Survey]** S. Zelditch. *Recent developments in mathematical quantum chaos.* Current Developments in Mathematics 2009, International Press, 2010, 115–204. [DOI](https://doi.org/10.4310/cdm.2009.v2009.n1.a4)
 - **[Textbook]** M. Zworski. *Semiclassical Analysis.* Graduate Studies in Mathematics 138, American Mathematical Society, 2012.
 
 ## 10. Worked Example / Concrete Special Case

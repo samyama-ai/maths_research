@@ -123,21 +123,21 @@ Two precise gaps remain.
 ## 9. Key References
 
 - **[Foundational]** C. Loewner, L. Nirenberg. *Partial differential equations invariant under conformal or projective transformations.* In: Contributions to Analysis, Academic Press, 1974, pp. 245–272.
-- **[Foundational]** P. Aviles, R. McOwen. *Complete conformal metrics with negative scalar curvature in compact Riemannian manifolds.* Duke Mathematical Journal 56 (1988), 395–398.
-- **[Foundational]** R. Schoen, S.-T. Yau. *Conformally flat manifolds, Kleinian groups and scalar curvature.* Inventiones Mathematicae 92 (1988), 47–71.
-- **[Foundational]** R. Schoen. *The existence of weak solutions with prescribed singular behavior for a conformally invariant scalar equation.* Communications on Pure and Applied Mathematics 41 (1988), 317–392.
-- **[Foundational]** L. Caffarelli, B. Gidas, J. Spruck. *Asymptotic symmetry and local behavior of semilinear elliptic equations with critical Sobolev growth.* Communications on Pure and Applied Mathematics 42 (1989), 271–297.
+- **[Foundational]** P. Aviles, R. McOwen. *Complete conformal metrics with negative scalar curvature in compact Riemannian manifolds.* Duke Mathematical Journal 56 (1988), 395–398. [DOI](https://doi.org/10.1215/s0012-7094-88-05616-5)
+- **[Foundational]** R. Schoen, S.-T. Yau. *Conformally flat manifolds, Kleinian groups and scalar curvature.* Inventiones Mathematicae 92 (1988), 47–71. [DOI](https://doi.org/10.1007/bf01393992)
+- **[Foundational]** R. Schoen. *The existence of weak solutions with prescribed singular behavior for a conformally invariant scalar equation.* Communications on Pure and Applied Mathematics 41 (1988), 317–392. [DOI](https://doi.org/10.1002/cpa.3160410305)
+- **[Foundational]** L. Caffarelli, B. Gidas, J. Spruck. *Asymptotic symmetry and local behavior of semilinear elliptic equations with critical Sobolev growth.* Communications on Pure and Applied Mathematics 42 (1989), 271–297. [DOI](https://doi.org/10.1002/cpa.3160420304)
 - **[Foundational]** R. Mazzeo. *Regularity for the singular Yamabe problem.* Indiana University Mathematics Journal 40 (1991), 1277–1299.
-- **[Foundational]** L. Andersson, P. T. Chruściel, H. Friedrich. *On the regularity of solutions to the Yamabe equation and the existence of smooth hyperboloidal initial data for Einstein's field equations.* Communications in Mathematical Physics 149 (1992), 587–612.
-- **[SOTA]** R. Mazzeo, F. Pacard. *A construction of singular solutions for a semilinear elliptic equation using asymptotic analysis.* Journal of Differential Geometry 44 (1996), 331–370.
-- **[SOTA]** R. Mazzeo, D. Pollack, K. Uhlenbeck. *Moduli spaces of singular Yamabe metrics.* Journal of the American Mathematical Society 9 (1996), 303–344.
-- **[SOTA]** R. Mazzeo, F. Pacard. *Constant scalar curvature metrics with isolated singularities.* Duke Mathematical Journal 99 (1999), 353–418.
-- **[SOTA]** N. Korevaar, R. Mazzeo, F. Pacard, R. Schoen. *Refined asymptotics for constant scalar curvature metrics with isolated singularities.* Inventiones Mathematicae 135 (1999), 233–272.
-- **[SOTA]** D. A. Labutin. *Wiener regularity for large solutions of nonlinear equations.* Arkiv för Matematik 41 (2003), 307–339.
-- **[SOTA / Recent]** C. R. Graham. *Volume renormalization for singular Yamabe metrics.* Proceedings of the American Mathematical Society 145 (2017), 1781–1792.
-- **[SOTA / Recent]** A. R. Gover, A. Waldron. *Conformal hypersurface geometry via a boundary Loewner–Nirenberg–Yamabe problem.* Communications in Contemporary Mathematics 23 (2021).
-- **[SOTA / Recent]** Q. Han, W. Shen. *The Loewner–Nirenberg problem in singular domains.* Journal of Functional Analysis 279 (2020), 108604.
-- **[Survey]** R. Mazzeo. *Elliptic theory of differential edge operators I.* Communications in Partial Differential Equations 16 (1991), 1615–1664.
+- **[Foundational]** L. Andersson, P. T. Chruściel, H. Friedrich. *On the regularity of solutions to the Yamabe equation and the existence of smooth hyperboloidal initial data for Einstein's field equations.* Communications in Mathematical Physics 149 (1992), 587–612. [DOI](https://doi.org/10.1007/bf02096944)
+- **[SOTA]** R. Mazzeo, F. Pacard. *A construction of singular solutions for a semilinear elliptic equation using asymptotic analysis.* Journal of Differential Geometry 44 (1996), 331–370. [DOI](https://doi.org/10.4310/jdg/1214458975)
+- **[SOTA]** R. Mazzeo, D. Pollack, K. Uhlenbeck. *Moduli spaces of singular Yamabe metrics.* Journal of the American Mathematical Society 9 (1996), 303–344. [DOI](https://doi.org/10.1090/s0894-0347-96-00208-1)
+- **[SOTA]** R. Mazzeo, F. Pacard. *Constant scalar curvature metrics with isolated singularities.* Duke Mathematical Journal 99 (1999), 353–418. [DOI](https://doi.org/10.1215/s0012-7094-99-09913-1)
+- **[SOTA]** N. Korevaar, R. Mazzeo, F. Pacard, R. Schoen. *Refined asymptotics for constant scalar curvature metrics with isolated singularities.* Inventiones Mathematicae 135 (1999), 233–272. [DOI](https://doi.org/10.1007/s002220050285)
+- **[SOTA]** D. A. Labutin. *Wiener regularity for large solutions of nonlinear equations.* Arkiv för Matematik 41 (2003), 307–339. [DOI](https://doi.org/10.1007/bf02390818)
+- **[SOTA / Recent]** C. R. Graham. *Volume renormalization for singular Yamabe metrics.* Proceedings of the American Mathematical Society 145 (2017), 1781–1792. [DOI](https://doi.org/10.1090/proc/13530)
+- **[SOTA / Recent]** A. R. Gover, A. Waldron. *Conformal hypersurface geometry via a boundary Loewner–Nirenberg–Yamabe problem.* Communications in Contemporary Mathematics 23 (2021). [DOI](https://doi.org/10.4310/cag.2021.v29.n4.a2)
+- **[SOTA / Recent]** Q. Han, W. Shen. *The Loewner–Nirenberg problem in singular domains.* Journal of Functional Analysis 279 (2020), 108604. [DOI](https://doi.org/10.1016/j.jfa.2020.108604)
+- **[Survey]** R. Mazzeo. *Elliptic theory of differential edge operators I.* Communications in Partial Differential Equations 16 (1991), 1615–1664. [DOI](https://doi.org/10.1080/03605309108820815)
 - **[Survey]** J. M. Lee, T. H. Parker. *The Yamabe problem.* Bulletin of the American Mathematical Society 17 (1987), 37–91.
 
 ## 10. Worked Example / Concrete Special Case

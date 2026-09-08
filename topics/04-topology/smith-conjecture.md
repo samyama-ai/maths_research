@@ -98,19 +98,19 @@ In dimension $3$ there is no gap: the conjecture is a theorem. The residual gaps
 
 ## 9. Key References
 
-- **[Foundational]** P. A. Smith. *Transformations of finite period. II.* Annals of Mathematics 40 (1939), 690–711.
-- **[Foundational]** F. Waldhausen. *Über Involutionen der 3-Sphäre.* Topology 8 (1969), 81–91.
-- **[Foundational]** E. C. Zeeman. *Twisting spun knots.* Transactions of the AMS 115 (1965), 471–495.
-- **[Counterexamples]** C. H. Giffen. *The generalized Smith conjecture.* American Journal of Mathematics 88 (1966), 187–198.
-- **[Counterexamples]** C. McA. Gordon. *On the higher-dimensional Smith conjecture.* Proceedings of the London Mathematical Society (3) 29 (1974), 98–110.
+- **[Foundational]** P. A. Smith. *Transformations of finite period. II.* Annals of Mathematics 40 (1939), 690–711. [DOI](https://doi.org/10.2307/1968950)
+- **[Foundational]** F. Waldhausen. *Über Involutionen der 3-Sphäre.* Topology 8 (1969), 81–91. [DOI](https://doi.org/10.1016/0040-9383(69)90033-0)
+- **[Foundational]** E. C. Zeeman. *Twisting spun knots.* Transactions of the AMS 115 (1965), 471–495. [DOI](https://doi.org/10.1090/s0002-9947-1965-0195085-8)
+- **[Counterexamples]** C. H. Giffen. *The generalized Smith conjecture.* American Journal of Mathematics 88 (1966), 187–198. [DOI](https://doi.org/10.2307/2373054)
+- **[Counterexamples]** C. McA. Gordon. *On the higher-dimensional Smith conjecture.* Proceedings of the London Mathematical Society (3) 29 (1974), 98–110. [DOI](https://doi.org/10.1112/plms/s3-29.1.98)
 - **[Proof / Survey]** H. Bass and J. W. Morgan (eds.). *The Smith Conjecture.* Pure and Applied Mathematics 112, Academic Press, 1984.
-- **[Key ingredient]** W. H. Meeks III and S.-T. Yau. *Topology of three-dimensional manifolds and the embedding problems in minimal surface theory.* Annals of Mathematics 112 (1980), 441–484.
-- **[Key ingredient]** M. Culler and P. B. Shalen. *Varieties of group representations and splittings of 3-manifolds.* Annals of Mathematics 117 (1983), 109–146.
-- **[Key ingredient]** W. P. Thurston. *Three dimensional manifolds, Kleinian groups and hyperbolic geometry.* Bulletin of the AMS 6 (1982), 357–381.
-- **[SOTA]** M. Boileau, B. Leeb and J. Porti. *Geometrization of 3-dimensional orbifolds.* Annals of Mathematics 162 (2005), 195–290.
-- **[SOTA]** J. Dinkelbach and B. Leeb. *Equivariant Ricci flow with surgery and applications to finite group actions on geometric 3-manifolds.* Geometry & Topology 13 (2009), 1129–1173.
+- **[Key ingredient]** W. H. Meeks III and S.-T. Yau. *Topology of three-dimensional manifolds and the embedding problems in minimal surface theory.* Annals of Mathematics 112 (1980), 441–484. [DOI](https://doi.org/10.2307/1971088)
+- **[Key ingredient]** M. Culler and P. B. Shalen. *Varieties of group representations and splittings of 3-manifolds.* Annals of Mathematics 117 (1983), 109–146. [DOI](https://doi.org/10.2307/2006973)
+- **[Key ingredient]** W. P. Thurston. *Three dimensional manifolds, Kleinian groups and hyperbolic geometry.* Bulletin of the AMS 6 (1982), 357–381. [DOI](https://doi.org/10.1090/s0273-0979-1982-15003-0)
+- **[SOTA]** M. Boileau, B. Leeb and J. Porti. *Geometrization of 3-dimensional orbifolds.* Annals of Mathematics 162 (2005), 195–290. [DOI](https://doi.org/10.4007/annals.2005.162.195)
+- **[SOTA]** J. Dinkelbach and B. Leeb. *Equivariant Ricci flow with surgery and applications to finite group actions on geometric 3-manifolds.* Geometry & Topology 13 (2009), 1129–1173. [DOI](https://doi.org/10.2140/gt.2009.13.1129)
 - **[Background]** D. Rolfsen. *Knots and Links.* Publish or Perish, 1976 (branched covers, Alexander polynomial, Fox's formula).
-- **[Background]** D. Cooper, C. Hodgson and S. Kerckhoff. *Three-dimensional Orbifolds and Cone-Manifolds.* MSJ Memoirs 5, Mathematical Society of Japan, 2000.
+- **[Background]** D. Cooper, C. Hodgson and S. Kerckhoff. *Three-dimensional Orbifolds and Cone-Manifolds.* MSJ Memoirs 5, Mathematical Society of Japan, 2000. [DOI](https://doi.org/10.2969/msjmemoirs/005010000)
 
 ## 10. Worked Example / Concrete Special Case
 

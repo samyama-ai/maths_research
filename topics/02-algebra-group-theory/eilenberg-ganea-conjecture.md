@@ -109,10 +109,10 @@ Prominent geometric group theorists suggest the following pathways to finally re
 
 ## 9. Key References
 
-- **[Foundational]** Eilenberg, S., & Ganea, T. *On the Lusternik-Schnirelmann category of abstract groups.* Annals of Mathematics, 1957.
-- **[Foundational]** Stallings, J. R. *On torsion-free groups with infinitely many ends.* Annals of Mathematics, 1968.
-- **[Foundational]** Swan, R. G. *Groups of cohomological dimension one.* Journal of Algebra, 1969.
-- **[SOTA / Recent]** Bestvina, M., & Brady, N. *Morse theory and finiteness properties of groups.* Inventiones mathematicae, 1997.
+- **[Foundational]** Eilenberg, S., & Ganea, T. *On the Lusternik-Schnirelmann category of abstract groups.* Annals of Mathematics, 1957. [DOI](https://doi.org/10.2307/1970062)
+- **[Foundational]** Stallings, J. R. *On torsion-free groups with infinitely many ends.* Annals of Mathematics, 1968. [DOI](https://doi.org/10.2307/1970577)
+- **[Foundational]** Swan, R. G. *Groups of cohomological dimension one.* Journal of Algebra, 1969. [DOI](https://doi.org/10.1016/0021-8693(69)90030-1)
+- **[SOTA / Recent]** Bestvina, M., & Brady, N. *Morse theory and finiteness properties of groups.* Inventiones mathematicae, 1997. [DOI](https://doi.org/10.1007/s002220050168)
 - **[Survey]** Brown, K. S. *Cohomology of Groups.* Springer-Verlag, 1982.
 - **[SOTA / Recent]** Martinez-Perez, C., & Nucinkis, B. *Bredon cohomological dimension for out(F_n).* Journal of Topology, 2010.
 

@@ -109,20 +109,20 @@ The classical statement has no gap. The precise boundary now sits at three place
 
 ## 9. Key References
 
-- **[Foundational]** P. M. Melvin and H. R. Morton. *The coloured Jones function.* Communications in Mathematical Physics **169** (1995), 501–520.
-- **[Foundational]** L. Rozansky. *A contribution of the trivial connection to the Jones polynomial and Witten's invariant of 3d manifolds I.* Communications in Mathematical Physics **175** (1996), 275–296.
-- **[Foundational / Proof]** D. Bar-Natan and S. Garoufalidis. *On the Melvin–Morton–Rozansky conjecture.* Inventiones Mathematicae **125** (1996), 103–133.
-- **[Proof]** A. Vaintrob. *Melvin–Morton conjecture and primitive Feynman diagrams.* International Journal of Mathematics **8** (1997), 537–553.
-- **[Proof]** S. Chmutov. *A proof of the Melvin–Morton conjecture and Feynman diagrams.* Journal of Knot Theory and Its Ramifications **7** (1998), 23–40.
-- **[Proof]** A. Kricker, B. Spence and I. Aitchison. *Cabling the Vassiliev invariants.* Journal of Knot Theory and Its Ramifications **6** (1997), 327–358.
-- **[SOTA]** L. Rozansky. *Higher order terms in the Melvin–Morton expansion of the colored Jones polynomial.* Communications in Mathematical Physics **183** (1997), 291–306.
+- **[Foundational]** P. M. Melvin and H. R. Morton. *The coloured Jones function.* Communications in Mathematical Physics **169** (1995), 501–520. [DOI](https://doi.org/10.1007/bf02099310)
+- **[Foundational]** L. Rozansky. *A contribution of the trivial connection to the Jones polynomial and Witten's invariant of 3d manifolds I.* Communications in Mathematical Physics **175** (1996), 275–296. [DOI](https://doi.org/10.1007/bf02102409)
+- **[Foundational / Proof]** D. Bar-Natan and S. Garoufalidis. *On the Melvin–Morton–Rozansky conjecture.* Inventiones Mathematicae **125** (1996), 103–133. [DOI](https://doi.org/10.1007/s002220050070)
+- **[Proof]** A. Vaintrob. *Melvin–Morton conjecture and primitive Feynman diagrams.* International Journal of Mathematics **8** (1997), 537–553. [DOI](https://doi.org/10.1142/s0129167x97000275)
+- **[Proof]** S. Chmutov. *A proof of the Melvin–Morton conjecture and Feynman diagrams.* Journal of Knot Theory and Its Ramifications **7** (1998), 23–40. [DOI](https://doi.org/10.1142/s0218216598000036)
+- **[Proof]** A. Kricker, B. Spence and I. Aitchison. *Cabling the Vassiliev invariants.* Journal of Knot Theory and Its Ramifications **6** (1997), 327–358. [DOI](https://doi.org/10.1142/s0218216597000236)
+- **[SOTA]** L. Rozansky. *Higher order terms in the Melvin–Morton expansion of the colored Jones polynomial.* Communications in Mathematical Physics **183** (1997), 291–306. [DOI](https://doi.org/10.1007/bf02506408)
 - **[SOTA]** L. Rozansky. *The universal $R$-matrix, Burau representation, and the Melvin–Morton expansion of the colored Jones polynomial.* Advances in Mathematics **134** (1998), 1–31.
-- **[SOTA]** S. Garoufalidis and L. Rozansky. *The loop expansion of the Kontsevich integral, the null-move and $S$-equivalence.* Topology **43** (2004), 1183–1210.
-- **[SOTA]** S. Garoufalidis and A. Kricker. *A rational noncommutative invariant of boundary links.* Geometry & Topology **8** (2004), 115–204.
-- **[SOTA]** K. Habiro. *A unified Witten–Reshetikhin–Turaev invariant for integral homology spheres.* Inventiones Mathematicae **171** (2008), 1–81.
-- **[SOTA / Recent]** N. Dowlin. *A spectral sequence from Khovanov homology to knot Floer homology.* Journal of the American Mathematical Society **37** (2024), 951–1010.
-- **[SOTA / Recent]** S. Gukov and C. Manolescu. *A two-variable series for knot complements.* Quantum Topology **12** (2021), 1–109.
-- **[Recent]** N. Dunfield, S. Gukov and J. Rasmussen. *The superpolynomial for knot homologies.* Experimental Mathematics **15** (2006), 129–159.
+- **[SOTA]** S. Garoufalidis and L. Rozansky. *The loop expansion of the Kontsevich integral, the null-move and $S$-equivalence.* Topology **43** (2004), 1183–1210. [DOI](https://doi.org/10.1016/j.top.2004.01.002)
+- **[SOTA]** S. Garoufalidis and A. Kricker. *A rational noncommutative invariant of boundary links.* Geometry & Topology **8** (2004), 115–204. [DOI](https://doi.org/10.2140/gt.2004.8.115)
+- **[SOTA]** K. Habiro. *A unified Witten–Reshetikhin–Turaev invariant for integral homology spheres.* Inventiones Mathematicae **171** (2008), 1–81. [DOI](https://doi.org/10.1007/s00222-007-0071-0)
+- **[SOTA / Recent]** N. Dowlin. *A spectral sequence from Khovanov homology to knot Floer homology.* Journal of the American Mathematical Society **37** (2024), 951–1010. [DOI](https://doi.org/10.1090/jams/1039)
+- **[SOTA / Recent]** S. Gukov and C. Manolescu. *A two-variable series for knot complements.* Quantum Topology **12** (2021), 1–109. [DOI](https://doi.org/10.4171/qt/145)
+- **[Recent]** N. Dunfield, S. Gukov and J. Rasmussen. *The superpolynomial for knot homologies.* Experimental Mathematics **15** (2006), 129–159. [DOI](https://doi.org/10.1080/10586458.2006.10128956)
 - **[Survey]** S. Chmutov, S. Duzhin and J. Mostovoy. *Introduction to Vassiliev Knot Invariants.* Cambridge University Press, 2012.
 - **[Survey]** T. Ohtsuki. *Quantum Invariants: A Study of Knots, 3-Manifolds, and Their Sets.* World Scientific, 2002.
 - **[Background]** D. Bar-Natan. *On the Vassiliev knot invariants.* Topology **34** (1995), 423–472.

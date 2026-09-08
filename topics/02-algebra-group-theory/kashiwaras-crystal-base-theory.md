@@ -114,17 +114,17 @@ The crossing point for (1) is the construction of an integral form of $U_q^-(\ma
 ## 9. Key References
 
 - **[Foundational]** M. Kashiwara. *Crystalizing the $q$-analogue of universal enveloping algebras.* Communications in Mathematical Physics **133** (1990), 249–260.
-- **[Foundational]** M. Kashiwara. *On crystal bases of the $q$-analogue of universal enveloping algebras.* Duke Mathematical Journal **63** (1991), 465–516.
-- **[Foundational]** G. Lusztig. *Canonical bases arising from quantized enveloping algebras.* Journal of the AMS **3** (1990), 447–498.
-- **[Foundational]** M. Kashiwara. *Global crystal bases of quantum groups.* Duke Mathematical Journal **69** (1993), 455–485.
-- **[Structural]** M. Kashiwara, Y. Saito. *Geometric construction of crystal bases.* Duke Mathematical Journal **89** (1997), 9–36.
-- **[Structural]** P. Littelmann. *Paths and root operators in representation theory.* Annals of Mathematics **142** (1995), 499–525.
+- **[Foundational]** M. Kashiwara. *On crystal bases of the $q$-analogue of universal enveloping algebras.* Duke Mathematical Journal **63** (1991), 465–516. [DOI](https://doi.org/10.1215/s0012-7094-91-06321-0)
+- **[Foundational]** G. Lusztig. *Canonical bases arising from quantized enveloping algebras.* Journal of the AMS **3** (1990), 447–498. [DOI](https://doi.org/10.1090/s0894-0347-1990-1035415-6)
+- **[Foundational]** M. Kashiwara. *Global crystal bases of quantum groups.* Duke Mathematical Journal **69** (1993), 455–485. [DOI](https://doi.org/10.1215/s0012-7094-93-06920-7)
+- **[Structural]** M. Kashiwara, Y. Saito. *Geometric construction of crystal bases.* Duke Mathematical Journal **89** (1997), 9–36. [DOI](https://doi.org/10.1215/s0012-7094-97-08902-x)
+- **[Structural]** P. Littelmann. *Paths and root operators in representation theory.* Annals of Mathematics **142** (1995), 499–525. [DOI](https://doi.org/10.2307/2118553)
 - **[Extension]** G. Benkart, S.-J. Kang, M. Kashiwara. *Crystal bases for the quantum superalgebra $U_q(\mathfrak{gl}(m,n))$.* Journal of the AMS **13** (2000), 295–331.
-- **[Extension]** K. Jeong, S.-J. Kang, M. Kashiwara. *Crystal bases for quantum generalized Kac–Moody algebras.* Proceedings of the LMS **90** (2005), 395–438.
-- **[SOTA / Recent]** M. Varagnolo, E. Vasserot. *Canonical bases and KLR-algebras.* Journal für die reine und angewandte Mathematik **659** (2011), 67–100.
-- **[SOTA / Recent]** S.-J. Kang, M. Kashiwara. *Categorification of highest weight modules via Khovanov–Lauda–Rouquier algebras.* Inventiones Mathematicae **190** (2012), 699–742.
-- **[SOTA / Recent]** S.-J. Kang, M. Kashiwara, M. Kim, S.-j. Oh. *Monoidal categorification of cluster algebras.* Journal of the AMS **31** (2018), 349–426.
-- **[Survey]** J. Hong, S.-J. Kang. *Introduction to Quantum Groups and Crystal Bases.* Graduate Studies in Mathematics **42**, AMS, 2002.
+- **[Extension]** K. Jeong, S.-J. Kang, M. Kashiwara. *Crystal bases for quantum generalized Kac–Moody algebras.* Proceedings of the LMS **90** (2005), 395–438. [DOI](https://doi.org/10.1112/s0024611504015023)
+- **[SOTA / Recent]** M. Varagnolo, E. Vasserot. *Canonical bases and KLR-algebras.* Journal für die reine und angewandte Mathematik **659** (2011), 67–100. [DOI](https://doi.org/10.1515/crelle.2011.068)
+- **[SOTA / Recent]** S.-J. Kang, M. Kashiwara. *Categorification of highest weight modules via Khovanov–Lauda–Rouquier algebras.* Inventiones Mathematicae **190** (2012), 699–742. [DOI](https://doi.org/10.1007/s00222-012-0388-1)
+- **[SOTA / Recent]** S.-J. Kang, M. Kashiwara, M. Kim, S.-j. Oh. *Monoidal categorification of cluster algebras.* Journal of the AMS **31** (2018), 349–426. [DOI](https://doi.org/10.1090/jams/895)
+- **[Survey]** J. Hong, S.-J. Kang. *Introduction to Quantum Groups and Crystal Bases.* Graduate Studies in Mathematics **42**, AMS, 2002. [DOI](https://doi.org/10.1090/gsm/042)
 - **[Survey]** D. Bump, A. Schilling. *Crystal Bases: Representations and Combinatorics.* World Scientific, 2017.
 
 ## 10. Worked Example / Concrete Special Case

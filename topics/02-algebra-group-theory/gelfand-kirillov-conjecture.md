@@ -99,16 +99,16 @@ Crossing it requires either (i) an explicit chain of subalgebras of $\mathfrak{s
 
 ## 9. Key References
 
-- **[Foundational]** I. M. Gelfand, A. A. Kirillov. *Sur les corps liés aux algèbres enveloppantes des algèbres de Lie.* Publications Mathématiques de l'IHÉS, no. 31, 5–19, 1966.
+- **[Foundational]** I. M. Gelfand, A. A. Kirillov. *Sur les corps liés aux algèbres enveloppantes des algèbres de Lie.* Publications Mathématiques de l'IHÉS, no. 31, 5–19, 1966. [DOI](https://doi.org/10.1007/bf02684800)
 - **[Foundational]** J. Dixmier. *Enveloping Algebras.* North-Holland, 1977; reprinted AMS Graduate Studies in Mathematics 11, 1996.
-- **[Foundational]** W. Borho, P. Gabriel, R. Rentschler. *Primideale in Einhüllenden auflösbarer Lie-Algebren.* Lecture Notes in Mathematics 357, Springer, 1973.
-- **[Foundational]** A. Joseph. *Proof of the Gelfand–Kirillov conjecture for solvable Lie algebras.* Proceedings of the American Mathematical Society 45, 1–10, 1974.
-- **[Foundational]** J. C. McConnell. *Representations of solvable Lie algebras and the Gelfand–Kirillov conjecture.* Proceedings of the London Mathematical Society (3) 29, 453–484, 1974.
-- **[Counterexamples]** J. Alev, A. Ooms, M. Van den Bergh. *A class of counterexamples to the Gel'fand–Kirillov conjecture.* Transactions of the American Mathematical Society 348, 1709–1716, 1996.
-- **[Verified cases]** J. Alev, A. Ooms, M. Van den Bergh. *The Gelfand–Kirillov conjecture for Lie algebras of dimension at most eight.* Journal of Algebra 227, 549–581, 2000.
-- **[SOTA]** A. Premet. *Modular Lie algebras and the Gelfand–Kirillov conjecture.* Inventiones Mathematicae 181, 395–420, 2010.
-- **[SOTA]** V. Futorny, A. Molev, S. Ovsienko. *The Gelfand–Kirillov conjecture and Gelfand–Tsetlin modules for finite W-algebras.* Advances in Mathematics 223, 773–796, 2010.
-- **[Quantum]** A. Joseph. *Quantum Groups and Their Primitive Ideals.* Ergebnisse der Mathematik 29, Springer, 1995.
+- **[Foundational]** W. Borho, P. Gabriel, R. Rentschler. *Primideale in Einhüllenden auflösbarer Lie-Algebren.* Lecture Notes in Mathematics 357, Springer, 1973. [DOI](https://doi.org/10.1007/bfb0069765)
+- **[Foundational]** A. Joseph. *Proof of the Gelfand–Kirillov conjecture for solvable Lie algebras.* Proceedings of the American Mathematical Society 45, 1–10, 1974. [DOI](https://doi.org/10.1090/s0002-9939-1974-0379617-3)
+- **[Foundational]** J. C. McConnell. *Representations of solvable Lie algebras and the Gelfand–Kirillov conjecture.* Proceedings of the London Mathematical Society (3) 29, 453–484, 1974. [DOI](https://doi.org/10.1112/plms/s3-29.3.453)
+- **[Counterexamples]** J. Alev, A. Ooms, M. Van den Bergh. *A class of counterexamples to the Gel'fand–Kirillov conjecture.* Transactions of the American Mathematical Society 348, 1709–1716, 1996. [DOI](https://doi.org/10.1090/s0002-9947-96-01465-1)
+- **[Verified cases]** J. Alev, A. Ooms, M. Van den Bergh. *The Gelfand–Kirillov conjecture for Lie algebras of dimension at most eight.* Journal of Algebra 227, 549–581, 2000. [DOI](https://doi.org/10.1006/jabr.2000.8500)
+- **[SOTA]** A. Premet. *Modular Lie algebras and the Gelfand–Kirillov conjecture.* Inventiones Mathematicae 181, 395–420, 2010. [DOI](https://doi.org/10.1007/s00222-010-0249-8)
+- **[SOTA]** V. Futorny, A. Molev, S. Ovsienko. *The Gelfand–Kirillov conjecture and Gelfand–Tsetlin modules for finite W-algebras.* Advances in Mathematics 223, 773–796, 2010. [DOI](https://doi.org/10.1016/j.aim.2009.08.018)
+- **[Quantum]** A. Joseph. *Quantum Groups and Their Primitive Ideals.* Ergebnisse der Mathematik 29, Springer, 1995. [DOI](https://doi.org/10.1007/978-3-642-78400-2)
 - **[Quantum]** J. Alev, F. Dumas. *Sur le corps des fractions de certaines algèbres quantiques.* Journal of Algebra 170, 229–265, 1994.
 - **[Survey / background]** J. C. McConnell, J. C. Robson. *Noncommutative Noetherian Rings.* Revised edition, AMS Graduate Studies in Mathematics 30, 2001.
 

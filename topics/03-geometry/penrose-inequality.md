@@ -115,17 +115,17 @@ The exact missing step is a **quasi-local mass monotone along a flow that starts
 
 - **[Foundational]** R. Penrose. *Naked singularities.* Annals of the New York Academy of Sciences 224 (1973), 125–134.
 - **[Foundational]** R. Geroch. *Energy extraction.* Annals of the New York Academy of Sciences 224 (1973), 108–117.
-- **[Foundational]** P. S. Jang, R. M. Wald. *The positive energy conjecture and the cosmic censor hypothesis.* J. Math. Phys. 18 (1977), 41–44.
-- **[Foundational]** G. Huisken, T. Ilmanen. *The inverse mean curvature flow and the Riemannian Penrose inequality.* Journal of Differential Geometry 59 (2001), 353–437.
-- **[Foundational]** H. L. Bray. *Proof of the Riemannian Penrose inequality using the positive mass theorem.* Journal of Differential Geometry 59 (2001), 177–267.
-- **[SOTA]** H. L. Bray, D. A. Lee. *On the Riemannian Penrose inequality in dimensions less than eight.* Duke Mathematical Journal 148 (2009), 81–106.
+- **[Foundational]** P. S. Jang, R. M. Wald. *The positive energy conjecture and the cosmic censor hypothesis.* J. Math. Phys. 18 (1977), 41–44. [DOI](https://doi.org/10.1063/1.523134)
+- **[Foundational]** G. Huisken, T. Ilmanen. *The inverse mean curvature flow and the Riemannian Penrose inequality.* Journal of Differential Geometry 59 (2001), 353–437. [DOI](https://doi.org/10.4310/jdg/1090349447)
+- **[Foundational]** H. L. Bray. *Proof of the Riemannian Penrose inequality using the positive mass theorem.* Journal of Differential Geometry 59 (2001), 177–267. [DOI](https://doi.org/10.4310/jdg/1090349428)
+- **[SOTA]** H. L. Bray, D. A. Lee. *On the Riemannian Penrose inequality in dimensions less than eight.* Duke Mathematical Journal 148 (2009), 81–106. [DOI](https://doi.org/10.1215/00127094-2009-020)
 - **[SOTA]** M.-K. G. Lam. *The Graph Cases of the Riemannian Positive Mass and Penrose Inequalities in All Dimensions.* PhD thesis, Duke University, 2011 (arXiv:1010.4256).
-- **[SOTA]** V. Agostiniani, L. Mazzieri, F. Oronzio. *A Green's function proof of the positive mass theorem.* Communications in Mathematical Physics 405 (2024); and V. Agostiniani, C. Mantegazza, L. Mazzieri, F. Oronzio, *Riemannian Penrose inequality via nonlinear potential theory* (arXiv:1905.05830).
-- **[SOTA]** H. L. Bray, D. Kazaras, M. Khuri, D. Stern. *Harmonic functions and the mass of 3-dimensional asymptotically flat Riemannian manifolds.* Journal of Geometric Analysis 32 (2022), 184.
-- **[Counterexample]** G. Weinstein, S. Yamada. *On a Penrose inequality with charge.* Communications in Mathematical Physics 257 (2005), 703–723.
+- **[SOTA]** V. Agostiniani, L. Mazzieri, F. Oronzio. *A Green's function proof of the positive mass theorem.* Communications in Mathematical Physics 405 (2024); and V. Agostiniani, C. Mantegazza, L. Mazzieri, F. Oronzio, *Riemannian Penrose inequality via nonlinear potential theory* (arXiv:1905.05830). [DOI](https://doi.org/10.1007/s00220-024-04941-8)
+- **[SOTA]** H. L. Bray, D. Kazaras, M. Khuri, D. Stern. *Harmonic functions and the mass of 3-dimensional asymptotically flat Riemannian manifolds.* Journal of Geometric Analysis 32 (2022), 184. [DOI](https://doi.org/10.1007/s12220-022-00924-0)
+- **[Counterexample]** G. Weinstein, S. Yamada. *On a Penrose inequality with charge.* Communications in Mathematical Physics 257 (2005), 703–723. [DOI](https://doi.org/10.1007/s00220-005-1355-0)
 - **[Counterexample]** A. Carrasco, M. Mars. *A counter-example to a recent version of the Penrose conjecture.* Classical and Quantum Gravity 27 (2010), 062001.
 - **[Survey]** H. L. Bray, P. T. Chruściel. *The Penrose inequality.* In *The Einstein Equations and the Large Scale Behavior of Gravitational Fields*, Birkhäuser, 2004, 39–70.
-- **[Survey]** M. Mars. *Present status of the Penrose inequality.* Classical and Quantum Gravity 26 (2009), 193001.
+- **[Survey]** M. Mars. *Present status of the Penrose inequality.* Classical and Quantum Gravity 26 (2009), 193001. [DOI](https://doi.org/10.1088/0264-9381/26/19/193001)
 - **[Book]** D. A. Lee. *Geometric Relativity.* Graduate Studies in Mathematics 201, AMS, 2019.
 
 ## 10. Worked Example / Concrete Special Case

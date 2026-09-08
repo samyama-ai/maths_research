@@ -115,9 +115,9 @@ Leading complex analysts point to several open pathways stemming from the resolu
 
 - **[Foundational]** Suita, N. *Capacities and kernels on Riemann surfaces.* Archiv der Mathematik, 1998.
 - **[Foundational]** Ohsawa, T. *On the extension of $L^2$ holomorphic functions. V. Effects of generalization.* Nagoya Mathematical Journal, 1998.
-- **[SOTA / Recent]** Błocki, Z. *Suita conjecture and the Ohsawa-Takegoshi extension theorem.* Inventiones Mathematicae, 2013.
-- **[SOTA / Recent]** Guan, Q., and Zhou, X. *A solution of an $L^2$ extension problem with an optimal estimate and applications.* Annals of Mathematics, 2015.
-- **[SOTA / Recent]** Guan, Q., and Zhou, X. *Optimal constant in an $L^2$ extension problem and a proof of a conjecture of Ohsawa.* Journal de Mathématiques Pures et Appliquées, 2015.
+- **[SOTA / Recent]** Błocki, Z. *Suita conjecture and the Ohsawa-Takegoshi extension theorem.* Inventiones Mathematicae, 2013. [DOI](https://doi.org/10.1007/s00222-012-0423-2)
+- **[SOTA / Recent]** Guan, Q., and Zhou, X. *A solution of an $L^2$ extension problem with an optimal estimate and applications.* Annals of Mathematics, 2015. [DOI](https://doi.org/10.4007/annals.2015.181.3.6)
+- **[SOTA / Recent]** Guan, Q., and Zhou, X. *Optimal constant in an $L^2$ extension problem and a proof of a conjecture of Ohsawa.* Journal de Mathématiques Pures et Appliquées, 2015. [DOI](https://doi.org/10.1007/s11425-014-4946-4)
 - **[Survey]** Ohsawa, T. *$L^2$ Approaches in Several Complex Variables.* Springer Monographs in Mathematics, Springer, 2015.
 
 ## 10. Worked Example / Concrete Special Case

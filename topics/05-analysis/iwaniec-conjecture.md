@@ -108,22 +108,22 @@ Closing the gap for even a single $p \ne 2$ (say $p = 4$, target $\|S\|_4 = 3$) 
 
 ## 9. Key References
 
-- **[Foundational]** T. Iwaniec. *Extremal inequalities in Sobolev spaces and quasiconformal mappings.* Zeitschrift für Analysis und ihre Anwendungen 1 (1982), 1–16.
-- **[Foundational]** O. Lehto. *Remarks on the integrability of the derivatives of quasiconformal mappings.* Ann. Acad. Sci. Fenn. Ser. A I Math. 371 (1965).
-- **[Foundational]** D. L. Burkholder. *Boundary value problems and sharp inequalities for martingale transforms.* Annals of Probability 12 (1984), 647–702.
-- **[SOTA]** R. Bañuelos, G. Wang. *Sharp inequalities for martingales with applications to the Beurling–Ahlfors and Riesz transforms.* Duke Math. J. 80 (1995), 575–600.
+- **[Foundational]** T. Iwaniec. *Extremal inequalities in Sobolev spaces and quasiconformal mappings.* Zeitschrift für Analysis und ihre Anwendungen 1 (1982), 1–16. [DOI](https://doi.org/10.4171/zaa/37)
+- **[Foundational]** O. Lehto. *Remarks on the integrability of the derivatives of quasiconformal mappings.* Ann. Acad. Sci. Fenn. Ser. A I Math. 371 (1965). [DOI](https://doi.org/10.5186/aasfm.1966.371)
+- **[Foundational]** D. L. Burkholder. *Boundary value problems and sharp inequalities for martingale transforms.* Annals of Probability 12 (1984), 647–702. [DOI](https://doi.org/10.1214/aop/1176993220)
+- **[SOTA]** R. Bañuelos, G. Wang. *Sharp inequalities for martingales with applications to the Beurling–Ahlfors and Riesz transforms.* Duke Math. J. 80 (1995), 575–600. [DOI](https://doi.org/10.1215/s0012-7094-95-08020-x)
 - **[SOTA]** F. Nazarov, A. Volberg. *Heat extension of the Beurling operator and estimates for its norm.* St. Petersburg Math. J. 15 (2004), 563–573.
-- **[SOTA]** R. Bañuelos, P. J. Méndez-Hernández. *Space-time Brownian motion and the Beurling–Ahlfors transform.* Indiana Univ. Math. J. 52 (2003), 981–990.
-- **[SOTA]** O. Dragičević, A. Volberg. *Bellman function, Littlewood–Paley estimates and asymptotics for the Ahlfors–Beurling operator in $L^p(\mathbb{C})$.* Indiana Univ. Math. J. 54 (2005), 971–995.
-- **[SOTA]** R. Bañuelos, P. Janakiraman. *$L^p$-bounds for the Beurling–Ahlfors transform.* Trans. Amer. Math. Soc. 360 (2008), 3603–3612.
-- **[SOTA]** A. Borichev, P. Janakiraman, A. Volberg. *On Burkholder function for orthogonal martingales and zeros of Legendre polynomials.* Amer. J. Math. 135 (2013), 207–236.
-- **[SOTA]** K. Astala, T. Iwaniec, I. Prause, E. Saksman. *Burkholder integrals, Morrey's problem and quasiconformal mappings.* J. Amer. Math. Soc. 25 (2012), 507–531.
-- **[Related]** K. Astala. *Area distortion of quasiconformal mappings.* Acta Math. 173 (1994), 37–60.
-- **[Related]** S. Geiss, S. Montgomery-Smith, E. Saksman. *On singular integral and martingale transforms.* Trans. Amer. Math. Soc. 362 (2010), 553–575.
+- **[SOTA]** R. Bañuelos, P. J. Méndez-Hernández. *Space-time Brownian motion and the Beurling–Ahlfors transform.* Indiana Univ. Math. J. 52 (2003), 981–990. [DOI](https://doi.org/10.1512/iumj.2003.52.2218)
+- **[SOTA]** O. Dragičević, A. Volberg. *Bellman function, Littlewood–Paley estimates and asymptotics for the Ahlfors–Beurling operator in $L^p(\mathbb{C})$.* Indiana Univ. Math. J. 54 (2005), 971–995. [DOI](https://doi.org/10.1512/iumj.2005.54.2554)
+- **[SOTA]** R. Bañuelos, P. Janakiraman. *$L^p$-bounds for the Beurling–Ahlfors transform.* Trans. Amer. Math. Soc. 360 (2008), 3603–3612. [DOI](https://doi.org/10.1090/s0002-9947-08-04537-6)
+- **[SOTA]** A. Borichev, P. Janakiraman, A. Volberg. *On Burkholder function for orthogonal martingales and zeros of Legendre polynomials.* Amer. J. Math. 135 (2013), 207–236. [DOI](https://doi.org/10.1353/ajm.2013.0004)
+- **[SOTA]** K. Astala, T. Iwaniec, I. Prause, E. Saksman. *Burkholder integrals, Morrey's problem and quasiconformal mappings.* J. Amer. Math. Soc. 25 (2012), 507–531. [DOI](https://doi.org/10.1090/s0894-0347-2011-00718-2)
+- **[Related]** K. Astala. *Area distortion of quasiconformal mappings.* Acta Math. 173 (1994), 37–60. [DOI](https://doi.org/10.1007/bf02392568)
+- **[Related]** S. Geiss, S. Montgomery-Smith, E. Saksman. *On singular integral and martingale transforms.* Trans. Amer. Math. Soc. 362 (2010), 553–575. [DOI](https://doi.org/10.1090/s0002-9947-09-04953-8)
 - **[Related]** A. Baernstein II, S. Montgomery-Smith. *Some conjectures about integral means of $\partial f$ and $\bar\partial f$.* In: Complex Analysis and Differential Equations (Uppsala, 1997), Acta Univ. Upsaliensis, 1999, 92–109.
-- **[Survey]** R. Bañuelos. *The foundational inequalities of D. L. Burkholder and some of their ramifications.* Illinois J. Math. 54 (2010), 789–868.
+- **[Survey]** R. Bañuelos. *The foundational inequalities of D. L. Burkholder and some of their ramifications.* Illinois J. Math. 54 (2010), 789–868. [DOI](https://doi.org/10.1215/ijm/1336049979)
 - **[Book]** K. Astala, T. Iwaniec, G. Martin. *Elliptic Partial Differential Equations and Quasiconformal Mappings in the Plane.* Princeton University Press, 2009.
-- **[Book]** A. Osękowski. *Sharp Martingale and Semimartingale Inequalities.* Monografie Matematyczne 72, Birkhäuser, 2012.
+- **[Book]** A. Osękowski. *Sharp Martingale and Semimartingale Inequalities.* Monografie Matematyczne 72, Birkhäuser, 2012. [DOI](https://doi.org/10.1007/978-3-0348-0370-0)
 - **[Book]** V. Vasyunin, A. Volberg. *The Bellman Function Technique in Harmonic Analysis.* Cambridge Studies in Advanced Mathematics 186, Cambridge University Press, 2020.
 
 ## 10. Worked Example / Concrete Special Case

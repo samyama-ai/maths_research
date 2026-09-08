@@ -91,18 +91,18 @@ Proven: $A=I$ for $w\le 4$ (with $p\ge 5$). Disproved: the general claim "$w<p \
 ## 9. Key References
 
 - **[Foundational]** G. D. James. *The decomposition matrices of $GL_n(q)$ for $n\le 10$.* Proc. London Math. Soc. (3) **60** (1990), 225–265.
-- **[Foundational]** G. James, A. Mathas. *A $q$-analogue of the Jantzen–Schaper theorem.* Proc. London Math. Soc. (3) **74** (1997), 241–274.
-- **[Foundational]** A. Lascoux, B. Leclerc, J.-Y. Thibon. *Hecke algebras at roots of unity and crystal bases of quantum affine algebras.* Comm. Math. Phys. **181** (1996), 205–263.
+- **[Foundational]** G. James, A. Mathas. *A $q$-analogue of the Jantzen–Schaper theorem.* Proc. London Math. Soc. (3) **74** (1997), 241–274. [DOI](https://doi.org/10.1112/s0024611597000099)
+- **[Foundational]** A. Lascoux, B. Leclerc, J.-Y. Thibon. *Hecke algebras at roots of unity and crystal bases of quantum affine algebras.* Comm. Math. Phys. **181** (1996), 205–263. [DOI](https://doi.org/10.1007/bf02101678)
 - **[Foundational]** S. Ariki. *On the decomposition numbers of the Hecke algebra of $G(m,1,n)$.* J. Math. Kyoto Univ. **36** (1996), 789–808.
-- **[SOTA]** G. Williamson. *Schubert calculus and torsion explosion.* J. Amer. Math. Soc. **30** (2017), 1023–1046 (with an appendix by A. Kontorovich, P. J. McNamara and G. Williamson).
-- **[SOTA]** S. Riche, G. Williamson. *Tilting modules and the $p$-canonical basis.* Astérisque **397**, Soc. Math. France, 2018.
-- **[SOTA]** L. T. Jensen, G. Williamson. *The $p$-canonical basis for Hecke algebras.* In *Categorification and Higher Representation Theory*, Contemp. Math. **683**, AMS, 2017, 333–361.
-- **[Partial results]** M. J. Richards. *Some decomposition numbers for Hecke algebras of general linear groups.* Math. Proc. Cambridge Philos. Soc. **119** (1996), 383–402.
-- **[Partial results]** M. Fayers. *Decomposition numbers for weight three blocks of symmetric groups and Iwahori–Hecke algebras.* Trans. Amer. Math. Soc. **360** (2008), 1341–1376.
-- **[Partial results]** M. Fayers. *James's Conjecture holds for weight four blocks of Iwahori–Hecke algebras.* J. Algebra **317** (2007), 593–633.
+- **[SOTA]** G. Williamson. *Schubert calculus and torsion explosion.* J. Amer. Math. Soc. **30** (2017), 1023–1046 (with an appendix by A. Kontorovich, P. J. McNamara and G. Williamson). [DOI](https://doi.org/10.1090/jams/868)
+- **[SOTA]** S. Riche, G. Williamson. *Tilting modules and the $p$-canonical basis.* Astérisque **397**, Soc. Math. France, 2018. [DOI](https://doi.org/10.24033/ast.1043)
+- **[SOTA]** L. T. Jensen, G. Williamson. *The $p$-canonical basis for Hecke algebras.* In *Categorification and Higher Representation Theory*, Contemp. Math. **683**, AMS, 2017, 333–361. [DOI](https://doi.org/10.1090/conm/683/13719)
+- **[Partial results]** M. J. Richards. *Some decomposition numbers for Hecke algebras of general linear groups.* Math. Proc. Cambridge Philos. Soc. **119** (1996), 383–402. [DOI](https://doi.org/10.1017/s0305004100074296)
+- **[Partial results]** M. Fayers. *Decomposition numbers for weight three blocks of symmetric groups and Iwahori–Hecke algebras.* Trans. Amer. Math. Soc. **360** (2008), 1341–1376. [DOI](https://doi.org/10.1090/s0002-9947-07-04156-6)
+- **[Partial results]** M. Fayers. *James's Conjecture holds for weight four blocks of Iwahori–Hecke algebras.* J. Algebra **317** (2007), 593–633. [DOI](https://doi.org/10.1016/j.jalgebra.2007.08.006)
 - **[Structural]** J. Chuang, R. Rouquier. *Derived equivalences for symmetric groups and $\mathfrak{sl}_2$-categorification.* Ann. of Math. (2) **167** (2008), 245–298.
-- **[Survey/Book]** A. Mathas. *Iwahori–Hecke Algebras and Schur Algebras of the Symmetric Group.* Univ. Lecture Series **15**, AMS, 1999.
-- **[Related]** P. Fiebig. *An upper bound on the exceptional characteristics for Lusztig's character formula.* J. reine angew. Math. **673** (2012), 1–31.
+- **[Survey/Book]** A. Mathas. *Iwahori–Hecke Algebras and Schur Algebras of the Symmetric Group.* Univ. Lecture Series **15**, AMS, 1999. [DOI](https://doi.org/10.1090/ulect/015)
+- **[Related]** P. Fiebig. *An upper bound on the exceptional characteristics for Lusztig's character formula.* J. reine angew. Math. **673** (2012), 1–31. [DOI](https://doi.org/10.1515/crelle.2011.170)
 
 ## 10. Worked Example / Concrete Special Case
 

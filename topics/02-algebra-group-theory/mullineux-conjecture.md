@@ -99,17 +99,17 @@ For the classical statement, there is no gap: $M_p=\mathsf{K}_p$ is proved. The 
 
 ## 9. Key References
 
-- **[Foundational]** G. Mullineux. *Bijections of $p$-regular partitions and $p$-modular irreducibles of the symmetric groups.* J. London Math. Soc. (2) **20** (1979), 60–66.
-- **[Foundational]** G. Mullineux. *On the $p$-cores of $p$-regular diagrams.* J. London Math. Soc. (2) **20** (1979), 222–226.
+- **[Foundational]** G. Mullineux. *Bijections of $p$-regular partitions and $p$-modular irreducibles of the symmetric groups.* J. London Math. Soc. (2) **20** (1979), 60–66. [DOI](https://doi.org/10.1112/jlms/s2-20.1.60)
+- **[Foundational]** G. Mullineux. *On the $p$-cores of $p$-regular diagrams.* J. London Math. Soc. (2) **20** (1979), 222–226. [DOI](https://doi.org/10.1112/jlms/s2-20.2.222)
 - **[Foundational]** G. James. *The Representation Theory of the Symmetric Groups.* Lecture Notes in Mathematics 682, Springer, 1978.
-- **[Solution]** B. Ford, A. S. Kleshchev. *A proof of the Mullineux conjecture.* Mathematische Zeitschrift **226** (1997), 267–308.
-- **[Key step]** A. S. Kleshchev. *Branching rules for modular representations of symmetric groups III: some corollaries and a problem of Mullineux.* J. London Math. Soc. (2) **54** (1996), 25–38.
-- **[Alternative proof]** C. Bessenrodt, J. B. Olsson. *On residue symbols and the Mullineux conjecture.* J. Algebraic Combinatorics **7** (1998), 227–251.
-- **[Alternative proof]** M. Xu. *On Mullineux' conjecture in the representation theory of symmetric groups.* Communications in Algebra **25** (1997), 1797–1803.
-- **[Super-algebraic proof]** J. Brundan, J. Kujawa. *A new proof of the Mullineux conjecture.* J. Algebraic Combinatorics **18** (2003), 13–39.
-- **[Related]** C. Bessenrodt, J. B. Olsson, M. Xu. *On properties of the Mullineux map with an application to Schur modules.* Math. Proc. Cambridge Philos. Soc. **126** (1999), 443–459.
-- **[Combinatorics]** G. E. Andrews, J. B. Olsson. *Partition identities with an application to group representation theory.* J. reine angew. Math. **413** (1991), 198–212.
-- **[Higher level]** N. Jacon, C. Lecouvey. *On the Mullineux involution for Ariki–Koike algebras.* Journal of Algebra **321** (2009), 2156–2170.
+- **[Solution]** B. Ford, A. S. Kleshchev. *A proof of the Mullineux conjecture.* Mathematische Zeitschrift **226** (1997), 267–308. [DOI](https://doi.org/10.1007/pl00004340)
+- **[Key step]** A. S. Kleshchev. *Branching rules for modular representations of symmetric groups III: some corollaries and a problem of Mullineux.* J. London Math. Soc. (2) **54** (1996), 25–38. [DOI](https://doi.org/10.1112/jlms/54.1.25)
+- **[Alternative proof]** C. Bessenrodt, J. B. Olsson. *On residue symbols and the Mullineux conjecture.* J. Algebraic Combinatorics **7** (1998), 227–251. [DOI](https://doi.org/10.1023/a:1008618621557)
+- **[Alternative proof]** M. Xu. *On Mullineux' conjecture in the representation theory of symmetric groups.* Communications in Algebra **25** (1997), 1797–1803. [DOI](https://doi.org/10.1080/00927879708825953)
+- **[Super-algebraic proof]** J. Brundan, J. Kujawa. *A new proof of the Mullineux conjecture.* J. Algebraic Combinatorics **18** (2003), 13–39. [DOI](https://doi.org/10.1023/a:1025113308552)
+- **[Related]** C. Bessenrodt, J. B. Olsson, M. Xu. *On properties of the Mullineux map with an application to Schur modules.* Math. Proc. Cambridge Philos. Soc. **126** (1999), 443–459. [DOI](https://doi.org/10.1017/s0305004199003424)
+- **[Combinatorics]** G. E. Andrews, J. B. Olsson. *Partition identities with an application to group representation theory.* J. reine angew. Math. **413** (1991), 198–212. [DOI](https://doi.org/10.1515/crll.1991.413.198)
+- **[Higher level]** N. Jacon, C. Lecouvey. *On the Mullineux involution for Ariki–Koike algebras.* Journal of Algebra **321** (2009), 2156–2170. [DOI](https://doi.org/10.1016/j.jalgebra.2008.09.033)
 - **[Survey / textbook]** A. S. Kleshchev. *Linear and Projective Representations of Symmetric Groups.* Cambridge Tracts in Mathematics 163, Cambridge University Press, 2005.
 
 ## 10. Worked Example / Concrete Special Case

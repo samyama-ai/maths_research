@@ -107,21 +107,21 @@ What is proven (Section 4) covers $s>-1/2$ on $\mathbb{R}$ and $\mathbb{T}$; wha
 
 ## 9. Key References
 
-- **[Foundational]** T. B. Benjamin. *Internal waves of permanent form in fluids of great depth.* J. Fluid Mech. **29** (1967), 559–592.
-- **[Foundational]** H. Ono. *Algebraic solitary waves in stratified fluids.* J. Phys. Soc. Japan **39** (1975), 1082–1091.
-- **[Foundational]** R. J. Iório Jr. *On the Cauchy problem for the Benjamin–Ono equation.* Comm. Partial Differential Equations **11** (1986), 1031–1081.
-- **[Obstruction]** L. Molinet, J.-C. Saut, N. Tzvetkov. *Ill-posedness issues for the Benjamin–Ono and related equations.* SIAM J. Math. Anal. **33** (2001), 982–988.
+- **[Foundational]** T. B. Benjamin. *Internal waves of permanent form in fluids of great depth.* J. Fluid Mech. **29** (1967), 559–592. [DOI](https://doi.org/10.1017/s002211206700103x)
+- **[Foundational]** H. Ono. *Algebraic solitary waves in stratified fluids.* J. Phys. Soc. Japan **39** (1975), 1082–1091. [DOI](https://doi.org/10.1143/jpsj.39.1082)
+- **[Foundational]** R. J. Iório Jr. *On the Cauchy problem for the Benjamin–Ono equation.* Comm. Partial Differential Equations **11** (1986), 1031–1081. [DOI](https://doi.org/10.1080/03605308608820456)
+- **[Obstruction]** L. Molinet, J.-C. Saut, N. Tzvetkov. *Ill-posedness issues for the Benjamin–Ono and related equations.* SIAM J. Math. Anal. **33** (2001), 982–988. [DOI](https://doi.org/10.1137/s0036141001385307)
 - **[Breakthrough]** T. Tao. *Global well-posedness of the Benjamin–Ono equation in $H^1(\mathbb{R})$.* J. Hyperbolic Differ. Equ. **1** (2004), 27–49.
-- **[Breakthrough]** A. D. Ionescu, C. E. Kenig. *Global well-posedness of the Benjamin–Ono equation in low-regularity spaces.* J. Amer. Math. Soc. **20** (2007), 753–798.
-- **[Periodic]** L. Molinet. *Global well-posedness in $L^2$ for the periodic Benjamin–Ono equation.* Amer. J. Math. **130** (2008), 635–683.
-- **[Refinement]** L. Molinet, D. Pilod. *The Cauchy problem for the Benjamin–Ono equation in $L^2$ revisited.* Anal. PDE **5** (2012), 365–395.
-- **[Method]** M. Ifrim, D. Tataru. *Well-posedness and dispersive decay of small data solutions for the Benjamin–Ono equation.* Ann. Sci. Éc. Norm. Supér. **52** (2019), 297–335.
-- **[Integrability]** P. Gérard, T. Kappeler. *On the integrability of the Benjamin–Ono equation on the torus.* Comm. Pure Appl. Math. **74** (2021), 1685–1747.
-- **[A priori bounds]** B. Talbut. *Low regularity conservation laws for the Benjamin–Ono equation.* Math. Res. Lett. **28** (2021), 889–905.
-- **[SOTA]** P. Gérard, T. Kappeler, P. Topalov. *Sharp well-posedness results of the Benjamin–Ono equation in $H^s(\mathbb{T},\mathbb{R})$ and qualitative properties of its solutions.* Acta Math. **231** (2023), 31–88.
-- **[SOTA]** P. Gérard. *An explicit formula for the Benjamin–Ono equation.* Tunisian J. Math. **5** (2023), 593–603.
-- **[SOTA]** R. Killip, T. Laurens, M. Vişan. *Sharp well-posedness for the Benjamin–Ono equation.* Invent. Math. **236** (2024), 999–1054.
-- **[Survey]** J.-C. Saut. *Benjamin–Ono and intermediate long wave equations: modeling, IST and PDE.* In *Nonlinear Dispersive Partial Differential Equations and Inverse Scattering*, Fields Institute Communications **83**, Springer, 2019.
+- **[Breakthrough]** A. D. Ionescu, C. E. Kenig. *Global well-posedness of the Benjamin–Ono equation in low-regularity spaces.* J. Amer. Math. Soc. **20** (2007), 753–798. [DOI](https://doi.org/10.1090/s0894-0347-06-00551-0)
+- **[Periodic]** L. Molinet. *Global well-posedness in $L^2$ for the periodic Benjamin–Ono equation.* Amer. J. Math. **130** (2008), 635–683. [DOI](https://doi.org/10.1353/ajm.0.0001)
+- **[Refinement]** L. Molinet, D. Pilod. *The Cauchy problem for the Benjamin–Ono equation in $L^2$ revisited.* Anal. PDE **5** (2012), 365–395. [DOI](https://doi.org/10.2140/apde.2012.5.365)
+- **[Method]** M. Ifrim, D. Tataru. *Well-posedness and dispersive decay of small data solutions for the Benjamin–Ono equation.* Ann. Sci. Éc. Norm. Supér. **52** (2019), 297–335. [DOI](https://doi.org/10.24033/asens.2388)
+- **[Integrability]** P. Gérard, T. Kappeler. *On the integrability of the Benjamin–Ono equation on the torus.* Comm. Pure Appl. Math. **74** (2021), 1685–1747. [DOI](https://doi.org/10.1002/cpa.21896)
+- **[A priori bounds]** B. Talbut. *Low regularity conservation laws for the Benjamin–Ono equation.* Math. Res. Lett. **28** (2021), 889–905. [DOI](https://doi.org/10.4310/mrl.2021.v28.n3.a11)
+- **[SOTA]** P. Gérard, T. Kappeler, P. Topalov. *Sharp well-posedness results of the Benjamin–Ono equation in $H^s(\mathbb{T},\mathbb{R})$ and qualitative properties of its solutions.* Acta Math. **231** (2023), 31–88. [DOI](https://doi.org/10.4310/acta.2023.v231.n1.a2)
+- **[SOTA]** P. Gérard. *An explicit formula for the Benjamin–Ono equation.* Tunisian J. Math. **5** (2023), 593–603. [DOI](https://doi.org/10.2140/tunis.2023.5.593)
+- **[SOTA]** R. Killip, T. Laurens, M. Vişan. *Sharp well-posedness for the Benjamin–Ono equation.* Invent. Math. **236** (2024), 999–1054. [DOI](https://doi.org/10.1007/s00222-024-01250-8)
+- **[Survey]** J.-C. Saut. *Benjamin–Ono and intermediate long wave equations: modeling, IST and PDE.* In *Nonlinear Dispersive Partial Differential Equations and Inverse Scattering*, Fields Institute Communications **83**, Springer, 2019. [DOI](https://doi.org/10.1007/978-1-4939-9806-7_3)
 
 ## 10. Worked Example: the soliton family and the exponent $-1/2$
 

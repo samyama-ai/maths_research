@@ -110,22 +110,22 @@ Proven: the $p$-part for all odd $p$ and all totally real $F$; everything for ab
 
 ## 9. Key References
 
-- **[Foundational]** S. Lichtenbaum. *Values of zeta-functions, étale cohomology, and algebraic K-theory.* In: Algebraic K-Theory II, Lecture Notes in Mathematics 342, Springer, 1973, pp. 489–501.
+- **[Foundational]** S. Lichtenbaum. *Values of zeta-functions, étale cohomology, and algebraic K-theory.* In: Algebraic K-Theory II, Lecture Notes in Mathematics 342, Springer, 1973, pp. 489–501. [DOI](https://doi.org/10.1007/bfb0073737)
 - **[Foundational]** D. Quillen. *Higher algebraic K-theory I.* Lecture Notes in Mathematics 341, Springer, 1973.
-- **[Foundational]** A. Borel. *Stable real cohomology of arithmetic groups.* Annales scientifiques de l'ENS, 1974.
+- **[Foundational]** A. Borel. *Stable real cohomology of arithmetic groups.* Annales scientifiques de l'ENS, 1974. [DOI](https://doi.org/10.24033/asens.1269)
 - **[Foundational]** J. Tate. *Symbols in arithmetic.* Actes du Congrès International des Mathématiciens (Nice, 1970), Gauthier-Villars, 1971.
-- **[Key result]** B. Mazur, A. Wiles. *Class fields of abelian extensions of $\mathbb{Q}$.* Inventiones Mathematicae 76, 1984.
-- **[Key result]** A. Wiles. *The Iwasawa conjecture for totally real fields.* Annals of Mathematics 131, 1990.
-- **[Key result]** M. Kolster, T. Nguyen Quang Do, V. Fleckinger. *Twisted S-units, p-adic class number formulas, and the Lichtenbaum conjectures.* Duke Mathematical Journal 84, 1996 (with correction, Duke Math. J. 90, 1997).
-- **[SOTA / Recent]** J. Rognes, C. Weibel. *Two-primary algebraic K-theory of rings of integers in number fields.* Journal of the AMS 13, 2000.
-- **[SOTA / Recent]** A. Huber, G. Kings. *Bloch–Kato conjecture and Main Conjecture of Iwasawa theory for Dirichlet characters.* Duke Mathematical Journal 119, 2003.
-- **[SOTA / Recent]** D. Burns, C. Greither. *On the equivariant Tamagawa number conjecture for Tate motives.* Inventiones Mathematicae 153, 2003.
+- **[Key result]** B. Mazur, A. Wiles. *Class fields of abelian extensions of $\mathbb{Q}$.* Inventiones Mathematicae 76, 1984. [DOI](https://doi.org/10.1007/bf01388599)
+- **[Key result]** A. Wiles. *The Iwasawa conjecture for totally real fields.* Annals of Mathematics 131, 1990. [DOI](https://doi.org/10.2307/1971468)
+- **[Key result]** M. Kolster, T. Nguyen Quang Do, V. Fleckinger. *Twisted S-units, p-adic class number formulas, and the Lichtenbaum conjectures.* Duke Mathematical Journal 84, 1996 (with correction, Duke Math. J. 90, 1997). [DOI](https://doi.org/10.1215/s0012-7094-96-08421-5)
+- **[SOTA / Recent]** J. Rognes, C. Weibel. *Two-primary algebraic K-theory of rings of integers in number fields.* Journal of the AMS 13, 2000. [DOI](https://doi.org/10.1090/s0894-0347-99-00317-3)
+- **[SOTA / Recent]** A. Huber, G. Kings. *Bloch–Kato conjecture and Main Conjecture of Iwasawa theory for Dirichlet characters.* Duke Mathematical Journal 119, 2003. [DOI](https://doi.org/10.1215/s0012-7094-03-11931-6)
+- **[SOTA / Recent]** D. Burns, C. Greither. *On the equivariant Tamagawa number conjecture for Tate motives.* Inventiones Mathematicae 153, 2003. [DOI](https://doi.org/10.1007/s00222-003-0291-x)
 - **[SOTA / Recent]** V. Voevodsky. *On motivic cohomology with $\mathbb{Z}/\ell$-coefficients.* Annals of Mathematics 174, 2011.
-- **[SOTA / Recent]** S. Lichtenbaum. *The Weil-étale topology for number rings.* Annals of Mathematics 170, 2009.
-- **[SOTA / Recent]** M. Flach, B. Morin. *Weil-étale cohomology and zeta values of proper regular arithmetic schemes.* Documenta Mathematica 23, 2018.
-- **[Survey]** C. Weibel. *Algebraic K-theory of rings of integers in local and global fields.* Handbook of K-Theory, Springer, 2005.
+- **[SOTA / Recent]** S. Lichtenbaum. *The Weil-étale topology for number rings.* Annals of Mathematics 170, 2009. [DOI](https://doi.org/10.4007/annals.2009.170.657)
+- **[SOTA / Recent]** M. Flach, B. Morin. *Weil-étale cohomology and zeta values of proper regular arithmetic schemes.* Documenta Mathematica 23, 2018. [DOI](https://doi.org/10.4171/dm/651)
+- **[Survey]** C. Weibel. *Algebraic K-theory of rings of integers in local and global fields.* Handbook of K-Theory, Springer, 2005. [DOI](https://doi.org/10.1007/978-3-540-27855-9_5)
 - **[Survey]** M. Kolster. *K-theory and arithmetic.* Contemporary Developments in Algebraic K-theory, ICTP Lecture Notes 15, 2004.
-- **[Survey]** J. S. Milne. *Values of zeta functions of varieties over finite fields.* American Journal of Mathematics 108, 1986.
+- **[Survey]** J. S. Milne. *Values of zeta functions of varieties over finite fields.* American Journal of Mathematics 108, 1986. [DOI](https://doi.org/10.2307/2374676)
 
 ## 10. Worked Example / Concrete Special Case
 

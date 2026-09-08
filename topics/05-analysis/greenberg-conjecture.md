@@ -99,9 +99,9 @@ Leading mathematicians suggest that future breakthroughs will likely not come fr
 
 ## 9. Key References
 
-- **[Foundational]** Greenberg, R. *On the Iwasawa invariants of totally real number fields.* American Journal of Mathematics, 1976.
-- **[Foundational]** Ferrero, B., and Washington, L. C. *The Iwasawa invariant $\mu_p$ vanishes for abelian number fields.* Annals of Mathematics, 1979.
-- **[Foundational]** Wiles, A. *The Iwasawa Conjecture for Totally Real Fields.* Annals of Mathematics, 1990.
+- **[Foundational]** Greenberg, R. *On the Iwasawa invariants of totally real number fields.* American Journal of Mathematics, 1976. [DOI](https://doi.org/10.2307/2373625)
+- **[Foundational]** Ferrero, B., and Washington, L. C. *The Iwasawa invariant $\mu_p$ vanishes for abelian number fields.* Annals of Mathematics, 1979. [DOI](https://doi.org/10.2307/1971116)
+- **[Foundational]** Wiles, A. *The Iwasawa Conjecture for Totally Real Fields.* Annals of Mathematics, 1990. [DOI](https://doi.org/10.2307/1971468)
 - **[SOTA / Recent]** Fukuda, T., and Komatsu, K. *On the $\lambda$ invariants of $\mathbb{Z}_p$-extensions of real quadratic fields.* Journal of Number Theory, 2010.
 - **[SOTA / Recent]** Kurihara, M. *Refined Iwasawa theory and Kolyvagin systems of Stark units.* Euler Systems and Applications, 2012.
 - **[Survey]** Greenberg, R. *Iwasawa Theory - Past and Present.* Advanced Studies in Pure Mathematics, 2000.

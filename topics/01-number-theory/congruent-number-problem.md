@@ -108,7 +108,7 @@ Open pathways and strategies articulated by experts aiming to resolve the proble
 
 ## 9. Key References
 
-- **[Foundational]** Tunnell, Jerrold B. *A classical Diophantine problem and modular forms of weight 3/2.* Inventiones Mathematicae, 72(2):323–334, 1983.
+- **[Foundational]** Tunnell, Jerrold B. *A classical Diophantine problem and modular forms of weight 3/2.* Inventiones Mathematicae, 72(2):323–334, 1983. [DOI](https://doi.org/10.1007/bf01389327)
 - **[Foundational]** Gross, Benedict H., and Zagier, Don B. *Heegner points and derivatives of L-series.* Inventiones Mathematicae, 84(2):225–320, 1986.
 - **[SOTA / Recent]** Smith, Alexander. *The distribution of $\ell^\infty$-Selmer groups in quadratic twist families.* Annals of Mathematics, 2024.
 - **[SOTA / Recent]** Tian, Ye. *Congruent numbers with many prime factors.* Proceedings of the National Academy of Sciences, 111(9):3177–3178, 2014.

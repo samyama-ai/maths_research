@@ -5,24 +5,39 @@ Model theory, computability, cardinal arithmetic, descriptive set theory, proof 
 ## Problems Index
 
 * 🔴 [Algebra of Elementary Embeddings Freeness](./algebra-of-elementary-embeddings-freeness.md) — Is the algebra of elementary embeddings on a rank inherently free.
+* 🔴 [The Ramsey Property for Analytic Sets in Generic Extensions](./analytic-ramsey-property-generic-extensions.md) — Ramsey measurability of projective sets from large cardinals
+* 🟡 [Approachability Ideal and the Approachable Free Subset Property](./approachable-free-subset-property.md) — Strength of approachable free subset property at singulars
+* 🟡 [Automatizability of Resolution Proof Search](./automatizability-of-resolution.md) — Can resolution proofs be found in quasipolynomial time
+* 🔴 [The Hartmanis–Stearns Style Problem for Nonstandard Models: Kaye's Question](./automorphism-groups-of-countable-models-pa.md) — Reconstructing models of arithmetic from their automorphism groups
 * 🔴 [Automorphism Problem for Turing Degrees](./automorphism-problem-for-turing-degrees.md) — Are there non trivial automorphisms of the structure of Turing degrees.
 * 🟢 [Axiom of Projective Determinacy Consistency](./axiom-of-projective-determinacy-consistency.md) — Is projective determinacy consistent relative to the existence of Woodin cardinals.
 * 🟡 [Axiom of Real Determinacy Consistency](./axiom-of-real-determinacy-consistency.md) — Is the axiom of real determinacy consistent with basic set theory.
+* 🔴 [Todorcevic's Conjecture on Basis for Uncountable Graphs](./basis-problem-uncountable-graphs.md) — Is there a finite basis for uncountable graphs
+* 🔴 [Baumgartner's Problem on Isomorphism of Aleph-One Dense Sets](./baumgartner-axiom-higher-cardinals.md) — Generalizing all aleph-one dense sets isomorphic to aleph-two
 * 🔴 [Berkeley Cardinals Consistency](./berkeley-cardinals-consistency.md) — Are Berkeley cardinals consistent in choiceless constructive set theories.
 * 🔴 [Bi-Interpretability of the Turing Degrees](./bi-interpretability-of-turing-degrees.md) — Is the structure of Turing degrees bi interpretable with true arithmetic.
+* 🟡 [Friedman's Conjecture on Boolean Relation Theory](./boolean-relation-theory-independence.md) — Independence phenomena in Boolean relation theory statements
+* 🔴 [The Amenability Problem for Definable Group Actions and Borel Cardinality](./borel-cardinality-of-group-orbit-equivalence.md) — Classifying orbit equivalence relations of countable group actions
+* 🟡 [Borel Complexity of the Isomorphism Relation for Torsion-Free Abelian Groups of Finite Rank](./borel-complexity-finite-rank-abelian.md) — Increasing complexity of isomorphism as rank grows
+* 🟡 [Borel Complexity of the Isomorphism Relation for Separable Banach Spaces](./borel-complexity-isomorphism-banach-spaces.md) — Complexity of isomorphism among separable Banach spaces
 * 🟢 [Borel's Conjecture on Strong Measure Zero Sets](./borel-conjecture-strong-measure-zero.md) — All strong measure zero sets of real numbers are necessarily countable sets.
+* 🔴 [Wilkie's Problem on Models of Bounded Arithmetic and Factoring](./bounded-arithmetic-provability-of-factoring.md) — Can bounded arithmetic prove basic number-theoretic facts
 * 🟡 [Bounded Proper Forcing Axiom](./bounded-proper-forcing-axiom.md) — What is the exact consistency strength of the bounded proper forcing axiom.
 * 🔴 [Cardinality of the Continuum under Martin's Axiom](./cardinality-continuum-martins-axiom.md) — Finding allowed sizes of the continuum under Martin axiom without continuum hypothesis.
 * 🟡 [Chang Conjecture](./chang-conjecture.md) — Do certain structural relationships hold between specific infinite cardinalities.
 * 🟠 [The Church–Turing Thesis](./church-turing-thesis.md) — Can every computable function be computed by a Turing machine.
 * 🟢 [Cichoń's Maximum Problem](./cichon-maximum-problem.md) — Can all invariants in Cichon diagram be separated simultaneously into distinct values.
 * 🟡 [Club Guessing Principle Consistency](./club-guessing-principle-consistency.md) — Is the club guessing principle consistent with arbitrary large cardinals.
+* 🔴 [The Finite Axiomatizability Problem for Bounded Arithmetic Hierarchy](./collapse-of-bounded-arithmetic-hierarchy.md) — Does the bounded arithmetic hierarchy provably collapse
 * 🟢 [Conjugacy Problem for Braid Groups](./conjugacy-problem-for-braid-groups.md) — Is there an algorithm to solve the conjugacy problem in braid groups.
 * 🟡 [Consistency of Positive Set Theory](./consistency-of-positive-set-theory.md) — Is positive set theory consistent when augmented with certain closure axioms.
 * 🟢 [Consistency of Quine's New Foundations (NF)](./consistency-of-quine-new-foundations.md) — Is Quine set theory New Foundations equiconsistent with strictly bounded arithmetic.
 * 🟡 [Continuum Hypothesis](./continuum-hypothesis.md) — Is there a set sized strictly between the integers and the reals.
+* 🔴 [Fremlin's Problem on Measure Extension and the Control Measure Problem](./control-measure-problem.md) — Does every continuous submeasure admit an equivalent measure
 * 🔴 [Covering Lemma for Extender Models](./covering-lemma-for-extender-models.md) — Does a strong covering lemma hold for all canonical extender models.
 * 🔴 [Critical Sequence Problem](./critical-sequence-problem.md) — What are the limits on the critical sequence of an elementary embedding.
+* 🔴 [Proof Complexity Lower Bounds for Cutting Planes with Large Coefficients](./cutting-planes-large-coefficients-lower-bounds.md) — Superpolynomial lower bounds for unbounded-coefficient cutting planes proofs
+* 🟡 [Decidability of the Theory of Finite Fields with Frobenius (Ax's Problem Extension)](./decidability-difference-fields-frobenius.md) — Is the theory of Frobenius difference fields decidable
 * 🔴 [Decidability of the Existential Theory of the Rationals](./decidability-existential-theory-rationals.md) — Deciding whether diophantine equations have solutions within the field of rational numbers.
 * 🔴 [Decidability of the p-adic Exponential](./decidability-of-p-adic-exponential.md) — Is the field of p adic numbers with exponential function decidable.
 * 🟢 [Decidability of the Theory of the p-adic Numbers](./decidability-of-p-adic-theory.md) — Determining if the first order theory of padic numbers is logically decidable.
@@ -32,8 +47,11 @@ Model theory, computability, cardinal arithmetic, descriptive set theory, proof 
 * 🔴 [Decidability of the Theory of Rational Function Fields](./decidability-rational-function-fields.md) — Investigating the logical decidability of first order theories for rational function fields.
 * 🟡 [Definability of the Jump Operator](./definability-of-the-jump-operator.md) — Is the Turing jump operator definable in the partial order of degrees.
 * 🔴 [Definability of Truth in the Hyperarithmetic Universe](./definability-truth-hyperarithmetic.md) — Investigating limits of definable truth structures within higher order hyperarithmetic set theories.
+* 🟡 [Definability of Maximal Almost Disjoint Families](./definable-maximal-almost-disjoint-families.md) — Can a maximal almost disjoint family be analytic
+* 🔴 [Existence of a Definable Well-Ordering in the Chang Model](./definable-wellordering-chang-model.md) — Can the Chang model admit a definable well-ordering
 * 🟡 [Diamond Principle Consistency](./diamond-principle-consistency.md) — Can the diamond principle hold alongside various large cardinal hypotheses.
 * 🟡 [Dowker Space Problem](./dowker-space-problem.md) — Does there exist a normal topological space which is not countably paracompact.
+* 🟡 [The Elementary Equivalence Problem for Finitely Generated Nilpotent Groups](./elementary-equivalence-nilpotent-groups.md) — Do elementarily equivalent nilpotent groups share isomorphism type
 * 🟡 [Existence and Consistency of Erdős Cardinals](./erdos-cardinals-existence.md) — Are Erdos cardinals compatible with various combinatorial partition properties.
 * 🔴 [Existential Theory of Reals with Sine](./existential-theory-of-reals-with-sine.md) — Is the existential theory of the real field with sine function decidable.
 * 🟡 [Extender Models Core Model Problem](./extender-models-core-model-problem.md) — Does a core model exist for cardinals beyond a Woodin limit.

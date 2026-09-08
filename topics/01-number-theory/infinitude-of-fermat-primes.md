@@ -89,8 +89,8 @@ Leading mathematical consensus points to three long-term strategies:
 
 - **[Foundational]** Křížek, M., Luca, F., Somer, L. *17 Lectures on Fermat Numbers: From Number Theory to Geometry.* Springer-Verlag New York, 2001.
 - **[Foundational]** Pépin, T. *Sur la formule $2^{2^n}+1$.* Comptes Rendus de l'Académie des Sciences, 1877.
-- **[SOTA / Recent]** Crandall, R. E., Mayer, E. W., Papadopoulos, J. S. *The twenty-fourth Fermat number is composite.* Mathematics of Computation, 2003.
-- **[Survey]** Boklan, K. D., Conway, J. H. *Expect at most one billionth of a new Fermat Prime!* The Mathematical Intelligencer 39(1), 2017.
+- **[SOTA / Recent]** Crandall, R. E., Mayer, E. W., Papadopoulos, J. S. *The twenty-fourth Fermat number is composite.* Mathematics of Computation, 2003. [DOI](https://doi.org/10.1090/s0025-5718-02-01479-5)
+- **[Survey]** Boklan, K. D., Conway, J. H. *Expect at most one billionth of a new Fermat Prime!* The Mathematical Intelligencer 39(1), 2017. [DOI](https://doi.org/10.1007/s00283-016-9644-3)
 
 ## 10. Worked Example / Concrete Special Case
 

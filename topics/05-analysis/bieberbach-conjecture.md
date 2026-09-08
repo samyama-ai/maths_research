@@ -123,14 +123,14 @@ along the Loewner flow, provided $\dot\sigma_k(t) \le 0$ — and that last inequ
 ## 9. Key References
 
 - **[Foundational]** L. Bieberbach. *Über die Koeffizienten derjenigen Potenzreihen, welche eine schlichte Abbildung des Einheitskreises vermitteln.* Sitzungsber. Preuss. Akad. Wiss., 1916, 940–955.
-- **[Foundational]** C. Loewner. *Untersuchungen über schlichte konforme Abbildungen des Einheitskreises. I.* Mathematische Annalen **89** (1923), 103–121.
-- **[Foundational]** P. R. Garabedian, M. Schiffer. *A proof of the Bieberbach conjecture for the fourth coefficient.* J. Rational Mech. Anal. **4** (1955), 427–465.
+- **[Foundational]** C. Loewner. *Untersuchungen über schlichte konforme Abbildungen des Einheitskreises. I.* Mathematische Annalen **89** (1923), 103–121. [DOI](https://doi.org/10.1007/bf01448091)
+- **[Foundational]** P. R. Garabedian, M. Schiffer. *A proof of the Bieberbach conjecture for the fourth coefficient.* J. Rational Mech. Anal. **4** (1955), 427–465. [DOI](https://doi.org/10.21236/ad0047020)
 - **[Foundational]** I. M. Milin. *Univalent Functions and Orthonormal Systems.* American Mathematical Society, Translations of Mathematical Monographs 49, 1977.
 - **[SOTA]** L. de Branges. *A proof of the Bieberbach conjecture.* Acta Mathematica **154** (1985), 137–152.
-- **[SOTA]** R. Askey, G. Gasper. *Positive Jacobi polynomial sums II.* American Journal of Mathematics **98** (1976), 709–737.
+- **[SOTA]** R. Askey, G. Gasper. *Positive Jacobi polynomial sums II.* American Journal of Mathematics **98** (1976), 709–737. [DOI](https://doi.org/10.2307/2373813)
 - **[SOTA]** L. Weinstein. *The Bieberbach conjecture.* International Mathematics Research Notices **1991**, no. 5, 61–64.
-- **[SOTA]** C. H. FitzGerald, C. Pommerenke. *The de Branges theorem on univalent functions.* Transactions of the American Mathematical Society **290** (1985), 683–690.
-- **[Recent]** R. Greiner, O. Roth. *On support points of univalent functions and a disproof of a conjecture of Bombieri.* Proceedings of the American Mathematical Society **129** (2001), 3657–3664.
+- **[SOTA]** C. H. FitzGerald, C. Pommerenke. *The de Branges theorem on univalent functions.* Transactions of the American Mathematical Society **290** (1985), 683–690. [DOI](https://doi.org/10.1090/s0002-9947-1985-0792819-9)
+- **[Recent]** R. Greiner, O. Roth. *On support points of univalent functions and a disproof of a conjecture of Bombieri.* Proceedings of the American Mathematical Society **129** (2001), 3657–3664. [DOI](https://doi.org/10.1090/s0002-9939-01-05994-9)
 - **[Survey]** P. L. Duren. *Univalent Functions.* Grundlehren der mathematischen Wissenschaften 259, Springer, 1983.
 - **[Survey]** C. Pommerenke. *Univalent Functions.* Vandenhoeck & Ruprecht, Göttingen, 1975.
 - **[Survey]** A. Baernstein, D. Drasin, P. Duren, A. Marden (eds.). *The Bieberbach Conjecture: Proceedings of the Symposium on the Occasion of the Proof.* AMS Mathematical Surveys 21, 1986.

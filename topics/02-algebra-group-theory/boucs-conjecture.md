@@ -97,17 +97,17 @@ Open: whether the $2$-biset functor $Q := D/D^{\Omega}$ vanishes. Concretely, th
 ## 9. Key References
 
 - **[Foundational]** E. C. Dade. *Endo-permutation modules over $p$-groups, I and II.* Annals of Mathematics **107** (1978), 459–494; **108** (1978), 317–346.
-- **[Foundational]** S. Bouc, J. Thévenaz. *The group of endo-permutation modules.* Inventiones Mathematicae **139** (2000), 275–349.
-- **[Foundational]** S. Bouc. *Tensor induction of relative syzygies.* Journal für die reine und angewandte Mathematik **523** (2000), 113–171.
-- **[SOTA]** S. Bouc. *The Dade group of a $p$-group.* Inventiones Mathematicae **164** (2006), 189–231.
-- **[SOTA]** J. F. Carlson, J. Thévenaz. *The classification of endo-trivial modules.* Inventiones Mathematicae **158** (2004), 389–411.
+- **[Foundational]** S. Bouc, J. Thévenaz. *The group of endo-permutation modules.* Inventiones Mathematicae **139** (2000), 275–349. [DOI](https://doi.org/10.1007/s002229900026)
+- **[Foundational]** S. Bouc. *Tensor induction of relative syzygies.* Journal für die reine und angewandte Mathematik **523** (2000), 113–171. [DOI](https://doi.org/10.1515/crll.2000.045)
+- **[SOTA]** S. Bouc. *The Dade group of a $p$-group.* Inventiones Mathematicae **164** (2006), 189–231. [DOI](https://doi.org/10.1007/s00222-005-0476-6)
+- **[SOTA]** J. F. Carlson, J. Thévenaz. *The classification of endo-trivial modules.* Inventiones Mathematicae **158** (2004), 389–411. [DOI](https://doi.org/10.1007/s00222-004-0385-0)
 - **[SOTA]** J. F. Carlson, J. Thévenaz. *The torsion group of endotrivial modules.* Annals of Mathematics **162** (2005), 823–883.
-- **[SOTA]** S. Bouc, E. Yalçın. *Borel–Smith functions and the Dade group.* Journal of Algebra **311** (2007), 821–839.
-- **[Related]** S. Bouc, N. Mazza. *The Dade group of (almost) extraspecial $p$-groups.* Journal of Pure and Applied Algebra **192** (2004), 21–51.
-- **[Related]** J. L. Alperin. *A construction of endo-permutation modules.* Journal of Group Theory **4** (2001), 3–10.
+- **[SOTA]** S. Bouc, E. Yalçın. *Borel–Smith functions and the Dade group.* Journal of Algebra **311** (2007), 821–839. [DOI](https://doi.org/10.1016/j.jalgebra.2006.11.022)
+- **[Related]** S. Bouc, N. Mazza. *The Dade group of (almost) extraspecial $p$-groups.* Journal of Pure and Applied Algebra **192** (2004), 21–51. [DOI](https://doi.org/10.1016/j.jpaa.2004.02.008)
+- **[Related]** J. L. Alperin. *A construction of endo-permutation modules.* Journal of Group Theory **4** (2001), 3–10. [DOI](https://doi.org/10.1515/jgth.2001.005)
 - **[Survey]** J. Thévenaz. *Endo-permutation modules, a guided tour.* In *Group Representation Theory*, EPFL Press, Lausanne, 2007, 115–147.
 - **[Survey / Book]** S. Bouc. *Biset Functors for Finite Groups.* Lecture Notes in Mathematics **1990**, Springer, 2010.
-- **[Survey / Book]** N. Mazza. *Endotrivial Modules.* SpringerBriefs in Mathematics, Springer, 2019.
+- **[Survey / Book]** N. Mazza. *Endotrivial Modules.* SpringerBriefs in Mathematics, Springer, 2019. [DOI](https://doi.org/10.1007/978-3-030-18156-7_2)
 - **[Context]** M. Linckelmann. *The Block Theory of Finite Group Algebras*, Volumes 1–2. London Mathematical Society Student Texts, Cambridge University Press, 2018.
 
 ## 10. Worked Example / Concrete Special Case

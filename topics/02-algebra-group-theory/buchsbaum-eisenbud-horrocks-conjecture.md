@@ -100,15 +100,15 @@ Two distinct gaps remain.
 
 ## 9. Key References
 
-- **[Foundational]** D. A. Buchsbaum, D. Eisenbud. *Algebra structures for finite free resolutions, and some structure theorems for ideals of codimension 3.* American Journal of Mathematics **99** (1977), 447–485.
-- **[Foundational]** R. Hartshorne. *Algebraic vector bundles on projective spaces: a problem list.* Topology **18** (1979), 117–128.
+- **[Foundational]** D. A. Buchsbaum, D. Eisenbud. *Algebra structures for finite free resolutions, and some structure theorems for ideals of codimension 3.* American Journal of Mathematics **99** (1977), 447–485. [DOI](https://doi.org/10.2307/2373926)
+- **[Foundational]** R. Hartshorne. *Algebraic vector bundles on projective spaces: a problem list.* Topology **18** (1979), 117–128. [DOI](https://doi.org/10.1016/0040-9383(79)90030-2)
 - **[Foundational]** E. G. Evans, P. Griffith. *Syzygies.* London Mathematical Society Lecture Note Series **106**, Cambridge University Press, 1985.
-- **[SOTA / Recent]** M. E. Walker. *Total Betti numbers of modules of finite projective dimension.* Annals of Mathematics **186** (2017), 641–646.
-- **[SOTA / Recent]** S. B. Iyengar, M. E. Walker. *Examples of finite free complexes of small rank and small homology.* Acta Mathematica **221** (2018), 143–158.
+- **[SOTA / Recent]** M. E. Walker. *Total Betti numbers of modules of finite projective dimension.* Annals of Mathematics **186** (2017), 641–646. [DOI](https://doi.org/10.4007/annals.2017.186.2.6)
+- **[SOTA / Recent]** S. B. Iyengar, M. E. Walker. *Examples of finite free complexes of small rank and small homology.* Acta Mathematica **221** (2018), 143–158. [DOI](https://doi.org/10.4310/acta.2018.v221.n1.a4)
 - **[Partial results]** H. Charalambous. *Lower bounds for Betti numbers of multigraded modules.* Journal of Algebra **137** (1991), 491–500.
-- **[Partial results]** D. Erman. *A special case of the Buchsbaum–Eisenbud–Horrocks rank conjecture.* Mathematical Research Letters **17** (2010), 1079–1089.
+- **[Partial results]** D. Erman. *A special case of the Buchsbaum–Eisenbud–Horrocks rank conjecture.* Mathematical Research Letters **17** (2010), 1079–1089. [DOI](https://doi.org/10.4310/mrl.2010.v17.n6.a7)
 - **[Survey]** H. Charalambous, E. G. Evans. *Problems on Betti numbers of finite length modules.* In *Free Resolutions in Commutative Algebra and Algebraic Geometry* (Sundance 1990), Research Notes in Mathematics **2**, Jones and Bartlett, 1992.
-- **[Survey]** L. L. Avramov. *Infinite free resolutions.* In *Six Lectures on Commutative Algebra*, Progress in Mathematics **166**, Birkhäuser, 1998.
+- **[Survey]** L. L. Avramov. *Infinite free resolutions.* In *Six Lectures on Commutative Algebra*, Progress in Mathematics **166**, Birkhäuser, 1998. [DOI](https://doi.org/10.1007/978-3-0346-0329-4_1)
 - **[Background]** J. Herzog, M. Kühl. *On the Betti numbers of finite pure and linear resolutions.* Communications in Algebra **12** (1984), 1627–1646.
 
 ## 10. Worked Example / Concrete Special Case

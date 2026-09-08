@@ -646,5 +646,305 @@
     "slug": "turaev-surface-words-conjecture",
     "status": "open",
     "description": "Virtual knots can be faithfully represented by equivalence classes of surface words."
+  },
+  {
+    "title": "Wall's Conjecture on Stable Diffeomorphism of 4-Manifolds",
+    "slug": "wall-stable-diffeomorphism-conjecture",
+    "status": "partially-solved",
+    "description": "Homotopy equivalent 4-manifolds become diffeomorphic after connected sums"
+  },
+  {
+    "title": "Bordism Invariance of the Rokhlin Invariant Problem",
+    "slug": "rokhlin-invariant-homology-spheres",
+    "status": "open",
+    "description": "Structure of homology cobordism group in dimension three"
+  },
+  {
+    "title": "Whitehead Manifold Uniqueness Problem",
+    "slug": "whitehead-manifold-uniqueness",
+    "status": "open",
+    "description": "Classifying contractible open three-manifolds up to homeomorphism"
+  },
+  {
+    "title": "Volume Conjecture for Turaev\u2013Viro Invariants of Links in 3-Manifolds",
+    "slug": "chen-yang-volume-conjecture",
+    "status": "partially-solved",
+    "description": "Turaev-Viro invariants grow like hyperbolic volume exponentially"
+  },
+  {
+    "title": "Knot Concordance Group Torsion Problem",
+    "slug": "knot-concordance-torsion-problem",
+    "status": "open",
+    "description": "Whether concordance group has torsion beyond order two"
+  },
+  {
+    "title": "Bennequin-Type Bound Sharpness and the Thurston\u2013Bennequin Problem",
+    "slug": "maximal-thurston-bennequin-number-computation",
+    "status": "open",
+    "description": "Computing maximal Thurston-Bennequin number for arbitrary knots"
+  },
+  {
+    "title": "Legendrian Simplicity of Knot Types",
+    "slug": "legendrian-simplicity-classification",
+    "status": "open",
+    "description": "Classifying knots whose Legendrian representatives are classically determined"
+  },
+  {
+    "title": "Existence of Tight Contact Structures on All Closed 3-Manifolds",
+    "slug": "tight-contact-structure-existence",
+    "status": "partially-solved",
+    "description": "Which three-manifolds admit tight contact structures"
+  },
+  {
+    "title": "Weinstein Conjecture in Higher Dimensions",
+    "slug": "weinstein-conjecture-higher-dimensions",
+    "status": "partially-solved",
+    "description": "Reeb vector fields always admit closed periodic orbits"
+  },
+  {
+    "title": "Simple Loop Conjecture for 3-Manifolds",
+    "slug": "simple-loop-conjecture",
+    "status": "partially-solved",
+    "description": "Noninjective surface maps kill an embedded simple loop"
+  },
+  {
+    "title": "Waldhausen's Conjecture on Heegaard Splittings Finiteness",
+    "slug": "waldhausen-heegaard-finiteness",
+    "status": "partially-solved",
+    "description": "Finitely many Heegaard splittings of each genus"
+  },
+  {
+    "title": "Casson Invariant and the Homology Cobordism Group Structure",
+    "slug": "casson-invariant-homology-cobordism",
+    "status": "open",
+    "description": "Does Casson invariant detect all homology cobordism obstructions"
+  },
+  {
+    "title": "Rank versus Heegaard Genus Problem",
+    "slug": "rank-versus-genus-problem",
+    "status": "solved-recently",
+    "description": "Whether group rank equals Heegaard genus for three-manifolds"
+  },
+  {
+    "title": "Meridional Rank Conjecture",
+    "slug": "meridional-rank-conjecture",
+    "status": "partially-solved",
+    "description": "Meridional rank of a knot equals its bridge number"
+  },
+  {
+    "title": "Bridge Number Additivity under Connected Sum",
+    "slug": "bridge-number-additivity",
+    "status": "solved-recently",
+    "description": "Bridge number minus one adds under knot connected sum"
+  },
+  {
+    "title": "Nonorientable Four-Genus Computation Problem",
+    "slug": "nonorientable-four-genus",
+    "status": "open",
+    "description": "Computing minimal nonorientable surface genus bounding a knot"
+  },
+  {
+    "title": "Milnor Conjecture on Link Homotopy Invariants Completeness",
+    "slug": "milnor-invariants-link-homotopy-completeness",
+    "status": "partially-solved",
+    "description": "Milnor invariants classify links up to link homotopy"
+  },
+  {
+    "title": "Poincar\u00e9 Duality Groups Are Manifold Groups",
+    "slug": "poincare-duality-group-conjecture",
+    "status": "open",
+    "description": "Every Poincare duality group is a manifold fundamental group"
+  },
+  {
+    "title": "Unknotting Number One Detection for Satellite Knots",
+    "slug": "unknotting-number-one-satellites",
+    "status": "partially-solved",
+    "description": "Satellite knots cannot have unknotting number one"
+  },
+  {
+    "title": "Ropelength Minimizer Regularity and Ideal Knot Shapes",
+    "slug": "ropelength-minimizers-regularity",
+    "status": "open",
+    "description": "Smoothness and shape of minimal-length thick knotted curves"
+  },
+  {
+    "title": "Hyperbolic Volume Spectrum and Smallest Volume Manifolds",
+    "slug": "minimal-volume-hyperbolic-manifolds",
+    "status": "partially-solved",
+    "description": "Identifying smallest volume hyperbolic manifolds in each dimension"
+  },
+  {
+    "title": "Lehmer's Problem via Hyperbolic Volume and Short Geodesics",
+    "slug": "short-geodesics-hyperbolic-3-manifolds",
+    "status": "open",
+    "description": "Lower bounds for shortest closed geodesic lengths"
+  },
+  {
+    "title": "Mapping Class Group Linearity Problem",
+    "slug": "mapping-class-group-linearity",
+    "status": "open",
+    "description": "Whether surface mapping class groups admit faithful linear representations"
+  },
+  {
+    "title": "Faithfulness of the Burau Representation for Braid Groups",
+    "slug": "burau-representation-faithfulness",
+    "status": "partially-solved",
+    "description": "Is the Burau representation faithful for four strands"
+  },
+  {
+    "title": "Homotopy Groups of Spheres Computability and Growth",
+    "slug": "homotopy-groups-of-spheres-growth",
+    "status": "open",
+    "description": "Asymptotic size and structure of stable homotopy groups"
+  },
+  {
+    "title": "Section Conjecture for Configuration Spaces and Fadell\u2013Neuwirth Fibrations",
+    "slug": "fadell-neuwirth-section-problem",
+    "status": "partially-solved",
+    "description": "When configuration space fibrations admit continuous cross-sections"
+  },
+  {
+    "title": "Borel Conjecture",
+    "slug": "borel-conjecture",
+    "status": "open",
+    "description": "Aspherical closed manifolds are homotopy rigid up to homeomorphism"
+  },
+  {
+    "title": "Whitehead Asphericity Conjecture",
+    "slug": "whitehead-asphericity-conjecture",
+    "status": "open",
+    "description": "Subcomplexes of aspherical two-complexes are themselves aspherical"
+  },
+  {
+    "title": "Wall's Finiteness Obstruction and Space Form Problem",
+    "slug": "spherical-space-form-problem",
+    "status": "partially-solved",
+    "description": "Which finite groups act freely on spheres, with which quotients"
+  },
+  {
+    "title": "Adams Spectral Sequence Convergence Beyond Dimension 100",
+    "slug": "stable-stems-computation-barrier",
+    "status": "partially-solved",
+    "description": "Computing stable homotopy groups of spheres past known range"
+  },
+  {
+    "title": "Freedman's Conjecture on Topological Concordance of Whitehead Doubles",
+    "slug": "whitehead-double-topological-sliceness",
+    "status": "open",
+    "description": "Whitehead doubles of links with linking number zero topologically slice"
+  },
+  {
+    "title": "Bordism of Positive Scalar Curvature Metrics",
+    "slug": "gromov-lawson-rosenberg-conjecture",
+    "status": "partially-solved",
+    "description": "Index obstruction detects positive scalar curvature on spin manifolds"
+  },
+  {
+    "title": "Knot Floer Homology Detects Fiberedness Refinements",
+    "slug": "knot-floer-homology-detection-problem",
+    "status": "partially-solved",
+    "description": "Which knots are determined by knot Floer homology"
+  },
+  {
+    "title": "Kirby Problem 1.85: Trace Embedding and Sliceness",
+    "slug": "trace-embedding-lemma-conjecture",
+    "status": "open",
+    "description": "Sliceness detected by embeddings of knot trace four-manifolds"
+  },
+  {
+    "title": "Generalized Property R Conjecture",
+    "slug": "generalized-property-r-conjecture",
+    "status": "open",
+    "description": "Links with surgery giving connected sums of circle-cross-sphere"
+  },
+  {
+    "title": "Andrews\u2013Curtis for Knot Groups (Wirtinger Presentation Moves)",
+    "slug": "wirtinger-presentation-moves-conjecture",
+    "status": "open",
+    "description": "Knot group presentations connected by elementary Andrews-Curtis moves"
+  },
+  {
+    "title": "Dehn Surgery Characterizing Slopes Conjecture",
+    "slug": "characterizing-slopes-conjecture",
+    "status": "partially-solved",
+    "description": "Every knot slope large enough characterizes the knot"
+  },
+  {
+    "title": "Volume of Hyperbolic Knot Complements vs Crossing Number",
+    "slug": "volume-crossing-number-bounds",
+    "status": "open",
+    "description": "Sharp linear bounds relating hyperbolic volume to crossing number"
+  },
+  {
+    "title": "Additivity of Crossing Number Under Connected Sum",
+    "slug": "crossing-number-additivity-general",
+    "status": "open",
+    "description": "Crossing number adds over connected sum of knots"
+  },
+  {
+    "title": "Knot Group Determines Knot Concordance Class?",
+    "slug": "peripheral-structure-concordance-problem",
+    "status": "open",
+    "description": "Peripheral structure invariants and concordance class relationships"
+  },
+  {
+    "title": "Zeeman's Collapsibility and Simple Homotopy of Contractible Complexes",
+    "slug": "collapsibility-of-contractible-complexes",
+    "status": "open",
+    "description": "Recognizing collapsible triangulations among contractible simplicial complexes"
+  },
+  {
+    "title": "Novikov's Problem on Recognizing the Sphere in High Dimensions",
+    "slug": "algorithmic-sphere-recognition",
+    "status": "partially-solved",
+    "description": "Undecidability of recognizing spheres in dimension five and above"
+  },
+  {
+    "title": "Complexity of Unknot Recognition in NP-intersect-coNP",
+    "slug": "knot-genus-complexity",
+    "status": "partially-solved",
+    "description": "Computational complexity of determining Seifert genus of knots"
+  },
+  {
+    "title": "Bounded Homeomorphism Conjecture for Open Manifolds",
+    "slug": "bounded-homeomorphism-conjecture",
+    "status": "open",
+    "description": "Bounded rigidity for proper homotopy equivalences of open manifolds"
+  },
+  {
+    "title": "Existence of Exotic Smooth Structures on S^3 x R",
+    "slug": "exotic-smooth-structures-noncompact-4manifolds",
+    "status": "open",
+    "description": "Uncountably many exotic structures on noncompact four-manifolds"
+  },
+  {
+    "title": "Wall's D(2) Problem",
+    "slug": "wall-d2-problem",
+    "status": "open",
+    "description": "Cohomologically two-dimensional complexes are homotopy equivalent to two-complexes"
+  },
+  {
+    "title": "Homology Cobordism Group Structure Problem",
+    "slug": "homology-cobordism-group-structure",
+    "status": "partially-solved",
+    "description": "Algebraic structure of three-dimensional homology cobordism group"
+  },
+  {
+    "title": "Thurston Norm and Alexander Norm Equality",
+    "slug": "thurston-norm-alexander-norm",
+    "status": "partially-solved",
+    "description": "When Alexander norm equals Thurston norm on three-manifolds"
+  },
+  {
+    "title": "Heegaard Genus of Hyperbolic Three-Manifolds and Rank",
+    "slug": "heegaard-genus-degree-one-maps",
+    "status": "open",
+    "description": "Behavior of Heegaard genus under finite covers and maps"
+  },
+  {
+    "title": "Khovanov Homology Functoriality Sign Problem",
+    "slug": "khovanov-functoriality-signs",
+    "status": "solved-recently",
+    "description": "Sign ambiguity in cobordism maps on Khovanov homology"
   }
 ]

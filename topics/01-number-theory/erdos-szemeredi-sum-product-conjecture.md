@@ -86,10 +86,10 @@ A major stepping stone suggested for future work is to unequivocally prove an ex
 
 ## 9. Key References
 
-- **[Foundational]** P. Erdős, E. Szemerédi. *On sums and products of integers.* Studies in Pure Mathematics, Birkhäuser, 1983.
+- **[Foundational]** P. Erdős, E. Szemerédi. *On sums and products of integers.* Studies in Pure Mathematics, Birkhäuser, 1983. [DOI](https://doi.org/10.1007/978-3-0348-5438-2_19)
 - **[Foundational]** G. Elekes. *On the number of sums and products.* Acta Arithmetica, 1997.
-- **[SOTA / Recent]** J. Solymosi. *Bounding multiplicative energy by the sumset.* Advances in Mathematics, 2009.
-- **[SOTA / Recent]** M. Rudnev, S. Stevens. *An update on the sum-product problem.* Mathematical Proceedings of the Cambridge Philosophical Society, 2022.
+- **[SOTA / Recent]** J. Solymosi. *Bounding multiplicative energy by the sumset.* Advances in Mathematics, 2009. [DOI](https://doi.org/10.1016/j.aim.2009.04.006)
+- **[SOTA / Recent]** M. Rudnev, S. Stevens. *An update on the sum-product problem.* Mathematical Proceedings of the Cambridge Philosophical Society, 2022. [DOI](https://doi.org/10.1017/s0305004121000633)
 - **[Survey]** T. Tao, V. Vu. *Additive Combinatorics.* Cambridge University Press, 2006.
 
 ## 10. Worked Example / Concrete Special Case

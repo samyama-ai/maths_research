@@ -114,10 +114,10 @@ Leading researchers, including Arnd Scheel and Björn Sandstede, have articulate
 ## 9. Key References
 
 - **[Foundational]** FitzHugh, R. *Impulses and physiological states in theoretical models of nerve membrane.* Biophysical Journal, 1(6):445-466, 1961. (https://doi.org/10.1016/S0006-3495(61)86902-6)
-- **[Foundational]** Keener, J. P. *A geometrical theory for spiral waves in excitable media.* SIAM Journal on Applied Mathematics, 46(6):1039-1056, 1986.
-- **[SOTA / Spectral Theory]** Sandstede, B., & Scheel, A. *Absolute and convective instabilities of waves on unbounded and large bounded domains.* Physica D: Nonlinear Phenomena, 145(3-4):233-277, 2000.
-- **[SOTA / Bifurcation]** Barkley, D. *Linear stability analysis of rotating spiral waves in excitable media.* Physical Review Letters, 68(13):2090, 1992.
-- **[Survey]** Fiedler, B., & Scheel, A. *Spatio-temporal dynamics of reaction-diffusion patterns.* In Trends in Nonlinear Analysis, Springer, 2003.
+- **[Foundational]** Keener, J. P. *A geometrical theory for spiral waves in excitable media.* SIAM Journal on Applied Mathematics, 46(6):1039-1056, 1986. [DOI](https://doi.org/10.1137/0146062)
+- **[SOTA / Spectral Theory]** Sandstede, B., & Scheel, A. *Absolute and convective instabilities of waves on unbounded and large bounded domains.* Physica D: Nonlinear Phenomena, 145(3-4):233-277, 2000. [DOI](https://doi.org/10.1016/s0167-2789(00)00114-7)
+- **[SOTA / Bifurcation]** Barkley, D. *Linear stability analysis of rotating spiral waves in excitable media.* Physical Review Letters, 68(13):2090, 1992. [DOI](https://doi.org/10.1103/physrevlett.68.2090)
+- **[Survey]** Fiedler, B., & Scheel, A. *Spatio-temporal dynamics of reaction-diffusion patterns.* In Trends in Nonlinear Analysis, Springer, 2003. [DOI](https://doi.org/10.1007/978-3-662-05281-5_2)
 
 ## 10. Worked Example / Concrete Special Case
 

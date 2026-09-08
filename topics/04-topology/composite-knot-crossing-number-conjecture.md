@@ -102,16 +102,16 @@ Wanted: the same for arbitrary summands. The precise missing step is a **sharp a
 
 ## 9. Key References
 
-- **[Foundational]** H. Schubert. *Über eine numerische Knoteninvariante.* Mathematische Zeitschrift 61, 245–288, 1954.
-- **[Foundational]** L. H. Kauffman. *State models and the Jones polynomial.* Topology 26(3), 395–407, 1987.
-- **[Foundational]** K. Murasugi. *Jones polynomials and classical conjectures in knot theory.* Topology 26(2), 187–194, 1987.
-- **[Foundational]** M. B. Thistlethwaite. *A spanning-tree expansion of the Jones polynomial.* Topology 26(3), 297–309, 1987.
-- **[Foundational]** W. Menasco. *Closed incompressible surfaces in alternating knot and link complements.* Topology 23(1), 37–44, 1984.
-- **[Key partial result]** W. B. R. Lickorish, M. B. Thistlethwaite. *Some links with non-trivial polynomials and their crossing-numbers.* Commentarii Mathematici Helvetici 63, 527–539, 1988.
-- **[Key partial result]** Y. Diao. *The additivity of crossing numbers.* Journal of Knot Theory and Its Ramifications 13(7), 857–866, 2004.
+- **[Foundational]** H. Schubert. *Über eine numerische Knoteninvariante.* Mathematische Zeitschrift 61, 245–288, 1954. [DOI](https://doi.org/10.1007/bf01181346)
+- **[Foundational]** L. H. Kauffman. *State models and the Jones polynomial.* Topology 26(3), 395–407, 1987. [DOI](https://doi.org/10.1016/0040-9383(87)90009-7)
+- **[Foundational]** K. Murasugi. *Jones polynomials and classical conjectures in knot theory.* Topology 26(2), 187–194, 1987. [DOI](https://doi.org/10.1016/0040-9383(87)90058-9)
+- **[Foundational]** M. B. Thistlethwaite. *A spanning-tree expansion of the Jones polynomial.* Topology 26(3), 297–309, 1987. [DOI](https://doi.org/10.1016/0040-9383(87)90003-6)
+- **[Foundational]** W. Menasco. *Closed incompressible surfaces in alternating knot and link complements.* Topology 23(1), 37–44, 1984. [DOI](https://doi.org/10.1016/0040-9383(84)90023-5)
+- **[Key partial result]** W. B. R. Lickorish, M. B. Thistlethwaite. *Some links with non-trivial polynomials and their crossing-numbers.* Commentarii Mathematici Helvetici 63, 527–539, 1988. [DOI](https://doi.org/10.1007/bf02566777)
+- **[Key partial result]** Y. Diao. *The additivity of crossing numbers.* Journal of Knot Theory and Its Ramifications 13(7), 857–866, 2004. [DOI](https://doi.org/10.1142/s0218216504003524)
 - **[Key partial result]** H. Gruber. *Estimates for the minimal crossing number.* Preprint, arXiv:math/0303273, 2003.
-- **[SOTA]** M. Lackenby. *The crossing number of composite knots.* Journal of Topology 2(4), 747–768, 2009.
-- **[SOTA]** M. Lackenby. *The crossing number of satellite knots.* Algebraic & Geometric Topology 14(4), 2379–2409, 2014.
+- **[SOTA]** M. Lackenby. *The crossing number of composite knots.* Journal of Topology 2(4), 747–768, 2009. [DOI](https://doi.org/10.1112/jtopol/jtp028)
+- **[SOTA]** M. Lackenby. *The crossing number of satellite knots.* Algebraic & Geometric Topology 14(4), 2379–2409, 2014. [DOI](https://doi.org/10.2140/agt.2014.14.2379)
 - **[SOTA]** A. V. Malyutin. *On the question of genericity of hyperbolic knots.* International Mathematics Research Notices, 2020.
 - **[Computational]** B. A. Burton. *The next 350 million knots.* Proceedings of the 36th International Symposium on Computational Geometry (SoCG), 2020.
 - **[Survey]** C. C. Adams. *The Knot Book.* American Mathematical Society, 2004.

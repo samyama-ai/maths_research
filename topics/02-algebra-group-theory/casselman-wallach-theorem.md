@@ -112,17 +112,17 @@ For real reductive $G$ there is no gap: Section 4 covers Section 1. The live bou
 
 ## 9. Key References
 
-- **[Foundational]** Harish-Chandra. *Representations of a semisimple Lie group on a Banach space I.* Trans. Amer. Math. Soc. 75 (1953), 185–243.
+- **[Foundational]** Harish-Chandra. *Representations of a semisimple Lie group on a Banach space I.* Trans. Amer. Math. Soc. 75 (1953), 185–243. [DOI](https://doi.org/10.1090/s0002-9947-1953-0056610-2)
 - **[Foundational]** J. Dixmier, P. Malliavin. *Factorisations de fonctions et de vecteurs indéfiniment différentiables.* Bull. Sci. Math. (2) 102 (1978), 307–330.
-- **[Foundational]** W. Casselman. *Canonical extensions of Harish-Chandra modules to representations of $G$.* Canadian J. Math. 41 (1989), 385–438.
-- **[Foundational]** F. du Cloux. *Sur les représentations différentiables des groupes de Lie algébriques.* Ann. Sci. École Norm. Sup. (4) 24 (1991), 257–318.
-- **[Foundational / Survey]** N. R. Wallach. *Real Reductive Groups II.* Pure and Applied Mathematics 132-II, Academic Press, 1992 (Chapter 11). See also *Real Reductive Groups I*, 1988.
-- **[SOTA / Recent]** J. Bernstein, B. Krötz. *Smooth Fréchet globalizations of Harish-Chandra modules.* Israel J. Math. 199 (2014), 45–111.
+- **[Foundational]** W. Casselman. *Canonical extensions of Harish-Chandra modules to representations of $G$.* Canadian J. Math. 41 (1989), 385–438. [DOI](https://doi.org/10.4153/cjm-1989-019-5)
+- **[Foundational]** F. du Cloux. *Sur les représentations différentiables des groupes de Lie algébriques.* Ann. Sci. École Norm. Sup. (4) 24 (1991), 257–318. [DOI](https://doi.org/10.24033/asens.1628)
+- **[Foundational / Survey]** N. R. Wallach. *Real Reductive Groups II.* Pure and Applied Mathematics 132-II, Academic Press, 1992 (Chapter 11). See also *Real Reductive Groups I*, 1988. [DOI](https://doi.org/10.1016/0378-4754(92)90088-x)
+- **[SOTA / Recent]** J. Bernstein, B. Krötz. *Smooth Fréchet globalizations of Harish-Chandra modules.* Israel J. Math. 199 (2014), 45–111. [DOI](https://doi.org/10.1007/s11856-013-0056-1)
 - **[Related globalizations]** W. Schmid. *Boundary value problems for group invariant differential equations.* Astérisque, hors série (1985), 311–321.
-- **[Related globalizations]** M. Kashiwara, W. Schmid. *Quasi-equivariant $\mathcal{D}$-modules, equivariant derived category, and representations of reductive Lie groups.* In *Lie Theory and Geometry*, Progr. Math. 123, Birkhäuser, 1994, 457–488.
-- **[SOTA / Recent]** A. Aizenbud, D. Gourevitch, B. Krötz, G. Liu. *Hausdorffness for Lie algebra homology of Schwartz spaces and applications to the comparison conjecture.* Math. Z. 283 (2016), 979–992.
+- **[Related globalizations]** M. Kashiwara, W. Schmid. *Quasi-equivariant $\mathcal{D}$-modules, equivariant derived category, and representations of reductive Lie groups.* In *Lie Theory and Geometry*, Progr. Math. 123, Birkhäuser, 1994, 457–488. [DOI](https://doi.org/10.1007/978-1-4612-0261-5_16)
+- **[SOTA / Recent]** A. Aizenbud, D. Gourevitch, B. Krötz, G. Liu. *Hausdorffness for Lie algebra homology of Schwartz spaces and applications to the comparison conjecture.* Math. Z. 283 (2016), 979–992. [DOI](https://doi.org/10.1007/s00209-016-1629-6)
 - **[SOTA / Recent]** J. Bernstein, N. Higson, E. Subag. *Contractions of representations and algebraic families of Harish-Chandra modules.* Int. Math. Res. Not. IMRN (2020), 3494–3520.
-- **[Technique]** W. Casselman, H. Hecht, D. Miličić. *Bruhat filtrations and Whittaker vectors for real groups.* Proc. Sympos. Pure Math. 68 (2000), 151–190.
+- **[Technique]** W. Casselman, H. Hecht, D. Miličić. *Bruhat filtrations and Whittaker vectors for real groups.* Proc. Sympos. Pure Math. 68 (2000), 151–190. [DOI](https://doi.org/10.1090/pspum/068/1767896)
 - **[Background]** F. Trèves. *Topological Vector Spaces, Distributions and Kernels.* Academic Press, 1967.
 
 ## 10. Worked Example / Concrete Special Case

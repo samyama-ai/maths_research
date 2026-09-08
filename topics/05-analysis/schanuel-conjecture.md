@@ -113,19 +113,19 @@ The gap is one precise step: **converting a differential-algebraic independence 
 - **[Foundational]** Lang, S. *Introduction to Transcendental Numbers.* Addison-Wesley, 1966. (First published statement of the conjecture.)
 - **[Foundational]** Ax, J. *On Schanuel's conjectures.* Annals of Mathematics **93** (1971), 252–268.
 - **[Foundational]** Baker, A. *Transcendental Number Theory.* Cambridge University Press, 1975.
-- **[Foundational]** Zilber, B. *Pseudo-exponentiation on algebraically closed fields of characteristic zero.* Annals of Pure and Applied Logic **132** (2005), 67–95.
-- **[SOTA / Recent]** Diaz, G. *Grands degrés de transcendance pour des familles d'exponentielles.* Journal of Number Theory **31** (1989), 1–23.
-- **[SOTA / Recent]** Nesterenko, Yu. V. *Modular functions and transcendence questions.* Sbornik: Mathematics **187** (1996), 1319–1348.
+- **[Foundational]** Zilber, B. *Pseudo-exponentiation on algebraically closed fields of characteristic zero.* Annals of Pure and Applied Logic **132** (2005), 67–95. [DOI](https://doi.org/10.1016/j.apal.2004.07.001)
+- **[SOTA / Recent]** Diaz, G. *Grands degrés de transcendance pour des familles d'exponentielles.* Journal of Number Theory **31** (1989), 1–23. [DOI](https://doi.org/10.1016/0022-314x(89)90049-8)
+- **[SOTA / Recent]** Nesterenko, Yu. V. *Modular functions and transcendence questions.* Sbornik: Mathematics **187** (1996), 1319–1348. [DOI](https://doi.org/10.1070/sm1996v187n09abeh000158)
 - **[SOTA / Recent]** Macintyre, A. and Wilkie, A. J. *On the decidability of the real exponential field.* In: *Kreiseliana* (P. Odifreddi, ed.), A K Peters, 1996, 441–467.
 - **[SOTA / Recent]** Kirby, J. and Zilber, B. *The uniform Schanuel conjecture.* Mathematical Proceedings of the Cambridge Philosophical Society **140** (2006), 411–422.
-- **[SOTA / Recent]** Kirby, J. *The theory of the exponential differential equations of semiabelian varieties.* Selecta Mathematica (N.S.) **15** (2009), 445–486.
-- **[SOTA / Recent]** Marker, D. *A remark on Zilber's pseudoexponentiation.* Journal of Symbolic Logic **71** (2006), 791–798.
-- **[SOTA / Recent]** Bays, M. and Kirby, J. *Pseudo-exponential maps, variants, and quasiminimality.* Algebra & Number Theory **12** (2018), 493–549.
-- **[SOTA / Recent]** Aslanyan, V., Kirby, J. and Mantova, V. *A geometric approach to some systems of exponential equations.* International Mathematics Research Notices, 2023.
+- **[SOTA / Recent]** Kirby, J. *The theory of the exponential differential equations of semiabelian varieties.* Selecta Mathematica (N.S.) **15** (2009), 445–486. [DOI](https://doi.org/10.1007/s00029-009-0001-7)
+- **[SOTA / Recent]** Marker, D. *A remark on Zilber's pseudoexponentiation.* Journal of Symbolic Logic **71** (2006), 791–798. [DOI](https://doi.org/10.2178/jsl/1154698577)
+- **[SOTA / Recent]** Bays, M. and Kirby, J. *Pseudo-exponential maps, variants, and quasiminimality.* Algebra & Number Theory **12** (2018), 493–549. [DOI](https://doi.org/10.2140/ant.2018.12.493)
+- **[SOTA / Recent]** Aslanyan, V., Kirby, J. and Mantova, V. *A geometric approach to some systems of exponential equations.* International Mathematics Research Notices, 2023. [DOI](https://doi.org/10.1093/imrn/rnab340)
 - **[SOTA / Recent]** D'Aquino, P., Macintyre, A. and Terzo, G. *From Schanuel's conjecture to Shapiro's conjecture.* Commentarii Mathematici Helvetici **89** (2014), 597–616.
 - **[SOTA / Recent]** Cheng, C., Dietel, B., Herblot, M., Huang, J., Krieger, H., Marques, D., Mason, J., Mereb, M. and Wilson, S. R. *Some consequences of Schanuel's conjecture.* Journal of Number Theory **129** (2009), 1464–1467.
 - **[Survey]** Waldschmidt, M. *Diophantine Approximation on Linear Algebraic Groups: Transcendence Properties of the Exponential Function in Several Variables.* Grundlehren der mathematischen Wissenschaften **326**, Springer, 2000.
-- **[Survey]** Wilkie, A. J. *Model completeness results for expansions of the ordered field of real numbers by restricted Pfaffian functions and the exponential function.* Journal of the American Mathematical Society **9** (1996), 1051–1094.
+- **[Survey]** Wilkie, A. J. *Model completeness results for expansions of the ordered field of real numbers by restricted Pfaffian functions and the exponential function.* Journal of the American Mathematical Society **9** (1996), 1051–1094. [DOI](https://doi.org/10.1090/s0894-0347-96-00216-0)
 
 ## 10. Worked Example / Concrete Special Case
 

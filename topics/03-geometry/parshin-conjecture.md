@@ -109,18 +109,18 @@ The precise missing step is: **for a smooth projective $X/\mathbb{F}_q$ of dimen
 ## 9. Key References
 
 - **[Foundational]** A. N. Parshin. *Abelian coverings of arithmetic schemes.* Soviet Math. Doklady **19** (1978), 1438–1442 (Dokl. Akad. Nauk SSSR **243** (1978), 855–858).
-- **[Foundational]** D. Quillen. *On the cohomology and K-theory of the general linear groups over a finite field.* Annals of Mathematics **96** (1972), 552–586.
+- **[Foundational]** D. Quillen. *On the cohomology and K-theory of the general linear groups over a finite field.* Annals of Mathematics **96** (1972), 552–586. [DOI](https://doi.org/10.2307/1970825)
 - **[Foundational]** D. Quillen. *Higher algebraic K-theory I.* Lecture Notes in Mathematics **341**, Springer, 1973, 85–147.
 - **[Foundational]** G. Harder. *Die Kohomologie $S$-arithmetischer Gruppen über Funktionenkörpern.* Inventiones Mathematicae **42** (1977), 135–175.
-- **[Foundational]** S. Bloch. *Algebraic cycles and higher K-theory.* Advances in Mathematics **61** (1986), 267–304.
+- **[Foundational]** S. Bloch. *Algebraic cycles and higher K-theory.* Advances in Mathematics **61** (1986), 267–304. [DOI](https://doi.org/10.1016/0001-8708(86)90081-2)
 - **[SOTA]** C. Soulé. *Groupes de Chow et K-théorie de variétés sur un corps fini.* Mathematische Annalen **268** (1984), 317–345.
-- **[SOTA]** T. Geisser. *Tate's conjecture, algebraic cycles and rational K-theory in characteristic p.* K-Theory **13** (1998), 109–122.
+- **[SOTA]** T. Geisser. *Tate's conjecture, algebraic cycles and rational K-theory in characteristic p.* K-Theory **13** (1998), 109–122. [DOI](https://doi.org/10.1023/a:1007709804443)
 - **[SOTA]** T. Geisser, M. Levine. *The K-theory of fields in characteristic p.* Inventiones Mathematicae **139** (2000), 459–493.
-- **[SOTA]** B. Kahn. *Équivalences rationnelle et numérique sur certaines variétés de type abélien sur un corps fini.* Annales Scientifiques de l'ÉNS (4) **36** (2003), 977–1002.
-- **[SOTA]** M. Spiess. *Proof of the Tate conjecture for products of elliptic curves over finite fields.* Mathematische Annalen **314** (1999), 285–290.
+- **[SOTA]** B. Kahn. *Équivalences rationnelle et numérique sur certaines variétés de type abélien sur un corps fini.* Annales Scientifiques de l'ÉNS (4) **36** (2003), 977–1002. [DOI](https://doi.org/10.1016/j.ansens.2003.02.002)
+- **[SOTA]** M. Spiess. *Proof of the Tate conjecture for products of elliptic curves over finite fields.* Mathematische Annalen **314** (1999), 285–290. [DOI](https://doi.org/10.1007/s002080050295)
 - **[Survey]** T. Geisser. *Parshin's conjecture revisited.* In: *K-Theory and Noncommutative Geometry*, EMS Series of Congress Reports, 2008, 413–425.
-- **[Survey]** B. Kahn. *Algebraic K-theory, algebraic cycles and arithmetic geometry.* In: *Handbook of K-Theory*, Springer, 2005, 351–428.
-- **[Survey]** J. Tate. *Conjectures on algebraic cycles in $\ell$-adic cohomology.* Proceedings of Symposia in Pure Mathematics **55** (1994), 71–83.
+- **[Survey]** B. Kahn. *Algebraic K-theory, algebraic cycles and arithmetic geometry.* In: *Handbook of K-Theory*, Springer, 2005, 351–428. [DOI](https://doi.org/10.1007/978-3-540-27855-9_9)
+- **[Survey]** J. Tate. *Conjectures on algebraic cycles in $\ell$-adic cohomology.* Proceedings of Symposia in Pure Mathematics **55** (1994), 71–83. [DOI](https://doi.org/10.1090/pspum/055.1/1265523)
 - **[Reference]** C. Weibel. *The K-book: An Introduction to Algebraic K-theory.* Graduate Studies in Mathematics **145**, AMS, 2013.
 
 ## 10. Worked Example / Concrete Special Case

@@ -98,9 +98,9 @@ Future work in bounding Dirichlet polynomials and extending the large sieve ineq
 ## 9. Key References
 
 - **[Foundational]** Andrica, D. *Note on a conjecture in prime number theory.* Studia Universitatis Babes-Bolyai Mathematica, 31(4): 44-48, 1986.
-- **[SOTA / Recent]** Baker, R. C., Harman, G., and Pintz, J. *The difference between consecutive primes, II.* Proceedings of the London Mathematical Society, 83(3): 532-562, 2001.
+- **[SOTA / Recent]** Baker, R. C., Harman, G., and Pintz, J. *The difference between consecutive primes, II.* Proceedings of the London Mathematical Society, 83(3): 532-562, 2001. [DOI](https://doi.org/10.1112/plms/83.3.532)
 - **[Survey]** Oliveira e Silva, T., Herzog, S., and Pardi, S. *Empirical verification of the even Goldbach conjecture and computation of prime gaps up to $4 \cdot 10^{18}$.* Mathematics of Computation, 83(288): 2033-2060, 2014.
-- **[Foundational]** Guy, R. K. *Unsolved Problems in Number Theory (3rd ed.).* Springer-Verlag, Section A8, 2004.
+- **[Foundational]** Guy, R. K. *Unsolved Problems in Number Theory (3rd ed.).* Springer-Verlag, Section A8, 2004. [DOI](https://doi.org/10.1017/s0025557200178817)
 
 ## 10. Worked Example / Concrete Special Case
 

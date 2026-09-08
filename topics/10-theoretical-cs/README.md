@@ -9,32 +9,51 @@ The mathematical study of computation, including complexity theory, cryptography
 * 🔴 [Aaronson-Ambainis Conjecture](./aaronson-ambainis-conjecture.md) — Do completely bounded polynomials tightly characterize quantum query complexity.
 * 🔴 [AC0 with Parity versus NP](./ac0-with-parity-versus-np.md) — Can constant depth circuits with parity gates solve NP problems.
 * 🔴 [All-Pairs Shortest Paths Conjecture](./all-pairs-shortest-paths-conjecture.md) — Can the shortest paths problem be solved in strictly subcubic time.
+* 🔴 [Nisan–Wigderson Derandomization of AM](./am-versus-np-derandomization.md) — Does Arthur-Merlin equal NP unconditionally
+* 🟡 [Hardness of Approximating Graph Coloring within Polynomial Factors](./approximate-graph-coloring-hardness.md) — Complexity of coloring three colorable graphs with few colors
+* 🔴 [Nash Equilibrium Approximation Complexity](./approximate-nash-equilibrium-complexity.md) — Polynomial time constant approximation for two-player Nash equilibria
+* 🟢 [Art Gallery Problem Complexity](./art-gallery-problem-complexity.md) — Guarding a polygon is complete for the existential reals
 * 🟢 [Asymmetric TSP Constant Factor Approximation](./asymmetric-tsp-constant-factor-approximation.md) — Achieves a constant factor approximation for the asymmetric traveling salesperson problem.
+* 🔴 [Sparse Set Completeness and the Berman–Hartmanis Isomorphism Conjecture](./berman-hartmanis-isomorphism-conjecture.md) — Are all NP complete sets polynomially isomorphic to each other
 * 🔴 [Bipartite Matching in NC](./bipartite-matching-in-nc.md) — Does bipartite perfect matching have a deterministic parallel algorithm.
+* 🟡 [Blackbox Identity Testing for Depth-Four Circuits](./blackbox-pit-depth-four-circuits.md) — Deterministic blackbox identity tests for depth four arithmetic circuits
 * 🔴 [Boolean Matrix Multiplication](./boolean-matrix-multiplication.md) — Can boolean matrix multiplication be computed as fast as ring matrix multiplication.
 * 🟢 [Boolean Pythagorean Triples](./boolean-pythagorean-triples.md) — Can natural numbers be colored to avoid monochromatic Pythagorean triples.
+* 🔴 [Border Rank versus Rank Gap Conjecture](./border-rank-versus-rank-gap.md) — How far can border rank fall below tensor rank
 * 🔴 [BPL versus L](./bpl-versus-l.md) — Asks if randomized logarithmic space algorithms can be fully derandomized.
 * 🔴 [BPP versus P](./bpp-versus-p.md) — Every randomized polynomial time algorithm can be derandomized efficiently.
 * 🔴 [BQP versus PH](./bqp-versus-ph.md) — Are quantum computers strictly more powerful than the polynomial hierarchy.
+* 🔴 [Barrington-Style Bounded-Width Branching Programs for NC1](./branching-program-size-lower-bounds.md) — Superpolynomial size bounds for bounded width branching programs
 * 🔴 [Cell-Probe Lower Bounds](./cell-probe-lower-bounds.md) — Can we prove polynomial cell-probe lower bounds for dynamic data structures.
 * 🔴 [Černý Conjecture](./cerny-conjecture.md) — What is the true length of the shortest synchronizing word.
 * 🟡 [Chromatic Number of the Plane (Hadwiger–Nelson Problem)](./chromatic-number-of-the-plane.md) — How many colors are required to avoid monochromatic unit distance pairs.
 * 🔴 [Chvátal's Toughness Conjecture](./chvatal-toughness-conjecture.md) — Do sufficiently tough graphs always contain a Hamiltonian cycle.
 * 🔴 [Circuit Lower Bounds for NP](./circuit-lower-bounds-for-np.md) — Can we prove superlinear circuit lower bounds for an NP-complete problem.
+* 🟢 [Continuous Local Search Hardness (CLS = PPAD ∩ PLS)](./cls-equals-ppad-intersect-pls.md) — Continuous local search equals intersection of PPAD and PLS
+* 🔴 [Nullstellensatz Degree Lower Bounds for Constant-Depth Frege](./constant-depth-frege-with-counting-lower-bounds.md) — Lower bounds for bounded depth proof systems with counting gates
+* 🔴 [Locally Decodable Codes with Constant Queries](./constant-query-locally-decodable-codes.md) — Optimal length of three-query locally decodable codes
 * 🔴 [Conway Thrackle Conjecture](./conway-thrackle-conjecture.md) — Can a graph be drawn such that every edge intersects exactly once.
 * 🔴 [Correlation Bounds for Polynomials](./correlation-bounds-for-polynomials.md) — Bounds the correlation between parity and low degree polynomials over fields.
+* 🔴 [Hardness of Approximating Densest k-Subgraph](./densest-k-subgraph-approximation.md) — Tight approximation ratio for densest k-subgraph unknown
+* 🟡 [Depth-Three Arithmetic Circuit Lower Bounds over Infinite Fields](./depth-three-arithmetic-circuit-lower-bounds.md) — Exponential lower bounds for depth three circuits over characteristic zero
+* 🔴 [Derandomizing the Isolation Lemma](./derandomizing-the-isolation-lemma.md) — Deterministic isolation of minimum weight solutions in combinatorial problems
 * 🔴 [Dictator Testing Conjecture](./dictator-testing-conjecture.md) — Are dictator functions the hardest to test with constant queries.
 * 🔴 [Directed Reachability in L](./directed-reachability-in-l.md) — Can directed reachability be solved in deterministic logarithmic space.
 * 🟡 [Discrepancy of Set Systems](./discrepancy-of-set-systems.md) — What is the minimum combinatorial discrepancy of hypergraphs.
 * 🔴 [Discrete Logarithm in P](./discrete-logarithm-in-p.md) — Can discrete logarithms be computed efficiently without a quantum computer.
+* 🟡 [Sample Complexity of Distribution Testing under Structure](./distribution-identity-testing-sample-complexity.md) — Optimal sample bounds for structured distribution property testing
 * 🔴 [Dynamic Optimality Conjecture](./dynamic-optimality-conjecture.md) — Splay trees are asymptotically optimal among all binary search trees.
 * 🔴 [Edit Distance Complexity](./edit-distance-complexity.md) — Can edit distance be computed in strictly subquadratic time.
+* 🟡 [Sunflower-Free Set Growth and the Sunflower Conjecture](./erdos-ko-rado-sunflower-conjecture.md) — Optimal bound on set families forcing sunflower substructures
 * 🔴 [Exact Log-Rank Conjecture](./exact-log-rank-conjecture.md) — Relates deterministic communication complexity to the logarithm of the matrix rank.
 * 🔴 [Exact Matching in Parallel](./exact-matching-in-parallel.md) — Can exact matching be solved using fast deterministic parallel algorithms.
 * 🔴 [Existence of One-Way Functions](./existence-of-one-way-functions.md) — Do functions exist that are easy to compute but hard to invert.
+* 🟡 [Explicit Constructions of Optimal Lossless Expanders](./explicit-lossless-expander-construction.md) — Explicit bipartite expanders with near optimal vertex expansion
+* 🟡 [Ramsey Graph Construction Explicitness](./explicit-ramsey-graph-construction.md) — Explicit graphs with no large clique or independent set
 * 🔴 [Exponential Time Hypothesis](./exponential-time-hypothesis.md) — Boolean satisfiability cannot be solved in subexponential time.
 * 🔴 [Extended Frege Lower Bounds](./extended-frege-lower-bounds.md) — Do there exist hard tautologies for extended Frege proof systems.
 * 🔴 [Fast Fourier Transform Lower Bound](./fast-fourier-transform-lower-bound.md) — Does the discrete Fourier transform require superlinear time.
+* 🔴 [Sunflower-Based Formula Size Lower Bounds for Andreev's Function](./formula-size-lower-bound-cubic-barrier.md) — Break the cubic barrier for Boolean formula size bounds
 * 🔴 [Fourier Entropy-Influence Conjecture](./fourier-entropy-influence.md) — Is the entropy of a Boolean function bounded by its total influence.
 * 🔴 [Frege Proof System Lower Bounds](./frege-proof-system-lower-bounds.md) — Seeks superpolynomial size lower bounds for standard propositional logic proofs.
 * 🔴 [Generalized Star Height Problem](./generalized-star-height.md) — Is the generalized star height of every regular language computable.

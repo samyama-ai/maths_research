@@ -110,23 +110,23 @@ The gaps that remain:
 
 ## 9. Key References
 
-- **[Foundational]** S. Lichtenbaum. *Values of zeta-functions, étale cohomology, and algebraic $K$-theory.* In Algebraic $K$-theory II, Lecture Notes in Math. 342, Springer, 1973, pp. 489–501.
+- **[Foundational]** S. Lichtenbaum. *Values of zeta-functions, étale cohomology, and algebraic $K$-theory.* In Algebraic $K$-theory II, Lecture Notes in Math. 342, Springer, 1973, pp. 489–501. [DOI](https://doi.org/10.1007/bfb0073737)
 - **[Foundational]** D. Quillen. *Higher algebraic $K$-theory.* Proc. Int. Congress of Mathematicians (Vancouver, 1974), Vol. 1, Canad. Math. Congress, 1975, pp. 171–176.
 - **[Foundational]** R. W. Thomason. *Algebraic $K$-theory and étale cohomology.* Ann. Sci. École Norm. Sup. (4) 18 (1985), 437–552.
 - **[Foundational]** W. Dwyer, E. Friedlander. *Algebraic and etale $K$-theory.* Trans. Amer. Math. Soc. 292 (1985), 247–280.
 - **[Foundational]** A. Suslin. *On the $K$-theory of algebraically closed fields.* Invent. Math. 73 (1983), 241–245.
-- **[Key step]** A. Suslin, V. Voevodsky. *Bloch–Kato conjecture and motivic cohomology with finite coefficients.* In The Arithmetic and Geometry of Algebraic Cycles, NATO Sci. Ser. C 548, Kluwer, 2000, pp. 117–189.
-- **[Key step]** M. Levine. *Inverting the motivic Bott element.* $K$-Theory 19 (2000), 1–28.
-- **[Key step]** T. Geisser, M. Levine. *The Bloch–Kato conjecture and a theorem of Suslin–Voevodsky.* J. Reine Angew. Math. 530 (2001), 55–103.
+- **[Key step]** A. Suslin, V. Voevodsky. *Bloch–Kato conjecture and motivic cohomology with finite coefficients.* In The Arithmetic and Geometry of Algebraic Cycles, NATO Sci. Ser. C 548, Kluwer, 2000, pp. 117–189. [DOI](https://doi.org/10.1007/978-94-011-4098-0_5)
+- **[Key step]** M. Levine. *Inverting the motivic Bott element.* $K$-Theory 19 (2000), 1–28. [DOI](https://doi.org/10.1023/a:1007874218371)
+- **[Key step]** T. Geisser, M. Levine. *The Bloch–Kato conjecture and a theorem of Suslin–Voevodsky.* J. Reine Angew. Math. 530 (2001), 55–103. [DOI](https://doi.org/10.1515/crll.2001.006)
 - **[SOTA]** V. Voevodsky. *Motivic cohomology with $\mathbb{Z}/2$-coefficients.* Publ. Math. Inst. Hautes Études Sci. 98 (2003), 59–104.
-- **[SOTA]** V. Voevodsky. *On motivic cohomology with $\mathbb{Z}/l$-coefficients.* Ann. of Math. (2) 174 (2011), 401–438.
-- **[SOTA]** J. Rognes, C. Weibel. *Two-primary algebraic $K$-theory of rings of integers in number fields* (with an appendix by M. Kolster). J. Amer. Math. Soc. 13 (2000), 1–54.
-- **[SOTA / Recent]** D. Clausen, A. Mathew. *Hyperdescent and étale $K$-theory.* Invent. Math. 225 (2021), 981–1076.
+- **[SOTA]** V. Voevodsky. *On motivic cohomology with $\mathbb{Z}/l$-coefficients.* Ann. of Math. (2) 174 (2011), 401–438. [DOI](https://doi.org/10.4007/annals.2011.174.1.11)
+- **[SOTA]** J. Rognes, C. Weibel. *Two-primary algebraic $K$-theory of rings of integers in number fields* (with an appendix by M. Kolster). J. Amer. Math. Soc. 13 (2000), 1–54. [DOI](https://doi.org/10.1090/s0894-0347-99-00317-3)
+- **[SOTA / Recent]** D. Clausen, A. Mathew. *Hyperdescent and étale $K$-theory.* Invent. Math. 225 (2021), 981–1076. [DOI](https://doi.org/10.1007/s00222-021-01043-3)
 - **[SOTA / Recent]** B. Bhatt, D. Clausen, A. Mathew. *Remarks on $K(1)$-local $K$-theory.* Selecta Math. (N.S.) 26 (2020), article 39.
-- **[SOTA / Recent]** J. Hahn, D. Wilson. *Redshift and multiplication for truncated Brown–Peterson spectra.* Ann. of Math. (2) 196 (2022), 1277–1351.
-- **[Survey / Book]** C. Haesemeyer, C. Weibel. *The Norm Residue Theorem in Motivic Cohomology.* Annals of Mathematics Studies 200, Princeton Univ. Press, 2019.
-- **[Survey]** C. Weibel. *Algebraic $K$-theory of rings of integers in local and global fields.* Handbook of $K$-theory, Vol. 1, Springer, 2005, pp. 139–190.
-- **[Related]** B. Mazur, A. Wiles. *Class fields of abelian extensions of $\mathbb{Q}$.* Invent. Math. 76 (1984), 179–330.
+- **[SOTA / Recent]** J. Hahn, D. Wilson. *Redshift and multiplication for truncated Brown–Peterson spectra.* Ann. of Math. (2) 196 (2022), 1277–1351. [DOI](https://doi.org/10.4007/annals.2022.196.3.6)
+- **[Survey / Book]** C. Haesemeyer, C. Weibel. *The Norm Residue Theorem in Motivic Cohomology.* Annals of Mathematics Studies 200, Princeton Univ. Press, 2019. [DOI](https://doi.org/10.23943/princeton/9780691191041.001.0001)
+- **[Survey]** C. Weibel. *Algebraic $K$-theory of rings of integers in local and global fields.* Handbook of $K$-theory, Vol. 1, Springer, 2005, pp. 139–190. [DOI](https://doi.org/10.1007/978-3-540-27855-9_5)
+- **[Related]** B. Mazur, A. Wiles. *Class fields of abelian extensions of $\mathbb{Q}$.* Invent. Math. 76 (1984), 179–330. [DOI](https://doi.org/10.1007/bf01388599)
 
 ## 10. Worked Example / Concrete Special Case
 

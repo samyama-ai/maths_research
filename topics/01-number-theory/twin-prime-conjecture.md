@@ -68,7 +68,7 @@ The gap is between the proven difference of $246$ and the conjectured difference
 
 - **[Foundational]** Brun, Viggo. *La série $\frac{1}{3}+\frac{1}{5}+\frac{1}{5}+\frac{1}{7}+\frac{1}{11}+\frac{1}{13}+\dots$ est convergente ou finie.* Bulletin des Sciences Mathématiques, 1919.
 - **[SOTA]** Zhang, Yitang. *Bounded gaps between primes.* Annals of Mathematics, 2014.
-- **[SOTA / Recent]** Maynard, James. *Small gaps between primes.* Annals of Mathematics, 2015.
+- **[SOTA / Recent]** Maynard, James. *Small gaps between primes.* Annals of Mathematics, 2015. [DOI](https://doi.org/10.4007/annals.2015.181.1.7)
 
 ## 10. Worked Example / Concrete Special Case
 

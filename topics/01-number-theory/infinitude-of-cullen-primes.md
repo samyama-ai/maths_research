@@ -94,7 +94,7 @@ Leading number theorists suggest the following pathways:
 - **[Foundational]** Hooley, C. *Applications of sieve methods to the theory of numbers*. Cambridge Tracts in Mathematics, 1976.
 - **[SOTA / Recent]** Keller, W. "Primes of the form $n \cdot 2^n + 1$ and $n \cdot 2^n - 1$." *Mathematics of Computation*, 1995.
 - **[Survey]** Guy, R. K. *Unsolved Problems in Number Theory*. Springer, 3rd Edition, 2004. (Section A).
-- **[Survey]** Ribenboim, P. *The New Book of Prime Number Records*. Springer, 1996.
+- **[Survey]** Ribenboim, P. *The New Book of Prime Number Records*. Springer, 1996. [DOI](https://doi.org/10.1007/978-1-4612-0759-7)
 
 ## 10. Worked Example / Concrete Special Case
 

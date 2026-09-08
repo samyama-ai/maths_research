@@ -110,20 +110,20 @@ The right-hand side is known (Madsen–Weiss) in the stable range; the conjectur
 
 ## 9. Key References
 
-- **[Foundational]** D. Johnson. *The structure of the Torelli group I: A finite set of generators for $\mathcal{I}$.* Annals of Mathematics **118** (1983), 423–442.
-- **[Foundational]** D. Johnson. *The structure of the Torelli group III: The abelianization of $\mathcal{I}$.* Topology **24** (1985), 127–144.
-- **[Foundational]** G. Mess. *The Torelli groups for genus 2 and 3 surfaces.* Topology **31** (1992), 775–790.
-- **[Foundational]** R. Hain. *Infinitesimal presentations of the Torelli groups.* Journal of the American Mathematical Society **10** (1997), 597–651.
-- **[Structural]** M. Bestvina, K.-U. Bux, D. Margalit. *The dimension of the Torelli group.* Journal of the American Mathematical Society **23** (2010), 61–105.
-- **[Negative results]** A. Dimca, S. Papadima. *Arithmetic group symmetry and finiteness properties of Torelli groups.* Annals of Mathematics **177** (2013), 395–423.
-- **[SOTA]** M. Kassabov, A. Putman. *Equivariant group presentations and the second homology group of the Torelli group.* Mathematische Annalen **376** (2020), 227–241.
-- **[SOTA]** T. Church, M. Ershov, A. Putman. *On finite generation of the Johnson filtrations.* Journal of the European Mathematical Society **24** (2022), 2875–2914.
-- **[SOTA]** M. Ershov, S. He. *On finiteness properties of the Johnson filtrations.* Duke Mathematical Journal **167** (2018), 1713–1759.
-- **[SOTA]** A. Putman. *Partial Torelli groups and homological stability.* Geometry & Topology, 2023.
-- **[Survey]** A. Putman. *The Torelli group and congruence subgroups of the mapping class group.* In *Moduli Spaces of Riemann Surfaces*, IAS/Park City Mathematics Series **20**, AMS, 2013, 169–196.
-- **[Survey]** B. Farb. *Some problems on mapping class groups and moduli space.* In *Problems on Mapping Class Groups and Related Topics*, Proc. Sympos. Pure Math. **74**, AMS, 2006, 11–55.
-- **[Context]** T. Church, B. Farb. *Representation theory and homological stability.* Advances in Mathematics **245** (2013), 250–314.
-- **[Related conjecture]** A. Putman, B. Wieland. *Abelian quotients of subgroups of the mapping class group and higher Prym representations.* Journal of the London Mathematical Society **88** (2013), 79–96.
+- **[Foundational]** D. Johnson. *The structure of the Torelli group I: A finite set of generators for $\mathcal{I}$.* Annals of Mathematics **118** (1983), 423–442. [DOI](https://doi.org/10.2307/2006977)
+- **[Foundational]** D. Johnson. *The structure of the Torelli group III: The abelianization of $\mathcal{I}$.* Topology **24** (1985), 127–144. [DOI](https://doi.org/10.1016/0040-9383(85)90050-3)
+- **[Foundational]** G. Mess. *The Torelli groups for genus 2 and 3 surfaces.* Topology **31** (1992), 775–790. [DOI](https://doi.org/10.1016/0040-9383(92)90008-6)
+- **[Foundational]** R. Hain. *Infinitesimal presentations of the Torelli groups.* Journal of the American Mathematical Society **10** (1997), 597–651. [DOI](https://doi.org/10.1090/s0894-0347-97-00235-x)
+- **[Structural]** M. Bestvina, K.-U. Bux, D. Margalit. *The dimension of the Torelli group.* Journal of the American Mathematical Society **23** (2010), 61–105. [DOI](https://doi.org/10.1090/s0894-0347-09-00643-2)
+- **[Negative results]** A. Dimca, S. Papadima. *Arithmetic group symmetry and finiteness properties of Torelli groups.* Annals of Mathematics **177** (2013), 395–423. [DOI](https://doi.org/10.4007/annals.2013.177.2.1)
+- **[SOTA]** M. Kassabov, A. Putman. *Equivariant group presentations and the second homology group of the Torelli group.* Mathematische Annalen **376** (2020), 227–241. [DOI](https://doi.org/10.1007/s00208-019-01905-5)
+- **[SOTA]** T. Church, M. Ershov, A. Putman. *On finite generation of the Johnson filtrations.* Journal of the European Mathematical Society **24** (2022), 2875–2914. [DOI](https://doi.org/10.4171/jems/1157)
+- **[SOTA]** M. Ershov, S. He. *On finiteness properties of the Johnson filtrations.* Duke Mathematical Journal **167** (2018), 1713–1759. [DOI](https://doi.org/10.1215/00127094-2018-0005)
+- **[SOTA]** A. Putman. *Partial Torelli groups and homological stability.* Geometry & Topology, 2023. [DOI](https://doi.org/10.2140/agt.2023.23.3417)
+- **[Survey]** A. Putman. *The Torelli group and congruence subgroups of the mapping class group.* In *Moduli Spaces of Riemann Surfaces*, IAS/Park City Mathematics Series **20**, AMS, 2013, 169–196. [DOI](https://doi.org/10.1090/pcms/020/06)
+- **[Survey]** B. Farb. *Some problems on mapping class groups and moduli space.* In *Problems on Mapping Class Groups and Related Topics*, Proc. Sympos. Pure Math. **74**, AMS, 2006, 11–55. [DOI](https://doi.org/10.1090/pspum/074/2264130)
+- **[Context]** T. Church, B. Farb. *Representation theory and homological stability.* Advances in Mathematics **245** (2013), 250–314. [DOI](https://doi.org/10.1016/j.aim.2013.06.016)
+- **[Related conjecture]** A. Putman, B. Wieland. *Abelian quotients of subgroups of the mapping class group and higher Prym representations.* Journal of the London Mathematical Society **88** (2013), 79–96. [DOI](https://doi.org/10.1112/jlms/jdt001)
 
 ## 10. Worked Example / Concrete Special Case
 

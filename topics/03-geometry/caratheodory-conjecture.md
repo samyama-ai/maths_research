@@ -114,17 +114,17 @@ The precise barrier is the passage from *finite-order* to *flat* vanishing of th
 
 - **[Foundational]** W. Blaschke. *Vorlesungen über Differentialgeometrie III: Differentialgeometrie der Kreise und Kugeln.* Springer, Berlin, 1929. (First printed record of the conjecture.)
 - **[Foundational]** H. Hamburger. *Beweis einer Carathéodoryschen Vermutung, Teil I.* Annals of Mathematics **41** (1940), 63–86; *Teil II, III.* Acta Mathematica **73** (1941), 175–228 and 229–332.
-- **[Foundational]** G. Bol. *Über Nabelpunkte auf einer Eifläche.* Mathematische Zeitschrift **49** (1943/44), 389–410.
+- **[Foundational]** G. Bol. *Über Nabelpunkte auf einer Eifläche.* Mathematische Zeitschrift **49** (1943/44), 389–410. [DOI](https://doi.org/10.1007/bf01174209)
 - **[Historical]** T. Klotz. *On G. Bol's proof of Carathéodory's conjecture.* Communications on Pure and Applied Mathematics **12** (1959), 277–311.
 - **[Historical]** C. J. Titus. *A proof of a conjecture of Loewner and of the conjecture of Carathéodory on umbilic points.* Acta Mathematica **131** (1973), 43–77.
 - **[SOTA]** V. V. Ivanov. *The analytic Carathéodory conjecture.* Siberian Mathematical Journal **43** (2002), no. 2, 251–322.
 - **[SOTA]** H. Scherbel. *A new proof of Hamburger's index theorem on umbilical points.* Dissertation No. 10281, ETH Zürich, 1993.
-- **[SOTA]** B. Smyth, F. Xavier. *A sharp geometric estimate for the index of an umbilic on a smooth surface.* Bulletin of the London Mathematical Society **24** (1992), 176–180.
+- **[SOTA]** B. Smyth, F. Xavier. *A sharp geometric estimate for the index of an umbilic on a smooth surface.* Bulletin of the London Mathematical Society **24** (1992), 176–180. [DOI](https://doi.org/10.1112/blms/24.2.176)
 - **[SOTA]** B. Smyth, F. Xavier. *Real solvability of the equation $\partial_{\bar z}^2\omega = \rho g$ and the topology of isolated umbilics.* Journal of Geometric Analysis **8** (1998), 655–671.
 - **[Recent]** F. Fontenele, F. Xavier. *Finding umbilics on open convex surfaces.* Revista Matemática Iberoamericana **30** (2014), 553–556.
 - **[Frontier]** B. Guilfoyle, W. Klingenberg. *Proof of the Carathéodory conjecture.* Preprint, arXiv:0808.0851 (2008, revised subsequently). *(frontier — verify)*
 - **[Survey]** C. Gutierrez, J. Sotomayor. *Lines of curvature and umbilical points on surfaces.* 18º Colóquio Brasileiro de Matemática, IMPA, Rio de Janeiro, 1991 (reprinted 1998).
-- **[Survey]** M. Berger. *A Panoramic View of Riemannian Geometry.* Springer, 2003. (§ on umbilics and the Carathéodory conjecture.)
+- **[Survey]** M. Berger. *A Panoramic View of Riemannian Geometry.* Springer, 2003. (§ on umbilics and the Carathéodory conjecture.). [DOI](https://doi.org/10.1007/978-3-642-18245-7)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -118,23 +118,23 @@ The exact barrier: no invariant is known that (a) is defined for every torsion-f
 ## 9. Key References
 
 - **[Foundational]** G. Higman. *The units of group-rings.* Proceedings of the London Mathematical Society (2) **46** (1940), 231–248.
-- **[Foundational]** I. Kaplansky. *Problems in the theory of rings revisited.* American Mathematical Monthly **77** (1970), 445–454.
+- **[Foundational]** I. Kaplansky. *Problems in the theory of rings revisited.* American Mathematical Monthly **77** (1970), 445–454. [DOI](https://doi.org/10.2307/2317376)
 - **[Foundational]** D. S. Passman. *The Algebraic Structure of Group Rings.* Wiley-Interscience, 1977.
-- E. Formanek. *The zero divisor question for supersolvable groups.* Bulletin of the Australian Mathematical Society **9** (1973), 69–71.
+- E. Formanek. *The zero divisor question for supersolvable groups.* Bulletin of the Australian Mathematical Society **9** (1973), 69–71. [DOI](https://doi.org/10.1017/s000497270004288x)
 - K. A. Brown. *On zero divisors in group rings.* Bulletin of the London Mathematical Society **8** (1976), 251–256.
 - D. R. Farkas and R. L. Snider. *$K_0$ and Noetherian group rings.* Journal of Algebra **42** (1976), 192–198.
-- G. H. Cliff. *Zero divisors and idempotents in group rings.* Canadian Journal of Mathematics **32** (1980), 596–602.
-- P. H. Kropholler, P. A. Linnell and J. A. Moody. *Applications of a new K-theoretic theorem to soluble group rings.* Proceedings of the American Mathematical Society **104** (1988), 675–684.
-- E. Rips and Y. Segev. *Torsion-free group without unique product property.* Journal of Algebra **108** (1987), 116–126.
-- S. D. Promislow. *A simple example of a torsion-free, non-unique product group.* Bulletin of the London Mathematical Society **20** (1988), 302–304.
-- P. A. Linnell. *Division rings and group von Neumann algebras.* Forum Mathematicum **5** (1993), 561–576.
-- B. H. Bowditch. *A variation on the unique product property.* Journal of the London Mathematical Society **62** (2000), 813–826.
-- G. Elek and E. Szabó. *Sofic groups and direct finiteness.* Journal of Algebra **280** (2004), 426–434.
+- G. H. Cliff. *Zero divisors and idempotents in group rings.* Canadian Journal of Mathematics **32** (1980), 596–602. [DOI](https://doi.org/10.4153/cjm-1980-046-3)
+- P. H. Kropholler, P. A. Linnell and J. A. Moody. *Applications of a new K-theoretic theorem to soluble group rings.* Proceedings of the American Mathematical Society **104** (1988), 675–684. [DOI](https://doi.org/10.2307/2046771)
+- E. Rips and Y. Segev. *Torsion-free group without unique product property.* Journal of Algebra **108** (1987), 116–126. [DOI](https://doi.org/10.1016/0021-8693(87)90125-6)
+- S. D. Promislow. *A simple example of a torsion-free, non-unique product group.* Bulletin of the London Mathematical Society **20** (1988), 302–304. [DOI](https://doi.org/10.1112/blms/20.4.302)
+- P. A. Linnell. *Division rings and group von Neumann algebras.* Forum Mathematicum **5** (1993), 561–576. [DOI](https://doi.org/10.1515/form.1993.5.561)
+- B. H. Bowditch. *A variation on the unique product property.* Journal of the London Mathematical Society **62** (2000), 813–826. [DOI](https://doi.org/10.1112/s0024610700001307)
+- G. Elek and E. Szabó. *Sofic groups and direct finiteness.* Journal of Algebra **280** (2004), 426–434. [DOI](https://doi.org/10.1016/j.jalgebra.2004.06.023)
 - W. Lück. *$L^2$-Invariants: Theory and Applications to Geometry and K-Theory.* Springer, Ergebnisse der Mathematik **44**, 2002.
-- **[SOTA / Recent]** G. Gardam. *A counterexample to the unit conjecture for group rings.* Annals of Mathematics **194** (2021), 967–979.
+- **[SOTA / Recent]** G. Gardam. *A counterexample to the unit conjecture for group rings.* Annals of Mathematics **194** (2021), 967–979. [DOI](https://doi.org/10.4007/annals.2021.194.3.9)
 - **[SOTA / Recent]** A. G. Murray. *More counterexamples to the unit conjecture for group rings.* arXiv:2106.02147 (2021).
-- M. Schweitzer. *On zero divisors with small support in group rings of torsion-free groups.* Journal of Group Theory **16** (2013), 667–693.
-- K. Dykema, T. Heister and K. Juschenko. *Finitely presented groups related to Kaplansky's direct finiteness conjecture.* Experimental Mathematics **24** (2015), 326–338.
+- M. Schweitzer. *On zero divisors with small support in group rings of torsion-free groups.* Journal of Group Theory **16** (2013), 667–693. [DOI](https://doi.org/10.1515/jgt-2013-0017)
+- K. Dykema, T. Heister and K. Juschenko. *Finitely presented groups related to Kaplansky's direct finiteness conjecture.* Experimental Mathematics **24** (2015), 326–338. [DOI](https://doi.org/10.1080/10586458.2014.993051)
 - L. Bartholdi. *Amenability of groups is characterized by Myhill's theorem.* Journal of the European Mathematical Society **21** (2019), 3191–3197.
 - **[Survey]** D. S. Passman. *Group rings, crossed products and Galois theory.* CBMS Regional Conference Series in Mathematics **64**, AMS, 1986.
 

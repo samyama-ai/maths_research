@@ -104,21 +104,21 @@ The gap in the original conjecture is closed. The residual gap is between *exist
 
 ## 9. Key References
 
-- **[Foundational]** V. G. Kac. *Infinite root systems, representations of graphs and invariant theory.* Inventiones Mathematicae 56 (1980), 57–92.
-- **[Foundational]** V. G. Kac. *Root systems, representations of quivers and invariant theory.* In: Invariant Theory (Montecatini 1982), Lecture Notes in Mathematics 996, Springer, 1983, 74–108.
+- **[Foundational]** V. G. Kac. *Infinite root systems, representations of graphs and invariant theory.* Inventiones Mathematicae 56 (1980), 57–92. [DOI](https://doi.org/10.1007/bf01403155)
+- **[Foundational]** V. G. Kac. *Root systems, representations of quivers and invariant theory.* In: Invariant Theory (Montecatini 1982), Lecture Notes in Mathematics 996, Springer, 1983, 74–108. [DOI](https://doi.org/10.1007/bfb0063236)
 - **[Foundational]** V. G. Kac. *Infinite Dimensional Lie Algebras.* 3rd edition, Cambridge University Press, 1990.
-- **[Computational]** J. Hua. *Counting representations of quivers over finite fields.* Journal of Algebra 226 (2000), 1011–1033.
-- **[Structural]** W. Crawley-Boevey. *Geometry of the moment map for representations of quivers.* Compositio Mathematica 126 (2001), 257–293.
+- **[Computational]** J. Hua. *Counting representations of quivers over finite fields.* Journal of Algebra 226 (2000), 1011–1033. [DOI](https://doi.org/10.1006/jabr.1999.8220)
+- **[Structural]** W. Crawley-Boevey. *Geometry of the moment map for representations of quivers.* Compositio Mathematica 126 (2001), 257–293. [DOI](https://doi.org/10.1023/a:1017558904030)
 - **[Milestone]** W. Crawley-Boevey and M. Van den Bergh. *Absolutely indecomposable representations and Kac's conjecture.* Inventiones Mathematicae 155 (2004), 537–559.
-- **[Milestone]** T. Hausel. *Kac's conjecture from Nakajima quiver varieties.* Inventiones Mathematicae 181 (2010), 21–37.
-- **[SOTA]** T. Hausel, E. Letellier, F. Rodriguez-Villegas. *Arithmetic harmonic analysis on character and quiver varieties.* Duke Mathematical Journal 160 (2011), 323–400.
-- **[SOTA]** T. Hausel, E. Letellier, F. Rodriguez-Villegas. *Positivity for Kac polynomials and DT-invariants of quivers.* Annals of Mathematics (2) 177 (2013), 1147–1168.
-- **[SOTA]** S. Mozgovoy. *Motivic Donaldson–Thomas invariants and the Kac conjecture.* Compositio Mathematica 149 (2013), 495–504.
-- **[Recent]** T. Bozec, O. Schiffmann. *Counting absolutely cuspidals for quivers.* Mathematische Zeitschrift 292 (2019), 133–149.
+- **[Milestone]** T. Hausel. *Kac's conjecture from Nakajima quiver varieties.* Inventiones Mathematicae 181 (2010), 21–37. [DOI](https://doi.org/10.1007/s00222-010-0241-3)
+- **[SOTA]** T. Hausel, E. Letellier, F. Rodriguez-Villegas. *Arithmetic harmonic analysis on character and quiver varieties.* Duke Mathematical Journal 160 (2011), 323–400. [DOI](https://doi.org/10.1215/00127094-1444258)
+- **[SOTA]** T. Hausel, E. Letellier, F. Rodriguez-Villegas. *Positivity for Kac polynomials and DT-invariants of quivers.* Annals of Mathematics (2) 177 (2013), 1147–1168. [DOI](https://doi.org/10.4007/annals.2013.177.3.8)
+- **[SOTA]** S. Mozgovoy. *Motivic Donaldson–Thomas invariants and the Kac conjecture.* Compositio Mathematica 149 (2013), 495–504. [DOI](https://doi.org/10.1112/s0010437x13007148)
+- **[Recent]** T. Bozec, O. Schiffmann. *Counting absolutely cuspidals for quivers.* Mathematische Zeitschrift 292 (2019), 133–149. [DOI](https://doi.org/10.1007/s00209-018-2155-5)
 - **[Recent]** B. Davison. *The integrality conjecture and the cohomology of 2CY categories.* Preprint, arXiv:2007.03289 (2020).
 - **[Recent]** B. Davison, L. Hennecart, S. Schlegel Mejia. *BPS Lie algebras for totally negative 2-Calabi–Yau categories and nonabelian Hodge theory for stacks.* Preprint, arXiv:2212.07668 (2022).
-- **[Survey]** O. Schiffmann. *Kac polynomials and Lie algebras associated to quivers and curves.* Proceedings of the International Congress of Mathematicians, Rio de Janeiro 2018, Vol. II, 1411–1442.
-- **[Background]** H. Nakajima. *Instantons on ALE spaces, quiver varieties, and Kac–Moody algebras.* Duke Mathematical Journal 76 (1994), 365–416.
+- **[Survey]** O. Schiffmann. *Kac polynomials and Lie algebras associated to quivers and curves.* Proceedings of the International Congress of Mathematicians, Rio de Janeiro 2018, Vol. II, 1411–1442. [DOI](https://doi.org/10.1142/9789813272880_0102)
+- **[Background]** H. Nakajima. *Instantons on ALE spaces, quiver varieties, and Kac–Moody algebras.* Duke Mathematical Journal 76 (1994), 365–416. [DOI](https://doi.org/10.1215/s0012-7094-94-07613-8)
 
 ## 10. Worked Example / Concrete Special Case
 

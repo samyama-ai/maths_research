@@ -110,10 +110,10 @@ Leading mathematicians in transcendental dynamics (such as Rempe, Rippon, Stalla
 
 ## 9. Key References
 
-- **[Foundational]** A. Eremenko. *On the iteration of entire functions.* Dynamical systems and ergodic theory, Banach Center Publications 23, 1989.
-- **[SOTA / Counterexample]** D. Martí-Pete, L. Rempe, J. Waterman. *Eremenko's conjecture, wandering Lakes of Wada, and maverick points.* Journal of the American Mathematical Society, 2025.
-- **[SOTA / Class $\mathcal{B}$ Disproof]** G. Rottenfußer, J. Rückert, L. Rempe, D. Schleicher. *Dynamic rays of bounded-type entire functions.* Annals of Mathematics, 2011.
-- **[Survey / Spider's Webs]** P. J. Rippon, G. M. Stallard. *Boundaries of escaping Fatou components.* Proceedings of the American Mathematical Society, 2011.
+- **[Foundational]** A. Eremenko. *On the iteration of entire functions.* Dynamical systems and ergodic theory, Banach Center Publications 23, 1989. [DOI](https://doi.org/10.4064/-23-1-339-345)
+- **[SOTA / Counterexample]** D. Martí-Pete, L. Rempe, J. Waterman. *Eremenko's conjecture, wandering Lakes of Wada, and maverick points.* Journal of the American Mathematical Society, 2025. [DOI](https://doi.org/10.1090/jams/1049)
+- **[SOTA / Class $\mathcal{B}$ Disproof]** G. Rottenfußer, J. Rückert, L. Rempe, D. Schleicher. *Dynamic rays of bounded-type entire functions.* Annals of Mathematics, 2011. [DOI](https://doi.org/10.4007/annals.2011.173.1.3)
+- **[Survey / Spider's Webs]** P. J. Rippon, G. M. Stallard. *Boundaries of escaping Fatou components.* Proceedings of the American Mathematical Society, 2011. [DOI](https://doi.org/10.1090/s0002-9939-2011-10842-6)
 - **[Survey]** L. Rempe-Gillen. *Transcendental dynamics.* In Complex Dynamics, A K Peters/CRC Press, 2020.
 
 ## 10. Worked Example / Concrete Special Case

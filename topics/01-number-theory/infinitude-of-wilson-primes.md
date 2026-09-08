@@ -85,9 +85,9 @@ Leading number theorists have suggested several potential pathways to theoretica
 
 ## 9. Key References
 
-- **[Foundational]** K. Goldberg. *A table of Wilson quotients and the third Wilson prime.* Journal of the London Mathematical Society, 1953.
+- **[Foundational]** K. Goldberg. *A table of Wilson quotients and the third Wilson prime.* Journal of the London Mathematical Society, 1953. [DOI](https://doi.org/10.1112/jlms/s1-28.2.252)
 - **[SOTA / Recent]** E. Costa, R. Gerbicz, D. Harvey. *A search for Wilson primes to $2 \times 10^{13}$.* Mathematics of Computation, 2014. (https://doi.org/10.1090/S0025-5718-2014-02800-7)
-- **[Survey]** R. Crandall, K. Dilcher, C. Pomerance. *A search for Wieferich and Wilson primes.* Mathematics of Computation, 1997.
+- **[Survey]** R. Crandall, K. Dilcher, C. Pomerance. *A search for Wieferich and Wilson primes.* Mathematics of Computation, 1997. [DOI](https://doi.org/10.1090/s0025-5718-97-00791-6)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -112,19 +112,19 @@ The precise missing step: given a slice disk $D \subset B^4$ with $k$ index-$2$ 
 
 - **[Foundational]** R. H. Fox. *Some problems in knot theory.* In "Topology of 3-Manifolds and Related Topics" (M. K. Fort, ed.), Prentice–Hall, 1962, 168–176.
 - **[Foundational]** R. H. Fox and J. W. Milnor. *Singularities of 2-spheres in 4-space and cobordism of knots.* Osaka J. Math. 3 (1966), 257–267.
-- **[Foundational]** A. J. Casson and C. McA. Gordon. *A loop theorem for duality spaces and fibred ribbon knots.* Inventiones Mathematicae 74 (1983), 119–137.
+- **[Foundational]** A. J. Casson and C. McA. Gordon. *A loop theorem for duality spaces and fibred ribbon knots.* Inventiones Mathematicae 74 (1983), 119–137. [DOI](https://doi.org/10.1007/bf01388533)
 - **[Foundational]** A. J. Casson and C. McA. Gordon. *Cobordism of classical knots.* In "À la Recherche de la Topologie Perdue", Progr. Math. 62, Birkhäuser, 1986, 181–199.
-- **[SOTA]** P. Lisca. *Lens spaces, rational balls and the ribbon conjecture.* Geometry & Topology 11 (2007), 429–472.
-- **[SOTA]** J. Greene and S. Jabuka. *The slice-ribbon conjecture for 3-stranded pretzel knots.* American Journal of Mathematics 133 (2011), 555–580.
-- **[SOTA]** A. G. Lecuona. *On the slice-ribbon conjecture for Montesinos knots.* Transactions of the AMS 364 (2012), 233–285.
-- **[SOTA]** A. G. Lecuona. *On the slice-ribbon conjecture for pretzel knots.* Algebraic & Geometric Topology 15 (2015), 2133–2173.
+- **[SOTA]** P. Lisca. *Lens spaces, rational balls and the ribbon conjecture.* Geometry & Topology 11 (2007), 429–472. [DOI](https://doi.org/10.2140/gt.2007.11.429)
+- **[SOTA]** J. Greene and S. Jabuka. *The slice-ribbon conjecture for 3-stranded pretzel knots.* American Journal of Mathematics 133 (2011), 555–580. [DOI](https://doi.org/10.1353/ajm.2011.0022)
+- **[SOTA]** A. G. Lecuona. *On the slice-ribbon conjecture for Montesinos knots.* Transactions of the AMS 364 (2012), 233–285. [DOI](https://doi.org/10.1090/s0002-9947-2011-05385-7)
+- **[SOTA]** A. G. Lecuona. *On the slice-ribbon conjecture for pretzel knots.* Algebraic & Geometric Topology 15 (2015), 2133–2173. [DOI](https://doi.org/10.2140/agt.2015.15.2133)
 - **[SOTA / Recent]** I. Dai, S. Kang, A. Mallick, J. Park, M. Stoffregen. *The $(2,1)$-cable of the figure-eight knot is not smoothly slice.* arXiv:2207.14196, 2022.
 - **[SOTA / Recent]** C. Manolescu and L. Piccirillo. *From zero surgeries to candidates for exotic definite four-manifolds.* arXiv:2102.04391, 2021.
 - **[SOTA / Recent]** J. Meier and A. Zupan. *Generalized square knots and homotopy 4-spheres.* arXiv:1904.08527, 2019.
-- **[Recent]** R. E. Gompf, M. Scharlemann, A. Thompson. *Fibered knots and potential counterexamples to the Property 2R and slice-ribbon conjectures.* Geometry & Topology 14 (2010), 2305–2347.
-- **[Recent]** T. Abe, I. D. Jong, J. Luecke, J. Osoinach. *Infinitely many knots admitting the same integer surgery and a four-dimensional extension.* International Mathematics Research Notices (2015), 4699–4728.
-- **[Recent]** C. Herald, P. Kirk, C. Livingston. *Metabelian representations, twisted Alexander polynomials, knot slicing, and mutation.* Mathematische Zeitschrift 265 (2010), 925–949.
-- **[Survey]** R. Kirby (ed.). *Problems in low-dimensional topology.* AMS/IP Stud. Adv. Math. 2.2, 1997 (Problem 1.33).
+- **[Recent]** R. E. Gompf, M. Scharlemann, A. Thompson. *Fibered knots and potential counterexamples to the Property 2R and slice-ribbon conjectures.* Geometry & Topology 14 (2010), 2305–2347. [DOI](https://doi.org/10.2140/gt.2010.14.2305)
+- **[Recent]** T. Abe, I. D. Jong, J. Luecke, J. Osoinach. *Infinitely many knots admitting the same integer surgery and a four-dimensional extension.* International Mathematics Research Notices (2015), 4699–4728. [DOI](https://doi.org/10.1093/imrn/rnv008)
+- **[Recent]** C. Herald, P. Kirk, C. Livingston. *Metabelian representations, twisted Alexander polynomials, knot slicing, and mutation.* Mathematische Zeitschrift 265 (2010), 925–949. [DOI](https://doi.org/10.1007/s00209-009-0548-1)
+- **[Survey]** R. Kirby (ed.). *Problems in low-dimensional topology.* AMS/IP Stud. Adv. Math. 2.2, 1997 (Problem 1.33). [DOI](https://doi.org/10.1090/amsip/002.2/02)
 - **[Survey]** C. Livingston and A. H. Moore. *KnotInfo: Table of Knot Invariants.* knotinfo.math.indiana.edu, accessed 2026.
 - **[Book]** J. C. Cha and K. H. Ko / see also D. Rolfsen, *Knots and Links*, Publish or Perish, 1976 (Ch. 8, ribbon and slice knots).
 

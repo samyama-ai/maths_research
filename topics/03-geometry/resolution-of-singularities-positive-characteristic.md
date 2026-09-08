@@ -108,21 +108,21 @@ The precise missing step is an **inductive invariant valid when $p \mid \operato
 
 ## 9. Key References
 
-- **[Foundational]** O. Zariski. *Local uniformization on algebraic varieties.* Annals of Mathematics 41 (1940), 852–896.
-- **[Foundational]** S. S. Abhyankar. *Local uniformization on algebraic surfaces over ground fields of characteristic $p \ne 0$.* Annals of Mathematics 63 (1956), 491–526.
-- **[Foundational]** H. Hironaka. *Resolution of singularities of an algebraic variety over a field of characteristic zero: I, II.* Annals of Mathematics 79 (1964), 109–203 and 205–326.
+- **[Foundational]** O. Zariski. *Local uniformization on algebraic varieties.* Annals of Mathematics 41 (1940), 852–896. [DOI](https://doi.org/10.2307/1968864)
+- **[Foundational]** S. S. Abhyankar. *Local uniformization on algebraic surfaces over ground fields of characteristic $p \ne 0$.* Annals of Mathematics 63 (1956), 491–526. [DOI](https://doi.org/10.2307/1970014)
+- **[Foundational]** H. Hironaka. *Resolution of singularities of an algebraic variety over a field of characteristic zero: I, II.* Annals of Mathematics 79 (1964), 109–203 and 205–326. [DOI](https://doi.org/10.2307/1970547)
 - **[Foundational]** S. S. Abhyankar. *Resolution of Singularities of Embedded Algebraic Surfaces.* Academic Press, 1966; 2nd enlarged ed., Springer Monographs in Mathematics, 1998.
-- **[Obstruction]** R. Narasimhan. *Monomial equimultiple curves in positive characteristic.* Proceedings of the AMS 89 (1983), 402–406.
-- **[Foundational]** M. Spivakovsky. *A solution to Hironaka's polyhedra game.* In: Arithmetic and Geometry, Vol. II, Progress in Mathematics 36, Birkhäuser, 1983, 419–432.
-- **[Foundational]** A. J. de Jong. *Smoothness, semi-stability and alterations.* Publications Mathématiques de l'IHÉS 83 (1996), 51–93.
-- **[SOTA]** V. Cossart, O. Piltant. *Resolution of singularities of threefolds in positive characteristic I.* Journal of Algebra 320 (2008), 1051–1082.
-- **[SOTA]** V. Cossart, O. Piltant. *Resolution of singularities of threefolds in positive characteristic II.* Journal of Algebra 321 (2009), 1836–1976.
-- **[SOTA]** V. Cossart, O. Piltant. *Resolution of singularities of arithmetical threefolds.* Journal of Algebra 529 (2019), 268–535.
-- **[SOTA]** S. D. Cutkosky. *Resolution of singularities for 3-folds in positive characteristic.* American Journal of Mathematics 131 (2009), 59–127.
-- **[SOTA]** M. Temkin. *Tame distillation and desingularization by $p$-alterations.* Annals of Mathematics 186 (2017), 97–126.
+- **[Obstruction]** R. Narasimhan. *Monomial equimultiple curves in positive characteristic.* Proceedings of the AMS 89 (1983), 402–406. [DOI](https://doi.org/10.1090/s0002-9939-1983-0715853-7)
+- **[Foundational]** M. Spivakovsky. *A solution to Hironaka's polyhedra game.* In: Arithmetic and Geometry, Vol. II, Progress in Mathematics 36, Birkhäuser, 1983, 419–432. [DOI](https://doi.org/10.1007/978-1-4757-9286-7_16)
+- **[Foundational]** A. J. de Jong. *Smoothness, semi-stability and alterations.* Publications Mathématiques de l'IHÉS 83 (1996), 51–93. [DOI](https://doi.org/10.1007/bf02698644)
+- **[SOTA]** V. Cossart, O. Piltant. *Resolution of singularities of threefolds in positive characteristic I.* Journal of Algebra 320 (2008), 1051–1082. [DOI](https://doi.org/10.1016/j.jalgebra.2008.03.032)
+- **[SOTA]** V. Cossart, O. Piltant. *Resolution of singularities of threefolds in positive characteristic II.* Journal of Algebra 321 (2009), 1836–1976. [DOI](https://doi.org/10.1016/j.jalgebra.2008.11.030)
+- **[SOTA]** V. Cossart, O. Piltant. *Resolution of singularities of arithmetical threefolds.* Journal of Algebra 529 (2019), 268–535. [DOI](https://doi.org/10.1016/j.jalgebra.2019.02.017)
+- **[SOTA]** S. D. Cutkosky. *Resolution of singularities for 3-folds in positive characteristic.* American Journal of Mathematics 131 (2009), 59–127. [DOI](https://doi.org/10.1353/ajm.0.0036)
+- **[SOTA]** M. Temkin. *Tame distillation and desingularization by $p$-alterations.* Annals of Mathematics 186 (2017), 97–126. [DOI](https://doi.org/10.4007/annals.2017.186.1.3)
 - **[SOTA]** H. Kawanoue, K. Matsuki. *Toward resolution of singularities over a field of positive characteristic (the idealistic filtration program) Part II.* Publications of RIMS 46 (2010), 359–422.
-- **[SOTA]** H. Knaf, F.-V. Kuhlmann. *Abhyankar places admit local uniformization in any characteristic.* Annales Scientifiques de l'ENS 38 (2005), 833–846.
-- **[Survey]** H. Hauser. *On the problem of resolution of singularities in positive characteristic (or: a proof we are still waiting for).* Bulletin of the AMS 47 (2010), 1–30.
+- **[SOTA]** H. Knaf, F.-V. Kuhlmann. *Abhyankar places admit local uniformization in any characteristic.* Annales Scientifiques de l'ENS 38 (2005), 833–846. [DOI](https://doi.org/10.1016/j.ansens.2005.09.001)
+- **[Survey]** H. Hauser. *On the problem of resolution of singularities in positive characteristic (or: a proof we are still waiting for).* Bulletin of the AMS 47 (2010), 1–30. [DOI](https://doi.org/10.1090/s0273-0979-09-01274-9)
 - **[Survey]** J. Kollár. *Lectures on Resolution of Singularities.* Annals of Mathematics Studies 166, Princeton University Press, 2007.
 - **[Survey]** V. Cossart, U. Jannsen, S. Saito. *Desingularization: Invariants and Strategy — Application to Dimension 2.* Lecture Notes in Mathematics 2270, Springer, 2020.
 - **[Recent]** D. Abramovich, M. Temkin, J. Włodarczyk. *Functorial embedded resolution via weighted blowings up.* arXiv:1906.07106 (2019).

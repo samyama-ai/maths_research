@@ -100,20 +100,20 @@ The exact step to cross is the identification $\mathbf{B} = \{[P_b] : b\}$ insid
 
 ## 9. Key References
 
-- **[Foundational]** G. Lusztig. *Canonical bases arising from quantized enveloping algebras.* Journal of the American Mathematical Society 3 (1990), 447–498.
-- **[Foundational]** G. Lusztig. *Quivers, perverse sheaves, and quantized enveloping algebras.* Journal of the American Mathematical Society 4 (1991), 365–421.
-- **[Foundational]** M. Kashiwara. *On crystal bases of the $q$-analogue of universal enveloping algebras.* Duke Mathematical Journal 63 (1991), 465–516.
+- **[Foundational]** G. Lusztig. *Canonical bases arising from quantized enveloping algebras.* Journal of the American Mathematical Society 3 (1990), 447–498. [DOI](https://doi.org/10.1090/s0894-0347-1990-1035415-6)
+- **[Foundational]** G. Lusztig. *Quivers, perverse sheaves, and quantized enveloping algebras.* Journal of the American Mathematical Society 4 (1991), 365–421. [DOI](https://doi.org/10.1090/s0894-0347-1991-1088333-2)
+- **[Foundational]** M. Kashiwara. *On crystal bases of the $q$-analogue of universal enveloping algebras.* Duke Mathematical Journal 63 (1991), 465–516. [DOI](https://doi.org/10.1215/s0012-7094-91-06321-0)
 - **[Book]** G. Lusztig. *Introduction to Quantum Groups.* Progress in Mathematics 110, Birkhäuser, 1993.
 - **[Foundational]** A. Beilinson, J. Bernstein, P. Deligne, O. Gabber. *Faisceaux pervers.* Astérisque 100 (1982).
-- **[SOTA]** M. Khovanov, A. Lauda. *A diagrammatic approach to categorification of quantum groups I.* Representation Theory 13 (2009), 309–347.
+- **[SOTA]** M. Khovanov, A. Lauda. *A diagrammatic approach to categorification of quantum groups I.* Representation Theory 13 (2009), 309–347. [DOI](https://doi.org/10.1090/s1088-4165-09-00346-x)
 - **[SOTA]** R. Rouquier. *2-Kac–Moody algebras.* arXiv:0812.5023 (2008).
-- **[SOTA]** M. Varagnolo, E. Vasserot. *Canonical bases and KLR-algebras.* Journal für die reine und angewandte Mathematik 659 (2011), 67–100.
-- **[SOTA]** S.-J. Kang, M. Kashiwara. *Categorification of highest weight modules via Khovanov–Lauda–Rouquier algebras.* Inventiones Mathematicae 190 (2012), 699–742.
-- **[SOTA]** S.-J. Kang, M. Kashiwara, M. Kim, S.-j. Oh. *Monoidal categorification of cluster algebras.* Journal of the American Mathematical Society 31 (2018), 349–426.
+- **[SOTA]** M. Varagnolo, E. Vasserot. *Canonical bases and KLR-algebras.* Journal für die reine und angewandte Mathematik 659 (2011), 67–100. [DOI](https://doi.org/10.1515/crelle.2011.068)
+- **[SOTA]** S.-J. Kang, M. Kashiwara. *Categorification of highest weight modules via Khovanov–Lauda–Rouquier algebras.* Inventiones Mathematicae 190 (2012), 699–742. [DOI](https://doi.org/10.1007/s00222-012-0388-1)
+- **[SOTA]** S.-J. Kang, M. Kashiwara, M. Kim, S.-j. Oh. *Monoidal categorification of cluster algebras.* Journal of the American Mathematical Society 31 (2018), 349–426. [DOI](https://doi.org/10.1090/jams/895)
 - **[Recent]** Y. Li, W. Wang. *Positivity vs negativity of canonical bases.* arXiv:1501.00688 (2015).
-- **[Computational]** N. Xi. *Canonical basis for type $B_2$.* Journal of Algebra 214 (1999), 8–21.
-- **[Survey]** G. Williamson. *Schubert calculus and torsion explosion.* Journal of the American Mathematical Society 30 (2017), 1023–1046.
-- **[Survey]** H. Bao, W. Wang. *A new approach to Kazhdan–Lusztig theory of type B via quantum symmetric pairs.* Astérisque 402 (2018).
+- **[Computational]** N. Xi. *Canonical basis for type $B_2$.* Journal of Algebra 214 (1999), 8–21. [DOI](https://doi.org/10.1006/jabr.1998.7688)
+- **[Survey]** G. Williamson. *Schubert calculus and torsion explosion.* Journal of the American Mathematical Society 30 (2017), 1023–1046. [DOI](https://doi.org/10.1090/jams/868)
+- **[Survey]** H. Bao, W. Wang. *A new approach to Kazhdan–Lusztig theory of type B via quantum symmetric pairs.* Astérisque 402 (2018). [DOI](https://doi.org/10.24033/ast.1052)
 
 ## 10. Worked Example / Concrete Special Case
 

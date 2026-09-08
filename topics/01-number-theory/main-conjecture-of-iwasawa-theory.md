@@ -93,11 +93,11 @@ Leading mathematicians suggest the following pathways:
 
 ## 9. Key References
 
-- **[Foundational]** Mazur, B., & Wiles, A. *Class fields of abelian extensions of $\mathbb{Q}$.* Inventiones mathematicae, 1984.
-- **[Foundational]** Wiles, A. *The Iwasawa Conjecture for Totally Real Fields.* Annals of Mathematics, 1990.
-- **[SOTA / Recent]** Kakde, M. *The main conjecture of Iwasawa theory for totally real fields.* Inventiones mathematicae, 2013.
+- **[Foundational]** Mazur, B., & Wiles, A. *Class fields of abelian extensions of $\mathbb{Q}$.* Inventiones mathematicae, 1984. [DOI](https://doi.org/10.1007/bf01388599)
+- **[Foundational]** Wiles, A. *The Iwasawa Conjecture for Totally Real Fields.* Annals of Mathematics, 1990. [DOI](https://doi.org/10.2307/1971468)
+- **[SOTA / Recent]** Kakde, M. *The main conjecture of Iwasawa theory for totally real fields.* Inventiones mathematicae, 2013. [DOI](https://doi.org/10.1007/s00222-012-0436-x)
 - **[SOTA / Recent]** Skinner, C., & Urban, E. *The Iwasawa main conjectures for $GL_2$.* Inventiones mathematicae, 2014.
-- **[Survey]** Coates, J., & Sujatha, R. *Cyclotomic Fields and Zeta Values.* Springer Monographs in Mathematics, 2006.
+- **[Survey]** Coates, J., & Sujatha, R. *Cyclotomic Fields and Zeta Values.* Springer Monographs in Mathematics, 2006. [DOI](https://doi.org/10.1007/978-3-540-33069-1)
 - **[Survey]** Greenberg, R. *Iwasawa Theory - Past and Present.* Advanced Studies in Pure Mathematics, 2000.
 
 ## 10. Worked Example / Concrete Special Case

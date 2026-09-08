@@ -109,23 +109,23 @@ Missing: a mechanism producing an *orthogonal* multiplicity decomposition when t
 
 ## 9. Key References
 
-- **[Foundational]** A. Beurling. *On two problems concerning linear transformations in Hilbert space.* Acta Mathematica **81** (1949), 239–255.
-- **[Foundational]** P. D. Lax. *Translation invariant spaces.* Acta Mathematica **101** (1959), 163–178.
-- **[Foundational]** P. R. Halmos. *Shifts on Hilbert spaces.* Journal für die reine und angewandte Mathematik **208** (1961), 102–112.
-- **[Foundational]** H. Helson, D. Lowdenslager. *Prediction theory and Fourier series in several variables.* Acta Mathematica **99** (1958), 165–202.
+- **[Foundational]** A. Beurling. *On two problems concerning linear transformations in Hilbert space.* Acta Mathematica **81** (1949), 239–255. [DOI](https://doi.org/10.1007/bf02395019)
+- **[Foundational]** P. D. Lax. *Translation invariant spaces.* Acta Mathematica **101** (1959), 163–178. [DOI](https://doi.org/10.1007/bf02559553)
+- **[Foundational]** P. R. Halmos. *Shifts on Hilbert spaces.* Journal für die reine und angewandte Mathematik **208** (1961), 102–112. [DOI](https://doi.org/10.1515/crll.1961.208.102)
+- **[Foundational]** H. Helson, D. Lowdenslager. *Prediction theory and Fourier series in several variables.* Acta Mathematica **99** (1958), 165–202. [DOI](https://doi.org/10.1007/bf02392425)
 - **[Foundational]** W. Rudin. *Function Theory in Polydiscs.* W. A. Benjamin, 1969.
 - **[SOTA]** A. Aleman, S. Richter, C. Sundberg. *Beurling's theorem for the Bergman space.* Acta Mathematica **177** (1996), 275–310.
-- **[SOTA]** S. Shimorin. *Wold-type decompositions and wandering subspaces for operators close to isometries.* J. reine angew. Math. **531** (2001), 147–189.
-- **[SOTA]** S. McCullough, T. T. Trent. *Invariant subspaces and Nevanlinna–Pick kernels.* Journal of Functional Analysis **178** (2000), 226–249.
-- **[SOTA]** D. Greene, S. Richter, C. Sundberg. *The structure of inner multipliers on spaces with complete Nevanlinna–Pick kernels.* Journal of Functional Analysis **194** (2002), 311–331.
+- **[SOTA]** S. Shimorin. *Wold-type decompositions and wandering subspaces for operators close to isometries.* J. reine angew. Math. **531** (2001), 147–189. [DOI](https://doi.org/10.1515/crll.2001.013)
+- **[SOTA]** S. McCullough, T. T. Trent. *Invariant subspaces and Nevanlinna–Pick kernels.* Journal of Functional Analysis **178** (2000), 226–249. [DOI](https://doi.org/10.1006/jfan.2000.3664)
+- **[SOTA]** D. Greene, S. Richter, C. Sundberg. *The structure of inner multipliers on spaces with complete Nevanlinna–Pick kernels.* Journal of Functional Analysis **194** (2002), 311–331. [DOI](https://doi.org/10.1006/jfan.2002.3928)
 - **[SOTA]** W. Arveson. *Subalgebras of $C^*$-algebras III: Multivariable operator theory.* Acta Mathematica **181** (1998), 159–228.
-- **[SOTA]** G. Popescu. *Multi-analytic operators on Fock spaces.* Mathematische Annalen **303** (1995), 31–46.
-- **[SOTA]** K. R. Davidson, D. R. Pitts. *Invariant subspaces and hyper-reflexivity for free semigroup algebras.* Proc. London Math. Soc. **78** (1999), 401–430.
+- **[SOTA]** G. Popescu. *Multi-analytic operators on Fock spaces.* Mathematische Annalen **303** (1995), 31–46. [DOI](https://doi.org/10.1007/bf01460977)
+- **[SOTA]** K. R. Davidson, D. R. Pitts. *Invariant subspaces and hyper-reflexivity for free semigroup algebras.* Proc. London Math. Soc. **78** (1999), 401–430. [DOI](https://doi.org/10.1112/s002461159900180x)
 - **[SOTA]** P. S. Muhly, B. Solel. *Hardy algebras, $W^*$-correspondences and interpolation theory.* Mathematische Annalen **330** (2004), 353–415.
-- **[Survey]** B. Sz.-Nagy, C. Foiaș, H. Bercovici, L. Kérchy. *Harmonic Analysis of Operators on Hilbert Space*, 2nd ed. Springer, 2010.
-- **[Survey]** J. Agler, J. E. McCarthy. *Pick Interpolation and Hilbert Function Spaces.* AMS Graduate Studies in Mathematics 44, 2002.
+- **[Survey]** B. Sz.-Nagy, C. Foiaș, H. Bercovici, L. Kérchy. *Harmonic Analysis of Operators on Hilbert Space*, 2nd ed. Springer, 2010. [DOI](https://doi.org/10.1007/978-1-4419-6094-8)
+- **[Survey]** J. Agler, J. E. McCarthy. *Pick Interpolation and Hilbert Function Spaces.* AMS Graduate Studies in Mathematics 44, 2002. [DOI](https://doi.org/10.1090/gsm/044)
 - **[Survey]** H. Hedenmalm, B. Korenblum, K. Zhu. *Theory of Bergman Spaces.* Springer GTM 199, 2000.
-- **[Survey]** V. Mandrekar. *The validity of Beurling theorems in polydiscs.* Proc. Amer. Math. Soc. **103** (1988), 145–148.
+- **[Survey]** V. Mandrekar. *The validity of Beurling theorems in polydiscs.* Proc. Amer. Math. Soc. **103** (1988), 145–148. [DOI](https://doi.org/10.1090/s0002-9939-1988-0938659-7)
 
 ## 10. Worked Example / Concrete Special Case
 

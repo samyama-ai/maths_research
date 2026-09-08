@@ -87,7 +87,7 @@ Leading mathematicians suggest that attacking the Grand RH head-on via classical
 
 ## 9. Key References
 
-- **[Foundational]** Godement, R. and Jacquet, H. *Zeta Functions of Simple Algebras.* Lecture Notes in Mathematics, Vol. 260, Springer-Verlag, 1972.
+- **[Foundational]** Godement, R. and Jacquet, H. *Zeta Functions of Simple Algebras.* Lecture Notes in Mathematics, Vol. 260, Springer-Verlag, 1972. [DOI](https://doi.org/10.1007/bfb0070263)
 - **[Foundational]** Iwaniec, H. and Kowalski, E. *Analytic Number Theory.* American Mathematical Society Colloquium Publications, Vol. 53, 2004.
 - **[Survey]** Sarnak, P. *Problems of the Millennium: The Riemann Hypothesis.* Clay Mathematics Institute, 2004.
 - **[SOTA / Recent]** Katz, N. M. and Sarnak, P. *Random Matrices, Frobenius Eigenvalues, and Monodromy.* American Mathematical Society Colloquium Publications, Vol. 45, 1999.

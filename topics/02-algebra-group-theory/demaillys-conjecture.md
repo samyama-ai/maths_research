@@ -114,9 +114,9 @@ Leading mathematicians outline the following pathways to resolving or generalizi
 
 ## 9. Key References
 
-- **[Foundational]** Demailly, J.-P. *Formules de Jensen en plusieurs variables et applications arithmétiques.* Bulletin de la Société Mathématique de France, 110 (1982).
+- **[Foundational]** Demailly, J.-P. *Formules de Jensen en plusieurs variables et applications arithmétiques.* Bulletin de la Société Mathématique de France, 110 (1982). [DOI](https://doi.org/10.24033/bsmf.1954)
 - **[Foundational]** Chudnovsky, G. V. *Singular points on complex hypersurfaces and multidimensional Schwarz lemma.* Séminaire Delange-Pisot-Poitou, 1979/1980. Progress in Mathematics, Birkhäuser, 1981.
-- **[Foundational]** Ein, L., Lazarsfeld, R., Smith, K. E. *Uniform bounds and symbolic powers on smooth varieties.* Inventiones Mathematicae 144, 2001.
+- **[Foundational]** Ein, L., Lazarsfeld, R., Smith, K. E. *Uniform bounds and symbolic powers on smooth varieties.* Inventiones Mathematicae 144, 2001. [DOI](https://doi.org/10.1007/s002220100121)
 - **[SOTA / Recent]** Fouli, L., Mantero, P., Xie, Y. *Chudnovsky's Conjecture for very general points in $\mathbb{P}^N$.* Journal of Algebra 567, 2021.
 - **[SOTA / Recent]** Malara, G., Szemberg, T., Szpond, J. *On a conjecture of Demailly and new bounds on Waldschmidt constants in $\mathbb{P}^N$.* Journal of Number Theory 189, 2018.
 - **[Survey]** Szemberg, T., Szpond, J. *Waldschmidt constants for ideals of points.* Arkiv för Matematik 55, 2017.

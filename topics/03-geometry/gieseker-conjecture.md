@@ -121,17 +121,17 @@ for regular singular stratified bundles on $U$. One needs a **projective moduli 
 ## 9. Key References
 
 - **[Foundational]** D. Gieseker. *Flat bundles and the fundamental group in non-zero characteristics.* Annali della Scuola Normale Superiore di Pisa, Classe di Scienze (4) **2** (1975), 1–31.
-- **[Foundational]** H. Lange, U. Stuhler. *Vektorbündel auf Kurven und Darstellungen der algebraischen Fundamentalgruppe.* Mathematische Zeitschrift **156** (1977), 73–83.
+- **[Foundational]** H. Lange, U. Stuhler. *Vektorbündel auf Kurven und Darstellungen der algebraischen Fundamentalgruppe.* Mathematische Zeitschrift **156** (1977), 73–83. [DOI](https://doi.org/10.1007/bf01215129)
 - **[Foundational]** M. V. Nori. *The fundamental group-scheme.* Proceedings of the Indian Academy of Sciences (Math. Sci.) **91** (1982), 73–122.
-- **[SOTA]** H. Esnault, V. Mehta. *Simply connected projective manifolds in characteristic $p>0$ have no nontrivial stratified bundles.* Inventiones Mathematicae **181** (2010), 449–465.
+- **[SOTA]** H. Esnault, V. Mehta. *Simply connected projective manifolds in characteristic $p>0$ have no nontrivial stratified bundles.* Inventiones Mathematicae **181** (2010), 449–465. [DOI](https://doi.org/10.1007/s00222-010-0250-2)
 - **[SOTA]** E. Hrushovski. *The elementary theory of the Frobenius automorphisms.* arXiv:math/0406514.
-- **[SOTA]** A. Langer. *Semistable sheaves in positive characteristic.* Annals of Mathematics **159** (2004), 251–276.
-- **[SOTA]** A. Langer. *On the $S$-fundamental group scheme.* Annales de l'Institut Fourier **61** (2011), 2077–2119.
-- **[SOTA]** J. P. P. dos Santos. *Fundamental group schemes for stratified sheaves.* Journal of Algebra **317** (2007), 691–713.
-- **[SOTA]** L. Kindler. *Regular singular stratified bundles and tame ramification.* Transactions of the AMS **367** (2015), 6461–6485.
-- **[SOTA]** H. Esnault, L. Kindler. *Lefschetz theorems for tamely ramified coverings.* Proceedings of the AMS **144** (2016), 5071–5080.
-- **[SOTA]** H. Esnault, A. Langer. *On a positive equicharacteristic variant of the $p$-curvature conjecture.* Documenta Mathematica **18** (2013), 23–50.
-- **[Related]** A. J. de Jong. *A conjecture on arithmetic fundamental groups.* Israel Journal of Mathematics **121** (2001), 61–84.
+- **[SOTA]** A. Langer. *Semistable sheaves in positive characteristic.* Annals of Mathematics **159** (2004), 251–276. [DOI](https://doi.org/10.4007/annals.2004.159.251)
+- **[SOTA]** A. Langer. *On the $S$-fundamental group scheme.* Annales de l'Institut Fourier **61** (2011), 2077–2119. [DOI](https://doi.org/10.5802/aif.2667)
+- **[SOTA]** J. P. P. dos Santos. *Fundamental group schemes for stratified sheaves.* Journal of Algebra **317** (2007), 691–713. [DOI](https://doi.org/10.1016/j.jalgebra.2007.03.005)
+- **[SOTA]** L. Kindler. *Regular singular stratified bundles and tame ramification.* Transactions of the AMS **367** (2015), 6461–6485. [DOI](https://doi.org/10.1090/s0002-9947-2014-06143-6)
+- **[SOTA]** H. Esnault, L. Kindler. *Lefschetz theorems for tamely ramified coverings.* Proceedings of the AMS **144** (2016), 5071–5080. [DOI](https://doi.org/10.1090/proc/13151)
+- **[SOTA]** H. Esnault, A. Langer. *On a positive equicharacteristic variant of the $p$-curvature conjecture.* Documenta Mathematica **18** (2013), 23–50. [DOI](https://doi.org/10.4171/dm/390)
+- **[Related]** A. J. de Jong. *A conjecture on arithmetic fundamental groups.* Israel Journal of Mathematics **121** (2001), 61–84. [DOI](https://doi.org/10.1007/bf02802496)
 - **[Survey]** H. Esnault. *Flat bundles in characteristic $0$ and $p>0$.* Proceedings of the 6th European Congress of Mathematics (Kraków 2012), EMS Publishing House, 2013.
 
 ## 10. Worked Example / Concrete Special Case

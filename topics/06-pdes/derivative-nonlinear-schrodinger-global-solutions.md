@@ -125,20 +125,20 @@ Between §4 and §1 the remaining gap on the line has closed for **existence and
 
 ## 9. Key References
 
-- **[Foundational]** D. J. Kaup, A. C. Newell. *An exact solution for a derivative nonlinear Schrödinger equation.* Journal of Mathematical Physics **19** (1978), 798–801.
+- **[Foundational]** D. J. Kaup, A. C. Newell. *An exact solution for a derivative nonlinear Schrödinger equation.* Journal of Mathematical Physics **19** (1978), 798–801. [DOI](https://doi.org/10.1063/1.523737)
 - **[Foundational]** N. Hayashi, T. Ozawa. *On the derivative nonlinear Schrödinger equation.* Physica D **55** (1992), 14–36.
-- **[Foundational]** N. Hayashi. *The initial value problem for the derivative nonlinear Schrödinger equation in the energy space.* Nonlinear Analysis **20** (1993), 823–833.
-- **[Local theory]** H. Takaoka. *Well-posedness for the one-dimensional nonlinear Schrödinger equation with the derivative nonlinearity.* Advances in Differential Equations **4** (1999), 561–580.
-- **[Local theory]** H. A. Biagioni, F. Linares. *Ill-posedness for the derivative Schrödinger and generalized Benjamin–Ono equations.* Transactions of the AMS **353** (2001), 3649–3659.
-- **[Global, subcritical mass]** J. Colliander, M. Keel, G. Staffilani, H. Takaoka, T. Tao. *A refined global well-posedness result for Schrödinger equations with derivative.* SIAM Journal on Mathematical Analysis **34** (2002), 64–86.
-- **[SOTA threshold]** Y. Wu. *Global well-posedness for the nonlinear Schrödinger equation with derivative in energy space.* Analysis & PDE **6** (2013), 1989–2002.
-- **[SOTA threshold]** Y. Wu. *Global well-posedness on the derivative nonlinear Schrödinger equation.* Analysis & PDE **8** (2015), 1101–1112.
+- **[Foundational]** N. Hayashi. *The initial value problem for the derivative nonlinear Schrödinger equation in the energy space.* Nonlinear Analysis **20** (1993), 823–833. [DOI](https://doi.org/10.1016/0362-546x(93)90071-y)
+- **[Local theory]** H. Takaoka. *Well-posedness for the one-dimensional nonlinear Schrödinger equation with the derivative nonlinearity.* Advances in Differential Equations **4** (1999), 561–580. [DOI](https://doi.org/10.57262/ade/1366031032)
+- **[Local theory]** H. A. Biagioni, F. Linares. *Ill-posedness for the derivative Schrödinger and generalized Benjamin–Ono equations.* Transactions of the AMS **353** (2001), 3649–3659. [DOI](https://doi.org/10.1090/s0002-9947-01-02754-4)
+- **[Global, subcritical mass]** J. Colliander, M. Keel, G. Staffilani, H. Takaoka, T. Tao. *A refined global well-posedness result for Schrödinger equations with derivative.* SIAM Journal on Mathematical Analysis **34** (2002), 64–86. [DOI](https://doi.org/10.1137/s0036141001394541)
+- **[SOTA threshold]** Y. Wu. *Global well-posedness for the nonlinear Schrödinger equation with derivative in energy space.* Analysis & PDE **6** (2013), 1989–2002. [DOI](https://doi.org/10.2140/apde.2013.6.1989)
+- **[SOTA threshold]** Y. Wu. *Global well-posedness on the derivative nonlinear Schrödinger equation.* Analysis & PDE **8** (2015), 1101–1112. [DOI](https://doi.org/10.2140/apde.2015.8.1101)
 - **[Integrable methods]** R. Jenkins, J. Liu, P. Perry, C. Sulem. *Global well-posedness for the derivative nonlinear Schrödinger equation.* Communications in Partial Differential Equations **43** (2018), 1151–1195.
-- **[Integrable methods]** D. Pelinovsky, Y. Shimabukuro. *Existence of global solutions to the derivative NLS equation with the inverse scattering transform method.* International Mathematics Research Notices **2018**, 5663–5728.
-- **[Resolution]** H. Bahouri, G. Perelman. *Global well-posedness for the derivative nonlinear Schrödinger equation.* Inventiones Mathematicae **229** (2022), 639–688.
+- **[Integrable methods]** D. Pelinovsky, Y. Shimabukuro. *Existence of global solutions to the derivative NLS equation with the inverse scattering transform method.* International Mathematics Research Notices **2018**, 5663–5728. [DOI](https://doi.org/10.1093/imrn/rnx051)
+- **[Resolution]** H. Bahouri, G. Perelman. *Global well-posedness for the derivative nonlinear Schrödinger equation.* Inventiones Mathematicae **229** (2022), 639–688. [DOI](https://doi.org/10.1007/s00222-022-01113-0)
 - **[Resolution, critical space]** B. Harrop-Griffiths, R. Killip, M. Ntekoume, M. Vișan. *Global well-posedness for the derivative nonlinear Schrödinger equation in $L^2(\mathbb{R})$.* arXiv:2204.12548 (2022).
 - **[Stability]** M. Colin, M. Ohta. *Stability of solitary waves for derivative nonlinear Schrödinger equation.* Annales de l'IHP – Analyse Non Linéaire **23** (2006), 753–764.
-- **[Blow-up, generalized]** X. Liu, G. Simpson, C. Sulem. *Stability of solitary waves for a generalized derivative nonlinear Schrödinger equation.* Journal of Nonlinear Science **23** (2013), 557–583.
+- **[Blow-up, generalized]** X. Liu, G. Simpson, C. Sulem. *Stability of solitary waves for a generalized derivative nonlinear Schrödinger equation.* Journal of Nonlinear Science **23** (2013), 557–583. [DOI](https://doi.org/10.1007/s00332-012-9161-2)
 
 ## 10. Worked Example / Concrete Special Case
 

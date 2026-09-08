@@ -97,10 +97,10 @@ Leading mathematicians have outlined several core pathways to advance the progra
 ## 9. Key References
 
 - **[Foundational]** Day, M. M. *Amenable semigroups.* Illinois Journal of Mathematics, 1957.
-- **[Foundational]** Tits, J. *Free subgroups in linear groups.* Journal of Algebra, 1972.
-- **[Foundational]** Chou, C. *Elementary amenable groups.* Illinois Journal of Mathematics, 1980.
-- **[Foundational]** Grigorchuk, R. I. *Degrees of growth of finitely generated groups and the theory of invariant means.* Izvestiya Akademii Nauk SSSR Seriya Matematicheskaya, 1984.
-- **[SOTA / Recent]** Juschenko, K., & Monod, N. *Cantor systems, piecewise translations and simple amenable groups.* Annals of Mathematics, 2013.
+- **[Foundational]** Tits, J. *Free subgroups in linear groups.* Journal of Algebra, 1972. [DOI](https://doi.org/10.1016/0021-8693(72)90058-0)
+- **[Foundational]** Chou, C. *Elementary amenable groups.* Illinois Journal of Mathematics, 1980. [DOI](https://doi.org/10.1215/ijm/1256047608)
+- **[Foundational]** Grigorchuk, R. I. *Degrees of growth of finitely generated groups and the theory of invariant means.* Izvestiya Akademii Nauk SSSR Seriya Matematicheskaya, 1984. [DOI](https://doi.org/10.1070/im1985v025n02abeh001281)
+- **[SOTA / Recent]** Juschenko, K., & Monod, N. *Cantor systems, piecewise translations and simple amenable groups.* Annals of Mathematics, 2013. [DOI](https://doi.org/10.4007/annals.2013.178.2.7)
 
 ## 10. Worked Example / Concrete Special Case
 

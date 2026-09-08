@@ -100,15 +100,15 @@ from that data without Brauer's block theory. Currently this order formula is ob
 
 ## 9. Key References
 
-- **[Foundational]** D. Gorenstein and J. H. Walter. *The characterization of finite groups with dihedral Sylow 2-subgroups, I, II, III.* Journal of Algebra **2** (1965), 85–151, 218–270, 354–393.
-- **[Foundational]** R. Brauer and M. Suzuki. *On finite groups of even order whose 2-Sylow group is a quaternion group.* Proceedings of the National Academy of Sciences USA **45** (1959), 1757–1759.
-- **[Foundational]** R. Brauer, M. Suzuki, G. E. Wall. *A characterization of the one-dimensional unimodular projective groups over finite fields.* Illinois Journal of Mathematics **2** (1958), 718–745.
+- **[Foundational]** D. Gorenstein and J. H. Walter. *The characterization of finite groups with dihedral Sylow 2-subgroups, I, II, III.* Journal of Algebra **2** (1965), 85–151, 218–270, 354–393. [DOI](https://doi.org/10.1016/0021-8693(65)90015-3)
+- **[Foundational]** R. Brauer and M. Suzuki. *On finite groups of even order whose 2-Sylow group is a quaternion group.* Proceedings of the National Academy of Sciences USA **45** (1959), 1757–1759. [DOI](https://doi.org/10.1073/pnas.45.12.1757)
+- **[Foundational]** R. Brauer, M. Suzuki, G. E. Wall. *A characterization of the one-dimensional unimodular projective groups over finite fields.* Illinois Journal of Mathematics **2** (1958), 718–745. [DOI](https://doi.org/10.1215/ijm/1255448336)
 - **[Foundational]** W. Feit and J. G. Thompson. *Solvability of groups of odd order.* Pacific Journal of Mathematics **13** (1963), 775–1029.
-- **[Foundational]** G. Glauberman. *Central elements in core-free groups.* Journal of Algebra **4** (1966), 403–420.
-- **[SOTA / Recent]** H. Bender. *Finite groups with dihedral Sylow 2-subgroups.* Journal of Algebra **70** (1981), 216–228.
-- **[SOTA / Recent]** J. L. Alperin, R. Brauer, D. Gorenstein. *Finite groups with quasi-dihedral and wreathed Sylow 2-subgroups.* Transactions of the American Mathematical Society **151** (1970), 1–261.
+- **[Foundational]** G. Glauberman. *Central elements in core-free groups.* Journal of Algebra **4** (1966), 403–420. [DOI](https://doi.org/10.1016/0021-8693(66)90030-5)
+- **[SOTA / Recent]** H. Bender. *Finite groups with dihedral Sylow 2-subgroups.* Journal of Algebra **70** (1981), 216–228. [DOI](https://doi.org/10.1016/0021-8693(81)90254-4)
+- **[SOTA / Recent]** J. L. Alperin, R. Brauer, D. Gorenstein. *Finite groups with quasi-dihedral and wreathed Sylow 2-subgroups.* Transactions of the American Mathematical Society **151** (1970), 1–261. [DOI](https://doi.org/10.2307/1995627)
 - **[SOTA / Recent]** D. M. Goldschmidt. *2-fusion in finite groups.* Annals of Mathematics (2) **99** (1974), 70–117.
-- **[SOTA / Recent]** B. Oliver. *Reduced fusion systems over 2-groups of small order.* Journal of Algebra **489** (2017), 345–392.
+- **[SOTA / Recent]** B. Oliver. *Reduced fusion systems over 2-groups of small order.* Journal of Algebra **489** (2017), 345–392. [DOI](https://doi.org/10.1016/j.jalgebra.2017.06.016)
 - **[Survey]** D. Gorenstein, R. Lyons, R. Solomon. *The Classification of the Finite Simple Groups, Number 2.* Mathematical Surveys and Monographs 40.2, American Mathematical Society, 1996.
 - **[Survey]** M. Aschbacher and B. Oliver. *Fusion systems.* Bulletin of the American Mathematical Society **52** (2015), 555–615.
 - **[Survey]** D. A. Craven. *The Theory of Fusion Systems: An Algebraic Approach.* Cambridge University Press, 2011.

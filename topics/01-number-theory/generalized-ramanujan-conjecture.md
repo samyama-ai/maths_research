@@ -86,12 +86,12 @@ Leading researchers emphasize the necessity of unconditionally establishing the 
 ## 9. Key References
 
 - **[Foundational]** Ramanujan, S. *On certain arithmetical functions.* Transactions of the Cambridge Philosophical Society, 1916.
-- **[Foundational]** Deligne, P. *La conjecture de Weil. I.* Publications Mathématiques de l'IHÉS, 1974.
-- **[Foundational]** Satake, I. *Spherical functions and Ramanujan conjecture.* Algebraic Groups and Discontinuous Subgroups (Proc. Sympos. Pure Math., Boulder, Colo., 1965), Amer. Math. Soc., 1966.
-- **[SOTA / Recent]** Lafforgue, L. *Chtoucas de Drinfeld et correspondance de Langlands.* Inventiones mathematicae, 2002.
+- **[Foundational]** Deligne, P. *La conjecture de Weil. I.* Publications Mathématiques de l'IHÉS, 1974. [DOI](https://doi.org/10.1007/bf02684373)
+- **[Foundational]** Satake, I. *Spherical functions and Ramanujan conjecture.* Algebraic Groups and Discontinuous Subgroups (Proc. Sympos. Pure Math., Boulder, Colo., 1965), Amer. Math. Soc., 1966. [DOI](https://doi.org/10.1090/pspum/009/0211955)
+- **[SOTA / Recent]** Lafforgue, L. *Chtoucas de Drinfeld et correspondance de Langlands.* Inventiones mathematicae, 2002. [DOI](https://doi.org/10.1007/s002220100174)
 - **[SOTA / Recent]** Kim, H. H., Sarnak, P. *Refined estimates towards the Ramanujan and Selberg conjectures.* Appendix to H. H. Kim, Journal of the American Mathematical Society, 2003.
 - **[Survey]** Sarnak, P. *Notes on the generalized Ramanujan conjectures.* Harmonic analysis, the trace formula, and Shimura varieties, 2005.
-- **[Survey]** Blomer, V., Brumley, F. *On the Ramanujan conjecture over number fields.* Annals of Mathematics, 2011.
+- **[Survey]** Blomer, V., Brumley, F. *On the Ramanujan conjecture over number fields.* Annals of Mathematics, 2011. [DOI](https://doi.org/10.4007/annals.2011.174.1.18)
 
 ## 10. Worked Example / Concrete Special Case
 

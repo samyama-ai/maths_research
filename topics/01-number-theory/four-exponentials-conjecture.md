@@ -92,7 +92,7 @@ Leading mathematicians suggest the following open pathways:
 
 - **[Foundational]** Lang, S. *Introduction to Transcendental Numbers*. Addison-Wesley, 1966.
 - **[Foundational]** Ramachandra, K. "Contributions to the theory of transcendental numbers. I, II". *Acta Arithmetica*, 1968.
-- **[Survey]** Waldschmidt, M. *Diophantine Approximation on Linear Algebraic Groups*. Grundlehren der mathematischen Wissenschaften, Vol. 326, Springer-Verlag, 2000.
+- **[Survey]** Waldschmidt, M. *Diophantine Approximation on Linear Algebraic Groups*. Grundlehren der mathematischen Wissenschaften, Vol. 326, Springer-Verlag, 2000. [DOI](https://doi.org/10.1007/978-3-662-11569-5)
 - **[SOTA / Recent]** Waldschmidt, M. "Open Diophantine Problems". *Moscow Mathematical Journal*, 2004.
 
 ## 10. Worked Example / Concrete Special Case

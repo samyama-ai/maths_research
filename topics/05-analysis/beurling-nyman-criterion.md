@@ -113,19 +113,19 @@ valid for arbitrary coefficient vectors of length $N$, with $N$ unrestricted rel
 ## 9. Key References
 
 - **[Foundational]** B. Nyman. *On the One-Dimensional Translation Group and Semi-Group in Certain Function Spaces.* Ph.D. thesis, University of Uppsala, 1950.
-- **[Foundational]** A. Beurling. *A closure problem related to the Riemann zeta-function.* Proceedings of the National Academy of Sciences USA, 41 (1955), 312–314.
-- **[Foundational]** H. Bercovici, C. Foias. *A real variable restatement of Riemann's hypothesis.* Israel Journal of Mathematics, 48 (1984), 57–68.
+- **[Foundational]** A. Beurling. *A closure problem related to the Riemann zeta-function.* Proceedings of the National Academy of Sciences USA, 41 (1955), 312–314. [DOI](https://doi.org/10.1073/pnas.41.5.312)
+- **[Foundational]** H. Bercovici, C. Foias. *A real variable restatement of Riemann's hypothesis.* Israel Journal of Mathematics, 48 (1984), 57–68. [DOI](https://doi.org/10.1007/bf02760524)
 - **[Structural]** N. Nikolski. *Distance formulae and invariant subspaces, with an application to localization of zeros of the Riemann $\zeta$-function.* Annales de l'Institut Fourier, 45 (1995), 533–577.
 - **[Structural]** V. I. Vasyunin. *On a biorthogonal system associated with the Riemann hypothesis.* Algebra i Analiz, 7 (1995), 118–135.
 - **[SOTA]** L. Báez-Duarte, M. Balazard, B. Landreau, E. Saias. *Notes sur la fonction $\zeta$ de Riemann, 3.* Advances in Mathematics, 149 (2000), 130–144.
-- **[SOTA]** J.-F. Burnol. *A lower bound in an approximation problem involving the zeros of the Riemann zeta function.* Advances in Mathematics, 170 (2002), 56–70.
+- **[SOTA]** J.-F. Burnol. *A lower bound in an approximation problem involving the zeros of the Riemann zeta function.* Advances in Mathematics, 170 (2002), 56–70. [DOI](https://doi.org/10.1006/aima.2001.2066)
 - **[SOTA]** L. Báez-Duarte. *A strengthening of the Nyman–Beurling criterion for the Riemann hypothesis.* Atti della Accademia Nazionale dei Lincei, Rendiconti Lincei Matematica e Applicazioni, 14 (2003), 5–11.
-- **[SOTA]** S. Bettin, J. B. Conrey, D. W. Farmer. *An optimal choice of Dirichlet polynomials for the Nyman–Beurling criterion.* Proceedings of the Steklov Institute of Mathematics, 280 (2013), 30–36.
-- **[Computational]** B. Landreau, F. Richard. *Le critère de Beurling et Nyman pour l'hypothèse de Riemann: aspects numériques.* Experimental Mathematics, 11 (2002), 349–360.
+- **[SOTA]** S. Bettin, J. B. Conrey, D. W. Farmer. *An optimal choice of Dirichlet polynomials for the Nyman–Beurling criterion.* Proceedings of the Steklov Institute of Mathematics, 280 (2013), 30–36. [DOI](https://doi.org/10.1134/s0081543813030036)
+- **[Computational]** B. Landreau, F. Richard. *Le critère de Beurling et Nyman pour l'hypothèse de Riemann: aspects numériques.* Experimental Mathematics, 11 (2002), 349–360. [DOI](https://doi.org/10.1080/10586458.2002.10504480)
 - **[Survey]** M. Balazard, E. Saias. *The Nyman–Beurling equivalent form for the Riemann hypothesis.* Expositiones Mathematicae, 18 (2000), 131–138.
-- **[Survey]** B. Bagchi. *On Nyman, Beurling and Baez-Duarte's Hilbert space reformulation of the Riemann hypothesis.* Proceedings of the Indian Academy of Sciences (Mathematical Sciences), 116 (2006), 137–146.
-- **[Related]** J. Alcántara-Bode. *An integral equation formulation of the Riemann hypothesis.* Integral Equations and Operator Theory, 17 (1993), 151–168.
-- **[Related]** A. de Roton. *Généralisation du critère de Beurling–Nyman pour l'hypothèse de Riemann.* Transactions of the American Mathematical Society, 357 (2005), 4425–4443.
+- **[Survey]** B. Bagchi. *On Nyman, Beurling and Baez-Duarte's Hilbert space reformulation of the Riemann hypothesis.* Proceedings of the Indian Academy of Sciences (Mathematical Sciences), 116 (2006), 137–146. [DOI](https://doi.org/10.1007/bf02829783)
+- **[Related]** J. Alcántara-Bode. *An integral equation formulation of the Riemann hypothesis.* Integral Equations and Operator Theory, 17 (1993), 151–168. [DOI](https://doi.org/10.1007/bf01200216)
+- **[Related]** A. de Roton. *Généralisation du critère de Beurling–Nyman pour l'hypothèse de Riemann.* Transactions of the American Mathematical Society, 357 (2005), 4425–4443. [DOI](https://doi.org/10.1016/j.crma.2004.11.023)
 
 ## 10. Worked Example / Concrete Special Case
 

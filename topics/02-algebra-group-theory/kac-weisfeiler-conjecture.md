@@ -99,17 +99,17 @@ The barrier is the transition from *"for $p \gg 0$"* to *"for all good $p$"*. Co
 ## 9. Key References
 
 - **[Foundational]** B. Ju. Weisfeiler, V. G. Kac. *Irreducible representations of Lie $p$-algebras.* Funktsional. Anal. i Prilozhen. **5** (1971), no. 2, 28–36.
-- **[Foundational]** H.-J. Chang. *Über Wittsche Lie-Ringe.* Abh. Math. Sem. Univ. Hamburg **14** (1941), 151–184.
+- **[Foundational]** H.-J. Chang. *Über Wittsche Lie-Ringe.* Abh. Math. Sem. Univ. Hamburg **14** (1941), 151–184. [DOI](https://doi.org/10.1007/bf02940743)
 - **[Foundational]** E. M. Friedlander, B. J. Parshall. *Modular representation theory of Lie algebras.* Amer. J. Math. **110** (1988), 1055–1093.
-- **[Key theorem]** A. Premet. *Irreducible representations of Lie algebras of reductive groups and the Kac–Weisfeiler conjecture.* Invent. Math. **121** (1995), 79–117.
-- **[Key theorem]** A. Premet. *Special transverse slices and their enveloping algebras.* Adv. Math. **170** (2002), 1–55.
-- **[SOTA]** A. Premet. *Commutative quotients of finite $W$-algebras.* Adv. Math. **225** (2010), 269–306.
-- **[SOTA]** I. Losev. *1-dimensional representations and parabolic induction for $W$-algebras.* Adv. Math. **226** (2011), 4841–4883.
-- **[SOTA]** S. M. Goodwin, G. Röhrle, G. Ubly. *On 1-dimensional representations of finite $W$-algebras associated to simple Lie algebras of exceptional type.* LMS J. Comput. Math. **13** (2010), 357–369.
+- **[Key theorem]** A. Premet. *Irreducible representations of Lie algebras of reductive groups and the Kac–Weisfeiler conjecture.* Invent. Math. **121** (1995), 79–117. [DOI](https://doi.org/10.1007/bf01884291)
+- **[Key theorem]** A. Premet. *Special transverse slices and their enveloping algebras.* Adv. Math. **170** (2002), 1–55. [DOI](https://doi.org/10.1006/aima.2001.2063)
+- **[SOTA]** A. Premet. *Commutative quotients of finite $W$-algebras.* Adv. Math. **225** (2010), 269–306. [DOI](https://doi.org/10.1016/j.aim.2010.02.020)
+- **[SOTA]** I. Losev. *1-dimensional representations and parabolic induction for $W$-algebras.* Adv. Math. **226** (2011), 4841–4883. [DOI](https://doi.org/10.1016/j.aim.2010.12.021)
+- **[SOTA]** S. M. Goodwin, G. Röhrle, G. Ubly. *On 1-dimensional representations of finite $W$-algebras associated to simple Lie algebras of exceptional type.* LMS J. Comput. Math. **13** (2010), 357–369. [DOI](https://doi.org/10.1112/s1461157009000205)
 - **[SOTA]** R. Bezrukavnikov, I. Mirković, D. Rumynin. *Localization of modules for a semisimple Lie algebra in prime characteristic.* Ann. of Math. **167** (2008), 945–991.
-- **[Survey]** J. C. Jantzen. *Representations of Lie algebras in prime characteristic.* In *Representation Theories and Algebraic Geometry*, NATO ASI Ser. C **514**, Kluwer, 1998, 185–235.
+- **[Survey]** J. C. Jantzen. *Representations of Lie algebras in prime characteristic.* In *Representation Theories and Algebraic Geometry*, NATO ASI Ser. C **514**, Kluwer, 1998, 185–235. [DOI](https://doi.org/10.1007/978-94-015-9131-7_5)
 - **[Survey]** J. E. Humphreys. *Modular representations of simple Lie algebras.* Bull. Amer. Math. Soc. **35** (1998), 105–122.
-- **[Extension]** W. Wang, L. Zhao. *Representations of Lie superalgebras in prime characteristic I.* Proc. London Math. Soc. (3) **99** (2009), 145–167.
+- **[Extension]** W. Wang, L. Zhao. *Representations of Lie superalgebras in prime characteristic I.* Proc. London Math. Soc. (3) **99** (2009), 145–167. [DOI](https://doi.org/10.1112/plms/pdn057)
 
 ## 10. Worked Example / Concrete Special Case
 

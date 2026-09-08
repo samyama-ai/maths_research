@@ -121,22 +121,22 @@ Every known proof of a case proceeds by classifying the possible $A$ (or $H$) up
 
 ## 9. Key References
 
-- **[Foundational]** O.-H. Keller. *Ganze Cremona-Transformationen.* Monatshefte für Mathematik und Physik **47** (1939), 299–306.
-- **[Foundational]** H. Bass, E. H. Connell, D. Wright. *The Jacobian conjecture: reduction of degree and formal expansion of the inverse.* Bulletin of the American Mathematical Society **7** (1982), 287–330.
-- **[Foundational]** A. Białynicki-Birula, M. Rosenlicht. *Injective morphisms of real algebraic varieties.* Proceedings of the AMS **13** (1962), 200–203.
-- S. S.-S. Wang. *A Jacobian criterion for separability.* Journal of Algebra **65** (1980), 453–494.
+- **[Foundational]** O.-H. Keller. *Ganze Cremona-Transformationen.* Monatshefte für Mathematik und Physik **47** (1939), 299–306. [DOI](https://doi.org/10.1007/bf01695502)
+- **[Foundational]** H. Bass, E. H. Connell, D. Wright. *The Jacobian conjecture: reduction of degree and formal expansion of the inverse.* Bulletin of the American Mathematical Society **7** (1982), 287–330. [DOI](https://doi.org/10.1090/s0273-0979-1982-15032-7)
+- **[Foundational]** A. Białynicki-Birula, M. Rosenlicht. *Injective morphisms of real algebraic varieties.* Proceedings of the AMS **13** (1962), 200–203. [DOI](https://doi.org/10.2307/2034464)
+- S. S.-S. Wang. *A Jacobian criterion for separability.* Journal of Algebra **65** (1980), 453–494. [DOI](https://doi.org/10.1016/0021-8693(80)90233-1)
 - A. V. Yagzhev. *On Keller's problem.* Siberian Mathematical Journal **21** (1980), 747–754.
-- T.-T. Moh. *On the Jacobian conjecture and the configurations of roots.* Journal für die reine und angewandte Mathematik **340** (1983), 140–212.
-- L. M. Drużkowski. *An effective approach to Keller's Jacobian conjecture.* Mathematische Annalen **264** (1983), 303–313.
-- D. Wright. *The Jacobian conjecture: linear triangularization for cubics in dimension three.* Linear and Multilinear Algebra **34** (1993), 85–97.
+- T.-T. Moh. *On the Jacobian conjecture and the configurations of roots.* Journal für die reine und angewandte Mathematik **340** (1983), 140–212. [DOI](https://doi.org/10.1515/crll.1983.340.140)
+- L. M. Drużkowski. *An effective approach to Keller's Jacobian conjecture.* Mathematische Annalen **264** (1983), 303–313. [DOI](https://doi.org/10.1007/bf01459126)
+- D. Wright. *The Jacobian conjecture: linear triangularization for cubics in dimension three.* Linear and Multilinear Algebra **34** (1993), 85–97. [DOI](https://doi.org/10.1080/03081089308818214)
 - S. Pinchuk. *A counterexample to the strong real Jacobian conjecture.* Mathematische Zeitschrift **217** (1994), 1–4.
-- **[Survey / Book]** A. van den Essen. *Polynomial Automorphisms and the Jacobian Conjecture.* Progress in Mathematics **190**, Birkhäuser, 2000.
-- **[SOTA]** M. de Bondt, A. van den Essen. *A reduction of the Jacobian conjecture to the symmetric case.* Proceedings of the AMS **133** (2005), 2201–2205.
+- **[Survey / Book]** A. van den Essen. *Polynomial Automorphisms and the Jacobian Conjecture.* Progress in Mathematics **190**, Birkhäuser, 2000. [DOI](https://doi.org/10.2307/3621827)
+- **[SOTA]** M. de Bondt, A. van den Essen. *A reduction of the Jacobian conjecture to the symmetric case.* Proceedings of the AMS **133** (2005), 2201–2205. [DOI](https://doi.org/10.1090/s0002-9939-05-07570-2)
 - **[SOTA]** Y. Tsuchimoto. *Endomorphisms of Weyl algebra and $p$-curvatures.* Osaka Journal of Mathematics **42** (2005), 435–452.
-- **[SOTA]** A. Belov-Kanel, M. Kontsevich. *The Jacobian conjecture is stably equivalent to the Dixmier conjecture.* Moscow Mathematical Journal **7** (2007), 209–218.
+- **[SOTA]** A. Belov-Kanel, M. Kontsevich. *The Jacobian conjecture is stably equivalent to the Dixmier conjecture.* Moscow Mathematical Journal **7** (2007), 209–218. [DOI](https://doi.org/10.17323/1609-4514-2007-7-2-209-218)
 - **[SOTA]** W. Zhao. *A vanishing conjecture on differential operators with constant coefficients.* Acta Mathematica Vietnamica **32** (2007), 259–286.
-- I. Shestakov, U. Umirbaev. *The tame and the wild automorphisms of polynomial rings in three variables.* Journal of the AMS **17** (2004), 197–227.
-- S. Smale. *Mathematical problems for the next century.* The Mathematical Intelligencer **20** (1998), 7–15.
+- I. Shestakov, U. Umirbaev. *The tame and the wild automorphisms of polynomial rings in three variables.* Journal of the AMS **17** (2004), 197–227. [DOI](https://doi.org/10.1090/s0894-0347-03-00440-5)
+- S. Smale. *Mathematical problems for the next century.* The Mathematical Intelligencer **20** (1998), 7–15. [DOI](https://doi.org/10.1007/bf03025291)
 - **[Survey / Book]** A. van den Essen, S. Kuroda, A. J. Crachiola. *Polynomial Automorphisms and the Jacobian Conjecture: New Results from the Beginning of the 21st Century.* Frontiers in Mathematics, Birkhäuser, 2021.
 
 ## 10. Worked Example / Concrete Special Case

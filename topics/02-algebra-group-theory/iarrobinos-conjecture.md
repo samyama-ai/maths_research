@@ -110,19 +110,19 @@ No technique currently produces the *non-existence* of unexpected hypersurfaces 
 
 ## 9. Key References
 
-- **[Foundational]** A. Iarrobino. *Inverse system of a symbolic power III: thin algebras and fat points.* Compositio Mathematica 108 (1997), 319–356.
-- **[Foundational]** J. Emsalem, A. Iarrobino. *Inverse system of a symbolic power I.* Journal of Algebra 174 (1995), 1080–1090.
-- **[Foundational]** R. Fröberg. *An inequality for Hilbert series of graded algebras.* Mathematica Scandinavica 56 (1985), 117–144.
-- **[Foundational]** D. Anick. *Thin algebras of embedding dimension three.* Journal of Algebra 100 (1986), 235–259.
-- **[Foundational]** J. Alexander, A. Hirschowitz. *Polynomial interpolation in several variables.* Journal of Algebraic Geometry 4 (1995), 201–222.
-- **[Foundational]** R. Stanley. *Weyl groups, the hard Lefschetz theorem, and the Sperner property.* SIAM Journal on Algebraic and Discrete Methods 1 (1980), 168–184.
+- **[Foundational]** A. Iarrobino. *Inverse system of a symbolic power III: thin algebras and fat points.* Compositio Mathematica 108 (1997), 319–356. [DOI](https://doi.org/10.1023/a:1000155612073)
+- **[Foundational]** J. Emsalem, A. Iarrobino. *Inverse system of a symbolic power I.* Journal of Algebra 174 (1995), 1080–1090. [DOI](https://doi.org/10.1006/jabr.1995.1168)
+- **[Foundational]** R. Fröberg. *An inequality for Hilbert series of graded algebras.* Mathematica Scandinavica 56 (1985), 117–144. [DOI](https://doi.org/10.7146/math.scand.a-12092)
+- **[Foundational]** D. Anick. *Thin algebras of embedding dimension three.* Journal of Algebra 100 (1986), 235–259. [DOI](https://doi.org/10.1016/0021-8693(86)90076-1)
+- **[Foundational]** J. Alexander, A. Hirschowitz. *Polynomial interpolation in several variables.* Journal of Algebraic Geometry 4 (1995), 201–222. [DOI](https://doi.org/10.1007/978-1-4615-1791-7_9)
+- **[Foundational]** R. Stanley. *Weyl groups, the hard Lefschetz theorem, and the Sperner property.* SIAM Journal on Algebraic and Discrete Methods 1 (1980), 168–184. [DOI](https://doi.org/10.1137/0601021)
 - **[Foundational]** J. Watanabe. *The Dilworth number of Artinian rings and finite posets with rank function.* Advanced Studies in Pure Mathematics 11 (1987), 303–312.
 - **[SOTA / Recent]** H. Schenck, A. Seceleanu. *The weak Lefschetz property and powers of linear forms in $\mathbb{K}[x,y,z]$.* Proceedings of the AMS 138 (2010), 2335–2339.
-- **[SOTA / Recent]** B. Harbourne, H. Schenck, A. Seceleanu. *Inverse systems, Gelfand–Tsetlin patterns and the weak Lefschetz property.* Journal of the London Mathematical Society 84 (2011), 712–730.
-- **[SOTA / Recent]** J. Migliore, R. Miró-Roig, U. Nagel. *On the weak Lefschetz property for powers of linear forms.* Algebra & Number Theory 6 (2012), 487–526.
-- **[SOTA / Recent]** C. Ciliberto, R. Miranda. *Linear systems of plane curves with base points of equal multiplicity.* Transactions of the AMS 352 (2000), 4037–4050.
-- **[SOTA / Recent]** K. Chandler. *A brief proof of a maximal rank theorem for generic double points in projective space.* Transactions of the AMS 353 (2001), 1907–1920.
-- **[Survey]** J. Migliore, U. Nagel. *Survey article: a tour of the weak and strong Lefschetz properties.* Journal of Commutative Algebra 5 (2013), 329–358.
+- **[SOTA / Recent]** B. Harbourne, H. Schenck, A. Seceleanu. *Inverse systems, Gelfand–Tsetlin patterns and the weak Lefschetz property.* Journal of the London Mathematical Society 84 (2011), 712–730. [DOI](https://doi.org/10.1112/jlms/jdr033)
+- **[SOTA / Recent]** J. Migliore, R. Miró-Roig, U. Nagel. *On the weak Lefschetz property for powers of linear forms.* Algebra & Number Theory 6 (2012), 487–526. [DOI](https://doi.org/10.2140/ant.2012.6.487)
+- **[SOTA / Recent]** C. Ciliberto, R. Miranda. *Linear systems of plane curves with base points of equal multiplicity.* Transactions of the AMS 352 (2000), 4037–4050. [DOI](https://doi.org/10.1090/s0002-9947-00-02416-8)
+- **[SOTA / Recent]** K. Chandler. *A brief proof of a maximal rank theorem for generic double points in projective space.* Transactions of the AMS 353 (2001), 1907–1920. [DOI](https://doi.org/10.1090/s0002-9947-00-02732-x)
+- **[Survey]** J. Migliore, U. Nagel. *Survey article: a tour of the weak and strong Lefschetz properties.* Journal of Commutative Algebra 5 (2013), 329–358. [DOI](https://doi.org/10.1216/jca-2013-5-3-329)
 - **[Survey]** T. Harima, T. Maeno, H. Morita, Y. Numata, A. Wachi, J. Watanabe. *The Lefschetz Properties.* Springer Lecture Notes in Mathematics 2080, 2013.
 
 ## 10. Worked Example / Concrete Special Case

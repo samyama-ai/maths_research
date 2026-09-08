@@ -94,11 +94,11 @@ Leading specialists, including Arthur, Ngô, and Wei Zhang, identify several cri
 
 ## 9. Key References
 
-- **[Foundational]** Langlands, R. P., & Shelstad, D. *On the definition of transfer factors.* Mathematische Annalen, 1987.
-- **[Foundational]** Waldspurger, J.-L. *Le lemme fondamental implique le transfert.* Compositio Mathematica, 1997.
-- **[SOTA / Recent]** Ngô, B. C. *Le lemme fondamental pour les algèbres de Lie.* Publications Mathématiques de l'IHÉS, 2010.
-- **[Survey]** Nadler, D. *The Geometric Nature of the Fundamental Lemma.* Bulletin of the American Mathematical Society, 2012.
-- **[Survey]** Hales, T. C. *On the fundamental lemma for standard endoscopy: reduction to unit elements.* Canadian Journal of Mathematics, 1995.
+- **[Foundational]** Langlands, R. P., & Shelstad, D. *On the definition of transfer factors.* Mathematische Annalen, 1987. [DOI](https://doi.org/10.1007/bf01458070)
+- **[Foundational]** Waldspurger, J.-L. *Le lemme fondamental implique le transfert.* Compositio Mathematica, 1997. [DOI](https://doi.org/10.1023/a:1000103112268)
+- **[SOTA / Recent]** Ngô, B. C. *Le lemme fondamental pour les algèbres de Lie.* Publications Mathématiques de l'IHÉS, 2010. [DOI](https://doi.org/10.1007/s10240-010-0026-7)
+- **[Survey]** Nadler, D. *The Geometric Nature of the Fundamental Lemma.* Bulletin of the American Mathematical Society, 2012. [DOI](https://doi.org/10.1090/s0273-0979-2011-01342-8)
+- **[Survey]** Hales, T. C. *On the fundamental lemma for standard endoscopy: reduction to unit elements.* Canadian Journal of Mathematics, 1995. [DOI](https://doi.org/10.4153/cjm-1995-051-5)
 
 ## 10. Worked Example / Concrete Special Case
 

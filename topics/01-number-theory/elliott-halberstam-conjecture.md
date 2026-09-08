@@ -105,10 +105,10 @@ Leading mathematicians suggest the following pathways:
 
 - **[Foundational]** Elliott, P. D. T. A., and Halberstam, H. *A Conjecture in Prime Number Theory*. Symposia Mathematica, Vol. 4 INDAM, Rome, pp. 59-72, 1968.
 - **[Foundational]** Bombieri, E. *On the large sieve*. Mathematika, 12(2): 201–225, 1965.
-- **[Foundational]** Friedlander, J., and Granville, A. *Limitations to the equi-distribution of primes I*. Annals of Mathematics, 129(2): 363-382, 1989.
+- **[Foundational]** Friedlander, J., and Granville, A. *Limitations to the equi-distribution of primes I*. Annals of Mathematics, 129(2): 363-382, 1989. [DOI](https://doi.org/10.2307/1971450)
 - **[SOTA / Recent]** Zhang, Y. *Bounded gaps between primes*. Annals of Mathematics, 179(3): 1121-1174, 2014.
-- **[SOTA / Recent]** Maynard, J. *Small gaps between primes*. Annals of Mathematics, 181(1): 383-413, 2015.
-- **[Survey]** Granville, A. *Primes in intervals of bounded length*. Bulletin of the American Mathematical Society, 52(2): 171-222, 2015.
+- **[SOTA / Recent]** Maynard, J. *Small gaps between primes*. Annals of Mathematics, 181(1): 383-413, 2015. [DOI](https://doi.org/10.4007/annals.2015.181.1.7)
+- **[Survey]** Granville, A. *Primes in intervals of bounded length*. Bulletin of the American Mathematical Society, 52(2): 171-222, 2015. [DOI](https://doi.org/10.1090/s0273-0979-2015-01480-1)
 
 ## 10. Worked Example / Concrete Special Case
 

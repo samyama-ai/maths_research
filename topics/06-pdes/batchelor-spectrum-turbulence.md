@@ -117,20 +117,20 @@ Three distinct barriers separate them.
 
 ## 9. Key References
 
-- **[Foundational]** G. K. Batchelor. *Small-scale variation of convected quantities like temperature in turbulent fluid. Part 1. General discussion and the case of small conductivity.* Journal of Fluid Mechanics **5**(1), 113–133, 1959.
-- **[Foundational]** R. H. Kraichnan. *Small-scale structure of a scalar field convected by turbulence.* Physics of Fluids **11**(5), 945–953, 1968.
-- **[Foundational]** C. H. Gibson and W. H. Schwarz. *The universal equilibrium spectra of turbulent velocity and scalar fields.* Journal of Fluid Mechanics **16**(3), 365–384, 1963.
-- **[SOTA]** J. Bedrossian, A. Blumenthal, S. Punshon-Smith. *The Batchelor spectrum of passive scalar turbulence in stochastic fluid mechanics at fixed Reynolds number.* Communications on Pure and Applied Mathematics **75**(6), 1237–1291, 2022.
-- **[SOTA]** J. Bedrossian, A. Blumenthal, S. Punshon-Smith. *A regularity method for lower bounds on the Lyapunov exponent for stochastic differential equations.* Inventiones Mathematicae **227**, 429–516, 2022.
-- **[SOTA]** J. Bedrossian, A. Blumenthal, S. Punshon-Smith. *Almost-sure exponential mixing of passive scalars by the stochastic Navier–Stokes equations.* Annals of Probability **50**(1), 241–303, 2022.
+- **[Foundational]** G. K. Batchelor. *Small-scale variation of convected quantities like temperature in turbulent fluid. Part 1. General discussion and the case of small conductivity.* Journal of Fluid Mechanics **5**(1), 113–133, 1959. [DOI](https://doi.org/10.1017/s002211205900009x)
+- **[Foundational]** R. H. Kraichnan. *Small-scale structure of a scalar field convected by turbulence.* Physics of Fluids **11**(5), 945–953, 1968. [DOI](https://doi.org/10.1063/1.1692063)
+- **[Foundational]** C. H. Gibson and W. H. Schwarz. *The universal equilibrium spectra of turbulent velocity and scalar fields.* Journal of Fluid Mechanics **16**(3), 365–384, 1963. [DOI](https://doi.org/10.1017/s0022112063000835)
+- **[SOTA]** J. Bedrossian, A. Blumenthal, S. Punshon-Smith. *The Batchelor spectrum of passive scalar turbulence in stochastic fluid mechanics at fixed Reynolds number.* Communications on Pure and Applied Mathematics **75**(6), 1237–1291, 2022. [DOI](https://doi.org/10.1002/cpa.22022)
+- **[SOTA]** J. Bedrossian, A. Blumenthal, S. Punshon-Smith. *A regularity method for lower bounds on the Lyapunov exponent for stochastic differential equations.* Inventiones Mathematicae **227**, 429–516, 2022. [DOI](https://doi.org/10.1007/s00222-021-01069-7)
+- **[SOTA]** J. Bedrossian, A. Blumenthal, S. Punshon-Smith. *Almost-sure exponential mixing of passive scalars by the stochastic Navier–Stokes equations.* Annals of Probability **50**(1), 241–303, 2022. [DOI](https://doi.org/10.1214/21-aop1533)
 - **[SOTA]** J. Bedrossian, A. Blumenthal, S. Punshon-Smith. *Lagrangian chaos and scalar advection in stochastic fluid mechanics.* Journal of the European Mathematical Society **24**(6), 1893–1990, 2022.
-- **[SOTA]** J. Bedrossian, A. Blumenthal, S. Punshon-Smith. *Almost-sure enhanced dissipation and uniform-in-diffusivity exponential mixing for advection–diffusion by stochastic Navier–Stokes.* Probability Theory and Related Fields **179**, 777–834, 2021.
-- **[Survey]** G. Falkovich, K. Gawędzki, M. Vergassola. *Particles and fields in fluid turbulence.* Reviews of Modern Physics **73**(4), 913–975, 2001.
-- **[Survey]** Z. Warhaft. *Passive scalars in turbulent flows.* Annual Review of Fluid Mechanics **32**, 203–240, 2000.
+- **[SOTA]** J. Bedrossian, A. Blumenthal, S. Punshon-Smith. *Almost-sure enhanced dissipation and uniform-in-diffusivity exponential mixing for advection–diffusion by stochastic Navier–Stokes.* Probability Theory and Related Fields **179**, 777–834, 2021. [DOI](https://doi.org/10.1007/s00440-020-01010-8)
+- **[Survey]** G. Falkovich, K. Gawędzki, M. Vergassola. *Particles and fields in fluid turbulence.* Reviews of Modern Physics **73**(4), 913–975, 2001. [DOI](https://doi.org/10.1103/revmodphys.73.913)
+- **[Survey]** Z. Warhaft. *Passive scalars in turbulent flows.* Annual Review of Fluid Mechanics **32**, 203–240, 2000. [DOI](https://doi.org/10.1146/annurev.fluid.32.1.203)
 - **[Survey]** B. I. Shraiman and E. D. Siggia. *Scalar turbulence.* Nature **405**, 639–646, 2000.
-- **[Technical]** Y. Le Jan and O. Raimond. *Integration of Brownian vector fields.* Annals of Probability **30**(2), 826–873, 2002.
-- **[Technical]** M. Hairer and J. C. Mattingly. *Ergodicity of the 2D Navier–Stokes equations with degenerate stochastic forcing.* Annals of Mathematics **164**(3), 993–1032, 2006.
-- **[Numerics]** P. K. Yeung, D. A. Donzis, K. R. Sreenivasan. *High-Reynolds-number simulation of turbulent mixing.* Physics of Fluids **17**, 081703, 2005.
+- **[Technical]** Y. Le Jan and O. Raimond. *Integration of Brownian vector fields.* Annals of Probability **30**(2), 826–873, 2002. [DOI](https://doi.org/10.1214/aop/1023481009)
+- **[Technical]** M. Hairer and J. C. Mattingly. *Ergodicity of the 2D Navier–Stokes equations with degenerate stochastic forcing.* Annals of Mathematics **164**(3), 993–1032, 2006. [DOI](https://doi.org/10.4007/annals.2006.164.993)
+- **[Numerics]** P. K. Yeung, D. A. Donzis, K. R. Sreenivasan. *High-Reynolds-number simulation of turbulent mixing.* Physics of Fluids **17**, 081703, 2005. [DOI](https://doi.org/10.1063/1.2001690)
 
 ## 10. Worked Example / Concrete Special Case
 

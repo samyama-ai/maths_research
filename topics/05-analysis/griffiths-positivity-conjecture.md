@@ -119,17 +119,17 @@ Missing: a single construction producing a Griffiths-positive metric from amplen
 ## 9. Key References
 
 - **[Foundational]** P. A. Griffiths. *Hermitian differential geometry, Chern classes, and positive vector bundles.* In: Global Analysis (Papers in Honor of K. Kodaira), Princeton University Press, 1969, pp. 185–251.
-- **[Foundational]** S. Nakano. *On complex analytic vector bundles.* Journal of the Mathematical Society of Japan 7 (1955), 1–12.
+- **[Foundational]** S. Nakano. *On complex analytic vector bundles.* Journal of the Mathematical Society of Japan 7 (1955), 1–12. [DOI](https://doi.org/10.2969/jmsj/00710001)
 - **[Foundational]** J.-P. Demailly, H. Skoda. *Relations entre les notions de positivités de P. A. Griffiths et de S. Nakano pour les fibrés vectoriels.* Séminaire P. Lelong–H. Skoda 1978/79, Lecture Notes in Mathematics 822, Springer, 1980, pp. 304–309.
-- **[Partial result]** H. Umemura. *Some results in the theory of vector bundles.* Nagoya Mathematical Journal 52 (1973), 97–128.
-- **[Partial result]** F. Campana, H. Flenner. *A characterization of ample vector bundles on a curve.* Mathematische Annalen 287 (1990), 571–575.
-- **[Foundational]** W. Fulton, R. Lazarsfeld. *Positive polynomials for ample vector bundles.* Annals of Mathematics 118 (1983), 35–60.
-- **[SOTA]** B. Berndtsson. *Curvature of vector bundles associated to holomorphic fibrations.* Annals of Mathematics 169 (2009), 531–560.
+- **[Partial result]** H. Umemura. *Some results in the theory of vector bundles.* Nagoya Mathematical Journal 52 (1973), 97–128. [DOI](https://doi.org/10.1017/s0027763000015919)
+- **[Partial result]** F. Campana, H. Flenner. *A characterization of ample vector bundles on a curve.* Mathematische Annalen 287 (1990), 571–575. [DOI](https://doi.org/10.1007/bf01446914)
+- **[Foundational]** W. Fulton, R. Lazarsfeld. *Positive polynomials for ample vector bundles.* Annals of Mathematics 118 (1983), 35–60. [DOI](https://doi.org/10.2307/2006953)
+- **[SOTA]** B. Berndtsson. *Curvature of vector bundles associated to holomorphic fibrations.* Annals of Mathematics 169 (2009), 531–560. [DOI](https://doi.org/10.4007/annals.2009.169.531)
 - **[SOTA]** J.-P. Demailly. *Hermitian–Yang–Mills approach to the conjecture of Griffiths on the positivity of ample vector bundles.* arXiv:2002.02677 (2020).
-- **[SOTA]** D. Guler. *On Segre forms of positive vector bundles.* Canadian Mathematical Bulletin 55 (2012), 108–113.
-- **[SOTA]** S. Diverio. *Segre forms and Kobayashi–Lübke inequality.* Mathematische Zeitschrift 283 (2016), 1033–1047.
-- **[SOTA]** S. Finski. *On characteristic forms of positive vector bundles, mixed discriminants and pushforward identities.* arXiv:2108.13070 (2021).
-- **[SOTA]** J. Ross, M. Toma. *Hodge–Riemann relations for Schur classes in the linear and Kähler cases.* arXiv:2104.03718 (2021).
+- **[SOTA]** D. Guler. *On Segre forms of positive vector bundles.* Canadian Mathematical Bulletin 55 (2012), 108–113. [DOI](https://doi.org/10.4153/cmb-2011-100-6)
+- **[SOTA]** S. Diverio. *Segre forms and Kobayashi–Lübke inequality.* Mathematische Zeitschrift 283 (2016), 1033–1047. [DOI](https://doi.org/10.1007/s00209-016-1632-y)
+- **[SOTA]** S. Finski. *On characteristic forms of positive vector bundles, mixed discriminants and pushforward identities.* arXiv:2108.13070 (2021). [DOI](https://doi.org/10.1112/jlms.12605)
+- **[SOTA]** J. Ross, M. Toma. *Hodge–Riemann relations for Schur classes in the linear and Kähler cases.* arXiv:2104.03718 (2021). [DOI](https://doi.org/10.1093/imrn/rnac208)
 - **[SOTA]** M. Naumann. *An approach to Griffiths' conjecture.* arXiv:1901.09227 (2019).
 - **[Survey / Book]** R. Lazarsfeld. *Positivity in Algebraic Geometry II: Positivity for Vector Bundles, and Multiplier Ideals.* Ergebnisse der Mathematik 49, Springer, 2004.
 - **[Survey / Book]** S. Kobayashi. *Differential Geometry of Complex Vector Bundles.* Publications of the Mathematical Society of Japan 15, Princeton University Press, 1987.

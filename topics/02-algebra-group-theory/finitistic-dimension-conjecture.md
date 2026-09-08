@@ -110,18 +110,18 @@ for some function $f$ of the number of simples $n$ and the Loewy length $\ell$ �
 
 ## 9. Key References
 
-- **[Foundational]** H. Bass. *Finitistic dimension and a homological generalization of semi-primary rings.* Transactions of the American Mathematical Society **95** (1960), 466–488.
+- **[Foundational]** H. Bass. *Finitistic dimension and a homological generalization of semi-primary rings.* Transactions of the American Mathematical Society **95** (1960), 466–488. [DOI](https://doi.org/10.1090/s0002-9947-1960-0157984-8)
 - **[Foundational]** M. Raynaud, L. Gruson. *Critères de platitude et de projectivité.* Inventiones Mathematicae **13** (1971), 1–89.
-- **[Foundational]** M. Auslander, I. Reiten. *On a generalized version of the Nakayama conjecture.* Proceedings of the AMS **52** (1975), 69–74.
-- **[Key result]** M. Auslander, I. Reiten. *Applications of contravariantly finite subcategories.* Advances in Mathematics **86** (1991), 111–152.
-- **[Key result]** E. L. Green, E. Kirkman, J. Kuzmanovich. *Finitistic dimensions of finite dimensional monomial algebras.* Journal of Algebra **136** (1991), 37–50.
-- **[Key result]** E. L. Green, B. Zimmermann-Huisgen. *Finitistic dimension of Artinian rings with vanishing radical cube.* Mathematische Zeitschrift **206** (1991), 505–526.
-- **[Counterexample]** B. Huisgen-Zimmermann. *Homological domino effects and the first finitistic dimension conjecture.* Inventiones Mathematicae **108** (1992), 369–383.
-- **[Key result]** K. Igusa, G. Todorov. *On the finitistic global dimension conjecture for Artin algebras.* In: Representations of Algebras and Related Topics, Fields Institute Communications **45**, AMS (2005), 201–204.
-- **[Key result]** C. C. Xi. *On the finitistic dimension conjecture II: related to finite global dimension.* Advances in Mathematics **201** (2006), 116–142.
-- **[Key result]** J. Wei. *Finitistic dimension and Igusa–Todorov algebras.* Advances in Mathematics **222** (2009), 2215–2226.
-- **[SOTA / Recent]** J. Rickard. *Unbounded derived categories and the finitistic dimension conjecture.* Advances in Mathematics **354** (2019), 106735.
-- **[Survey]** B. Huisgen-Zimmermann. *The finitistic dimension conjectures — a tale of 3.5 decades.* In: Abelian Groups and Modules (Padova 1994), Kluwer (1995), 501–517.
+- **[Foundational]** M. Auslander, I. Reiten. *On a generalized version of the Nakayama conjecture.* Proceedings of the AMS **52** (1975), 69–74. [DOI](https://doi.org/10.1090/s0002-9939-1975-0389977-6)
+- **[Key result]** M. Auslander, I. Reiten. *Applications of contravariantly finite subcategories.* Advances in Mathematics **86** (1991), 111–152. [DOI](https://doi.org/10.1016/0001-8708(91)90037-8)
+- **[Key result]** E. L. Green, E. Kirkman, J. Kuzmanovich. *Finitistic dimensions of finite dimensional monomial algebras.* Journal of Algebra **136** (1991), 37–50. [DOI](https://doi.org/10.1016/0021-8693(91)90062-d)
+- **[Key result]** E. L. Green, B. Zimmermann-Huisgen. *Finitistic dimension of Artinian rings with vanishing radical cube.* Mathematische Zeitschrift **206** (1991), 505–526. [DOI](https://doi.org/10.1007/bf02571358)
+- **[Counterexample]** B. Huisgen-Zimmermann. *Homological domino effects and the first finitistic dimension conjecture.* Inventiones Mathematicae **108** (1992), 369–383. [DOI](https://doi.org/10.1007/bf02100610)
+- **[Key result]** K. Igusa, G. Todorov. *On the finitistic global dimension conjecture for Artin algebras.* In: Representations of Algebras and Related Topics, Fields Institute Communications **45**, AMS (2005), 201–204. [DOI](https://doi.org/10.1090/fic/045/15)
+- **[Key result]** C. C. Xi. *On the finitistic dimension conjecture II: related to finite global dimension.* Advances in Mathematics **201** (2006), 116–142. [DOI](https://doi.org/10.1016/j.aim.2005.02.002)
+- **[Key result]** J. Wei. *Finitistic dimension and Igusa–Todorov algebras.* Advances in Mathematics **222** (2009), 2215–2226. [DOI](https://doi.org/10.1016/j.aim.2009.07.008)
+- **[SOTA / Recent]** J. Rickard. *Unbounded derived categories and the finitistic dimension conjecture.* Advances in Mathematics **354** (2019), 106735. [DOI](https://doi.org/10.1016/j.aim.2019.106735)
+- **[Survey]** B. Huisgen-Zimmermann. *The finitistic dimension conjectures — a tale of 3.5 decades.* In: Abelian Groups and Modules (Padova 1994), Kluwer (1995), 501–517. [DOI](https://doi.org/10.1007/978-94-011-0443-2_41)
 - **[Survey]** L. Angeleri Hügel, D. Herbera, J. Trlifaj. *Tilting theory and the finitistic dimension conjectures.* Transactions of the AMS **358** (2006), 4405–4439.
 
 ## 10. Worked Example / Concrete Special Case

@@ -103,17 +103,17 @@ which would reduce every $\mathbb{Z}$HS$^3$ to a knot-complement statement — b
 
 ## 9. Key References
 
-- **[Foundational]** S. Gukov, P. Putrov, C. Vafa. *Fivebranes and 3-manifold homology.* Journal of High Energy Physics 2017(7):071, 2017.
-- **[Foundational]** S. Gukov, D. Pei, P. Putrov, C. Vafa. *BPS spectra and 3-manifold invariants.* Journal of Knot Theory and Its Ramifications 29(2):2040003, 2020 (arXiv:1701.06567).
-- **[Foundational]** R. Lawrence, D. Zagier. *Modular forms and quantum invariants of 3-manifolds.* Asian Journal of Mathematics 3(1):93–107, 1999.
+- **[Foundational]** S. Gukov, P. Putrov, C. Vafa. *Fivebranes and 3-manifold homology.* Journal of High Energy Physics 2017(7):071, 2017. [DOI](https://doi.org/10.1007/jhep07(2017)071)
+- **[Foundational]** S. Gukov, D. Pei, P. Putrov, C. Vafa. *BPS spectra and 3-manifold invariants.* Journal of Knot Theory and Its Ramifications 29(2):2040003, 2020 (arXiv:1701.06567). [DOI](https://doi.org/10.1142/s0218216520400039)
+- **[Foundational]** R. Lawrence, D. Zagier. *Modular forms and quantum invariants of 3-manifolds.* Asian Journal of Mathematics 3(1):93–107, 1999. [DOI](https://doi.org/10.4310/ajm.1999.v3.n1.a5)
 - **[Foundational]** S. Gukov, M. Mariño, P. Putrov. *Resurgence in complex Chern–Simons theory.* arXiv:1605.07615, 2016.
-- **[SOTA / Recent]** S. Gukov, C. Manolescu. *A two-variable series for knot complements.* Quantum Topology 12(1):1–109, 2021.
-- **[SOTA / Recent]** J. E. Andersen, W. E. Mistegård. *Resurgence analysis of quantum invariants of Seifert fibered homology spheres.* Journal of the London Mathematical Society 105(2):709–764, 2022.
-- **[SOTA / Recent]** Y. Murakami. *A proof of a conjecture of Gukov–Pei–Putrov–Vafa.* arXiv:2302.13526, 2023.
-- **[SOTA / Recent]** F. Costantino, S. Gukov, P. Putrov. *Non-semisimple TQFT's and BPS $q$-series.* SIGMA 19:010, 2023.
+- **[SOTA / Recent]** S. Gukov, C. Manolescu. *A two-variable series for knot complements.* Quantum Topology 12(1):1–109, 2021. [DOI](https://doi.org/10.4171/qt/145)
+- **[SOTA / Recent]** J. E. Andersen, W. E. Mistegård. *Resurgence analysis of quantum invariants of Seifert fibered homology spheres.* Journal of the London Mathematical Society 105(2):709–764, 2022. [DOI](https://doi.org/10.1112/jlms.12506)
+- **[SOTA / Recent]** Y. Murakami. *A proof of a conjecture of Gukov–Pei–Putrov–Vafa.* arXiv:2302.13526, 2023. [DOI](https://doi.org/10.1007/s00220-024-05136-x)
+- **[SOTA / Recent]** F. Costantino, S. Gukov, P. Putrov. *Non-semisimple TQFT's and BPS $q$-series.* SIGMA 19:010, 2023. [DOI](https://doi.org/10.3842/sigma.2023.010)
 - **[SOTA / Recent]** S. Park. *Higher rank $\hat{Z}$ and $F_K$.* SIGMA 16:044, 2020.
 - **[Survey]** M. C. N. Cheng, S. Chun, F. Ferrari, S. Gukov, S. M. Harrison. *3d Modularity.* Journal of High Energy Physics 2019(10):010, 2019.
-- **[Survey]** K. Bringmann, K. Mahlburg, A. Milas. *Quantum modular forms and plumbing graphs of 3-manifolds.* Journal of Combinatorial Theory Series A 170:105145, 2020.
+- **[Survey]** K. Bringmann, K. Mahlburg, A. Milas. *Quantum modular forms and plumbing graphs of 3-manifolds.* Journal of Combinatorial Theory Series A 170:105145, 2020. [DOI](https://doi.org/10.1016/j.jcta.2019.105145)
 - **[Background]** T. Ohtsuki. *Quantum Invariants: A Study of Knots, 3-Manifolds, and Their Sets.* World Scientific, 2002.
 
 ## 10. Worked Example / Concrete Special Case

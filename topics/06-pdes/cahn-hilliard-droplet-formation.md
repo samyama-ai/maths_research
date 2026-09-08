@@ -123,20 +123,20 @@ The precise missing step is a **quantitative rigidity/structure theorem**: show 
 
 ## 9. Key References
 
-- **[Foundational]** J. W. Cahn and J. E. Hilliard. *Free Energy of a Nonuniform System. I. Interfacial Free Energy.* Journal of Chemical Physics **28**, 258–267, 1958.
-- **[Foundational]** I. M. Lifshitz and V. V. Slyozov. *The kinetics of precipitation from supersaturated solid solutions.* Journal of Physics and Chemistry of Solids **19**, 35–50, 1961.
+- **[Foundational]** J. W. Cahn and J. E. Hilliard. *Free Energy of a Nonuniform System. I. Interfacial Free Energy.* Journal of Chemical Physics **28**, 258–267, 1958. [DOI](https://doi.org/10.1063/1.1744102)
+- **[Foundational]** I. M. Lifshitz and V. V. Slyozov. *The kinetics of precipitation from supersaturated solid solutions.* Journal of Physics and Chemistry of Solids **19**, 35–50, 1961. [DOI](https://doi.org/10.1016/0022-3697(61)90054-3)
 - **[Foundational]** C. M. Elliott and Zheng Songmu. *On the Cahn–Hilliard equation.* Archive for Rational Mechanics and Analysis **96**, 339–357, 1986.
-- **[Foundational]** R. L. Pego. *Front migration in the nonlinear Cahn–Hilliard equation.* Proceedings of the Royal Society of London A **422**, 261–278, 1989.
-- **[Foundational]** L. Modica. *The gradient theory of phase transitions and the minimal interface criterion.* Archive for Rational Mechanics and Analysis **98**, 123–142, 1987.
-- **[SOTA]** N. D. Alikakos, P. W. Bates and X. Chen. *Convergence of the Cahn–Hilliard equation to the Hele-Shaw model.* Archive for Rational Mechanics and Analysis **128**, 165–205, 1994.
-- **[SOTA]** X. Chen. *Global asymptotic limit of solutions of the Cahn–Hilliard equation.* Journal of Differential Geometry **44**, 262–311, 1996.
-- **[SOTA]** P. W. Bates and P. C. Fife. *The dynamics of nucleation for the Cahn–Hilliard equation.* SIAM Journal on Applied Mathematics **53**, 990–1008, 1993.
+- **[Foundational]** R. L. Pego. *Front migration in the nonlinear Cahn–Hilliard equation.* Proceedings of the Royal Society of London A **422**, 261–278, 1989. [DOI](https://doi.org/10.1098/rspa.1989.0027)
+- **[Foundational]** L. Modica. *The gradient theory of phase transitions and the minimal interface criterion.* Archive for Rational Mechanics and Analysis **98**, 123–142, 1987. [DOI](https://doi.org/10.1007/bf00251230)
+- **[SOTA]** N. D. Alikakos, P. W. Bates and X. Chen. *Convergence of the Cahn–Hilliard equation to the Hele-Shaw model.* Archive for Rational Mechanics and Analysis **128**, 165–205, 1994. [DOI](https://doi.org/10.1007/bf00375025)
+- **[SOTA]** X. Chen. *Global asymptotic limit of solutions of the Cahn–Hilliard equation.* Journal of Differential Geometry **44**, 262–311, 1996. [DOI](https://doi.org/10.4310/jdg/1214458973)
+- **[SOTA]** P. W. Bates and P. C. Fife. *The dynamics of nucleation for the Cahn–Hilliard equation.* SIAM Journal on Applied Mathematics **53**, 990–1008, 1993. [DOI](https://doi.org/10.1137/0153049)
 - **[SOTA]** R. V. Kohn and F. Otto. *Upper bounds on coarsening rates.* Communications in Mathematical Physics **229**, 375–395, 2002.
-- **[SOTA]** S. Conti, B. Niethammer and F. Otto. *Coarsening rates in off-critical mixtures.* SIAM Journal on Mathematical Analysis **37**, 1732–1741, 2006.
-- **[SOTA]** F. Otto, T. Rump and D. Slepčev. *Coarsening rates for a droplet model: rigorous upper bounds.* SIAM Journal on Mathematical Analysis **38**, 503–529, 2006.
-- **[SOTA]** B. Niethammer and R. L. Pego. *Non-self-similar behavior in the LSW theory of Ostwald ripening.* Journal of Statistical Physics **95**, 867–902, 1999.
-- **[SOTA]** B. Niethammer and F. Otto. *Ostwald ripening: the screening length revisited.* Calculus of Variations and PDE **13**, 33–68, 2001.
-- **[SOTA]** S. Maier-Paape and T. Wanner. *Spinodal decomposition for the Cahn–Hilliard equation in higher dimensions.* Archive for Rational Mechanics and Analysis **151**, 187–219, 2000.
+- **[SOTA]** S. Conti, B. Niethammer and F. Otto. *Coarsening rates in off-critical mixtures.* SIAM Journal on Mathematical Analysis **37**, 1732–1741, 2006. [DOI](https://doi.org/10.1137/040620059)
+- **[SOTA]** F. Otto, T. Rump and D. Slepčev. *Coarsening rates for a droplet model: rigorous upper bounds.* SIAM Journal on Mathematical Analysis **38**, 503–529, 2006. [DOI](https://doi.org/10.1137/050630192)
+- **[SOTA]** B. Niethammer and R. L. Pego. *Non-self-similar behavior in the LSW theory of Ostwald ripening.* Journal of Statistical Physics **95**, 867–902, 1999. [DOI](https://doi.org/10.1023/a:1004546215920)
+- **[SOTA]** B. Niethammer and F. Otto. *Ostwald ripening: the screening length revisited.* Calculus of Variations and PDE **13**, 33–68, 2001. [DOI](https://doi.org/10.1007/pl00009923)
+- **[SOTA]** S. Maier-Paape and T. Wanner. *Spinodal decomposition for the Cahn–Hilliard equation in higher dimensions.* Archive for Rational Mechanics and Analysis **151**, 187–219, 2000. [DOI](https://doi.org/10.1007/s002050050196)
 - **[SOTA]** J. Fischer, S. Hensel, T. Laux and T. M. Simon. *The local structure of the energy landscape in multiphase mean curvature flow: weak–strong uniqueness and stability of evolutions.* (relative-entropy method; see also Fischer–Hensel, ARMA 2020.)
 - **[Survey]** A. Novick-Cohen. *The Cahn–Hilliard equation.* In *Handbook of Differential Equations: Evolutionary Equations*, Vol. 4, Elsevier, 2008.
 - **[Survey]** A. Miranville. *The Cahn–Hilliard Equation: Recent Advances and Applications.* CBMS-NSF Regional Conference Series in Applied Mathematics **95**, SIAM, 2019.

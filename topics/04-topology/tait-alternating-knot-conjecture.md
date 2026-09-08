@@ -108,19 +108,19 @@ Tait's own three conjectures have no remaining gap. The residual programme is th
 ## 9. Key References
 
 - **[Foundational]** P. G. Tait. *On Knots I, II, III.* Transactions of the Royal Society of Edinburgh, 1877–1885; reprinted in *Scientific Papers*, Vol. I, Cambridge Univ. Press, 1898.
-- **[Foundational]** L. H. Kauffman. *State models and the Jones polynomial.* Topology 26 (1987), 395–407.
-- **[Foundational]** K. Murasugi. *Jones polynomials and classical conjectures in knot theory.* Topology 26 (1987), 187–194.
-- **[Foundational]** M. B. Thistlethwaite. *A spanning tree expansion of the Jones polynomial.* Topology 26 (1987), 297–309.
-- **[Foundational]** M. B. Thistlethwaite. *Kauffman's polynomial and alternating links.* Topology 27 (1988), 311–318.
-- **[Foundational]** W. B. R. Lickorish, M. B. Thistlethwaite. *Some links with non-trivial polynomials and their crossing-numbers.* Commentarii Mathematici Helvetici 63 (1988), 527–539.
-- **[Foundational]** W. W. Menasco, M. B. Thistlethwaite. *The classification of alternating links.* Annals of Mathematics 138 (1993), 113–171. (Announcement: Bulletin of the AMS 25 (1991), 403–412.)
-- **[SOTA / Recent]** J. E. Greene. *Alternating links and definite surfaces.* Duke Mathematical Journal 166 (2017), 2133–2151. (With an appendix by A. Juhász and M. Lackenby.)
-- **[SOTA / Recent]** J. Howie. *A characterisation of alternating knot exteriors.* Geometry & Topology 21 (2017), 2353–2371.
-- **[SOTA / Recent]** M. Lackenby. *The crossing number of composite knots.* Journal of Topology 2 (2009), 747–768.
+- **[Foundational]** L. H. Kauffman. *State models and the Jones polynomial.* Topology 26 (1987), 395–407. [DOI](https://doi.org/10.1016/0040-9383(87)90009-7)
+- **[Foundational]** K. Murasugi. *Jones polynomials and classical conjectures in knot theory.* Topology 26 (1987), 187–194. [DOI](https://doi.org/10.1016/0040-9383(87)90058-9)
+- **[Foundational]** M. B. Thistlethwaite. *A spanning tree expansion of the Jones polynomial.* Topology 26 (1987), 297–309. [DOI](https://doi.org/10.1016/0040-9383(87)90003-6)
+- **[Foundational]** M. B. Thistlethwaite. *Kauffman's polynomial and alternating links.* Topology 27 (1988), 311–318. [DOI](https://doi.org/10.1016/0040-9383(88)90012-2)
+- **[Foundational]** W. B. R. Lickorish, M. B. Thistlethwaite. *Some links with non-trivial polynomials and their crossing-numbers.* Commentarii Mathematici Helvetici 63 (1988), 527–539. [DOI](https://doi.org/10.1007/bf02566777)
+- **[Foundational]** W. W. Menasco, M. B. Thistlethwaite. *The classification of alternating links.* Annals of Mathematics 138 (1993), 113–171. (Announcement: Bulletin of the AMS 25 (1991), 403–412.). [DOI](https://doi.org/10.2307/2946636)
+- **[SOTA / Recent]** J. E. Greene. *Alternating links and definite surfaces.* Duke Mathematical Journal 166 (2017), 2133–2151. (With an appendix by A. Juhász and M. Lackenby.). [DOI](https://doi.org/10.1215/00127094-2017-0004)
+- **[SOTA / Recent]** J. Howie. *A characterisation of alternating knot exteriors.* Geometry & Topology 21 (2017), 2353–2371. [DOI](https://doi.org/10.2140/gt.2017.21.2353)
+- **[SOTA / Recent]** M. Lackenby. *The crossing number of composite knots.* Journal of Topology 2 (2009), 747–768. [DOI](https://doi.org/10.1112/jtopol/jtp028)
 - **[SOTA / Recent]** J. Hoste, M. Thistlethwaite, J. Weeks. *The first 1,701,936 knots.* The Mathematical Intelligencer 20 (1998), 33–48.
 - **[Survey]** W. B. R. Lickorish. *An Introduction to Knot Theory.* Graduate Texts in Mathematics 175, Springer, 1997.
 - **[Survey]** C. C. Adams. *The Knot Book.* W. H. Freeman, 1994; reprint AMS, 2004.
-- **[Survey]** A. Champanerkar, I. Kofman. *A survey on the Turaev genus of knots.* Acta Mathematica Vietnamica 39 (2014), 497–514.
+- **[Survey]** A. Champanerkar, I. Kofman. *A survey on the Turaev genus of knots.* Acta Mathematica Vietnamica 39 (2014), 497–514. [DOI](https://doi.org/10.1007/s40306-014-0083-y)
 
 ## 10. Worked Example / Concrete Special Case
 

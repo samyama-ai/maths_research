@@ -103,15 +103,15 @@ The precise barrier: for a non-abelian $K$, the $\mathbb{Q}_p[\operatorname{Gal}
 
 ## 9. Key References
 
-- **[Foundational]** H.-W. Leopoldt. *Zur Arithmetik in abelschen Zahlkörpern.* Journal für die reine und angewandte Mathematik **209** (1962), 54–71.
-- **[Foundational]** J. Ax. *On the units of an algebraic number field.* Illinois Journal of Mathematics **9** (1965), 584–589.
+- **[Foundational]** H.-W. Leopoldt. *Zur Arithmetik in abelschen Zahlkörpern.* Journal für die reine und angewandte Mathematik **209** (1962), 54–71. [DOI](https://doi.org/10.1515/crll.1962.209.54)
+- **[Foundational]** J. Ax. *On the units of an algebraic number field.* Illinois Journal of Mathematics **9** (1965), 584–589. [DOI](https://doi.org/10.1215/ijm/1256059299)
 - **[Foundational]** A. Brumer. *On the units of algebraic number fields.* Mathematika **14** (1967), 121–124.
-- **[Foundational]** A. Baker. *Linear forms in the logarithms of algebraic numbers.* Mathematika **13** (1966), 204–216.
+- **[Foundational]** A. Baker. *Linear forms in the logarithms of algebraic numbers.* Mathematika **13** (1966), 204–216. [DOI](https://doi.org/10.1112/s0025579300003971)
 - **[SOTA]** M. Waldschmidt. *A lower bound for the $p$-adic rank of the units of an algebraic number field.* In *Topics in Classical Number Theory* (Budapest, 1981), Colloq. Math. Soc. János Bolyai **34**, North-Holland, 1984, 1617–1650.
-- **[SOTA]** M. Emsalem, H. Kisilevsky, D. Wales. *Indépendance linéaire sur $\overline{\mathbb{Q}}$ de logarithmes $p$-adiques de nombres algébriques et rang $p$-adique du groupe des unités d'un corps de nombres.* Journal of Number Theory **19** (1984), 384–391.
+- **[SOTA]** M. Emsalem, H. Kisilevsky, D. Wales. *Indépendance linéaire sur $\overline{\mathbb{Q}}$ de logarithmes $p$-adiques de nombres algébriques et rang $p$-adique du groupe des unités d'un corps de nombres.* Journal of Number Theory **19** (1984), 384–391. [DOI](https://doi.org/10.1016/0022-314x(84)90079-9)
 - **[SOTA]** P. Colmez. *Résidu en $s=1$ des fonctions zêta $p$-adiques.* Inventiones Mathematicae **91** (1988), 371–389.
-- **[SOTA]** H. Miki. *On the Leopoldt conjecture on the $p$-adic regulators.* Journal of Number Theory **26** (1987), 117–128.
-- **[Recent]** J.-F. Jaulent. *Sur les normes cycliques et les conjectures de Leopoldt et de Gross–Kuz'min.* Annales mathématiques du Québec **41** (2017), 119–140.
+- **[SOTA]** H. Miki. *On the Leopoldt conjecture on the $p$-adic regulators.* Journal of Number Theory **26** (1987), 117–128. [DOI](https://doi.org/10.1016/0022-314x(87)90073-4)
+- **[Recent]** J.-F. Jaulent. *Sur les normes cycliques et les conjectures de Leopoldt et de Gross–Kuz'min.* Annales mathématiques du Québec **41** (2017), 119–140. [DOI](https://doi.org/10.1007/s40316-016-0069-3)
 - **[Survey]** L. C. Washington. *Introduction to Cyclotomic Fields*, 2nd ed., Graduate Texts in Mathematics **83**, Springer, 1997 (§5.5).
 - **[Survey]** J. Neukirch, A. Schmidt, K. Wingberg. *Cohomology of Number Fields*, 2nd ed., Springer, 2008 (Chapter X).
 - **[Frontier]** P. Mihăilescu. *The $T$ and $T^\ast$ components of $\Lambda$-modules and Leopoldt's conjecture.* arXiv preprint, 2009. *(frontier — verify)*

@@ -105,22 +105,22 @@ All dissipative results replace this by a smoothing estimate on $\theta$ or $\om
 ## 9. Key References
 
 - **[Foundational]** J. R. Cannon, E. DiBenedetto. *The initial value problem for the Boussinesq equations with data in $L^p$.* In: Approximation Methods for Navier–Stokes Problems, Lecture Notes in Mathematics 771, Springer, 1980, pp. 129–144.
-- **[Foundational]** D. Chae, H.-S. Nam. *Local existence and blow-up criterion for the Boussinesq equations.* Proceedings of the Royal Society of Edinburgh Section A, 127 (1997), 935–946.
+- **[Foundational]** D. Chae, H.-S. Nam. *Local existence and blow-up criterion for the Boussinesq equations.* Proceedings of the Royal Society of Edinburgh Section A, 127 (1997), 935–946. [DOI](https://doi.org/10.1017/s0308210500026810)
 - **[Foundational]** A. Majda, A. Bertozzi. *Vorticity and Incompressible Flow.* Cambridge University Press, 2002.
-- **[Foundational]** T. Kato. *Remarks on zero viscosity limit for nonstationary Navier–Stokes flows with boundary.* In: Seminar on Nonlinear PDE, MSRI Publ. 2, Springer, 1984, pp. 85–98.
-- **[SOTA]** D. Chae. *Global regularity for the 2D Boussinesq equations with partial viscosity terms.* Advances in Mathematics, 203 (2006), 497–513.
-- **[SOTA]** T. Y. Hou, C. Li. *Global well-posedness of the viscous Boussinesq equations.* Discrete and Continuous Dynamical Systems, 12 (2005), 1–12.
-- **[SOTA]** T. Hmidi, S. Keraani. *On the global well-posedness of the two-dimensional Boussinesq system with a zero diffusivity.* Advances in Differential Equations, 12 (2007), 461–480.
-- **[SOTA]** R. Danchin, M. Paicu. *Global well-posedness issues for the inviscid Boussinesq system with Yudovich's type data.* Communications in Mathematical Physics, 290 (2009), 1–14.
-- **[SOTA]** T. Hmidi, S. Keraani, F. Rousset. *Global well-posedness for a Boussinesq–Navier–Stokes system with critical dissipation.* Communications in Partial Differential Equations, 36 (2011), 420–445.
-- **[SOTA]** Q. Jiu, C. Miao, J. Wu, Z. Zhang. *The two-dimensional incompressible Boussinesq equations with general critical dissipation.* SIAM Journal on Mathematical Analysis, 46 (2014), 3426–3454.
-- **[SOTA]** A. Larios, E. Lunasin, E. S. Titi. *Global well-posedness for the 2D Boussinesq system with anisotropic viscosity and without heat diffusion.* Journal of Differential Equations, 255 (2013), 2636–2654.
-- **[SOTA]** T. M. Elgindi, K. Widmayer. *Sharp decay estimates for an anisotropic linear semigroup and applications to the surface quasi-geostrophic and inviscid Boussinesq systems.* SIAM Journal on Mathematical Analysis, 47 (2015), 4672–4684.
-- **[Recent]** T. M. Elgindi, I.-J. Jeong. *Finite-time singularity formation for strong solutions to the Boussinesq system.* Annals of PDE, 6 (2020), article 5.
-- **[Recent]** G. Luo, T. Y. Hou. *Potentially singular solutions of the 3D axisymmetric Euler equations.* Proceedings of the National Academy of Sciences USA, 111 (2014), 12968–12973.
+- **[Foundational]** T. Kato. *Remarks on zero viscosity limit for nonstationary Navier–Stokes flows with boundary.* In: Seminar on Nonlinear PDE, MSRI Publ. 2, Springer, 1984, pp. 85–98. [DOI](https://doi.org/10.1007/978-1-4612-1110-5_6)
+- **[SOTA]** D. Chae. *Global regularity for the 2D Boussinesq equations with partial viscosity terms.* Advances in Mathematics, 203 (2006), 497–513. [DOI](https://doi.org/10.1016/j.aim.2005.05.001)
+- **[SOTA]** T. Y. Hou, C. Li. *Global well-posedness of the viscous Boussinesq equations.* Discrete and Continuous Dynamical Systems, 12 (2005), 1–12. [DOI](https://doi.org/10.3934/dcds.2005.12.1)
+- **[SOTA]** T. Hmidi, S. Keraani. *On the global well-posedness of the two-dimensional Boussinesq system with a zero diffusivity.* Advances in Differential Equations, 12 (2007), 461–480. [DOI](https://doi.org/10.57262/ade/1355867459)
+- **[SOTA]** R. Danchin, M. Paicu. *Global well-posedness issues for the inviscid Boussinesq system with Yudovich's type data.* Communications in Mathematical Physics, 290 (2009), 1–14. [DOI](https://doi.org/10.1007/s00220-009-0821-5)
+- **[SOTA]** T. Hmidi, S. Keraani, F. Rousset. *Global well-posedness for a Boussinesq–Navier–Stokes system with critical dissipation.* Communications in Partial Differential Equations, 36 (2011), 420–445. [DOI](https://doi.org/10.1016/j.jde.2010.07.008)
+- **[SOTA]** Q. Jiu, C. Miao, J. Wu, Z. Zhang. *The two-dimensional incompressible Boussinesq equations with general critical dissipation.* SIAM Journal on Mathematical Analysis, 46 (2014), 3426–3454. [DOI](https://doi.org/10.1137/140958256)
+- **[SOTA]** A. Larios, E. Lunasin, E. S. Titi. *Global well-posedness for the 2D Boussinesq system with anisotropic viscosity and without heat diffusion.* Journal of Differential Equations, 255 (2013), 2636–2654. [DOI](https://doi.org/10.1016/j.jde.2013.07.011)
+- **[SOTA]** T. M. Elgindi, K. Widmayer. *Sharp decay estimates for an anisotropic linear semigroup and applications to the surface quasi-geostrophic and inviscid Boussinesq systems.* SIAM Journal on Mathematical Analysis, 47 (2015), 4672–4684. [DOI](https://doi.org/10.1137/14099036x)
+- **[Recent]** T. M. Elgindi, I.-J. Jeong. *Finite-time singularity formation for strong solutions to the Boussinesq system.* Annals of PDE, 6 (2020), article 5. [DOI](https://doi.org/10.1007/s40818-020-00080-0)
+- **[Recent]** G. Luo, T. Y. Hou. *Potentially singular solutions of the 3D axisymmetric Euler equations.* Proceedings of the National Academy of Sciences USA, 111 (2014), 12968–12973. [DOI](https://doi.org/10.1073/pnas.1405238111)
 - **[Recent]** J. Chen, T. Y. Hou. *Stable nearly self-similar blowup of the 2D Boussinesq and 3D Euler equations with smooth data.* arXiv:2210.07191 (2022).
 - **[Survey]** C. R. Doering, J. D. Gibbon. *Applied Analysis of the Navier–Stokes Equations.* Cambridge University Press, 1995.
-- **[Survey]** R. Danchin, M. Paicu. *Global existence results for the anisotropic Boussinesq system in dimension two.* Mathematical Models and Methods in Applied Sciences, 21 (2011), 421–457.
+- **[Survey]** R. Danchin, M. Paicu. *Global existence results for the anisotropic Boussinesq system in dimension two.* Mathematical Models and Methods in Applied Sciences, 21 (2011), 421–457. [DOI](https://doi.org/10.1142/s0218202511005106)
 
 ## 10. Worked Example / Concrete Special Case
 

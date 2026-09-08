@@ -73,10 +73,10 @@ Leading mathematicians and physicists suggest two dominant strategies for future
 ## 9. Key References
 
 - **[Foundational]** Montgomery, H. L. *The pair correlation of zeros of the zeta function.* Analytic Number Theory, Proc. Sympos. Pure Math., Vol. XXIV, AMS, 1973.
-- **[Foundational]** Berry, M. V., and Keating, J. P. *The Riemann zeros and eigenvalue asymptotics.* SIAM Review, 1999.
-- **[Foundational]** Connes, A. *Trace formula in noncommutative geometry and the zeros of the Riemann zeta function.* Selecta Mathematica, 1999.
+- **[Foundational]** Berry, M. V., and Keating, J. P. *The Riemann zeros and eigenvalue asymptotics.* SIAM Review, 1999. [DOI](https://doi.org/10.1137/s0036144598347497)
+- **[Foundational]** Connes, A. *Trace formula in noncommutative geometry and the zeros of the Riemann zeta function.* Selecta Mathematica, 1999. [DOI](https://doi.org/10.1007/s000290050042)
 - **[SOTA / Recent]** Bender, C. M., Brody, D. C., and Müller, M. P. *Hamiltonian for the zeros of the Riemann zeta function.* Physical Review Letters, 2017.
-- **[Survey]** Biane, P., Pitman, J., and Yor, M. *Probability laws related to the Jacobi theta and Riemann zeta functions, and Brownian excursions.* Bulletin of the American Mathematical Society, 2001.
+- **[Survey]** Biane, P., Pitman, J., and Yor, M. *Probability laws related to the Jacobi theta and Riemann zeta functions, and Brownian excursions.* Bulletin of the American Mathematical Society, 2001. [DOI](https://doi.org/10.1090/s0273-0979-01-00912-0)
 
 ## 10. Worked Example / Concrete Special Case
 

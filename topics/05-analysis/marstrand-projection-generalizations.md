@@ -108,22 +108,22 @@ The plane is closed. The gap is everything above it and off it:
 
 ## 9. Key References
 
-- **[Foundational]** J. M. Marstrand. *Some fundamental geometrical properties of plane sets of fractional dimensions.* Proc. London Math. Soc. (3) **4** (1954), 257–302.
+- **[Foundational]** J. M. Marstrand. *Some fundamental geometrical properties of plane sets of fractional dimensions.* Proc. London Math. Soc. (3) **4** (1954), 257–302. [DOI](https://doi.org/10.1112/plms/s3-4.1.257)
 - **[Foundational]** R. Kaufman. *On Hausdorff dimension of projections.* Mathematika **15** (1968), 153–155.
-- **[Foundational]** P. Mattila. *Hausdorff dimension, orthogonal projections and intersections with planes.* Ann. Acad. Sci. Fenn. Ser. A I Math. **1** (1975), 227–244.
-- **[Foundational]** K. J. Falconer. *Hausdorff dimension and the exceptional set of projections.* Mathematika **29** (1982), 109–115.
-- **[Structural]** Y. Peres, W. Schlag. *Smoothness of projections, Bernoulli convolutions, and the dimension of exceptions.* Duke Math. J. **102** (2000), 193–251.
-- **[Structural]** J. Bourgain. *The discretized sum-product and projection theorems.* J. Anal. Math. **112** (2010), 193–236.
-- **[Structural]** M. Hochman, P. Shmerkin. *Local entropy averages and projections of fractal measures.* Ann. of Math. **175** (2012), 1001–1059.
+- **[Foundational]** P. Mattila. *Hausdorff dimension, orthogonal projections and intersections with planes.* Ann. Acad. Sci. Fenn. Ser. A I Math. **1** (1975), 227–244. [DOI](https://doi.org/10.5186/aasfm.1975.0110)
+- **[Foundational]** K. J. Falconer. *Hausdorff dimension and the exceptional set of projections.* Mathematika **29** (1982), 109–115. [DOI](https://doi.org/10.1112/s0025579300012201)
+- **[Structural]** Y. Peres, W. Schlag. *Smoothness of projections, Bernoulli convolutions, and the dimension of exceptions.* Duke Math. J. **102** (2000), 193–251. [DOI](https://doi.org/10.1215/s0012-7094-00-10222-0)
+- **[Structural]** J. Bourgain. *The discretized sum-product and projection theorems.* J. Anal. Math. **112** (2010), 193–236. [DOI](https://doi.org/10.1007/s11854-010-0028-x)
+- **[Structural]** M. Hochman, P. Shmerkin. *Local entropy averages and projections of fractal measures.* Ann. of Math. **175** (2012), 1001–1059. [DOI](https://doi.org/10.4007/annals.2012.175.3.1)
 - **[SOTA]** K. Ren, H. Wang. *Furstenberg sets estimate in the plane.* arXiv:2308.08819 (2023).
-- **[SOTA]** T. Orponen, P. Shmerkin, H. Wang. *Kaufman and Falconer estimates for radial projections and a continuum version of Beck's theorem.* Geom. Funct. Anal. (2024); arXiv:2209.00348.
+- **[SOTA]** T. Orponen, P. Shmerkin, H. Wang. *Kaufman and Falconer estimates for radial projections and a continuum version of Beck's theorem.* Geom. Funct. Anal. (2024); arXiv:2209.00348. [DOI](https://doi.org/10.1007/s00039-024-00660-3)
 - **[SOTA]** S. Gan, S. Guo, L. Guth, T. L. J. Harris, D. Maldague, H. Wang. *On restricted projections to planes in $\mathbb{R}^3$.* arXiv:2207.13844 (2022).
 - **[SOTA]** M. Pramanik, T. Yang, J. Zahl. *A Furstenberg-type problem for circles, and a Kaufman-type restricted projection theorem in $\mathbb{R}^3$.* arXiv:2207.02259 (2022).
-- **[Related]** Z. Balogh, K. Fässler, P. Mattila, J. Tyson. *Projection and slicing theorems in Heisenberg groups.* Adv. Math. **231** (2012), 569–604.
-- **[Related]** K. Falconer, J. Howroyd. *Projection theorems for box and packing dimensions.* Math. Proc. Cambridge Philos. Soc. **119** (1996), 287–295.
-- **[Related]** R. Kenyon. *Projecting the one-dimensional Sierpinski gasket.* Israel J. Math. **97** (1997), 221–238.
+- **[Related]** Z. Balogh, K. Fässler, P. Mattila, J. Tyson. *Projection and slicing theorems in Heisenberg groups.* Adv. Math. **231** (2012), 569–604. [DOI](https://doi.org/10.1016/j.aim.2012.03.037)
+- **[Related]** K. Falconer, J. Howroyd. *Projection theorems for box and packing dimensions.* Math. Proc. Cambridge Philos. Soc. **119** (1996), 287–295. [DOI](https://doi.org/10.1017/s0305004100074168)
+- **[Related]** R. Kenyon. *Projecting the one-dimensional Sierpinski gasket.* Israel J. Math. **97** (1997), 221–238. [DOI](https://doi.org/10.1007/bf02774038)
 - **[Survey]** P. Mattila. *Fourier Analysis and Hausdorff Dimension.* Cambridge University Press, 2015.
-- **[Survey]** K. Falconer, J. Fraser, X. Jin. *Sixty years of fractal projections.* In *Fractal Geometry and Stochastics V*, Birkhäuser, 2015, 3–25.
+- **[Survey]** K. Falconer, J. Fraser, X. Jin. *Sixty years of fractal projections.* In *Fractal Geometry and Stochastics V*, Birkhäuser, 2015, 3–25. [DOI](https://doi.org/10.1007/978-3-319-18660-3_1)
 
 ## 10. Worked Example / Concrete Special Case
 

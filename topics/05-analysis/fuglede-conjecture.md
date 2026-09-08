@@ -97,11 +97,11 @@ Leading mathematicians suggest the following pathways:
 
 ## 9. Key References
 
-- **[Foundational]** Fuglede, B. *Commuting self-adjoint partial differential operators and a group theoretic problem.* Journal of Functional Analysis, 1974.
-- **[Foundational]** Tao, T. *Fuglede's conjecture is false in 5 and higher dimensions.* Mathematical Research Letters, 2004.
-- **[SOTA / Recent]** Lev, N., and Matolcsi, M. *The Fuglede conjecture for convex domains is true in all dimensions.* Acta Mathematica, 2022.
-- **[SOTA / Recent]** Farkas, B., Matolcsi, M., and Móra, P. *On Fuglede's conjecture and the existence of universal spectra.* Journal of Fourier Analysis and Applications, 2006.
-- **[Survey]** Kolountzakis, M. N. *The study of translational tiling with Fourier Analysis.* Fourier Analysis and Convexity, 2004.
+- **[Foundational]** Fuglede, B. *Commuting self-adjoint partial differential operators and a group theoretic problem.* Journal of Functional Analysis, 1974. [DOI](https://doi.org/10.1016/0022-1236(74)90072-x)
+- **[Foundational]** Tao, T. *Fuglede's conjecture is false in 5 and higher dimensions.* Mathematical Research Letters, 2004. [DOI](https://doi.org/10.4310/mrl.2004.v11.n2.a8)
+- **[SOTA / Recent]** Lev, N., and Matolcsi, M. *The Fuglede conjecture for convex domains is true in all dimensions.* Acta Mathematica, 2022. [DOI](https://doi.org/10.4310/acta.2022.v228.n2.a3)
+- **[SOTA / Recent]** Farkas, B., Matolcsi, M., and Móra, P. *On Fuglede's conjecture and the existence of universal spectra.* Journal of Fourier Analysis and Applications, 2006. [DOI](https://doi.org/10.1007/s00041-005-5069-7)
+- **[Survey]** Kolountzakis, M. N. *The study of translational tiling with Fourier Analysis.* Fourier Analysis and Convexity, 2004. [DOI](https://doi.org/10.1007/978-0-8176-8172-2_7)
 
 ## 10. Worked Example / Concrete Special Case
 

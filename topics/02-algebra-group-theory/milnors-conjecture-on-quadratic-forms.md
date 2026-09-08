@@ -115,18 +115,18 @@ For fields, the gap is closed: $s_n$ and $h_n$ are isomorphisms, and $e_n : I^n/
 
 - **[Foundational]** J. Milnor. *Algebraic K-theory and quadratic forms.* Inventiones Mathematicae **9** (1970), 318–344.
 - **[Foundational]** A. Pfister. *Quadratische Formen in beliebigen Körpern.* Inventiones Mathematicae **1** (1966), 116–132.
-- **[Foundational]** J. Kr. Arason, A. Pfister. *Beweis des Krullschen Durchschnittsatzes für den Wittring.* Inventiones Mathematicae **12** (1971), 173–176.
+- **[Foundational]** J. Kr. Arason, A. Pfister. *Beweis des Krullschen Durchschnittsatzes für den Wittring.* Inventiones Mathematicae **12** (1971), 173–176. [DOI](https://doi.org/10.1007/bf01404657)
 - **[Key partial result]** A. S. Merkurjev. *On the norm residue symbol of degree 2.* Doklady Akademii Nauk SSSR **261** (1981), 542–547.
-- **[Key partial result]** A. S. Merkurjev, A. A. Suslin. *The norm residue homomorphism of degree three.* Izvestiya Akad. Nauk SSSR Ser. Mat. **54** (1990), 339–356.
-- **[Key partial result]** B. Jacob, M. Rost. *Degree four cohomological invariants for quadratic forms.* Inventiones Mathematicae **96** (1989), 551–570.
+- **[Key partial result]** A. S. Merkurjev, A. A. Suslin. *The norm residue homomorphism of degree three.* Izvestiya Akad. Nauk SSSR Ser. Mat. **54** (1990), 339–356. [DOI](https://doi.org/10.1070/im1991v036n02abeh002025)
+- **[Key partial result]** B. Jacob, M. Rost. *Degree four cohomological invariants for quadratic forms.* Inventiones Mathematicae **96** (1989), 551–570. [DOI](https://doi.org/10.1007/bf01393696)
 - **[Characteristic 2]** K. Kato. *Symmetric bilinear forms, quadratic forms and Milnor K-theory in characteristic two.* Inventiones Mathematicae **66** (1982), 493–510.
 - **[SOTA]** V. Voevodsky. *Motivic cohomology with $\mathbb{Z}/2$-coefficients.* Publications Mathématiques de l'IHÉS **98** (2003), 59–104.
 - **[SOTA]** D. Orlov, A. Vishik, V. Voevodsky. *An exact sequence for $K^M_*/2$ with applications to quadratic forms.* Annals of Mathematics **165** (2007), 1–13.
-- **[SOTA]** F. Morel. *Sur les puissances de l'idéal fondamental de l'anneau de Witt.* Commentarii Mathematici Helvetici **79** (2004), 689–703.
-- **[Schemes]** J. A. Jacobson. *Real cohomology and the powers of the fundamental ideal in the Witt ring.* Annals of K-Theory **2** (2017), 357–385.
+- **[SOTA]** F. Morel. *Sur les puissances de l'idéal fondamental de l'anneau de Witt.* Commentarii Mathematici Helvetici **79** (2004), 689–703. [DOI](https://doi.org/10.1007/s00014-004-0815-z)
+- **[Schemes]** J. A. Jacobson. *Real cohomology and the powers of the fundamental ideal in the Witt ring.* Annals of K-Theory **2** (2017), 357–385. [DOI](https://doi.org/10.2140/akt.2017.2.357)
 - **[Survey]** A. Pfister. *On the Milnor conjectures: history, influence, applications.* Jahresbericht der DMV **98** (1996), 15–41.
 - **[Survey / Book]** R. Elman, N. Karpenko, A. Merkurjev. *The Algebraic and Geometric Theory of Quadratic Forms.* AMS Colloquium Publications **56**, 2008.
-- **[Book]** C. Haesemeyer, C. Weibel. *The Norm Residue Theorem in Motivic Cohomology.* Annals of Mathematics Studies **200**, Princeton University Press, 2019.
+- **[Book]** C. Haesemeyer, C. Weibel. *The Norm Residue Theorem in Motivic Cohomology.* Annals of Mathematics Studies **200**, Princeton University Press, 2019. [DOI](https://doi.org/10.23943/princeton/9780691191041.001.0001)
 - **[Book]** T. Y. Lam. *Introduction to Quadratic Forms over Fields.* Graduate Studies in Mathematics **67**, AMS, 2005.
 
 ## 10. Worked Example / Concrete Special Case

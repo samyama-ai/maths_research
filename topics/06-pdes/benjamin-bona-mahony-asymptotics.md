@@ -116,20 +116,20 @@ for the non-soliton part $\eta$, **uniformly over frequency**, i.e. without a $\
 ## 9. Key References
 
 - **[Foundational]** T. B. Benjamin, J. L. Bona, J. J. Mahony. *Model equations for long waves in nonlinear dispersive systems.* Philosophical Transactions of the Royal Society of London A **272** (1972), 47–78.
-- **[Foundational]** D. H. Peregrine. *Calculations of the development of an undular bore.* Journal of Fluid Mechanics **25** (1966), 321–330.
-- **[Structure]** P. J. Olver. *Euler operators and conservation laws of the BBM equation.* Mathematical Proceedings of the Cambridge Philosophical Society **85** (1979), 143–160.
+- **[Foundational]** D. H. Peregrine. *Calculations of the development of an undular bore.* Journal of Fluid Mechanics **25** (1966), 321–330. [DOI](https://doi.org/10.1017/s0022112066001678)
+- **[Structure]** P. J. Olver. *Euler operators and conservation laws of the BBM equation.* Mathematical Proceedings of the Cambridge Philosophical Society **85** (1979), 143–160. [DOI](https://doi.org/10.1017/s0305004100055572)
 - **[Stability]** T. B. Benjamin. *The stability of solitary waves.* Proceedings of the Royal Society of London A **328** (1972), 153–183.
 - **[Stability]** J. L. Bona. *On the stability theory of solitary waves.* Proceedings of the Royal Society of London A **344** (1975), 363–374.
-- **[SOTA]** J. R. Miller, M. I. Weinstein. *Asymptotic stability of solitary waves for the regularized long-wave equation.* Communications on Pure and Applied Mathematics **49** (1996), 399–441.
-- **[SOTA]** K. El Dika. *Asymptotic stability of solitary waves for the Benjamin–Bona–Mahony equation.* Discrete and Continuous Dynamical Systems **13** (2005), 583–622.
-- **[SOTA]** K. El Dika, Y. Martel. *Stability of N solitary waves for the generalized BBM equations.* Dynamics of PDE **1** (2004), 401–437.
-- **[Dissipative case]** C. J. Amick, J. L. Bona, M. E. Schonbek. *Decay of solutions of some nonlinear wave equations.* Journal of Differential Equations **81** (1989), 1–49.
-- **[Decay]** J. P. Albert. *Dispersion of low-energy waves for the generalized Benjamin–Bona–Mahony equation.* Journal of Differential Equations **63** (1986), 117–134.
-- **[Well-posedness]** J. L. Bona, N. Tzvetkov. *Sharp well-posedness results for the BBM equation.* Discrete and Continuous Dynamical Systems **23** (2009), 1241–1252.
-- **[Instability]** P. E. Souganidis, W. A. Strauss. *Instability of a class of dispersive solitary waves.* Proceedings of the Royal Society of Edinburgh A **114** (1990), 195–212.
-- **[Recent]** C. Kwak, C. Muñoz. *Extended decay properties for generalized BBM equation.* Fields Institute Communications **83** (2019), 397–411.
+- **[SOTA]** J. R. Miller, M. I. Weinstein. *Asymptotic stability of solitary waves for the regularized long-wave equation.* Communications on Pure and Applied Mathematics **49** (1996), 399–441. [DOI](https://doi.org/10.1002/(sici)1097-0312(199604)49:4<399::aid-cpa4>3.0.co;2-7)
+- **[SOTA]** K. El Dika. *Asymptotic stability of solitary waves for the Benjamin–Bona–Mahony equation.* Discrete and Continuous Dynamical Systems **13** (2005), 583–622. [DOI](https://doi.org/10.3934/dcds.2005.13.583)
+- **[SOTA]** K. El Dika, Y. Martel. *Stability of N solitary waves for the generalized BBM equations.* Dynamics of PDE **1** (2004), 401–437. [DOI](https://doi.org/10.4310/dpde.2004.v1.n4.a3)
+- **[Dissipative case]** C. J. Amick, J. L. Bona, M. E. Schonbek. *Decay of solutions of some nonlinear wave equations.* Journal of Differential Equations **81** (1989), 1–49. [DOI](https://doi.org/10.1016/0022-0396(89)90176-9)
+- **[Decay]** J. P. Albert. *Dispersion of low-energy waves for the generalized Benjamin–Bona–Mahony equation.* Journal of Differential Equations **63** (1986), 117–134. [DOI](https://doi.org/10.1016/0022-0396(86)90057-4)
+- **[Well-posedness]** J. L. Bona, N. Tzvetkov. *Sharp well-posedness results for the BBM equation.* Discrete and Continuous Dynamical Systems **23** (2009), 1241–1252. [DOI](https://doi.org/10.3934/dcds.2009.23.1241)
+- **[Instability]** P. E. Souganidis, W. A. Strauss. *Instability of a class of dispersive solitary waves.* Proceedings of the Royal Society of Edinburgh A **114** (1990), 195–212. [DOI](https://doi.org/10.1016/s0198-0254(06)80202-5)
+- **[Recent]** C. Kwak, C. Muñoz. *Extended decay properties for generalized BBM equation.* Fields Institute Communications **83** (2019), 397–411. [DOI](https://doi.org/10.1007/978-1-4939-9806-7_8)
 - **[Numerics / model validity]** J. L. Bona, W. G. Pritchard, L. R. Scott. *An evaluation of a model equation for water waves.* Philosophical Transactions of the Royal Society of London A **302** (1981), 457–510.
-- **[Method, comparison]** Y. Martel, F. Merle. *Asymptotic stability of solitons for subcritical generalized KdV equations.* Archive for Rational Mechanics and Analysis **157** (2001), 219–254.
+- **[Method, comparison]** Y. Martel, F. Merle. *Asymptotic stability of solitons for subcritical generalized KdV equations.* Archive for Rational Mechanics and Analysis **157** (2001), 219–254. [DOI](https://doi.org/10.1007/s002050100138)
 
 ## 10. Worked Example / Concrete Special Case
 

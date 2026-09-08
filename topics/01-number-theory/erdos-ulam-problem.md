@@ -72,10 +72,10 @@ Leading researchers suggest two primary pathways for future breakthroughs:
 
 ## 9. Key References
 
-- **[Foundational]** Erdős, P., & Anning, N. H. *Integral distances*. Bulletin of the American Mathematical Society, 1945.
-- **[Foundational]** Solymosi, J., & de Zeeuw, F. *On a question of Erdős and Ulam*. Discrete & Computational Geometry, 2010.
-- **[SOTA / Recent]** Pasten, H. *Definability of Frobenius orbits and a result on rational distance sets*. Monatshefte für Mathematik, 2017.
-- **[SOTA / Recent]** Shaffaf, J. *A solution of the Erdős-Ulam problem on rational distance sets assuming the Bombieri-Lang conjecture*. Discrete & Computational Geometry, 2018.
+- **[Foundational]** Erdős, P., & Anning, N. H. *Integral distances*. Bulletin of the American Mathematical Society, 1945. [DOI](https://doi.org/10.1090/s0002-9904-1945-08490-0)
+- **[Foundational]** Solymosi, J., & de Zeeuw, F. *On a question of Erdős and Ulam*. Discrete & Computational Geometry, 2010. [DOI](https://doi.org/10.1007/s00454-009-9179-x)
+- **[SOTA / Recent]** Pasten, H. *Definability of Frobenius orbits and a result on rational distance sets*. Monatshefte für Mathematik, 2017. [DOI](https://doi.org/10.1007/s00605-016-0973-2)
+- **[SOTA / Recent]** Shaffaf, J. *A solution of the Erdős-Ulam problem on rational distance sets assuming the Bombieri-Lang conjecture*. Discrete & Computational Geometry, 2018. [DOI](https://doi.org/10.1007/s00454-018-0003-3)
 
 ## 10. Worked Example / Concrete Special Case
 

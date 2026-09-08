@@ -103,18 +103,18 @@ inducing the identity on $E_2=\widetilde{Kh}$. Equivalently: show that Szabó's 
 
 ## 9. Key References
 
-- **[Foundational]** M. Khovanov. *A categorification of the Jones polynomial.* Duke Mathematical Journal 101 (2000), 359–426.
-- **[Foundational]** P. Ozsváth, Z. Szabó. *On the Heegaard Floer homology of branched double-covers.* Advances in Mathematics 194 (2005), 1–33.
-- **[Foundational]** Z. Szabó. *A geometric spectral sequence in Khovanov homology.* Journal of Topology 8 (2015), no. 4, 1017–1044. (arXiv:1010.4252)
-- **[SOTA / Recent]** S. Sarkar, C. Seed, Z. Szabó. *A perturbation of the geometric spectral sequence in Khovanov homology.* Quantum Topology 8 (2017), no. 3, 413–457.
-- **[SOTA / Recent]** J. A. Baldwin, M. Hedden, A. Lobb. *On the functoriality of Khovanov–Floer theories.* Advances in Mathematics 345 (2019), 1162–1205.
-- **[SOTA / Recent]** J. A. Baldwin. *On the spectral sequence from Khovanov homology to Heegaard Floer homology.* International Mathematics Research Notices 2011, no. 15, 3426–3470.
-- **[SOTA / Recent]** R. Lipshitz, S. Sarkar. *A Steenrod square on Khovanov homology.* Journal of Topology 7 (2014), 817–848.
+- **[Foundational]** M. Khovanov. *A categorification of the Jones polynomial.* Duke Mathematical Journal 101 (2000), 359–426. [DOI](https://doi.org/10.1215/s0012-7094-00-10131-7)
+- **[Foundational]** P. Ozsváth, Z. Szabó. *On the Heegaard Floer homology of branched double-covers.* Advances in Mathematics 194 (2005), 1–33. [DOI](https://doi.org/10.1016/j.aim.2004.05.008)
+- **[Foundational]** Z. Szabó. *A geometric spectral sequence in Khovanov homology.* Journal of Topology 8 (2015), no. 4, 1017–1044. (arXiv:1010.4252). [DOI](https://doi.org/10.1112/jtopol/jtv027)
+- **[SOTA / Recent]** S. Sarkar, C. Seed, Z. Szabó. *A perturbation of the geometric spectral sequence in Khovanov homology.* Quantum Topology 8 (2017), no. 3, 413–457. [DOI](https://doi.org/10.4171/qt/97)
+- **[SOTA / Recent]** J. A. Baldwin, M. Hedden, A. Lobb. *On the functoriality of Khovanov–Floer theories.* Advances in Mathematics 345 (2019), 1162–1205. [DOI](https://doi.org/10.1016/j.aim.2019.01.026)
+- **[SOTA / Recent]** J. A. Baldwin. *On the spectral sequence from Khovanov homology to Heegaard Floer homology.* International Mathematics Research Notices 2011, no. 15, 3426–3470. [DOI](https://doi.org/10.1093/imrn/rnq220)
+- **[SOTA / Recent]** R. Lipshitz, S. Sarkar. *A Steenrod square on Khovanov homology.* Journal of Topology 7 (2014), 817–848. [DOI](https://doi.org/10.1112/jtopol/jtu005)
 - **[Related]** C. Manolescu, P. Ozsváth. *On the Khovanov and knot Floer homologies of quasi-alternating links.* Proceedings of the Gökova Geometry-Topology Conference 2007, 60–81, 2008.
-- **[Related]** J. M. Bloom. *A link surgery spectral sequence in monopole Floer homology.* Advances in Mathematics 226 (2011), 3216–3281.
-- **[Related]** P. B. Kronheimer, T. S. Mrowka. *Khovanov homology is an unknot-detector.* Publications Mathématiques de l'IHÉS 113 (2011), 97–208.
+- **[Related]** J. M. Bloom. *A link surgery spectral sequence in monopole Floer homology.* Advances in Mathematics 226 (2011), 3216–3281. [DOI](https://doi.org/10.1016/j.aim.2010.10.014)
+- **[Related]** P. B. Kronheimer, T. S. Mrowka. *Khovanov homology is an unknot-detector.* Publications Mathématiques de l'IHÉS 113 (2011), 97–208. [DOI](https://doi.org/10.1007/s10240-010-0030-y)
 - **[Related]** R. Lipshitz, P. Ozsváth, D. Thurston. *Bordered Heegaard Floer homology.* Memoirs of the American Mathematical Society, vol. 254, no. 1216, 2018.
-- **[Survey]** P. Turner. *Five lectures on Khovanov homology.* Journal of Knot Theory and Its Ramifications 26 (2017), no. 3.
+- **[Survey]** P. Turner. *Five lectures on Khovanov homology.* Journal of Knot Theory and Its Ramifications 26 (2017), no. 3. [DOI](https://doi.org/10.1142/s0218216517410097)
 - **[Software]** C. Seed. *knotkit* — computer program for Khovanov homology and the Szabó spectral sequence.
 
 ## 10. Worked Example / Concrete Special Case

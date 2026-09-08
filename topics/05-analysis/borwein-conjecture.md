@@ -105,14 +105,14 @@ The first conjecture is closed. The open boundary is:
 
 ## 9. Key References
 
-- **[Foundational]** G. E. Andrews. *On a conjecture of Peter Borwein.* Journal of Symbolic Computation **20** (1995), 487–501.
+- **[Foundational]** G. E. Andrews. *On a conjecture of Peter Borwein.* Journal of Symbolic Computation **20** (1995), 487–501. [DOI](https://doi.org/10.1006/jsco.1995.1061)
 - **[Foundational]** G. E. Andrews. *The Theory of Partitions.* Cambridge University Press, 1984 (reissued 1998).
-- **[Structural]** D. M. Bressoud. *The Borwein conjecture and partitions with prescribed hook differences.* Electronic Journal of Combinatorics **3** (2), (1996), #R4.
-- **[Analytic]** M. E. H. Ismail, D. Kim, D. Stanton. *Lattice paths and positive trigonometric sums.* Constructive Approximation **15** (1999), 69–81.
-- **[SOTA / Algebraic]** S. O. Warnaar. *The generalized Borwein conjecture. I. The Burge transform.* In *q-Series with Applications to Combinatorics, Number Theory and Physics*, Contemporary Mathematics **291**, AMS, 2001, 243–267.
-- **[SOTA / Algebraic]** S. O. Warnaar. *The generalized Borwein conjecture. II. Refined q-trinomial coefficients.* Discrete Mathematics **272** (2003), 215–258.
-- **[SOTA / Algebraic]** A. Berkovich, S. O. Warnaar. *Positivity preserving transformations for q-binomial coefficients.* Transactions of the American Mathematical Society **357** (2005), 2291–2351.
-- **[SOTA / Recent]** C. Wang. *An analytic proof of the Borwein conjecture.* Advances in Mathematics **394** (2022), Paper 108028 (arXiv:1901.10886).
+- **[Structural]** D. M. Bressoud. *The Borwein conjecture and partitions with prescribed hook differences.* Electronic Journal of Combinatorics **3** (2), (1996), #R4. [DOI](https://doi.org/10.37236/1262)
+- **[Analytic]** M. E. H. Ismail, D. Kim, D. Stanton. *Lattice paths and positive trigonometric sums.* Constructive Approximation **15** (1999), 69–81. [DOI](https://doi.org/10.1007/s003659900097)
+- **[SOTA / Algebraic]** S. O. Warnaar. *The generalized Borwein conjecture. I. The Burge transform.* In *q-Series with Applications to Combinatorics, Number Theory and Physics*, Contemporary Mathematics **291**, AMS, 2001, 243–267. [DOI](https://doi.org/10.1090/conm/291/04906)
+- **[SOTA / Algebraic]** S. O. Warnaar. *The generalized Borwein conjecture. II. Refined q-trinomial coefficients.* Discrete Mathematics **272** (2003), 215–258. [DOI](https://doi.org/10.1016/s0012-365x(03)00047-5)
+- **[SOTA / Algebraic]** A. Berkovich, S. O. Warnaar. *Positivity preserving transformations for q-binomial coefficients.* Transactions of the American Mathematical Society **357** (2005), 2291–2351. [DOI](https://doi.org/10.1090/s0002-9947-04-03680-3)
+- **[SOTA / Recent]** C. Wang. *An analytic proof of the Borwein conjecture.* Advances in Mathematics **394** (2022), Paper 108028 (arXiv:1901.10886). [DOI](https://doi.org/10.1016/j.aim.2021.108028)
 
 ## 10. Worked Example / Concrete Special Case
 

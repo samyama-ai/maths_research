@@ -120,12 +120,12 @@ Leading mathematicians have outlined the following open pathways:
 
 ## 9. Key References
 
-- **[Foundational]** McMullen, P. *The numbers of faces of simplicial polytopes.* Israel Journal of Mathematics, 9(4), 1971.
-- **[Foundational]** Stanley, R. P. *The number of faces of a simplicial convex polytope.* Advances in Mathematics, 35(3), 1980.
-- **[Foundational]** Billera, L. J., & Lee, C. W. *A proof of the sufficiency of McMullen's conditions for f-vectors of simplicial polytopes.* Journal of Combinatorial Theory, Series A, 31(3), 1981.
+- **[Foundational]** McMullen, P. *The numbers of faces of simplicial polytopes.* Israel Journal of Mathematics, 9(4), 1971. [DOI](https://doi.org/10.1007/bf02771471)
+- **[Foundational]** Stanley, R. P. *The number of faces of a simplicial convex polytope.* Advances in Mathematics, 35(3), 1980. [DOI](https://doi.org/10.1016/0001-8708(80)90050-x)
+- **[Foundational]** Billera, L. J., & Lee, C. W. *A proof of the sufficiency of McMullen's conditions for f-vectors of simplicial polytopes.* Journal of Combinatorial Theory, Series A, 31(3), 1981. [DOI](https://doi.org/10.1016/0097-3165(81)90058-3)
 - **[SOTA / Recent]** Adiprasito, K. *Combinatorial Lefschetz theorems beyond projectivity and extremal resolutions.* Annals of Mathematics, 192(3), 2020.
 - **[Survey]** Swartz, E. *Thirty-five years and counting.* arXiv:1411.0987, 2014.
-- **[Survey]** Kalai, G. *Rigidity and the lower bound theorem.* Inventiones mathematicae, 88(1), 1987.
+- **[Survey]** Kalai, G. *Rigidity and the lower bound theorem.* Inventiones mathematicae, 88(1), 1987. [DOI](https://doi.org/10.1007/bf01405094)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -109,23 +109,23 @@ Proven: the vanishing $K_{p,2}=0$ for $p < \operatorname{Cliff}(C)$ whenever $C$
 
 ## 9. Key References
 
-- **[Foundational]** Green, M. *Koszul cohomology and the geometry of projective varieties.* Journal of Differential Geometry **19** (1984), 125–171.
-- **[Foundational]** Green, M., Lazarsfeld, R. *On the projective normality of complete linear series on an algebraic curve* (with an appendix). Inventiones Mathematicae **83** (1986), 73–90.
-- **[Foundational]** Schreyer, F.-O. *Syzygies of canonical curves and special linear series.* Mathematische Annalen **275** (1986), 105–137.
-- **[Partial]** Voisin, C. *Courbes tétragonales et cohomologie de Koszul.* Journal für die reine und angewandte Mathematik **387** (1988), 111–121.
-- **[Partial]** Hirschowitz, A., Ramanan, S. *New evidence for Green's conjecture on syzygies of canonical curves.* Annales Scientifiques de l'École Normale Supérieure **31** (1998), 145–152.
-- **[SOTA]** Voisin, C. *Green's generic syzygy conjecture for curves of even genus lying on a K3 surface.* Journal of the European Mathematical Society **4** (2002), 363–404.
-- **[SOTA]** Voisin, C. *Green's canonical syzygy conjecture for generic curves of odd genus.* Compositio Mathematica **141** (2005), 1163–1190.
-- **[SOTA]** Teixidor i Bigas, M. *Green's conjecture for the generic $r$-gonal curve of genus $g \ge 3r-7$.* Duke Mathematical Journal **111** (2002), 195–222.
-- **[SOTA]** Aprodu, M. *Remarks on syzygies of $d$-gonal curves.* Mathematical Research Letters **12** (2005), 387–400.
+- **[Foundational]** Green, M. *Koszul cohomology and the geometry of projective varieties.* Journal of Differential Geometry **19** (1984), 125–171. [DOI](https://doi.org/10.4310/jdg/1214438426)
+- **[Foundational]** Green, M., Lazarsfeld, R. *On the projective normality of complete linear series on an algebraic curve* (with an appendix). Inventiones Mathematicae **83** (1986), 73–90. [DOI](https://doi.org/10.1007/bf01388754)
+- **[Foundational]** Schreyer, F.-O. *Syzygies of canonical curves and special linear series.* Mathematische Annalen **275** (1986), 105–137. [DOI](https://doi.org/10.1007/bf01458587)
+- **[Partial]** Voisin, C. *Courbes tétragonales et cohomologie de Koszul.* Journal für die reine und angewandte Mathematik **387** (1988), 111–121. [DOI](https://doi.org/10.1515/crll.1988.387.111)
+- **[Partial]** Hirschowitz, A., Ramanan, S. *New evidence for Green's conjecture on syzygies of canonical curves.* Annales Scientifiques de l'École Normale Supérieure **31** (1998), 145–152. [DOI](https://doi.org/10.1016/s0012-9593(98)80013-x)
+- **[SOTA]** Voisin, C. *Green's generic syzygy conjecture for curves of even genus lying on a K3 surface.* Journal of the European Mathematical Society **4** (2002), 363–404. [DOI](https://doi.org/10.1007/s100970200042)
+- **[SOTA]** Voisin, C. *Green's canonical syzygy conjecture for generic curves of odd genus.* Compositio Mathematica **141** (2005), 1163–1190. [DOI](https://doi.org/10.1112/s0010437x05001387)
+- **[SOTA]** Teixidor i Bigas, M. *Green's conjecture for the generic $r$-gonal curve of genus $g \ge 3r-7$.* Duke Mathematical Journal **111** (2002), 195–222. [DOI](https://doi.org/10.1215/s0012-7094-02-11121-1)
+- **[SOTA]** Aprodu, M. *Remarks on syzygies of $d$-gonal curves.* Mathematical Research Letters **12** (2005), 387–400. [DOI](https://doi.org/10.4310/mrl.2005.v12.n3.a9)
 - **[SOTA]** Aprodu, M., Farkas, G. *Green's conjecture for curves on arbitrary K3 surfaces.* Compositio Mathematica **147** (2011), 839–851.
-- **[SOTA / Recent]** Aprodu, M., Farkas, G., Papadima, Ş., Raicu, C., Weyman, J. *Koszul modules and Green's conjecture.* Inventiones Mathematicae **218** (2019), 657–720.
-- **[SOTA / Recent]** Raicu, C., Sam, S. *Bi-graded Koszul modules, K3 carpets, and Green's conjecture.* Compositio Mathematica **158** (2022), 33–56.
-- **[SOTA / Recent]** Ein, L., Lazarsfeld, R. *The gonality conjecture on syzygies of algebraic curves of large degree.* Publications Mathématiques de l'IHÉS **122** (2015), 301–313.
-- **[Related]** Farkas, G., Kemeny, M. *The generic Green–Lazarsfeld secant conjecture.* Inventiones Mathematicae **203** (2016), 265–301.
-- **[Survey]** Aprodu, M., Nagel, J. *Koszul Cohomology and Algebraic Geometry.* AMS University Lecture Series **52**, 2010.
-- **[Survey]** Eisenbud, D. *The Geometry of Syzygies.* Graduate Texts in Mathematics **229**, Springer, 2005.
-- **[Survey]** Farkas, G. *Progress on syzygies of algebraic curves.* In *Moduli of Curves*, Lecture Notes of the Unione Matematica Italiana **21**, Springer, 2017.
+- **[SOTA / Recent]** Aprodu, M., Farkas, G., Papadima, Ş., Raicu, C., Weyman, J. *Koszul modules and Green's conjecture.* Inventiones Mathematicae **218** (2019), 657–720. [DOI](https://doi.org/10.1007/s00222-019-00894-1)
+- **[SOTA / Recent]** Raicu, C., Sam, S. *Bi-graded Koszul modules, K3 carpets, and Green's conjecture.* Compositio Mathematica **158** (2022), 33–56. [DOI](https://doi.org/10.1112/s0010437x21007703)
+- **[SOTA / Recent]** Ein, L., Lazarsfeld, R. *The gonality conjecture on syzygies of algebraic curves of large degree.* Publications Mathématiques de l'IHÉS **122** (2015), 301–313. [DOI](https://doi.org/10.1007/s10240-015-0072-2)
+- **[Related]** Farkas, G., Kemeny, M. *The generic Green–Lazarsfeld secant conjecture.* Inventiones Mathematicae **203** (2016), 265–301. [DOI](https://doi.org/10.1007/s00222-015-0595-7)
+- **[Survey]** Aprodu, M., Nagel, J. *Koszul Cohomology and Algebraic Geometry.* AMS University Lecture Series **52**, 2010. [DOI](https://doi.org/10.1090/ulect/052)
+- **[Survey]** Eisenbud, D. *The Geometry of Syzygies.* Graduate Texts in Mathematics **229**, Springer, 2005. [DOI](https://doi.org/10.1007/b137572)
+- **[Survey]** Farkas, G. *Progress on syzygies of algebraic curves.* In *Moduli of Curves*, Lecture Notes of the Unione Matematica Italiana **21**, Springer, 2017. [DOI](https://doi.org/10.1007/978-3-319-59486-6_4)
 
 ## 10. Worked Example / Concrete Special Case
 

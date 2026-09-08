@@ -109,12 +109,12 @@ Leading mathematicians have outlined several open pathways extending from Geomet
 
 ## 9. Key References
 
-- **[Foundational]** Thurston, W. P. *Three-dimensional manifolds, Kleinian groups and hyperbolic geometry.* Bulletin of the American Mathematical Society, 1982.
-- **[Foundational]** Hamilton, R. S. *Three-manifolds with positive Ricci curvature.* Journal of Differential Geometry, 1982.
+- **[Foundational]** Thurston, W. P. *Three-dimensional manifolds, Kleinian groups and hyperbolic geometry.* Bulletin of the American Mathematical Society, 1982. [DOI](https://doi.org/10.1090/s0273-0979-1982-15003-0)
+- **[Foundational]** Hamilton, R. S. *Three-manifolds with positive Ricci curvature.* Journal of Differential Geometry, 1982. [DOI](https://doi.org/10.4310/jdg/1214436922)
 - **[SOTA / Recent]** Perelman, G. *The entropy formula for the Ricci flow and its geometric applications.* arXiv:math.DG/0211159, 2002.
 - **[SOTA / Recent]** Bamler, R. H. *Structure theory of non-collapsed limits of Ricci flows.* arXiv:2009.03243, 2020.
 - **[Survey]** Kleiner, B., & Lott, J. *Notes on Perelman's papers.* Geometry & Topology, 2008. (Stable link: [arXiv:math/0605667](https://arxiv.org/abs/math/0605667))
-- **[Survey]** Morgan, J., & Tian, G. *Ricci Flow and the Poincaré Conjecture.* Clay Mathematics Monographs, 2007.
+- **[Survey]** Morgan, J., & Tian, G. *Ricci Flow and the Poincaré Conjecture.* Clay Mathematics Monographs, 2007. [DOI](https://doi.org/10.1007/bf02986174)
 
 ## 10. Worked Example / Concrete Special Case
 

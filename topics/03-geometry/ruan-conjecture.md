@@ -109,21 +109,21 @@ Unproven: the conjecture for a general Gorenstein orbifold or a general $K$-equi
 
 ## 9. Key References
 
-- **[Foundational]** Y. Ruan. *Surgery, quantum cohomology and birational geometry.* In: Northern California Symplectic Geometry Seminar, AMS Translations Ser. 2, vol. 196, 1999, 183–198.
-- **[Foundational]** W. Chen and Y. Ruan. *A new cohomology theory of orbifold.* Communications in Mathematical Physics 248 (2004), 1–31.
-- **[Foundational]** Y. Ruan. *The cohomology ring of crepant resolutions of orbifolds.* In: Gromov–Witten Theory of Spin Curves and Orbifolds, Contemporary Mathematics 403, AMS, 2006, 117–126.
-- **[Foundational]** A.-M. Li and Y. Ruan. *Symplectic surgery and Gromov–Witten invariants of Calabi–Yau 3-folds.* Inventiones Mathematicae 145 (2001), 151–218.
+- **[Foundational]** Y. Ruan. *Surgery, quantum cohomology and birational geometry.* In: Northern California Symplectic Geometry Seminar, AMS Translations Ser. 2, vol. 196, 1999, 183–198. [DOI](https://doi.org/10.1090/trans2/196/09)
+- **[Foundational]** W. Chen and Y. Ruan. *A new cohomology theory of orbifold.* Communications in Mathematical Physics 248 (2004), 1–31. [DOI](https://doi.org/10.1007/s00220-004-1089-4)
+- **[Foundational]** Y. Ruan. *The cohomology ring of crepant resolutions of orbifolds.* In: Gromov–Witten Theory of Spin Curves and Orbifolds, Contemporary Mathematics 403, AMS, 2006, 117–126. [DOI](https://doi.org/10.1090/conm/403/07597)
+- **[Foundational]** A.-M. Li and Y. Ruan. *Symplectic surgery and Gromov–Witten invariants of Calabi–Yau 3-folds.* Inventiones Mathematicae 145 (2001), 151–218. [DOI](https://doi.org/10.1007/s002220100146)
 - **[SOTA]** J. Bryan and T. Graber. *The crepant resolution conjecture.* Proceedings of Symposia in Pure Mathematics 80.1 (2009), 23–42.
-- **[SOTA]** T. Coates and Y. Ruan. *Quantum cohomology and crepant resolutions: a conjecture.* Annales de l'Institut Fourier 63 (2013), 431–478.
-- **[SOTA]** T. Coates, H. Iritani and H.-H. Tseng. *Wall-crossings in toric Gromov–Witten theory I: crepant examples.* Geometry & Topology 13 (2009), 2675–2744.
-- **[SOTA]** T. Coates, H. Iritani and Y. Jiang. *The crepant transformation conjecture for toric complete intersections.* Advances in Mathematics 329 (2018), 1002–1087.
-- **[SOTA]** Y.-P. Lee, H.-W. Lin and C.-L. Wang. *Flops, motives, and invariance of quantum rings.* Annals of Mathematics 172 (2010), 243–290.
+- **[SOTA]** T. Coates and Y. Ruan. *Quantum cohomology and crepant resolutions: a conjecture.* Annales de l'Institut Fourier 63 (2013), 431–478. [DOI](https://doi.org/10.5802/aif.2766)
+- **[SOTA]** T. Coates, H. Iritani and H.-H. Tseng. *Wall-crossings in toric Gromov–Witten theory I: crepant examples.* Geometry & Topology 13 (2009), 2675–2744. [DOI](https://doi.org/10.2140/gt.2009.13.2675)
+- **[SOTA]** T. Coates, H. Iritani and Y. Jiang. *The crepant transformation conjecture for toric complete intersections.* Advances in Mathematics 329 (2018), 1002–1087. [DOI](https://doi.org/10.1016/j.aim.2017.11.017)
+- **[SOTA]** Y.-P. Lee, H.-W. Lin and C.-L. Wang. *Flops, motives, and invariance of quantum rings.* Annals of Mathematics 172 (2010), 243–290. [DOI](https://doi.org/10.4007/annals.2010.172.243)
 - **[SOTA]** Y.-P. Lee, H.-W. Lin and C.-L. Wang. *Invariance of quantum rings under ordinary flops I, II.* Algebraic Geometry 3 (2016).
-- **[SOTA]** H. Iritani. *An integral structure in quantum cohomology and mirror symmetry for toric orbifolds.* Advances in Mathematics 222 (2009), 1016–1079.
-- **[SOTA]** J. Bryan and A. Gholampour. *The quantum McKay correspondence for polyhedral singularities.* Inventiones Mathematicae 178 (2009), 655–681.
+- **[SOTA]** H. Iritani. *An integral structure in quantum cohomology and mirror symmetry for toric orbifolds.* Advances in Mathematics 222 (2009), 1016–1079. [DOI](https://doi.org/10.1016/j.aim.2009.05.016)
+- **[SOTA]** J. Bryan and A. Gholampour. *The quantum McKay correspondence for polyhedral singularities.* Inventiones Mathematicae 178 (2009), 655–681. [DOI](https://doi.org/10.1007/s00222-009-0212-8)
 - **[SOTA]** H. Lho and R. Pandharipande. *Crepant resolution and the holomorphic anomaly equation for $[\mathbb{C}^3/\mathbb{Z}_3]$.* Proceedings of the London Mathematical Society 119 (2019), 781–813.
-- **[Survey]** T. Coates, A. Corti, H. Iritani and H.-H. Tseng. *Hodge-theoretic mirror symmetry for toric stacks.* Journal of Differential Geometry 114 (2020), 41–115.
-- **[Survey]** C.-L. Wang. *K-equivalence in birational geometry and characterizations of complex elliptic genera.* Journal of Algebraic Geometry 12 (2003), 285–306.
+- **[Survey]** T. Coates, A. Corti, H. Iritani and H.-H. Tseng. *Hodge-theoretic mirror symmetry for toric stacks.* Journal of Differential Geometry 114 (2020), 41–115. [DOI](https://doi.org/10.4310/jdg/1577502022)
+- **[Survey]** C.-L. Wang. *K-equivalence in birational geometry and characterizations of complex elliptic genera.* Journal of Algebraic Geometry 12 (2003), 285–306. [DOI](https://doi.org/10.1090/s1056-3911-02-00312-0)
 
 ## 10. Worked Example / Concrete Special Case
 

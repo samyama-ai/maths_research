@@ -120,19 +120,19 @@ The exact missing step is a **two-sided rank computation**: a construction funct
 
 ## 9. Key References
 
-- **[Foundational]** A. A. Beilinson. *Higher regulators and values of $L$-functions.* Itogi Nauki i Tekhniki, Sovremennye Problemy Matematiki 24 (1984), 181–238; English transl. J. Soviet Math. 30 (1985), 2036–2070.
+- **[Foundational]** A. A. Beilinson. *Higher regulators and values of $L$-functions.* Itogi Nauki i Tekhniki, Sovremennye Problemy Matematiki 24 (1984), 181–238; English transl. J. Soviet Math. 30 (1985), 2036–2070. [DOI](https://doi.org/10.1007/bf02105861)
 - **[Foundational]** A. Borel. *Cohomologie de $SL_n$ et valeurs de fonctions zêta aux points entiers.* Ann. Scuola Norm. Sup. Pisa Cl. Sci. (4) 4 (1977), 613–636.
-- **[Foundational]** P. Deligne. *Valeurs de fonctions $L$ et périodes d'intégrales.* Proc. Sympos. Pure Math. 33.2, AMS, 1979, 313–346.
+- **[Foundational]** P. Deligne. *Valeurs de fonctions $L$ et périodes d'intégrales.* Proc. Sympos. Pure Math. 33.2, AMS, 1979, 313–346. [DOI](https://doi.org/10.1090/pspum/033.2/546622)
 - **[Foundational]** S. Bloch, K. Kato. *$L$-functions and Tamagawa numbers of motives.* The Grothendieck Festschrift, Vol. I, Progr. Math. 86, Birkhäuser, 1990, 333–400.
 - **[Survey]** M. Rapoport, N. Schappacher, P. Schneider (eds.). *Beilinson's Conjectures on Special Values of $L$-Functions.* Perspectives in Mathematics 4, Academic Press, 1988 (incl. P. Schneider, *Introduction to the Beilinson conjectures*).
 - **[Survey]** J. Nekovář. *Beilinson's conjectures.* In: Motives, Proc. Sympos. Pure Math. 55.1, AMS, 1994, 537–570.
-- **[Survey]** J. I. Burgos Gil. *The Regulators of Beilinson and Borel.* CRM Monograph Series 15, AMS, 2002.
-- **[Partial]** A. Beilinson. *Higher regulators of modular curves.* Contemp. Math. 55 (1986), 1–34.
-- **[Partial]** C. Deninger. *Higher regulators and Hecke $L$-series of imaginary quadratic fields I.* Invent. Math. 96 (1989), 1–69; *II*, Ann. of Math. 132 (1990), 131–158.
-- **[Partial]** G. Kings. *Higher regulators, Hilbert modular surfaces, and special values of $L$-functions.* Duke Math. J. 92 (1998), 61–127.
-- **[Partial]** A. Huber, G. Kings. *Bloch–Kato conjecture and Main Conjecture of Iwasawa theory for Dirichlet characters.* Duke Math. J. 119 (2003), 393–464.
+- **[Survey]** J. I. Burgos Gil. *The Regulators of Beilinson and Borel.* CRM Monograph Series 15, AMS, 2002. [DOI](https://doi.org/10.1090/crmm/015)
+- **[Partial]** A. Beilinson. *Higher regulators of modular curves.* Contemp. Math. 55 (1986), 1–34. [DOI](https://doi.org/10.1090/conm/055.1/862627)
+- **[Partial]** C. Deninger. *Higher regulators and Hecke $L$-series of imaginary quadratic fields I.* Invent. Math. 96 (1989), 1–69; *II*, Ann. of Math. 132 (1990), 131–158. [DOI](https://doi.org/10.2307/1971502)
+- **[Partial]** G. Kings. *Higher regulators, Hilbert modular surfaces, and special values of $L$-functions.* Duke Math. J. 92 (1998), 61–127. [DOI](https://doi.org/10.1215/s0012-7094-98-09202-x)
+- **[Partial]** A. Huber, G. Kings. *Bloch–Kato conjecture and Main Conjecture of Iwasawa theory for Dirichlet characters.* Duke Math. J. 119 (2003), 393–464. [DOI](https://doi.org/10.1215/s0012-7094-03-11931-6)
 - **[Partial]** K. Kato. *$p$-adic Hodge theory and values of zeta functions of modular forms.* Astérisque 295 (2004), 117–290.
-- **[Structural]** A. J. Scholl. *Integral elements in $K$-theory and products of modular curves.* NATO Sci. Ser. C 548, Kluwer, 2000, 467–489.
+- **[Structural]** A. J. Scholl. *Integral elements in $K$-theory and products of modular curves.* NATO Sci. Ser. C 548, Kluwer, 2000, 467–489. [DOI](https://doi.org/10.1007/978-94-011-4098-0_17)
 - **[Computational]** S. Bloch, D. Grayson. *$K_2$ and $L$-functions of elliptic curves: computer calculations.* Contemp. Math. 55 (1986), 79–88.
 - **[SOTA / Recent]** T. Dokchitser, R. de Jeu, D. Zagier. *Numerical verification of Beilinson's conjecture for $K_2$ of hyperelliptic curves.* Compositio Math. 142 (2006), 339–373.
 - **[SOTA / Recent]** F. Brunault, W. Zudilin. *Many Variations of Mahler Measures: A Lasting Symphony.* Aust. Math. Soc. Lecture Series 28, Cambridge University Press, 2020.

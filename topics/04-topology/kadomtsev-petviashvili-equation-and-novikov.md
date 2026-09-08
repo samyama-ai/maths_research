@@ -105,20 +105,20 @@ The original conjecture has no gap: Section 4 covers Section 1. The live boundar
 ## 9. Key References
 
 - **[Foundational]** B. B. Kadomtsev, V. I. Petviashvili. *On the stability of solitary waves in weakly dispersing media.* Soviet Physics Doklady **15** (1970), 539–541.
-- **[Foundational]** B. A. Dubrovin, V. B. Matveev, S. P. Novikov. *Non-linear equations of Korteweg–de Vries type, finite-zone linear operators, and Abelian varieties.* Russian Mathematical Surveys **31**(1) (1976), 59–146.
-- **[Foundational]** I. M. Krichever. *Methods of algebraic geometry in the theory of non-linear equations.* Russian Mathematical Surveys **32**(6) (1977), 185–213.
-- **[Foundational]** E. Arbarello, C. De Concini. *On a set of equations characterizing Riemann matrices.* Annals of Mathematics **120** (1984), 119–140.
-- **[Foundational]** M. Mulase. *Cohomological structure in soliton equations and Jacobian varieties.* Journal of Differential Geometry **19** (1984), 403–430.
-- **[Foundational]** G. E. Welters. *A criterion for Jacobi varieties.* Annals of Mathematics **120** (1984), 497–504.
-- **[Resolution]** T. Shiota. *Characterization of Jacobian varieties in terms of soliton equations.* Inventiones Mathematicae **83** (1986), 333–382.
-- **[Resolution]** E. Arbarello, C. De Concini. *Another proof of a conjecture of S. P. Novikov on periods of abelian integrals on Riemann surfaces.* Duke Mathematical Journal **54** (1987), 163–178.
-- **[SOTA / Recent]** I. Krichever. *Characterizing Jacobians via trisecants of the Kummer variety.* Annals of Mathematics **172** (2010), 485–516.
-- **[SOTA / Recent]** S. Grushevsky, I. Krichever. *Integrable discrete Schrödinger equations and a characterization of Prym varieties by a pair of quadrisecants.* Duke Mathematical Journal **152** (2010), 317–371.
-- **[Related]** A. Beauville, O. Debarre. *Une relation entre deux approches du problème de Schottky.* Inventiones Mathematicae **86** (1986), 195–207.
-- **[Related]** G. Segal, G. Wilson. *Loop groups and equations of KdV type.* Publications Mathématiques de l'IHÉS **61** (1985), 5–65.
-- **[Related]** M. Marini. *A geometrical proof of Shiota's theorem on a conjecture of S. P. Novikov.* Compositio Mathematica **111** (1998), 305–322.
-- **[Survey]** S. Grushevsky. *The Schottky problem.* In *Current Developments in Algebraic Geometry*, MSRI Publications **59**, Cambridge University Press, 2012, 129–164.
-- **[Survey]** O. Debarre. *The Schottky problem: an update.* In *Complex Algebraic Geometry*, MSRI Publications **28**, Cambridge University Press, 1995, 57–64.
+- **[Foundational]** B. A. Dubrovin, V. B. Matveev, S. P. Novikov. *Non-linear equations of Korteweg–de Vries type, finite-zone linear operators, and Abelian varieties.* Russian Mathematical Surveys **31**(1) (1976), 59–146. [DOI](https://doi.org/10.1070/rm1976v031n01abeh001446)
+- **[Foundational]** I. M. Krichever. *Methods of algebraic geometry in the theory of non-linear equations.* Russian Mathematical Surveys **32**(6) (1977), 185–213. [DOI](https://doi.org/10.1070/rm1977v032n06abeh003862)
+- **[Foundational]** E. Arbarello, C. De Concini. *On a set of equations characterizing Riemann matrices.* Annals of Mathematics **120** (1984), 119–140. [DOI](https://doi.org/10.2307/2007073)
+- **[Foundational]** M. Mulase. *Cohomological structure in soliton equations and Jacobian varieties.* Journal of Differential Geometry **19** (1984), 403–430. [DOI](https://doi.org/10.4310/jdg/1214438685)
+- **[Foundational]** G. E. Welters. *A criterion for Jacobi varieties.* Annals of Mathematics **120** (1984), 497–504. [DOI](https://doi.org/10.2307/1971084)
+- **[Resolution]** T. Shiota. *Characterization of Jacobian varieties in terms of soliton equations.* Inventiones Mathematicae **83** (1986), 333–382. [DOI](https://doi.org/10.1007/bf01388967)
+- **[Resolution]** E. Arbarello, C. De Concini. *Another proof of a conjecture of S. P. Novikov on periods of abelian integrals on Riemann surfaces.* Duke Mathematical Journal **54** (1987), 163–178. [DOI](https://doi.org/10.1215/s0012-7094-87-05412-3)
+- **[SOTA / Recent]** I. Krichever. *Characterizing Jacobians via trisecants of the Kummer variety.* Annals of Mathematics **172** (2010), 485–516. [DOI](https://doi.org/10.4007/annals.2010.172.485)
+- **[SOTA / Recent]** S. Grushevsky, I. Krichever. *Integrable discrete Schrödinger equations and a characterization of Prym varieties by a pair of quadrisecants.* Duke Mathematical Journal **152** (2010), 317–371. [DOI](https://doi.org/10.1215/00127094-2010-014)
+- **[Related]** A. Beauville, O. Debarre. *Une relation entre deux approches du problème de Schottky.* Inventiones Mathematicae **86** (1986), 195–207. [DOI](https://doi.org/10.1007/bf01391500)
+- **[Related]** G. Segal, G. Wilson. *Loop groups and equations of KdV type.* Publications Mathématiques de l'IHÉS **61** (1985), 5–65. [DOI](https://doi.org/10.1007/bf02698802)
+- **[Related]** M. Marini. *A geometrical proof of Shiota's theorem on a conjecture of S. P. Novikov.* Compositio Mathematica **111** (1998), 305–322. [DOI](https://doi.org/10.1023/a:1000310019510)
+- **[Survey]** S. Grushevsky. *The Schottky problem.* In *Current Developments in Algebraic Geometry*, MSRI Publications **59**, Cambridge University Press, 2012, 129–164. [DOI](https://doi.org/10.1017/9781139032766.007)
+- **[Survey]** O. Debarre. *The Schottky problem: an update.* In *Complex Algebraic Geometry*, MSRI Publications **28**, Cambridge University Press, 1995, 57–64. [DOI](https://doi.org/10.1017/9781009701877.005)
 - **[Book]** D. Mumford. *Tata Lectures on Theta II.* Birkhäuser, 1984 (reprint 2007, with Arbarello's appendix surveying the Schottky problem).
 
 ## 10. Worked Example / Concrete Special Case

@@ -128,25 +128,25 @@ Concretely, the missing step is a **coupled acoustical–gravitational energy es
 
 ## 9. Key References
 
-- **[Foundational]** D. Christodoulou. *The Formation of Shocks in 3-Dimensional Fluids.* EMS Monographs in Mathematics, European Mathematical Society, 2007.
+- **[Foundational]** D. Christodoulou. *The Formation of Shocks in 3-Dimensional Fluids.* EMS Monographs in Mathematics, European Mathematical Society, 2007. [DOI](https://doi.org/10.4171/031)
 - **[Foundational]** D. Christodoulou, S. Miao. *Compressible Flow and Euler's Equations.* Surveys of Modern Mathematics 9, International Press, 2014.
-- **[Foundational]** D. Christodoulou. *The Shock Development Problem.* EMS Monographs in Mathematics, European Mathematical Society, 2019.
-- **[Foundational]** A. D. Rendall. *The initial value problem for a class of general relativistic fluid bodies.* Journal of Mathematical Physics 33 (1992), 1047–1053.
+- **[Foundational]** D. Christodoulou. *The Shock Development Problem.* EMS Monographs in Mathematics, European Mathematical Society, 2019. [DOI](https://doi.org/10.4171/192)
+- **[Foundational]** A. D. Rendall. *The initial value problem for a class of general relativistic fluid bodies.* Journal of Mathematical Physics 33 (1992), 1047–1053. [DOI](https://doi.org/10.1063/1.529766)
 - **[Foundational]** Y. Choquet-Bruhat. *General Relativity and the Einstein Equations.* Oxford University Press, 2009.
-- **[SOTA / Recent]** J. Luk, J. Speck. *Shock formation in solutions to the 2D compressible Euler equations in the presence of non-zero vorticity.* Inventiones Mathematicae 214 (2018), 1–169.
-- **[SOTA / Recent]** M. M. Disconzi, J. Speck. *The relativistic Euler equations: Remarkable null structures and regularity properties.* Annales Henri Poincaré 20 (2019), 2173–2270.
-- **[SOTA / Recent]** T. Buckmaster, S. Shkoller, V. Vicol. *Formation of point shocks for 3D compressible Euler.* Communications on Pure and Applied Mathematics 76 (2023), 2073–2191.
-- **[SOTA / Recent]** S. Miao, P. Yu. *On the formation of shocks for quasilinear wave equations.* Inventiones Mathematicae 207 (2017), 697–831.
-- **[SOTA / Recent]** M. M. Disconzi, C. Luo, G. Mazzone, J. Speck. *Rough sound waves in 3D compressible Euler flow with vorticity.* Selecta Mathematica 28 (2022), Article 41.
+- **[SOTA / Recent]** J. Luk, J. Speck. *Shock formation in solutions to the 2D compressible Euler equations in the presence of non-zero vorticity.* Inventiones Mathematicae 214 (2018), 1–169. [DOI](https://doi.org/10.1007/s00222-018-0799-8)
+- **[SOTA / Recent]** M. M. Disconzi, J. Speck. *The relativistic Euler equations: Remarkable null structures and regularity properties.* Annales Henri Poincaré 20 (2019), 2173–2270. [DOI](https://doi.org/10.1007/s00023-019-00801-7)
+- **[SOTA / Recent]** T. Buckmaster, S. Shkoller, V. Vicol. *Formation of point shocks for 3D compressible Euler.* Communications on Pure and Applied Mathematics 76 (2023), 2073–2191. [DOI](https://doi.org/10.1002/cpa.22068)
+- **[SOTA / Recent]** S. Miao, P. Yu. *On the formation of shocks for quasilinear wave equations.* Inventiones Mathematicae 207 (2017), 697–831. [DOI](https://doi.org/10.1007/s00222-016-0676-2)
+- **[SOTA / Recent]** M. M. Disconzi, C. Luo, G. Mazzone, J. Speck. *Rough sound waves in 3D compressible Euler flow with vorticity.* Selecta Mathematica 28 (2022), Article 41. [DOI](https://doi.org/10.1007/s00029-021-00733-3)
 - **[SOTA / Recent]** L. Abbrescia, J. Speck. *The emergence of the singular boundary from the crease in 3D compressible Euler flow.* arXiv:2207.07107, 2022.
-- **[SOTA / Recent]** J. Groah, B. Temple. *Shock-Wave Solutions of the Einstein Equations with Perfect Fluid Sources: Existence and Consistency by a Locally Inertial Glimm Scheme.* Memoirs of the American Mathematical Society 172, no. 813, 2004.
-- **[SOTA / Recent]** P. G. LeFloch, A. D. Rendall. *A global foliation of Einstein-Euler spacetimes with Gowdy-symmetry on $T^3$.* Archive for Rational Mechanics and Analysis 201 (2011), 841–870.
-- **[SOTA / Recent]** A. Barnes, P. G. LeFloch, B. G. Schmidt, J. M. Stewart. *The Glimm scheme for perfect fluids on plane-symmetric Gowdy spacetimes.* Classical and Quantum Gravity 21 (2004), 5043–5074.
-- **[SOTA / Recent]** M. Reintjes, B. Temple. *Points of general relativistic shock wave interaction are "regularity singularities" where space-time is not locally flat.* Proceedings of the Royal Society A 471 (2015), 20140834.
-- **[SOTA / Recent]** N. Athanasiou, S. Zhu. *Formation of singularities for the relativistic Euler equations.* Journal of Differential Equations 284 (2021), 284–317.
-- **[Survey]** J. Speck. *Shock Formation in Small-Data Solutions to 3D Quasilinear Wave Equations.* Mathematical Surveys and Monographs 214, American Mathematical Society, 2016.
-- **[Survey]** J. Smoller, B. Temple. *Global solutions of the relativistic Euler equations.* Communications in Mathematical Physics 156 (1993), 67–99.
-- **[Survey]** T. A. Oliynyk. *A priori estimates for relativistic liquid bodies.* Bulletin des Sciences Mathématiques 141 (2017), 105–222.
+- **[SOTA / Recent]** J. Groah, B. Temple. *Shock-Wave Solutions of the Einstein Equations with Perfect Fluid Sources: Existence and Consistency by a Locally Inertial Glimm Scheme.* Memoirs of the American Mathematical Society 172, no. 813, 2004. [DOI](https://doi.org/10.1090/memo/0813)
+- **[SOTA / Recent]** P. G. LeFloch, A. D. Rendall. *A global foliation of Einstein-Euler spacetimes with Gowdy-symmetry on $T^3$.* Archive for Rational Mechanics and Analysis 201 (2011), 841–870. [DOI](https://doi.org/10.1007/s00205-011-0425-z)
+- **[SOTA / Recent]** A. Barnes, P. G. LeFloch, B. G. Schmidt, J. M. Stewart. *The Glimm scheme for perfect fluids on plane-symmetric Gowdy spacetimes.* Classical and Quantum Gravity 21 (2004), 5043–5074. [DOI](https://doi.org/10.1088/0264-9381/21/22/003)
+- **[SOTA / Recent]** M. Reintjes, B. Temple. *Points of general relativistic shock wave interaction are "regularity singularities" where space-time is not locally flat.* Proceedings of the Royal Society A 471 (2015), 20140834. [DOI](https://doi.org/10.1098/rspa.2014.0831)
+- **[SOTA / Recent]** N. Athanasiou, S. Zhu. *Formation of singularities for the relativistic Euler equations.* Journal of Differential Equations 284 (2021), 284–317. [DOI](https://doi.org/10.1016/j.jde.2021.03.010)
+- **[Survey]** J. Speck. *Shock Formation in Small-Data Solutions to 3D Quasilinear Wave Equations.* Mathematical Surveys and Monographs 214, American Mathematical Society, 2016. [DOI](https://doi.org/10.1090/surv/214)
+- **[Survey]** J. Smoller, B. Temple. *Global solutions of the relativistic Euler equations.* Communications in Mathematical Physics 156 (1993), 67–99. [DOI](https://doi.org/10.1007/bf02096733)
+- **[Survey]** T. A. Oliynyk. *A priori estimates for relativistic liquid bodies.* Bulletin des Sciences Mathématiques 141 (2017), 105–222. [DOI](https://doi.org/10.1016/j.bulsci.2017.02.001)
 
 ## 10. Worked Example / Concrete Special Case
 

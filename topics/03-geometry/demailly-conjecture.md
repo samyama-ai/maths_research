@@ -92,10 +92,10 @@ Prominent algebraic geometers have outlined several critical pathways to resolve
 
 ## 9. Key References
 
-- **[Foundational]** Demailly, J.-P. *Algebraic criteria for Kobayashi hyperbolic projective varieties and jet differentials.* Proceedings of Symposia in Pure Mathematics, Vol. 62, Part 2, AMS, 1997.
-- **[SOTA / Recent]** Diverio, S., Merker, J., & Rousseau, E. *Effective algebraic degeneracy.* Inventiones Mathematicae, 2010.
+- **[Foundational]** Demailly, J.-P. *Algebraic criteria for Kobayashi hyperbolic projective varieties and jet differentials.* Proceedings of Symposia in Pure Mathematics, Vol. 62, Part 2, AMS, 1997. [DOI](https://doi.org/10.1090/pspum/062.2/1492539)
+- **[SOTA / Recent]** Diverio, S., Merker, J., & Rousseau, E. *Effective algebraic degeneracy.* Inventiones Mathematicae, 2010. [DOI](https://doi.org/10.1007/s00222-010-0232-4)
 - **[Survey]** Demailly, J.-P. *Recent progress towards the Kobayashi and Green-Griffiths-Lang conjectures.* Fourteenth Marcel Grossmann Meeting, 2017.
-- **[Foundational]** Brody, R. *Compact manifolds and hyperbolicity.* Transactions of the American Mathematical Society, 1978.
+- **[Foundational]** Brody, R. *Compact manifolds and hyperbolicity.* Transactions of the American Mathematical Society, 1978. [DOI](https://doi.org/10.2307/1998216)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -106,7 +106,7 @@ Leading mathematicians suggest that proving the Strong Goldbach Conjecture will 
 - **[Foundational]** Chen, J. *On the representation of a larger even integer as the sum of a prime and the product of at most two primes.* Scientia Sinica, 16 (2), 1973.
 - **[Foundational]** Vaughan, R. C. *The Hardy-Littlewood Method.* Cambridge University Press, 2nd Edition, 1997.
 - **[SOTA / Recent]** Helfgott, H. A. *The ternary Goldbach conjecture is true.* Annals of Mathematics Studies, No. 223, Princeton University Press, 2023. (Initially appeared on arXiv in 2013).
-- **[SOTA / Recent]** Oliveira e Silva, T., Herzog, S., & Pinho, S. *Empirical verification of the even Goldbach conjecture and computation of prime gaps up to $4 \cdot 10^{18}$.* Mathematics of Computation, 83 (288), 2014.
+- **[SOTA / Recent]** Oliveira e Silva, T., Herzog, S., & Pinho, S. *Empirical verification of the even Goldbach conjecture and computation of prime gaps up to $4 \cdot 10^{18}$.* Mathematics of Computation, 83 (288), 2014. [DOI](https://doi.org/10.1090/s0025-5718-2013-02787-1)
 - **[Survey]** Yuan, W. *Goldbach Conjecture.* World Scientific Publishing, 2002.
 
 ## 10. Worked Example / Concrete Special Case

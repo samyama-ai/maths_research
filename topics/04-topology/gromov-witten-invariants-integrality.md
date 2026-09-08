@@ -92,20 +92,20 @@ Proven: for a *generic* almost complex structure on a symplectic Calabi–Yau 6-
 ## 9. Key References
 
 - **[Foundational]** R. Gopakumar and C. Vafa. *M-theory and Topological Strings I, II.* Preprints hep-th/9809187, hep-th/9812127, 1998.
-- **[Foundational]** M. Kontsevich. *Enumeration of rational curves via torus actions.* In *The Moduli Space of Curves*, Progr. Math. 129, Birkhäuser, 1995.
-- **[Foundational]** J. Bryan and R. Pandharipande. *BPS states of curves in Calabi–Yau 3-folds.* Geometry & Topology 5 (2001), 287–318.
-- **[SOTA]** E.-N. Ionel and T. H. Parker. *The Gopakumar–Vafa formula for symplectic manifolds.* Annals of Mathematics 187 (2018), 1–64.
+- **[Foundational]** M. Kontsevich. *Enumeration of rational curves via torus actions.* In *The Moduli Space of Curves*, Progr. Math. 129, Birkhäuser, 1995. [DOI](https://doi.org/10.1007/978-1-4612-4264-2_12)
+- **[Foundational]** J. Bryan and R. Pandharipande. *BPS states of curves in Calabi–Yau 3-folds.* Geometry & Topology 5 (2001), 287–318. [DOI](https://doi.org/10.2140/gt.2001.5.287)
+- **[SOTA]** E.-N. Ionel and T. H. Parker. *The Gopakumar–Vafa formula for symplectic manifolds.* Annals of Mathematics 187 (2018), 1–64. [DOI](https://doi.org/10.4007/annals.2018.187.1.1)
 - **[SOTA]** A. Doan, E.-N. Ionel and T. Walpuski. *The Gopakumar–Vafa finiteness conjecture.* Preprint arXiv:2103.08221, 2021.
-- **[SOTA]** D. Maulik and Y. Toda. *Gopakumar–Vafa invariants via vanishing cycles.* Inventiones Mathematicae 213 (2018), 1017–1097.
-- **[SOTA]** R. Pandharipande and R. P. Thomas. *The Katz–Klemm–Vafa conjecture for K3 surfaces.* Forum of Mathematics, Pi 4 (2016), e4.
-- **[Verified case]** P. Peng. *A simple proof of Gopakumar–Vafa conjecture for local toric Calabi–Yau manifolds.* Communications in Mathematical Physics 276 (2007), 551–569.
+- **[SOTA]** D. Maulik and Y. Toda. *Gopakumar–Vafa invariants via vanishing cycles.* Inventiones Mathematicae 213 (2018), 1017–1097. [DOI](https://doi.org/10.1007/s00222-018-0800-6)
+- **[SOTA]** R. Pandharipande and R. P. Thomas. *The Katz–Klemm–Vafa conjecture for K3 surfaces.* Forum of Mathematics, Pi 4 (2016), e4. [DOI](https://doi.org/10.1017/fmp.2016.2)
+- **[Verified case]** P. Peng. *A simple proof of Gopakumar–Vafa conjecture for local toric Calabi–Yau manifolds.* Communications in Mathematical Physics 276 (2007), 551–569. [DOI](https://doi.org/10.1007/s00220-007-0348-6)
 - **[Verified case]** Y. Konishi. *Integrality of Gopakumar–Vafa invariants of toric Calabi–Yau threefolds.* Advances in Theoretical and Mathematical Physics 12 (2008), 289–318.
-- **[Verified case]** A. Zinger. *The reduced genus 1 Gromov–Witten invariants of Calabi–Yau hypersurfaces.* Journal of the AMS 22 (2009), 691–737.
-- **[Knots]** H. Ooguri and C. Vafa. *Knot invariants and topological strings.* Nuclear Physics B 577 (2000), 419–438.
-- **[Knots]** K. Liu and P. Peng. *Proof of the Labastida–Mariño–Ooguri–Vafa conjecture.* Journal of Differential Geometry 85 (2010), 479–525.
-- **[Knots]** P. Kucharski, M. Reineke, M. Stošić and P. Sułkowski. *BPS states, knots and quivers.* Physical Review D 96 (2017), 121902.
+- **[Verified case]** A. Zinger. *The reduced genus 1 Gromov–Witten invariants of Calabi–Yau hypersurfaces.* Journal of the AMS 22 (2009), 691–737. [DOI](https://doi.org/10.1090/s0894-0347-08-00625-5)
+- **[Knots]** H. Ooguri and C. Vafa. *Knot invariants and topological strings.* Nuclear Physics B 577 (2000), 419–438. [DOI](https://doi.org/10.1016/s0550-3213(00)00118-8)
+- **[Knots]** K. Liu and P. Peng. *Proof of the Labastida–Mariño–Ooguri–Vafa conjecture.* Journal of Differential Geometry 85 (2010), 479–525. [DOI](https://doi.org/10.4310/jdg/1292940692)
+- **[Knots]** P. Kucharski, M. Reineke, M. Stošić and P. Sułkowski. *BPS states, knots and quivers.* Physical Review D 96 (2017), 121902. [DOI](https://doi.org/10.1103/physrevd.96.121902)
 - **[Survey]** M. Mariño. *Chern–Simons Theory, Matrix Models, and Topological Strings.* Oxford University Press, 2005.
-- **[Survey]** R. Pandharipande and R. P. Thomas. *13/2 ways of counting curves.* In *Moduli Spaces*, LMS Lecture Note Series 411, Cambridge University Press, 2014.
+- **[Survey]** R. Pandharipande and R. P. Thomas. *13/2 ways of counting curves.* In *Moduli Spaces*, LMS Lecture Note Series 411, Cambridge University Press, 2014. [DOI](https://doi.org/10.1017/cbo9781107279544.007)
 
 ## 10. Worked Example / Concrete Special Case
 

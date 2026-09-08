@@ -107,21 +107,21 @@ Two gaps remain sharp.
 
 ## 9. Key References
 
-- **[Foundational]** W. Thomson (Lord Kelvin). *Stability of fluid motion — rectilineal motion of viscous fluid between two parallel planes.* Philosophical Magazine 24 (1887), 188–196.
-- **[Foundational]** V. A. Romanov. *Stability of plane-parallel Couette flow.* Functional Analysis and Its Applications 7 (1973), 137–146.
-- **[Foundational]** L. N. Trefethen, A. E. Trefethen, S. C. Reddy, T. A. Driscoll. *Hydrodynamic stability without eigenvalues.* Science 261 (1993), 578–584.
+- **[Foundational]** W. Thomson (Lord Kelvin). *Stability of fluid motion — rectilineal motion of viscous fluid between two parallel planes.* Philosophical Magazine 24 (1887), 188–196. [DOI](https://doi.org/10.1017/s0370164600004119)
+- **[Foundational]** V. A. Romanov. *Stability of plane-parallel Couette flow.* Functional Analysis and Its Applications 7 (1973), 137–146. [DOI](https://doi.org/10.1007/bf01078886)
+- **[Foundational]** L. N. Trefethen, A. E. Trefethen, S. C. Reddy, T. A. Driscoll. *Hydrodynamic stability without eigenvalues.* Science 261 (1993), 578–584. [DOI](https://doi.org/10.1126/science.261.5121.578)
 - **[Foundational]** P. G. Drazin, W. H. Reid. *Hydrodynamic Stability*, 2nd ed. Cambridge University Press, 2004.
-- **[Breakthrough]** J. Bedrossian, N. Masmoudi. *Inviscid damping and the asymptotic stability of planar shear flows in the 2D Euler equations.* Publications mathématiques de l'IHÉS 122 (2015), 195–300.
-- **[SOTA]** J. Bedrossian, N. Masmoudi, V. Vicol. *Enhanced dissipation and inviscid damping in the inviscid limit of the Navier–Stokes equations near the two-dimensional Couette flow.* Archive for Rational Mechanics and Analysis 219 (2016), 1087–1159.
-- **[SOTA]** J. Bedrossian, P. Germain, N. Masmoudi. *On the stability threshold for the 3D Couette flow in Sobolev regularity.* Annals of Mathematics 185 (2017), 541–608.
+- **[Breakthrough]** J. Bedrossian, N. Masmoudi. *Inviscid damping and the asymptotic stability of planar shear flows in the 2D Euler equations.* Publications mathématiques de l'IHÉS 122 (2015), 195–300. [DOI](https://doi.org/10.1007/s10240-015-0070-4)
+- **[SOTA]** J. Bedrossian, N. Masmoudi, V. Vicol. *Enhanced dissipation and inviscid damping in the inviscid limit of the Navier–Stokes equations near the two-dimensional Couette flow.* Archive for Rational Mechanics and Analysis 219 (2016), 1087–1159. [DOI](https://doi.org/10.1007/s00205-015-0917-3)
+- **[SOTA]** J. Bedrossian, P. Germain, N. Masmoudi. *On the stability threshold for the 3D Couette flow in Sobolev regularity.* Annals of Mathematics 185 (2017), 541–608. [DOI](https://doi.org/10.4007/annals.2017.185.2.4)
 - **[SOTA]** J. Bedrossian, V. Vicol, F. Wang. *The Sobolev stability threshold for 2D shear flows near Couette.* Journal of Nonlinear Science 28 (2018), 2051–2075.
-- **[SOTA]** J. Bedrossian, P. Germain, N. Masmoudi. *Dynamics near the subcritical transition of the 3D Couette flow I: Below threshold case.* Memoirs of the AMS 266 (2020), no. 1294.
-- **[SOTA]** Q. Chen, D. Wei, Z. Zhang. *Transition threshold for the 2-D Couette flow in a finite channel.* Archive for Rational Mechanics and Analysis 238 (2020), 125–183.
-- **[SOTA]** D. Wei, Z. Zhang. *Transition threshold for the 3D Couette flow in Sobolev space.* Communications on Pure and Applied Mathematics 74 (2021), 2398–2479.
-- **[SOTA]** N. Masmoudi, W. Zhao. *Stability threshold of two-dimensional Couette flow in Sobolev spaces.* Annales de l'IHP — Analyse Non Linéaire 39 (2022), 245–325.
-- **[SOTA / Sharpness]** Y. Deng, N. Masmoudi. *Long-time instability of the Couette flow in low Gevrey spaces.* Communications on Pure and Applied Mathematics 76 (2023), 2804–2887.
-- **[Related]** A. D. Ionescu, H. Jia. *Inviscid damping near the Couette flow in a channel.* Communications in Mathematical Physics 374 (2020), 2015–2096.
-- **[Survey]** J. Bedrossian, P. Germain, N. Masmoudi. *Stability of the Couette flow at high Reynolds numbers in two dimensions and three dimensions.* Bulletin of the AMS 56 (2019), 373–414.
+- **[SOTA]** J. Bedrossian, P. Germain, N. Masmoudi. *Dynamics near the subcritical transition of the 3D Couette flow I: Below threshold case.* Memoirs of the AMS 266 (2020), no. 1294. [DOI](https://doi.org/10.1090/memo/1294)
+- **[SOTA]** Q. Chen, D. Wei, Z. Zhang. *Transition threshold for the 2-D Couette flow in a finite channel.* Archive for Rational Mechanics and Analysis 238 (2020), 125–183. [DOI](https://doi.org/10.1007/s00205-020-01538-y)
+- **[SOTA]** D. Wei, Z. Zhang. *Transition threshold for the 3D Couette flow in Sobolev space.* Communications on Pure and Applied Mathematics 74 (2021), 2398–2479. [DOI](https://doi.org/10.1002/cpa.21948)
+- **[SOTA]** N. Masmoudi, W. Zhao. *Stability threshold of two-dimensional Couette flow in Sobolev spaces.* Annales de l'IHP — Analyse Non Linéaire 39 (2022), 245–325. [DOI](https://doi.org/10.4171/aihpc/8)
+- **[SOTA / Sharpness]** Y. Deng, N. Masmoudi. *Long-time instability of the Couette flow in low Gevrey spaces.* Communications on Pure and Applied Mathematics 76 (2023), 2804–2887. [DOI](https://doi.org/10.1002/cpa.22092)
+- **[Related]** A. D. Ionescu, H. Jia. *Inviscid damping near the Couette flow in a channel.* Communications in Mathematical Physics 374 (2020), 2015–2096. [DOI](https://doi.org/10.1007/s00220-019-03550-0)
+- **[Survey]** J. Bedrossian, P. Germain, N. Masmoudi. *Stability of the Couette flow at high Reynolds numbers in two dimensions and three dimensions.* Bulletin of the AMS 56 (2019), 373–414. [DOI](https://doi.org/10.1090/bull/1649)
 
 ## 10. Worked Example / Concrete Special Case
 

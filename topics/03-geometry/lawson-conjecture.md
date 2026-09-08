@@ -116,16 +116,16 @@ For the original statement there is no gap: Brendle's proof is complete and inde
 ## 9. Key References
 
 - **[Foundational]** H. B. Lawson Jr. *Complete minimal surfaces in $S^3$.* Annals of Mathematics 92 (1970), 335–374.
-- **[Foundational]** H. B. Lawson Jr. *The unknottedness of minimal embeddings.* Inventiones Mathematicae 11 (1970), 183–187.
-- **[Foundational]** S. S. Chern, M. do Carmo, S. Kobayashi. *Minimal submanifolds of a sphere with second fundamental form of constant length.* In *Functional Analysis and Related Fields*, Springer, 1970, 59–75.
+- **[Foundational]** H. B. Lawson Jr. *The unknottedness of minimal embeddings.* Inventiones Mathematicae 11 (1970), 183–187. [DOI](https://doi.org/10.1007/bf01404649)
+- **[Foundational]** S. S. Chern, M. do Carmo, S. Kobayashi. *Minimal submanifolds of a sphere with second fundamental form of constant length.* In *Functional Analysis and Related Fields*, Springer, 1970, 59–75. [DOI](https://doi.org/10.1007/978-3-642-48272-4_2)
 - **[SOTA]** S. Brendle. *Embedded minimal tori in $S^3$ and the Lawson conjecture.* Acta Mathematica 211 (2013), 177–190.
-- **[SOTA]** B. Andrews, H. Li. *Embedded constant mean curvature tori in the three-sphere.* Journal of Differential Geometry 99 (2015), 169–189.
-- **[Survey]** S. Brendle. *Minimal surfaces in $S^3$: a survey of recent results.* Bulletin of Mathematical Sciences 3 (2013), 133–171.
-- **[Related]** F. C. Marques, A. Neves. *Min-max theory and the Willmore conjecture.* Annals of Mathematics 179 (2014), 683–782.
-- **[Related]** F. Urbano. *Minimal surfaces with low index in the three-dimensional sphere.* Proceedings of the AMS 108 (1990), 989–992.
-- **[Related]** A. Ros. *A two-piece property for compact minimal surfaces in a three-sphere.* Indiana University Mathematics Journal 44 (1995), 841–849.
-- **[Related]** U. Pinkall, I. Sterling. *On the classification of constant mean curvature tori.* Annals of Mathematics 130 (1989), 407–451.
-- **[Related]** S. Montiel, A. Ros. *Minimal immersions of surfaces by the first eigenfunctions and conformal area.* Inventiones Mathematicae 83 (1986), 153–166.
+- **[SOTA]** B. Andrews, H. Li. *Embedded constant mean curvature tori in the three-sphere.* Journal of Differential Geometry 99 (2015), 169–189. [DOI](https://doi.org/10.4310/jdg/1421415560)
+- **[Survey]** S. Brendle. *Minimal surfaces in $S^3$: a survey of recent results.* Bulletin of Mathematical Sciences 3 (2013), 133–171. [DOI](https://doi.org/10.1007/s13373-013-0034-2)
+- **[Related]** F. C. Marques, A. Neves. *Min-max theory and the Willmore conjecture.* Annals of Mathematics 179 (2014), 683–782. [DOI](https://doi.org/10.4007/annals.2014.179.2.6)
+- **[Related]** F. Urbano. *Minimal surfaces with low index in the three-dimensional sphere.* Proceedings of the AMS 108 (1990), 989–992. [DOI](https://doi.org/10.2307/2047957)
+- **[Related]** A. Ros. *A two-piece property for compact minimal surfaces in a three-sphere.* Indiana University Mathematics Journal 44 (1995), 841–849. [DOI](https://doi.org/10.1512/iumj.1995.44.2011)
+- **[Related]** U. Pinkall, I. Sterling. *On the classification of constant mean curvature tori.* Annals of Mathematics 130 (1989), 407–451. [DOI](https://doi.org/10.2307/1971425)
+- **[Related]** S. Montiel, A. Ros. *Minimal immersions of surfaces by the first eigenfunctions and conformal area.* Inventiones Mathematicae 83 (1986), 153–166. [DOI](https://doi.org/10.1007/bf01388756)
 
 ## 10. Worked Example / Concrete Special Case
 

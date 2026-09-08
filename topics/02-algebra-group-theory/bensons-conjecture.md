@@ -111,17 +111,17 @@ Closing any one of (1)–(3) in the group-scheme setting would likely close the 
 
 - **[Foundational]** B. B. Venkov. *Cohomology algebras for some classifying spaces.* Doklady Akad. Nauk SSSR 127 (1959), 943–944.
 - **[Foundational]** L. Evens. *The cohomology ring of a finite group.* Trans. Amer. Math. Soc. 101 (1961), 224–239.
-- **[Foundational]** D. Quillen. *The spectrum of an equivariant cohomology ring, I & II.* Ann. of Math. 94 (1971), 549–572 and 573–602.
+- **[Foundational]** D. Quillen. *The spectrum of an equivariant cohomology ring, I & II.* Ann. of Math. 94 (1971), 549–572 and 573–602. [DOI](https://doi.org/10.2307/1970771)
 - **[Foundational]** J. Duflot. *Depth and equivariant cohomology.* Comment. Math. Helv. 56 (1981), 627–637.
-- **[Foundational]** J. P. C. Greenlees. *Commutative algebra in group cohomology.* J. Pure Appl. Algebra 98 (1995), 151–162.
-- **[Conjecture / Survey]** D. J. Benson. *Commutative algebra in the cohomology of groups.* In: Trends in Commutative Algebra, MSRI Publications 51, Cambridge Univ. Press, 2004, 1–50.
-- **[Partial results]** D. J. Benson. *On the regularity conjecture for the cohomology of finite groups.* Proc. Edinburgh Math. Soc. 51 (2008), 273–284.
-- **[SOTA]** P. Symonds. *On the Castelnuovo–Mumford regularity of the cohomology ring of a group.* J. Amer. Math. Soc. 23 (2010), 1159–1173.
-- **[SOTA / invariant theory]** D. B. Karagueuzian and P. Symonds. *The module structure of a group action on a polynomial ring: a finiteness theorem.* J. Amer. Math. Soc. 20 (2007), 931–967.
-- **[Group schemes]** E. M. Friedlander and A. Suslin. *Cohomology of finite group schemes over a field.* Invent. Math. 127 (1997), 209–270.
-- **[Framework]** D. J. Benson, S. B. Iyengar, H. Krause. *Local cohomology and support for triangulated categories.* Ann. Sci. École Norm. Sup. 41 (2008), 573–619.
-- **[Computation]** J. F. Carlson, L. Townsley, L. Valeri-Elizondo, M. Zhang. *Cohomology Rings of Finite Groups.* Kluwer, 2003.
-- **[Computation]** D. J. Green and S. A. King. *The computation of the cohomology rings of all groups of order 128.* J. Algebra 325 (2011), 352–363.
+- **[Foundational]** J. P. C. Greenlees. *Commutative algebra in group cohomology.* J. Pure Appl. Algebra 98 (1995), 151–162. [DOI](https://doi.org/10.1016/0022-4049(94)00040-p)
+- **[Conjecture / Survey]** D. J. Benson. *Commutative algebra in the cohomology of groups.* In: Trends in Commutative Algebra, MSRI Publications 51, Cambridge Univ. Press, 2004, 1–50. [DOI](https://doi.org/10.1017/cbo9780511756382.002)
+- **[Partial results]** D. J. Benson. *On the regularity conjecture for the cohomology of finite groups.* Proc. Edinburgh Math. Soc. 51 (2008), 273–284. [DOI](https://doi.org/10.1017/s0013091505001203)
+- **[SOTA]** P. Symonds. *On the Castelnuovo–Mumford regularity of the cohomology ring of a group.* J. Amer. Math. Soc. 23 (2010), 1159–1173. [DOI](https://doi.org/10.1090/s0894-0347-10-00666-1)
+- **[SOTA / invariant theory]** D. B. Karagueuzian and P. Symonds. *The module structure of a group action on a polynomial ring: a finiteness theorem.* J. Amer. Math. Soc. 20 (2007), 931–967. [DOI](https://doi.org/10.1090/s0894-0347-07-00563-2)
+- **[Group schemes]** E. M. Friedlander and A. Suslin. *Cohomology of finite group schemes over a field.* Invent. Math. 127 (1997), 209–270. [DOI](https://doi.org/10.1007/s002220050119)
+- **[Framework]** D. J. Benson, S. B. Iyengar, H. Krause. *Local cohomology and support for triangulated categories.* Ann. Sci. École Norm. Sup. 41 (2008), 573–619. [DOI](https://doi.org/10.24033/asens.2076)
+- **[Computation]** J. F. Carlson, L. Townsley, L. Valeri-Elizondo, M. Zhang. *Cohomology Rings of Finite Groups.* Kluwer, 2003. [DOI](https://doi.org/10.1007/978-94-017-0215-7)
+- **[Computation]** D. J. Green and S. A. King. *The computation of the cohomology rings of all groups of order 128.* J. Algebra 325 (2011), 352–363. [DOI](https://doi.org/10.1016/j.jalgebra.2010.08.016)
 - **[Background]** D. J. Benson. *Representations and Cohomology II: Cohomology of Groups and Modules.* Cambridge Univ. Press, 1991.
 
 ## 10. Worked Example / Concrete Special Case

@@ -110,14 +110,14 @@ Unproven, and the exact boundary:
 
 ## 9. Key References
 
-- **[Foundational]** J. M. Montesinos. *Surgery on links and double branched covers of $S^3$.* In: Knots, Groups and 3-Manifolds, Annals of Mathematics Studies 84, Princeton University Press, 1975, 227–259.
-- **[Foundational]** R. Kirby. *Problems in low-dimensional topology.* In: Geometric Topology (W. Kazez, ed.), AMS/IP Studies in Advanced Mathematics 2.2, 1997 — Problem 1.59.
+- **[Foundational]** J. M. Montesinos. *Surgery on links and double branched covers of $S^3$.* In: Knots, Groups and 3-Manifolds, Annals of Mathematics Studies 84, Princeton University Press, 1975, 227–259. [DOI](https://doi.org/10.1515/9781400881512-015)
+- **[Foundational]** R. Kirby. *Problems in low-dimensional topology.* In: Geometric Topology (W. Kazez, ed.), AMS/IP Studies in Advanced Mathematics 2.2, 1997 — Problem 1.59. [DOI](https://doi.org/10.1090/amsip/002.2/02)
 - **[Foundational]** Y. Nakanishi. *On Fox's congruence classes of knots.* Osaka Journal of Mathematics 24, 1987, 217–225.
-- **[SOTA]** M. K. Dąbkowski, J. H. Przytycki. *Burnside obstructions to the Montesinos–Nakanishi 3-move conjecture.* Geometry & Topology 6, 2002, 355–360.
-- **[SOTA]** M. K. Dąbkowski, J. H. Przytycki. *Unexpected connections between Burnside groups and knot theory.* Proceedings of the National Academy of Sciences USA 101(50), 2004, 17357–17360.
-- **[Partial results]** J. H. Przytycki, T. Tsukamoto. *The fourth skein module and the Montesinos–Nakanishi conjecture for 3-algebraic links.* Journal of Knot Theory and Its Ramifications 10(7), 2001, 959–982.
-- **[Partial results]** Q. Chen. *The 3-move conjecture for 5-braids.* In: Knots in Hellas '98, Series on Knots and Everything 24, World Scientific, 2000, 36–47.
-- **[Survey]** J. H. Przytycki. *3-coloring and other elementary invariants of knots.* Banach Center Publications 42, 1998, 275–295.
+- **[SOTA]** M. K. Dąbkowski, J. H. Przytycki. *Burnside obstructions to the Montesinos–Nakanishi 3-move conjecture.* Geometry & Topology 6, 2002, 355–360. [DOI](https://doi.org/10.2140/gt.2002.6.355)
+- **[SOTA]** M. K. Dąbkowski, J. H. Przytycki. *Unexpected connections between Burnside groups and knot theory.* Proceedings of the National Academy of Sciences USA 101(50), 2004, 17357–17360. [DOI](https://doi.org/10.1073/pnas.0406098101)
+- **[Partial results]** J. H. Przytycki, T. Tsukamoto. *The fourth skein module and the Montesinos–Nakanishi conjecture for 3-algebraic links.* Journal of Knot Theory and Its Ramifications 10(7), 2001, 959–982. [DOI](https://doi.org/10.1142/s0218216501001281)
+- **[Partial results]** Q. Chen. *The 3-move conjecture for 5-braids.* In: Knots in Hellas '98, Series on Knots and Everything 24, World Scientific, 2000, 36–47. [DOI](https://doi.org/10.1142/9789812792679_0004)
+- **[Survey]** J. H. Przytycki. *3-coloring and other elementary invariants of knots.* Banach Center Publications 42, 1998, 275–295. [DOI](https://doi.org/10.4064/-42-1-275-295)
 - **[Background]** M. Hall. *The Theory of Groups.* Macmillan, 1959 — Burnside groups of exponent 3, Chapter 18.
 
 ## 10. Worked Example / Concrete Special Case

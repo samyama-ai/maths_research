@@ -99,22 +99,22 @@ with $|x_i - x_l| \sim \lambda^{-1/2}$, i.e. off-diagonal terms in the $k$-point
 
 ## 9. Key References
 
-- **[Foundational]** M. V. Berry. *Regular and irregular semiclassical wavefunctions.* Journal of Physics A: Mathematical and General, 10(12):2083–2091, 1977.
-- **[Foundational]** M. V. Berry. *Statistics of nodal lines and points in chaotic quantum billiards: perimeter corrections, fluctuations, curvature.* Journal of Physics A, 35(13):3025–3038, 2002.
-- **[Foundational]** E. Bogomolny, C. Schmit. *Percolation model for nodal domains of chaotic wave functions.* Physical Review Letters, 88:114102, 2002.
-- **[Foundational]** F. Nazarov, M. Sodin. *On the number of nodal domains of random spherical harmonics.* American Journal of Mathematics, 131(5):1337–1357, 2009.
-- **[SOTA]** F. Nazarov, M. Sodin. *Asymptotic laws for the spatial distribution and the number of connected components of zero sets of Gaussian random functions.* Journal of Mathematical Physics, Analysis, Geometry, 12(3):205–278, 2016.
-- **[SOTA]** M. Krishnapur, P. Kurlberg, I. Wigman. *Nodal length fluctuations for arithmetic random waves.* Annals of Mathematics, 177(2):699–737, 2013.
-- **[SOTA]** D. Marinucci, G. Peccati, M. Rossi, I. Wigman. *Non-universality of nodal length distribution for arithmetic random waves.* Geometric and Functional Analysis, 26(3):926–960, 2016.
-- **[SOTA]** J. Bourgain. *On toral eigenfunctions and the random wave model.* Israel Journal of Mathematics, 201(2):611–630, 2014.
+- **[Foundational]** M. V. Berry. *Regular and irregular semiclassical wavefunctions.* Journal of Physics A: Mathematical and General, 10(12):2083–2091, 1977. [DOI](https://doi.org/10.1088/0305-4470/10/12/016)
+- **[Foundational]** M. V. Berry. *Statistics of nodal lines and points in chaotic quantum billiards: perimeter corrections, fluctuations, curvature.* Journal of Physics A, 35(13):3025–3038, 2002. [DOI](https://doi.org/10.1088/0305-4470/35/13/301)
+- **[Foundational]** E. Bogomolny, C. Schmit. *Percolation model for nodal domains of chaotic wave functions.* Physical Review Letters, 88:114102, 2002. [DOI](https://doi.org/10.1103/physrevlett.88.114102)
+- **[Foundational]** F. Nazarov, M. Sodin. *On the number of nodal domains of random spherical harmonics.* American Journal of Mathematics, 131(5):1337–1357, 2009. [DOI](https://doi.org/10.1353/ajm.0.0070)
+- **[SOTA]** F. Nazarov, M. Sodin. *Asymptotic laws for the spatial distribution and the number of connected components of zero sets of Gaussian random functions.* Journal of Mathematical Physics, Analysis, Geometry, 12(3):205–278, 2016. [DOI](https://doi.org/10.15407/mag12.03.205)
+- **[SOTA]** M. Krishnapur, P. Kurlberg, I. Wigman. *Nodal length fluctuations for arithmetic random waves.* Annals of Mathematics, 177(2):699–737, 2013. [DOI](https://doi.org/10.4007/annals.2013.177.2.8)
+- **[SOTA]** D. Marinucci, G. Peccati, M. Rossi, I. Wigman. *Non-universality of nodal length distribution for arithmetic random waves.* Geometric and Functional Analysis, 26(3):926–960, 2016. [DOI](https://doi.org/10.1007/s00039-016-0376-5)
+- **[SOTA]** J. Bourgain. *On toral eigenfunctions and the random wave model.* Israel Journal of Mathematics, 201(2):611–630, 2014. [DOI](https://doi.org/10.1007/s11856-014-1037-z)
 - **[SOTA]** M. Abert, N. Bergeron, E. Le Masson. *Eigenfunctions and random waves in the Benjamini–Schramm limit.* Preprint, arXiv:1810.05601, 2018.
-- **[SOTA]** Y. Canzani, B. Hanin. *Local universality for zeros and critical points of monochromatic random waves.* Communications in Mathematical Physics, 378:1677–1712, 2020.
-- **[SOTA]** M. Ingremeau, A. Rivera. *A lower bound for the Bogomolny–Schmit constant for random monochromatic plane waves.* Mathematical Research Letters, 26(4):1179–1186, 2019.
-- **[SOTA]** M. Ingremeau, A. Rivera. *How Lagrangian states evolve into random waves.* Journal de l'École polytechnique — Mathématiques, 9:177–215, 2022.
-- **[Related]** E. Lindenstrauss. *Invariant measures and arithmetic quantum unique ergodicity.* Annals of Mathematics, 163(1):165–219, 2006.
-- **[Numerics]** D. Hejhal, B. Rackner. *On the topography of Maass waveforms for PSL(2,Z).* Experimental Mathematics, 1(4):275–305, 1992.
-- **[Survey]** I. Wigman. *On the nodal structures of random fields — a decade of results.* Journal of Applied and Computational Topology, 2023.
-- **[Survey]** S. Zelditch. *Eigenfunctions of the Laplacian on a Riemannian Manifold.* CBMS Regional Conference Series in Mathematics 125, American Mathematical Society, 2017.
+- **[SOTA]** Y. Canzani, B. Hanin. *Local universality for zeros and critical points of monochromatic random waves.* Communications in Mathematical Physics, 378:1677–1712, 2020. [DOI](https://doi.org/10.1007/s00220-020-03826-w)
+- **[SOTA]** M. Ingremeau, A. Rivera. *A lower bound for the Bogomolny–Schmit constant for random monochromatic plane waves.* Mathematical Research Letters, 26(4):1179–1186, 2019. [DOI](https://doi.org/10.4310/mrl.2019.v26.n4.a9)
+- **[SOTA]** M. Ingremeau, A. Rivera. *How Lagrangian states evolve into random waves.* Journal de l'École polytechnique — Mathématiques, 9:177–215, 2022. [DOI](https://doi.org/10.5802/jep.181)
+- **[Related]** E. Lindenstrauss. *Invariant measures and arithmetic quantum unique ergodicity.* Annals of Mathematics, 163(1):165–219, 2006. [DOI](https://doi.org/10.4007/annals.2006.163.165)
+- **[Numerics]** D. Hejhal, B. Rackner. *On the topography of Maass waveforms for PSL(2,Z).* Experimental Mathematics, 1(4):275–305, 1992. [DOI](https://doi.org/10.1080/10586458.1992.10504562)
+- **[Survey]** I. Wigman. *On the nodal structures of random fields — a decade of results.* Journal of Applied and Computational Topology, 2023. [DOI](https://doi.org/10.1007/s41468-023-00140-x)
+- **[Survey]** S. Zelditch. *Eigenfunctions of the Laplacian on a Riemannian Manifold.* CBMS Regional Conference Series in Mathematics 125, American Mathematical Society, 2017. [DOI](https://doi.org/10.1090/cbms/125)
 
 ## 10. Worked Example / Concrete Special Case
 

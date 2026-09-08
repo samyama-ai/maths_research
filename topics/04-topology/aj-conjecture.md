@@ -108,19 +108,19 @@ The precise missing step is a **uniform degree/irreducibility theorem**: a bound
 
 ## 9. Key References
 
-- **[Foundational]** D. Cooper, M. Culler, H. Gillet, D. D. Long, P. B. Shalen. *Plane curves associated to character varieties of 3-manifolds.* Inventiones Mathematicae 118 (1994), 47–84.
-- **[Foundational]** S. Garoufalidis. *On the characteristic and deformation varieties of a knot.* Geometry & Topology Monographs 7 (2004), 291–309.
-- **[Foundational]** S. Garoufalidis, T. T. Q. Lê. *The colored Jones function is q-holonomic.* Geometry & Topology 9 (2005), 1253–1293.
-- **[Foundational]** C. Frohman, R. Gelca, W. Lofaro. *The A-polynomial from the noncommutative viewpoint.* Transactions of the AMS 354 (2002), 735–747.
+- **[Foundational]** D. Cooper, M. Culler, H. Gillet, D. D. Long, P. B. Shalen. *Plane curves associated to character varieties of 3-manifolds.* Inventiones Mathematicae 118 (1994), 47–84. [DOI](https://doi.org/10.1007/bf01231526)
+- **[Foundational]** S. Garoufalidis. *On the characteristic and deformation varieties of a knot.* Geometry & Topology Monographs 7 (2004), 291–309. [DOI](https://doi.org/10.2140/gtm.2004.7.291)
+- **[Foundational]** S. Garoufalidis, T. T. Q. Lê. *The colored Jones function is q-holonomic.* Geometry & Topology 9 (2005), 1253–1293. [DOI](https://doi.org/10.2140/gt.2005.9.1253)
+- **[Foundational]** C. Frohman, R. Gelca, W. Lofaro. *The A-polynomial from the noncommutative viewpoint.* Transactions of the AMS 354 (2002), 735–747. [DOI](https://doi.org/10.1090/s0002-9947-01-02889-6)
 - **[Foundational]** D. Bullock. *Rings of $SL_2(\mathbb{C})$-characters and the Kauffman bracket skein module.* Commentarii Mathematici Helvetici 72 (1997), 521–542.
 - **[Foundational]** J. Przytycki, A. Sikora. *On skein algebras and $Sl_2(\mathbb{C})$-character varieties.* Topology 39 (2000), 115–148.
-- **[SOTA]** T. T. Q. Lê. *The colored Jones polynomial and the A-polynomial of knots.* Advances in Mathematics 207 (2006), 782–804.
-- **[SOTA]** T. T. Q. Lê, A. T. Tran. *On the AJ conjecture for knots.* Indiana University Mathematics Journal 64 (2015), 1103–1151. (With an appendix by V. Q. Huynh.)
-- **[SOTA]** A. T. Tran. *Proof of a stronger version of the AJ conjecture for torus knots.* Algebraic & Geometric Topology 13 (2013), 609–624.
-- **[SOTA]** S. Garoufalidis, C. Koutschan. *Irreducibility of q-difference operators and the knot $7_4$.* Algebraic & Geometric Topology 13 (2013), 3261–3286.
-- **[SOTA]** S. Garoufalidis, X. Sun. *The non-commutative A-polynomial of twist knots.* Journal of Knot Theory and Its Ramifications 19 (2010), 1571–1595.
-- **[Recent / computational]** K. Hikami. *Difference equation of the colored Jones polynomial for torus knot.* International Journal of Mathematics 15 (2004), 959–965.
-- **[Physics]** S. Gukov. *Three-dimensional quantum gravity, Chern–Simons theory, and the A-polynomial.* Communications in Mathematical Physics 255 (2005), 577–627.
+- **[SOTA]** T. T. Q. Lê. *The colored Jones polynomial and the A-polynomial of knots.* Advances in Mathematics 207 (2006), 782–804. [DOI](https://doi.org/10.1016/j.aim.2006.01.006)
+- **[SOTA]** T. T. Q. Lê, A. T. Tran. *On the AJ conjecture for knots.* Indiana University Mathematics Journal 64 (2015), 1103–1151. (With an appendix by V. Q. Huynh.). [DOI](https://doi.org/10.1512/iumj.2015.64.5602)
+- **[SOTA]** A. T. Tran. *Proof of a stronger version of the AJ conjecture for torus knots.* Algebraic & Geometric Topology 13 (2013), 609–624. [DOI](https://doi.org/10.2140/agt.2013.13.609)
+- **[SOTA]** S. Garoufalidis, C. Koutschan. *Irreducibility of q-difference operators and the knot $7_4$.* Algebraic & Geometric Topology 13 (2013), 3261–3286. [DOI](https://doi.org/10.2140/agt.2013.13.3261)
+- **[SOTA]** S. Garoufalidis, X. Sun. *The non-commutative A-polynomial of twist knots.* Journal of Knot Theory and Its Ramifications 19 (2010), 1571–1595. [DOI](https://doi.org/10.1142/s021821651000856x)
+- **[Recent / computational]** K. Hikami. *Difference equation of the colored Jones polynomial for torus knot.* International Journal of Mathematics 15 (2004), 959–965. [DOI](https://doi.org/10.1142/s0129167x04002582)
+- **[Physics]** S. Gukov. *Three-dimensional quantum gravity, Chern–Simons theory, and the A-polynomial.* Communications in Mathematical Physics 255 (2005), 577–627. [DOI](https://doi.org/10.1007/s00220-005-1312-y)
 - **[Survey]** T. T. Q. Lê. *The colored Jones polynomial and the AJ conjecture*, in *Lectures on Quantum Topology in Dimension Three*, Panoramas et Synthèses 48, Société Mathématique de France, 2016.
 - **[Tool]** C. Koutschan. *HolonomicFunctions (User's Guide).* RISC Report Series 10-01, Johannes Kepler University Linz, 2010.
 

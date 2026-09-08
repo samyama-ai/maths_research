@@ -100,22 +100,22 @@ Integrality is proven; **meaning is not**. The gap has two edges:
 
 ## 9. Key References
 
-- **[Foundational]** C. Vafa, E. Witten. *A strong coupling test of S-duality.* Nuclear Physics B **431** (1994), 3–77.
-- **[Foundational]** H. Ooguri, C. Vafa. *Knot invariants and topological strings.* Nuclear Physics B **577** (2000), 419–438.
+- **[Foundational]** C. Vafa, E. Witten. *A strong coupling test of S-duality.* Nuclear Physics B **431** (1994), 3–77. [DOI](https://doi.org/10.1016/0550-3213(94)90097-3)
+- **[Foundational]** H. Ooguri, C. Vafa. *Knot invariants and topological strings.* Nuclear Physics B **577** (2000), 419–438. [DOI](https://doi.org/10.1016/s0550-3213(00)00118-8)
 - **[Foundational]** R. Gopakumar, C. Vafa. *M-theory and topological strings I, II.* Preprints hep-th/9809187, hep-th/9812127 (1998).
-- **[Foundational]** J. M. F. Labastida, M. Mariño, C. Vafa. *Knots, links and branes at large N.* JHEP **2000**, no. 11, 007.
-- **[Foundational]** J. M. F. Labastida, M. Mariño. *A new point of view in the theory of knot and link invariants.* Journal of Knot Theory and Its Ramifications **11** (2002), 173–197.
-- **[SOTA]** K. Liu, P. Peng. *Proof of the Labastida–Mariño–Ooguri–Vafa conjecture.* Journal of Differential Geometry **85** (2010), 479–525.
-- **[SOTA]** D.-E. Diaconescu, V. Shende, C. Vafa. *Large N duality, Lagrangian cycles, and algebraic knots.* Communications in Mathematical Physics **319** (2013), 813–863.
-- **[SOTA]** D. Maulik. *Stable pairs and the HOMFLY polynomial.* Inventiones Mathematicae **204** (2016), 787–831.
-- **[SOTA]** P. Kucharski, M. Reineke, M. Stošić, P. Sułkowski. *Knots-quivers correspondence.* Advances in Theoretical and Mathematical Physics **23** (2019), 1849–1902.
-- **[SOTA]** A. I. Efimov. *Cohomological Hall algebra of a symmetric quiver.* Compositio Mathematica **148** (2012), 1133–1146.
+- **[Foundational]** J. M. F. Labastida, M. Mariño, C. Vafa. *Knots, links and branes at large N.* JHEP **2000**, no. 11, 007. [DOI](https://doi.org/10.1088/1126-6708/2000/11/007)
+- **[Foundational]** J. M. F. Labastida, M. Mariño. *A new point of view in the theory of knot and link invariants.* Journal of Knot Theory and Its Ramifications **11** (2002), 173–197. [DOI](https://doi.org/10.1142/s0218216502001561)
+- **[SOTA]** K. Liu, P. Peng. *Proof of the Labastida–Mariño–Ooguri–Vafa conjecture.* Journal of Differential Geometry **85** (2010), 479–525. [DOI](https://doi.org/10.4310/jdg/1292940692)
+- **[SOTA]** D.-E. Diaconescu, V. Shende, C. Vafa. *Large N duality, Lagrangian cycles, and algebraic knots.* Communications in Mathematical Physics **319** (2013), 813–863. [DOI](https://doi.org/10.1007/s00220-012-1563-3)
+- **[SOTA]** D. Maulik. *Stable pairs and the HOMFLY polynomial.* Inventiones Mathematicae **204** (2016), 787–831. [DOI](https://doi.org/10.1007/s00222-015-0624-6)
+- **[SOTA]** P. Kucharski, M. Reineke, M. Stošić, P. Sułkowski. *Knots-quivers correspondence.* Advances in Theoretical and Mathematical Physics **23** (2019), 1849–1902. [DOI](https://doi.org/10.4310/atmp.2019.v23.n7.a4)
+- **[SOTA]** A. I. Efimov. *Cohomological Hall algebra of a symmetric quiver.* Compositio Mathematica **148** (2012), 1133–1146. [DOI](https://doi.org/10.1112/s0010437x12000152)
 - **[SOTA]** M. Stošić, P. Wedrich. *Rational links and DT invariants of quivers.* International Mathematics Research Notices (2021).
 - **[SOTA]** T. Ekholm, V. Shende. *Skeins on branes.* Preprint arXiv:1901.08027 (2019).
-- **[SOTA]** Y. Tanaka, R. P. Thomas. *Vafa–Witten invariants for projective surfaces I: stable case.* Journal of Algebraic Geometry **29** (2020), 603–668; *II: semistable case.* Pure and Applied Mathematics Quarterly **13** (2017), 517–562.
-- **[SOTA]** L. Göttsche, M. Kool. *Virtual refinements of the Vafa–Witten formula.* Communications in Mathematical Physics **376** (2020), 1–49.
-- **[Related]** E. Ionel, T. Parker. *The Gopakumar–Vafa formula for symplectic manifolds.* Annals of Mathematics **187** (2018), 1–64.
-- **[Related]** X.-S. Lin, H. Zheng. *On the Hecke algebras and the colored HOMFLY polynomial.* Transactions of the AMS **362** (2010), 1–18.
+- **[SOTA]** Y. Tanaka, R. P. Thomas. *Vafa–Witten invariants for projective surfaces I: stable case.* Journal of Algebraic Geometry **29** (2020), 603–668; *II: semistable case.* Pure and Applied Mathematics Quarterly **13** (2017), 517–562. [DOI](https://doi.org/10.1090/jag/738)
+- **[SOTA]** L. Göttsche, M. Kool. *Virtual refinements of the Vafa–Witten formula.* Communications in Mathematical Physics **376** (2020), 1–49. [DOI](https://doi.org/10.1007/s00220-020-03748-7)
+- **[Related]** E. Ionel, T. Parker. *The Gopakumar–Vafa formula for symplectic manifolds.* Annals of Mathematics **187** (2018), 1–64. [DOI](https://doi.org/10.4007/annals.2018.187.1.1)
+- **[Related]** X.-S. Lin, H. Zheng. *On the Hecke algebras and the colored HOMFLY polynomial.* Transactions of the AMS **362** (2010), 1–18. [DOI](https://doi.org/10.1090/s0002-9947-09-04691-1)
 - **[Survey]** M. Mariño. *Chern–Simons Theory, Matrix Models, and Topological Strings.* Oxford University Press, 2005.
 
 ## 10. Worked Example / Concrete Special Case

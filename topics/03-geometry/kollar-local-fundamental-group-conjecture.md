@@ -98,18 +98,18 @@ The obstruction is that the extension is not known to split, and the strata mono
 
 ## 9. Key References
 
-- **[Foundational]** D. Mumford. *The topology of normal singularities of an algebraic surface and a criterion for simplicity.* Publ. Math. IHÉS 9 (1961), 5–22.
+- **[Foundational]** D. Mumford. *The topology of normal singularities of an algebraic surface and a criterion for simplicity.* Publ. Math. IHÉS 9 (1961), 5–22. [DOI](https://doi.org/10.1007/bf02698717)
 - **[Foundational]** E. Brieskorn. *Rationale Singularitäten komplexer Flächen.* Inventiones Mathematicae 4 (1968), 336–358.
-- **[Foundational]** J. Kollár. *Shafarevich maps and plurigenera of algebraic varieties.* Inventiones Mathematicae 113 (1993), 177–215.
+- **[Foundational]** J. Kollár. *Shafarevich maps and plurigenera of algebraic varieties.* Inventiones Mathematicae 113 (1993), 177–215. [DOI](https://doi.org/10.1007/bf01244307)
 - **[Foundational]** J. Kollár, S. Mori. *Birational Geometry of Algebraic Varieties.* Cambridge Tracts in Mathematics 134, Cambridge University Press, 1998.
-- **[Survey]** J. Kollár. *Links of complex analytic singularities.* Surveys in Differential Geometry 18 (2013), 157–193.
+- **[Survey]** J. Kollár. *Links of complex analytic singularities.* Surveys in Differential Geometry 18 (2013), 157–193. [DOI](https://doi.org/10.4310/sdg.2013.v18.n1.a4)
 - **[Survey]** J. Kollár. *Singularities of the Minimal Model Program.* Cambridge Tracts in Mathematics 200, Cambridge University Press, 2013.
-- **[SOTA]** C. Xu. *Finiteness of algebraic fundamental groups.* Compositio Mathematica 150 (2014), 409–414.
-- **[SOTA]** D. Greb, S. Kebekus, T. Peternell. *Étale fundamental groups of Kawamata log terminal spaces, flat sheaves, and quotients of abelian varieties.* Duke Mathematical Journal 165 (2016), 1965–2004.
-- **[SOTA]** G. Tian, C. Xu. *Finiteness of fundamental groups.* Compositio Mathematica 153 (2017), 257–273.
-- **[SOTA]** J. Carvajal-Rojas, K. Schwede, K. Tucker. *Fundamental groups of $F$-regular singularities via $F$-signature.* Annales Scientifiques de l'ENS 51 (2018), 993–1016.
-- **[SOTA / Recent]** L. Braun. *The local fundamental group of a Kawamata log terminal singularity is finite.* Inventiones Mathematicae 226 (2021), 845–896.
-- **[SOTA / Recent]** L. Braun, S. Filipazzi, J. Moraga, R. Svaldi. *The Jordan property for local fundamental groups.* Geometry & Topology 26 (2022), 3819–3872.
+- **[SOTA]** C. Xu. *Finiteness of algebraic fundamental groups.* Compositio Mathematica 150 (2014), 409–414. [DOI](https://doi.org/10.1112/s0010437x13007562)
+- **[SOTA]** D. Greb, S. Kebekus, T. Peternell. *Étale fundamental groups of Kawamata log terminal spaces, flat sheaves, and quotients of abelian varieties.* Duke Mathematical Journal 165 (2016), 1965–2004. [DOI](https://doi.org/10.1215/00127094-3450859)
+- **[SOTA]** G. Tian, C. Xu. *Finiteness of fundamental groups.* Compositio Mathematica 153 (2017), 257–273. [DOI](https://doi.org/10.1112/s0010437x16007867)
+- **[SOTA]** J. Carvajal-Rojas, K. Schwede, K. Tucker. *Fundamental groups of $F$-regular singularities via $F$-signature.* Annales Scientifiques de l'ENS 51 (2018), 993–1016. [DOI](https://doi.org/10.24033/asens.2370)
+- **[SOTA / Recent]** L. Braun. *The local fundamental group of a Kawamata log terminal singularity is finite.* Inventiones Mathematicae 226 (2021), 845–896. [DOI](https://doi.org/10.1007/s00222-021-01062-0)
+- **[SOTA / Recent]** L. Braun, S. Filipazzi, J. Moraga, R. Svaldi. *The Jordan property for local fundamental groups.* Geometry & Topology 26 (2022), 3819–3872. [DOI](https://doi.org/10.2140/gt.2022.26.283)
 
 ## 10. Worked Example / Concrete Special Case
 

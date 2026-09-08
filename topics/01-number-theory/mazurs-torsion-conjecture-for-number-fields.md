@@ -108,11 +108,11 @@ Leading mathematicians suggest the following pathways:
 
 ## 9. Key References
 
-- **[Foundational]** Mazur, B. *Modular curves and the Eisenstein ideal*. Publications Mathématiques de l'IHÉS, 1977.
-- **[Foundational]** Merel, L. *Bornes pour la torsion des courbes elliptiques sur les corps de nombres*. Inventiones mathematicae, 1996.
+- **[Foundational]** Mazur, B. *Modular curves and the Eisenstein ideal*. Publications Mathématiques de l'IHÉS, 1977. [DOI](https://doi.org/10.1007/bf02684339)
+- **[Foundational]** Merel, L. *Bornes pour la torsion des courbes elliptiques sur les corps de nombres*. Inventiones mathematicae, 1996. [DOI](https://doi.org/10.1007/s002220050059)
 - **[SOTA / Recent]** Derickx, M., Etropolski, A., van Hoeij, M., Morrow, J. S., & Zureick-Brown, D. *Torsion of elliptic curves over cubic fields*. Algebra & Number Theory, 2021.
 - **[Survey]** Clark, P. L. *Elliptic curves over number fields with complex multiplication*. International Journal of Number Theory, 2014. 
-- **[SOTA / Recent]** Balakrishnan, J. S., Dogra, N., Müller, J. S., Tuitman, J., & Vonk, J. *Explicit Chabauty-Kim for the split Cartan modular curve of level 13*. Annals of Mathematics, 2019.
+- **[SOTA / Recent]** Balakrishnan, J. S., Dogra, N., Müller, J. S., Tuitman, J., & Vonk, J. *Explicit Chabauty-Kim for the split Cartan modular curve of level 13*. Annals of Mathematics, 2019. [DOI](https://doi.org/10.4007/annals.2019.189.3.6)
 
 ## 10. Worked Example / Concrete Special Case
 

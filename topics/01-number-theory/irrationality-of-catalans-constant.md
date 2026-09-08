@@ -96,7 +96,7 @@ If $G$ and $\pi$ can be placed into the appropriate cohomological framework, pro
 
 ## 9. Key References
 
-- **[Foundational]** Tanguy Rivoal, Wadim Zudilin. *Diophantine properties of numbers related to Catalan's constant.* Mathematische Annalen, 326(4), 705–721, 2003. (doi:10.1007/s00208-003-0433-3)
+- **[Foundational]** Tanguy Rivoal, Wadim Zudilin. *Diophantine properties of numbers related to Catalan's constant.* Mathematische Annalen, 326(4), 705–721, 2003. (doi:10.1007/s00208-003-0433-3). [DOI](https://doi.org/10.1007/s00208-003-0420-2)
 - **[SOTA / Recent]** Zhi-Wei Sun. *Irrationality of Catalan's Constant* (Preprint). arXiv:2609.04176, 2026.
 - **[Survey]** Wadim Zudilin. *Arithmetic of linear forms involving odd zeta values.* Journal de Théorie des Nombres de Bordeaux, 16(1), 251-291, 2004.
 

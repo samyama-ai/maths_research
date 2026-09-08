@@ -101,20 +101,20 @@ The missing step is a rigidity mechanism for sign-changing solutions of $\Delta 
 
 - **[Foundational]** D. Pompeiu. *Sur certains systèmes d'équations linéaires et sur une propriété intégrale des fonctions de plusieurs variables.* C. R. Acad. Sci. Paris **188** (1929), 1138–1139.
 - **[Foundational]** L. Chakalov (Tchakaloff). *Sur un problème de D. Pompeiu.* Annuaire Univ. Sofia, Fac. Phys.-Math. **40** (1944), 1–14.
-- **[Foundational]** L. Brown, B. M. Schreiber, B. A. Taylor. *Spectral synthesis and the Pompeiu problem.* Annales de l'Institut Fourier **23** (1973), 125–154.
-- **[Foundational]** S. A. Williams. *A partial solution of the Pompeiu problem.* Mathematische Annalen **223** (1976), 183–190.
+- **[Foundational]** L. Brown, B. M. Schreiber, B. A. Taylor. *Spectral synthesis and the Pompeiu problem.* Annales de l'Institut Fourier **23** (1973), 125–154. [DOI](https://doi.org/10.5802/aif.474)
+- **[Foundational]** S. A. Williams. *A partial solution of the Pompeiu problem.* Mathematische Annalen **223** (1976), 183–190. [DOI](https://doi.org/10.1007/bf01360881)
 - **[Structural]** S. A. Williams. *Analyticity of the boundary for Lipschitz domains without the Pompeiu property.* Indiana University Mathematics Journal **30** (1981), 357–369.
-- **[Structural]** C. A. Berenstein. *An inverse spectral theorem and its relation to the Pompeiu problem.* Journal d'Analyse Mathématique **37** (1980), 128–144.
-- **[Structural]** P. Aviles. *Symmetry theorems related to Pompeiu's problem.* American Journal of Mathematics **108** (1986), 1023–1036.
+- **[Structural]** C. A. Berenstein. *An inverse spectral theorem and its relation to the Pompeiu problem.* Journal d'Analyse Mathématique **37** (1980), 128–144. [DOI](https://doi.org/10.1007/bf02797683)
+- **[Structural]** P. Aviles. *Symmetry theorems related to Pompeiu's problem.* American Journal of Mathematics **108** (1986), 1023–1036. [DOI](https://doi.org/10.2307/2374594)
 - **[Structural]** C. A. Berenstein, R. Gay. *Le problème de Pompeiu local.* Journal d'Analyse Mathématique **52** (1989), 133–166.
-- **[SOTA / Recent]** N. Garofalo, F. Segàla. *Univalent functions and the Pompeiu problem.* Transactions of the American Mathematical Society **346** (1994), 137–146.
+- **[SOTA / Recent]** N. Garofalo, F. Segàla. *Univalent functions and the Pompeiu problem.* Transactions of the American Mathematical Society **346** (1994), 137–146. [DOI](https://doi.org/10.2307/2154945)
 - **[SOTA / Recent]** P. Ebenfelt. *Some results on the Pompeiu problem.* Annales Academiae Scientiarum Fennicae, Ser. A I Math. **18** (1993), 323–341.
-- **[SOTA / Recent]** M. Shklover. *Schiffer problem and isoparametric hypersurfaces.* Revista Matemática Iberoamericana **16** (2000), 529–569.
-- **[SOTA / Recent]** P. Sicbaldi. *New extremal domains for the first eigenvalue of the Laplacian in flat tori.* Calculus of Variations and PDE **37** (2010), 329–344.
-- **[Related]** J. Serrin. *A symmetry problem in potential theory.* Archive for Rational Mechanics and Analysis **43** (1971), 304–318.
-- **[Survey]** L. Zalcman. *A bibliographic survey of the Pompeiu problem.* In *Approximation by Solutions of Partial Differential Equations*, NATO ASI Series C **365**, Kluwer, 1992, 185–194; and *Supplementary bibliography to "A bibliographic survey of the Pompeiu problem"*, Contemporary Mathematics **278** (2001), 69–74.
+- **[SOTA / Recent]** M. Shklover. *Schiffer problem and isoparametric hypersurfaces.* Revista Matemática Iberoamericana **16** (2000), 529–569. [DOI](https://doi.org/10.4171/rmi/283)
+- **[SOTA / Recent]** P. Sicbaldi. *New extremal domains for the first eigenvalue of the Laplacian in flat tori.* Calculus of Variations and PDE **37** (2010), 329–344. [DOI](https://doi.org/10.1007/s00526-009-0264-z)
+- **[Related]** J. Serrin. *A symmetry problem in potential theory.* Archive for Rational Mechanics and Analysis **43** (1971), 304–318. [DOI](https://doi.org/10.1007/bf00250468)
+- **[Survey]** L. Zalcman. *A bibliographic survey of the Pompeiu problem.* In *Approximation by Solutions of Partial Differential Equations*, NATO ASI Series C **365**, Kluwer, 1992, 185–194; and *Supplementary bibliography to "A bibliographic survey of the Pompeiu problem"*, Contemporary Mathematics **278** (2001), 69–74. [DOI](https://doi.org/10.1007/978-94-011-2436-2_17)
 - **[Survey]** L. Zalcman. *Offbeat integral geometry.* American Mathematical Monthly **87** (1980), 161–175.
-- **[Monograph]** V. V. Volchkov. *Integral Geometry and Convolution Equations.* Kluwer Academic Publishers, 2003.
+- **[Monograph]** V. V. Volchkov. *Integral Geometry and Convolution Equations.* Kluwer Academic Publishers, 2003. [DOI](https://doi.org/10.1007/978-94-010-0023-9)
 
 ## 10. Worked Example / Concrete Special Case
 

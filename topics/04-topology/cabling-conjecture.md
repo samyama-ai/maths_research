@@ -103,20 +103,20 @@ Missing: a single mechanism showing that for a **hyperbolic** knot $K$ and integ
 
 ## 9. Key References
 
-- **[Foundational]** F. González-Acuña, H. Short. *Knot surgery and primeness.* Mathematical Proceedings of the Cambridge Philosophical Society **99** (1986), 89–102.
-- **[Foundational]** L. Moser. *Elementary surgery along a torus knot.* Pacific Journal of Mathematics **38** (1971), 737–745.
-- **[Foundational]** D. Gabai. *Foliations and the topology of 3-manifolds. II, III.* Journal of Differential Geometry **26** (1987), 461–478 and 479–536.
-- **[Foundational]** C. McA. Gordon, J. Luecke. *Only integral Dehn surgeries can yield reducible manifolds.* Math. Proc. Cambridge Philos. Soc. **102** (1987), 97–101.
-- **[Key]** M. Scharlemann. *Producing reducible 3-manifolds by surgery on a knot.* Topology **29** (1990), 481–500.
-- **[Key]** W. Menasco, M. Thistlethwaite. *Surfaces with boundary in alternating knot exteriors.* Journal für die reine und angewandte Mathematik **426** (1992), 47–65.
-- **[Key]** C. McA. Gordon, J. Luecke. *Reducible manifolds and Dehn surgery.* Topology **35** (1996), 385–409.
-- **[Key]** C. Hayashi, K. Shimokawa. *Symmetric knots satisfy the cabling conjecture.* Math. Proc. Cambridge Philos. Soc. **123** (1998), 501–529.
-- **[Key]** J. Hoffman. *There are no strict great $x$-cycles after a reducing or $P^2$ surgery on a knot.* Journal of Knot Theory and Its Ramifications **7** (1998), 549–569.
-- **[SOTA]** D. Matignon, N. Sayari. *Longitudinal slope and Dehn fillings.* Hiroshima Mathematical Journal **33** (2003), 127–136.
-- **[SOTA]** J. E. Greene. *L-space surgeries, genus bounds, and the cabling conjecture.* Journal of Differential Geometry **100** (2015), 491–506.
-- **[SOTA]** J. Hom, Ç. Karakurt, T. Lidman. *Surgery obstructions and Heegaard Floer homology.* Geometry & Topology **20** (2016), 2219–2251.
+- **[Foundational]** F. González-Acuña, H. Short. *Knot surgery and primeness.* Mathematical Proceedings of the Cambridge Philosophical Society **99** (1986), 89–102. [DOI](https://doi.org/10.1017/s0305004100063969)
+- **[Foundational]** L. Moser. *Elementary surgery along a torus knot.* Pacific Journal of Mathematics **38** (1971), 737–745. [DOI](https://doi.org/10.2140/pjm.1971.38.737)
+- **[Foundational]** D. Gabai. *Foliations and the topology of 3-manifolds. II, III.* Journal of Differential Geometry **26** (1987), 461–478 and 479–536. [DOI](https://doi.org/10.4310/jdg/1214441488)
+- **[Foundational]** C. McA. Gordon, J. Luecke. *Only integral Dehn surgeries can yield reducible manifolds.* Math. Proc. Cambridge Philos. Soc. **102** (1987), 97–101. [DOI](https://doi.org/10.1017/s0305004100067086)
+- **[Key]** M. Scharlemann. *Producing reducible 3-manifolds by surgery on a knot.* Topology **29** (1990), 481–500. [DOI](https://doi.org/10.1016/0040-9383(90)90017-e)
+- **[Key]** W. Menasco, M. Thistlethwaite. *Surfaces with boundary in alternating knot exteriors.* Journal für die reine und angewandte Mathematik **426** (1992), 47–65. [DOI](https://doi.org/10.1515/crll.1992.426.47)
+- **[Key]** C. McA. Gordon, J. Luecke. *Reducible manifolds and Dehn surgery.* Topology **35** (1996), 385–409. [DOI](https://doi.org/10.1016/0040-9383(95)00016-x)
+- **[Key]** C. Hayashi, K. Shimokawa. *Symmetric knots satisfy the cabling conjecture.* Math. Proc. Cambridge Philos. Soc. **123** (1998), 501–529. [DOI](https://doi.org/10.1017/s0305004197002399)
+- **[Key]** J. Hoffman. *There are no strict great $x$-cycles after a reducing or $P^2$ surgery on a knot.* Journal of Knot Theory and Its Ramifications **7** (1998), 549–569. [DOI](https://doi.org/10.1142/s0218216598000309)
+- **[SOTA]** D. Matignon, N. Sayari. *Longitudinal slope and Dehn fillings.* Hiroshima Mathematical Journal **33** (2003), 127–136. [DOI](https://doi.org/10.32917/hmj/1150997871)
+- **[SOTA]** J. E. Greene. *L-space surgeries, genus bounds, and the cabling conjecture.* Journal of Differential Geometry **100** (2015), 491–506. [DOI](https://doi.org/10.4310/jdg/1432842362)
+- **[SOTA]** J. Hom, Ç. Karakurt, T. Lidman. *Surgery obstructions and Heegaard Floer homology.* Geometry & Topology **20** (2016), 2219–2251. [DOI](https://doi.org/10.2140/gt.2016.20.2219)
 - **[Survey]** C. McA. Gordon. *Dehn surgery on knots.* Proceedings of the ICM, Kyoto 1990, Springer, 631–642.
-- **[Survey]** S. Boyer. *Dehn surgery on knots.* In *Handbook of Geometric Topology*, Elsevier, 2002, 165–218.
+- **[Survey]** S. Boyer. *Dehn surgery on knots.* In *Handbook of Geometric Topology*, Elsevier, 2002, 165–218. [DOI](https://doi.org/10.1016/b978-044482432-5/50005-6)
 
 ## 10. Worked Example / Concrete Special Case
 

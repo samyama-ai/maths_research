@@ -123,22 +123,22 @@ Concretely: no technique currently applies to a Gromov monster group $\Gamma_{\m
 ## 9. Key References
 
 - **[Foundational]** S. P. Novikov. *Topological invariance of rational Pontrjagin classes.* Doklady Akad. Nauk SSSR 163 (1965), 298–300.
-- **[Foundational]** A. S. Mishchenko. *Infinite-dimensional representations of discrete groups and higher signatures.* Izv. Akad. Nauk SSSR Ser. Mat. 38 (1974), 81–106.
-- **[Foundational]** G. Lusztig. *Novikov's higher signature and families of elliptic operators.* J. Differential Geometry 7 (1972), 229–256.
+- **[Foundational]** A. S. Mishchenko. *Infinite-dimensional representations of discrete groups and higher signatures.* Izv. Akad. Nauk SSSR Ser. Mat. 38 (1974), 81–106. [DOI](https://doi.org/10.1070/im1974v008n01abeh002097)
+- **[Foundational]** G. Lusztig. *Novikov's higher signature and families of elliptic operators.* J. Differential Geometry 7 (1972), 229–256. [DOI](https://doi.org/10.4310/jdg/1214430829)
 - **[Foundational]** G. G. Kasparov. *Equivariant KK-theory and the Novikov conjecture.* Inventiones Mathematicae 91 (1988), 147–201.
-- **[Foundational]** A. Connes, H. Moscovici. *Cyclic cohomology, the Novikov conjecture and hyperbolic groups.* Topology 29 (1990), 345–388.
+- **[Foundational]** A. Connes, H. Moscovici. *Cyclic cohomology, the Novikov conjecture and hyperbolic groups.* Topology 29 (1990), 345–388. [DOI](https://doi.org/10.1016/0040-9383(90)90003-3)
 - **[Foundational]** F. T. Farrell, W. C. Hsiang. *On Novikov's conjecture for nonpositively curved manifolds, I.* Annals of Mathematics 113 (1981), 199–209.
-- **[SOTA]** G. Yu. *The Novikov conjecture for groups with finite asymptotic dimension.* Annals of Mathematics 147 (1998), 325–355.
-- **[SOTA]** G. Yu. *The coarse Baum–Connes conjecture for spaces which admit a uniform embedding into Hilbert space.* Inventiones Mathematicae 139 (2000), 201–240.
-- **[SOTA]** N. Higson, G. Kasparov. *E-theory and KK-theory for groups which act properly and isometrically on Hilbert space.* Inventiones Mathematicae 144 (2001), 23–74.
-- **[SOTA]** G. Kasparov, G. Skandalis. *Groups acting properly on "bolic" spaces and the Novikov conjecture.* Annals of Mathematics 158 (2003), 165–206.
-- **[SOTA]** V. Lafforgue. *K-théorie bivariante pour les algèbres de Banach et conjecture de Baum–Connes.* Inventiones Mathematicae 149 (2002), 1–95.
-- **[SOTA]** E. Guentner, N. Higson, S. Weinberger. *The Novikov conjecture for linear groups.* Publications Mathématiques de l'IHÉS 101 (2005), 243–268.
-- **[SOTA]** A. Bartels, W. Lück. *The Borel conjecture for hyperbolic and CAT(0)-groups.* Annals of Mathematics 175 (2012), 631–689.
-- **[Counterexamples]** N. Higson, V. Lafforgue, G. Skandalis. *Counterexamples to the Baum–Connes conjecture.* Geometric and Functional Analysis 12 (2002), 330–354.
+- **[SOTA]** G. Yu. *The Novikov conjecture for groups with finite asymptotic dimension.* Annals of Mathematics 147 (1998), 325–355. [DOI](https://doi.org/10.2307/121011)
+- **[SOTA]** G. Yu. *The coarse Baum–Connes conjecture for spaces which admit a uniform embedding into Hilbert space.* Inventiones Mathematicae 139 (2000), 201–240. [DOI](https://doi.org/10.1007/s002229900032)
+- **[SOTA]** N. Higson, G. Kasparov. *E-theory and KK-theory for groups which act properly and isometrically on Hilbert space.* Inventiones Mathematicae 144 (2001), 23–74. [DOI](https://doi.org/10.1007/s002220000118)
+- **[SOTA]** G. Kasparov, G. Skandalis. *Groups acting properly on "bolic" spaces and the Novikov conjecture.* Annals of Mathematics 158 (2003), 165–206. [DOI](https://doi.org/10.4007/annals.2003.158.165)
+- **[SOTA]** V. Lafforgue. *K-théorie bivariante pour les algèbres de Banach et conjecture de Baum–Connes.* Inventiones Mathematicae 149 (2002), 1–95. [DOI](https://doi.org/10.1007/s002220200213)
+- **[SOTA]** E. Guentner, N. Higson, S. Weinberger. *The Novikov conjecture for linear groups.* Publications Mathématiques de l'IHÉS 101 (2005), 243–268. [DOI](https://doi.org/10.1007/s10240-005-0030-5)
+- **[SOTA]** A. Bartels, W. Lück. *The Borel conjecture for hyperbolic and CAT(0)-groups.* Annals of Mathematics 175 (2012), 631–689. [DOI](https://doi.org/10.4007/annals.2012.175.2.5)
+- **[Counterexamples]** N. Higson, V. Lafforgue, G. Skandalis. *Counterexamples to the Baum–Connes conjecture.* Geometric and Functional Analysis 12 (2002), 330–354. [DOI](https://doi.org/10.1007/s00039-002-8249-5)
 - **[Counterexamples]** M. Gromov. *Random walk in random groups.* Geometric and Functional Analysis 13 (2003), 73–146.
 - **[Survey]** S. Ferry, A. Ranicki, J. Rosenberg (eds.). *Novikov Conjectures, Index Theorems and Rigidity*, Vols. 1–2. LMS Lecture Note Series 226–227, Cambridge University Press, 1995.
-- **[Survey]** W. Lück, H. Reich. *The Baum–Connes and the Farrell–Jones conjectures in K- and L-theory.* In *Handbook of K-theory*, Springer, 2005, 703–842.
+- **[Survey]** W. Lück, H. Reich. *The Baum–Connes and the Farrell–Jones conjectures in K- and L-theory.* In *Handbook of K-theory*, Springer, 2005, 703–842. [DOI](https://doi.org/10.1007/978-3-540-27855-9_15)
 - **[Survey]** N. Higson, J. Roe. *Analytic K-Homology.* Oxford University Press, 2000.
 
 ## 10. Worked Example / Concrete Special Case

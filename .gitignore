@@ -6,3 +6,4 @@ __pycache__/
 catalog-run.log
 catalog-run.nohup
 *.md.tmp
+refs-run.log

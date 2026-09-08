@@ -98,15 +98,15 @@ The gap is therefore a single factor of $n^{-1/4}$ — exactly one quarter-power
 ## 9. Key References
 
 - **[Foundational]** M. Riesz. *Sur l'hypothèse de Riemann.* Acta Mathematica **40** (1916), 185–190.
-- **[Foundational]** A. Beurling. *A closure problem related to the Riemann zeta-function.* Proceedings of the National Academy of Sciences USA **41** (1955), 312–314.
+- **[Foundational]** A. Beurling. *A closure problem related to the Riemann zeta-function.* Proceedings of the National Academy of Sciences USA **41** (1955), 312–314. [DOI](https://doi.org/10.1073/pnas.41.5.312)
 - **[Foundational]** B. Nyman. *On the One-Dimensional Translation Group and Semi-Group in Certain Function Spaces.* Doctoral thesis, University of Uppsala, 1950.
 - **[Foundational]** L. Báez-Duarte. *A strengthening of the Nyman–Beurling criterion for the Riemann hypothesis.* Atti Accad. Naz. Lincei Cl. Sci. Fis. Mat. Natur. Rend. Lincei (9) Mat. Appl. **14** (2003), 5–11.
 - **[Foundational]** L. Báez-Duarte. *A sequential Riesz-like criterion for the Riemann hypothesis.* International Journal of Mathematics and Mathematical Sciences **2003**, no. 21, 3527–3537.
 - **[SOTA]** L. Báez-Duarte, M. Balazard, B. Landreau, E. Saias. *Notes sur la fonction $\zeta$ de Riemann, 3.* Advances in Mathematics **149** (2000), 130–144.
-- **[SOTA]** J.-F. Burnol. *A lower bound in an approximation problem involving the zeros of the Riemann zeta function.* Advances in Mathematics **170** (2002), 56–70.
-- **[SOTA]** S. Bettin, J. B. Conrey, D. W. Farmer. *An optimal choice of Dirichlet polynomials for the Nyman–Beurling criterion.* Proceedings of the Steklov Institute of Mathematics **280** (2013), 67–74.
-- **[SOTA]** B. Bagchi. *On Nyman, Beurling and Baez-Duarte's Hilbert space reformulation of the Riemann hypothesis.* Proceedings of the Indian Academy of Sciences (Math. Sci.) **116** (2006), 137–146.
-- **[Computational]** B. Landreau, F. Richard. *Le critère de Beurling et Nyman pour l'hypothèse de Riemann: aspects numériques.* Experimental Mathematics **11** (2002), 349–360.
+- **[SOTA]** J.-F. Burnol. *A lower bound in an approximation problem involving the zeros of the Riemann zeta function.* Advances in Mathematics **170** (2002), 56–70. [DOI](https://doi.org/10.1006/aima.2001.2066)
+- **[SOTA]** S. Bettin, J. B. Conrey, D. W. Farmer. *An optimal choice of Dirichlet polynomials for the Nyman–Beurling criterion.* Proceedings of the Steklov Institute of Mathematics **280** (2013), 67–74. [DOI](https://doi.org/10.1134/s0081543813030036)
+- **[SOTA]** B. Bagchi. *On Nyman, Beurling and Baez-Duarte's Hilbert space reformulation of the Riemann hypothesis.* Proceedings of the Indian Academy of Sciences (Math. Sci.) **116** (2006), 137–146. [DOI](https://doi.org/10.1007/bf02829783)
+- **[Computational]** B. Landreau, F. Richard. *Le critère de Beurling et Nyman pour l'hypothèse de Riemann: aspects numériques.* Experimental Mathematics **11** (2002), 349–360. [DOI](https://doi.org/10.1080/10586458.2002.10504480)
 - **[Computational]** M. Wolf. *Evidence in favor of the Báez-Duarte criterion for the Riemann Hypothesis.* Computational Methods in Science and Technology **14** (2008), 47–54.
 - **[Structural]** V. I. Vasyunin. *On a biorthogonal system associated with the Riemann hypothesis.* Algebra i Analiz **7** (1995); English transl. St. Petersburg Mathematical Journal **7** (1996), 405–419.
 - **[Structural]** N. Nikolski. *Distance formulae and invariant subspaces, with an application to localization of zeros of the Riemann $\zeta$-function.* Annales de l'Institut Fourier **45** (1995), 143–159.

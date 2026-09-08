@@ -103,22 +103,22 @@ The precise barrier is the passage from **first-order framed data** (moduli spac
 
 ## 9. Key References
 
-- **[Foundational]** M. Khovanov. *A categorification of the Jones polynomial.* Duke Mathematical Journal 101 (2000), 359–426.
-- **[Foundational]** R. L. Cohen, J. D. S. Jones, G. B. Segal. *Floer's infinite-dimensional Morse theory and homotopy theory.* In "The Floer Memorial Volume", Birkhäuser, 1995.
-- **[Foundational]** R. Lipshitz, S. Sarkar. *A Khovanov stable homotopy type.* Journal of the American Mathematical Society 27 (2014), 983–1042.
-- **[Foundational]** R. Lipshitz, S. Sarkar. *A Steenrod square on Khovanov homology.* Journal of Topology 7 (2014), 817–848.
+- **[Foundational]** M. Khovanov. *A categorification of the Jones polynomial.* Duke Mathematical Journal 101 (2000), 359–426. [DOI](https://doi.org/10.1215/s0012-7094-00-10131-7)
+- **[Foundational]** R. L. Cohen, J. D. S. Jones, G. B. Segal. *Floer's infinite-dimensional Morse theory and homotopy theory.* In "The Floer Memorial Volume", Birkhäuser, 1995. [DOI](https://doi.org/10.1007/978-3-0348-9217-9_13)
+- **[Foundational]** R. Lipshitz, S. Sarkar. *A Khovanov stable homotopy type.* Journal of the American Mathematical Society 27 (2014), 983–1042. [DOI](https://doi.org/10.1090/s0894-0347-2014-00785-2)
+- **[Foundational]** R. Lipshitz, S. Sarkar. *A Steenrod square on Khovanov homology.* Journal of Topology 7 (2014), 817–848. [DOI](https://doi.org/10.1112/jtopol/jtu005)
 - **[SOTA]** R. Lipshitz, S. Sarkar. *A refinement of Rasmussen's s-invariant.* Duke Mathematical Journal 163 (2014), 923–952.
 - **[SOTA]** T. Lawson, R. Lipshitz, S. Sarkar. *Khovanov homotopy type, Burnside category, and products.* arXiv:1505.00213, 2015.
-- **[SOTA]** T. Lawson, R. Lipshitz, S. Sarkar. *Khovanov spectra for tangles.* Journal of Topology 15 (2022), 1054–1131.
-- **[SOTA]** S. Sarkar, C. Scaduto, M. Stoffregen. *An odd Khovanov homotopy type.* Advances in Mathematics 367 (2020), 107112.
-- **[SOTA]** R. Lipshitz, S. Sarkar. *Khovanov homotopy type, periodic links and localizations.* Mathematische Annalen 377 (2020), 459–503.
-- **[SOTA]** M. Stoffregen, M. Zhang. *Localization in Khovanov homology.* Geometry & Topology 28 (2024).
+- **[SOTA]** T. Lawson, R. Lipshitz, S. Sarkar. *Khovanov spectra for tangles.* Journal of Topology 15 (2022), 1054–1131. [DOI](https://doi.org/10.1017/s147474802100044x)
+- **[SOTA]** S. Sarkar, C. Scaduto, M. Stoffregen. *An odd Khovanov homotopy type.* Advances in Mathematics 367 (2020), 107112. [DOI](https://doi.org/10.1016/j.aim.2020.107112)
+- **[SOTA]** R. Lipshitz, S. Sarkar. *Khovanov homotopy type, periodic links and localizations.* Mathematische Annalen 377 (2020), 459–503. [DOI](https://doi.org/10.1007/s00208-021-02157-y)
+- **[SOTA]** M. Stoffregen, M. Zhang. *Localization in Khovanov homology.* Geometry & Topology 28 (2024). [DOI](https://doi.org/10.2140/gt.2024.28.1501)
 - **[Computational]** C. Seed. *Computations of the Lipshitz–Sarkar Steenrod square on Khovanov homology.* arXiv:1210.1882, 2012.
 - **[Related]** P. Hu, D. Kriz, I. Kriz. *Field theories, stable homotopy theory, and Khovanov homology.* Topology Proceedings 48 (2016), 327–360.
 - **[Related]** D. Jones, A. Lobb, D. Schütz. *An $\mathfrak{sl}_n$ stable homotopy type for matched diagrams.* Advances in Mathematics 356 (2019), 106816.
-- **[Related]** A. Lobb, P. Orson, D. Schütz. *A Khovanov stable homotopy type for colored links.* Algebraic & Geometric Topology 17 (2017), 1261–1281.
-- **[Related]** J. Rasmussen. *Khovanov homology and the slice genus.* Inventiones Mathematicae 182 (2010), 419–447.
-- **[Survey]** R. Lipshitz, S. Sarkar. *Spatial refinements and Khovanov homology.* Proceedings of the ICM 2018, Rio de Janeiro, Vol. II, 1153–1173.
+- **[Related]** A. Lobb, P. Orson, D. Schütz. *A Khovanov stable homotopy type for colored links.* Algebraic & Geometric Topology 17 (2017), 1261–1281. [DOI](https://doi.org/10.2140/agt.2017.17.1261)
+- **[Related]** J. Rasmussen. *Khovanov homology and the slice genus.* Inventiones Mathematicae 182 (2010), 419–447. [DOI](https://doi.org/10.1007/s00222-010-0275-6)
+- **[Survey]** R. Lipshitz, S. Sarkar. *Spatial refinements and Khovanov homology.* Proceedings of the ICM 2018, Rio de Janeiro, Vol. II, 1153–1173. [DOI](https://doi.org/10.1142/9789813272880_0091)
 
 ## 10. Worked Example / Concrete Special Case
 

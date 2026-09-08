@@ -127,22 +127,22 @@ Concretely, the missing step is a bound of the form: for $R^{-1/2}$-separated wa
 
 ## 9. Key References
 
-- **[Foundational]** C. Fefferman. *Inequalities for strongly singular convolution operators.* Acta Mathematica 124 (1970), 9–36.
-- **[Foundational]** C. Fefferman. *The multiplier problem for the ball.* Annals of Mathematics 94 (1971), 330–336.
-- **[Foundational]** P. A. Tomas. *A restriction theorem for the Fourier transform.* Bulletin of the AMS 81 (1975), 477–478.
-- **[Foundational]** A. Zygmund. *On Fourier coefficients and transforms of functions of two variables.* Studia Mathematica 50 (1974), 189–201.
+- **[Foundational]** C. Fefferman. *Inequalities for strongly singular convolution operators.* Acta Mathematica 124 (1970), 9–36. [DOI](https://doi.org/10.1007/bf02394567)
+- **[Foundational]** C. Fefferman. *The multiplier problem for the ball.* Annals of Mathematics 94 (1971), 330–336. [DOI](https://doi.org/10.2307/1970864)
+- **[Foundational]** P. A. Tomas. *A restriction theorem for the Fourier transform.* Bulletin of the AMS 81 (1975), 477–478. [DOI](https://doi.org/10.1090/s0002-9904-1975-13790-6)
+- **[Foundational]** A. Zygmund. *On Fourier coefficients and transforms of functions of two variables.* Studia Mathematica 50 (1974), 189–201. [DOI](https://doi.org/10.4064/sm-50-2-189-201)
 - **[Foundational]** E. M. Stein. *Harmonic Analysis: Real-Variable Methods, Orthogonality, and Oscillatory Integrals.* Princeton University Press, 1993.
-- **[Milestone]** J. Bourgain. *Besicovitch type maximal operators and applications to Fourier analysis.* GAFA 1 (1991), 147–187.
-- **[Milestone]** T. Wolff. *A sharp bilinear cone restriction estimate.* Annals of Mathematics 153 (2001), 661–698.
-- **[Milestone]** T. Tao. *A sharp bilinear restriction estimate for paraboloids.* GAFA 13 (2003), 1359–1384.
-- **[Milestone]** J. Bennett, A. Carbery, T. Tao. *On the multilinear restriction and Kakeya conjectures.* Acta Mathematica 196 (2006), 261–302.
-- **[Milestone]** J. Bourgain, L. Guth. *Bounds on oscillatory integral operators based on multilinear estimates.* GAFA 21 (2011), 1239–1295.
-- **[SOTA]** L. Guth. *A restriction estimate using polynomial partitioning.* Journal of the AMS 29 (2016), 371–413.
-- **[SOTA]** L. Guth. *Restriction estimates using polynomial partitioning II.* Acta Mathematica 221 (2018), 81–142.
-- **[SOTA]** J. Hickman, K. M. Rogers. *Improved Fourier restriction estimates in higher dimensions.* Cambridge Journal of Mathematics 7 (2019), 219–282.
+- **[Milestone]** J. Bourgain. *Besicovitch type maximal operators and applications to Fourier analysis.* GAFA 1 (1991), 147–187. [DOI](https://doi.org/10.1007/bf01896376)
+- **[Milestone]** T. Wolff. *A sharp bilinear cone restriction estimate.* Annals of Mathematics 153 (2001), 661–698. [DOI](https://doi.org/10.2307/2661365)
+- **[Milestone]** T. Tao. *A sharp bilinear restriction estimate for paraboloids.* GAFA 13 (2003), 1359–1384. [DOI](https://doi.org/10.1007/s00039-003-0449-0)
+- **[Milestone]** J. Bennett, A. Carbery, T. Tao. *On the multilinear restriction and Kakeya conjectures.* Acta Mathematica 196 (2006), 261–302. [DOI](https://doi.org/10.1007/s11511-006-0006-4)
+- **[Milestone]** J. Bourgain, L. Guth. *Bounds on oscillatory integral operators based on multilinear estimates.* GAFA 21 (2011), 1239–1295. [DOI](https://doi.org/10.1007/s00039-011-0140-9)
+- **[SOTA]** L. Guth. *A restriction estimate using polynomial partitioning.* Journal of the AMS 29 (2016), 371–413. [DOI](https://doi.org/10.1090/jams827)
+- **[SOTA]** L. Guth. *Restriction estimates using polynomial partitioning II.* Acta Mathematica 221 (2018), 81–142. [DOI](https://doi.org/10.4310/acta.2018.v221.n1.a3)
+- **[SOTA]** J. Hickman, K. M. Rogers. *Improved Fourier restriction estimates in higher dimensions.* Cambridge Journal of Mathematics 7 (2019), 219–282. [DOI](https://doi.org/10.4310/cjm.2019.v7.n3.a1)
 - **[SOTA]** H. Wang. *A restriction estimate in $\mathbb{R}^3$ using brooms.* Duke Mathematical Journal 171 (2022), 1749–1822.
 - **[SOTA]** H. Wang, J. Zahl. *Volume estimates for unions of convex sets, and the Kakeya set conjecture in three dimensions.* arXiv:2502.17655, 2025.
-- **[Survey]** T. Tao. *Some recent progress on the restriction conjecture.* In *Fourier Analysis and Convexity*, Birkhäuser, 2004, 217–243.
+- **[Survey]** T. Tao. *Some recent progress on the restriction conjecture.* In *Fourier Analysis and Convexity*, Birkhäuser, 2004, 217–243. [DOI](https://doi.org/10.1007/978-0-8176-8172-2_10)
 - **[Survey]** C. Demeter. *Fourier Restriction, Decoupling, and Applications.* Cambridge Studies in Advanced Mathematics 184, Cambridge University Press, 2020.
 - **[Survey]** B. Stovall. *Waves, spheres, and tubes: a selection of Fourier restriction problems, methods, and applications.* Notices of the AMS 66 (2019), 1013–1022.
 

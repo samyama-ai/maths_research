@@ -105,11 +105,11 @@ Leading mathematicians specializing in singularly perturbed reaction-diffusion s
 
 ## 9. Key References
 
-- **[Foundational]** Gierer, A., & Meinhardt, H. *A theory of biological pattern formation*. Kybernetik 12(1), 30-39, 1972.
-- **[Foundational]** Ni, W.-M., & Takagi, I. *On the shape of least-energy solutions to a semilinear Neumann problem*. Communications on Pure and Applied Mathematics, 44(8), 819-851, 1991.
-- **[SOTA / Recent]** Wei, J., & Winter, M. *Spikes for the two-dimensional Gierer-Meinhardt system: the weak coupling case*. Journal of Nonlinear Science, 11(6), 415-458, 2001.
-- **[SOTA / Recent]** Iron, D., Ward, M. J., & Wei, J. *The stability of spike solutions to the one-dimensional Gierer-Meinhardt model*. Physica D: Nonlinear Phenomena, 150(1-2), 25-62, 2001.
-- **[Survey]** Wei, J., & Winter, M. *Mathematical Aspects of Pattern Formation in Biological Systems*. Applied Mathematical Sciences, Vol. 189, Springer, 2013.
+- **[Foundational]** Gierer, A., & Meinhardt, H. *A theory of biological pattern formation*. Kybernetik 12(1), 30-39, 1972. [DOI](https://doi.org/10.1007/bf00289234)
+- **[Foundational]** Ni, W.-M., & Takagi, I. *On the shape of least-energy solutions to a semilinear Neumann problem*. Communications on Pure and Applied Mathematics, 44(8), 819-851, 1991. [DOI](https://doi.org/10.1002/cpa.3160440705)
+- **[SOTA / Recent]** Wei, J., & Winter, M. *Spikes for the two-dimensional Gierer-Meinhardt system: the weak coupling case*. Journal of Nonlinear Science, 11(6), 415-458, 2001. [DOI](https://doi.org/10.1007/s00332-001-0380-1)
+- **[SOTA / Recent]** Iron, D., Ward, M. J., & Wei, J. *The stability of spike solutions to the one-dimensional Gierer-Meinhardt model*. Physica D: Nonlinear Phenomena, 150(1-2), 25-62, 2001. [DOI](https://doi.org/10.1016/s0167-2789(00)00206-2)
+- **[Survey]** Wei, J., & Winter, M. *Mathematical Aspects of Pattern Formation in Biological Systems*. Applied Mathematical Sciences, Vol. 189, Springer, 2013. [DOI](https://doi.org/10.1007/978-1-4471-5526-3)
 
 ## 10. Worked Example / Concrete Special Case
 

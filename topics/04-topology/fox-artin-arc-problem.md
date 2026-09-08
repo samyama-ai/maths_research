@@ -91,10 +91,10 @@ Leading topologists and dynamicists have articulated several rigorous open pathw
 
 ## 9. Key References
 
-- **[Foundational]** R. H. Fox and E. Artin. *Some Wild Cells and Spheres in Three-Dimensional Space.* Annals of Mathematics, 1948.
-- **[Foundational]** O. G. Harrold, H. C. Griffith, and E. E. Posey. *A characterization of tame curves in three-space.* Transactions of the American Mathematical Society, 1955.
+- **[Foundational]** R. H. Fox and E. Artin. *Some Wild Cells and Spheres in Three-Dimensional Space.* Annals of Mathematics, 1948. [DOI](https://doi.org/10.2307/1969408)
+- **[Foundational]** O. G. Harrold, H. C. Griffith, and E. E. Posey. *A characterization of tame curves in three-space.* Transactions of the American Mathematical Society, 1955. [DOI](https://doi.org/10.1090/s0002-9947-1955-0091457-4)
 - **[SOTA / Recent]** V. Grines, T. Medvedev, and A. Pochinka. *Dynamical Systems on 2- and 3-Manifolds.* Springer, 2016.
-- **[SOTA / Recent]** J. M. McPherson. *Wild arcs in three-space 1: families of Fox-Artin arcs.* Pacific Journal of Mathematics, 1973.
+- **[SOTA / Recent]** J. M. McPherson. *Wild arcs in three-space 1: families of Fox-Artin arcs.* Pacific Journal of Mathematics, 1973. [DOI](https://doi.org/10.2140/pjm.1973.45.585)
 - **[Survey]** R. H. Bing. *The Geometric Topology of 3-Manifolds.* American Mathematical Society Colloquium Publications, Vol. 40, 1983.
 
 ## 10. Worked Example / Concrete Special Case

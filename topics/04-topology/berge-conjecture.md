@@ -101,19 +101,19 @@ The precise missing step is a **knot-detection statement**: show that if $K$ is 
 ## 9. Key References
 
 - **[Foundational]** J. Berge. *Some knots with surgeries yielding lens spaces.* Unpublished manuscript, c. 1990; arXiv:1802.09722, 2018.
-- **[Foundational]** L. Moser. *Elementary surgery along a torus knot.* Pacific Journal of Mathematics 38 (1971), 737–745.
+- **[Foundational]** L. Moser. *Elementary surgery along a torus knot.* Pacific Journal of Mathematics 38 (1971), 737–745. [DOI](https://doi.org/10.2140/pjm.1971.38.737)
 - **[Foundational]** M. Culler, C. McA. Gordon, J. Luecke, P. B. Shalen. *Dehn surgery on knots.* Annals of Mathematics 125 (1987), 237–300.
-- **[Foundational]** R. Fintushel, R. Stern. *Constructing lens spaces by surgery on knots.* Mathematische Zeitschrift 175 (1980), 33–51.
-- **[SOTA]** J. Greene. *The lens space realization problem.* Annals of Mathematics 177 (2013), 449–511.
-- **[SOTA]** P. Kronheimer, T. Mrowka, P. Ozsváth, Z. Szabó. *Monopoles and lens space surgeries.* Annals of Mathematics 165 (2007), 457–546.
-- **[SOTA]** P. Ozsváth, Z. Szabó. *Knot Floer homology and lens space surgeries.* Topology 44 (2005), 1281–1300.
-- **[SOTA]** J. Rasmussen. *Lens space surgeries and a conjecture of Goda and Teragaito.* Geometry & Topology 8 (2004), 1013–1031.
-- **[SOTA]** K. Baker, E. Grigsby, M. Hedden. *Grid diagrams for lens spaces and combinatorial knot Floer homology.* International Mathematics Research Notices 2008, art. rnn024.
-- **[SOTA]** M. Hedden. *On Floer homology and the Berge conjecture on knots admitting lens space surgeries.* Transactions of the AMS 363 (2011), 949–968.
-- **[SOTA]** D. Gabai. *Surgery on knots in solid tori.* Topology 28 (1989), 1–6; and *1-bridge braids in solid tori.* Topology and its Applications 37 (1990), 221–235.
-- **[SOTA]** S. Bleiler, R. Litherland. *Lens spaces and Dehn surgery.* Proceedings of the AMS 107 (1989), 1127–1131.
-- **[SOTA]** Y. Ni. *Knot Floer homology detects fibred knots.* Inventiones Mathematicae 170 (2007), 577–608.
-- **[Recent]** K. L. Baker, M. Kegel. *Census L-space knots are braid positive, except one that is not.* Algebraic & Geometric Topology 24 (2024).
+- **[Foundational]** R. Fintushel, R. Stern. *Constructing lens spaces by surgery on knots.* Mathematische Zeitschrift 175 (1980), 33–51. [DOI](https://doi.org/10.1007/bf01161380)
+- **[SOTA]** J. Greene. *The lens space realization problem.* Annals of Mathematics 177 (2013), 449–511. [DOI](https://doi.org/10.4007/annals.2013.177.2.3)
+- **[SOTA]** P. Kronheimer, T. Mrowka, P. Ozsváth, Z. Szabó. *Monopoles and lens space surgeries.* Annals of Mathematics 165 (2007), 457–546. [DOI](https://doi.org/10.4007/annals.2007.165.457)
+- **[SOTA]** P. Ozsváth, Z. Szabó. *Knot Floer homology and lens space surgeries.* Topology 44 (2005), 1281–1300. [DOI](https://doi.org/10.1016/j.top.2005.05.001)
+- **[SOTA]** J. Rasmussen. *Lens space surgeries and a conjecture of Goda and Teragaito.* Geometry & Topology 8 (2004), 1013–1031. [DOI](https://doi.org/10.2140/gt.2004.8.1013)
+- **[SOTA]** K. Baker, E. Grigsby, M. Hedden. *Grid diagrams for lens spaces and combinatorial knot Floer homology.* International Mathematics Research Notices 2008, art. rnn024. [DOI](https://doi.org/10.1093/imrn/rnn024)
+- **[SOTA]** M. Hedden. *On Floer homology and the Berge conjecture on knots admitting lens space surgeries.* Transactions of the AMS 363 (2011), 949–968. [DOI](https://doi.org/10.1090/s0002-9947-2010-05117-7)
+- **[SOTA]** D. Gabai. *Surgery on knots in solid tori.* Topology 28 (1989), 1–6; and *1-bridge braids in solid tori.* Topology and its Applications 37 (1990), 221–235. [DOI](https://doi.org/10.1016/0040-9383(89)90028-1)
+- **[SOTA]** S. Bleiler, R. Litherland. *Lens spaces and Dehn surgery.* Proceedings of the AMS 107 (1989), 1127–1131. [DOI](https://doi.org/10.1090/s0002-9939-1989-0984783-3)
+- **[SOTA]** Y. Ni. *Knot Floer homology detects fibred knots.* Inventiones Mathematicae 170 (2007), 577–608. [DOI](https://doi.org/10.1007/s00222-007-0075-9)
+- **[Recent]** K. L. Baker, M. Kegel. *Census L-space knots are braid positive, except one that is not.* Algebraic & Geometric Topology 24 (2024). [DOI](https://doi.org/10.2140/agt.2024.24.569)
 - **[Survey]** J. Greene. *Heegaard Floer homology.* Notices of the AMS 68 (2021), 19–33.
 - **[Survey]** C. McA. Gordon. *Dehn surgery and 3-manifolds.* In *Low Dimensional Topology*, IAS/Park City Mathematics Series 15, AMS, 2009.
 

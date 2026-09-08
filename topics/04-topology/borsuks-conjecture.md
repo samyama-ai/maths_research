@@ -110,17 +110,17 @@ Two precise gaps.
 
 ## 9. Key References
 
-- **[Foundational]** Karol Borsuk. *Drei Sätze über die $n$-dimensionale euklidische Sphäre.* Fundamenta Mathematicae 20 (1933), 177–190.
-- **[Foundational]** Hugo Hadwiger. *Überdeckung einer Menge durch Mengen kleineren Durchmessers.* Commentarii Mathematici Helvetici 18 (1946), 73–75.
-- **[Foundational]** Peter Frankl and Richard M. Wilson. *Intersection theorems with geometric consequences.* Combinatorica 1 (1981), 357–368.
+- **[Foundational]** Karol Borsuk. *Drei Sätze über die $n$-dimensionale euklidische Sphäre.* Fundamenta Mathematicae 20 (1933), 177–190. [DOI](https://doi.org/10.4064/fm-20-1-177-190)
+- **[Foundational]** Hugo Hadwiger. *Überdeckung einer Menge durch Mengen kleineren Durchmessers.* Commentarii Mathematici Helvetici 18 (1946), 73–75. [DOI](https://doi.org/10.1007/bf02568103)
+- **[Foundational]** Peter Frankl and Richard M. Wilson. *Intersection theorems with geometric consequences.* Combinatorica 1 (1981), 357–368. [DOI](https://doi.org/10.1007/bf02579457)
 - **[Breakthrough]** Jeff Kahn and Gil Kalai. *A counterexample to Borsuk's conjecture.* Bulletin of the American Mathematical Society 29 (1993), 60–62.
-- **[Upper bound]** Oded Schramm. *Illuminating sets of constant width.* Mathematika 35 (1988), 180–189.
+- **[Upper bound]** Oded Schramm. *Illuminating sets of constant width.* Mathematika 35 (1988), 180–189. [DOI](https://doi.org/10.1112/s0025579300015175)
 - **[Upper bound]** Jean Bourgain and Joram Lindenstrauss. *On covering a set in $\mathbb{R}^d$ by balls of the same diameter.* Geometric Aspects of Functional Analysis, Lecture Notes in Mathematics 1469, Springer, 1991, 138–144.
-- **[SOTA / Recent]** Andriy V. Bondarenko. *On Borsuk's conjecture for two-distance sets.* Discrete & Computational Geometry 51 (2014), 509–515.
-- **[SOTA / Recent]** Thomas Jenrich and Andries E. Brouwer. *A 64-dimensional counterexample to Borsuk's conjecture.* The Electronic Journal of Combinatorics 21 (2014), \#P4.29.
+- **[SOTA / Recent]** Andriy V. Bondarenko. *On Borsuk's conjecture for two-distance sets.* Discrete & Computational Geometry 51 (2014), 509–515. [DOI](https://doi.org/10.1007/s00454-014-9579-4)
+- **[SOTA / Recent]** Thomas Jenrich and Andries E. Brouwer. *A 64-dimensional counterexample to Borsuk's conjecture.* The Electronic Journal of Combinatorics 21 (2014), \#P4.29. [DOI](https://doi.org/10.37236/4069)
 - **[Survey]** Branko Grünbaum. *Borsuk's problem and related questions.* Proceedings of Symposia in Pure Mathematics VII (Convexity), AMS, 1963, 271–284.
 - **[Survey]** Andrei M. Raigorodskii. *Around Borsuk's problem.* Journal of Mathematical Sciences 154 (2008), 604–623.
-- **[Book]** Vladimir Boltyanski, Horst Martini, Petru S. Soltan. *Excursions into Combinatorial Geometry.* Springer, 1997.
+- **[Book]** Vladimir Boltyanski, Horst Martini, Petru S. Soltan. *Excursions into Combinatorial Geometry.* Springer, 1997. [DOI](https://doi.org/10.1007/978-3-642-59237-9)
 - **[Book]** Martin Aigner and Günter M. Ziegler. *Proofs from THE BOOK*, chapter on Borsuk's conjecture. Springer, 6th ed., 2018.
 
 ## 10. Worked Example / Concrete Special Case

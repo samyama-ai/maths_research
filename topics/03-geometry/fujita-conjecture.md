@@ -116,19 +116,19 @@ together with vanishing that tolerates the residual positivity $ (m-c)L$ being m
 ## 9. Key References
 
 - **[Foundational]** T. Fujita. *On polarized manifolds whose adjoint bundles are not semipositive.* In: Algebraic Geometry, Sendai 1985, Advanced Studies in Pure Mathematics 10, North-Holland, 1987, pp. 167–178.
-- **[Foundational]** I. Reider. *Vector bundles of rank 2 and linear systems on algebraic surfaces.* Annals of Mathematics 127 (1988), 309–316.
-- **[Foundational]** L. Ein, R. Lazarsfeld. *Global generation of pluricanonical and adjoint linear series on smooth projective threefolds.* Journal of the American Mathematical Society 6 (1993), 875–903.
-- **[Foundational]** J. Kollár. *Effective base point freeness.* Mathematische Annalen 296 (1993), 595–605.
-- **[Foundational]** J.-P. Demailly. *A numerical criterion for very ample line bundles.* Journal of Differential Geometry 37 (1993), 323–374.
-- **[SOTA]** U. Angehrn, Y.-T. Siu. *Effective freeness and point separation for adjoint bundles.* Inventiones Mathematicae 122 (1995), 291–308.
-- **[SOTA]** Y. Kawamata. *On Fujita's freeness conjecture for 3-folds and 4-folds.* Mathematische Annalen 308 (1997), 491–505.
+- **[Foundational]** I. Reider. *Vector bundles of rank 2 and linear systems on algebraic surfaces.* Annals of Mathematics 127 (1988), 309–316. [DOI](https://doi.org/10.2307/2007055)
+- **[Foundational]** L. Ein, R. Lazarsfeld. *Global generation of pluricanonical and adjoint linear series on smooth projective threefolds.* Journal of the American Mathematical Society 6 (1993), 875–903. [DOI](https://doi.org/10.1090/s0894-0347-1993-1207013-5)
+- **[Foundational]** J. Kollár. *Effective base point freeness.* Mathematische Annalen 296 (1993), 595–605. [DOI](https://doi.org/10.1007/bf01445123)
+- **[Foundational]** J.-P. Demailly. *A numerical criterion for very ample line bundles.* Journal of Differential Geometry 37 (1993), 323–374. [DOI](https://doi.org/10.4310/jdg/1214453680)
+- **[SOTA]** U. Angehrn, Y.-T. Siu. *Effective freeness and point separation for adjoint bundles.* Inventiones Mathematicae 122 (1995), 291–308. [DOI](https://doi.org/10.1007/bf01231446)
+- **[SOTA]** Y. Kawamata. *On Fujita's freeness conjecture for 3-folds and 4-folds.* Mathematische Annalen 308 (1997), 491–505. [DOI](https://doi.org/10.1007/s002080050085)
 - **[SOTA]** S. Helmke. *On Fujita's conjecture.* Duke Mathematical Journal 88 (1997), 201–216.
-- **[SOTA]** G. Heier. *Effective freeness of adjoint line bundles.* Documenta Mathematica 7 (2002), 31–42.
-- **[SOTA / Recent]** F. Ye, Z. Zhu. *On Fujita's freeness conjecture in dimension 5.* (arXiv:1511.06126; published version in Advances in Mathematics, 2020.)
-- **[Special case]** O. Fujino. *Notes on toric varieties from Mori theoretic viewpoint.* Tohoku Mathematical Journal 55 (2003), 551–564.
-- **[Special case]** S. Payne. *Fujita's very ampleness conjecture for singular toric varieties.* Tohoku Mathematical Journal 58 (2006), 447–459.
-- **[Survey]** R. Lazarsfeld. *Positivity in Algebraic Geometry I & II.* Ergebnisse der Mathematik 48–49, Springer, 2004. (Chapters 9–11 cover multiplier ideals and Fujita-type results.)
-- **[Survey]** Y. Kawamata. *On effective non-vanishing and base-point-freeness.* Asian Journal of Mathematics 4 (2000), 173–181.
+- **[SOTA]** G. Heier. *Effective freeness of adjoint line bundles.* Documenta Mathematica 7 (2002), 31–42. [DOI](https://doi.org/10.4171/dm/116)
+- **[SOTA / Recent]** F. Ye, Z. Zhu. *On Fujita's freeness conjecture in dimension 5.* (arXiv:1511.06126; published version in Advances in Mathematics, 2020.). [DOI](https://doi.org/10.1016/j.aim.2020.107210)
+- **[Special case]** O. Fujino. *Notes on toric varieties from Mori theoretic viewpoint.* Tohoku Mathematical Journal 55 (2003), 551–564. [DOI](https://doi.org/10.2748/tmj/1113247130)
+- **[Special case]** S. Payne. *Fujita's very ampleness conjecture for singular toric varieties.* Tohoku Mathematical Journal 58 (2006), 447–459. [DOI](https://doi.org/10.2748/tmj/1163775140)
+- **[Survey]** R. Lazarsfeld. *Positivity in Algebraic Geometry I & II.* Ergebnisse der Mathematik 48–49, Springer, 2004. (Chapters 9–11 cover multiplier ideals and Fujita-type results.). [DOI](https://doi.org/10.1007/978-3-642-18810-7)
+- **[Survey]** Y. Kawamata. *On effective non-vanishing and base-point-freeness.* Asian Journal of Mathematics 4 (2000), 173–181. [DOI](https://doi.org/10.4310/ajm.2000.v4.n1.a11)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -135,18 +135,18 @@ For the statement in Section 1 there is no gap: it is proven. The live boundarie
 
 - **[Foundational]** J. Milnor. *Algebraic K-theory and quadratic forms.* Inventiones Mathematicae 9 (1970), 318–344.
 - **[Foundational]** J. Tate. *Relations between $K_2$ and Galois cohomology.* Inventiones Mathematicae 36 (1976), 257–274.
-- **[Foundational]** A. Merkurjev, A. Suslin. *K-cohomology of Severi–Brauer varieties and the norm residue homomorphism.* Izv. Akad. Nauk SSSR Ser. Mat. 46 (1982), 1011–1046.
+- **[Foundational]** A. Merkurjev, A. Suslin. *K-cohomology of Severi–Brauer varieties and the norm residue homomorphism.* Izv. Akad. Nauk SSSR Ser. Mat. 46 (1982), 1011–1046. [DOI](https://doi.org/10.1070/im1983v021n02abeh001793)
 - **[Foundational]** S. Bloch, K. Kato. *p-adic étale cohomology.* Publications Mathématiques de l'IHÉS 63 (1986), 107–152.
 - **[SOTA]** V. Voevodsky. *Motivic cohomology with $\mathbb{Z}/2$-coefficients.* Publications Mathématiques de l'IHÉS 98 (2003), 59–104.
 - **[SOTA]** V. Voevodsky. *On motivic cohomology with $\mathbb{Z}/\ell$-coefficients.* Annals of Mathematics 174 (2011), 401–438.
-- **[SOTA]** V. Voevodsky. *Motivic Eilenberg–MacLane spaces.* Publications Mathématiques de l'IHÉS 112 (2010), 1–99.
-- **[SOTA]** C. Weibel. *The norm residue isomorphism theorem.* Journal of Topology 2 (2009), 346–372.
+- **[SOTA]** V. Voevodsky. *Motivic Eilenberg–MacLane spaces.* Publications Mathématiques de l'IHÉS 112 (2010), 1–99. [DOI](https://doi.org/10.1007/s10240-010-0024-9)
+- **[SOTA]** C. Weibel. *The norm residue isomorphism theorem.* Journal of Topology 2 (2009), 346–372. [DOI](https://doi.org/10.1112/jtopol/jtp013)
 - **[SOTA]** A. Suslin, S. Joukhovitski. *Norm varieties.* Journal of Pure and Applied Algebra 206 (2006), 245–276.
-- **[Survey / Book]** C. Haesemeyer, C. Weibel. *The Norm Residue Theorem in Motivic Cohomology.* Annals of Mathematics Studies 200, Princeton University Press, 2019.
+- **[Survey / Book]** C. Haesemeyer, C. Weibel. *The Norm Residue Theorem in Motivic Cohomology.* Annals of Mathematics Studies 200, Princeton University Press, 2019. [DOI](https://doi.org/10.23943/princeton/9780691191041.001.0001)
 - **[Survey]** C. Mazza, V. Voevodsky, C. Weibel. *Lecture Notes on Motivic Cohomology.* Clay Mathematics Monographs 2, AMS, 2006.
-- **[Survey]** A. Suslin, V. Voevodsky. *Bloch–Kato conjecture and motivic cohomology with finite coefficients.* In *The Arithmetic and Geometry of Algebraic Cycles*, NATO Sci. Ser. C 548, Kluwer, 2000, 117–189.
+- **[Survey]** A. Suslin, V. Voevodsky. *Bloch–Kato conjecture and motivic cohomology with finite coefficients.* In *The Arithmetic and Geometry of Algebraic Cycles*, NATO Sci. Ser. C 548, Kluwer, 2000, 117–189. [DOI](https://doi.org/10.1007/978-94-011-4098-0_5)
 - **[Related]** S. Bloch, K. Kato. *L-functions and Tamagawa numbers of motives.* In *The Grothendieck Festschrift I*, Progress in Mathematics 86, Birkhäuser, 1990, 333–400.
-- **[Related]** T. Geisser, M. Levine. *The Bloch–Kato conjecture and a theorem of Suslin–Voevodsky.* Journal für die reine und angewandte Mathematik 530 (2001), 55–103.
+- **[Related]** T. Geisser, M. Levine. *The Bloch–Kato conjecture and a theorem of Suslin–Voevodsky.* Journal für die reine und angewandte Mathematik 530 (2001), 55–103. [DOI](https://doi.org/10.1515/crll.2001.006)
 
 ## 10. Worked Example / Concrete Special Case
 

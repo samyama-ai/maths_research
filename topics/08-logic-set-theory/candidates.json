@@ -198,12 +198,6 @@
     "description": "Do all non trivial rings have an invariant basis number."
   },
   {
-    "title": "Whitehead Asphericity Conjecture",
-    "slug": "whitehead-asphericity-conjecture",
-    "status": "partially-solved",
-    "description": "Is any subcomplex of an aspherical two dimensional complex also aspherical."
-  },
-  {
     "title": "Word Problem for One Relation Groups",
     "slug": "word-problem-for-one-relation-groups",
     "status": "partially-solved",
@@ -790,5 +784,367 @@
     "slug": "forcing-axiom-cohen-reals",
     "status": "open",
     "description": "Exploring maximal consistent variations of forcing axioms restricted to adding Cohen reals."
+  },
+  {
+    "title": "Hartogs Number and the Halpern\u2013L\u00e4uchli Theorem at Large Cardinals",
+    "slug": "halpern-lauchli-theorem-at-large-cardinals",
+    "status": "open",
+    "description": "Does the tree partition theorem hold at successors of singulars",
+    "status_note": null
+  },
+  {
+    "title": "Galvin's Conjecture on Colorings of Pairs of Reals",
+    "slug": "galvin-conjecture-basis-uncountable-orders",
+    "status": "partially-solved",
+    "description": "Finite basis for uncountable linear orders under embedding"
+  },
+  {
+    "title": "Sacks' Question on Degrees of Constructibility",
+    "slug": "sacks-degrees-of-constructibility-problem",
+    "status": "open",
+    "description": "Which partial orders embed as constructibility degree structures"
+  },
+  {
+    "title": "Existence of a Souslin Tree from Weak Diamond",
+    "slug": "souslin-tree-from-weak-diamond",
+    "status": "open",
+    "description": "Does weak diamond imply a Souslin tree exists"
+  },
+  {
+    "title": "The Free Set Problem for Set Mappings on Singular Cardinals",
+    "slug": "free-set-problem-set-mappings-singulars",
+    "status": "partially-solved",
+    "description": "Free sets for set mappings of singular order"
+  },
+  {
+    "title": "Shelah's Strong Hypothesis and PCF Conjecture on Bounded Pcf Sets",
+    "slug": "pcf-conjecture-bounded-pcf-sets",
+    "status": "open",
+    "description": "Is pcf of a progressive interval of bounded size"
+  },
+  {
+    "title": "Existence of Jonsson Algebras at Successors of Singular Cardinals",
+    "slug": "jonsson-successor-of-singular-problem",
+    "status": "open",
+    "description": "Jonsson algebra existence at successors of singular cardinals"
+  },
+  {
+    "title": "The Definable Cardinality of Quotients by Turbulent Actions",
+    "slug": "turbulence-and-definable-cardinality-quotients",
+    "status": "partially-solved",
+    "description": "Classifying orbit equivalence relations of turbulent Polish actions"
+  },
+  {
+    "title": "Hjorth's Conjecture on Treeable Equivalence Relations",
+    "slug": "treeability-conjecture-borel-equivalence",
+    "status": "open",
+    "description": "Structure of treeable countable Borel equivalence relations"
+  },
+  {
+    "title": "The Union Problem for Hyperfinite Equivalence Relations",
+    "slug": "hyperfiniteness-of-actions-of-amenable-groups",
+    "status": "partially-solved",
+    "description": "Are all orbit relations of amenable groups hyperfinite"
+  },
+  {
+    "title": "Borel Complexity of the Isomorphism Relation for Separable Banach Spaces",
+    "slug": "borel-complexity-isomorphism-banach-spaces",
+    "status": "partially-solved",
+    "description": "Complexity of isomorphism among separable Banach spaces"
+  },
+  {
+    "title": "Friedman's Conjecture on Boolean Relation Theory",
+    "slug": "boolean-relation-theory-independence",
+    "status": "partially-solved",
+    "description": "Independence phenomena in Boolean relation theory statements"
+  },
+  {
+    "title": "The Reverse Mathematics Strength of Hindman's Theorem",
+    "slug": "reverse-mathematics-hindman-theorem",
+    "status": "open",
+    "description": "Exact proof-theoretic strength of Hindman finite sums theorem"
+  },
+  {
+    "title": "Provability Strength of the Graph Minor Theorem",
+    "slug": "proof-theoretic-strength-graph-minor-theorem",
+    "status": "partially-solved",
+    "description": "Exact ordinal strength of the Robertson-Seymour theorem"
+  },
+  {
+    "title": "Ordinal Analysis of Full Second-Order Arithmetic",
+    "slug": "ordinal-analysis-second-order-arithmetic",
+    "status": "open",
+    "description": "Compute a proof-theoretic ordinal for full analysis"
+  },
+  {
+    "title": "Consistency of NF with Choice-Like Principles",
+    "slug": "nf-and-choice-fragments",
+    "status": "open",
+    "description": "Which choice fragments are consistent with New Foundations"
+  },
+  {
+    "title": "Existence of Isomorphic Nonstandard Models of Arithmetic under CH",
+    "slug": "isomorphism-of-nonstandard-models-arithmetic",
+    "status": "partially-solved",
+    "description": "Are all countably saturated models of arithmetic isomorphic"
+  },
+  {
+    "title": "Tennenbaum Phenomena for Fragments of Arithmetic",
+    "slug": "tennenbaum-phenomena-for-fragments",
+    "status": "open",
+    "description": "Do recursive nonstandard models of weak arithmetic exist"
+  },
+  {
+    "title": "Wilkie's Problem on Models of Bounded Arithmetic and Factoring",
+    "slug": "bounded-arithmetic-provability-of-factoring",
+    "status": "open",
+    "description": "Can bounded arithmetic prove basic number-theoretic facts"
+  },
+  {
+    "title": "The Finite Axiomatizability Problem for Bounded Arithmetic Hierarchy",
+    "slug": "collapse-of-bounded-arithmetic-hierarchy",
+    "status": "open",
+    "description": "Does the bounded arithmetic hierarchy provably collapse"
+  },
+  {
+    "title": "Existence of a Complete Problem for NP-Search in Weak Theories",
+    "slug": "proof-complexity-of-frege-systems",
+    "status": "open",
+    "description": "Superpolynomial lower bounds for Frege proof systems"
+  },
+  {
+    "title": "Automatizability of Resolution Proof Search",
+    "slug": "automatizability-of-resolution",
+    "status": "partially-solved",
+    "description": "Can resolution proofs be found in quasipolynomial time"
+  },
+  {
+    "title": "Baumgartner's Problem on Isomorphism of Aleph-One Dense Sets",
+    "slug": "baumgartner-axiom-higher-cardinals",
+    "status": "open",
+    "description": "Generalizing all aleph-one dense sets isomorphic to aleph-two"
+  },
+  {
+    "title": "The Ultrafilter Number versus the Splitting Number",
+    "slug": "ultrafilter-number-versus-splitting-number",
+    "status": "partially-solved",
+    "description": "Consistency of ultrafilter number below splitting number"
+  },
+  {
+    "title": "Rudin\u2013Keisler Structure of Ultrafilters without CH",
+    "slug": "rudin-keisler-order-structure-problem",
+    "status": "open",
+    "description": "Structure of Rudin-Keisler order on nonprincipal ultrafilters"
+  },
+  {
+    "title": "Existence of Selective Ultrafilters in ZFC",
+    "slug": "selective-ultrafilters-existence-zfc",
+    "status": "partially-solved",
+    "description": "Are selective ultrafilters provably existent without extra axioms"
+  },
+  {
+    "title": "Van Douwen's Problem on Maximal Almost Disjoint Families",
+    "slug": "van-douwen-maximal-almost-disjoint-families",
+    "status": "partially-solved",
+    "description": "Existence of Van Douwen maximal almost disjoint families"
+  },
+  {
+    "title": "Definability of Maximal Almost Disjoint Families",
+    "slug": "definable-maximal-almost-disjoint-families",
+    "status": "partially-solved",
+    "description": "Can a maximal almost disjoint family be analytic"
+  },
+  {
+    "title": "The Automorphism Problem for the Calkin Algebra",
+    "slug": "outer-automorphisms-of-calkin-algebra",
+    "status": "partially-solved",
+    "description": "Does the Calkin algebra have outer automorphisms"
+  },
+  {
+    "title": "Naimark's Problem for Separable C*-Algebras",
+    "slug": "naimark-problem-set-theoretic",
+    "status": "partially-solved",
+    "description": "Unique irreducible representation characterizes the compact operators"
+  },
+  {
+    "title": "Cardinal Characteristics of the Continuum at Uncountable Cardinals: Generalized Cicho\u0144 Diagram",
+    "slug": "generalized-cichon-diagram-uncountable",
+    "status": "open",
+    "description": "Which generalized cardinal invariant separations are consistent at uncountable kappa",
+    "status_note": "open"
+  },
+  {
+    "title": "Hindman's Finite Sums Theorem for Bounded Sums (Owings' Problem)",
+    "slug": "owings-problem-bounded-sums",
+    "status": "open",
+    "description": "Can pairs of sums be colored with finitely many hues"
+  },
+  {
+    "title": "The Halpern\u2013L\u00e4uchli Problem for Products of Infinitely Many Trees",
+    "slug": "halpern-lauchli-infinite-products",
+    "status": "open",
+    "description": "Does the partition theorem hold for infinitely many trees"
+  },
+  {
+    "title": "Existence of a Definable Well-Ordering in the Chang Model",
+    "slug": "definable-wellordering-chang-model",
+    "status": "open",
+    "description": "Can the Chang model admit a definable well-ordering"
+  },
+  {
+    "title": "Todorcevic's Conjecture on Basis for Uncountable Graphs",
+    "slug": "basis-problem-uncountable-graphs",
+    "status": "open",
+    "description": "Is there a finite basis for uncountable graphs"
+  },
+  {
+    "title": "The Weak Freese\u2013Nation Property of the Power Set of Omega",
+    "slug": "weak-freese-nation-property-powerset",
+    "status": "open",
+    "description": "Consistency strength of weak Freese-Nation failure for reals"
+  },
+  {
+    "title": "Existence of a Kurepa Tree with No Aronszajn Subtree",
+    "slug": "kurepa-tree-without-aronszajn-subtree",
+    "status": "open",
+    "description": "Can every Kurepa tree avoid Aronszajn subtrees"
+  },
+  {
+    "title": "The Scheepers Diagram: Selection Principles Completeness Problem",
+    "slug": "scheepers-diagram-completeness",
+    "status": "open",
+    "description": "Are all remaining implications in the Scheepers diagram settled"
+  },
+  {
+    "title": "The Menger Conjecture for Definable Sets of Reals",
+    "slug": "menger-property-definable-sets",
+    "status": "partially-solved",
+    "description": "Are definable Menger sets of reals necessarily sigma-compact"
+  },
+  {
+    "title": "Fraisse's Conjecture over Reverse Mathematics (ATR0 Equivalence)",
+    "slug": "fraisse-conjecture-reverse-mathematics",
+    "status": "open",
+    "description": "Exact proof-theoretic strength of linear order embeddability quasi-ordering"
+  },
+  {
+    "title": "Ordinal Analysis of Kruskal's Theorem Generalizations to Graphs",
+    "slug": "ordinal-strength-of-graph-minor-wqo",
+    "status": "open",
+    "description": "Precise ordinal notation for graph minor well-quasi-ordering"
+  },
+  {
+    "title": "The Hartmanis\u2013Stearns Style Problem for Nonstandard Models: Kaye's Question",
+    "slug": "automorphism-groups-of-countable-models-pa",
+    "status": "open",
+    "description": "Reconstructing models of arithmetic from their automorphism groups"
+  },
+  {
+    "title": "The Wilkie Problem on Model Completeness of the Real Field with Zeta",
+    "slug": "model-completeness-restricted-analytic-zeta",
+    "status": "open",
+    "description": "Is the reals with restricted zeta model complete"
+  },
+  {
+    "title": "Pillay's Conjecture for Non-Compact Definable Groups",
+    "slug": "pillay-conjecture-noncompact-groups",
+    "status": "partially-solved",
+    "description": "Structure of definable groups in o-minimal theories"
+  },
+  {
+    "title": "The Elementary Equivalence Problem for Finitely Generated Nilpotent Groups",
+    "slug": "elementary-equivalence-nilpotent-groups",
+    "status": "partially-solved",
+    "description": "Do elementarily equivalent nilpotent groups share isomorphism type"
+  },
+  {
+    "title": "Decidability of the Theory of Finite Fields with Frobenius (Ax's Problem Extension)",
+    "slug": "decidability-difference-fields-frobenius",
+    "status": "partially-solved",
+    "description": "Is the theory of Frobenius difference fields decidable"
+  },
+  {
+    "title": "Borel Complexity of the Isomorphism Relation for Torsion-Free Abelian Groups of Finite Rank",
+    "slug": "borel-complexity-finite-rank-abelian",
+    "status": "partially-solved",
+    "description": "Increasing complexity of isomorphism as rank grows"
+  },
+  {
+    "title": "The Ramsey Property for Analytic Sets in Generic Extensions",
+    "slug": "analytic-ramsey-property-generic-extensions",
+    "status": "open",
+    "description": "Ramsey measurability of projective sets from large cardinals"
+  },
+  {
+    "title": "Existence of Universal Graphs at Successors of Singular Cardinals",
+    "slug": "universal-graphs-successor-of-singular",
+    "status": "open",
+    "description": "Can small universal families exist above singular cardinals"
+  },
+  {
+    "title": "The Ultrafilter Extension Problem: Existence of Nowhere Dense Ultrafilters in ZFC",
+    "slug": "nowhere-dense-ultrafilters-existence",
+    "status": "open",
+    "description": "Does ZFC prove nowhere dense ultrafilters exist"
+  },
+  {
+    "title": "The Q-Point Existence Problem",
+    "slug": "q-point-ultrafilters-existence",
+    "status": "open",
+    "description": "Does ZFC prove there exist Q-point ultrafilters"
+  },
+  {
+    "title": "Fremlin's Problem on Measure Extension and the Control Measure Problem",
+    "slug": "control-measure-problem",
+    "status": "open",
+    "description": "Does every continuous submeasure admit an equivalent measure"
+  },
+  {
+    "title": "Banach's Measure Problem for Sigma-Finite Measures on Small Cardinals",
+    "slug": "real-valued-measurable-cardinal-structure",
+    "status": "open",
+    "description": "Structure theory of real-valued measurable cardinals below continuum"
+  },
+  {
+    "title": "The Amenability Problem for Definable Group Actions and Borel Cardinality",
+    "slug": "borel-cardinality-of-group-orbit-equivalence",
+    "status": "open",
+    "description": "Classifying orbit equivalence relations of countable group actions"
+  },
+  {
+    "title": "Reverse Mathematics of the Nash\u2013Williams Better-Quasi-Order Theory",
+    "slug": "reverse-mathematics-bqo-theory",
+    "status": "open",
+    "description": "Proof strength of better-quasi-order minimal bad array argument"
+  },
+  {
+    "title": "The Consistency Strength of the Failure of the Free Subset Property",
+    "slug": "free-subset-property-consistency-strength",
+    "status": "open",
+    "description": "Exact strength of free subsets for singular cardinals"
+  },
+  {
+    "title": "Approachability Ideal and the Approachable Free Subset Property",
+    "slug": "approachable-free-subset-property",
+    "status": "partially-solved",
+    "description": "Strength of approachable free subset property at singulars"
+  },
+  {
+    "title": "Woodin's HOD Conjecture",
+    "slug": "hod-conjecture",
+    "status": "open",
+    "description": "Is HOD close to V above an extendible cardinal"
+  },
+  {
+    "title": "The Sigma-1-3 Absoluteness Problem and Its Consistency Strength",
+    "slug": "sigma-1-3-absoluteness",
+    "status": "partially-solved",
+    "description": "Large cardinal strength of third-level projective absoluteness"
+  },
+  {
+    "title": "Proof Complexity Lower Bounds for Cutting Planes with Large Coefficients",
+    "slug": "cutting-planes-large-coefficients-lower-bounds",
+    "status": "open",
+    "description": "Superpolynomial lower bounds for unbounded-coefficient cutting planes proofs"
   }
 ]

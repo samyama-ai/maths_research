@@ -100,21 +100,21 @@ For the original statement there is no remaining gap: primeness plus alternation
 ## 9. Key References
 
 - **[Foundational]** P. G. Tait. *On Knots I, II, III.* In: Scientific Papers, Vol. 1, Cambridge University Press, 1898 (papers originally 1877–1885).
-- **[Foundational]** H. Schubert. *Knoten mit zwei Brücken.* Mathematische Zeitschrift 65 (1956), 133–170.
-- **[Foundational]** W. Menasco. *Closed incompressible surfaces in alternating knot and link complements.* Topology 23 (1984), 37–44.
-- **[Foundational]** L. H. Kauffman. *State models and the Jones polynomial.* Topology 26 (1987), 395–407.
-- **[Foundational]** K. Murasugi. *Jones polynomials and classical conjectures in knot theory.* Topology 26 (1987), 187–194.
-- **[Foundational]** M. B. Thistlethwaite. *A spanning tree expansion of the Jones polynomial.* Topology 26 (1987), 297–309.
-- **[Resolution]** W. Menasco and M. Thistlethwaite. *The Tait flyping conjecture.* Bulletin of the American Mathematical Society 25 (1991), 403–412.
-- **[Resolution]** W. Menasco and M. Thistlethwaite. *The classification of alternating links.* Annals of Mathematics 138 (1993), 113–171.
-- **[SOTA / Recent]** J. Greene. *Alternating links and definite surfaces.* Duke Mathematical Journal 166 (2017), 2133–2151.
-- **[SOTA / Recent]** J. Howie. *A characterisation of alternating knot exteriors.* Geometry & Topology 21 (2017), 2353–2371.
-- **[SOTA / Recent]** H. U. Boden and H. Karimi. *The Jones–Krushkal polynomial and minimal diagrams of surface links.* Annales de l'Institut Fourier 72 (2022), 1437–1475.
-- **[Computational]** C. Sundberg and M. Thistlethwaite. *The rate of growth of the number of prime alternating links and tangles.* Pacific Journal of Mathematics 182 (1998), 329–358.
+- **[Foundational]** H. Schubert. *Knoten mit zwei Brücken.* Mathematische Zeitschrift 65 (1956), 133–170. [DOI](https://doi.org/10.1007/bf01473875)
+- **[Foundational]** W. Menasco. *Closed incompressible surfaces in alternating knot and link complements.* Topology 23 (1984), 37–44. [DOI](https://doi.org/10.1016/0040-9383(84)90023-5)
+- **[Foundational]** L. H. Kauffman. *State models and the Jones polynomial.* Topology 26 (1987), 395–407. [DOI](https://doi.org/10.1016/0040-9383(87)90009-7)
+- **[Foundational]** K. Murasugi. *Jones polynomials and classical conjectures in knot theory.* Topology 26 (1987), 187–194. [DOI](https://doi.org/10.1016/0040-9383(87)90058-9)
+- **[Foundational]** M. B. Thistlethwaite. *A spanning tree expansion of the Jones polynomial.* Topology 26 (1987), 297–309. [DOI](https://doi.org/10.1016/0040-9383(87)90003-6)
+- **[Resolution]** W. Menasco and M. Thistlethwaite. *The Tait flyping conjecture.* Bulletin of the American Mathematical Society 25 (1991), 403–412. [DOI](https://doi.org/10.1090/s0273-0979-1991-16083-0)
+- **[Resolution]** W. Menasco and M. Thistlethwaite. *The classification of alternating links.* Annals of Mathematics 138 (1993), 113–171. [DOI](https://doi.org/10.2307/2946636)
+- **[SOTA / Recent]** J. Greene. *Alternating links and definite surfaces.* Duke Mathematical Journal 166 (2017), 2133–2151. [DOI](https://doi.org/10.1215/00127094-2017-0004)
+- **[SOTA / Recent]** J. Howie. *A characterisation of alternating knot exteriors.* Geometry & Topology 21 (2017), 2353–2371. [DOI](https://doi.org/10.2140/gt.2017.21.2353)
+- **[SOTA / Recent]** H. U. Boden and H. Karimi. *The Jones–Krushkal polynomial and minimal diagrams of surface links.* Annales de l'Institut Fourier 72 (2022), 1437–1475. [DOI](https://doi.org/10.5802/aif.3516)
+- **[Computational]** C. Sundberg and M. Thistlethwaite. *The rate of growth of the number of prime alternating links and tangles.* Pacific Journal of Mathematics 182 (1998), 329–358. [DOI](https://doi.org/10.2140/pjm.1998.182.329)
 - **[Computational]** J. Hoste, M. Thistlethwaite and J. Weeks. *The first 1,701,936 knots.* The Mathematical Intelligencer 20 (1998), 33–48.
 - **[Computational]** B. A. Burton. *The next 350 million knots.* Proceedings of the 36th International Symposium on Computational Geometry (SoCG 2020), LIPIcs 164.
 - **[Survey]** W. B. R. Lickorish. *An Introduction to Knot Theory.* Springer GTM 175, 1997 (Chapters 5–6 for the Tait conjectures).
-- **[Survey]** P. Zinn-Justin and J.-B. Zuber. *Matrix integrals and the counting of tangles and links.* Discrete Mathematics 246 (2002), 343–360.
+- **[Survey]** P. Zinn-Justin and J.-B. Zuber. *Matrix integrals and the counting of tangles and links.* Discrete Mathematics 246 (2002), 343–360. [DOI](https://doi.org/10.1016/s0012-365x(01)00267-9)
 
 ## 10. Worked Example / Concrete Special Case
 

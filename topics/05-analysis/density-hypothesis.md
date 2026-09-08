@@ -112,9 +112,9 @@ in which the second term never exceeds $T^{2-2\sigma}$. Equivalently: prove that
 - **[Foundational]** A. E. Ingham. *On the estimation of $N(\sigma,T)$.* Quarterly Journal of Mathematics (Oxford) 11 (1940), 291–292.
 - **[Foundational]** A. Selberg. *Contributions to the theory of the Riemann zeta-function.* Archiv for Mathematik og Naturvidenskab B 48 (1946), 89–155.
 - **[Foundational]** H. L. Montgomery. *Topics in Multiplicative Number Theory.* Lecture Notes in Mathematics 227, Springer, 1971.
-- **[Foundational]** M. N. Huxley. *On the difference between consecutive primes.* Inventiones Mathematicae 15 (1972), 164–170.
-- **[Partial results]** M. Jutila. *Zero-density estimates for $L$-functions.* Acta Arithmetica 32 (1977), 55–62.
-- **[Partial results]** D. R. Heath-Brown. *Zero density estimates for the Riemann zeta-function and Dirichlet $L$-functions.* Journal of the London Mathematical Society (2) 19 (1979), 221–232.
+- **[Foundational]** M. N. Huxley. *On the difference between consecutive primes.* Inventiones Mathematicae 15 (1972), 164–170. [DOI](https://doi.org/10.1007/bf01418933)
+- **[Partial results]** M. Jutila. *Zero-density estimates for $L$-functions.* Acta Arithmetica 32 (1977), 55–62. [DOI](https://doi.org/10.4064/aa-32-1-55-62)
+- **[Partial results]** D. R. Heath-Brown. *Zero density estimates for the Riemann zeta-function and Dirichlet $L$-functions.* Journal of the London Mathematical Society (2) 19 (1979), 221–232. [DOI](https://doi.org/10.1112/jlms/s2-19.2.221)
 - **[Partial results]** J. Bourgain. *On large values estimates for Dirichlet polynomials and the density hypothesis for the Riemann zeta function.* International Mathematics Research Notices 2000, no. 3, 133–146.
 - **[SOTA / Recent]** L. Guth and J. Maynard. *New large value estimates for Dirichlet polynomials.* arXiv:2405.20552, 2024.
 - **[SOTA / Recent]** T. Tao, T. Trudgian and A. Yang. *New exponent pairs, zero density estimates, and zero additive energy estimates: a systematic approach.* arXiv:2306.05599, 2023.

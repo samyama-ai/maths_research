@@ -114,16 +114,16 @@ The smallest unresolved instance is the abelian fourfold of Weil type with $\mat
 - **[Foundational]** M. Kuga. *Fiber Varieties over a Symmetric Space whose Fibers are Abelian Varieties.* Lecture Notes, University of Chicago, 1963–64.
 - **[Foundational]** M. Kuga and I. Satake. *Abelian varieties attached to polarized $K_3$-surfaces.* Mathematische Annalen 169 (1967), 239–242.
 - **[Foundational]** I. Satake. *Algebraic Structures of Symmetric Domains.* Iwanami Shoten / Princeton University Press, 1980.
-- **[Foundational]** D. Mumford. *A note of Shimura's paper "Discontinuous groups and abelian varieties".* Mathematische Annalen 181 (1969), 345–351.
-- **[Foundational]** A. Weil. *Abelian varieties and the Hodge ring.* Collected Papers, Vol. III, Springer, 1979.
-- **[Foundational]** P. Deligne (notes by J. S. Milne). *Hodge cycles on abelian varieties.* In: Hodge Cycles, Motives, and Shimura Varieties, Lecture Notes in Mathematics 900, Springer, 1982.
-- **[SOTA / Recent]** B. B. Gordon. *Algebraic cycles and the Hodge structure of a Kuga fiber variety.* Transactions of the American Mathematical Society 336 (1993), 933–947.
-- **[SOTA / Recent]** S. Abdulali. *Algebraic cycles in families of abelian varieties.* Canadian Journal of Mathematics 46 (1994), 1121–1134.
-- **[SOTA / Recent]** S. Abdulali. *Hodge structures on abelian varieties of type III.* Annals of Mathematics (2) 155 (2002), 915–928.
+- **[Foundational]** D. Mumford. *A note of Shimura's paper "Discontinuous groups and abelian varieties".* Mathematische Annalen 181 (1969), 345–351. [DOI](https://doi.org/10.1007/bf01350672)
+- **[Foundational]** A. Weil. *Abelian varieties and the Hodge ring.* Collected Papers, Vol. III, Springer, 1979. [DOI](https://doi.org/10.1007/978-1-4757-1705-1_123)
+- **[Foundational]** P. Deligne (notes by J. S. Milne). *Hodge cycles on abelian varieties.* In: Hodge Cycles, Motives, and Shimura Varieties, Lecture Notes in Mathematics 900, Springer, 1982. [DOI](https://doi.org/10.1007/978-3-540-38955-2_3)
+- **[SOTA / Recent]** B. B. Gordon. *Algebraic cycles and the Hodge structure of a Kuga fiber variety.* Transactions of the American Mathematical Society 336 (1993), 933–947. [DOI](https://doi.org/10.2307/2154385)
+- **[SOTA / Recent]** S. Abdulali. *Algebraic cycles in families of abelian varieties.* Canadian Journal of Mathematics 46 (1994), 1121–1134. [DOI](https://doi.org/10.4153/cjm-1994-063-0)
+- **[SOTA / Recent]** S. Abdulali. *Hodge structures on abelian varieties of type III.* Annals of Mathematics (2) 155 (2002), 915–928. [DOI](https://doi.org/10.2307/3062136)
 - **[SOTA / Recent]** C. Schoen. *Hodge classes on self-products of a variety with an automorphism.* Compositio Mathematica 65 (1988), 3–32.
 - **[SOTA / Recent]** B. Moonen and Yu. Zarhin. *The Hodge ring of abelian varieties.* Mathematische Annalen 315 (1999), 711–733.
 - **[Survey]** J. D. Lewis. *A Survey of the Hodge Conjecture*, 2nd ed. CRM Monograph Series 10, American Mathematical Society, 1999. (Appendix B on abelian varieties by B. B. Gordon.)
-- **[Survey]** B. van Geemen. *An introduction to the Hodge conjecture for abelian varieties.* In: Algebraic Cycles and Hodge Theory (Torino 1993), Lecture Notes in Mathematics 1594, Springer, 1994.
+- **[Survey]** B. van Geemen. *An introduction to the Hodge conjecture for abelian varieties.* In: Algebraic Cycles and Hodge Theory (Torino 1993), Lecture Notes in Mathematics 1594, Springer, 1994. [DOI](https://doi.org/10.1007/978-3-540-49046-3_5)
 - **[Survey]** M. Green, P. Griffiths, M. Kerr. *Mumford–Tate Groups and Domains: Their Geometry and Arithmetic.* Annals of Mathematics Studies 183, Princeton University Press, 2012.
 
 ## 10. Worked Example / Concrete Special Case

@@ -112,21 +112,21 @@ The precise missing step: **upgrade the Schwarz–Ahlfors comparison from a poin
 
 ## 9. Key References
 
-- **[Foundational]** A. Bloch. *Les théorèmes de M. Valiron sur les fonctions entières et la théorie de l'uniformisation.* Annales de la Faculté des Sciences de Toulouse (3) 17 (1925), 1–22.
-- **[Foundational]** E. Landau. *Über die Blochsche Konstante und zwei verwandte Weltkonstanten.* Mathematische Zeitschrift 30 (1929), 608–634.
-- **[Foundational]** L. V. Ahlfors, H. Grunsky. *Über die Blochsche Konstante.* Mathematische Zeitschrift 42 (1937), 671–673.
+- **[Foundational]** A. Bloch. *Les théorèmes de M. Valiron sur les fonctions entières et la théorie de l'uniformisation.* Annales de la Faculté des Sciences de Toulouse (3) 17 (1925), 1–22. [DOI](https://doi.org/10.5802/afst.335)
+- **[Foundational]** E. Landau. *Über die Blochsche Konstante und zwei verwandte Weltkonstanten.* Mathematische Zeitschrift 30 (1929), 608–634. [DOI](https://doi.org/10.1007/bf01187791)
+- **[Foundational]** L. V. Ahlfors, H. Grunsky. *Über die Blochsche Konstante.* Mathematische Zeitschrift 42 (1937), 671–673. [DOI](https://doi.org/10.1007/bf01160101)
 - **[Foundational]** L. V. Ahlfors. *An extension of Schwarz's lemma.* Transactions of the American Mathematical Society 43 (1938), 359–364.
-- **[Structural]** M. Heins. *On a class of conformal metrics.* Nagoya Mathematical Journal 21 (1962), 1–60.
+- **[Structural]** M. Heins. *On a class of conformal metrics.* Nagoya Mathematical Journal 21 (1962), 1–60. [DOI](https://doi.org/10.1017/s002776300002376x)
 - **[SOTA]** M. Bonk. *On Bloch's constant.* Proceedings of the American Mathematical Society 110 (1990), 889–894.
 - **[SOTA]** H. Chen, P. M. Gauthier. *On Bloch's constant.* Journal d'Analyse Mathématique 69 (1996), 275–291.
 - **[SOTA]** C. Xiong. *Lower bound of Bloch's constant.* Nagoya Mathematical Journal 150 (1998), 21–31.
-- **[SOTA]** H. Yanagihara. *On the locally univalent Bloch constant.* Journal d'Analyse Mathématique 65 (1995), 1–17.
-- **[SOTA]** M. Bonk, A. Eremenko. *Covering properties of meromorphic functions, negative curvature and spherical geometry.* Annals of Mathematics 152 (2000), 551–592.
-- **[Related]** A. Baernstein II, J. P. Vinson. *Local minimality results related to the Bloch and Landau constants.* In: Quasiconformal Mappings and Analysis, Springer, 1998, 55–89.
-- **[Related]** H. Chen, P. M. Gauthier, W. Hengartner. *Bloch constants for planar harmonic mappings.* Proceedings of the American Mathematical Society 128 (2000), 3231–3240.
-- **[Related]** C. H. FitzGerald, S. Gong. *The Bloch theorem in several complex variables.* Journal of Geometric Analysis 4 (1994), 35–58.
-- **[Survey]** C. D. Minda. *Bloch constants.* Journal d'Analyse Mathématique 41 (1982), 54–84.
-- **[Textbook]** J. B. Conway. *Functions of One Complex Variable II.* Springer GTM 159, 1995 (Chapter on Bloch's theorem).
+- **[SOTA]** H. Yanagihara. *On the locally univalent Bloch constant.* Journal d'Analyse Mathématique 65 (1995), 1–17. [DOI](https://doi.org/10.1007/bf02788763)
+- **[SOTA]** M. Bonk, A. Eremenko. *Covering properties of meromorphic functions, negative curvature and spherical geometry.* Annals of Mathematics 152 (2000), 551–592. [DOI](https://doi.org/10.2307/2661392)
+- **[Related]** A. Baernstein II, J. P. Vinson. *Local minimality results related to the Bloch and Landau constants.* In: Quasiconformal Mappings and Analysis, Springer, 1998, 55–89. [DOI](https://doi.org/10.1007/978-1-4612-0605-7_7)
+- **[Related]** H. Chen, P. M. Gauthier, W. Hengartner. *Bloch constants for planar harmonic mappings.* Proceedings of the American Mathematical Society 128 (2000), 3231–3240. [DOI](https://doi.org/10.1090/s0002-9939-00-05590-8)
+- **[Related]** C. H. FitzGerald, S. Gong. *The Bloch theorem in several complex variables.* Journal of Geometric Analysis 4 (1994), 35–58. [DOI](https://doi.org/10.1007/bf02921592)
+- **[Survey]** C. D. Minda. *Bloch constants.* Journal d'Analyse Mathématique 41 (1982), 54–84. [DOI](https://doi.org/10.1007/bf02803394)
+- **[Textbook]** J. B. Conway. *Functions of One Complex Variable II.* Springer GTM 159, 1995 (Chapter on Bloch's theorem). [DOI](https://doi.org/10.1007/978-1-4612-0817-4)
 - **[Textbook]** Ch. Pommerenke. *Univalent Functions.* Vandenhoeck & Ruprecht, Göttingen, 1975.
 
 ## 10. Worked Example / Concrete Special Case

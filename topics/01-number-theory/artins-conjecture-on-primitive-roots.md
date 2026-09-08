@@ -72,7 +72,7 @@ Leading analytic number theorists suggest that eliminating the final two excepti
 - **[SOTA / Recent]** Hooley, C. *On Artin's conjecture*. Journal für die reine und angewandte Mathematik, 1967.
 - **[SOTA / Recent]** Gupta, R., and Murty, M. R. *A remark on Artin's conjecture*. Inventiones Mathematicae, 1984.
 - **[SOTA / Recent]** Heath-Brown, D. R. *Artin's conjecture for primitive roots*. The Quarterly Journal of Mathematics, 1986.
-- **[Survey]** Moree, P. *Artin's primitive root conjecture—a survey*. Integers, 2012.
+- **[Survey]** Moree, P. *Artin's primitive root conjecture—a survey*. Integers, 2012. [DOI](https://doi.org/10.1515/integers-2012-0043)
 
 ## 10. Worked Example / Concrete Special Case
 

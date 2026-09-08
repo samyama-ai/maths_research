@@ -114,20 +114,20 @@ which is not a small quantitative shortfall but a **qualitative** one: any $\the
 
 ## 9. Key References
 
-- **[Foundational]** A. Selberg. *On the estimation of Fourier coefficients of modular forms.* Proc. Sympos. Pure Math. VIII, Amer. Math. Soc., 1965, pp. 1–15.
+- **[Foundational]** A. Selberg. *On the estimation of Fourier coefficients of modular forms.* Proc. Sympos. Pure Math. VIII, Amer. Math. Soc., 1965, pp. 1–15. [DOI](https://doi.org/10.1090/pspum/008/0182610)
 - **[Foundational]** A. Selberg. *Harmonic analysis and discontinuous groups in weakly symmetric Riemannian spaces with applications to Dirichlet series.* J. Indian Math. Soc. 20 (1956), 47–87.
-- **[Foundational]** P. Deligne. *La conjecture de Weil. I.* Publ. Math. IHÉS 43 (1974), 273–307.
+- **[Foundational]** P. Deligne. *La conjecture de Weil. I.* Publ. Math. IHÉS 43 (1974), 273–307. [DOI](https://doi.org/10.1007/bf02684373)
 - **[Key partial result]** W. Luo, Z. Rudnick, P. Sarnak. *On Selberg's eigenvalue conjecture.* Geom. Funct. Anal. 5 (1995), 387–401.
 - **[SOTA]** H. Kim. *Functoriality for the exterior square of $\mathrm{GL}_4$ and the symmetric fourth of $\mathrm{GL}_2$* (with Appendix 1 by D. Ramakrishnan and Appendix 2 by H. Kim and P. Sarnak). J. Amer. Math. Soc. 16 (2003), 139–183.
 - **[SOTA]** H. Kim, F. Shahidi. *Functorial products for $\mathrm{GL}_2\times\mathrm{GL}_3$ and the symmetric cube for $\mathrm{GL}_2$.* Ann. of Math. 155 (2002), 837–893.
-- **[SOTA / Recent]** V. Blomer, F. Brumley. *On the Ramanujan conjecture over number fields.* Ann. of Math. 174 (2011), 581–605.
-- **[Computational]** A. Booker, A. Strömbergsson. *Numerical computations with the trace formula and the Selberg eigenvalue conjecture.* J. reine angew. Math. (Crelle) 607 (2007), 113–161.
-- **[Related]** L. Lafforgue. *Chtoucas de Drinfeld et correspondance de Langlands.* Invent. Math. 147 (2002), 1–241.
-- **[Related]** J. Newton, J. Thorne. *Symmetric power functoriality for holomorphic modular forms.* Publ. Math. IHÉS 134 (2021), 1–116.
-- **[Counterpoint]** B. Randol. *Small eigenvalues of the Laplace operator on compact Riemann surfaces.* Bull. Amer. Math. Soc. 80 (1974), 996–1000.
+- **[SOTA / Recent]** V. Blomer, F. Brumley. *On the Ramanujan conjecture over number fields.* Ann. of Math. 174 (2011), 581–605. [DOI](https://doi.org/10.4007/annals.2011.174.1.18)
+- **[Computational]** A. Booker, A. Strömbergsson. *Numerical computations with the trace formula and the Selberg eigenvalue conjecture.* J. reine angew. Math. (Crelle) 607 (2007), 113–161. [DOI](https://doi.org/10.1515/crelle.2007.047)
+- **[Related]** L. Lafforgue. *Chtoucas de Drinfeld et correspondance de Langlands.* Invent. Math. 147 (2002), 1–241. [DOI](https://doi.org/10.1007/s002220100174)
+- **[Related]** J. Newton, J. Thorne. *Symmetric power functoriality for holomorphic modular forms.* Publ. Math. IHÉS 134 (2021), 1–116. [DOI](https://doi.org/10.1007/s10240-021-00127-3)
+- **[Counterpoint]** B. Randol. *Small eigenvalues of the Laplace operator on compact Riemann surfaces.* Bull. Amer. Math. Soc. 80 (1974), 996–1000. [DOI](https://doi.org/10.1090/s0002-9904-1974-13609-8)
 - **[Survey]** P. Sarnak. *Selberg's eigenvalue conjecture.* Notices Amer. Math. Soc. 42 (1995), 1272–1277.
 - **[Survey]** P. Sarnak. *Notes on the generalized Ramanujan conjectures.* In: Harmonic Analysis, the Trace Formula, and Shimura Varieties, Clay Math. Proc. 4, Amer. Math. Soc., 2005, pp. 659–685.
-- **[Textbook]** H. Iwaniec. *Spectral Methods of Automorphic Forms*, 2nd ed. Graduate Studies in Mathematics 53, Amer. Math. Soc., 2002.
+- **[Textbook]** H. Iwaniec. *Spectral Methods of Automorphic Forms*, 2nd ed. Graduate Studies in Mathematics 53, Amer. Math. Soc., 2002. [DOI](https://doi.org/10.1090/gsm/053)
 - **[Textbook]** H. Iwaniec, E. Kowalski. *Analytic Number Theory.* AMS Colloquium Publications 53, 2004 (Chapters 5, 15, 16).
 
 ## 10. Worked Example / Concrete Special Case

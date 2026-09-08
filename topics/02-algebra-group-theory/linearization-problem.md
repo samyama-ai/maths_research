@@ -111,18 +111,18 @@ The gap is the **abelian reductive case in dimension $\ge 4$** (and the finite c
 
 ## 9. Key References
 
-- **[Foundational]** T. Kambayashi. *Automorphism group of a polynomial ring and algebraic group action on an affine space.* Journal of Algebra **60** (1979), 439–451.
+- **[Foundational]** T. Kambayashi. *Automorphism group of a polynomial ring and algebraic group action on an affine space.* Journal of Algebra **60** (1979), 439–451. [DOI](https://doi.org/10.1016/0021-8693(79)90092-9)
 - **[Foundational]** A. Białynicki-Birula. *Remarks on the action of an algebraic torus on $k^n$, I, II.* Bulletin de l'Académie Polonaise des Sciences **14** (1966), 177–181; **15** (1967), 123–125.
-- **[Foundational]** H. Bass, W. Haboush. *Linearizing certain reductive group actions.* Transactions of the AMS **292** (1985), 463–482.
+- **[Foundational]** H. Bass, W. Haboush. *Linearizing certain reductive group actions.* Transactions of the AMS **292** (1985), 463–482. [DOI](https://doi.org/10.1090/s0002-9947-1985-0808732-4)
 - **[Counterexample]** G. W. Schwarz. *Exotic algebraic group actions.* Comptes Rendus de l'Académie des Sciences Paris, Série I **309** (1989), 89–94.
-- **[Counterexample]** F. Knop. *Nichtlinearisierbare Operationen halbeinfacher Gruppen auf affinen Räumen.* Archiv der Mathematik **56** (1991), 89–92.
-- **[SOTA]** H. Kraft, V. L. Popov. *Semisimple group actions on the three-dimensional affine space are linear.* Commentarii Mathematici Helvetici **60** (1985), 466–479.
-- **[SOTA]** H. Kraft, G. W. Schwarz. *Reductive group actions with one-dimensional quotient.* Publications Mathématiques de l'IHÉS **76** (1992), 1–97.
+- **[Counterexample]** F. Knop. *Nichtlinearisierbare Operationen halbeinfacher Gruppen auf affinen Räumen.* Archiv der Mathematik **56** (1991), 89–92. [DOI](https://doi.org/10.1007/bf01232264)
+- **[SOTA]** H. Kraft, V. L. Popov. *Semisimple group actions on the three-dimensional affine space are linear.* Commentarii Mathematici Helvetici **60** (1985), 466–479. [DOI](https://doi.org/10.1007/bf02567428)
+- **[SOTA]** H. Kraft, G. W. Schwarz. *Reductive group actions with one-dimensional quotient.* Publications Mathématiques de l'IHÉS **76** (1992), 1–97. [DOI](https://doi.org/10.1007/bf02699430)
 - **[SOTA]** S. Kaliman, M. Koras, L. Makar-Limanov, P. Russell. *$\mathbb{C}^*$-actions on $\mathbb{C}^3$ are linearizable.* Electronic Research Announcements of the AMS **3** (1997), 63–71.
-- **[SOTA]** M. Masuda, T. Petrie. *Stably trivial equivariant algebraic vector bundles.* Journal of the AMS **8** (1995), 687–714.
-- **[SOTA]** M. Masuda, L. Moser-Jauslin, T. Petrie. *The equivariant Serre problem for abelian groups.* Topology **35** (1996), 329–334.
+- **[SOTA]** M. Masuda, T. Petrie. *Stably trivial equivariant algebraic vector bundles.* Journal of the AMS **8** (1995), 687–714. [DOI](https://doi.org/10.1090/s0894-0347-1995-1303027-7)
+- **[SOTA]** M. Masuda, L. Moser-Jauslin, T. Petrie. *The equivariant Serre problem for abelian groups.* Topology **35** (1996), 329–334. [DOI](https://doi.org/10.1016/0040-9383(95)00026-7)
 - **[SOTA]** T. Asanuma. *Non-linearizable algebraic $k^*$-actions on affine spaces.* Inventiones Mathematicae **138** (1999), 281–306.
-- **[SOTA]** H. Derksen, F. Kutzschebauch. *Nonlinearizable holomorphic group actions.* Mathematische Annalen **311** (1998), 41–53.
+- **[SOTA]** H. Derksen, F. Kutzschebauch. *Nonlinearizable holomorphic group actions.* Mathematische Annalen **311** (1998), 41–53. [DOI](https://doi.org/10.1007/s002080050175)
 - **[Survey]** H. Kraft. *Challenging problems on affine $n$-space.* Séminaire Bourbaki, Vol. 1994/95, Exp. 802, Astérisque **237** (1996), 295–317.
 - **[Survey]** G. Freudenburg. *Algebraic Theory of Locally Nilpotent Derivations.* 2nd ed., Encyclopaedia of Mathematical Sciences 136, Springer, 2017.
 - **[Frontier]** H. Kraft, A. Regeta, I. van Santen. *Is the affine space determined by its automorphism group?* International Mathematics Research Notices **2021**(6), 4280–4300.

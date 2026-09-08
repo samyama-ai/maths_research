@@ -108,11 +108,11 @@ Leading researchers suggest the following pathways to crack the general domains 
 
 ## 9. Key References
 
--   **[Foundational]** Joseph, D. D., & Lundgren, T. S. *Quasilinear Dirichlet problems driven by positive sources*. Archive for Rational Mechanics and Analysis, 49(4), 241-269, 1973.
+-   **[Foundational]** Joseph, D. D., & Lundgren, T. S. *Quasilinear Dirichlet problems driven by positive sources*. Archive for Rational Mechanics and Analysis, 49(4), 241-269, 1973. [DOI](https://doi.org/10.1007/bf00250508)
 -   **[Foundational]** Gelfand, I. M. *Some problems in the theory of quasilinear equations*. Uspekhi Matematicheskikh Nauk, 14(2), 87-158, 1959.
 -   **[Foundational]** Brezis, H., & Vázquez, J. L. *Blow-up solutions of some nonlinear elliptic problems*. Revista Matemática de la Universidad Complutense de Madrid, 10(2), 443-469, 1997.
--   **[SOTA / Recent]** Miyamoto, Y. *Classification of bifurcation diagrams for elliptic equations with exponential growth in a ball*. Annali di Matematica Pura ed Applicata, 194, 931-952, 2015.
--   **[Survey]** Dupaigne, L. *Stable Solutions of Elliptic Partial Differential Equations*. Chapman and Hall/CRC, 2011.
+-   **[SOTA / Recent]** Miyamoto, Y. *Classification of bifurcation diagrams for elliptic equations with exponential growth in a ball*. Annali di Matematica Pura ed Applicata, 194, 931-952, 2015. [DOI](https://doi.org/10.1007/s10231-014-0404-8)
+-   **[Survey]** Dupaigne, L. *Stable Solutions of Elliptic Partial Differential Equations*. Chapman and Hall/CRC, 2011. [DOI](https://doi.org/10.1201/b10802)
 
 ## 10. Worked Example / Concrete Special Case
 

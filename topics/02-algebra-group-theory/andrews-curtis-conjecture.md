@@ -79,7 +79,7 @@ Leading mathematicians suggest the following pathways for future research:
 - **[Foundational]** Andrews, J. J., & Curtis, M. L. *Free groups and regular presentations.* Proceedings of the American Mathematical Society, 16(2), 192-195, 1965.
 - **[Survey]** Hog-Angeloni, C., Metzler, W., & Sieradski, A. J. (Eds.). *Two-Dimensional Homotopy and Combinatorial Group Theory.* Cambridge University Press, 1993.
 - **[SOTA / Recent]** Akbulut, S., & Kirby, R. *A potential smooth 4-manifold counterexample to the Poincaré conjecture, the Schoenflies theorem, and the Andrews-Curtis conjecture.* Topology, 24(4), 375-390, 1985.
-- **[SOTA / Recent]** Havas, G., & Ramsay, C. *Breadth-first search and the Andrews-Curtis conjecture.* International Journal of Algebra and Computation, 13(01), 61-68, 2003.
+- **[SOTA / Recent]** Havas, G., & Ramsay, C. *Breadth-first search and the Andrews-Curtis conjecture.* International Journal of Algebra and Computation, 13(01), 61-68, 2003. [DOI](https://doi.org/10.1142/s0218196703001365)
 
 ## 10. Worked Example / Concrete Special Case
 

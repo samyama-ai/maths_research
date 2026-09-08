@@ -81,10 +81,10 @@ Leading mathematicians suggest the following open pathways:
 
 ## 9. Key References
 
-- **[Foundational]** Green, B., & Tao, T. *The primes contain arbitrarily long arithmetic progressions*. Annals of Mathematics, 167(2), 481-547, 2008.
-- **[Foundational]** Szemerédi, E. *On sets of integers containing no $k$ elements in arithmetic progression*. Acta Arithmetica, 27(1), 199-245, 1975.
-- **[SOTA / Recent]** Tao, T., & Ziegler, T. *The primes contain arbitrarily long polynomial progressions*. Acta Mathematica, 201(2), 213-305, 2008.
-- **[Survey]** Kra, B. *The Green-Tao Theorem on arithmetic progressions in the primes: an ergodic point of view*. Bulletin of the American Mathematical Society, 43(1), 3-23, 2006.
+- **[Foundational]** Green, B., & Tao, T. *The primes contain arbitrarily long arithmetic progressions*. Annals of Mathematics, 167(2), 481-547, 2008. [DOI](https://doi.org/10.4007/annals.2008.167.481)
+- **[Foundational]** Szemerédi, E. *On sets of integers containing no $k$ elements in arithmetic progression*. Acta Arithmetica, 27(1), 199-245, 1975. [DOI](https://doi.org/10.4064/aa-27-1-199-245)
+- **[SOTA / Recent]** Tao, T., & Ziegler, T. *The primes contain arbitrarily long polynomial progressions*. Acta Mathematica, 201(2), 213-305, 2008. [DOI](https://doi.org/10.1007/s11511-008-0032-5)
+- **[Survey]** Kra, B. *The Green-Tao Theorem on arithmetic progressions in the primes: an ergodic point of view*. Bulletin of the American Mathematical Society, 43(1), 3-23, 2006. [DOI](https://doi.org/10.1090/s0273-0979-05-01086-4)
 
 ## 10. Worked Example / Concrete Special Case
 

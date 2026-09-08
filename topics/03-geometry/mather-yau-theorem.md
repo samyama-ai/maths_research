@@ -115,18 +115,18 @@ with a proved complexity bound in $(\tau, n)$, together with an intrinsic charac
 
 ## 9. Key References
 
-- **[Foundational]** J. N. Mather and S. S.-T. Yau. *Classification of isolated hypersurface singularities by their moduli algebras.* Inventiones Mathematicae **69** (1982), 243–251.
-- **[Foundational]** G. N. Tjurina. *Locally semiuniversal flat deformations of isolated singularities of complex spaces.* Izvestiya Akademii Nauk SSSR, Ser. Mat. **33** (1969), 1026–1058.
-- **[Foundational]** K. Saito. *Quasihomogene isolierte Singularitäten von Hyperflächen.* Inventiones Mathematicae **14** (1971), 123–142.
-- **[Foundational]** A. N. Shoshitaishvili. *Functions with isomorphic Jacobian ideals.* Functional Analysis and Its Applications **10** (1976), 128–133.
-- **[SOTA / Recent]** G.-M. Greuel and T. H. Pham. *Mather–Yau theorem in positive characteristic.* Journal of Algebraic Geometry **26** (2017), 347–355.
-- **[SOTA / Recent]** G.-M. Greuel and T. H. Pham. *Finite determinacy of matrices and ideals.* Journal of Algebra **530** (2019), 195–214.
-- **[SOTA / Recent]** N. Hussain, S. S.-T. Yau and H. Zuo. *On the new $k$-th Yau algebras of isolated hypersurface singularities.* Mathematische Zeitschrift **294** (2020), 331–358.
-- **[Related]** M. Benson and S. S.-T. Yau. *Equivalences between isolated hypersurface singularities.* Mathematische Annalen **287** (1990), 107–134.
-- **[Related]** C. Seeley and S. S.-T. Yau. *Variation of complex structures and variation of Lie algebras.* Inventiones Mathematicae **99** (1990), 545–565.
-- **[Survey]** G.-M. Greuel, C. Lossen and E. Shustin. *Introduction to Singularities and Deformations.* Springer Monographs in Mathematics, 2007.
+- **[Foundational]** J. N. Mather and S. S.-T. Yau. *Classification of isolated hypersurface singularities by their moduli algebras.* Inventiones Mathematicae **69** (1982), 243–251. [DOI](https://doi.org/10.1007/bf01399504)
+- **[Foundational]** G. N. Tjurina. *Locally semiuniversal flat deformations of isolated singularities of complex spaces.* Izvestiya Akademii Nauk SSSR, Ser. Mat. **33** (1969), 1026–1058. [DOI](https://doi.org/10.1070/im1969v003n05abeh000814)
+- **[Foundational]** K. Saito. *Quasihomogene isolierte Singularitäten von Hyperflächen.* Inventiones Mathematicae **14** (1971), 123–142. [DOI](https://doi.org/10.1007/bf01405360)
+- **[Foundational]** A. N. Shoshitaishvili. *Functions with isomorphic Jacobian ideals.* Functional Analysis and Its Applications **10** (1976), 128–133. [DOI](https://doi.org/10.1007/bf01077939)
+- **[SOTA / Recent]** G.-M. Greuel and T. H. Pham. *Mather–Yau theorem in positive characteristic.* Journal of Algebraic Geometry **26** (2017), 347–355. [DOI](https://doi.org/10.1090/jag/669)
+- **[SOTA / Recent]** G.-M. Greuel and T. H. Pham. *Finite determinacy of matrices and ideals.* Journal of Algebra **530** (2019), 195–214. [DOI](https://doi.org/10.1016/j.jalgebra.2019.04.013)
+- **[SOTA / Recent]** N. Hussain, S. S.-T. Yau and H. Zuo. *On the new $k$-th Yau algebras of isolated hypersurface singularities.* Mathematische Zeitschrift **294** (2020), 331–358. [DOI](https://doi.org/10.1007/s00209-019-02269-x)
+- **[Related]** M. Benson and S. S.-T. Yau. *Equivalences between isolated hypersurface singularities.* Mathematische Annalen **287** (1990), 107–134. [DOI](https://doi.org/10.1007/bf01446880)
+- **[Related]** C. Seeley and S. S.-T. Yau. *Variation of complex structures and variation of Lie algebras.* Inventiones Mathematicae **99** (1990), 545–565. [DOI](https://doi.org/10.1007/bf01234430)
+- **[Survey]** G.-M. Greuel, C. Lossen and E. Shustin. *Introduction to Singularities and Deformations.* Springer Monographs in Mathematics, 2007. [DOI](https://doi.org/10.1007/3-540-28419-2)
 - **[Survey]** V. I. Arnold, S. M. Gusein-Zade and A. N. Varchenko. *Singularities of Differentiable Maps, Volume 1.* Birkhäuser, 1985.
-- **[Context]** O. Zariski. *Some open questions in the theory of singularities.* Bulletin of the American Mathematical Society **77** (1971), 481–491.
+- **[Context]** O. Zariski. *Some open questions in the theory of singularities.* Bulletin of the American Mathematical Society **77** (1971), 481–491. [DOI](https://doi.org/10.1090/s0002-9904-1971-12729-5)
 
 ## 10. Worked Example / Concrete Special Case
 

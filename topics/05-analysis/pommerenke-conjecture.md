@@ -105,14 +105,14 @@ restricted to $g=\log f'$ with $f$ univalent. Proving $\Sigma^2$ takes exactly t
 ## 9. Key References
 
 - **[Foundational]** Ch. Pommerenke. *Univalent Functions.* Vandenhoeck & Ruprecht, Göttingen, 1975.
-- **[Foundational]** Ch. Pommerenke. *Boundary Behaviour of Conformal Maps.* Grundlehren der mathematischen Wissenschaften 299, Springer, 1992.
-- **[Foundational]** N. G. Makarov. *On the distortion of boundary sets under conformal mappings.* Proceedings of the London Mathematical Society (3) **51** (1985), 369–384.
-- **[Foundational]** J. Feng, T. H. MacGregor. *Estimates on integral means of the derivatives of univalent functions.* Journal d'Analyse Mathématique **29** (1976), 203–231.
-- **[Foundational]** J. E. Brennan. *The integrability of the derivative in conformal mapping.* Journal of the London Mathematical Society (2) **18** (1978), 261–272.
-- **[SOTA / Recent]** L. Carleson, P. W. Jones. *On coefficient problems for univalent functions and conformal dimension.* Duke Mathematical Journal **66** (1992), 169–206.
-- **[SOTA / Recent]** P. Kraetzer. *Experimental bounds for the universal integral means spectrum of conformal maps.* Complex Variables, Theory and Application **31** (1996), 305–309.
-- **[SOTA / Recent]** H. Hedenmalm, S. Shimorin. *Weighted Bergman spaces and the integral means spectrum of conformal mappings.* Duke Mathematical Journal **127** (2005), 341–393.
-- **[SOTA / Recent]** D. Beliaev, S. Smirnov. *Random conformal snowflakes.* Annals of Mathematics **172** (2010), 597–615.
+- **[Foundational]** Ch. Pommerenke. *Boundary Behaviour of Conformal Maps.* Grundlehren der mathematischen Wissenschaften 299, Springer, 1992. [DOI](https://doi.org/10.1007/978-3-662-02770-7)
+- **[Foundational]** N. G. Makarov. *On the distortion of boundary sets under conformal mappings.* Proceedings of the London Mathematical Society (3) **51** (1985), 369–384. [DOI](https://doi.org/10.1112/plms/s3-51.2.369)
+- **[Foundational]** J. Feng, T. H. MacGregor. *Estimates on integral means of the derivatives of univalent functions.* Journal d'Analyse Mathématique **29** (1976), 203–231. [DOI](https://doi.org/10.1007/bf02789979)
+- **[Foundational]** J. E. Brennan. *The integrability of the derivative in conformal mapping.* Journal of the London Mathematical Society (2) **18** (1978), 261–272. [DOI](https://doi.org/10.1112/jlms/s2-18.2.261)
+- **[SOTA / Recent]** L. Carleson, P. W. Jones. *On coefficient problems for univalent functions and conformal dimension.* Duke Mathematical Journal **66** (1992), 169–206. [DOI](https://doi.org/10.1215/s0012-7094-92-06605-1)
+- **[SOTA / Recent]** P. Kraetzer. *Experimental bounds for the universal integral means spectrum of conformal maps.* Complex Variables, Theory and Application **31** (1996), 305–309. [DOI](https://doi.org/10.1080/17476939608814969)
+- **[SOTA / Recent]** H. Hedenmalm, S. Shimorin. *Weighted Bergman spaces and the integral means spectrum of conformal mappings.* Duke Mathematical Journal **127** (2005), 341–393. [DOI](https://doi.org/10.1215/s0012-7094-04-12725-3)
+- **[SOTA / Recent]** D. Beliaev, S. Smirnov. *Random conformal snowflakes.* Annals of Mathematics **172** (2010), 597–615. [DOI](https://doi.org/10.4007/annals.2010.172.597)
 - **[SOTA / Recent]** O. Ivrii. *On Makarov's principle in conformal mapping.* International Mathematics Research Notices, 2019.
 - **[Survey]** N. G. Makarov. *Fine structure of harmonic measure.* St. Petersburg Mathematical Journal **10** (1999), 217–268.
 - **[Survey]** C. J. Bishop, Y. Peres. *Fractals in Probability and Analysis.* Cambridge University Press, 2017.

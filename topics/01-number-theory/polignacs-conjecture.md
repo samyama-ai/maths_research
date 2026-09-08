@@ -82,11 +82,11 @@ The precise mathematical boundary lies between proving the existence of *some un
 ## 9. Key References
 
 - **[Foundational]** A. de Polignac. *Recherches nouvelles sur les nombres premiers.* Comptes Rendus des Séances de l'Académie des Sciences, 1849.
-- **[Foundational]** G. H. Hardy and J. E. Littlewood. *Some problems of 'Partitio numerorum'; III: On the expression of a number as a sum of primes.* Acta Mathematica, 1923.
+- **[Foundational]** G. H. Hardy and J. E. Littlewood. *Some problems of 'Partitio numerorum'; III: On the expression of a number as a sum of primes.* Acta Mathematica, 1923. [DOI](https://doi.org/10.1007/bf02403921)
 - **[SOTA / Recent]** Y. Zhang. *Bounded gaps between primes.* Annals of Mathematics, 2014.
-- **[SOTA / Recent]** J. Maynard. *Small gaps between primes.* Annals of Mathematics, 2015.
-- **[SOTA / Recent]** D. H. J. Polymath. *Variants of the Selberg sieve, and bounded intervals containing many primes.* Research in the Mathematical Sciences, 2014.
-- **[Survey]** A. Granville. *Primes in intervals of bounded length.* Bulletin of the American Mathematical Society, 2015.
+- **[SOTA / Recent]** J. Maynard. *Small gaps between primes.* Annals of Mathematics, 2015. [DOI](https://doi.org/10.4007/annals.2015.181.1.7)
+- **[SOTA / Recent]** D. H. J. Polymath. *Variants of the Selberg sieve, and bounded intervals containing many primes.* Research in the Mathematical Sciences, 2014. [DOI](https://doi.org/10.1186/s40687-014-0012-7)
+- **[Survey]** A. Granville. *Primes in intervals of bounded length.* Bulletin of the American Mathematical Society, 2015. [DOI](https://doi.org/10.1090/s0273-0979-2015-01480-1)
 
 ## 10. Worked Example / Concrete Special Case
 

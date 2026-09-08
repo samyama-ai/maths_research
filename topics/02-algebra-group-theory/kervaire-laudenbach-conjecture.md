@@ -118,17 +118,17 @@ The boundary is a single missing mechanism: a combinatorial or analytic invarian
 
 - **[Foundational]** M. Gerstenhaber and O. S. Rothaus. *The solution of sets of equations in groups.* Proceedings of the National Academy of Sciences USA 48 (1962), 1531–1533.
 - **[Foundational]** M. Kervaire. *On higher dimensional knots.* In: Differential and Combinatorial Topology (A Symposium in Honor of Marston Morse), Princeton University Press, 1965, 105–119.
-- **[Foundational]** W. Magnus. *Über diskontinuierliche Gruppen mit einer definierenden Relation (Der Freiheitssatz).* Journal für die reine und angewandte Mathematik 163 (1930), 141–165.
-- **[Foundational]** S. D. Brodskii. *Equations over groups and groups with one defining relation.* Siberian Mathematical Journal 25 (1984), 235–251.
-- **[Foundational]** J. Howie. *On pairs of 2-complexes and systems of equations over groups.* Journal für die reine und angewandte Mathematik 324 (1981), 165–174.
-- **[Foundational]** A. A. Klyachko. *A funny property of sphere and equations over groups.* Communications in Algebra 21 (1993), 2555–2575.
-- **[Partial results]** J. Howie. *The solution of length three equations over groups.* Proceedings of the Edinburgh Mathematical Society 26 (1983), 89–96.
-- **[Partial results]** M. Edjvet and J. Howie. *The solution of length four equations over groups.* Transactions of the American Mathematical Society 326 (1991), 345–369.
+- **[Foundational]** W. Magnus. *Über diskontinuierliche Gruppen mit einer definierenden Relation (Der Freiheitssatz).* Journal für die reine und angewandte Mathematik 163 (1930), 141–165. [DOI](https://doi.org/10.1515/crll.1930.163.141)
+- **[Foundational]** S. D. Brodskii. *Equations over groups and groups with one defining relation.* Siberian Mathematical Journal 25 (1984), 235–251. [DOI](https://doi.org/10.1007/bf00971461)
+- **[Foundational]** J. Howie. *On pairs of 2-complexes and systems of equations over groups.* Journal für die reine und angewandte Mathematik 324 (1981), 165–174. [DOI](https://doi.org/10.1515/crll.1981.324.165)
+- **[Foundational]** A. A. Klyachko. *A funny property of sphere and equations over groups.* Communications in Algebra 21 (1993), 2555–2575. [DOI](https://doi.org/10.1080/00927879308824692)
+- **[Partial results]** J. Howie. *The solution of length three equations over groups.* Proceedings of the Edinburgh Mathematical Society 26 (1983), 89–96. [DOI](https://doi.org/10.1017/s0013091500028108)
+- **[Partial results]** M. Edjvet and J. Howie. *The solution of length four equations over groups.* Transactions of the American Mathematical Society 326 (1991), 345–369. [DOI](https://doi.org/10.2307/2001867)
 - **[SOTA / Recent]** S. V. Ivanov and A. A. Klyachko. *Solving equations of length at most six over torsion-free groups.* Journal of Group Theory 21 (2018), 329–345.
-- **[SOTA / Recent]** A. A. Klyachko and A. Thom. *New topological methods to solve equations over groups.* Algebraic & Geometric Topology 17 (2017), 331–353.
+- **[SOTA / Recent]** A. A. Klyachko and A. Thom. *New topological methods to solve equations over groups.* Algebraic & Geometric Topology 17 (2017), 331–353. [DOI](https://doi.org/10.2140/agt.2017.17.331)
 - **[Method]** R. Fenn and C. Rourke. *Klyachko's methods and the solution of equations over torsion-free groups.* L'Enseignement Mathématique 42 (1996), 49–74.
-- **[Method]** S. M. Gersten. *Reducible diagrams and equations over groups.* In: Essays in Group Theory (S. M. Gersten, ed.), MSRI Publications 8, Springer, 1987, 15–73.
-- **[Survey]** V. A. Roman'kov. *Equations over groups.* Groups, Complexity, Cryptology 4 (2012), 191–239.
+- **[Method]** S. M. Gersten. *Reducible diagrams and equations over groups.* In: Essays in Group Theory (S. M. Gersten, ed.), MSRI Publications 8, Springer, 1987, 15–73. [DOI](https://doi.org/10.1007/978-1-4613-9586-7_2)
+- **[Survey]** V. A. Roman'kov. *Equations over groups.* Groups, Complexity, Cryptology 4 (2012), 191–239. [DOI](https://doi.org/10.1515/gcc-2012-0015)
 - **[Survey]** W. A. Bogley, M. Edjvet and G. Williams. *Aspherical relative presentations all over again.* In: Groups St Andrews 2017 in Birmingham, LMS Lecture Note Series 455, Cambridge University Press, 2019, 169–199.
 - **[Background]** R. C. Lyndon and P. E. Schupp. *Combinatorial Group Theory.* Springer, 1977 (Chapter on equations over groups and small cancellation).
 

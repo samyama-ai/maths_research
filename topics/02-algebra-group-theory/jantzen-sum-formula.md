@@ -97,18 +97,18 @@ Unproved, general: an assignment $\lambda\mapsto\{\operatorname{ch}(V^i/V^{i+1})
 
 ## 9. Key References
 
-- **[Foundational]** N. N. Shapovalov. *On a bilinear form on the universal enveloping algebra of a complex semisimple Lie algebra.* Functional Analysis and Its Applications 6 (1972), 307–312.
-- **[Foundational]** J. C. Jantzen. *Zur Charakterformel gewisser Darstellungen halbeinfacher Gruppen und Lie-Algebren.* Mathematische Zeitschrift 140 (1974), 127–149.
-- **[Foundational]** J. C. Jantzen. *Über das Dekompositionsverhalten gewisser modularer Darstellungen halbeinfacher Gruppen und ihrer Lie-Algebren.* Journal of Algebra 49 (1977), 441–469.
-- **[Foundational]** J. C. Jantzen. *Moduln mit einem höchsten Gewicht.* Lecture Notes in Mathematics 750, Springer, 1979.
+- **[Foundational]** N. N. Shapovalov. *On a bilinear form on the universal enveloping algebra of a complex semisimple Lie algebra.* Functional Analysis and Its Applications 6 (1972), 307–312. [DOI](https://doi.org/10.1007/bf01077650)
+- **[Foundational]** J. C. Jantzen. *Zur Charakterformel gewisser Darstellungen halbeinfacher Gruppen und Lie-Algebren.* Mathematische Zeitschrift 140 (1974), 127–149. [DOI](https://doi.org/10.1007/bf01213951)
+- **[Foundational]** J. C. Jantzen. *Über das Dekompositionsverhalten gewisser modularer Darstellungen halbeinfacher Gruppen und ihrer Lie-Algebren.* Journal of Algebra 49 (1977), 441–469. [DOI](https://doi.org/10.1016/0021-8693(77)90252-6)
+- **[Foundational]** J. C. Jantzen. *Moduln mit einem höchsten Gewicht.* Lecture Notes in Mathematics 750, Springer, 1979. [DOI](https://doi.org/10.1007/bfb0069523)
 - **[Reference]** J. C. Jantzen. *Representations of Algebraic Groups*, 2nd edition. Mathematical Surveys and Monographs 107, American Mathematical Society, 2003. (Sum formula: II.8.19.)
-- **[Foundational]** A. Beilinson, J. Bernstein. *A proof of Jantzen conjectures.* I. M. Gelfand Seminar, Advances in Soviet Mathematics 16, Part 1, AMS, 1993, 1–50.
-- **[Related]** G. James, A. Mathas. *A $q$-analogue of the Jantzen–Schaper theorem.* Proceedings of the London Mathematical Society 74 (1997), 241–274.
-- **[Related]** H. H. Andersen. *Filtrations and tilting modules.* Annales Scientifiques de l'École Normale Supérieure 30 (1997), 353–366.
-- **[SOTA]** P. Shan. *Graded decomposition matrices of $v$-Schur algebras via Jantzen filtration.* Representation Theory 16 (2012), 212–269.
-- **[SOTA]** G. Williamson. *Schubert calculus and torsion explosion* (with an appendix by A. Kontorovich, P. J. McNamara, G. Williamson). Journal of the American Mathematical Society 30 (2017), 1023–1046.
-- **[SOTA]** S. Riche, G. Williamson. *Tilting modules and the $p$-canonical basis.* Astérisque 397, Société Mathématique de France, 2018.
-- **[Survey]** A. Mathas. *Iwahori–Hecke Algebras and Schur Algebras of the Symmetric Group.* University Lecture Series 15, AMS, 1999.
+- **[Foundational]** A. Beilinson, J. Bernstein. *A proof of Jantzen conjectures.* I. M. Gelfand Seminar, Advances in Soviet Mathematics 16, Part 1, AMS, 1993, 1–50. [DOI](https://doi.org/10.1090/advsov/016.1/01)
+- **[Related]** G. James, A. Mathas. *A $q$-analogue of the Jantzen–Schaper theorem.* Proceedings of the London Mathematical Society 74 (1997), 241–274. [DOI](https://doi.org/10.1112/s0024611597000099)
+- **[Related]** H. H. Andersen. *Filtrations and tilting modules.* Annales Scientifiques de l'École Normale Supérieure 30 (1997), 353–366. [DOI](https://doi.org/10.1016/s0012-9593(97)89924-7)
+- **[SOTA]** P. Shan. *Graded decomposition matrices of $v$-Schur algebras via Jantzen filtration.* Representation Theory 16 (2012), 212–269. [DOI](https://doi.org/10.1090/s1088-4165-2012-00416-2)
+- **[SOTA]** G. Williamson. *Schubert calculus and torsion explosion* (with an appendix by A. Kontorovich, P. J. McNamara, G. Williamson). Journal of the American Mathematical Society 30 (2017), 1023–1046. [DOI](https://doi.org/10.1090/jams/868)
+- **[SOTA]** S. Riche, G. Williamson. *Tilting modules and the $p$-canonical basis.* Astérisque 397, Société Mathématique de France, 2018. [DOI](https://doi.org/10.24033/ast.1043)
+- **[Survey]** A. Mathas. *Iwahori–Hecke Algebras and Schur Algebras of the Symmetric Group.* University Lecture Series 15, AMS, 1999. [DOI](https://doi.org/10.1090/ulect/015)
 
 ## 10. Worked Example / Concrete Special Case
 

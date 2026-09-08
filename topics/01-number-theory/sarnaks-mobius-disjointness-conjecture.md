@@ -98,9 +98,9 @@ Leading mathematicians have outlined several strategic pathways:
 ## 9. Key References
 
 - **[Foundational]** Sarnak, P. *Three lectures on the Mobius function, randomness and dynamics.* IAS Lecture Notes, 2012. (https://publications.ias.edu/sarnak/paper/512)
-- **[Foundational]** Green, B., Tao, T. *The Möbius function is strongly orthogonal to nilsequences.* Annals of Mathematics, 2012.
-- **[SOTA / Recent]** Bourgain, J., Sarnak, P., Ziegler, T. *Disjointness of Moebius from horocycle flows.* In "Functions in Number Theory and Their Probabilistic Aspects", Springer, 2013.
-- **[SOTA / Recent]** Tao, T. *The logarithmically averaged Chowla and Elliott conjectures for two-point correlations.* Forum of Mathematics, Pi, 2015.
+- **[Foundational]** Green, B., Tao, T. *The Möbius function is strongly orthogonal to nilsequences.* Annals of Mathematics, 2012. [DOI](https://doi.org/10.4007/annals.2012.175.2.3)
+- **[SOTA / Recent]** Bourgain, J., Sarnak, P., Ziegler, T. *Disjointness of Moebius from horocycle flows.* In "Functions in Number Theory and Their Probabilistic Aspects", Springer, 2013. [DOI](https://doi.org/10.1007/978-1-4614-4075-8_5)
+- **[SOTA / Recent]** Tao, T. *The logarithmically averaged Chowla and Elliott conjectures for two-point correlations.* Forum of Mathematics, Pi, 2015. [DOI](https://doi.org/10.1017/fmp.2016.6)
 - **[Survey]** Ferenczi, S., Kułaga-Przymus, J., Lemańczyk, M. *Sarnak's Conjecture: What's New.* In "Ergodic Theory and Dynamical Systems in their Interactions with Arithmetics and Combinatorics", Springer, 2018.
 
 ## 10. Worked Example / Concrete Special Case

@@ -80,9 +80,9 @@ Leading mathematicians suggest two primary pathways for future work:
 
 ## 9. Key References
 
-- **[Foundational]** C. A. Grimm. *A conjecture on consecutive composite numbers.* The American Mathematical Monthly, 1969.
+- **[Foundational]** C. A. Grimm. *A conjecture on consecutive composite numbers.* The American Mathematical Monthly, 1969. [DOI](https://doi.org/10.1080/00029890.1969.12000430)
 - **[Foundational]** P. Erdős and J. L. Selfridge. *Some problems on the prime factors of consecutive integers II.* Proceedings of the Washington State University Conference on Number Theory, 1971.
-- **[SOTA / Recent]** S. Laishram and M. Ram Murty. *Grimm's Conjecture and Smooth Numbers.* Michigan Mathematical Journal, 2012.
+- **[SOTA / Recent]** S. Laishram and M. Ram Murty. *Grimm's Conjecture and Smooth Numbers.* Michigan Mathematical Journal, 2012. [DOI](https://doi.org/10.1307/mmj/1331222852)
 
 ## 10. Worked Example / Concrete Special Case
 

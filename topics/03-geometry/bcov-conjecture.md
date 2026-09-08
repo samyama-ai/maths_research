@@ -113,18 +113,18 @@ The precise missing step is a **construction of $\mathcal F_g$ intrinsic to the 
 
 ## 9. Key References
 
-- **[Foundational]** M. Bershadsky, S. Cecotti, H. Ooguri, C. Vafa. *Kodaira–Spencer theory of gravity and exact results for quantum string amplitudes.* Communications in Mathematical Physics 165 (1994), 311–427.
-- **[Foundational]** D. Ray, I. Singer. *Analytic torsion for complex manifolds.* Annals of Mathematics 98 (1973), 154–177.
+- **[Foundational]** M. Bershadsky, S. Cecotti, H. Ooguri, C. Vafa. *Kodaira–Spencer theory of gravity and exact results for quantum string amplitudes.* Communications in Mathematical Physics 165 (1994), 311–427. [DOI](https://doi.org/10.1007/bf02099774)
+- **[Foundational]** D. Ray, I. Singer. *Analytic torsion for complex manifolds.* Annals of Mathematics 98 (1973), 154–177. [DOI](https://doi.org/10.2307/1970909)
 - **[Foundational]** J.-M. Bismut, H. Gillet, C. Soulé. *Analytic torsion and holomorphic determinant bundles I–III.* Communications in Mathematical Physics 115 (1988).
-- **[Milestone]** H. Fang, Z. Lu, K.-I. Yoshikawa. *Analytic torsion for Calabi–Yau threefolds.* Journal of Differential Geometry 80 (2008), 175–259.
-- **[Milestone]** A. Zinger. *The reduced genus 1 Gromov–Witten invariants of Calabi–Yau hypersurfaces.* Journal of the American Mathematical Society 22 (2009), 691–737.
-- **[Milestone]** S. Yamaguchi, S.-T. Yau. *Topological string partition functions as polynomials.* Journal of High Energy Physics 2004:07, 047.
-- **[SOTA]** H.-L. Chang, S. Guo, J. Li. *Polynomial structure of Gromov–Witten potential of quintic 3-folds.* Annals of Mathematics 194 (2021), 585–645.
+- **[Milestone]** H. Fang, Z. Lu, K.-I. Yoshikawa. *Analytic torsion for Calabi–Yau threefolds.* Journal of Differential Geometry 80 (2008), 175–259. [DOI](https://doi.org/10.4310/jdg/1221066631)
+- **[Milestone]** A. Zinger. *The reduced genus 1 Gromov–Witten invariants of Calabi–Yau hypersurfaces.* Journal of the American Mathematical Society 22 (2009), 691–737. [DOI](https://doi.org/10.1090/s0894-0347-08-00625-5)
+- **[Milestone]** S. Yamaguchi, S.-T. Yau. *Topological string partition functions as polynomials.* Journal of High Energy Physics 2004:07, 047. [DOI](https://doi.org/10.1088/1126-6708/2004/07/047)
+- **[SOTA]** H.-L. Chang, S. Guo, J. Li. *Polynomial structure of Gromov–Witten potential of quintic 3-folds.* Annals of Mathematics 194 (2021), 585–645. [DOI](https://doi.org/10.4007/annals.2021.194.3.1)
 - **[SOTA]** S. Guo, F. Janda, Y. Ruan. *Structure of higher genus Gromov–Witten invariants of quintic 3-folds.* arXiv:1812.11908.
-- **[SOTA]** D. Eriksson, G. Freixas i Montplet, C. Mourougane. *BCOV invariants of Calabi–Yau manifolds and degenerations of Hodge structures.* Duke Mathematical Journal 170 (2021), 379–454.
-- **[SOTA]** D. Eriksson, G. Freixas i Montplet, C. Mourougane. *On genus one mirror symmetry in higher dimensions and the BCOV conjectures.* Forum of Mathematics, Pi 10 (2022), e18.
-- **[SOTA]** Y. Zhang. *BCOV invariant and blow-up.* Advances in Mathematics (2022).
-- **[Computational]** M.-X. Huang, A. Klemm, S. Quackenbush. *Topological string theory on compact Calabi–Yau: modularity and boundary conditions.* Lecture Notes in Physics 757 (2009), 45–102.
+- **[SOTA]** D. Eriksson, G. Freixas i Montplet, C. Mourougane. *BCOV invariants of Calabi–Yau manifolds and degenerations of Hodge structures.* Duke Mathematical Journal 170 (2021), 379–454. [DOI](https://doi.org/10.1215/00127094-2020-0045)
+- **[SOTA]** D. Eriksson, G. Freixas i Montplet, C. Mourougane. *On genus one mirror symmetry in higher dimensions and the BCOV conjectures.* Forum of Mathematics, Pi 10 (2022), e18. [DOI](https://doi.org/10.1017/fmp.2022.13)
+- **[SOTA]** Y. Zhang. *BCOV invariant and blow-up.* Advances in Mathematics (2022). [DOI](https://doi.org/10.1112/s0010437x23007042)
+- **[Computational]** M.-X. Huang, A. Klemm, S. Quackenbush. *Topological string theory on compact Calabi–Yau: modularity and boundary conditions.* Lecture Notes in Physics 757 (2009), 45–102. [DOI](https://doi.org/10.1007/978-3-540-68030-7_3)
 - **[Survey]** K. Hori et al. *Mirror Symmetry.* Clay Mathematics Monographs 1, AMS, 2003 (Chapters 30–36).
 - **[Survey]** K.-I. Yoshikawa. *Analytic torsion and automorphic forms on the moduli space.* In *Algebraic and Arithmetic Structures of Moduli Spaces*, Adv. Stud. Pure Math. 58 (2010).
 

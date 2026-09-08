@@ -98,10 +98,10 @@ Leading mathematicians suggest several pathways following the resolution of the 
 
 ## 9. Key References
 
-- **[Foundational]** Galewski, D., & Stern, R. *Classification of simplicial triangulations of topological manifolds*. Annals of Mathematics, 111(1), 1-34, 1980.
+- **[Foundational]** Galewski, D., & Stern, R. *Classification of simplicial triangulations of topological manifolds*. Annals of Mathematics, 111(1), 1-34, 1980. [DOI](https://doi.org/10.2307/1971215)
 - **[Foundational]** Matumoto, T. *Triangulation of manifolds*. Algebraic and Geometric Topology (Proc. Sympos. Pure Math., Stanford Univ., Stanford, Calif., 1976), Part 2, pp. 3–6, Proc. Sympos. Pure Math., XXXII, Amer. Math. Soc., Providence, R.I., 1978.
-- **[SOTA / Recent]** Manolescu, C. *Pin(2)-equivariant Seiberg–Witten Floer homology and the Triangulation Conjecture*. Journal of the American Mathematical Society, 29(1), 147-176, 2016.
-- **[SOTA / Recent]** Hendricks, K., & Manolescu, C. *Involutive Heegaard Floer homology*. Duke Mathematical Journal, 166(7), 1211-1299, 2017.
+- **[SOTA / Recent]** Manolescu, C. *Pin(2)-equivariant Seiberg–Witten Floer homology and the Triangulation Conjecture*. Journal of the American Mathematical Society, 29(1), 147-176, 2016. [DOI](https://doi.org/10.1090/jams829)
+- **[SOTA / Recent]** Hendricks, K., & Manolescu, C. *Involutive Heegaard Floer homology*. Duke Mathematical Journal, 166(7), 1211-1299, 2017. [DOI](https://doi.org/10.1215/00127094-3793141)
 - **[Survey]** Manolescu, C. *Triangulation of manifolds*. Notices of the American Mathematical Society, 61(11), 1339-1341, 2014.
 
 ## 10. Worked Example / Concrete Special Case

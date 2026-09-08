@@ -124,22 +124,22 @@ Orthogonally, the rank-graded attack stalls at **rank $5$**: Deloro–Wiscons sh
 ## 9. Key References
 
 - **[Foundational]** B. Zilber. *Groups and rings whose theory is categorical.* Fundamenta Mathematicae 95 (1977), 173–188.
-- **[Foundational]** G. Cherlin. *Groups of small Morley rank.* Annals of Mathematical Logic 17 (1979), 1–28.
-- **[Foundational]** A. Macintyre. *On $\omega_1$-categorical theories of fields.* Fundamenta Mathematicae 71 (1971), 1–25.
+- **[Foundational]** G. Cherlin. *Groups of small Morley rank.* Annals of Mathematical Logic 17 (1979), 1–28. [DOI](https://doi.org/10.1016/0003-4843(79)90019-6)
+- **[Foundational]** A. Macintyre. *On $\omega_1$-categorical theories of fields.* Fundamenta Mathematicae 71 (1971), 1–25. [DOI](https://doi.org/10.4064/fm-71-1-1-25)
 - **[Monograph]** A. Borovik, A. Nesin. *Groups of Finite Morley Rank.* Oxford Logic Guides 26, Oxford University Press, 1994.
 - **[Monograph]** B. Poizat. *Stable Groups.* Mathematical Surveys and Monographs 87, American Mathematical Society, 2001 (French original *Groupes stables*, 1987).
-- **[SOTA]** T. Altınel, A. Borovik, G. Cherlin. *Simple Groups of Finite Morley Rank.* Mathematical Surveys and Monographs 145, American Mathematical Society, 2008.
-- **[SOTA]** T. Altınel, A. Borovik, G. Cherlin. *Groups of mixed type.* Journal of Algebra 192 (1997), 524–571.
-- **[SOTA]** A. Borovik, J. Burdges, G. Cherlin. *Involutions in groups of finite Morley rank of degenerate type.* Inventiones Mathematicae 167 (2007), 155–220.
-- **[SOTA]** O. Frécon. *Simple groups of Morley rank 3 are algebraic.* Journal of the American Mathematical Society 31 (2018), 643–659.
+- **[SOTA]** T. Altınel, A. Borovik, G. Cherlin. *Simple Groups of Finite Morley Rank.* Mathematical Surveys and Monographs 145, American Mathematical Society, 2008. [DOI](https://doi.org/10.1017/cbo9780511546464.007)
+- **[SOTA]** T. Altınel, A. Borovik, G. Cherlin. *Groups of mixed type.* Journal of Algebra 192 (1997), 524–571. [DOI](https://doi.org/10.1006/jabr.1996.6950)
+- **[SOTA]** A. Borovik, J. Burdges, G. Cherlin. *Involutions in groups of finite Morley rank of degenerate type.* Inventiones Mathematicae 167 (2007), 155–220. [DOI](https://doi.org/10.1007/s00029-007-0030-z)
+- **[SOTA]** O. Frécon. *Simple groups of Morley rank 3 are algebraic.* Journal of the American Mathematical Society 31 (2018), 643–659. [DOI](https://doi.org/10.1090/jams/892)
 - **[SOTA]** J. Wiscons. *Groups of Morley rank 4.* Journal of Symbolic Logic 81 (2016), 65–79.
-- **[SOTA]** A. Deloro, J. Wiscons. *Simple groups of Morley rank 5 are bad.* Journal of Symbolic Logic 83 (2018), 1217–1229.
-- **[SOTA]** J. Burdges. *A signalizer functor theorem for groups of finite Morley rank.* Journal of Algebra 274 (2004), 215–229.
-- **[SOTA]** G. Cherlin, E. Jaligot. *Tame minimal simple groups of finite Morley rank.* Journal of Algebra 276 (2004), 13–79.
+- **[SOTA]** A. Deloro, J. Wiscons. *Simple groups of Morley rank 5 are bad.* Journal of Symbolic Logic 83 (2018), 1217–1229. [DOI](https://doi.org/10.1017/jsl.2017.86)
+- **[SOTA]** J. Burdges. *A signalizer functor theorem for groups of finite Morley rank.* Journal of Algebra 274 (2004), 215–229. [DOI](https://doi.org/10.1016/j.jalgebra.2003.08.015)
+- **[SOTA]** G. Cherlin, E. Jaligot. *Tame minimal simple groups of finite Morley rank.* Journal of Algebra 276 (2004), 13–79. [DOI](https://doi.org/10.1016/j.jalgebra.2003.12.027)
 - **[SOTA]** A. Baudisch, M. Hils, A. Martin-Pizarro, F. O. Wagner. *Die böse Farbe.* Journal of the Institute of Mathematics of Jussieu 8 (2009), 415–443.
-- **[Related]** E. Hrushovski. *A new strongly minimal set.* Annals of Pure and Applied Logic 62 (1993), 147–166.
-- **[Related]** F. O. Wagner. *Fields of finite Morley rank.* Journal of Symbolic Logic 66 (2001), 703–706.
-- **[Survey]** A. Borovik, G. Cherlin. *Permutation groups of finite Morley rank.* In *Model Theory with Applications to Algebra and Analysis, Vol. 2*, LMS Lecture Note Series 350, Cambridge University Press, 2008, 59–124.
+- **[Related]** E. Hrushovski. *A new strongly minimal set.* Annals of Pure and Applied Logic 62 (1993), 147–166. [DOI](https://doi.org/10.1016/0168-0072(93)90171-9)
+- **[Related]** F. O. Wagner. *Fields of finite Morley rank.* Journal of Symbolic Logic 66 (2001), 703–706. [DOI](https://doi.org/10.2307/2695038)
+- **[Survey]** A. Borovik, G. Cherlin. *Permutation groups of finite Morley rank.* In *Model Theory with Applications to Algebra and Analysis, Vol. 2*, LMS Lecture Note Series 350, Cambridge University Press, 2008, 59–124. [DOI](https://doi.org/10.1017/cbo9780511735219.003)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -90,8 +90,8 @@ Leading mathematicians suggest the following pathways to pierce the current veil
 
 - **[Foundational]** L. J. Mordell. *On the rational solutions of the indeterminate equations of the third and fourth degrees.* Proceedings of the Cambridge Philosophical Society, 1922.
 - **[Foundational]** B. H. Gross, D. B. Zagier. *Heegner points and derivatives of L-series.* Inventiones mathematicae, 1986.
-- **[SOTA / Recent]** M. Bhargava, A. Shankar. *Ternary cubic forms having bounded invariants, and the existence of a positive proportion of elliptic curves having rank 0.* Annals of Mathematics, 2015.
-- **[SOTA / Recent]** J. Park, B. Poonen, J. Voight, M. M. Wood. *A heuristic for boundedness of ranks of elliptic curves.* Journal of the European Mathematical Society, 2019.
+- **[SOTA / Recent]** M. Bhargava, A. Shankar. *Ternary cubic forms having bounded invariants, and the existence of a positive proportion of elliptic curves having rank 0.* Annals of Mathematics, 2015. [DOI](https://doi.org/10.4007/annals.2015.181.2.4)
+- **[SOTA / Recent]** J. Park, B. Poonen, J. Voight, M. M. Wood. *A heuristic for boundedness of ranks of elliptic curves.* Journal of the European Mathematical Society, 2019. [DOI](https://doi.org/10.4171/jems/893)
 - **[SOTA / Recent]** N. D. Elkies. *$\mathbb{Z}^{28}$ in $E(\mathbb{Q})$.* Notices of the American Mathematical Society, 2006.
 - **[Survey]** K. Rubin, A. Silverberg. *Ranks of elliptic curves.* Bulletin of the American Mathematical Society, 2002.
 

@@ -123,18 +123,18 @@ in self-similar variables $y=x/(T^*-t)^{c_l}$, whose linearization has no unstab
 ## 9. Key References
 
 - **[Foundational]** A. Majda and A. Bertozzi. *Vorticity and Incompressible Flow.* Cambridge Texts in Applied Mathematics, Cambridge University Press, 2002.
-- **[Foundational]** D. Chae and H.-S. Nam. *Local existence and blow-up criterion for the Boussinesq equations.* Proceedings of the Royal Society of Edinburgh Section A, 127(5):935–946, 1997.
-- **[Foundational]** T. Y. Hou and C. Li. *Global well-posedness of the viscous Boussinesq equations.* Discrete and Continuous Dynamical Systems, 12(1):1–12, 2005.
-- **[Foundational]** D. Chae. *Global regularity for the 2D Boussinesq equations with partial viscosity terms.* Advances in Mathematics, 203(2):497–513, 2006.
-- **[SOTA]** T. Hmidi, S. Keraani and F. Rousset. *Global well-posedness for a Boussinesq–Navier–Stokes system with critical dissipation.* Journal of Differential Equations, 249(9):2147–2174, 2010.
-- **[SOTA]** T. Hmidi, S. Keraani and F. Rousset. *Global well-posedness for Euler–Boussinesq system with critical dissipation.* Communications in Partial Differential Equations, 36(3):420–445, 2011.
-- **[SOTA]** D. Adhikari, C. Cao and J. Wu. *The 2D Boussinesq equations with vertical viscosity and vertical diffusivity.* Journal of Differential Equations, 249(5):1078–1088, 2010.
-- **[SOTA]** C. Cao and J. Wu. *Global regularity for the two-dimensional anisotropic Boussinesq equations with vertical dissipation.* Archive for Rational Mechanics and Analysis, 208(3):985–1004, 2013.
-- **[SOTA / Recent]** T. M. Elgindi and I.-J. Jeong. *Finite-time singularity formation for strong solutions to the Boussinesq system.* Annals of PDE, 6, article 5, 2020.
-- **[SOTA / Recent]** J. Chen and T. Y. Hou. *Finite time blowup of 2D Boussinesq and 3D Euler equations with $C^{1,\alpha}$ velocity and boundary.* Communications in Mathematical Physics, 383:1559–1667, 2021.
+- **[Foundational]** D. Chae and H.-S. Nam. *Local existence and blow-up criterion for the Boussinesq equations.* Proceedings of the Royal Society of Edinburgh Section A, 127(5):935–946, 1997. [DOI](https://doi.org/10.1017/s0308210500026810)
+- **[Foundational]** T. Y. Hou and C. Li. *Global well-posedness of the viscous Boussinesq equations.* Discrete and Continuous Dynamical Systems, 12(1):1–12, 2005. [DOI](https://doi.org/10.3934/dcds.2005.12.1)
+- **[Foundational]** D. Chae. *Global regularity for the 2D Boussinesq equations with partial viscosity terms.* Advances in Mathematics, 203(2):497–513, 2006. [DOI](https://doi.org/10.1016/j.aim.2005.05.001)
+- **[SOTA]** T. Hmidi, S. Keraani and F. Rousset. *Global well-posedness for a Boussinesq–Navier–Stokes system with critical dissipation.* Journal of Differential Equations, 249(9):2147–2174, 2010. [DOI](https://doi.org/10.1016/j.jde.2010.07.008)
+- **[SOTA]** T. Hmidi, S. Keraani and F. Rousset. *Global well-posedness for Euler–Boussinesq system with critical dissipation.* Communications in Partial Differential Equations, 36(3):420–445, 2011. [DOI](https://doi.org/10.1080/03605302.2010.518657)
+- **[SOTA]** D. Adhikari, C. Cao and J. Wu. *The 2D Boussinesq equations with vertical viscosity and vertical diffusivity.* Journal of Differential Equations, 249(5):1078–1088, 2010. [DOI](https://doi.org/10.1016/j.jde.2010.03.021)
+- **[SOTA]** C. Cao and J. Wu. *Global regularity for the two-dimensional anisotropic Boussinesq equations with vertical dissipation.* Archive for Rational Mechanics and Analysis, 208(3):985–1004, 2013. [DOI](https://doi.org/10.1007/s00205-013-0610-3)
+- **[SOTA / Recent]** T. M. Elgindi and I.-J. Jeong. *Finite-time singularity formation for strong solutions to the Boussinesq system.* Annals of PDE, 6, article 5, 2020. [DOI](https://doi.org/10.1007/s40818-020-00080-0)
+- **[SOTA / Recent]** J. Chen and T. Y. Hou. *Finite time blowup of 2D Boussinesq and 3D Euler equations with $C^{1,\alpha}$ velocity and boundary.* Communications in Mathematical Physics, 383:1559–1667, 2021. [DOI](https://doi.org/10.1007/s00220-021-04067-1)
 - **[SOTA / Recent]** J. Chen and T. Y. Hou. *Stable nearly self-similar blowup of the 2D Boussinesq and 3D Euler equations with smooth data.* Parts I (Analysis) and II (Rigorous numerics), arXiv preprints 2210.07191 and 2305.05660, 2022–2023.
-- **[Computational]** G. Luo and T. Y. Hou. *Potentially singular solutions of the 3D axisymmetric Euler equations.* Proceedings of the National Academy of Sciences USA, 111(36):12968–12973, 2014.
-- **[Model equations]** A. Kiselev and C. Tan. *Finite time blow up in the hyperbolic Boussinesq system.* Advances in Mathematics, 325:34–55, 2018.
+- **[Computational]** G. Luo and T. Y. Hou. *Potentially singular solutions of the 3D axisymmetric Euler equations.* Proceedings of the National Academy of Sciences USA, 111(36):12968–12973, 2014. [DOI](https://doi.org/10.1073/pnas.1405238111)
+- **[Model equations]** A. Kiselev and C. Tan. *Finite time blow up in the hyperbolic Boussinesq system.* Advances in Mathematics, 325:34–55, 2018. [DOI](https://doi.org/10.1016/j.aim.2017.11.019)
 - **[Survey]** T. M. Elgindi and I.-J. Jeong. Expository work on singularity formation for incompressible fluids; see also J. Wu, *Well-posedness of a class of partial differential equations with applications to fluids*, lecture notes/monograph series, and D. Chae, P. Constantin and J. Wu, *An incompressible 2D didactic model with singularity and explicit solutions of the 2D Boussinesq equations*, Journal of Mathematical Fluid Mechanics, 16:473–480, 2014.
 
 ## 10. Worked Example / Concrete Special Case

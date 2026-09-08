@@ -106,21 +106,21 @@ The precise missing step: **a growth lower bound $\gamma_G(n) \succcurlyeq e^{c\
 
 ## 9. Key References
 
-- **[Foundational]** J. Milnor. *Growth of finitely generated solvable groups.* Journal of Differential Geometry 2 (1968), 447–449.
-- **[Foundational]** J. A. Wolf. *Growth of finitely generated solvable groups and curvature of Riemannian manifolds.* Journal of Differential Geometry 2 (1968), 421–446.
+- **[Foundational]** J. Milnor. *Growth of finitely generated solvable groups.* Journal of Differential Geometry 2 (1968), 447–449. [DOI](https://doi.org/10.4310/jdg/1214428659)
+- **[Foundational]** J. A. Wolf. *Growth of finitely generated solvable groups and curvature of Riemannian manifolds.* Journal of Differential Geometry 2 (1968), 421–446. [DOI](https://doi.org/10.4310/jdg/1214428658)
 - **[Foundational]** M. Gromov. *Groups of polynomial growth and expanding maps.* Publications Mathématiques de l'IHÉS 53 (1981), 53–73.
-- **[Foundational]** R. I. Grigorchuk. *Degrees of growth of finitely generated groups and the theory of invariant means.* Izvestiya Akademii Nauk SSSR, Ser. Mat. 48 (1984), 939–985.
-- **[Foundational]** R. I. Grigorchuk. *On the Hilbert–Poincaré series of graded algebras associated with groups.* Matematicheskii Sbornik 180 (1989), 207–225.
+- **[Foundational]** R. I. Grigorchuk. *Degrees of growth of finitely generated groups and the theory of invariant means.* Izvestiya Akademii Nauk SSSR, Ser. Mat. 48 (1984), 939–985. [DOI](https://doi.org/10.1070/im1985v025n02abeh001281)
+- **[Foundational]** R. I. Grigorchuk. *On the Hilbert–Poincaré series of graded algebras associated with groups.* Matematicheskii Sbornik 180 (1989), 207–225. [DOI](https://doi.org/10.1070/sm1990v066n01abeh002083)
 - **[SOTA / Recent]** R. I. Grigorchuk. *On the gap conjecture concerning group growth.* Bulletin of Mathematical Sciences 4 (2014), 79–100.
-- **[SOTA / Recent]** A. Erschler, T. Zheng. *Growth of periodic Grigorchuk groups.* Inventiones Mathematicae 219 (2020), 1069–1155.
-- **[SOTA / Recent]** L. Bartholdi, A. Erschler. *Growth of permutational extensions.* Inventiones Mathematicae 189 (2012), 431–455.
-- **[SOTA / Recent]** Y. Shalom, T. Tao. *A finitary version of Gromov's polynomial growth theorem.* Geometric and Functional Analysis 20 (2010), 1502–1547.
-- **[SOTA / Recent]** M. Kassabov, I. Pak. *Groups of oscillating intermediate growth.* Annals of Mathematics 177 (2013), 1113–1145.
+- **[SOTA / Recent]** A. Erschler, T. Zheng. *Growth of periodic Grigorchuk groups.* Inventiones Mathematicae 219 (2020), 1069–1155. [DOI](https://doi.org/10.1007/s00222-019-00922-0)
+- **[SOTA / Recent]** L. Bartholdi, A. Erschler. *Growth of permutational extensions.* Inventiones Mathematicae 189 (2012), 431–455. [DOI](https://doi.org/10.1007/s00222-011-0368-x)
+- **[SOTA / Recent]** Y. Shalom, T. Tao. *A finitary version of Gromov's polynomial growth theorem.* Geometric and Functional Analysis 20 (2010), 1502–1547. [DOI](https://doi.org/10.1007/s00039-010-0096-1)
+- **[SOTA / Recent]** M. Kassabov, I. Pak. *Groups of oscillating intermediate growth.* Annals of Mathematics 177 (2013), 1113–1145. [DOI](https://doi.org/10.4007/annals.2013.177.3.7)
 - **[Related]** L. Bartholdi. *The growth of Grigorchuk's torsion group.* International Mathematics Research Notices 1998, no. 20, 1049–1054.
-- **[Related]** C. Chou. *Elementary amenable groups.* Illinois Journal of Mathematics 24 (1980), 396–407.
-- **[Related]** J. S. Wilson. *Groups with every proper quotient finite.* Proceedings of the Cambridge Philosophical Society 69 (1971), 373–391.
-- **[Related]** D. W. Morris. *Amenable groups that act on the line.* Algebraic & Geometric Topology 6 (2006), 2509–2518.
-- **[Survey]** R. I. Grigorchuk. *Milnor's problem on the growth of groups and its consequences.* In *Frontiers in Complex Dynamics*, Princeton University Press, 2014, 705–773.
+- **[Related]** C. Chou. *Elementary amenable groups.* Illinois Journal of Mathematics 24 (1980), 396–407. [DOI](https://doi.org/10.1215/ijm/1256047608)
+- **[Related]** J. S. Wilson. *Groups with every proper quotient finite.* Proceedings of the Cambridge Philosophical Society 69 (1971), 373–391. [DOI](https://doi.org/10.1017/s0305004100046818)
+- **[Related]** D. W. Morris. *Amenable groups that act on the line.* Algebraic & Geometric Topology 6 (2006), 2509–2518. [DOI](https://doi.org/10.2140/agt.2006.6.2509)
+- **[Survey]** R. I. Grigorchuk. *Milnor's problem on the growth of groups and its consequences.* In *Frontiers in Complex Dynamics*, Princeton University Press, 2014, 705–773. [DOI](https://doi.org/10.1515/9781400851317-027)
 - **[Survey]** R. Grigorchuk, I. Pak. *Groups of intermediate growth: an introduction.* L'Enseignement Mathématique 54 (2008), 251–272.
 - **[Survey]** A. Mann. *How Groups Grow.* LMS Lecture Note Series 395, Cambridge University Press, 2012.
 

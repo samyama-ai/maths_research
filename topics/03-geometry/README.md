@@ -11,13 +11,18 @@ Algebraic varieties, manifolds, symplectic geometry, Riemannian manifolds, curva
 * 🔴 [Arakelov's Adjunction Formula Conjecture](./arakelov-adjunction-conjecture.md) — Generalizes classical intersection adjunction formulas to heights in arithmetic Arakelov geometry.
 * 🟡 [Arnold Conjecture](./arnold-conjecture.md) — Fixed points of Hamiltonian diffeomorphisms are bounded by Betti numbers.
 * 🔴 [Atiyah-Floer Conjecture](./atiyah-floer-conjecture.md) — Instanton Floer homology is isomorphic to Lagrangian intersection Floer homology.
+* 🟡 [Audin Conjecture on Maslov Class of Lagrangian Tori](./audin-conjecture.md) — Lagrangian tori in complex space have Maslov number two
 * 🟡 [Ax-Schanuel Conjecture](./ax-schanuel-conjecture.md) — A functional transcendence statement bounding intersections of algebraic and exponential varieties.
 * 🟢 [Bando-Mabuchi-Mukai Conjecture](./bando-mabuchi-mukai-conjecture.md) — Kahler-Einstein metrics exist on Fano manifolds with reductive automorphism groups.
 * 🔴 [Bass-Quillen Conjecture](./bass-quillen-conjecture.md) — Finitely generated projective modules over polynomial rings of regular rings are free.
 * 🔴 [BCOV Conjecture](./bcov-conjecture.md) — Relates Gromov-Witten invariants of Calabi-Yau manifolds to analytic torsions.
+* 🟡 [Chow Ring Conjecture for Hyperkähler Manifolds (Beauville–Voisin)](./beauville-voisin-conjecture.md) — Special multiplicative structure on Chow rings of hyperkahler manifolds
 * 🔴 [Beilinson Conjectures](./beilinson-conjectures.md) — Relates special values of L-functions to regulators in algebraic K-theory.
 * 🔴 [Berger Conjecture (Manifolds All of Whose Geodesics Are Closed)](./berger-conjecture.md) — Riemannian manifolds with reduced holonomy are locally symmetric or locally irreducible.
+* 🟡 [Bernstein Problem for Minimal Graphs in Higher Codimension](./bernstein-problem-higher-codimension.md) — Entire minimal graphs of higher codimension need not be planes
 * 🔴 [Betti Langlands Conjecture](./betti-langlands-conjecture.md) — A topological version of the Langlands correspondence for character varieties.
+* 🟡 [Blaschke Conjecture on Wiedersehen Manifolds](./blaschke-conjecture.md) — Manifolds all of whose geodesics close are compact rank one symmetric
+* 🔴 [Bloch-Beilinson Filtration Conjecture](./bloch-beilinson-filtration-conjecture.md) — Existence of a functorial filtration on Chow groups
 * 🔴 [Bloch's Conjecture on Zero Cycles](./bloch-zero-cycles-conjecture.md) — Suggests the vanishing of geometric genus implies a trivial Chow group.
 * 🔴 [Bombieri-Lang Conjecture](./bombieri-lang-conjecture.md) — Rational points on general type algebraic varieties are not Zariski dense.
 * 🟢 [Borisov-Alexeev-Borisov Conjecture](./borisov-alexeev-borisov-conjecture.md) — Fano varieties with epsilon kawamata log terminal singularities form bounded families.
@@ -25,21 +30,30 @@ Algebraic varieties, manifolds, symplectic geometry, Riemannian manifolds, curva
 * 🔴 [Bounded Negativity Conjecture](./bounded-negativity-conjecture.md) — The self-intersection of irreducible curves on algebraic surfaces is bounded below.
 * 🟢 [Busemann–Petty Problem](./busemann-petty-problem.md) — Do symmetric convex bodies with larger hyperplane sections have larger volume?
 * 🔴 [Campana Conjecture](./campana-conjecture.md) — Special varieties are exactly the varieties with potentially dense rational points.
+* 🟡 [Fano Varieties with Nef Tangent Bundle (Campana–Peternell Conjecture)](./campana-peternell-conjecture.md) — Fano manifolds with nef tangent bundle are rational homogeneous
 * 🔴 [Carathéodory Conjecture](./caratheodory-conjecture.md) — Every closed convex surface has at least two umbilic points.
 * 🔴 [Cartan-Hadamard Conjecture](./cartan-hadamard-conjecture.md) — The isoperimetric inequality holds in simply connected spaces with non-positive curvature.
 * 🔴 [Casson Invariant Conjecture](./casson-invariant-conjecture.md) — The Casson invariant distinguishes certain classes of smooth topological manifolds.
 * 🟢 [Cheeger-Gromoll Soul Conjecture](./cheeger-gromoll-soul-conjecture.md) — Complete open positively curved manifolds have souls diffeomorphic to a point.
 * 🔴 [Chern Conjecture](./chern-conjecture.md) — The Euler characteristic of a compact affine manifold is zero.
+* 🟡 [Cartan-Hadamard Conjecture for Ricci Flow Singularities: Uniqueness of Ancient Solutions](./classification-ancient-ricci-flows.md) — Classifying noncollapsed ancient solutions of Ricci flow
+* 🔴 [Coleman's Conjecture on Jacobians with Complex Multiplication](./coleman-oort-cm-jacobians.md) — Finitely many CM Jacobians in high genus
 * 🟢 [Coolidge Conjecture](./coolidge-conjecture.md) — Plane curves are rectifiable by Cremona transformations under specific rational geometric conditions.
 * 🟡 [Crepant Resolution Conjecture](./crepant-resolution-conjecture.md) — Equates quantum cohomology of an orbifold to that of its crepant resolution.
 * 🟢 [Daw-Ren Conjecture](./daw-ren-conjecture.md) — Provides necessary conditions for special subvarieties in the Zilber-Pink conjecture framework.
+* 🟡 [Deligne's Conjecture on the Semisimplicity of Local Systems](./deligne-conjecture-local-systems.md) — Companions and finiteness for irreducible lisse sheaves on varieties
 * 🔴 [Demailly Conjecture](./demailly-conjecture.md) — Provides a sufficient condition for a projective variety to be Kobayashi hyperbolic.
 * 🟡 [Donaldson-Thomas Positivity Conjecture](./donaldson-thomas-positivity-conjecture.md) — Generalized Donaldson Thomas invariants for stable objects are always non negative integers.
 * 🔴 [Durfee Conjecture](./durfee-conjecture.md) — Proposes an upper bound for the geometric signature of isolated surface singularities.
 * 🔴 [Eells–Sampson Conjecture (Biharmonic Maps into Non-Positively Curved Targets)](./eells-sampson-conjecture.md) — Existence of harmonic maps with specific properties between compact Riemannian manifolds.
+* 🟡 [Coleman-Gross Conjecture on Torsion Points and Higher Genus Curves (Manin-Mumford Effectivity)](./effective-manin-mumford.md) — Effective bounds on torsion points lying on curves
+* 🔴 [Existence of Einstein Metrics on Spheres and Sphere Theorem Rigidity (Besse Problem)](./einstein-metrics-on-spheres.md) — Classifying Einstein metrics on the four dimensional sphere
 * 🟡 [Faber Intersection-Theoretic Conjecture](./faber-intersection-theoretic-conjecture.md) — Describes the tautological ring structure of the moduli space of curves.
 * 🔴 [Filling Area Conjecture](./filling-area-conjecture.md) — The minimal area needed to bound a Riemannian circle is a hemisphere.
+* 🔴 [Finiteness of Calabi-Yau Threefold Topological Types](./finiteness-calabi-yau-threefold-types.md) — Only finitely many topological types of Calabi-Yau threefolds exist
+* 🟡 [Flux Conjecture for Symplectic Manifolds](./flux-conjecture.md) — Hamiltonian diffeomorphism group is closed in symplectomorphism group
 * 🟢 [Franchetta Conjecture](./franchetta-conjecture.md) — The universal curve Picard group is generated by the canonical class.
+* 🔴 [Serre's Uniformity and Frey-Mazur Conjecture on Isogeny of Elliptic Curves](./frey-mazur-conjecture.md) — Congruent mod p torsion forces isogenous elliptic curves
 * 🔴 [Fujita Conjecture](./fujita-conjecture.md) — Adjoint bundles of ample line bundles are globally generated for large multipliers.
 * 🟡 [Generalized Calabi Conjecture](./generalized-calabi-conjecture.md) — Existence of extremal Kahler metrics is equivalent to relative K-stability.
 * 🟢 [Generalized Smale Conjecture](./generalized-smale-conjecture.md) — Diffeomorphism groups of spherical space forms retract to their isometry groups.

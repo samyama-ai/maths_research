@@ -94,11 +94,11 @@ Leading topologists and gauge theorists have articulated several open pathways e
 ## 9. Key References
 
 - **[Foundational]** R. Fintushel, R. Stern. *Knots, links, and 4-manifolds.* Inventiones Mathematicae, 1998.
-- **[Foundational]** C. H. Taubes. *The Seiberg-Witten invariants and symplectic forms.* Mathematical Research Letters, 1994.
+- **[Foundational]** C. H. Taubes. *The Seiberg-Witten invariants and symplectic forms.* Mathematical Research Letters, 1994. [DOI](https://doi.org/10.4310/mrl.1994.v1.n6.a15)
 - **[SOTA / Recent]** Y. Ni. *Knot Floer homology detects fibered knots.* Inventiones Mathematicae, 2007.
 - **[SOTA / Recent]** S. Friedl, S. Vidussi. *Symplectic 4-manifolds with $K = 0$ and the multicurve formula.* Geometry & Topology, 2011.
 - **[SOTA / Recent]** A. Iida. *Bauer-Furuta invariants and knot surgery.* Journal of Topology, 2022.
-- **[Survey]** R. Fintushel, R. Stern. *Six Lectures on Four 4-Manifolds.* IAS/Park City Mathematics Series, 2009.
+- **[Survey]** R. Fintushel, R. Stern. *Six Lectures on Four 4-Manifolds.* IAS/Park City Mathematics Series, 2009. [DOI](https://doi.org/10.1090/pcms/015/09)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -77,7 +77,7 @@ Leading analytic number theorists suggest that unconditionally resolving the Sop
 
 - **[Foundational]** Hardy, G. H., & Littlewood, J. E. "Some problems of 'Partitio numerorum'; III: On the expression of a number as a sum of primes." *Acta Mathematica*, 44(1), 1-70, 1923.
 - **[SOTA / Recent]** Chen, J. R. "On the representation of a larger even integer as the sum of a prime and the product of at most two primes." *Scientia Sinica*, 16(2), 157–176, 1973.
-- **[Survey]** Friedlander, J., & Iwaniec, H. *Opera de Cribro*. American Mathematical Society (Colloquium Publications, Vol. 57), 2010.
+- **[Survey]** Friedlander, J., & Iwaniec, H. *Opera de Cribro*. American Mathematical Society (Colloquium Publications, Vol. 57), 2010. [DOI](https://doi.org/10.1090/coll/057)
 
 ## 10. Worked Example / Concrete Special Case
 

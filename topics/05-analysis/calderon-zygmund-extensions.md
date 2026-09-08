@@ -111,20 +111,20 @@ Farag's theorem rules out the obvious candidate for (1). Whether a non-symmetric
 
 ## 9. Key References
 
-- **[Foundational]** A. P. Calderón, A. Zygmund. *On the existence of certain singular integrals.* Acta Mathematica 88 (1952), 85–139.
+- **[Foundational]** A. P. Calderón, A. Zygmund. *On the existence of certain singular integrals.* Acta Mathematica 88 (1952), 85–139. [DOI](https://doi.org/10.1007/bf02392130)
 - **[Foundational]** G. David, S. Semmes. *Singular integrals and rectifiable sets in $\mathbb{R}^n$: Au-delà des graphes lipschitziens.* Astérisque 193, Société Mathématique de France, 1991.
-- **[Foundational]** G. David, S. Semmes. *Analysis of and on Uniformly Rectifiable Sets.* Mathematical Surveys and Monographs 38, AMS, 1993.
+- **[Foundational]** G. David, S. Semmes. *Analysis of and on Uniformly Rectifiable Sets.* Mathematical Surveys and Monographs 38, AMS, 1993. [DOI](https://doi.org/10.1090/surv/038)
 - **[Foundational]** R. Coifman, G. Weiss. *Analyse harmonique non-commutative sur certains espaces homogènes.* Lecture Notes in Mathematics 242, Springer, 1971.
-- **[SOTA]** F. Nazarov, X. Tolsa, A. Volberg. *On the uniform rectifiability of AD-regular measures with bounded Riesz transform operator: the case of codimension 1.* Acta Mathematica 213 (2014), 237–321.
-- **[SOTA]** P. Mattila, M. Melnikov, J. Verdera. *The Cauchy integral, analytic capacity, and uniform rectifiability.* Annals of Mathematics 144 (1996), 127–136.
-- **[SOTA]** F. Nazarov, S. Treil, A. Volberg. *The $Tb$-theorem on non-homogeneous spaces.* Acta Mathematica 190 (2003), 151–239.
-- **[SOTA]** T. Hytönen. *The sharp weighted bound for general Calderón–Zygmund operators.* Annals of Mathematics 175 (2012), 1473–1506.
-- **[SOTA]** A. Lerner. *A weak type estimate for rough singular integrals.* Revista Matemática Iberoamericana 35 (2019), 1583–1602.
-- **[SOTA]** J. M. Conde-Alonso, A. Culiuc, F. Di Plinio, Y. Ou. *A sparse domination principle for rough singular integrals.* Analysis & PDE 10 (2017), 1255–1284.
-- **[SOTA]** B. Jaye, F. Nazarov, X. Tolsa, A. Volberg. *The Riesz transform of codimension smaller than one and the Wolff energy.* Memoirs of the AMS 266 (2020).
-- **[Obstruction]** H. Farag. *The Riesz kernels do not give rise to higher-dimensional analogues of the Menger–Melnikov curvature.* Publicacions Matemàtiques 43 (1999), 251–260.
-- **[Survey]** X. Tolsa. *Analytic Capacity, the Cauchy Transform, and Non-homogeneous Calderón–Zygmund Theory.* Progress in Mathematics 307, Birkhäuser, 2014.
-- **[Survey]** A. Volberg. *Calderón–Zygmund Capacities and Operators on Nonhomogeneous Spaces.* CBMS Regional Conference Series 100, AMS, 2003.
+- **[SOTA]** F. Nazarov, X. Tolsa, A. Volberg. *On the uniform rectifiability of AD-regular measures with bounded Riesz transform operator: the case of codimension 1.* Acta Mathematica 213 (2014), 237–321. [DOI](https://doi.org/10.1007/s11511-014-0120-7)
+- **[SOTA]** P. Mattila, M. Melnikov, J. Verdera. *The Cauchy integral, analytic capacity, and uniform rectifiability.* Annals of Mathematics 144 (1996), 127–136. [DOI](https://doi.org/10.2307/2118585)
+- **[SOTA]** F. Nazarov, S. Treil, A. Volberg. *The $Tb$-theorem on non-homogeneous spaces.* Acta Mathematica 190 (2003), 151–239. [DOI](https://doi.org/10.1007/bf02392690)
+- **[SOTA]** T. Hytönen. *The sharp weighted bound for general Calderón–Zygmund operators.* Annals of Mathematics 175 (2012), 1473–1506. [DOI](https://doi.org/10.4007/annals.2012.175.3.9)
+- **[SOTA]** A. Lerner. *A weak type estimate for rough singular integrals.* Revista Matemática Iberoamericana 35 (2019), 1583–1602. [DOI](https://doi.org/10.4171/rmi/1094)
+- **[SOTA]** J. M. Conde-Alonso, A. Culiuc, F. Di Plinio, Y. Ou. *A sparse domination principle for rough singular integrals.* Analysis & PDE 10 (2017), 1255–1284. [DOI](https://doi.org/10.2140/apde.2017.10.1255)
+- **[SOTA]** B. Jaye, F. Nazarov, X. Tolsa, A. Volberg. *The Riesz transform of codimension smaller than one and the Wolff energy.* Memoirs of the AMS 266 (2020). [DOI](https://doi.org/10.1090/memo/1293)
+- **[Obstruction]** H. Farag. *The Riesz kernels do not give rise to higher-dimensional analogues of the Menger–Melnikov curvature.* Publicacions Matemàtiques 43 (1999), 251–260. [DOI](https://doi.org/10.5565/publmat_43199_11)
+- **[Survey]** X. Tolsa. *Analytic Capacity, the Cauchy Transform, and Non-homogeneous Calderón–Zygmund Theory.* Progress in Mathematics 307, Birkhäuser, 2014. [DOI](https://doi.org/10.1007/978-3-319-00596-6)
+- **[Survey]** A. Volberg. *Calderón–Zygmund Capacities and Operators on Nonhomogeneous Spaces.* CBMS Regional Conference Series 100, AMS, 2003. [DOI](https://doi.org/10.1090/cbms/100)
 - **[Survey]** P. Mattila. *Geometry of Sets and Measures in Euclidean Spaces.* Cambridge University Press, 1995.
 
 ## 10. Worked Example / Concrete Special Case

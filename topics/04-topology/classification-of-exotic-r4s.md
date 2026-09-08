@@ -105,12 +105,12 @@ The precise gap is the passage from **non-diffeomorphism proofs by contradiction
 ## 9. Key References
 
 - **[Foundational]** M. H. Freedman. *The topology of four-dimensional manifolds.* Journal of Differential Geometry **17** (1982), 357–453.
-- **[Foundational]** S. K. Donaldson. *An application of gauge theory to four-dimensional topology.* Journal of Differential Geometry **18** (1983), 279–315.
+- **[Foundational]** S. K. Donaldson. *An application of gauge theory to four-dimensional topology.* Journal of Differential Geometry **18** (1983), 279–315. [DOI](https://doi.org/10.4310/jdg/1214437665)
 - **[Foundational]** R. E. Gompf. *Three exotic $\mathbb{R}^4$'s and other anomalies.* Journal of Differential Geometry **18** (1983), 317–328.
 - **[Foundational]** R. E. Gompf. *An infinite set of exotic $\mathbb{R}^4$'s.* Journal of Differential Geometry **21** (1985), 283–300.
-- **[Foundational]** C. H. Taubes. *Gauge theory on asymptotically periodic 4-manifolds.* Journal of Differential Geometry **25** (1987), 363–430.
-- **[Foundational]** M. H. Freedman and L. R. Taylor. *A universal smoothing of four-space.* Journal of Differential Geometry **24** (1986), 69–78.
-- **[SOTA / Recent]** S. DeMichelis and M. H. Freedman. *Uncountably many exotic $\mathbb{R}^4$'s in standard 4-space.* Journal of Differential Geometry **35** (1992), 219–254.
+- **[Foundational]** C. H. Taubes. *Gauge theory on asymptotically periodic 4-manifolds.* Journal of Differential Geometry **25** (1987), 363–430. [DOI](https://doi.org/10.4310/jdg/1214440981)
+- **[Foundational]** M. H. Freedman and L. R. Taylor. *A universal smoothing of four-space.* Journal of Differential Geometry **24** (1986), 69–78. [DOI](https://doi.org/10.4310/jdg/1214440258)
+- **[SOTA / Recent]** S. DeMichelis and M. H. Freedman. *Uncountably many exotic $\mathbb{R}^4$'s in standard 4-space.* Journal of Differential Geometry **35** (1992), 219–254. [DOI](https://doi.org/10.4310/jdg/1214447810)
 - **[SOTA / Recent]** R. E. Gompf. *An exotic menagerie.* Journal of Differential Geometry **37** (1993), 199–223.
 - **[SOTA / Recent]** Ž. Bižaca and R. E. Gompf. *Elliptic surfaces and some simple exotic $\mathbb{R}^4$'s.* Journal of Differential Geometry **43** (1996), 458–504.
 - **[SOTA / Recent]** L. R. Taylor. *An invariant of smooth 4-manifolds.* Geometry & Topology **1** (1997), 71–89.

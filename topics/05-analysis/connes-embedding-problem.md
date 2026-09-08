@@ -106,12 +106,12 @@ Before 2020 the gap was §4 ($\mathcal{R}^\omega$-embeddability for all known cl
 - **[Foundational]** A. Connes. *Classification of Injective Factors: Cases $\mathrm{II}_1$, $\mathrm{II}_\infty$, $\mathrm{III}_\lambda$, $\lambda \neq 1$.* Annals of Mathematics 104(1), 73–115, 1976.
 - **[Foundational]** E. Kirchberg. *On non-semisplit extensions, tensor products and exactness of group C\*-algebras.* Inventiones Mathematicae 112, 449–489, 1993.
 - **[SOTA / Recent]** Z. Ji, A. Natarajan, T. Vidick, J. Wright, H. Yuen. *MIP\* = RE.* arXiv:2001.04383, 2020; Communications of the ACM 64(11), 131–138, 2021.
-- **[SOTA / Recent]** W. Slofstra. *The set of quantum correlations is not closed.* Forum of Mathematics, Pi 7, e1, 2019.
-- **[SOTA / Recent]** T. Vidick. *Almost synchronous quantum correlations.* Journal of Mathematical Physics 63, 022201, 2022.
-- **[Survey]** I. Goldbring, B. Hart. *The Connes Embedding Problem: A Guided Tour.* Bulletin of the American Mathematical Society 59, 503–560, 2022.
+- **[SOTA / Recent]** W. Slofstra. *The set of quantum correlations is not closed.* Forum of Mathematics, Pi 7, e1, 2019. [DOI](https://doi.org/10.1017/fmp.2018.3)
+- **[SOTA / Recent]** T. Vidick. *Almost synchronous quantum correlations.* Journal of Mathematical Physics 63, 022201, 2022. [DOI](https://doi.org/10.1063/5.0056512)
+- **[Survey]** I. Goldbring, B. Hart. *The Connes Embedding Problem: A Guided Tour.* Bulletin of the American Mathematical Society 59, 503–560, 2022. [DOI](https://doi.org/10.1090/bull/1768)
 - **[Survey]** N. Ozawa. *About the Connes embedding conjecture: algebraic approaches.* Japanese Journal of Mathematics 8, 147–183, 2013.
-- **[Survey]** N. P. Brown, N. Ozawa. *C\*-Algebras and Finite-Dimensional Approximations.* Graduate Studies in Mathematics 88, AMS, 2008.
-- **[Foundational]** M. Junge, M. Navascués, C. Palazuelos, D. Pérez-García, V. B. Scholz, R. F. Werner. *Connes' embedding problem and Tsirelson's problem.* Journal of Mathematical Physics 52, 012102, 2011.
+- **[Survey]** N. P. Brown, N. Ozawa. *C\*-Algebras and Finite-Dimensional Approximations.* Graduate Studies in Mathematics 88, AMS, 2008. [DOI](https://doi.org/10.1090/gsm/088)
+- **[Foundational]** M. Junge, M. Navascués, C. Palazuelos, D. Pérez-García, V. B. Scholz, R. F. Werner. *Connes' embedding problem and Tsirelson's problem.* Journal of Mathematical Physics 52, 012102, 2011. [DOI](https://doi.org/10.1063/1.3514538)
 - **[Foundational]** T. Fritz. *Tsirelson's problem and Kirchberg's conjecture.* Reviews in Mathematical Physics 24, 1250012, 2012.
 - **[Related]** U. Haagerup, S. Thorbjørnsen. *A new application of random matrices: $\mathrm{Ext}(C^*_{\mathrm{red}}(F_2))$ is not a group.* Annals of Mathematics 162, 711–775, 2005.
 

@@ -118,14 +118,14 @@ For the theorem itself the obstacle is now historical, but the *residual* obstac
 ## 9. Key References
 
 - **[Foundational]** W. Feit and J. G. Thompson. *Solvability of groups of odd order.* Pacific Journal of Mathematics, 13 (1963), 775–1029.
-- **[Foundational]** M. Suzuki. *The nonexistence of a certain type of simple groups of odd order.* Proceedings of the American Mathematical Society, 8 (1957), 686–695.
-- **[Foundational]** W. Feit, M. Hall Jr., J. G. Thompson. *Finite groups in which the centralizer of any non-identity element is nilpotent.* Mathematische Zeitschrift, 74 (1960), 1–17.
+- **[Foundational]** M. Suzuki. *The nonexistence of a certain type of simple groups of odd order.* Proceedings of the American Mathematical Society, 8 (1957), 686–695. [DOI](https://doi.org/10.1090/s0002-9939-1957-0086818-0)
+- **[Foundational]** W. Feit, M. Hall Jr., J. G. Thompson. *Finite groups in which the centralizer of any non-identity element is nilpotent.* Mathematische Zeitschrift, 74 (1960), 1–17. [DOI](https://doi.org/10.1007/bf01180468)
 - **[Foundational]** J. G. Thompson. *Normal $p$-complements for finite groups.* Mathematische Zeitschrift, 72 (1959), 332–354.
 - **[SOTA]** H. Bender and G. Glauberman. *Local Analysis for the Odd Order Theorem.* London Mathematical Society Lecture Note Series 188, Cambridge University Press, 1994.
 - **[SOTA]** T. Peterfalvi. *Character Theory for the Odd Order Theorem.* London Mathematical Society Lecture Note Series 272, Cambridge University Press, 2000.
-- **[SOTA / Recent]** G. Gonthier, A. Asperti, J. Avigad, Y. Bertot, C. Cohen, F. Garillot, S. Le Roux, A. Mahboubi, R. O'Connor, S. Ould Biha, I. Pasca, L. Rideau, A. Solovyev, E. Tassi, L. Théry. *A Machine-Checked Proof of the Odd Order Theorem.* In Interactive Theorem Proving (ITP 2013), Lecture Notes in Computer Science 7998, Springer, 163–179.
-- **[Related]** N. M. Stephens. *On the Feit–Thompson conjecture.* Mathematics of Computation, 25 (1971), 625.
-- **[Related]** G. Glauberman. *A characteristic subgroup of a $p$-stable group.* Canadian Journal of Mathematics, 20 (1968), 1101–1135.
+- **[SOTA / Recent]** G. Gonthier, A. Asperti, J. Avigad, Y. Bertot, C. Cohen, F. Garillot, S. Le Roux, A. Mahboubi, R. O'Connor, S. Ould Biha, I. Pasca, L. Rideau, A. Solovyev, E. Tassi, L. Théry. *A Machine-Checked Proof of the Odd Order Theorem.* In Interactive Theorem Proving (ITP 2013), Lecture Notes in Computer Science 7998, Springer, 163–179. [DOI](https://doi.org/10.1007/978-3-642-39634-2_14)
+- **[Related]** N. M. Stephens. *On the Feit–Thompson conjecture.* Mathematics of Computation, 25 (1971), 625. [DOI](https://doi.org/10.1090/s0025-5718-1971-0297686-1)
+- **[Related]** G. Glauberman. *A characteristic subgroup of a $p$-stable group.* Canadian Journal of Mathematics, 20 (1968), 1101–1135. [DOI](https://doi.org/10.4153/cjm-1968-107-2)
 - **[Survey]** M. Aschbacher. *Finite Group Theory.* 2nd ed., Cambridge Studies in Advanced Mathematics 10, Cambridge University Press, 2000.
 - **[Survey]** D. Gorenstein. *Finite Simple Groups: An Introduction to Their Classification.* Plenum Press, 1982.
 

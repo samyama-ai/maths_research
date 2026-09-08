@@ -97,10 +97,10 @@ Leading mathematicians in arithmetic geometry have identified several essential 
 
 ## 9. Key References
 
-- **[Foundational]** Kolyvagin, V. A. *On the structure of Selmer groups.* Mathematische Annalen, 1991.
-- **[SOTA / Recent]** Zhang, W. *Selmer groups and the indivisibility of Heegner points.* Cambridge Journal of Mathematics, 2014.
+- **[Foundational]** Kolyvagin, V. A. *On the structure of Selmer groups.* Mathematische Annalen, 1991. [DOI](https://doi.org/10.1007/bf01445205)
+- **[SOTA / Recent]** Zhang, W. *Selmer groups and the indivisibility of Heegner points.* Cambridge Journal of Mathematics, 2014. [DOI](https://doi.org/10.4310/cjm.2014.v2.n2.a2)
 - **[SOTA / Recent]** Skinner, C. *A converse to a theorem of Gross, Zagier and Kolyvagin.* Annals of Mathematics, 2014.
-- **[Survey]** Howard, B. *The Heegner point Kolyvagin system.* Compositio Mathematica, 2004.
+- **[Survey]** Howard, B. *The Heegner point Kolyvagin system.* Compositio Mathematica, 2004. [DOI](https://doi.org/10.1112/s0010437x04000569)
 - **[Survey]** Gross, B. H. *Kolyvagin's work on modular elliptic curves.* L-functions and Arithmetic (Durham, 1989), London Mathematical Society Lecture Note Series, 1991.
 
 ## 10. Worked Example / Concrete Special Case

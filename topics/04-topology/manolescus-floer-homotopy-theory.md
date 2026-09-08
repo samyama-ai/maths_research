@@ -120,18 +120,18 @@ Section 4 delivers a spectrum for $b_1=0$ and an unfolded object for $b_1>0$; Se
 
 ## 9. Key References
 
-- **[Foundational]** R. L. Cohen, J. D. S. Jones, G. B. Segal. *Floer's infinite-dimensional Morse theory and homotopy theory.* In: The Floer Memorial Volume, Progress in Mathematics 133, Birkhäuser, 1995.
-- **[Foundational]** C. Manolescu. *Seiberg–Witten–Floer stable homotopy type of three-manifolds with $b_1=0$.* Geometry & Topology 7 (2003), 889–932.
-- **[Foundational]** S. Bauer, M. Furuta. *A stable cohomotopy refinement of Seiberg–Witten invariants: I.* Inventiones Mathematicae 155 (2004), 1–19; S. Bauer, *II*, ibid., 21–40.
-- **[SOTA]** C. Manolescu. *Pin(2)-equivariant Seiberg–Witten Floer homology and the triangulation conjecture.* Journal of the AMS 29 (2016), 147–176.
-- **[SOTA]** T. Khandhawit, J. Lin, H. Sasahira. *Unfolded Seiberg–Witten Floer spectra, I: Definition and invariance.* Geometry & Topology 22 (2018), 2027–2114.
-- **[SOTA]** T. Lidman, C. Manolescu. *The equivalence of two Seiberg–Witten Floer homologies.* Astérisque 399 (2018).
-- **[SOTA]** F. Lin. *A Morse–Bott approach to monopole Floer homology and the triangulation conjecture.* Memoirs of the AMS 255 (2018), no. 1221.
-- **[SOTA]** M. Stoffregen. *Pin(2)-equivariant Seiberg–Witten Floer homology of Seifert fibrations.* Compositio Mathematica 156 (2020), 199–250.
+- **[Foundational]** R. L. Cohen, J. D. S. Jones, G. B. Segal. *Floer's infinite-dimensional Morse theory and homotopy theory.* In: The Floer Memorial Volume, Progress in Mathematics 133, Birkhäuser, 1995. [DOI](https://doi.org/10.1007/978-3-0348-9217-9_13)
+- **[Foundational]** C. Manolescu. *Seiberg–Witten–Floer stable homotopy type of three-manifolds with $b_1=0$.* Geometry & Topology 7 (2003), 889–932. [DOI](https://doi.org/10.2140/gt.2003.7.889)
+- **[Foundational]** S. Bauer, M. Furuta. *A stable cohomotopy refinement of Seiberg–Witten invariants: I.* Inventiones Mathematicae 155 (2004), 1–19; S. Bauer, *II*, ibid., 21–40. [DOI](https://doi.org/10.1007/s00222-003-0288-5)
+- **[SOTA]** C. Manolescu. *Pin(2)-equivariant Seiberg–Witten Floer homology and the triangulation conjecture.* Journal of the AMS 29 (2016), 147–176. [DOI](https://doi.org/10.1090/jams829)
+- **[SOTA]** T. Khandhawit, J. Lin, H. Sasahira. *Unfolded Seiberg–Witten Floer spectra, I: Definition and invariance.* Geometry & Topology 22 (2018), 2027–2114. [DOI](https://doi.org/10.2140/gt.2018.22.2027)
+- **[SOTA]** T. Lidman, C. Manolescu. *The equivalence of two Seiberg–Witten Floer homologies.* Astérisque 399 (2018). [DOI](https://doi.org/10.24033/ast.1049)
+- **[SOTA]** F. Lin. *A Morse–Bott approach to monopole Floer homology and the triangulation conjecture.* Memoirs of the AMS 255 (2018), no. 1221. [DOI](https://doi.org/10.1090/memo/1221)
+- **[SOTA]** M. Stoffregen. *Pin(2)-equivariant Seiberg–Witten Floer homology of Seifert fibrations.* Compositio Mathematica 156 (2020), 199–250. [DOI](https://doi.org/10.1112/s0010437x19007620)
 - **[SOTA]** M. J. Hopkins, J. Lin, X. D. Shi, Z. Xu. *Intersection forms of spin 4-manifolds and the Pin(2)-equivariant Mahowald invariant.* arXiv:1812.04052 (2018).
 - **[SOTA]** M. Abouzaid, A. J. Blumberg. *Arnold conjecture and Morava K-theory.* arXiv:2103.01507 (2021).
-- **[Classical]** D. E. Galewski, R. J. Stern. *Classification of simplicial triangulations of topological manifolds.* Annals of Mathematics 111 (1980), 1–34.
-- **[Survey]** C. Manolescu. *Homology cobordism and triangulations.* Proceedings of the ICM 2018, Rio de Janeiro, Vol. II, 1175–1191.
+- **[Classical]** D. E. Galewski, R. J. Stern. *Classification of simplicial triangulations of topological manifolds.* Annals of Mathematics 111 (1980), 1–34. [DOI](https://doi.org/10.2307/1971215)
+- **[Survey]** C. Manolescu. *Homology cobordism and triangulations.* Proceedings of the ICM 2018, Rio de Janeiro, Vol. II, 1175–1191. [DOI](https://doi.org/10.1142/9789813272880_0092)
 - **[Survey]** R. L. Cohen. *Floer homotopy theory, realizing chain complexes by module spectra.* Contemporary Mathematics 519, AMS, 2010.
 
 ## 10. Worked Example / Concrete Special Case

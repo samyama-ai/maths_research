@@ -132,21 +132,21 @@ The exact step to be crossed for (2): identify a filtration on $p$-adic étale/s
 ## 9. Key References
 
 - **[Foundational]** J. Milnor. *Algebraic $K$-theory and quadratic forms.* Inventiones Mathematicae 9 (1970), 318–344.
-- **[Foundational]** S. Lichtenbaum. *Values of zeta-functions at non-negative integers.* In: Number Theory (Noordwijkerhout 1983), Lecture Notes in Math. 1068, Springer, 1984.
-- **[Foundational]** A. Beilinson. *Higher regulators and values of $L$-functions.* Journal of Soviet Mathematics 30 (1985), 2036–2070.
+- **[Foundational]** S. Lichtenbaum. *Values of zeta-functions at non-negative integers.* In: Number Theory (Noordwijkerhout 1983), Lecture Notes in Math. 1068, Springer, 1984. [DOI](https://doi.org/10.1007/bfb0099447)
+- **[Foundational]** A. Beilinson. *Higher regulators and values of $L$-functions.* Journal of Soviet Mathematics 30 (1985), 2036–2070. [DOI](https://doi.org/10.1007/bf02105861)
 - **[Foundational]** S. Bloch, K. Kato. *$p$-adic étale cohomology.* Publications Mathématiques de l'IHÉS 63 (1986), 107–152.
-- **[Foundational]** A. Merkurjev, A. Suslin. *$K$-cohomology of Severi–Brauer varieties and the norm residue homomorphism.* Izv. Akad. Nauk SSSR Ser. Mat. 46 (1982), 1011–1046.
+- **[Foundational]** A. Merkurjev, A. Suslin. *$K$-cohomology of Severi–Brauer varieties and the norm residue homomorphism.* Izv. Akad. Nauk SSSR Ser. Mat. 46 (1982), 1011–1046. [DOI](https://doi.org/10.1070/im1983v021n02abeh001793)
 - **[Foundational]** R. Thomason. *Algebraic $K$-theory and étale cohomology.* Ann. Sci. École Norm. Sup. 18 (1985), 437–552.
-- **[Key equivalence]** A. Suslin, V. Voevodsky. *Bloch–Kato conjecture and motivic cohomology with finite coefficients.* In: The Arithmetic and Geometry of Algebraic Cycles, NATO Sci. Ser. C 548, Kluwer, 2000, 117–189.
+- **[Key equivalence]** A. Suslin, V. Voevodsky. *Bloch–Kato conjecture and motivic cohomology with finite coefficients.* In: The Arithmetic and Geometry of Algebraic Cycles, NATO Sci. Ser. C 548, Kluwer, 2000, 117–189. [DOI](https://doi.org/10.1007/978-94-011-4098-0_5)
 - **[SOTA]** V. Voevodsky. *Motivic cohomology with $\mathbb{Z}/2$-coefficients.* Publ. Math. IHÉS 98 (2003), 59–104.
 - **[SOTA]** V. Voevodsky. *On motivic cohomology with $\mathbb{Z}/\ell$-coefficients.* Annals of Mathematics 174 (2011), 401–438.
-- **[SOTA]** C. Haesemeyer, C. Weibel. *The Norm Residue Theorem in Motivic Cohomology.* Annals of Mathematics Studies 200, Princeton University Press, 2019.
+- **[SOTA]** C. Haesemeyer, C. Weibel. *The Norm Residue Theorem in Motivic Cohomology.* Annals of Mathematics Studies 200, Princeton University Press, 2019. [DOI](https://doi.org/10.23943/princeton/9780691191041.001.0001)
 - **[SOTA]** T. Geisser, M. Levine. *The $K$-theory of fields in characteristic $p$.* Inventiones Mathematicae 139 (2000), 459–493.
-- **[SOTA]** T. Geisser, M. Levine. *The Bloch–Kato conjecture and a theorem of Suslin–Voevodsky.* J. reine angew. Math. 530 (2001), 55–103.
-- **[Recent]** B. Antieau, A. Mathew, M. Morrow, T. Nikolaus. *On the Beilinson fiber square.* Duke Mathematical Journal 171 (2022), 3707–3806.
-- **[Recent]** J. Rognes, C. Weibel. *Two-primary algebraic $K$-theory of rings of integers in number fields.* J. Amer. Math. Soc. 13 (2000), 1–54.
+- **[SOTA]** T. Geisser, M. Levine. *The Bloch–Kato conjecture and a theorem of Suslin–Voevodsky.* J. reine angew. Math. 530 (2001), 55–103. [DOI](https://doi.org/10.1515/crll.2001.006)
+- **[Recent]** B. Antieau, A. Mathew, M. Morrow, T. Nikolaus. *On the Beilinson fiber square.* Duke Mathematical Journal 171 (2022), 3707–3806. [DOI](https://doi.org/10.1215/00127094-2022-0037)
+- **[Recent]** J. Rognes, C. Weibel. *Two-primary algebraic $K$-theory of rings of integers in number fields.* J. Amer. Math. Soc. 13 (2000), 1–54. [DOI](https://doi.org/10.1090/s0894-0347-99-00317-3)
 - **[Survey]** C. Mazza, V. Voevodsky, C. Weibel. *Lecture Notes on Motivic Cohomology.* Clay Mathematics Monographs 2, AMS, 2006.
-- **[Survey]** C. Weibel. *The norm residue isomorphism theorem.* Journal of Topology 2 (2009), 346–372.
+- **[Survey]** C. Weibel. *The norm residue isomorphism theorem.* Journal of Topology 2 (2009), 346–372. [DOI](https://doi.org/10.1112/jtopol/jtp013)
 
 ## 10. Worked Example / Concrete Special Case
 

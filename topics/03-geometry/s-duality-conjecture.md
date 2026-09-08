@@ -95,20 +95,20 @@ The precise barrier: one must produce a structural reason — not a case-by-case
 
 ## 9. Key References
 
-- **[Foundational]** C. Montonen, D. Olive. *Magnetic Monopoles as Gauge Particles?* Physics Letters B 72(1), 117–120, 1977.
-- **[Foundational]** C. Vafa, E. Witten. *A Strong Coupling Test of S-Duality.* Nuclear Physics B 431, 3–77, 1994. (arXiv:hep-th/9408074)
-- **[Foundational]** L. Göttsche. *The Betti Numbers of the Hilbert Scheme of Points on a Smooth Projective Surface.* Mathematische Annalen 286, 193–207, 1990.
-- **[SOTA]** Y. Tanaka, R. P. Thomas. *Vafa–Witten Invariants for Projective Surfaces I: Stable Case.* Journal of Algebraic Geometry 29, 603–668, 2020.
-- **[SOTA]** Y. Tanaka, R. P. Thomas. *Vafa–Witten Invariants for Projective Surfaces II: Semistable Case.* Pure and Applied Mathematics Quarterly 13(3), 517–562, 2017.
-- **[SOTA]** L. Göttsche, M. Kool. *Virtual Refinements of the Vafa–Witten Formula.* Communications in Mathematical Physics 376, 1–49, 2020.
-- **[SOTA]** T. Laarakker. *Monopole Contributions to Refined Vafa–Witten Invariants.* Geometry & Topology 24(6), 2781–2828, 2020.
-- **[Related]** A. Kapustin, E. Witten. *Electric-Magnetic Duality and the Geometric Langlands Program.* Communications in Number Theory and Physics 1(1), 1–236, 2007.
-- **[Related]** T. Hausel, M. Thaddeus. *Mirror Symmetry, Langlands Duality, and the Hitchin System.* Inventiones Mathematicae 153, 197–229, 2003.
-- **[Related]** R. Donagi, T. Pantev. *Langlands Duality for Hitchin Systems.* Inventiones Mathematicae 189, 653–735, 2012.
+- **[Foundational]** C. Montonen, D. Olive. *Magnetic Monopoles as Gauge Particles?* Physics Letters B 72(1), 117–120, 1977. [DOI](https://doi.org/10.1016/0370-2693(77)90076-4)
+- **[Foundational]** C. Vafa, E. Witten. *A Strong Coupling Test of S-Duality.* Nuclear Physics B 431, 3–77, 1994. (arXiv:hep-th/9408074). [DOI](https://doi.org/10.1016/0550-3213(94)90097-3)
+- **[Foundational]** L. Göttsche. *The Betti Numbers of the Hilbert Scheme of Points on a Smooth Projective Surface.* Mathematische Annalen 286, 193–207, 1990. [DOI](https://doi.org/10.1007/bf01453572)
+- **[SOTA]** Y. Tanaka, R. P. Thomas. *Vafa–Witten Invariants for Projective Surfaces I: Stable Case.* Journal of Algebraic Geometry 29, 603–668, 2020. [DOI](https://doi.org/10.1090/jag/738)
+- **[SOTA]** Y. Tanaka, R. P. Thomas. *Vafa–Witten Invariants for Projective Surfaces II: Semistable Case.* Pure and Applied Mathematics Quarterly 13(3), 517–562, 2017. [DOI](https://doi.org/10.4310/pamq.2017.v13.n3.a6)
+- **[SOTA]** L. Göttsche, M. Kool. *Virtual Refinements of the Vafa–Witten Formula.* Communications in Mathematical Physics 376, 1–49, 2020. [DOI](https://doi.org/10.1007/s00220-020-03748-7)
+- **[SOTA]** T. Laarakker. *Monopole Contributions to Refined Vafa–Witten Invariants.* Geometry & Topology 24(6), 2781–2828, 2020. [DOI](https://doi.org/10.2140/gt.2020.24.2781)
+- **[Related]** A. Kapustin, E. Witten. *Electric-Magnetic Duality and the Geometric Langlands Program.* Communications in Number Theory and Physics 1(1), 1–236, 2007. [DOI](https://doi.org/10.4310/cntp.2007.v1.n1.a1)
+- **[Related]** T. Hausel, M. Thaddeus. *Mirror Symmetry, Langlands Duality, and the Hitchin System.* Inventiones Mathematicae 153, 197–229, 2003. [DOI](https://doi.org/10.1007/s00222-003-0286-7)
+- **[Related]** R. Donagi, T. Pantev. *Langlands Duality for Hitchin Systems.* Inventiones Mathematicae 189, 653–735, 2012. [DOI](https://doi.org/10.1007/s00222-012-0373-8)
 - **[Mock modularity]** K. Bringmann, J. Manschot. *From Sheaves on $\mathbb{P}^2$ to a Generalization of the Rademacher Expansion.* American Journal of Mathematics 133(4), 1039–1065, 2011.
-- **[Mock modularity]** A. Dabholkar, P. Putrov, E. Witten. *Duality and Mock Modularity.* SciPost Physics 9, 072, 2020.
-- **[Survey]** R. P. Thomas. *Equivariant K-theory and Refined Vafa–Witten Invariants.* Communications in Mathematical Physics 378, 1451–1500, 2020.
-- **[Survey]** K. Yoshioka. *The Betti Numbers of the Moduli Space of Stable Sheaves of Rank 2 on a Ruled Surface.* Mathematische Annalen 302, 519–540, 1995.
+- **[Mock modularity]** A. Dabholkar, P. Putrov, E. Witten. *Duality and Mock Modularity.* SciPost Physics 9, 072, 2020. [DOI](https://doi.org/10.21468/scipostphys.9.5.072)
+- **[Survey]** R. P. Thomas. *Equivariant K-theory and Refined Vafa–Witten Invariants.* Communications in Mathematical Physics 378, 1451–1500, 2020. [DOI](https://doi.org/10.1007/s00220-020-03821-1)
+- **[Survey]** K. Yoshioka. *The Betti Numbers of the Moduli Space of Stable Sheaves of Rank 2 on a Ruled Surface.* Mathematische Annalen 302, 519–540, 1995. [DOI](https://doi.org/10.1007/bf01444506)
 
 ## 10. Worked Example / Concrete Special Case
 

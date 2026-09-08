@@ -106,23 +106,23 @@ for wave packets $f_\theta$ adapted to $R^{-1/2}$-caps $\theta\subset S^{n-1}$ �
 
 ## 9. Key References
 
-- **[Foundational]** S. Bochner. *Summation of multiple Fourier series by spherical means.* Transactions of the American Mathematical Society, 40 (1936), 175–207.
-- **[Foundational]** C. Herz. *On the mean inversion of Fourier and Hankel transforms.* Proceedings of the National Academy of Sciences USA, 40 (1954), 996–999.
-- **[Foundational]** C. Fefferman. *Inequalities for strongly singular convolution operators.* Acta Mathematica, 124 (1970), 9–36.
-- **[Foundational]** C. Fefferman. *The multiplier problem for the ball.* Annals of Mathematics, 94 (1971), 330–336.
-- **[Foundational]** L. Carleson, P. Sjölin. *Oscillatory integrals and a multiplier problem for the disc.* Studia Mathematica, 44 (1972), 287–299.
-- **[Foundational]** A. Córdoba. *The Kakeya maximal function and the spherical summation multipliers.* American Journal of Mathematics, 99 (1977), 1–22.
+- **[Foundational]** S. Bochner. *Summation of multiple Fourier series by spherical means.* Transactions of the American Mathematical Society, 40 (1936), 175–207. [DOI](https://doi.org/10.1090/s0002-9947-1936-1501870-1)
+- **[Foundational]** C. Herz. *On the mean inversion of Fourier and Hankel transforms.* Proceedings of the National Academy of Sciences USA, 40 (1954), 996–999. [DOI](https://doi.org/10.1073/pnas.40.10.996)
+- **[Foundational]** C. Fefferman. *Inequalities for strongly singular convolution operators.* Acta Mathematica, 124 (1970), 9–36. [DOI](https://doi.org/10.1007/bf02394567)
+- **[Foundational]** C. Fefferman. *The multiplier problem for the ball.* Annals of Mathematics, 94 (1971), 330–336. [DOI](https://doi.org/10.2307/1970864)
+- **[Foundational]** L. Carleson, P. Sjölin. *Oscillatory integrals and a multiplier problem for the disc.* Studia Mathematica, 44 (1972), 287–299. [DOI](https://doi.org/10.4064/sm-44-3-287-299)
+- **[Foundational]** A. Córdoba. *The Kakeya maximal function and the spherical summation multipliers.* American Journal of Mathematics, 99 (1977), 1–22. [DOI](https://doi.org/10.2307/2374006)
 - **[Foundational]** E. M. Stein. *Harmonic Analysis: Real-Variable Methods, Orthogonality, and Oscillatory Integrals.* Princeton University Press, 1993 (Chapter IX).
-- **[SOTA / Recent]** J. Bourgain. *Besicovitch type maximal operators and applications to Fourier analysis.* Geometric and Functional Analysis, 1 (1991), 147–187.
-- **[SOTA / Recent]** T. Tao. *The Bochner–Riesz conjecture implies the restriction conjecture.* Duke Mathematical Journal, 96 (1999), 363–375.
-- **[SOTA / Recent]** S. Lee. *Improved bounds for Bochner–Riesz and maximal Bochner–Riesz operators.* Duke Mathematical Journal, 122 (2004), 205–232.
-- **[SOTA / Recent]** J. Bourgain, L. Guth. *Bounds on oscillatory integral operators based on multilinear estimates.* Geometric and Functional Analysis, 21 (2011), 1239–1295.
-- **[SOTA / Recent]** L. Guth. *A restriction estimate using polynomial partitioning.* Journal of the American Mathematical Society, 29 (2016), 371–413.
-- **[SOTA / Recent]** L. Guth, J. Hickman, M. Iliopoulou. *Sharp estimates for oscillatory integral operators via polynomial partitioning.* Acta Mathematica, 223 (2019), 251–376.
-- **[SOTA / Recent]** L. Guth, H. Wang, R. Zhang. *A sharp square function estimate for the cone in $\mathbb{R}^3$.* Annals of Mathematics, 192 (2020), 551–581.
+- **[SOTA / Recent]** J. Bourgain. *Besicovitch type maximal operators and applications to Fourier analysis.* Geometric and Functional Analysis, 1 (1991), 147–187. [DOI](https://doi.org/10.1007/bf01896376)
+- **[SOTA / Recent]** T. Tao. *The Bochner–Riesz conjecture implies the restriction conjecture.* Duke Mathematical Journal, 96 (1999), 363–375. [DOI](https://doi.org/10.1215/s0012-7094-99-09610-2)
+- **[SOTA / Recent]** S. Lee. *Improved bounds for Bochner–Riesz and maximal Bochner–Riesz operators.* Duke Mathematical Journal, 122 (2004), 205–232. [DOI](https://doi.org/10.1215/s0012-7094-04-12217-1)
+- **[SOTA / Recent]** J. Bourgain, L. Guth. *Bounds on oscillatory integral operators based on multilinear estimates.* Geometric and Functional Analysis, 21 (2011), 1239–1295. [DOI](https://doi.org/10.1007/s00039-011-0140-9)
+- **[SOTA / Recent]** L. Guth. *A restriction estimate using polynomial partitioning.* Journal of the American Mathematical Society, 29 (2016), 371–413. [DOI](https://doi.org/10.1090/jams827)
+- **[SOTA / Recent]** L. Guth, J. Hickman, M. Iliopoulou. *Sharp estimates for oscillatory integral operators via polynomial partitioning.* Acta Mathematica, 223 (2019), 251–376. [DOI](https://doi.org/10.4310/acta.2019.v223.n2.a2)
+- **[SOTA / Recent]** L. Guth, H. Wang, R. Zhang. *A sharp square function estimate for the cone in $\mathbb{R}^3$.* Annals of Mathematics, 192 (2020), 551–581. [DOI](https://doi.org/10.4007/annals.2020.192.2.6)
 - **[SOTA / Recent]** H. Wang. *A restriction estimate in $\mathbb{R}^3$ using brooms.* Duke Mathematical Journal, 171 (2022), 1749–1822.
 - **[SOTA / Recent]** S. Guo, C. Oh, H. Wang, S. Wu, R. Zhang. *The Bochner–Riesz problem: an old approach revisited.* Peking Mathematical Journal, 2022.
-- **[Survey]** T. Tao. *Recent progress on the restriction conjecture.* In *Fourier Analysis and Convexity*, Birkhäuser, 2004.
+- **[Survey]** T. Tao. *Recent progress on the restriction conjecture.* In *Fourier Analysis and Convexity*, Birkhäuser, 2004. [DOI](https://doi.org/10.1007/978-0-8176-8172-2_10)
 - **[Survey]** C. D. Sogge. *Fourier Integrals in Classical Analysis.* 2nd ed., Cambridge University Press, 2017.
 
 ## 10. Worked Example / Concrete Special Case

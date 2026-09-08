@@ -109,20 +109,20 @@ The Cabanes–Späth argument supplies this by combining Broué–Malle–Michel
 
 ## 9. Key References
 
-- **[Foundational]** J. McKay. *Irreducible representations of odd degree.* Journal of Algebra **20** (1972), 416–418.
-- **[Foundational]** J. L. Alperin. *The main problem of block theory.* In Proceedings of the Conference on Finite Groups (Park City, Utah, 1975), Academic Press, 1976, 341–356.
+- **[Foundational]** J. McKay. *Irreducible representations of odd degree.* Journal of Algebra **20** (1972), 416–418. [DOI](https://doi.org/10.1016/0021-8693(72)90066-x)
+- **[Foundational]** J. L. Alperin. *The main problem of block theory.* In Proceedings of the Conference on Finite Groups (Park City, Utah, 1975), Academic Press, 1976, 341–356. [DOI](https://doi.org/10.1016/b978-0-12-633650-4.50025-4)
 - **[Foundational]** I. M. Isaacs. *Character Theory of Finite Groups.* Academic Press, 1976.
 - **[Foundational]** G. Navarro. *Characters and Blocks of Finite Groups.* LMS Lecture Note Series 250, Cambridge University Press, 1998.
-- **[Key]** I. M. Isaacs, G. Malle, G. Navarro. *A reduction theorem for the McKay conjecture.* Inventiones Mathematicae **170** (2007), 33–101.
-- **[Key]** G. Navarro. *The McKay conjecture and Galois automorphisms.* Annals of Mathematics **160** (2004), 1129–1140.
-- **[Key]** G. Malle, B. Späth. *Characters of odd degree.* Annals of Mathematics **184** (2016), 869–908.
-- **[Key]** B. Späth. *A reduction theorem for the Alperin–McKay conjecture.* Journal für die reine und angewandte Mathematik (Crelle) **680** (2013), 153–189.
+- **[Key]** I. M. Isaacs, G. Malle, G. Navarro. *A reduction theorem for the McKay conjecture.* Inventiones Mathematicae **170** (2007), 33–101. [DOI](https://doi.org/10.1007/s00222-007-0057-y)
+- **[Key]** G. Navarro. *The McKay conjecture and Galois automorphisms.* Annals of Mathematics **160** (2004), 1129–1140. [DOI](https://doi.org/10.4007/annals.2004.160.1129)
+- **[Key]** G. Malle, B. Späth. *Characters of odd degree.* Annals of Mathematics **184** (2016), 869–908. [DOI](https://doi.org/10.4007/annals.2016.184.3.6)
+- **[Key]** B. Späth. *A reduction theorem for the Alperin–McKay conjecture.* Journal für die reine und angewandte Mathematik (Crelle) **680** (2013), 153–189. [DOI](https://doi.org/10.1515/crelle.2012.035)
 - **[SOTA / Recent]** M. Cabanes, B. Späth. *Equivariant character correspondences and inductive McKay condition for type A.* Journal für die reine und angewandte Mathematik (Crelle) **728** (2017), 153–194.
 - **[SOTA / Recent]** M. Cabanes, B. Späth. *The McKay conjecture on character degrees.* Preprint, arXiv, 2024.
-- **[SOTA / Recent]** L. Ruhstorfer. *Jordan decomposition for the Alperin–McKay conjecture.* Advances in Mathematics **394** (2022), 108031.
-- **[SOTA / Recent]** R. Kessar, G. Malle. *Quasi-isolated blocks and Brauer's height zero conjecture.* Annals of Mathematics **178** (2013), 321–384.
-- **[Survey]** B. Späth. *Reduction theorems for some global–local conjectures.* In *Local Representation Theory and Simple Groups*, EMS Series of Lectures in Mathematics, European Mathematical Society, 2018, 23–61.
-- **[Survey]** G. Malle. *Local–global conjectures in the representation theory of finite groups.* In *Representation Theory — Current Trends and Perspectives*, EMS, 2017, 519–539.
+- **[SOTA / Recent]** L. Ruhstorfer. *Jordan decomposition for the Alperin–McKay conjecture.* Advances in Mathematics **394** (2022), 108031. [DOI](https://doi.org/10.1016/j.aim.2021.108031)
+- **[SOTA / Recent]** R. Kessar, G. Malle. *Quasi-isolated blocks and Brauer's height zero conjecture.* Annals of Mathematics **178** (2013), 321–384. [DOI](https://doi.org/10.4007/annals.2013.178.1.6)
+- **[Survey]** B. Späth. *Reduction theorems for some global–local conjectures.* In *Local Representation Theory and Simple Groups*, EMS Series of Lectures in Mathematics, European Mathematical Society, 2018, 23–61. [DOI](https://doi.org/10.4171/185-1/2)
+- **[Survey]** G. Malle. *Local–global conjectures in the representation theory of finite groups.* In *Representation Theory — Current Trends and Perspectives*, EMS, 2017, 519–539. [DOI](https://doi.org/10.4171/171-1/17)
 
 ## 10. Worked Example / Concrete Special Case
 

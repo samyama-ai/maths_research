@@ -104,19 +104,19 @@ The precise missing step is a **compactness-and-count theorem for finite-energy 
 
 ## 9. Key References
 
-- **[Foundational]** V. I. Arnold. *First steps in symplectic topology.* Russian Mathematical Surveys **41** (1986), no. 6, 1–21.
-- **[Foundational]** H. Hofer. *Pseudoholomorphic curves in symplectizations with applications to the Weinstein conjecture in dimension three.* Inventiones Mathematicae **114** (1993), 515–563.
-- **[Foundational]** C. Abbas. *Finite energy surfaces and the chord problem.* Duke Mathematical Journal **96** (1999), 241–316.
-- **[SOTA]** K. Mohnke. *Holomorphic disks and the chord conjecture.* Annals of Mathematics (2) **154** (2001), 219–222.
-- **[SOTA]** M. Hutchings, C. H. Taubes. *Proof of the Arnold chord conjecture in three dimensions, I.* Geometry & Topology **15** (2011), 901–964.
-- **[SOTA]** M. Hutchings, C. H. Taubes. *Proof of the Arnold chord conjecture in three dimensions, II.* Geometry & Topology **17** (2013), 2601–2688.
-- **[SOTA]** C. H. Taubes. *The Seiberg–Witten equations and the Weinstein conjecture.* Geometry & Topology **11** (2007), 2117–2202.
-- **[Structural]** Yu. Chekanov. *Differential algebra of Legendrian links.* Inventiones Mathematicae **150** (2002), 441–483.
+- **[Foundational]** V. I. Arnold. *First steps in symplectic topology.* Russian Mathematical Surveys **41** (1986), no. 6, 1–21. [DOI](https://doi.org/10.1070/rm1986v041n06abeh004221)
+- **[Foundational]** H. Hofer. *Pseudoholomorphic curves in symplectizations with applications to the Weinstein conjecture in dimension three.* Inventiones Mathematicae **114** (1993), 515–563. [DOI](https://doi.org/10.1007/bf01232679)
+- **[Foundational]** C. Abbas. *Finite energy surfaces and the chord problem.* Duke Mathematical Journal **96** (1999), 241–316. [DOI](https://doi.org/10.1215/s0012-7094-99-09608-4)
+- **[SOTA]** K. Mohnke. *Holomorphic disks and the chord conjecture.* Annals of Mathematics (2) **154** (2001), 219–222. [DOI](https://doi.org/10.2307/3062116)
+- **[SOTA]** M. Hutchings, C. H. Taubes. *Proof of the Arnold chord conjecture in three dimensions, I.* Geometry & Topology **15** (2011), 901–964. [DOI](https://doi.org/10.4310/mrl.2011.v18.n2.a8)
+- **[SOTA]** M. Hutchings, C. H. Taubes. *Proof of the Arnold chord conjecture in three dimensions, II.* Geometry & Topology **17** (2013), 2601–2688. [DOI](https://doi.org/10.2140/gt.2013.17.2601)
+- **[SOTA]** C. H. Taubes. *The Seiberg–Witten equations and the Weinstein conjecture.* Geometry & Topology **11** (2007), 2117–2202. [DOI](https://doi.org/10.2140/gt.2007.11.2117)
+- **[Structural]** Yu. Chekanov. *Differential algebra of Legendrian links.* Inventiones Mathematicae **150** (2002), 441–483. [DOI](https://doi.org/10.1007/s002220200212)
 - **[Structural]** T. Ekholm, J. Etnyre, M. Sullivan. *The contact homology of Legendrian submanifolds in $\mathbb{R}^{2n+1}$.* Journal of Differential Geometry **71** (2005), 177–305.
-- **[Structural]** T. Ekholm, J. Etnyre, J. Sabloff. *A duality exact sequence for Legendrian contact homology.* Duke Mathematical Journal **150** (2009), 1–75.
-- **[Recent]** G. Dimitroglou Rizell. *Lifting pseudo-holomorphic polygons to the symplectisation of $P\times\mathbb{R}$ and applications.* Quantum Topology **7** (2016), 29–105.
-- **[Survey]** Y. Eliashberg, A. Givental, H. Hofer. *Introduction to symplectic field theory.* Geometric and Functional Analysis, Special Volume (2000), 560–673.
-- **[Survey]** C. Abbas, H. Hofer. *Holomorphic Curves and Global Questions in Contact Geometry.* Birkhäuser, 2019.
+- **[Structural]** T. Ekholm, J. Etnyre, J. Sabloff. *A duality exact sequence for Legendrian contact homology.* Duke Mathematical Journal **150** (2009), 1–75. [DOI](https://doi.org/10.1215/00127094-2009-046)
+- **[Recent]** G. Dimitroglou Rizell. *Lifting pseudo-holomorphic polygons to the symplectisation of $P\times\mathbb{R}$ and applications.* Quantum Topology **7** (2016), 29–105. [DOI](https://doi.org/10.4171/qt/73)
+- **[Survey]** Y. Eliashberg, A. Givental, H. Hofer. *Introduction to symplectic field theory.* Geometric and Functional Analysis, Special Volume (2000), 560–673. [DOI](https://doi.org/10.1007/978-3-0346-0425-3_4)
+- **[Survey]** C. Abbas, H. Hofer. *Holomorphic Curves and Global Questions in Contact Geometry.* Birkhäuser, 2019. [DOI](https://doi.org/10.1007/978-3-030-11803-7)
 - **[Survey]** V. Ginzburg. *The Weinstein conjecture and theorems of nearby and almost existence.* In *The Breadth of Symplectic and Poisson Geometry*, Progress in Mathematics **232**, Birkhäuser, 2005, 139–172.
 - **[Background]** K. Cieliebak, Y. Eliashberg. *From Stein to Weinstein and Back: Symplectic Geometry of Affine Complex Manifolds.* AMS Colloquium Publications **59**, 2012.
 

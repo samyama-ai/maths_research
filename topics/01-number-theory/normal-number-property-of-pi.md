@@ -87,9 +87,9 @@ Open pathways and suggested research strategies include:
 
 ## 9. Key References
 
-- **[Foundational]** Borel, É. *Les probabilités dénombrables et leurs applications arithmétiques.* Rendiconti del Circolo Matematico di Palermo, 1909.
-- **[Foundational]** Bailey, D. H., Borwein, P. B., and Plouffe, S. *On the Rapid Computation of Various Polylogarithmic Constants.* Mathematics of Computation, 1997.
-- **[SOTA / Recent]** Bailey, D. H., and Crandall, R. E. *On the Random Character of Fundamental Constant Expansions.* Experimental Mathematics, 2001.
+- **[Foundational]** Borel, É. *Les probabilités dénombrables et leurs applications arithmétiques.* Rendiconti del Circolo Matematico di Palermo, 1909. [DOI](https://doi.org/10.1007/bf03019651)
+- **[Foundational]** Bailey, D. H., Borwein, P. B., and Plouffe, S. *On the Rapid Computation of Various Polylogarithmic Constants.* Mathematics of Computation, 1997. [DOI](https://doi.org/10.1090/s0025-5718-97-00856-9)
+- **[SOTA / Recent]** Bailey, D. H., and Crandall, R. E. *On the Random Character of Fundamental Constant Expansions.* Experimental Mathematics, 2001. [DOI](https://doi.org/10.1080/10586458.2001.10504441)
 - **[Survey]** Bugeaud, Y. *Distribution modulo one and Diophantine approximation.* Cambridge Tracts in Mathematics, Cambridge University Press, 2012.
 
 ## 10. Worked Example / Concrete Special Case

@@ -84,7 +84,7 @@ Leading mathematicians suggest the following pathways:
 - **[Foundational]** Wieferich, A. *Zum letzten Fermat'schen Theorem.* Journal für die reine und angewandte Mathematik, 136: 293–302, 1909.
 - **[Foundational]** Silverman, J. H. *Wieferich's criterion and the abc-conjecture.* Journal of Number Theory, 30(2): 226–237, 1988.
 - **[SOTA / Recent]** Dorais, F. G., & Klyve, D. *A computational search for Wieferich primes.* Mathematics of Computation, 80(276): 2131–2136, 2011.
-- **[Survey]** Ribenboim, P. *The New Book of Prime Number Records.* Springer-Verlag, 1996.
+- **[Survey]** Ribenboim, P. *The New Book of Prime Number Records.* Springer-Verlag, 1996. [DOI](https://doi.org/10.1007/978-1-4612-0759-7)
 
 ## 10. Worked Example / Concrete Special Case
 

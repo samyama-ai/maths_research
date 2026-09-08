@@ -104,19 +104,19 @@ The residual gap is the transition from *"$Z(g,h)$ is a modular function of leve
 
 - **[Foundational]** J. H. Conway and S. P. Norton. *Monstrous Moonshine.* Bulletin of the London Mathematical Society **11** (1979), 308–339.
 - **[Foundational]** S. P. Norton. *Generalized Moonshine.* Appendix to G. Mason, "Finite Groups and Modular Functions", Proc. Sympos. Pure Math. **47** Part 1, AMS, 1987, 208–209.
-- **[Foundational]** I. Frenkel, J. Lepowsky, A. Meurman. *Vertex Operator Algebras and the Monster.* Pure and Applied Mathematics **134**, Academic Press, 1988.
-- **[Foundational]** R. E. Borcherds. *Monstrous moonshine and monstrous Lie superalgebras.* Inventiones Mathematicae **109** (1992), 405–444.
-- **[Foundational]** L. Dixon, P. Ginsparg, J. Harvey. *Beauty and the Beast: Superconformal Symmetry in a Monster Module.* Communications in Mathematical Physics **119** (1988), 221–241.
-- **[SOTA]** C. Dong, H. Li, G. Mason. *Modular invariance of trace functions in orbifold theory and generalized moonshine.* Communications in Mathematical Physics **214** (2000), 1–56.
+- **[Foundational]** I. Frenkel, J. Lepowsky, A. Meurman. *Vertex Operator Algebras and the Monster.* Pure and Applied Mathematics **134**, Academic Press, 1988. [DOI](https://doi.org/10.1016/s0079-8169(08)x6136-7)
+- **[Foundational]** R. E. Borcherds. *Monstrous moonshine and monstrous Lie superalgebras.* Inventiones Mathematicae **109** (1992), 405–444. [DOI](https://doi.org/10.1007/bf01232032)
+- **[Foundational]** L. Dixon, P. Ginsparg, J. Harvey. *Beauty and the Beast: Superconformal Symmetry in a Monster Module.* Communications in Mathematical Physics **119** (1988), 221–241. [DOI](https://doi.org/10.1007/bf01217740)
+- **[SOTA]** C. Dong, H. Li, G. Mason. *Modular invariance of trace functions in orbifold theory and generalized moonshine.* Communications in Mathematical Physics **214** (2000), 1–56. [DOI](https://doi.org/10.1007/s002200000242)
 - **[SOTA]** G. Höhn. *Generalized Moonshine for the Baby Monster.* Preprint/Habilitationsschrift, Universität Freiburg, 2003.
-- **[SOTA]** S. Carnahan. *Generalized moonshine I: Genus-zero functions.* Algebra & Number Theory **4** (2010), 649–679.
-- **[SOTA]** S. Carnahan. *Generalized moonshine II: Borcherds products.* Duke Mathematical Journal **161** (2012), 893–950.
+- **[SOTA]** S. Carnahan. *Generalized moonshine I: Genus-zero functions.* Algebra & Number Theory **4** (2010), 649–679. [DOI](https://doi.org/10.2140/ant.2010.4.649)
+- **[SOTA]** S. Carnahan. *Generalized moonshine II: Borcherds products.* Duke Mathematical Journal **161** (2012), 893–950. [DOI](https://doi.org/10.1215/00127094-1548416)
 - **[SOTA]** S. Carnahan. *Generalized moonshine IV: Monstrous Lie algebras.* arXiv:1208.6254.
 - **[SOTA]** J. van Ekeren, S. Möller, N. R. Scheithauer. *Construction and classification of holomorphic vertex operator algebras.* Journal für die reine und angewandte Mathematik (Crelle) **759** (2020), 61–99.
-- **[Recent]** M. R. Gaberdiel, D. Persson, H. Ronellenfitsch, R. Volpato. *Generalized Mathieu Moonshine.* Communications in Number Theory and Physics **7** (2013), 145–223.
+- **[Recent]** M. R. Gaberdiel, D. Persson, H. Ronellenfitsch, R. Volpato. *Generalized Mathieu Moonshine.* Communications in Number Theory and Physics **7** (2013), 145–223. [DOI](https://doi.org/10.4310/cntp.2013.v7.n1.a5)
 - **[Survey]** T. Gannon. *Moonshine Beyond the Monster: The Bridge Connecting Algebra, Modular Forms and Physics.* Cambridge University Press, 2006.
 - **[Survey]** J. F. R. Duncan, M. J. Griffin, K. Ono. *Moonshine.* Research in the Mathematical Sciences **2** (2015), Article 11.
-- **[Survey]** J. F. R. Duncan, I. B. Frenkel. *Rademacher sums, moonshine and gravity.* Communications in Number Theory and Physics **5** (2011), 849–976.
+- **[Survey]** J. F. R. Duncan, I. B. Frenkel. *Rademacher sums, moonshine and gravity.* Communications in Number Theory and Physics **5** (2011), 849–976. [DOI](https://doi.org/10.4310/cntp.2011.v5.n4.a4)
 
 ## 10. Worked Example / Concrete Special Case
 

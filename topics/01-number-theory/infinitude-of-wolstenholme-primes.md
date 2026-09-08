@@ -92,8 +92,8 @@ Leading computational number theorists suggest pushing the search bounds to $x =
 
 - **[Foundational]** Wolstenholme, J. *On Certain Properties of Prime Numbers.* The Quarterly Journal of Pure and Applied Mathematics, 1862.
 - **[Foundational]** Glaisher, J. W. L. *Congruences relating to the sums of products of the first $n$ numbers and to other sums.* The Quarterly Journal of Pure and Applied Mathematics, 1900.
-- **[SOTA / Recent]** Buhler, J. P., Crandall, R. E., Ernvall, R., and Metsänkylä, T. *Irregular primes and cyclotomic invariants to four million.* Mathematics of Computation, 1993.
-- **[SOTA / Recent]** McIntosh, R. J., and Roettger, E. L. *A search for Fibonacci-Wieferich and Wolstenholme primes.* Mathematics of Computation, 2007.
+- **[SOTA / Recent]** Buhler, J. P., Crandall, R. E., Ernvall, R., and Metsänkylä, T. *Irregular primes and cyclotomic invariants to four million.* Mathematics of Computation, 1993. [DOI](https://doi.org/10.1090/s0025-5718-1993-1197511-5)
+- **[SOTA / Recent]** McIntosh, R. J., and Roettger, E. L. *A search for Fibonacci-Wieferich and Wolstenholme primes.* Mathematics of Computation, 2007. [DOI](https://doi.org/10.1090/s0025-5718-07-01955-2)
 - **[Survey]** Meštrović, R. *Wolstenholme's theorem: Its Generalizations and Extensions in the last hundred and fifty years (1862—2011).* arXiv preprint arXiv:1111.3057, 2011.
 
 ## 10. Worked Example / Concrete Special Case

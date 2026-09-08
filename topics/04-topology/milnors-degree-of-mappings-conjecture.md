@@ -110,13 +110,13 @@ For $N \in \mathcal{Z}$ nothing forces $D(N)$ to be $\{0,\pm 1\}$ or infinite, a
 - **[Foundational]** J. Milnor and W. Thurston. *Characteristic numbers of 3-manifolds.* L'Enseignement Mathématique 23 (1977), 249–254.
 - **[Foundational]** M. Gromov. *Volume and bounded cohomology.* Publications Mathématiques de l'IHÉS 56 (1982), 5–99.
 - **[Foundational]** W. Thurston. *The Geometry and Topology of Three-Manifolds.* Princeton University lecture notes, 1979 (Chapter 6).
-- **[Foundational]** R. Benedetti and C. Petronio. *Lectures on Hyperbolic Geometry.* Springer, 1992.
-- **[SOTA / Recent]** H. Duan and S. Wang. *The degrees of maps between manifolds.* Mathematische Zeitschrift 244 (2003), 67–89.
-- **[SOTA / Recent]** D. Kotschick and C. Löh. *Fundamental classes not representable by products.* Journal of the London Mathematical Society 79 (2009), 545–561.
-- **[SOTA / Recent]** D. Kotschick and C. Neofytidis. *On three-manifolds dominated by circle bundles.* Mathematische Zeitschrift 274 (2013), 21–32.
+- **[Foundational]** R. Benedetti and C. Petronio. *Lectures on Hyperbolic Geometry.* Springer, 1992. [DOI](https://doi.org/10.1007/978-3-642-58158-8)
+- **[SOTA / Recent]** H. Duan and S. Wang. *The degrees of maps between manifolds.* Mathematische Zeitschrift 244 (2003), 67–89. [DOI](https://doi.org/10.1007/s00209-002-0475-x)
+- **[SOTA / Recent]** D. Kotschick and C. Löh. *Fundamental classes not representable by products.* Journal of the London Mathematical Society 79 (2009), 545–561. [DOI](https://doi.org/10.1112/jlms/jdn089)
+- **[SOTA / Recent]** D. Kotschick and C. Neofytidis. *On three-manifolds dominated by circle bundles.* Mathematische Zeitschrift 274 (2013), 21–32. [DOI](https://doi.org/10.1007/s00209-012-1055-3)
 - **[SOTA / Recent]** D. Crowley and C. Löh. *Functorial semi-norms on singular homology and (in)flexible manifolds.* Algebraic & Geometric Topology 15 (2015), 1453–1499.
-- **[SOTA / Recent]** M. Amann. *Degrees of self-maps of simply connected manifolds.* International Mathematics Research Notices, 2015.
-- **[SOTA / Recent]** C. Neofytidis. *Degrees of self-maps of products.* International Mathematics Research Notices, 2017.
+- **[SOTA / Recent]** M. Amann. *Degrees of self-maps of simply connected manifolds.* International Mathematics Research Notices, 2015. [DOI](https://doi.org/10.1093/imrn/rnu201)
+- **[SOTA / Recent]** C. Neofytidis. *Degrees of self-maps of products.* International Mathematics Research Notices, 2017. [DOI](https://doi.org/10.1093/imrn/rnw227)
 - **[Survey]** S. Wang. *Non-zero degree maps between 3-manifolds.* Proceedings of the ICM, Beijing 2002, Vol. II, 457–468.
 - **[Survey]** C. Löh. *Simplicial volume.* Bulletin of the Manifold Atlas, 2011.
 - **[Survey]** M. Gromov. *Metric Structures for Riemannian and Non-Riemannian Spaces.* Birkhäuser, 1999.

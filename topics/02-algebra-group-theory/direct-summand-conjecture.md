@@ -109,10 +109,10 @@ Leading mathematicians outline several strategic pathways proceeding from the re
 
 ## 9. Key References
 
-- **[Foundational]** Hochster, M. *Contracted ideals from integral extensions of regular rings.* Bulletin of the American Mathematical Society, 1973.
-- **[Foundational]** Heitmann, R. *The direct summand conjecture in dimension three.* Annals of Mathematics, 2002.
-- **[SOTA / Recent]** André, Y. *La conjecture du facteur direct.* Publications Mathématiques de l'IHÉS, 2018.
-- **[SOTA / Recent]** Bhatt, B. *On the direct summand conjecture and its derived variant.* Inventiones mathematicae, 2018.
+- **[Foundational]** Hochster, M. *Contracted ideals from integral extensions of regular rings.* Bulletin of the American Mathematical Society, 1973. [DOI](https://doi.org/10.1017/s0027763000015701)
+- **[Foundational]** Heitmann, R. *The direct summand conjecture in dimension three.* Annals of Mathematics, 2002. [DOI](https://doi.org/10.2307/3597204)
+- **[SOTA / Recent]** André, Y. *La conjecture du facteur direct.* Publications Mathématiques de l'IHÉS, 2018. [DOI](https://doi.org/10.1007/s10240-017-0097-9)
+- **[SOTA / Recent]** Bhatt, B. *On the direct summand conjecture and its derived variant.* Inventiones mathematicae, 2018. [DOI](https://doi.org/10.1007/s00222-017-0768-7)
 - **[Survey]** Ma, L., and Schwede, K. *Perfectoid multiplier/test ideals in regular rings and bounds on symbolic powers.* Inventiones mathematicae, 2021.
 - **[Survey]** Bhatt, B. *Algebraic geometry in mixed characteristic.* Proceedings of the International Congress of Mathematicians (ICM), 2022.
 

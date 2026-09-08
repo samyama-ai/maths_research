@@ -87,10 +87,10 @@ A central, open pathway is unconditionalizing the "Calegari-Geraghty method." Th
 
 ## 9. Key References
 
-- **[Foundational]** Wiles, A. *Modular elliptic curves and Fermat's Last Theorem*. Annals of Mathematics, 1995.
-- **[Foundational]** Taylor, R., and Wiles, A. *Ring-theoretic properties of certain Hecke algebras*. Annals of Mathematics, 1995.
-- **[SOTA / Recent]** Breuil, C., Conrad, B., Diamond, F., and Taylor, R. *On the modularity of elliptic curves over $\mathbb{Q}$: wild 3-adic exercises*. Journal of the American Mathematical Society, 2001.
-- **[Survey]** Diamond, F., and Shurman, J. *A First Course in Modular Forms*. Graduate Texts in Mathematics 228, Springer, 2005.
+- **[Foundational]** Wiles, A. *Modular elliptic curves and Fermat's Last Theorem*. Annals of Mathematics, 1995. [DOI](https://doi.org/10.1007/978-3-0348-9078-6_18)
+- **[Foundational]** Taylor, R., and Wiles, A. *Ring-theoretic properties of certain Hecke algebras*. Annals of Mathematics, 1995. [DOI](https://doi.org/10.2307/2118560)
+- **[SOTA / Recent]** Breuil, C., Conrad, B., Diamond, F., and Taylor, R. *On the modularity of elliptic curves over $\mathbb{Q}$: wild 3-adic exercises*. Journal of the American Mathematical Society, 2001. [DOI](https://doi.org/10.1090/s0894-0347-01-00370-8)
+- **[Survey]** Diamond, F., and Shurman, J. *A First Course in Modular Forms*. Graduate Texts in Mathematics 228, Springer, 2005. [DOI](https://doi.org/10.1007/b138781)
 
 ## 10. Worked Example / Concrete Special Case
 

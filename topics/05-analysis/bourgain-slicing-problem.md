@@ -123,24 +123,24 @@ The remaining gap after the resolution is **quantitative**:
 
 ## 9. Key References
 
-- **[Foundational]** J. Bourgain. *On high-dimensional maximal functions associated to convex bodies.* American Journal of Mathematics 108 (1986), 1467–1476.
+- **[Foundational]** J. Bourgain. *On high-dimensional maximal functions associated to convex bodies.* American Journal of Mathematics 108 (1986), 1467–1476. [DOI](https://doi.org/10.2307/2374532)
 - **[Foundational]** J. Bourgain. *On the distribution of polynomials on high-dimensional convex sets.* In: Geometric Aspects of Functional Analysis (GAFA Seminar 1989–90), Lecture Notes in Math. 1469, Springer, 1991, 127–137.
-- **[Foundational]** K. Ball. *Logarithmically concave functions and sections of convex sets in $\mathbb{R}^n$.* Studia Mathematica 88 (1988), 69–84.
+- **[Foundational]** K. Ball. *Logarithmically concave functions and sections of convex sets in $\mathbb{R}^n$.* Studia Mathematica 88 (1988), 69–84. [DOI](https://doi.org/10.4064/sm-88-1-69-84)
 - **[Foundational]** K. Ball. *Cube slicing in $\mathbb{R}^n$.* Proceedings of the AMS 97 (1986), 465–473.
-- **[Foundational]** D. Hensley. *Slicing convex bodies — bounds for slice area in terms of the body's covariance.* Proceedings of the AMS 79 (1980), 619–625.
+- **[Foundational]** D. Hensley. *Slicing convex bodies — bounds for slice area in terms of the body's covariance.* Proceedings of the AMS 79 (1980), 619–625. [DOI](https://doi.org/10.2307/2042510)
 - **[Foundational]** V. Milman, A. Pajor. *Isotropic position and inertia ellipsoids and zonoids of the unit ball of a normed $n$-dimensional space.* GAFA Seminar 1987–88, Lecture Notes in Math. 1376, Springer, 1989, 64–104.
-- **[Foundational]** R. Kannan, L. Lovász, M. Simonovits. *Isoperimetric problems for convex bodies and a localization lemma.* Discrete & Computational Geometry 13 (1995), 541–559.
-- **[SOTA]** B. Klartag. *On convex perturbations with a bounded isotropic constant.* Geometric and Functional Analysis 16 (2006), 1274–1290.
-- **[SOTA]** B. Klartag, G. Kozma. *On the hyperplane conjecture for random convex sets.* Israel Journal of Mathematics 170 (2009), 253–268.
-- **[SOTA]** R. Eldan, B. Klartag. *Approximately gaussian marginals and the hyperplane conjecture.* Contemporary Mathematics 545, AMS, 2011, 55–68.
-- **[SOTA]** R. Eldan. *Thin shell implies spectral gap up to polylog via a stochastic localization scheme.* Geometric and Functional Analysis 23 (2013), 532–569.
-- **[SOTA]** Y. Chen. *An almost constant lower bound of the isoperimetric coefficient in the KLS conjecture.* Geometric and Functional Analysis 31 (2021), 34–61.
-- **[SOTA]** B. Klartag, J. Lehec. *Bourgain's slicing problem and KLS isoperimetry up to polylog.* Geometric and Functional Analysis 32 (2022), 1134–1159.
+- **[Foundational]** R. Kannan, L. Lovász, M. Simonovits. *Isoperimetric problems for convex bodies and a localization lemma.* Discrete & Computational Geometry 13 (1995), 541–559. [DOI](https://doi.org/10.1007/bf02574061)
+- **[SOTA]** B. Klartag. *On convex perturbations with a bounded isotropic constant.* Geometric and Functional Analysis 16 (2006), 1274–1290. [DOI](https://doi.org/10.1007/s00039-006-0588-1)
+- **[SOTA]** B. Klartag, G. Kozma. *On the hyperplane conjecture for random convex sets.* Israel Journal of Mathematics 170 (2009), 253–268. [DOI](https://doi.org/10.1007/s11856-009-0028-7)
+- **[SOTA]** R. Eldan, B. Klartag. *Approximately gaussian marginals and the hyperplane conjecture.* Contemporary Mathematics 545, AMS, 2011, 55–68. [DOI](https://doi.org/10.1090/conm/545/10764)
+- **[SOTA]** R. Eldan. *Thin shell implies spectral gap up to polylog via a stochastic localization scheme.* Geometric and Functional Analysis 23 (2013), 532–569. [DOI](https://doi.org/10.1007/s00039-013-0214-y)
+- **[SOTA]** Y. Chen. *An almost constant lower bound of the isoperimetric coefficient in the KLS conjecture.* Geometric and Functional Analysis 31 (2021), 34–61. [DOI](https://doi.org/10.1007/s00039-021-00558-4)
+- **[SOTA]** B. Klartag, J. Lehec. *Bourgain's slicing problem and KLS isoperimetry up to polylog.* Geometric and Functional Analysis 32 (2022), 1134–1159. [DOI](https://doi.org/10.1007/s00039-022-00612-9)
 - **[SOTA]** A. Jambulapati, Y. T. Lee, S. S. Vempala. *A slightly improved bound for the KLS constant.* arXiv:2208.11644, 2022.
 - **[SOTA]** B. Klartag. *Logarithmic bounds for isoperimetry and slices of convex sets.* Ars Inveniendi Analytica (2023), Paper No. 4.
 - **[SOTA / Resolution]** Q. Guan. *A note on Bourgain's slicing problem.* arXiv:2412.09075, 2024.
-- **[SOTA / Resolution]** B. Klartag, J. Lehec. *Affirmative Resolution of Bourgain's Slicing Problem using Guan's Bound.* arXiv:2412.15044, 2024.
-- **[Survey]** S. Brazitikos, A. Giannopoulos, P. Valettas, B.-H. Vritsiou. *Geometry of Isotropic Convex Bodies.* Mathematical Surveys and Monographs 196, American Mathematical Society, 2014.
+- **[SOTA / Resolution]** B. Klartag, J. Lehec. *Affirmative Resolution of Bourgain's Slicing Problem using Guan's Bound.* arXiv:2412.15044, 2024. [DOI](https://doi.org/10.1007/s00039-025-00718-w)
+- **[Survey]** S. Brazitikos, A. Giannopoulos, P. Valettas, B.-H. Vritsiou. *Geometry of Isotropic Convex Bodies.* Mathematical Surveys and Monographs 196, American Mathematical Society, 2014. [DOI](https://doi.org/10.1090/surv/196)
 
 ## 10. Worked Example / Concrete Special Case
 

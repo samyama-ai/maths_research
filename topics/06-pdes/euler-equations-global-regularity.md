@@ -112,10 +112,10 @@ If finite-time blow-up for smooth data in $\mathbb{R}^3$ is definitively proven,
 ## 9. Key References
 
 - **[Foundational]** Kato, T. *Nonstationary flows of viscous and ideal fluids in $\mathbb{R}^m$.* Journal of Functional Analysis, 1972.
-- **[Foundational]** Beale, J. T., Kato, T., & Majda, A. *Remarks on the breakdown of smooth solutions for the 3-D Euler equations.* Communications in Mathematical Physics, 1984.
+- **[Foundational]** Beale, J. T., Kato, T., & Majda, A. *Remarks on the breakdown of smooth solutions for the 3-D Euler equations.* Communications in Mathematical Physics, 1984. [DOI](https://doi.org/10.1007/bf01212349)
 - **[Foundational]** Constantin, P., Fefferman, C., & Majda, A. *Geometric constraints on potentially singular solutions for the 3-D Euler equations.* Communications in Partial Differential Equations, 1996.
-- **[SOTA / Recent]** Elgindi, T. M. *Finite-time singularity formation for $C^{1,\alpha}$ solutions to the incompressible Euler equations on $\mathbb{R}^3$.* Annals of Mathematics, 2021.
-- **[SOTA / Recent]** Chen, J., & Hou, T. Y. *Stable nearly self-similar blowup of the 2D Boussinesq and 3D Euler equations with smooth data.* Inventiones mathematicae, 2024.
+- **[SOTA / Recent]** Elgindi, T. M. *Finite-time singularity formation for $C^{1,\alpha}$ solutions to the incompressible Euler equations on $\mathbb{R}^3$.* Annals of Mathematics, 2021. [DOI](https://doi.org/10.4007/annals.2021.194.3.2)
+- **[SOTA / Recent]** Chen, J., & Hou, T. Y. *Stable nearly self-similar blowup of the 2D Boussinesq and 3D Euler equations with smooth data.* Inventiones mathematicae, 2024. [DOI](https://doi.org/10.1137/23m1580395)
 - **[Survey]** Majda, A. J., & Bertozzi, A. L. *Vorticity and Incompressible Flow.* Cambridge University Press, 2002.
 
 ## 10. Worked Example / Concrete Special Case

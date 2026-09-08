@@ -102,17 +102,17 @@ Section 4 delivers **existence** for all $\mathrm{char}\,0$ Lie bialgebras and s
 - **[Foundational]** V. G. Drinfeld. *On some unsolved problems in quantum group theory.* Quantum Groups (Leningrad 1990), Lecture Notes in Math. 1510, Springer, 1992, 1–8.
 - **[Foundational]** V. G. Drinfeld. *On quasitriangular quasi-Hopf algebras and a group closely connected with $\mathrm{Gal}(\bar{\mathbb Q}/\mathbb Q)$.* Leningrad Math. J. 2 (1991), 829–860.
 - **[Foundational]** P. Etingof, D. Kazhdan. *Quantization of Lie bialgebras, I.* Selecta Math. (N.S.) 2 (1996), no. 1, 1–41.
-- **[Foundational]** P. Etingof, D. Kazhdan. *Quantization of Lie bialgebras, II, III.* Selecta Math. (N.S.) 4 (1998), 213–231 and 233–269.
-- **[SOTA / Recent]** P. Etingof, D. Kazhdan. *Quantization of Lie bialgebras, VI: quantization of generalized Kac–Moody algebras.* Transformation Groups 13 (2008), 527–539.
-- **[SOTA / Recent]** B. Enriquez. *A cohomological construction of quantization functors of Lie bialgebras.* Advances in Mathematics 197 (2005), 430–479.
-- **[SOTA / Recent]** B. Enriquez, G. Halbout. *Quantization of quasi-Lie bialgebras.* Journal of the AMS 22 (2009), 467–500.
-- **[SOTA / Recent]** B. Enriquez, G. Halbout. *Quantization of coboundary Lie bialgebras.* Annals of Mathematics 171 (2010), 1267–1345.
-- **[SOTA / Recent]** P. Ševera. *Quantization of Lie bialgebras revisited.* Selecta Math. (N.S.) 22 (2016), 1563–1581.
-- **[SOTA / Recent]** T. Willwacher. *M. Kontsevich's graph complex and the Grothendieck–Teichmüller Lie algebra.* Inventiones Mathematicae 200 (2015), 671–760.
-- **[SOTA / Recent]** A. Appel, V. Toledano Laredo. *A 2-categorical extension of Etingof–Kazhdan quantisation.* Selecta Math. (N.S.) 24 (2018), 3529–3617.
+- **[Foundational]** P. Etingof, D. Kazhdan. *Quantization of Lie bialgebras, II, III.* Selecta Math. (N.S.) 4 (1998), 213–231 and 233–269. [DOI](https://doi.org/10.1007/s000290050031)
+- **[SOTA / Recent]** P. Etingof, D. Kazhdan. *Quantization of Lie bialgebras, VI: quantization of generalized Kac–Moody algebras.* Transformation Groups 13 (2008), 527–539. [DOI](https://doi.org/10.1007/s00031-008-9029-6)
+- **[SOTA / Recent]** B. Enriquez. *A cohomological construction of quantization functors of Lie bialgebras.* Advances in Mathematics 197 (2005), 430–479. [DOI](https://doi.org/10.1016/j.aim.2004.10.011)
+- **[SOTA / Recent]** B. Enriquez, G. Halbout. *Quantization of quasi-Lie bialgebras.* Journal of the AMS 22 (2009), 467–500. [DOI](https://doi.org/10.1090/s0894-0347-10-00654-5)
+- **[SOTA / Recent]** B. Enriquez, G. Halbout. *Quantization of coboundary Lie bialgebras.* Annals of Mathematics 171 (2010), 1267–1345. [DOI](https://doi.org/10.4007/annals.2010.171.1267)
+- **[SOTA / Recent]** P. Ševera. *Quantization of Lie bialgebras revisited.* Selecta Math. (N.S.) 22 (2016), 1563–1581. [DOI](https://doi.org/10.1007/s00029-016-0227-0)
+- **[SOTA / Recent]** T. Willwacher. *M. Kontsevich's graph complex and the Grothendieck–Teichmüller Lie algebra.* Inventiones Mathematicae 200 (2015), 671–760. [DOI](https://doi.org/10.1007/s00222-014-0528-x)
+- **[SOTA / Recent]** A. Appel, V. Toledano Laredo. *A 2-categorical extension of Etingof–Kazhdan quantisation.* Selecta Math. (N.S.) 24 (2018), 3529–3617. [DOI](https://doi.org/10.1007/s00029-017-0381-z)
 - **[Survey]** P. Etingof, O. Schiffmann. *Lectures on Quantum Groups.* 2nd ed., International Press, 2002.
-- **[Survey]** S. Merkulov, T. Willwacher. *Deformation theory of Lie bialgebra properads.* In: Geometry and Physics: A Festschrift in honour of Nigel Hitchin, Oxford Univ. Press, 2018.
-- **[Related]** M. Kontsevich. *Deformation quantization of Poisson manifolds.* Letters in Mathematical Physics 66 (2003), 157–216.
+- **[Survey]** S. Merkulov, T. Willwacher. *Deformation theory of Lie bialgebra properads.* In: Geometry and Physics: A Festschrift in honour of Nigel Hitchin, Oxford Univ. Press, 2018. [DOI](https://doi.org/10.1093/oso/9780198802013.003.0010)
+- **[Related]** M. Kontsevich. *Deformation quantization of Poisson manifolds.* Letters in Mathematical Physics 66 (2003), 157–216. [DOI](https://doi.org/10.1023/b:math.0000027508.00421.bf)
 
 ## 10. Worked Example / Concrete Special Case
 

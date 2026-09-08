@@ -92,11 +92,11 @@ In the framework of Voevodsky's triangulated category of motives, the generic fi
 ## 9. Key References
 
 - **[Foundational]** Harer, J. *The second homology group of the mapping class group of an orientable surface.* Inventiones Mathematicae, 72(2), 221-239, 1983.
-- **[Foundational]** Arbarello, E., & Cornalba, M. *The Picard groups of the moduli spaces of curves.* Topology, 26(2), 153-171, 1987.
+- **[Foundational]** Arbarello, E., & Cornalba, M. *The Picard groups of the moduli spaces of curves.* Topology, 26(2), 153-171, 1987. [DOI](https://doi.org/10.1016/0040-9383(87)90056-5)
 - **[Foundational]** O'Grady, K. G. *Moduli of sheaves and the Chow group of K3 surfaces.* Journal de Mathématiques Pures et Appliquées, 80(11), 1089-1116, 2001.
 - **[SOTA / Recent]** Voisin, C. *Chow Rings, Decomposition of the Diagonal, and the Topology of Families.* Annals of Mathematics Studies, Princeton University Press, 2014.
 - **[SOTA / Recent]** Shen, J., & Yin, Q. *K3 categories, one-cycles on cubic fourfolds, and the Beauville-Voisin filtration.* Journal of the Institute of Mathematics of Jussieu, 19(5), 1601-1627, 2020.
-- **[Survey]** Huybrechts, D. *Motives of derived equivalent K3 surfaces.* Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg, 2018.
+- **[Survey]** Huybrechts, D. *Motives of derived equivalent K3 surfaces.* Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg, 2018. [DOI](https://doi.org/10.1007/s12188-017-0182-5)
 
 ## 10. Worked Example / Concrete Special Case
 

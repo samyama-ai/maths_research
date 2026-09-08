@@ -113,19 +113,19 @@ so that the circles $|z|=r_n$ map to curves surrounding $|z|=r_{n+1}$, generatin
 
 ## 9. Key References
 
-- **[Foundational]** I. N. Baker. *Multiply connected domains of normality in iteration theory.* Mathematische Zeitschrift 81 (1963), 206–214.
-- **[Foundational]** I. N. Baker. *The iteration of polynomials and transcendental entire functions.* Journal of the Australian Mathematical Society, Series A, 30 (1981), 483–495.
-- **[Foundational]** I. N. Baker. *Wandering domains in the iteration of entire functions.* Proceedings of the London Mathematical Society (3) 49 (1984), 563–576.
-- **[Analytic input]** W. K. Hayman. *The minimum modulus of large integral functions.* Proceedings of the London Mathematical Society (3) 2 (1952), 469–512.
-- **[Analytic input]** P. D. Barry. *The minimum modulus of small integral and subharmonic functions.* Proceedings of the London Mathematical Society (3) 12 (1962), 445–495.
-- **[Partial result]** G. M. Stallard. *The iteration of entire functions of small growth.* Mathematical Proceedings of the Cambridge Philosophical Society 114 (1993), 43–55.
-- **[Partial result]** J. M. Anderson and A. Hinkkanen. *Unbounded domains of normality.* Proceedings of the American Mathematical Society 126 (1998), 3243–3252.
-- **[SOTA]** P. J. Rippon and G. M. Stallard. *Functions of small growth with no unbounded Fatou components.* Journal d'Analyse Mathématique 108 (2009), 61–86.
-- **[SOTA]** P. J. Rippon and G. M. Stallard. *Fast escaping points of entire functions.* Proceedings of the London Mathematical Society (3) 105 (2012), 787–820.
-- **[SOTA]** D. A. Nicks, P. J. Rippon and G. M. Stallard. *Baker's conjecture for functions with real zeros.* Proceedings of the London Mathematical Society (3) 117 (2018), 100–124.
-- **[Related]** D. J. Sixsmith. *Entire functions for which the escaping set is a spider's web.* Mathematical Proceedings of the Cambridge Philosophical Society 151 (2011), 551–571.
-- **[Survey]** W. Bergweiler. *Iteration of meromorphic functions.* Bulletin of the American Mathematical Society 29 (1993), 151–188.
-- **[Survey]** A. Hinkkanen. *Entire functions with no unbounded Fatou components.* In: *Complex Analysis and Dynamical Systems II*, Contemporary Mathematics 382, AMS, 2005, 217–226.
+- **[Foundational]** I. N. Baker. *Multiply connected domains of normality in iteration theory.* Mathematische Zeitschrift 81 (1963), 206–214. [DOI](https://doi.org/10.1007/bf01111543)
+- **[Foundational]** I. N. Baker. *The iteration of polynomials and transcendental entire functions.* Journal of the Australian Mathematical Society, Series A, 30 (1981), 483–495. [DOI](https://doi.org/10.1017/s1446788700017961)
+- **[Foundational]** I. N. Baker. *Wandering domains in the iteration of entire functions.* Proceedings of the London Mathematical Society (3) 49 (1984), 563–576. [DOI](https://doi.org/10.1112/plms/s3-49.3.563)
+- **[Analytic input]** W. K. Hayman. *The minimum modulus of large integral functions.* Proceedings of the London Mathematical Society (3) 2 (1952), 469–512. [DOI](https://doi.org/10.1112/plms/s3-2.1.469)
+- **[Analytic input]** P. D. Barry. *The minimum modulus of small integral and subharmonic functions.* Proceedings of the London Mathematical Society (3) 12 (1962), 445–495. [DOI](https://doi.org/10.1112/plms/s3-12.1.445)
+- **[Partial result]** G. M. Stallard. *The iteration of entire functions of small growth.* Mathematical Proceedings of the Cambridge Philosophical Society 114 (1993), 43–55. [DOI](https://doi.org/10.1017/s0305004100071395)
+- **[Partial result]** J. M. Anderson and A. Hinkkanen. *Unbounded domains of normality.* Proceedings of the American Mathematical Society 126 (1998), 3243–3252. [DOI](https://doi.org/10.1090/s0002-9939-98-04370-6)
+- **[SOTA]** P. J. Rippon and G. M. Stallard. *Functions of small growth with no unbounded Fatou components.* Journal d'Analyse Mathématique 108 (2009), 61–86. [DOI](https://doi.org/10.1007/s11854-009-0018-z)
+- **[SOTA]** P. J. Rippon and G. M. Stallard. *Fast escaping points of entire functions.* Proceedings of the London Mathematical Society (3) 105 (2012), 787–820. [DOI](https://doi.org/10.1112/plms/pds001)
+- **[SOTA]** D. A. Nicks, P. J. Rippon and G. M. Stallard. *Baker's conjecture for functions with real zeros.* Proceedings of the London Mathematical Society (3) 117 (2018), 100–124. [DOI](https://doi.org/10.1112/plms.12124)
+- **[Related]** D. J. Sixsmith. *Entire functions for which the escaping set is a spider's web.* Mathematical Proceedings of the Cambridge Philosophical Society 151 (2011), 551–571. [DOI](https://doi.org/10.1017/s0305004111000582)
+- **[Survey]** W. Bergweiler. *Iteration of meromorphic functions.* Bulletin of the American Mathematical Society 29 (1993), 151–188. [DOI](https://doi.org/10.1090/s0273-0979-1993-00432-4)
+- **[Survey]** A. Hinkkanen. *Entire functions with no unbounded Fatou components.* In: *Complex Analysis and Dynamical Systems II*, Contemporary Mathematics 382, AMS, 2005, 217–226. [DOI](https://doi.org/10.1090/conm/382/07061)
 
 ## 10. Worked Example / Concrete Special Case
 

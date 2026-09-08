@@ -111,21 +111,21 @@ For (C2): known lower bounds are of shape $1/\sqrt{r+c}$ with $c > 0$, or $1/\sq
 ## 9. Key References
 
 - **[Foundational]** J.-P. Demailly. *Singular Hermitian metrics on positive line bundles.* In: Complex Algebraic Varieties (Bayreuth 1990), Lecture Notes in Math. 1507, Springer, 1992, 87–104.
-- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics 81 (1959), 766–772.
+- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics 81 (1959), 766–772. [DOI](https://doi.org/10.2307/2372927)
 - **[Foundational]** L. Ein, R. Lazarsfeld. *Seshadri constants on smooth surfaces.* Astérisque 218 (1993), 177–186.
-- **[Foundational]** L. Ein, O. Küchle, R. Lazarsfeld. *Local positivity of ample line bundles.* Journal of Differential Geometry 42 (1995), 193–219.
+- **[Foundational]** L. Ein, O. Küchle, R. Lazarsfeld. *Local positivity of ample line bundles.* Journal of Differential Geometry 42 (1995), 193–219. [DOI](https://doi.org/10.4310/jdg/1214457231)
 - **[Foundational]** G. Xu. *Ample line bundles on smooth surfaces.* Journal für die reine und angewandte Mathematik 417 (1991), 181–185.
-- **[Survey]** Th. Bauer, S. Di Rocco, B. Harbourne, M. Kapustka, A. Knutsen, W. Syzdek, T. Szemberg. *A primer on Seshadri constants.* Contemporary Mathematics 496, AMS, 2009, 33–70.
-- **[Survey]** R. Lazarsfeld. *Positivity in Algebraic Geometry I.* Ergebnisse der Mathematik 48, Springer, 2004 (Chapter 5).
-- **[SOTA / Recent]** M. Nakamaye. *Seshadri constants on abelian varieties.* American Journal of Mathematics 118 (1996), 621–635.
-- **[SOTA / Recent]** M. Nakamaye. *Seshadri constants at very general points.* Transactions of the AMS 357 (2005), 3285–3297.
-- **[SOTA / Recent]** P. Cascini, M. Nakamaye. *Seshadri constants on smooth threefolds.* Advances in Geometry 14 (2014), 87–103.
-- **[SOTA / Recent]** A. Ito. *Seshadri constants via toric degenerations.* Journal für die reine und angewandte Mathematik 695 (2014), 151–174.
-- **[SOTA / Recent]** Th. Bauer. *Seshadri constants on algebraic surfaces.* Mathematische Annalen 313 (1999), 547–583.
-- **[SOTA / Recent]** A. Steffens. *Remarks on Seshadri constants.* Mathematische Zeitschrift 227 (1998), 505–510.
-- **[SOTA / Recent]** P. Biran. *Constructing new ample divisors out of old ones.* Duke Mathematical Journal 98 (1999), 113–135.
-- **[SOTA / Recent]** C. Ciliberto, R. Miranda. *Degenerations of planar linear systems.* Journal für die reine und angewandte Mathematik 501 (1998), 191–220.
-- **[SOTA / Recent]** B. Harbourne, J. Roé. *Discrete behavior of Seshadri constants on surfaces.* Journal of Pure and Applied Algebra 212 (2008), 616–627.
+- **[Survey]** Th. Bauer, S. Di Rocco, B. Harbourne, M. Kapustka, A. Knutsen, W. Syzdek, T. Szemberg. *A primer on Seshadri constants.* Contemporary Mathematics 496, AMS, 2009, 33–70. [DOI](https://doi.org/10.1090/conm/496/09718)
+- **[Survey]** R. Lazarsfeld. *Positivity in Algebraic Geometry I.* Ergebnisse der Mathematik 48, Springer, 2004 (Chapter 5). [DOI](https://doi.org/10.1007/978-3-642-18808-4)
+- **[SOTA / Recent]** M. Nakamaye. *Seshadri constants on abelian varieties.* American Journal of Mathematics 118 (1996), 621–635. [DOI](https://doi.org/10.1353/ajm.1996.0028)
+- **[SOTA / Recent]** M. Nakamaye. *Seshadri constants at very general points.* Transactions of the AMS 357 (2005), 3285–3297. [DOI](https://doi.org/10.1090/s0002-9947-04-03668-2)
+- **[SOTA / Recent]** P. Cascini, M. Nakamaye. *Seshadri constants on smooth threefolds.* Advances in Geometry 14 (2014), 87–103. [DOI](https://doi.org/10.1515/advgeom-2013-0012)
+- **[SOTA / Recent]** A. Ito. *Seshadri constants via toric degenerations.* Journal für die reine und angewandte Mathematik 695 (2014), 151–174. [DOI](https://doi.org/10.1515/crelle-2012-0116)
+- **[SOTA / Recent]** Th. Bauer. *Seshadri constants on algebraic surfaces.* Mathematische Annalen 313 (1999), 547–583. [DOI](https://doi.org/10.1007/s002080050272)
+- **[SOTA / Recent]** A. Steffens. *Remarks on Seshadri constants.* Mathematische Zeitschrift 227 (1998), 505–510. [DOI](https://doi.org/10.1007/pl00004388)
+- **[SOTA / Recent]** P. Biran. *Constructing new ample divisors out of old ones.* Duke Mathematical Journal 98 (1999), 113–135. [DOI](https://doi.org/10.1215/s0012-7094-99-09803-4)
+- **[SOTA / Recent]** C. Ciliberto, R. Miranda. *Degenerations of planar linear systems.* Journal für die reine und angewandte Mathematik 501 (1998), 191–220. [DOI](https://doi.org/10.1515/crll.1998.077)
+- **[SOTA / Recent]** B. Harbourne, J. Roé. *Discrete behavior of Seshadri constants on surfaces.* Journal of Pure and Applied Algebra 212 (2008), 616–627. [DOI](https://doi.org/10.1016/j.jpaa.2007.06.018)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -99,7 +99,7 @@ Leading mathematicians suggest several pathways forward:
 ## 9. Key References
 
 - **[Foundational]** Feit, W., & Thompson, J. G. *Solvability of groups of odd order.* Pacific Journal of Mathematics, 1963.
-- **[Foundational]** Gorenstein, D. *The classification of finite simple groups. I. Simple groups and local analysis.* Bulletin of the American Mathematical Society, 1979.
+- **[Foundational]** Gorenstein, D. *The classification of finite simple groups. I. Simple groups and local analysis.* Bulletin of the American Mathematical Society, 1979. [DOI](https://doi.org/10.1090/s0273-0979-1979-14551-8)
 - **[SOTA / Recent]** Aschbacher, M., & Smith, S. D. *The Classification of Quasithin Groups: I Structure of Strongly Quasithin K-groups.* Mathematical Surveys and Monographs, AMS, 2004.
 - **[SOTA / Recent]** Gorenstein, D., Lyons, R., & Solomon, R. *The Classification of the Finite Simple Groups.* Mathematical Surveys and Monographs, AMS, (Multiple volumes, 1994–present).
 - **[Survey]** Aschbacher, M. *The Status of the Classification of the Finite Simple Groups.* Notices of the American Mathematical Society, 2004.

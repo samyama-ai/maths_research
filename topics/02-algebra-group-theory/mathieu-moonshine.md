@@ -103,20 +103,20 @@ The precise barrier: bridge Mukai's obstruction. Either (i) show a single object
 
 ## 9. Key References
 
-- **[Foundational]** T. Eguchi, H. Ooguri, Y. Tachikawa. *Notes on the K3 Surface and the Mathieu Group $M_{24}$.* Experimental Mathematics 20 (2011), 91–96.
-- **[Foundational]** S. Mukai. *Finite groups of automorphisms of K3 surfaces and the Mathieu group.* Inventiones Mathematicae 94 (1988), 183–221.
+- **[Foundational]** T. Eguchi, H. Ooguri, Y. Tachikawa. *Notes on the K3 Surface and the Mathieu Group $M_{24}$.* Experimental Mathematics 20 (2011), 91–96. [DOI](https://doi.org/10.1080/10586458.2011.544585)
+- **[Foundational]** S. Mukai. *Finite groups of automorphisms of K3 surfaces and the Mathieu group.* Inventiones Mathematicae 94 (1988), 183–221. [DOI](https://doi.org/10.1007/bf01394352)
 - **[Foundational]** S. Zwegers. *Mock Theta Functions.* PhD thesis, Utrecht University, 2002.
-- **[Twining genera]** M. R. Gaberdiel, S. Hohenegger, R. Volpato. *Mathieu twining characters for K3.* JHEP 2010(9):058; and *Mathieu Moonshine in the elliptic genus of K3.* JHEP 2010(10):062.
-- **[Twining genera]** M. C. N. Cheng. *K3 Surfaces, $N=4$ Dyons, and the Mathieu Group $M_{24}$.* Communications in Number Theory and Physics 4 (2010), 623–657.
-- **[SOTA]** T. Gannon. *Much ado about Mathieu.* Advances in Mathematics 301 (2016), 322–358.
-- **[SOTA]** J. F. R. Duncan, M. J. Griffin, K. Ono. *Proof of the Umbral Moonshine Conjecture.* Research in the Mathematical Sciences 2 (2015), article 26.
-- **[Framework]** M. C. N. Cheng, J. F. R. Duncan, J. A. Harvey. *Umbral Moonshine.* Communications in Number Theory and Physics 8 (2014), 101–242.
-- **[Symmetry surfing]** A. Taormina, K. Wendland. *The overarching finite symmetry group of Kummer surfaces in the Mathieu group $M_{24}$.* JHEP 2013(8):125.
-- **[K3 sigma models]** M. R. Gaberdiel, S. Hohenegger, R. Volpato. *Symmetries of K3 sigma models.* Communications in Number Theory and Physics 6 (2012), 1–50.
-- **[Conway module]** J. F. R. Duncan, S. Mack-Crane. *Derived Equivalences of K3 Surfaces and Twined Elliptic Genera.* Research in the Mathematical Sciences 3 (2016), article 1.
+- **[Twining genera]** M. R. Gaberdiel, S. Hohenegger, R. Volpato. *Mathieu twining characters for K3.* JHEP 2010(9):058; and *Mathieu Moonshine in the elliptic genus of K3.* JHEP 2010(10):062. [DOI](https://doi.org/10.1007/jhep09(2010)058)
+- **[Twining genera]** M. C. N. Cheng. *K3 Surfaces, $N=4$ Dyons, and the Mathieu Group $M_{24}$.* Communications in Number Theory and Physics 4 (2010), 623–657. [DOI](https://doi.org/10.4310/cntp.2010.v4.n4.a2)
+- **[SOTA]** T. Gannon. *Much ado about Mathieu.* Advances in Mathematics 301 (2016), 322–358. [DOI](https://doi.org/10.1016/j.aim.2016.06.014)
+- **[SOTA]** J. F. R. Duncan, M. J. Griffin, K. Ono. *Proof of the Umbral Moonshine Conjecture.* Research in the Mathematical Sciences 2 (2015), article 26. [DOI](https://doi.org/10.1186/s40687-015-0044-7)
+- **[Framework]** M. C. N. Cheng, J. F. R. Duncan, J. A. Harvey. *Umbral Moonshine.* Communications in Number Theory and Physics 8 (2014), 101–242. [DOI](https://doi.org/10.4310/cntp.2014.v8.n2.a1)
+- **[Symmetry surfing]** A. Taormina, K. Wendland. *The overarching finite symmetry group of Kummer surfaces in the Mathieu group $M_{24}$.* JHEP 2013(8):125. [DOI](https://doi.org/10.1007/jhep08(2013)125)
+- **[K3 sigma models]** M. R. Gaberdiel, S. Hohenegger, R. Volpato. *Symmetries of K3 sigma models.* Communications in Number Theory and Physics 6 (2012), 1–50. [DOI](https://doi.org/10.4310/cntp.2012.v6.n1.a1)
+- **[Conway module]** J. F. R. Duncan, S. Mack-Crane. *Derived Equivalences of K3 Surfaces and Twined Elliptic Genera.* Research in the Mathematical Sciences 3 (2016), article 1. [DOI](https://doi.org/10.1186/s40687-015-0050-9)
 - **[Survey]** J. F. R. Duncan, M. J. Griffin, K. Ono. *Moonshine.* Research in the Mathematical Sciences 2 (2015), article 11.
-- **[Survey]** V. Anagiannis, M. C. N. Cheng. *TASI Lectures on Moonshine.* Proceedings of Science, TASI2017 (2018), 010.
-- **[Physics origin]** N. M. Paquette, D. Persson, R. Volpato. *Monstrous BPS-algebras and the superstring origin of moonshine.* Communications in Number Theory and Physics 10 (2016), 433–526.
+- **[Survey]** V. Anagiannis, M. C. N. Cheng. *TASI Lectures on Moonshine.* Proceedings of Science, TASI2017 (2018), 010. [DOI](https://doi.org/10.22323/1.305.0010)
+- **[Physics origin]** N. M. Paquette, D. Persson, R. Volpato. *Monstrous BPS-algebras and the superstring origin of moonshine.* Communications in Number Theory and Physics 10 (2016), 433–526. [DOI](https://doi.org/10.4310/cntp.2016.v10.n3.a2)
 
 ## 10. Worked Example / Concrete Special Case
 

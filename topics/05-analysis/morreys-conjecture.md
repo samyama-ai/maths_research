@@ -107,21 +107,21 @@ If yes, rank-one convexity implies quasiconvexity in $2\times2$. If no, the gap 
 
 ## 9. Key References
 
-- **[Foundational]** C. B. Morrey, Jr. *Quasi-convexity and the lower semicontinuity of multiple integrals.* Pacific Journal of Mathematics 2 (1952), 25–53.
+- **[Foundational]** C. B. Morrey, Jr. *Quasi-convexity and the lower semicontinuity of multiple integrals.* Pacific Journal of Mathematics 2 (1952), 25–53. [DOI](https://doi.org/10.2140/pjm.1952.2.25)
 - **[Foundational]** C. B. Morrey, Jr. *Multiple Integrals in the Calculus of Variations.* Springer, 1966.
-- **[Foundational]** F. J. Terpstra. *Die Darstellung biquadratischer Formen als Summen von Quadraten mit Anwendung auf die Variationsrechnung.* Mathematische Annalen 116 (1939), 166–180.
-- **[Foundational]** J. M. Ball. *Convexity conditions and existence theorems in nonlinear elasticity.* Archive for Rational Mechanics and Analysis 63 (1977), 337–403.
-- **[Breakthrough]** V. Šverák. *Rank-one convexity does not imply quasiconvexity.* Proceedings of the Royal Society of Edinburgh Section A 120 (1992), 185–189.
+- **[Foundational]** F. J. Terpstra. *Die Darstellung biquadratischer Formen als Summen von Quadraten mit Anwendung auf die Variationsrechnung.* Mathematische Annalen 116 (1939), 166–180. [DOI](https://doi.org/10.1007/bf01597353)
+- **[Foundational]** J. M. Ball. *Convexity conditions and existence theorems in nonlinear elasticity.* Archive for Rational Mechanics and Analysis 63 (1977), 337–403. [DOI](https://doi.org/10.1007/bf00279992)
+- **[Breakthrough]** V. Šverák. *Rank-one convexity does not imply quasiconvexity.* Proceedings of the Royal Society of Edinburgh Section A 120 (1992), 185–189. [DOI](https://doi.org/10.1017/s0308210500015080)
 - **[Partial result]** S. Müller. *Rank-one convexity implies quasiconvexity on diagonal matrices.* International Mathematics Research Notices 1999, no. 20, 1087–1095.
-- **[Partial result]** T. Harris, B. Kirchheim, C.-C. Lin. *Two-by-two upper triangular matrices and Morrey's conjecture.* Calculus of Variations and PDE 57 (2018), art. 73.
-- **[SOTA / Recent]** K. Astala, T. Iwaniec, I. Prause, E. Saksman. *Burkholder integrals, Morrey's problem and quasiconformal mappings.* Journal of the AMS 25 (2012), 507–531.
-- **[SOTA / Recent]** B. Kirchheim, J. Kristensen. *On rank one convex functions that are homogeneous of degree one.* Archive for Rational Mechanics and Analysis 221 (2016), 527–558.
-- **[SOTA / Recent]** A. Guerra. *Extremal rank-one convex integrands and a conjecture of Šverák.* Calculus of Variations and PDE 58 (2019), art. 201.
-- **[SOTA / Recent]** Y. Grabovsky. *From microstructure-independent formulas for composite materials to rank-one convex, non-quasiconvex functions.* Archive for Rational Mechanics and Analysis 227 (2018), 607–636.
-- **[Structure]** D. Faraco, L. Székelyhidi, Jr. *Tartar's conjecture and localization of the quasiconvex hull in $\mathbb{R}^{2\times2}$.* Acta Mathematica 200 (2008), 279–305.
-- **[Structure]** J. Kristensen. *On the non-locality of quasiconvexity.* Annales de l'IHP, Analyse Non Linéaire 16 (1999), 1–13.
-- **[Computational]** J. Voss, R. J. Martin, O. Sander, S. Kumar, D. M. Kochmann, P. Neff. *Numerical approaches for investigating quasiconvexity in the context of Morrey's conjecture.* Journal of Nonlinear Science 32 (2022), art. 77.
-- **[Survey / Textbook]** B. Dacorogna. *Direct Methods in the Calculus of Variations*, 2nd ed. Springer, 2008.
+- **[Partial result]** T. Harris, B. Kirchheim, C.-C. Lin. *Two-by-two upper triangular matrices and Morrey's conjecture.* Calculus of Variations and PDE 57 (2018), art. 73. [DOI](https://doi.org/10.1007/s00526-018-1360-8)
+- **[SOTA / Recent]** K. Astala, T. Iwaniec, I. Prause, E. Saksman. *Burkholder integrals, Morrey's problem and quasiconformal mappings.* Journal of the AMS 25 (2012), 507–531. [DOI](https://doi.org/10.1090/s0894-0347-2011-00718-2)
+- **[SOTA / Recent]** B. Kirchheim, J. Kristensen. *On rank one convex functions that are homogeneous of degree one.* Archive for Rational Mechanics and Analysis 221 (2016), 527–558. [DOI](https://doi.org/10.1007/s00205-016-0967-1)
+- **[SOTA / Recent]** A. Guerra. *Extremal rank-one convex integrands and a conjecture of Šverák.* Calculus of Variations and PDE 58 (2019), art. 201. [DOI](https://doi.org/10.1007/s00526-019-1646-5)
+- **[SOTA / Recent]** Y. Grabovsky. *From microstructure-independent formulas for composite materials to rank-one convex, non-quasiconvex functions.* Archive for Rational Mechanics and Analysis 227 (2018), 607–636. [DOI](https://doi.org/10.1007/s00205-017-1169-1)
+- **[Structure]** D. Faraco, L. Székelyhidi, Jr. *Tartar's conjecture and localization of the quasiconvex hull in $\mathbb{R}^{2\times2}$.* Acta Mathematica 200 (2008), 279–305. [DOI](https://doi.org/10.1007/s11511-008-0028-1)
+- **[Structure]** J. Kristensen. *On the non-locality of quasiconvexity.* Annales de l'IHP, Analyse Non Linéaire 16 (1999), 1–13. [DOI](https://doi.org/10.1016/s0294-1449(99)80006-7)
+- **[Computational]** J. Voss, R. J. Martin, O. Sander, S. Kumar, D. M. Kochmann, P. Neff. *Numerical approaches for investigating quasiconvexity in the context of Morrey's conjecture.* Journal of Nonlinear Science 32 (2022), art. 77. [DOI](https://doi.org/10.1007/s00332-022-09820-x)
+- **[Survey / Textbook]** B. Dacorogna. *Direct Methods in the Calculus of Variations*, 2nd ed. Springer, 2008. [DOI](https://doi.org/10.1007/978-0-387-55249-1)
 
 ## 10. Worked Example / Concrete Special Case
 

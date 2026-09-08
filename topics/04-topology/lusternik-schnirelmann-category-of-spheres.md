@@ -112,17 +112,17 @@ The gap is the missing *invariant*: a functor $W$ with $\mathrm{cat}(X)\ge W(X)$
 
 - **[Foundational]** L. Lusternik and L. Schnirelmann. *Méthodes topologiques dans les problèmes variationnels.* Hermann, Paris, 1934.
 - **[Foundational]** R. H. Fox. *On the Lusternik–Schnirelmann category.* Annals of Mathematics 42 (1941), 333–370.
-- **[Foundational]** I. Berstein and P. J. Hilton. *Category and generalized Hopf invariants.* Illinois Journal of Mathematics 4 (1960), 437–451.
-- **[Foundational]** T. Ganea. *Some problems on numerical homotopy invariants.* In: Symposium on Algebraic Topology, Lecture Notes in Mathematics 249, Springer, 1971, 13–22.
+- **[Foundational]** I. Berstein and P. J. Hilton. *Category and generalized Hopf invariants.* Illinois Journal of Mathematics 4 (1960), 437–451. [DOI](https://doi.org/10.1215/ijm/1255456060)
+- **[Foundational]** T. Ganea. *Some problems on numerical homotopy invariants.* In: Symposium on Algebraic Topology, Lecture Notes in Mathematics 249, Springer, 1971, 13–22. [DOI](https://doi.org/10.1007/bfb0060892)
 - **[SOTA]** N. Iwase. *Ganea's conjecture on Lusternik–Schnirelmann category.* Bulletin of the London Mathematical Society 30 (1998), 623–634.
-- **[SOTA]** N. Iwase. *$A_\infty$-method in Lusternik–Schnirelmann category.* Topology 41 (2002), 695–723.
-- **[SOTA]** N. Iwase. *Lusternik–Schnirelmann category of a sphere-bundle over a sphere.* Topology 42 (2003), 701–713.
-- **[Partial results]** K. Hess. *A proof of Ganea's conjecture for rational spaces.* Topology 30 (1991), 205–214.
-- **[Partial results]** B. Jessup. *Rational L-S category and a conjecture of Ganea.* Journal of Pure and Applied Algebra 65 (1990), 57–67.
-- **[Partial results]** Yu. B. Rudyak. *On category weight and its applications.* Topology 38 (1999), 37–55.
-- **[Partial results]** D. Stanley. *Spaces of Lusternik–Schnirelmann category $n$ and cone length $n+1$.* Topology 39 (2000), 985–1019.
+- **[SOTA]** N. Iwase. *$A_\infty$-method in Lusternik–Schnirelmann category.* Topology 41 (2002), 695–723. [DOI](https://doi.org/10.1016/s0040-9383(00)00045-8)
+- **[SOTA]** N. Iwase. *Lusternik–Schnirelmann category of a sphere-bundle over a sphere.* Topology 42 (2003), 701–713. [DOI](https://doi.org/10.1016/s0040-9383(02)00026-5)
+- **[Partial results]** K. Hess. *A proof of Ganea's conjecture for rational spaces.* Topology 30 (1991), 205–214. [DOI](https://doi.org/10.1016/0040-9383(91)90006-p)
+- **[Partial results]** B. Jessup. *Rational L-S category and a conjecture of Ganea.* Journal of Pure and Applied Algebra 65 (1990), 57–67. [DOI](https://doi.org/10.1016/0022-4049(90)90100-v)
+- **[Partial results]** Yu. B. Rudyak. *On category weight and its applications.* Topology 38 (1999), 37–55. [DOI](https://doi.org/10.1016/s0040-9383(97)00101-8)
+- **[Partial results]** D. Stanley. *Spaces of Lusternik–Schnirelmann category $n$ and cone length $n+1$.* Topology 39 (2000), 985–1019. [DOI](https://doi.org/10.1016/s0040-9383(99)00047-6)
 - **[Survey / Book]** O. Cornea, G. Lupton, J. Oprea, D. Tanré. *Lusternik–Schnirelmann Category.* Mathematical Surveys and Monographs 103, American Mathematical Society, 2003.
-- **[Survey]** I. M. James. *On category, in the sense of Lusternik–Schnirelmann.* Topology 17 (1978), 331–348.
+- **[Survey]** I. M. James. *On category, in the sense of Lusternik–Schnirelmann.* Topology 17 (1978), 331–348. [DOI](https://doi.org/10.1016/0040-9383(78)90002-2)
 
 ## 10. Worked Example / Concrete Special Case
 

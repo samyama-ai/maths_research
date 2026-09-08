@@ -68,12 +68,12 @@ Future breakthroughs require either a radical evolution of the mollification tec
 
 ## 9. Key References
 
-- **[Foundational]** S. Chowla. *The Riemann Hypothesis and Hilbert's Tenth Problem.* Gordon and Breach, New York, 1965.
+- **[Foundational]** S. Chowla. *The Riemann Hypothesis and Hilbert's Tenth Problem.* Gordon and Breach, New York, 1965. [DOI](https://doi.org/10.2307/2314216)
 - **[Foundational]** H. Iwaniec, W. Luo, and P. Sarnak. *Low lying zeros of families of L-functions.* Publications Mathématiques de l'IHÉS, 2000.
 - **[Foundational]** K. Soundararajan. *Nonvanishing of quadratic Dirichlet L-functions at s=1/2.* Annals of Mathematics, 2000.
-- **[SOTA / Recent]** M. Radziwiłł and K. Soundararajan. *Moments and distribution of central L-values of quadratic twists of elliptic curves.* Inventiones mathematicae, 2015.
-- **[SOTA / Recent]** M. Bhargava and A. Shankar. *Ternary cubic forms having bounded invariants, and the existence of a positive proportion of elliptic curves having rank 0.* Annals of Mathematics, 2015.
-- **[Survey]** N. Katz and P. Sarnak. *Zeroes of zeta functions and symmetry.* Bulletin of the American Mathematical Society, 1999.
+- **[SOTA / Recent]** M. Radziwiłł and K. Soundararajan. *Moments and distribution of central L-values of quadratic twists of elliptic curves.* Inventiones mathematicae, 2015. [DOI](https://doi.org/10.1007/s00222-015-0582-z)
+- **[SOTA / Recent]** M. Bhargava and A. Shankar. *Ternary cubic forms having bounded invariants, and the existence of a positive proportion of elliptic curves having rank 0.* Annals of Mathematics, 2015. [DOI](https://doi.org/10.4007/annals.2015.181.2.4)
+- **[Survey]** N. Katz and P. Sarnak. *Zeroes of zeta functions and symmetry.* Bulletin of the American Mathematical Society, 1999. [DOI](https://doi.org/10.1090/s0273-0979-99-00766-1)
 
 ## 10. Worked Example / Concrete Special Case
 

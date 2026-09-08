@@ -108,21 +108,21 @@ The residual gap has three sharp edges:
 ## 9. Key References
 
 - **[Foundational]** A. G. Kurosh. *Ringtheoretische Probleme, die mit dem Burnsideschen Problem über periodische Gruppen in Zusammenhang stehen.* Izvestiya Akad. Nauk SSSR, Ser. Mat. **5** (1941), 233–240.
-- **[Foundational]** N. Jacobson. *Structure theory for algebraic algebras of bounded degree.* Annals of Mathematics **46** (1945), 695–707.
-- **[Foundational]** J. Levitzki. *On a problem of A. Kurosch.* Bulletin of the AMS **52** (1946), 1033–1035.
+- **[Foundational]** N. Jacobson. *Structure theory for algebraic algebras of bounded degree.* Annals of Mathematics **46** (1945), 695–707. [DOI](https://doi.org/10.2307/1969205)
+- **[Foundational]** J. Levitzki. *On a problem of A. Kurosch.* Bulletin of the AMS **52** (1946), 1033–1035. [DOI](https://doi.org/10.1090/s0002-9904-1946-08705-4)
 - **[Foundational]** I. Kaplansky. *Rings with a polynomial identity.* Bulletin of the AMS **54** (1948), 575–580.
 - **[Foundational]** A. I. Shirshov. *On rings with identical relations.* Matematicheskii Sbornik **43(85)** (1957), 277–283.
-- **[Foundational]** E. S. Golod. *On nil-algebras and finitely approximable p-groups.* Izvestiya Akad. Nauk SSSR, Ser. Mat. **28** (1964), 273–276.
+- **[Foundational]** E. S. Golod. *On nil-algebras and finitely approximable p-groups.* Izvestiya Akad. Nauk SSSR, Ser. Mat. **28** (1964), 273–276. [DOI](https://doi.org/10.1090/trans2/048/06)
 - **[Foundational]** E. S. Golod, I. R. Shafarevich. *On the class field tower.* Izvestiya Akad. Nauk SSSR, Ser. Mat. **28** (1964), 261–272.
-- **[Foundational]** S. A. Amitsur. *Algebras over infinite fields.* Proceedings of the AMS **7** (1956), 35–48.
-- **[SOTA]** T. H. Lenagan, A. Smoktunowicz. *An infinite dimensional affine nil algebra with finite Gelfand–Kirillov dimension.* Journal of the AMS **20** (2007), 989–1001.
-- **[SOTA]** T. H. Lenagan, A. Smoktunowicz, A. A. Young. *Nil algebras with restricted growth.* Proceedings of the Edinburgh Mathematical Society **55** (2012), 461–475.
-- **[SOTA]** L. W. Small, J. T. Stafford, R. B. Warfield. *Affine algebras of Gelfand–Kirillov dimension one are PI.* Mathematical Proceedings of the Cambridge Philosophical Society **97** (1985), 407–414.
-- **[SOTA]** I. Shestakov, E. Zelmanov. *Some examples of nil Lie algebras.* Journal of the European Mathematical Society **10** (2008), 391–398.
-- **[SOTA]** V. M. Petrogradsky. *Examples of self-iterating Lie algebras.* Journal of Algebra **302** (2006), 881–886.
-- **[Survey]** E. Zelmanov. *Some open problems in the theory of infinite dimensional algebras.* Journal of the Korean Mathematical Society **44** (2007), 1185–1195.
-- **[Survey]** A. Smoktunowicz. *Some results in noncommutative ring theory.* Proceedings of the ICM, Madrid 2006, Vol. II, EMS, 259–269.
-- **[Survey]** M. Ershov. *Golod–Shafarevich groups: a survey.* International Journal of Algebra and Computation **22** (2012), 1230001.
+- **[Foundational]** S. A. Amitsur. *Algebras over infinite fields.* Proceedings of the AMS **7** (1956), 35–48. [DOI](https://doi.org/10.1090/s0002-9939-1956-0075933-2)
+- **[SOTA]** T. H. Lenagan, A. Smoktunowicz. *An infinite dimensional affine nil algebra with finite Gelfand–Kirillov dimension.* Journal of the AMS **20** (2007), 989–1001. [DOI](https://doi.org/10.1090/s0894-0347-07-00565-6)
+- **[SOTA]** T. H. Lenagan, A. Smoktunowicz, A. A. Young. *Nil algebras with restricted growth.* Proceedings of the Edinburgh Mathematical Society **55** (2012), 461–475. [DOI](https://doi.org/10.1017/s0013091510001100)
+- **[SOTA]** L. W. Small, J. T. Stafford, R. B. Warfield. *Affine algebras of Gelfand–Kirillov dimension one are PI.* Mathematical Proceedings of the Cambridge Philosophical Society **97** (1985), 407–414. [DOI](https://doi.org/10.1017/s0305004100062976)
+- **[SOTA]** I. Shestakov, E. Zelmanov. *Some examples of nil Lie algebras.* Journal of the European Mathematical Society **10** (2008), 391–398. [DOI](https://doi.org/10.4171/jems/114)
+- **[SOTA]** V. M. Petrogradsky. *Examples of self-iterating Lie algebras.* Journal of Algebra **302** (2006), 881–886. [DOI](https://doi.org/10.1016/j.jalgebra.2005.09.005)
+- **[Survey]** E. Zelmanov. *Some open problems in the theory of infinite dimensional algebras.* Journal of the Korean Mathematical Society **44** (2007), 1185–1195. [DOI](https://doi.org/10.4134/jkms.2007.44.5.1185)
+- **[Survey]** A. Smoktunowicz. *Some results in noncommutative ring theory.* Proceedings of the ICM, Madrid 2006, Vol. II, EMS, 259–269. [DOI](https://doi.org/10.4171/022-2/12)
+- **[Survey]** M. Ershov. *Golod–Shafarevich groups: a survey.* International Journal of Algebra and Computation **22** (2012), 1230001. [DOI](https://doi.org/10.1142/s0218196712300010)
 - **[Book]** G. R. Krause, T. H. Lenagan. *Growth of Algebras and Gelfand–Kirillov Dimension.* Graduate Studies in Mathematics 22, AMS, 2000.
 - **[Book]** I. N. Herstein. *Noncommutative Rings.* Carus Mathematical Monographs 15, MAA, 1968.
 

@@ -113,19 +113,19 @@ which fails only because the inscribed squares of the approximants may degenerat
 
 ## 9. Key References
 
-- **[Foundational]** A. Emch. *Some properties of closed convex curves in a plane.* American Journal of Mathematics 35 (1913), 407–412.
+- **[Foundational]** A. Emch. *Some properties of closed convex curves in a plane.* American Journal of Mathematics 35 (1913), 407–412. [DOI](https://doi.org/10.2307/2370404)
 - **[Foundational]** L. G. Šnirel'man. *On certain geometrical properties of closed curves.* Uspekhi Matematicheskikh Nauk 10 (1944), 34–44.
-- **[Foundational]** R. P. Jerrard. *Inscribed squares in plane curves.* Transactions of the American Mathematical Society 98 (1961), 234–241.
-- **[Foundational]** W. Stromquist. *Inscribed squares and square-like quadrilaterals in closed curves.* Mathematika 36 (1989), 187–197.
-- **[SOTA]** J. E. Greene and A. Lobb. *The rectangular peg problem.* Inventiones Mathematicae 226 (2021), 1005–1027.
-- **[SOTA]** J. E. Greene and A. Lobb. *Cyclic quadrilaterals and smooth Jordan curves.* Inventiones Mathematicae 234 (2023), 931–935.
-- **[SOTA]** T. Tao. *An integration approach to the Toeplitz square peg problem.* Forum of Mathematics, Sigma 5 (2017), e30.
+- **[Foundational]** R. P. Jerrard. *Inscribed squares in plane curves.* Transactions of the American Mathematical Society 98 (1961), 234–241. [DOI](https://doi.org/10.1090/s0002-9947-1961-0120604-3)
+- **[Foundational]** W. Stromquist. *Inscribed squares and square-like quadrilaterals in closed curves.* Mathematika 36 (1989), 187–197. [DOI](https://doi.org/10.1112/s0025579300013061)
+- **[SOTA]** J. E. Greene and A. Lobb. *The rectangular peg problem.* Inventiones Mathematicae 226 (2021), 1005–1027. [DOI](https://doi.org/10.4007/annals.2021.194.2.4)
+- **[SOTA]** J. E. Greene and A. Lobb. *Cyclic quadrilaterals and smooth Jordan curves.* Inventiones Mathematicae 234 (2023), 931–935. [DOI](https://doi.org/10.1007/s00222-023-01212-6)
+- **[SOTA]** T. Tao. *An integration approach to the Toeplitz square peg problem.* Forum of Mathematics, Sigma 5 (2017), e30. [DOI](https://doi.org/10.1017/fms.2017.23)
 - **[SOTA]** C. Hugelmeyer. *Every smooth Jordan curve has an inscribed rectangle with aspect ratio equal to $\sqrt3$.* arXiv:1803.07417 (2018); and *Inscribed rectangles in a smooth Jordan curve attain at least one third of all aspect ratios*, arXiv:1911.07336 (2019).
-- **[Related]** A. Akopyan and S. Avvakumov. *Any cyclic quadrilateral can be inscribed in any closed convex smooth curve.* Forum of Mathematics, Sigma 6 (2018), e7.
-- **[Related]** R. E. Schwartz. *A trichotomy for rectangles inscribed in Jordan loops.* Geometriae Dedicata 208 (2020), 177–196.
-- **[Related]** V. Shevchishin. *Lagrangian embeddings of the Klein bottle and combinatorial properties of mapping class groups.* Izvestiya: Mathematics 73 (2009), 797–859. S. Nemirovski. *Lagrangian Klein bottles in $\mathbb{R}^{2n}$.* Geometric and Functional Analysis 19 (2009), 902–909.
-- **[Survey]** B. Matschke. *A survey on the square peg problem.* Notices of the American Mathematical Society 61 (2014), no. 4, 346–352.
-- **[Survey]** R. E. Schwartz. *Rectangles, curves, and Klein bottles.* Bulletin of the American Mathematical Society 59 (2022), 1–17.
+- **[Related]** A. Akopyan and S. Avvakumov. *Any cyclic quadrilateral can be inscribed in any closed convex smooth curve.* Forum of Mathematics, Sigma 6 (2018), e7. [DOI](https://doi.org/10.1017/fms.2018.7)
+- **[Related]** R. E. Schwartz. *A trichotomy for rectangles inscribed in Jordan loops.* Geometriae Dedicata 208 (2020), 177–196. [DOI](https://doi.org/10.1007/s10711-020-00516-8)
+- **[Related]** V. Shevchishin. *Lagrangian embeddings of the Klein bottle and combinatorial properties of mapping class groups.* Izvestiya: Mathematics 73 (2009), 797–859. S. Nemirovski. *Lagrangian Klein bottles in $\mathbb{R}^{2n}$.* Geometric and Functional Analysis 19 (2009), 902–909. [DOI](https://doi.org/10.1070/im2009v073n04abeh002465)
+- **[Survey]** B. Matschke. *A survey on the square peg problem.* Notices of the American Mathematical Society 61 (2014), no. 4, 346–352. [DOI](https://doi.org/10.1090/noti1100)
+- **[Survey]** R. E. Schwartz. *Rectangles, curves, and Klein bottles.* Bulletin of the American Mathematical Society 59 (2022), 1–17. [DOI](https://doi.org/10.1090/bull/1755)
 
 ## 10. Worked Example / Concrete Special Case
 

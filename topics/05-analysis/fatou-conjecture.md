@@ -100,10 +100,10 @@ Leading mathematicians suggest that directly attacking the NILF conjecture via n
 
 - **[Foundational]** Fatou, P. *Sur les équations fonctionnelles.* Bulletin de la Société Mathématique de France, 1920.
 - **[Foundational]** Mañé, R., Sad, P., & Sullivan, D. *On the dynamics of rational maps.* Annales scientifiques de l'École Normale Supérieure, 1983.
-- **[SOTA / Recent]** Lyubich, M. *Dynamics of quadratic polynomials, I-II.* Acta Mathematica, 1997.
-- **[SOTA / Recent]** Kozlovski, O., Shen, W., & van Strien, S. *Density of hyperbolicity in dimension one.* Annals of Mathematics, 2007.
+- **[SOTA / Recent]** Lyubich, M. *Dynamics of quadratic polynomials, I-II.* Acta Mathematica, 1997. [DOI](https://doi.org/10.1007/bf02392694)
+- **[SOTA / Recent]** Kozlovski, O., Shen, W., & van Strien, S. *Density of hyperbolicity in dimension one.* Annals of Mathematics, 2007. [DOI](https://doi.org/10.4007/annals.2007.166.145)
 - **[SOTA / Recent]** Kahn, J., & Lyubich, M. *Local connectivity of Julia sets for infinitely renormalizable quadratic polynomials.* Inventiones Mathematicae, 2009.
-- **[SOTA / Recent]** Buff, X., & Chéritat, A. *Quadratic Julia sets with positive area.* Annals of Mathematics, 2012.
+- **[SOTA / Recent]** Buff, X., & Chéritat, A. *Quadratic Julia sets with positive area.* Annals of Mathematics, 2012. [DOI](https://doi.org/10.4007/annals.2012.176.2.1)
 - **[Survey]** Milnor, J. *Dynamics in One Complex Variable.* Princeton University Press, 2006.
 
 ## 10. Worked Example / Concrete Special Case

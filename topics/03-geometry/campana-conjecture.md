@@ -108,17 +108,17 @@ Missing, precisely:
 
 ## 9. Key References
 
-- **[Foundational]** F. Campana. *Orbifolds, special varieties and classification theory.* Annales de l'Institut Fourier **54** (2004), 499–630.
+- **[Foundational]** F. Campana. *Orbifolds, special varieties and classification theory.* Annales de l'Institut Fourier **54** (2004), 499–630. [DOI](https://doi.org/10.5802/aif.2027)
 - **[Foundational]** F. Campana. *Fibres multiples sur les surfaces: aspects géométriques, hyperboliques et arithmétiques.* Manuscripta Mathematica **117** (2005), 429–461.
-- **[Foundational]** F. Campana. *Orbifoldes géométriques spéciales et classification biméromorphe des variétés kählériennes compactes.* Journal of the Institute of Mathematics of Jussieu **10** (2011), 809–934.
-- **[SOTA]** F. Campana, M. Păun. *Foliations with positive slopes and birational stability of orbifold cotangent bundles.* Publications Mathématiques de l'IHÉS **129** (2019), 1–49.
-- **[SOTA]** M. Pieropan, A. Smeets, S. Tanimoto, A. Várilly-Alvarado. *Campana points of bounded height on vector group compactifications.* Proceedings of the London Mathematical Society **123** (2021), 57–101.
-- **[SOTA]** E. Rousseau, A. Turchet, J. T.-Y. Wang. *Nonspecial varieties and generalised Lang–Vojta conjectures.* Forum of Mathematics, Sigma **9** (2021), e11.
-- **[SOTA]** S. Streeter. *Campana points and powerful values of norm forms.* Mathematische Zeitschrift **301** (2022), 627–664.
-- **[Related]** F. Bogomolov, Y. Tschinkel. *Density of rational points on elliptic K3 surfaces.* Geometric and Functional Analysis **10** (2000), 1101–1133.
-- **[Related]** F. Campana, B. Claudon, P. Eyssidieux. *Représentations linéaires des groupes kählériens: factorisations et conjecture de Shafarevich linéaire.* Compositio Mathematica **151** (2015), 351–376.
+- **[Foundational]** F. Campana. *Orbifoldes géométriques spéciales et classification biméromorphe des variétés kählériennes compactes.* Journal of the Institute of Mathematics of Jussieu **10** (2011), 809–934. [DOI](https://doi.org/10.1017/s1474748010000101)
+- **[SOTA]** F. Campana, M. Păun. *Foliations with positive slopes and birational stability of orbifold cotangent bundles.* Publications Mathématiques de l'IHÉS **129** (2019), 1–49. [DOI](https://doi.org/10.1007/s10240-019-00105-w)
+- **[SOTA]** M. Pieropan, A. Smeets, S. Tanimoto, A. Várilly-Alvarado. *Campana points of bounded height on vector group compactifications.* Proceedings of the London Mathematical Society **123** (2021), 57–101. [DOI](https://doi.org/10.1112/plms.12391)
+- **[SOTA]** E. Rousseau, A. Turchet, J. T.-Y. Wang. *Nonspecial varieties and generalised Lang–Vojta conjectures.* Forum of Mathematics, Sigma **9** (2021), e11. [DOI](https://doi.org/10.1017/fms.2021.8)
+- **[SOTA]** S. Streeter. *Campana points and powerful values of norm forms.* Mathematische Zeitschrift **301** (2022), 627–664. [DOI](https://doi.org/10.1007/s00209-021-02922-4)
+- **[Related]** F. Bogomolov, Y. Tschinkel. *Density of rational points on elliptic K3 surfaces.* Geometric and Functional Analysis **10** (2000), 1101–1133. [DOI](https://doi.org/10.4310/ajm.2000.v4.n2.a6)
+- **[Related]** F. Campana, B. Claudon, P. Eyssidieux. *Représentations linéaires des groupes kählériens: factorisations et conjecture de Shafarevich linéaire.* Compositio Mathematica **151** (2015), 351–376. [DOI](https://doi.org/10.1112/s0010437x14007751)
 - **[Survey]** D. Abramovich. *Birational geometry for number theorists.* In *Arithmetic Geometry*, Clay Mathematics Proceedings **8**, AMS, 2009, 335–373.
-- **[Survey]** F. Campana. *Special orbifolds and birational classification: a survey.* In *Classification of Algebraic Varieties*, EMS Series of Congress Reports, 2011, 123–170.
+- **[Survey]** F. Campana. *Special orbifolds and birational classification: a survey.* In *Classification of Algebraic Varieties*, EMS Series of Congress Reports, 2011, 123–170. [DOI](https://doi.org/10.4171/007-1/6)
 
 ## 10. Worked Example / Concrete Special Case
 

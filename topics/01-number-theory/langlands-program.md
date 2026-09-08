@@ -98,9 +98,9 @@ Key open pathways include:
 
 - **[Foundational]** Langlands, R. P. *Problems in the Theory of Automorphic Forms.* Lectures in Modern Analysis and Applications III, Springer, 1970.
 - **[SOTA / Recent]** Fargues, L., and Scholze, P. *Geometrization of the Local Langlands Correspondence.* Annals of Mathematics, 2021 (Preprint/Astérisque).
-- **[SOTA / Recent]** Lafforgue, V. *Chtoucas pour les groupes réductifs et paramétrisation de Langlands globale.* Journal of the American Mathematical Society (JAMS), 2018.
-- **[Survey]** Arthur, J. *The Principle of Functoriality.* Bulletin of the American Mathematical Society, 2002.
-- **[Survey]** Gelbart, S. *An Elementary Introduction to the Langlands Program.* Bulletin of the American Mathematical Society, 1984.
+- **[SOTA / Recent]** Lafforgue, V. *Chtoucas pour les groupes réductifs et paramétrisation de Langlands globale.* Journal of the American Mathematical Society (JAMS), 2018. [DOI](https://doi.org/10.1090/jams/897)
+- **[Survey]** Arthur, J. *The Principle of Functoriality.* Bulletin of the American Mathematical Society, 2002. [DOI](https://doi.org/10.1090/s0273-0979-02-00963-1)
+- **[Survey]** Gelbart, S. *An Elementary Introduction to the Langlands Program.* Bulletin of the American Mathematical Society, 1984. [DOI](https://doi.org/10.1090/s0273-0979-1984-15237-6)
 
 ## 10. Worked Example / Concrete Special Case
 

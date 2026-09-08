@@ -116,18 +116,18 @@ For free groups there is no gap: SHNC $\Rightarrow$ HNC is a theorem. The remain
 
 - **[Foundational]** A. G. Howson. *On the intersection of finitely generated free groups.* Journal of the London Mathematical Society 29 (1954), 428–434.
 - **[Foundational]** H. Neumann. *On the intersection of finitely generated free groups.* Publicationes Mathematicae Debrecen 4 (1957), 186–189; Addendum, ibid. 5 (1958), 128.
-- **[Foundational]** R. G. Burns. *On the intersection of finitely generated subgroups of a free group.* Mathematische Zeitschrift 119 (1971), 121–130.
+- **[Foundational]** R. G. Burns. *On the intersection of finitely generated subgroups of a free group.* Mathematische Zeitschrift 119 (1971), 121–130. [DOI](https://doi.org/10.1007/bf01109964)
 - **[Foundational]** J. R. Stallings. *Topology of finite graphs.* Inventiones Mathematicae 71 (1983), 551–565.
-- **[Foundational]** W. D. Neumann. *On intersections of finitely generated subgroups of free groups.* In: Groups—Canberra 1989, Lecture Notes in Mathematics 1456, Springer, 1990, 161–170.
-- **[Partial]** G. Tardos. *On the intersection of subgroups of a free group.* Inventiones Mathematicae 108 (1992), 29–36.
-- **[Partial]** W. Dicks. *Equivalence of the strengthened Hanna Neumann conjecture and the amalgamated graph conjecture.* Inventiones Mathematicae 117 (1994), 373–389.
-- **[Partial]** W. Dicks, E. Formanek. *The rank three case of the Hanna Neumann conjecture.* Journal of Group Theory 4 (2001), 113–151.
-- **[Partial]** J. Meakin, P. Weil. *Subgroups of free groups: a contribution to the Hanna Neumann conjecture.* Geometriae Dedicata 94 (2002), 33–43.
-- **[SOTA]** I. Mineyev. *Submultiplicativity and the Hanna Neumann conjecture.* Annals of Mathematics 175 (2012), 393–414.
+- **[Foundational]** W. D. Neumann. *On intersections of finitely generated subgroups of free groups.* In: Groups—Canberra 1989, Lecture Notes in Mathematics 1456, Springer, 1990, 161–170. [DOI](https://doi.org/10.1007/bfb0100737)
+- **[Partial]** G. Tardos. *On the intersection of subgroups of a free group.* Inventiones Mathematicae 108 (1992), 29–36. [DOI](https://doi.org/10.1007/bf02100597)
+- **[Partial]** W. Dicks. *Equivalence of the strengthened Hanna Neumann conjecture and the amalgamated graph conjecture.* Inventiones Mathematicae 117 (1994), 373–389. [DOI](https://doi.org/10.1007/bf01232249)
+- **[Partial]** W. Dicks, E. Formanek. *The rank three case of the Hanna Neumann conjecture.* Journal of Group Theory 4 (2001), 113–151. [DOI](https://doi.org/10.1515/jgth.2001.012)
+- **[Partial]** J. Meakin, P. Weil. *Subgroups of free groups: a contribution to the Hanna Neumann conjecture.* Geometriae Dedicata 94 (2002), 33–43. [DOI](https://doi.org/10.1023/a:1020900823482)
+- **[SOTA]** I. Mineyev. *Submultiplicativity and the Hanna Neumann conjecture.* Annals of Mathematics 175 (2012), 393–414. [DOI](https://doi.org/10.4007/annals.2012.175.1.11)
 - **[SOTA]** J. Friedman. *Sheaves on Graphs, Their Homological Invariants, and a Proof of the Hanna Neumann Conjecture.* Memoirs of the American Mathematical Society 233, no. 1100, 2015.
-- **[SOTA]** A. Jaikin-Zapirain. *Approximation by subgroups of finite index and the Hanna Neumann conjecture.* Duke Mathematical Journal 166 (2017), 1955–1987.
-- **[SOTA]** Y. Antolín, A. Jaikin-Zapirain. *The Hanna Neumann conjecture for surface groups.* Compositio Mathematica 158 (2022).
-- **[Survey]** R. P. Kent IV. *Intersections and joins of free groups.* Algebraic & Geometric Topology 9 (2009), 305–325.
+- **[SOTA]** A. Jaikin-Zapirain. *Approximation by subgroups of finite index and the Hanna Neumann conjecture.* Duke Mathematical Journal 166 (2017), 1955–1987. [DOI](https://doi.org/10.1215/00127094-0000015x)
+- **[SOTA]** Y. Antolín, A. Jaikin-Zapirain. *The Hanna Neumann conjecture for surface groups.* Compositio Mathematica 158 (2022). [DOI](https://doi.org/10.1112/s0010437x22007709)
+- **[Survey]** R. P. Kent IV. *Intersections and joins of free groups.* Algebraic & Geometric Topology 9 (2009), 305–325. [DOI](https://doi.org/10.2140/agt.2009.9.305)
 - **[Survey]** W. Dicks. *Simplified Mineyev.* Preprint, 2011 (author's webpage, Universitat Autònoma de Barcelona).
 
 ## 10. Worked Example / Concrete Special Case

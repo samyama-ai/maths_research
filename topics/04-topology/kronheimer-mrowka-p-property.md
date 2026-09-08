@@ -102,22 +102,22 @@ Proven: irreducibility for all $|r| \le 2$. General target: a classification of 
 
 ## 9. Key References
 
-- **[Foundational]** R. H. Bing and J. M. Martin. *Cubes with knotted holes.* Transactions of the AMS 155 (1971), 217–231.
+- **[Foundational]** R. H. Bing and J. M. Martin. *Cubes with knotted holes.* Transactions of the AMS 155 (1971), 217–231. [DOI](https://doi.org/10.1090/s0002-9947-1971-0278287-4)
 - **[Foundational]** M. Culler, C. McA. Gordon, J. Luecke, P. B. Shalen. *Dehn surgery on knots.* Annals of Mathematics 125 (1987), 237–300.
-- **[Foundational]** C. McA. Gordon and J. Luecke. *Knots are determined by their complements.* Journal of the AMS 2 (1989), 371–415.
-- **[Foundational]** D. Gabai. *Foliations and the topology of 3-manifolds. II, III.* Journal of Differential Geometry 26 (1987), 461–478 and 479–536.
-- **[Foundational]** A. Floer. *Instanton homology and Dehn surgery.* In *The Floer Memorial Volume*, Birkhäuser, 1995, 77–97.
-- **[Foundational]** Y. Eliashberg and W. Thurston. *Confoliations.* University Lecture Series 13, AMS, 1998.
+- **[Foundational]** C. McA. Gordon and J. Luecke. *Knots are determined by their complements.* Journal of the AMS 2 (1989), 371–415. [DOI](https://doi.org/10.1090/s0273-0979-1989-15706-6)
+- **[Foundational]** D. Gabai. *Foliations and the topology of 3-manifolds. II, III.* Journal of Differential Geometry 26 (1987), 461–478 and 479–536. [DOI](https://doi.org/10.4310/jdg/1214441488)
+- **[Foundational]** A. Floer. *Instanton homology and Dehn surgery.* In *The Floer Memorial Volume*, Birkhäuser, 1995, 77–97. [DOI](https://doi.org/10.1007/978-3-0348-9217-9_4)
+- **[Foundational]** Y. Eliashberg and W. Thurston. *Confoliations.* University Lecture Series 13, AMS, 1998. [DOI](https://doi.org/10.1090/ulect/013)
 - **[SOTA]** P. B. Kronheimer and T. S. Mrowka. *Witten's conjecture and Property P.* Geometry & Topology 8 (2004), 295–310.
 - **[SOTA]** P. B. Kronheimer and T. S. Mrowka. *Dehn surgery, knots and SU(2).* Mathematical Research Letters 11 (2004), 741–754.
-- **[SOTA]** Y. Eliashberg. *A few remarks about symplectic filling.* Geometry & Topology 8 (2004), 277–293.
+- **[SOTA]** Y. Eliashberg. *A few remarks about symplectic filling.* Geometry & Topology 8 (2004), 277–293. [DOI](https://doi.org/10.2140/gt.2004.8.277)
 - **[SOTA]** P. M. N. Feehan and T. G. Leness. *Witten's conjecture for many four-manifolds of simple type.* Journal of the European Mathematical Society 21 (2019), 3043–3088.
-- **[SOTA]** P. B. Kronheimer and T. S. Mrowka. *Knots, sutures, and excision.* Journal of Differential Geometry 84 (2010), 301–364.
-- **[SOTA]** P. B. Kronheimer and T. S. Mrowka. *Khovanov homology is an unknot-detector.* Publications Mathématiques de l'IHÉS 113 (2011), 97–208.
-- **[Recent]** R. Zentner. *Integer homology 3-spheres admit irreducible representations in $SL(2,\mathbb{C})$.* Journal of the London Mathematical Society 98 (2018), 775–782.
-- **[Recent]** J. A. Baldwin and S. Sivek. *Khovanov homology detects the trefoils.* Duke Mathematical Journal 171 (2022), 885–956.
-- **[Survey]** P. Ozsváth and Z. Szabó. *Holomorphic disks and genus bounds.* Geometry & Topology 8 (2004), 311–334.
-- **[Survey]** S. Boyer. *Dehn surgery on knots.* In *Handbook of Geometric Topology*, North-Holland, 2002, 165–218.
+- **[SOTA]** P. B. Kronheimer and T. S. Mrowka. *Knots, sutures, and excision.* Journal of Differential Geometry 84 (2010), 301–364. [DOI](https://doi.org/10.4310/jdg/1274707316)
+- **[SOTA]** P. B. Kronheimer and T. S. Mrowka. *Khovanov homology is an unknot-detector.* Publications Mathématiques de l'IHÉS 113 (2011), 97–208. [DOI](https://doi.org/10.1007/s10240-010-0030-y)
+- **[Recent]** R. Zentner. *Integer homology 3-spheres admit irreducible representations in $SL(2,\mathbb{C})$.* Journal of the London Mathematical Society 98 (2018), 775–782. [DOI](https://doi.org/10.1215/00127094-2018-0004)
+- **[Recent]** J. A. Baldwin and S. Sivek. *Khovanov homology detects the trefoils.* Duke Mathematical Journal 171 (2022), 885–956. [DOI](https://doi.org/10.1215/00127094-2021-0034)
+- **[Survey]** P. Ozsváth and Z. Szabó. *Holomorphic disks and genus bounds.* Geometry & Topology 8 (2004), 311–334. [DOI](https://doi.org/10.2140/gt.2004.8.311)
+- **[Survey]** S. Boyer. *Dehn surgery on knots.* In *Handbook of Geometric Topology*, North-Holland, 2002, 165–218. [DOI](https://doi.org/10.1016/b978-044482432-5/50005-6)
 
 ## 10. Worked Example / Concrete Special Case
 

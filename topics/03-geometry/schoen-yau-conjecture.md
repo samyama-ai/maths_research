@@ -104,18 +104,18 @@ The precise missing step: find a *homotopy-invariant* quantity, defined for all 
 ## 9. Key References
 
 - **[Foundational]** R. Schoen, S.-T. Yau. *On the structure of manifolds with positive scalar curvature.* Manuscripta Mathematica 28 (1979), 159–183.
-- **[Foundational]** R. Schoen, S.-T. Yau. *Existence of incompressible minimal surfaces and the topology of three dimensional manifolds with non-negative scalar curvature.* Annals of Mathematics 110 (1979), 127–142.
-- **[Foundational]** M. Gromov, H. B. Lawson Jr. *Positive scalar curvature and the Dirac operator on complete Riemannian manifolds.* Publ. Math. IHÉS 58 (1983), 83–196.
+- **[Foundational]** R. Schoen, S.-T. Yau. *Existence of incompressible minimal surfaces and the topology of three dimensional manifolds with non-negative scalar curvature.* Annals of Mathematics 110 (1979), 127–142. [DOI](https://doi.org/10.2307/1971247)
+- **[Foundational]** M. Gromov, H. B. Lawson Jr. *Positive scalar curvature and the Dirac operator on complete Riemannian manifolds.* Publ. Math. IHÉS 58 (1983), 83–196. [DOI](https://doi.org/10.1007/bf02953774)
 - **[Foundational]** J. Rosenberg. *$C^*$-algebras, positive scalar curvature, and the Novikov conjecture.* Publ. Math. IHÉS 58 (1983), 197–212.
-- **[SOTA]** O. Chodosh, C. Li. *Generalized soap bubbles and the topology of manifolds with positive scalar curvature.* Annals of Mathematics 199 (2024), 707–740.
-- **[SOTA]** R. Schoen, S.-T. Yau. *Positive scalar curvature and minimal hypersurface singularities.* Surveys in Differential Geometry 24 (2019/2022), 441–480.
+- **[SOTA]** O. Chodosh, C. Li. *Generalized soap bubbles and the topology of manifolds with positive scalar curvature.* Annals of Mathematics 199 (2024), 707–740. [DOI](https://doi.org/10.4007/annals.2024.199.2.3)
+- **[SOTA]** R. Schoen, S.-T. Yau. *Positive scalar curvature and minimal hypersurface singularities.* Surveys in Differential Geometry 24 (2019/2022), 441–480. [DOI](https://doi.org/10.4310/sdg.2019.v24.n1.a10)
 - **[SOTA]** S. Brendle, S. Hirsch, F. Johne. *A generalization of Geroch's conjecture.* Comm. Pure Appl. Math. 77 (2024), 441–456.
-- **[SOTA]** O. Chodosh, C. Li, Y. Liokumovich. *Classifying sufficiently connected PSC manifolds in 4 and 5 dimensions.* Geometry & Topology 27 (2023), 1635–1655.
-- **[Related]** S. Cecchini, T. Schick. *Enlargeable metrics on nonspin manifolds.* Proc. Amer. Math. Soc. 149 (2021), 2199–2211.
-- **[Counterexample, related conjecture]** T. Schick. *A counterexample to the (unstable) Gromov–Lawson–Rosenberg conjecture.* Topology 37 (1998), 1165–1168.
+- **[SOTA]** O. Chodosh, C. Li, Y. Liokumovich. *Classifying sufficiently connected PSC manifolds in 4 and 5 dimensions.* Geometry & Topology 27 (2023), 1635–1655. [DOI](https://doi.org/10.2140/gt.2023.27.1635)
+- **[Related]** S. Cecchini, T. Schick. *Enlargeable metrics on nonspin manifolds.* Proc. Amer. Math. Soc. 149 (2021), 2199–2211. [DOI](https://doi.org/10.1090/proc/14706)
+- **[Counterexample, related conjecture]** T. Schick. *A counterexample to the (unstable) Gromov–Lawson–Rosenberg conjecture.* Topology 37 (1998), 1165–1168. [DOI](https://doi.org/10.1016/s0040-9383(97)00082-7)
 - **[Survey]** M. Gromov. *Four lectures on scalar curvature.* arXiv:1908.10612; in *Perspectives in Scalar Curvature*, World Scientific, 2023.
-- **[Survey]** J. Rosenberg, S. Stolz. *Metrics of positive scalar curvature and connections with surgery.* In *Surveys on Surgery Theory* vol. 2, Annals of Math. Studies 149, Princeton, 2001.
-- **[Disambiguation]** P. Collin, H. Rosenberg. *Construction of harmonic diffeomorphisms and minimal graphs.* Annals of Mathematics 172 (2010), 1879–1906.
+- **[Survey]** J. Rosenberg, S. Stolz. *Metrics of positive scalar curvature and connections with surgery.* In *Surveys on Surgery Theory* vol. 2, Annals of Math. Studies 149, Princeton, 2001. [DOI](https://doi.org/10.1515/9781400865215-010)
+- **[Disambiguation]** P. Collin, H. Rosenberg. *Construction of harmonic diffeomorphisms and minimal graphs.* Annals of Mathematics 172 (2010), 1879–1906. [DOI](https://doi.org/10.4007/annals.2010.172.1879)
 
 ## 10. Worked Example / Concrete Special Case
 

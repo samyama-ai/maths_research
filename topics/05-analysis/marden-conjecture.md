@@ -113,15 +113,15 @@ Residual gaps in the surrounding programme:
 
 ## 9. Key References
 
-- **[Foundational]** A. Marden. *The geometry of finitely generated kleinian groups.* Annals of Mathematics **99** (1974), 383–462.
-- **[Foundational]** L. V. Ahlfors. *Fundamental polyhedrons and limit point sets of Kleinian groups.* Proc. Natl. Acad. Sci. USA **55** (1966), 251–254.
+- **[Foundational]** A. Marden. *The geometry of finitely generated kleinian groups.* Annals of Mathematics **99** (1974), 383–462. [DOI](https://doi.org/10.2307/1971059)
+- **[Foundational]** L. V. Ahlfors. *Fundamental polyhedrons and limit point sets of Kleinian groups.* Proc. Natl. Acad. Sci. USA **55** (1966), 251–254. [DOI](https://doi.org/10.1073/pnas.55.2.251)
 - **[Foundational]** F. Bonahon. *Bouts des variétés hyperboliques de dimension 3.* Annals of Mathematics **124** (1986), 71–158.
 - **[Foundational]** R. D. Canary. *Ends of hyperbolic 3-manifolds.* Journal of the AMS **6** (1993), 1–35.
 - **[SOTA]** I. Agol. *Tameness of hyperbolic 3-manifolds.* arXiv:math/0405568, 2004.
-- **[SOTA]** D. Calegari and D. Gabai. *Shrinkwrapping and the taming of hyperbolic 3-manifolds.* Journal of the AMS **19** (2006), 385–446.
-- **[SOTA]** B. H. Bowditch. *Notes on tameness.* L'Enseignement Mathématique **56** (2010), 229–285.
-- **[SOTA]** J. Brock, R. Canary, Y. Minsky. *The classification of Kleinian surface groups, II: The Ending Lamination Conjecture.* Annals of Mathematics **176** (2012), 1–149.
-- **[Related]** B. H. Bowditch and G. Mess. *A 4-dimensional Kleinian group.* Transactions of the AMS **344** (1994), 391–405.
+- **[SOTA]** D. Calegari and D. Gabai. *Shrinkwrapping and the taming of hyperbolic 3-manifolds.* Journal of the AMS **19** (2006), 385–446. [DOI](https://doi.org/10.1090/s0894-0347-05-00513-8)
+- **[SOTA]** B. H. Bowditch. *Notes on tameness.* L'Enseignement Mathématique **56** (2010), 229–285. [DOI](https://doi.org/10.4171/lem/56-3-2)
+- **[SOTA]** J. Brock, R. Canary, Y. Minsky. *The classification of Kleinian surface groups, II: The Ending Lamination Conjecture.* Annals of Mathematics **176** (2012), 1–149. [DOI](https://doi.org/10.4007/annals.2012.176.1.1)
+- **[Related]** B. H. Bowditch and G. Mess. *A 4-dimensional Kleinian group.* Transactions of the AMS **344** (1994), 391–405. [DOI](https://doi.org/10.2307/2154722)
 - **[Survey]** R. D. Canary. *Marden's tameness conjecture: history and applications.* In *Geometry, Analysis and Topology of Discrete Groups*, ALM 6, Higher Education Press / International Press, 2008, 137–162.
 - **[Book]** A. Marden. *Hyperbolic Manifolds: An Introduction in 2 and 3 Dimensions.* Cambridge University Press, 2016.
 - **[Book]** M. Kapovich. *Hyperbolic Manifolds and Discrete Groups.* Birkhäuser, 2001.

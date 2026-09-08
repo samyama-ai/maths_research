@@ -109,20 +109,20 @@ Structurally, the gap is a *criterion*. Morimoto's conjecture supplied one direc
 
 ## 9. Key References
 
-- **[Foundational]** R. Norwood. *Every two-generator knot is prime.* Proceedings of the American Mathematical Society, 86 (1982), 143–147.
-- **[Foundational]** K. Morimoto. *There are knots whose tunnel numbers go down under connected sum.* Proceedings of the American Mathematical Society, 123 (1995), 3527–3532.
-- **[Foundational]** T. Kobayashi. *A construction of arbitrarily high degeneration of tunnel numbers of knots under connected sum.* Journal of Knot Theory and Its Ramifications, 3 (1994), 179–186.
-- **[SOTA]** M. Scharlemann, J. Schultens. *The tunnel number of the sum of $n$ knots is at least $n$.* Topology, 38 (1999), 265–270.
-- **[SOTA]** M. Scharlemann, J. Schultens. *Annuli in generalized Heegaard splittings and degeneration of tunnel number.* Mathematische Annalen, 317 (2000), 783–820.
-- **[SOTA]** M. Scharlemann, J. Schultens. *Comparing Heegaard and JSJ structures of orientable 3-manifolds.* Transactions of the American Mathematical Society, 353 (2001), 557–584.
-- **[SOTA]** K. Morimoto, J. Schultens. *Tunnel numbers of small knots do not go down under connected sum.* Proceedings of the American Mathematical Society, 128 (2000), 269–278.
-- **[SOTA]** K. Morimoto. *On the super additivity of tunnel number of knots.* Mathematische Annalen, 317 (2000), 489–508.
-- **[SOTA]** K. Morimoto, M. Sakuma, Y. Yokota. *Examples of tunnel number one knots which have the property "1+1=3".* Mathematical Proceedings of the Cambridge Philosophical Society, 119 (1996), 113–118.
-- **[Recent]** T. Kobayashi, Y. Rieck. *Heegaard genus of the connected sum of $m$-small knots.* Communications in Analysis and Geometry, 14 (2006), 1037–1077.
-- **[Recent]** T. Kobayashi, Y. Rieck. *Knot exteriors with additive Heegaard genus and Morimoto's Conjecture.* Algebraic & Geometric Topology, 8 (2008), 953–969.
-- **[Recent]** T. Kobayashi, Y. Rieck. *On the growth rate of the tunnel number of knots.* Journal für die reine und angewandte Mathematik, 592 (2006), 63–78.
-- **[Survey]** Y. Moriah. *Heegaard splittings of knot exteriors.* Geometry & Topology Monographs, 12 (2007), 191–232.
-- **[Survey]** M. Scharlemann. *Heegaard splittings of compact 3-manifolds.* In: Handbook of Geometric Topology, Elsevier, 2002, 921–953.
+- **[Foundational]** R. Norwood. *Every two-generator knot is prime.* Proceedings of the American Mathematical Society, 86 (1982), 143–147. [DOI](https://doi.org/10.1090/s0002-9939-1982-0663884-7)
+- **[Foundational]** K. Morimoto. *There are knots whose tunnel numbers go down under connected sum.* Proceedings of the American Mathematical Society, 123 (1995), 3527–3532. [DOI](https://doi.org/10.1090/s0002-9939-1995-1317043-4)
+- **[Foundational]** T. Kobayashi. *A construction of arbitrarily high degeneration of tunnel numbers of knots under connected sum.* Journal of Knot Theory and Its Ramifications, 3 (1994), 179–186. [DOI](https://doi.org/10.1142/s0218216594000137)
+- **[SOTA]** M. Scharlemann, J. Schultens. *The tunnel number of the sum of $n$ knots is at least $n$.* Topology, 38 (1999), 265–270. [DOI](https://doi.org/10.1016/s0040-9383(98)00002-0)
+- **[SOTA]** M. Scharlemann, J. Schultens. *Annuli in generalized Heegaard splittings and degeneration of tunnel number.* Mathematische Annalen, 317 (2000), 783–820. [DOI](https://doi.org/10.1007/pl00004423)
+- **[SOTA]** M. Scharlemann, J. Schultens. *Comparing Heegaard and JSJ structures of orientable 3-manifolds.* Transactions of the American Mathematical Society, 353 (2001), 557–584. [DOI](https://doi.org/10.1090/s0002-9947-00-02654-4)
+- **[SOTA]** K. Morimoto, J. Schultens. *Tunnel numbers of small knots do not go down under connected sum.* Proceedings of the American Mathematical Society, 128 (2000), 269–278. [DOI](https://doi.org/10.1090/s0002-9939-99-05160-6)
+- **[SOTA]** K. Morimoto. *On the super additivity of tunnel number of knots.* Mathematische Annalen, 317 (2000), 489–508. [DOI](https://doi.org/10.1007/pl00004411)
+- **[SOTA]** K. Morimoto, M. Sakuma, Y. Yokota. *Examples of tunnel number one knots which have the property "1+1=3".* Mathematical Proceedings of the Cambridge Philosophical Society, 119 (1996), 113–118. [DOI](https://doi.org/10.1017/s0305004100074028)
+- **[Recent]** T. Kobayashi, Y. Rieck. *Heegaard genus of the connected sum of $m$-small knots.* Communications in Analysis and Geometry, 14 (2006), 1037–1077. [DOI](https://doi.org/10.4310/cag.2006.v14.n5.a8)
+- **[Recent]** T. Kobayashi, Y. Rieck. *Knot exteriors with additive Heegaard genus and Morimoto's Conjecture.* Algebraic & Geometric Topology, 8 (2008), 953–969. [DOI](https://doi.org/10.2140/agt.2008.8.953)
+- **[Recent]** T. Kobayashi, Y. Rieck. *On the growth rate of the tunnel number of knots.* Journal für die reine und angewandte Mathematik, 592 (2006), 63–78. [DOI](https://doi.org/10.1515/crelle.2006.023)
+- **[Survey]** Y. Moriah. *Heegaard splittings of knot exteriors.* Geometry & Topology Monographs, 12 (2007), 191–232. [DOI](https://doi.org/10.2140/gtm.2007.12.191)
+- **[Survey]** M. Scharlemann. *Heegaard splittings of compact 3-manifolds.* In: Handbook of Geometric Topology, Elsevier, 2002, 921–953. [DOI](https://doi.org/10.1016/b978-044482432-5/50019-6)
 - **[Background]** J. Schultens. *Introduction to 3-Manifolds.* Graduate Studies in Mathematics 151, American Mathematical Society, 2014.
 
 ## 10. Worked Example / Concrete Special Case

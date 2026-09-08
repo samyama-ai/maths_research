@@ -108,18 +108,18 @@ The precise missing step is an **amplification lemma**: given $0\neq\alpha\in H^
 
 - **[Foundational]** M. Gromov. *Volume and bounded cohomology.* Publications Mathématiques de l'IHÉS **56** (1982), 5–99.
 - **[Foundational]** M. Gromov. *Asymptotic invariants of infinite groups.* In: Geometric Group Theory, Vol. 2, LMS Lecture Note Series 182, Cambridge University Press, 1993.
-- **[Foundational]** N. V. Ivanov. *Foundations of the theory of bounded cohomology.* Journal of Soviet Mathematics **37** (1987), 1090–1115.
-- **[Foundational]** R. Brooks. *Some remarks on bounded cohomology.* In: Riemann Surfaces and Related Topics, Annals of Mathematics Studies 97, Princeton University Press, 1981, 53–63.
-- **[SOTA]** I. Mineyev. *Straightening and bounded cohomology of hyperbolic groups.* Geometric and Functional Analysis **11** (2001), 807–839.
-- **[SOTA]** D. B. A. Epstein, K. Fujiwara. *The second bounded cohomology of word-hyperbolic groups.* Topology **36** (1997), 1275–1289.
-- **[SOTA]** M. Bestvina, K. Fujiwara. *Bounded cohomology of subgroups of mapping class groups.* Geometry & Topology **6** (2002), 69–89.
-- **[SOTA / Recent]** N. Monod. *Lamplighters and the bounded cohomology of Thompson's group F.* Geometric and Functional Analysis **32** (2022), 662–675.
-- **[SOTA / Recent]** N. Monod, S. Nariman. *Bounded and unbounded cohomology of homeomorphism and diffeomorphism groups.* Inventiones Mathematicae **232** (2023), 1439–1475.
-- **[Recent]** F. Fournier-Facio, C. Löh, M. Moraschini. *Bounded cohomology and binate groups.* Journal of the Australian Mathematical Society, 2023.
-- **[Survey]** R. Frigerio. *Bounded Cohomology of Discrete Groups.* Mathematical Surveys and Monographs 227, American Mathematical Society, 2017.
+- **[Foundational]** N. V. Ivanov. *Foundations of the theory of bounded cohomology.* Journal of Soviet Mathematics **37** (1987), 1090–1115. [DOI](https://doi.org/10.1007/bf01086634)
+- **[Foundational]** R. Brooks. *Some remarks on bounded cohomology.* In: Riemann Surfaces and Related Topics, Annals of Mathematics Studies 97, Princeton University Press, 1981, 53–63. [DOI](https://doi.org/10.1515/9781400881550-006)
+- **[SOTA]** I. Mineyev. *Straightening and bounded cohomology of hyperbolic groups.* Geometric and Functional Analysis **11** (2001), 807–839. [DOI](https://doi.org/10.1007/pl00001686)
+- **[SOTA]** D. B. A. Epstein, K. Fujiwara. *The second bounded cohomology of word-hyperbolic groups.* Topology **36** (1997), 1275–1289. [DOI](https://doi.org/10.1016/s0040-9383(96)00046-8)
+- **[SOTA]** M. Bestvina, K. Fujiwara. *Bounded cohomology of subgroups of mapping class groups.* Geometry & Topology **6** (2002), 69–89. [DOI](https://doi.org/10.2140/gt.2002.6.69)
+- **[SOTA / Recent]** N. Monod. *Lamplighters and the bounded cohomology of Thompson's group F.* Geometric and Functional Analysis **32** (2022), 662–675. [DOI](https://doi.org/10.1007/s00039-022-00604-9)
+- **[SOTA / Recent]** N. Monod, S. Nariman. *Bounded and unbounded cohomology of homeomorphism and diffeomorphism groups.* Inventiones Mathematicae **232** (2023), 1439–1475. [DOI](https://doi.org/10.1007/s00222-023-01181-w)
+- **[Recent]** F. Fournier-Facio, C. Löh, M. Moraschini. *Bounded cohomology and binate groups.* Journal of the Australian Mathematical Society, 2023. [DOI](https://doi.org/10.1017/s1446788722000106)
+- **[Survey]** R. Frigerio. *Bounded Cohomology of Discrete Groups.* Mathematical Surveys and Monographs 227, American Mathematical Society, 2017. [DOI](https://doi.org/10.1090/surv/227)
 - **[Survey]** N. Monod. *An invitation to bounded cohomology.* Proceedings of the ICM Madrid 2006, Vol. II, EMS, 1183–1211.
-- **[Background]** N. Monod. *Continuous Bounded Cohomology of Locally Compact Groups.* Lecture Notes in Mathematics 1758, Springer, 2001.
-- **[Background]** T. Soma. *The zero-norm subspace of bounded cohomology.* Commentarii Mathematici Helvetici **72** (1997), 582–592.
+- **[Background]** N. Monod. *Continuous Bounded Cohomology of Locally Compact Groups.* Lecture Notes in Mathematics 1758, Springer, 2001. [DOI](https://doi.org/10.1007/b80626)
+- **[Background]** T. Soma. *The zero-norm subspace of bounded cohomology.* Commentarii Mathematici Helvetici **72** (1997), 582–592. [DOI](https://doi.org/10.1007/s000140050035)
 
 ## 10. Worked Example / Concrete Special Case
 

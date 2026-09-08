@@ -101,10 +101,10 @@ Leading researchers have articulated several strategic pathways to cross the cur
 ## 9. Key References
 
 - **[Foundational]** Onsager, L. *Statistical hydrodynamics.* Il Nuovo Cimento (1943-1954), 6(2), 279-287, 1949.
-- **[Foundational]** Constantin, P., E, W., & Titi, E. S. *Onsager's conjecture on the energy conservation for solutions of Euler's equation.* Communications in Mathematical Physics, 165(1), 207-209, 1994.
-- **[Foundational]** Duchon, J., & Robert, R. *Inertial energy dissipation for weak solutions of incompressible Euler and Navier-Stokes equations.* Nonlinearity, 13(1), 249, 2000.
+- **[Foundational]** Constantin, P., E, W., & Titi, E. S. *Onsager's conjecture on the energy conservation for solutions of Euler's equation.* Communications in Mathematical Physics, 165(1), 207-209, 1994. [DOI](https://doi.org/10.1007/bf02099744)
+- **[Foundational]** Duchon, J., & Robert, R. *Inertial energy dissipation for weak solutions of incompressible Euler and Navier-Stokes equations.* Nonlinearity, 13(1), 249, 2000. [DOI](https://doi.org/10.1088/0951-7715/13/1/312)
 - **[SOTA / Recent]** Isett, P. *A proof of Onsager's conjecture.* Annals of Mathematics, 188(3), 871-963, 2018.
-- **[SOTA / Recent]** Buckmaster, T., De Lellis, C., Székelyhidi Jr, L., & Vicol, V. *Onsager's conjecture for admissible weak solutions.* Communications on Pure and Applied Mathematics, 72(2), 229-274, 2019.
+- **[SOTA / Recent]** Buckmaster, T., De Lellis, C., Székelyhidi Jr, L., & Vicol, V. *Onsager's conjecture for admissible weak solutions.* Communications on Pure and Applied Mathematics, 72(2), 229-274, 2019. [DOI](https://doi.org/10.1002/cpa.21781)
 - **[SOTA / Recent]** Bedrossian, J., Blumenthal, A., & Punshon-Smith, S. *The Batchelor spectrum of passive scalar turbulence in stochastic fluid mechanics.* Communications on Pure and Applied Mathematics, 75(1), 143-221, 2022.
 - **[Survey]** Eyink, G. L. *Review of the Onsager "Ideal Turbulence" Theory.* arXiv preprint arXiv:1803.02223, 2018.
 

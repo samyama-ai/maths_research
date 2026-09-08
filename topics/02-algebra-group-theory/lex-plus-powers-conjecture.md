@@ -109,25 +109,25 @@ The precise missing step is a **reduction from an arbitrary regular sequence to 
 
 ## 9. Key References
 
-- **[Foundational]** F. S. Macaulay. *Some properties of enumeration in the theory of modular systems.* Proc. London Math. Soc. 26 (1927), 531–555.
-- **[Foundational]** G. F. Clements and B. Lindström. *A generalization of a combinatorial theorem of Macaulay.* J. Combinatorial Theory 7 (1969), 230–238.
+- **[Foundational]** F. S. Macaulay. *Some properties of enumeration in the theory of modular systems.* Proc. London Math. Soc. 26 (1927), 531–555. [DOI](https://doi.org/10.1112/plms/s2-26.1.531)
+- **[Foundational]** G. F. Clements and B. Lindström. *A generalization of a combinatorial theorem of Macaulay.* J. Combinatorial Theory 7 (1969), 230–238. [DOI](https://doi.org/10.1016/s0021-9800(69)80016-5)
 - **[Foundational]** H. Charalambous and E. G. Evans. *Problems on Betti numbers of finite length modules.* In *Free Resolutions in Commutative Algebra and Algebraic Geometry (Sundance 1990)*, Res. Notes Math. 2, Jones and Bartlett, 1992, 25–33.
 - **[Foundational]** D. Eisenbud, M. Green, J. Harris. *Higher Castelnuovo theory.* Astérisque 218 (1993), 187–202.
-- **[Foundational]** D. Eisenbud, M. Green, J. Harris. *Cayley–Bacharach theorems and conjectures.* Bull. Amer. Math. Soc. 33 (1996), 295–324.
-- **[Foundational]** A. M. Bigatti. *Upper bounds for the Betti numbers of a given Hilbert function.* Comm. Algebra 21 (1993), 2317–2334.
-- **[Foundational]** H. A. Hulett. *Maximum Betti numbers of homogeneous ideals with a given Hilbert function.* Comm. Algebra 21 (1993), 2335–2350.
-- **[Foundational]** K. Pardue. *Deformation classes of graded modules and maximal Betti numbers.* Illinois J. Math. 40 (1996), 564–585.
-- **[SOTA / Recent]** J. Mermin and S. Murai. *The lex-plus-powers conjecture holds for pure powers.* Advances in Mathematics 226 (2011), 3511–3539.
-- **[SOTA / Recent]** J. Mermin, S. Murai, I. Peeva. *Ideals containing the squares of the variables.* Advances in Mathematics 217 (2008), 2206–2230.
-- **[SOTA / Recent]** G. Caviglia and D. Maclagan. *Some cases of the Eisenbud–Green–Harris conjecture.* Math. Res. Letters 15 (2008), 427–433.
+- **[Foundational]** D. Eisenbud, M. Green, J. Harris. *Cayley–Bacharach theorems and conjectures.* Bull. Amer. Math. Soc. 33 (1996), 295–324. [DOI](https://doi.org/10.1090/s0273-0979-96-00666-0)
+- **[Foundational]** A. M. Bigatti. *Upper bounds for the Betti numbers of a given Hilbert function.* Comm. Algebra 21 (1993), 2317–2334. [DOI](https://doi.org/10.1080/00927879308824679)
+- **[Foundational]** H. A. Hulett. *Maximum Betti numbers of homogeneous ideals with a given Hilbert function.* Comm. Algebra 21 (1993), 2335–2350. [DOI](https://doi.org/10.1080/00927879308824680)
+- **[Foundational]** K. Pardue. *Deformation classes of graded modules and maximal Betti numbers.* Illinois J. Math. 40 (1996), 564–585. [DOI](https://doi.org/10.1215/ijm/1255985937)
+- **[SOTA / Recent]** J. Mermin and S. Murai. *The lex-plus-powers conjecture holds for pure powers.* Advances in Mathematics 226 (2011), 3511–3539. [DOI](https://doi.org/10.1016/j.aim.2010.08.022)
+- **[SOTA / Recent]** J. Mermin, S. Murai, I. Peeva. *Ideals containing the squares of the variables.* Advances in Mathematics 217 (2008), 2206–2230. [DOI](https://doi.org/10.1016/j.aim.2007.11.014)
+- **[SOTA / Recent]** G. Caviglia and D. Maclagan. *Some cases of the Eisenbud–Green–Harris conjecture.* Math. Res. Letters 15 (2008), 427–433. [DOI](https://doi.org/10.4310/mrl.2008.v15.n3.a3)
 - **[SOTA / Recent]** A. Abedelfatah. *On the Eisenbud–Green–Harris conjecture.* Proc. Amer. Math. Soc. 143 (2015), 105–115.
-- **[SOTA / Recent]** G. Caviglia, A. Constantinescu, M. Varbaro. *On a conjecture by Kalai.* Israel J. Math. 204 (2014), 469–475.
-- **[SOTA / Recent]** J. Mermin and I. Peeva. *Lexifying ideals.* Math. Res. Letters 13 (2006), 409–422.
-- **[Survey]** C. A. Francisco and B. P. Richert. *Lex-plus-powers ideals.* In *Syzygies and Hilbert Functions*, Lect. Notes Pure Appl. Math. 254, Chapman & Hall/CRC, 2007, 113–144.
-- **[Survey]** I. Peeva. *Graded Syzygies.* Algebra and Applications 14, Springer, 2011.
-- **[Related]** B. P. Richert. *A study of the lex plus powers conjecture.* J. Pure Appl. Algebra 186 (2004), 169–183.
-- **[Related]** C. A. Francisco. *Almost complete intersections and the lex-plus-powers conjecture.* J. Algebra 276 (2004), 737–760.
-- **[Related]** S. M. Cooper. *Subsets of complete intersections and the EGH conjecture.* In *Progress in Commutative Algebra 1*, de Gruyter, 2012, 167–198.
+- **[SOTA / Recent]** G. Caviglia, A. Constantinescu, M. Varbaro. *On a conjecture by Kalai.* Israel J. Math. 204 (2014), 469–475. [DOI](https://doi.org/10.1007/s11856-014-1115-y)
+- **[SOTA / Recent]** J. Mermin and I. Peeva. *Lexifying ideals.* Math. Res. Letters 13 (2006), 409–422. [DOI](https://doi.org/10.4310/mrl.2006.v13.n3.a6)
+- **[Survey]** C. A. Francisco and B. P. Richert. *Lex-plus-powers ideals.* In *Syzygies and Hilbert Functions*, Lect. Notes Pure Appl. Math. 254, Chapman & Hall/CRC, 2007, 113–144. [DOI](https://doi.org/10.1201/9781420050912.ch4)
+- **[Survey]** I. Peeva. *Graded Syzygies.* Algebra and Applications 14, Springer, 2011. [DOI](https://doi.org/10.1007/978-0-85729-177-6)
+- **[Related]** B. P. Richert. *A study of the lex plus powers conjecture.* J. Pure Appl. Algebra 186 (2004), 169–183. [DOI](https://doi.org/10.1016/s0022-4049(03)00130-0)
+- **[Related]** C. A. Francisco. *Almost complete intersections and the lex-plus-powers conjecture.* J. Algebra 276 (2004), 737–760. [DOI](https://doi.org/10.1016/j.jalgebra.2003.09.016)
+- **[Related]** S. M. Cooper. *Subsets of complete intersections and the EGH conjecture.* In *Progress in Commutative Algebra 1*, de Gruyter, 2012, 167–198. [DOI](https://doi.org/10.1515/9783110250404.167)
 
 ## 10. Worked Example / Concrete Special Case
 

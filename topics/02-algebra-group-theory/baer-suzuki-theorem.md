@@ -79,7 +79,7 @@ Leading mathematicians suggest extending the probabilistic Baer-Suzuki framework
 
 ## 9. Key References
 
-- **[Foundational]** Baer, R. *Engelsche Elemente Noetherscher Gruppen*. Mathematische Annalen, 1957.
+- **[Foundational]** Baer, R. *Engelsche Elemente Noetherscher Gruppen*. Mathematische Annalen, 1957. [DOI](https://doi.org/10.1007/bf02547953)
 - **[Foundational]** Flavell, P. *A new proof of the Baer-Suzuki theorem*. Journal of Algebra, 1995.
 - **[SOTA / Recent]** Guest, S., Guralnick, R. M., and Malle, G. *A quantitative Baer-Suzuki theorem*. Journal of Algebra, 2015.
 - **[Survey]** Guralnick, R. M. *Applications of the classification of finite simple groups*. Proceedings of the American Mathematical Society, 2000.

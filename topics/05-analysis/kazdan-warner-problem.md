@@ -101,22 +101,22 @@ Concretely, the missing step for $S^n$ is a topological degree formula for the e
 
 ## 9. Key References
 
-- **[Foundational]** J. L. Kazdan and F. W. Warner. *Curvature functions for compact 2-manifolds.* Annals of Mathematics 99 (1974), 14-47.
-- **[Foundational]** J. L. Kazdan and F. W. Warner. *Curvature functions for open 2-manifolds.* Annals of Mathematics 99 (1974), 203-219.
-- **[Foundational]** J. L. Kazdan and F. W. Warner. *Existence and conformal deformation of metrics with prescribed Gaussian and scalar curvatures.* Annals of Mathematics 101 (1975), 317-331.
-- **[Foundational]** J. L. Kazdan and F. W. Warner. *Scalar curvature and conformal deformation of Riemannian structure.* Journal of Differential Geometry 10 (1975), 113-134.
+- **[Foundational]** J. L. Kazdan and F. W. Warner. *Curvature functions for compact 2-manifolds.* Annals of Mathematics 99 (1974), 14-47. [DOI](https://doi.org/10.2307/1971012)
+- **[Foundational]** J. L. Kazdan and F. W. Warner. *Curvature functions for open 2-manifolds.* Annals of Mathematics 99 (1974), 203-219. [DOI](https://doi.org/10.2307/1970898)
+- **[Foundational]** J. L. Kazdan and F. W. Warner. *Existence and conformal deformation of metrics with prescribed Gaussian and scalar curvatures.* Annals of Mathematics 101 (1975), 317-331. [DOI](https://doi.org/10.2307/1970993)
+- **[Foundational]** J. L. Kazdan and F. W. Warner. *Scalar curvature and conformal deformation of Riemannian structure.* Journal of Differential Geometry 10 (1975), 113-134. [DOI](https://doi.org/10.4310/jdg/1214432678)
 - **[Foundational]** J. Moser. *On a nonlinear problem in differential geometry.* In *Dynamical Systems* (Salvador, 1971), Academic Press, 1973, 273-280.
 - **[SOTA]** S.-Y. A. Chang and P. C. Yang. *Prescribing Gaussian curvature on $S^2$.* Acta Mathematica 159 (1987), 215-259.
-- **[SOTA]** S.-Y. A. Chang and P. C. Yang. *Conformal deformation of metrics on $S^2$.* Journal of Differential Geometry 27 (1988), 259-296.
-- **[SOTA]** A. Bahri and J.-M. Coron. *The scalar curvature problem on the standard three-dimensional sphere.* Journal of Functional Analysis 95 (1991), 106-172.
+- **[SOTA]** S.-Y. A. Chang and P. C. Yang. *Conformal deformation of metrics on $S^2$.* Journal of Differential Geometry 27 (1988), 259-296. [DOI](https://doi.org/10.4310/jdg/1214441783)
+- **[SOTA]** A. Bahri and J.-M. Coron. *The scalar curvature problem on the standard three-dimensional sphere.* Journal of Functional Analysis 95 (1991), 106-172. [DOI](https://doi.org/10.1016/0022-1236(91)90026-2)
 - **[SOTA]** Y. Li. *Prescribing scalar curvature on $S^n$ and related problems, Part I.* Journal of Differential Equations 120 (1995), 319-410; *Part II*, Communications on Pure and Applied Mathematics 49 (1996), 541-597.
 - **[SOTA]** M. Struwe. *A flow approach to Nirenberg's problem.* Duke Mathematical Journal 128 (2005), 19-64.
-- **[SOTA]** F. Borer, L. Galimberti and M. Struwe. *"Large" conformal metrics of prescribed Gauss curvature on surfaces of higher genus.* Commentarii Mathematici Helvetici 90 (2015), 407-428.
-- **[Related]** J.-P. Bourguignon and J.-P. Ezin. *Scalar curvature functions in a conformal class of metrics and conformal transformations.* Transactions of the AMS 301 (1987), 723-736.
-- **[Related]** M. Troyanov. *Prescribing curvature on compact surfaces with conical singularities.* Transactions of the AMS 324 (1991), 793-821.
-- **[Related]** S. Stolz. *Simply connected manifolds of positive scalar curvature.* Annals of Mathematics 136 (1992), 511-540.
-- **[Survey]** J. L. Kazdan. *Prescribing the Curvature of a Riemannian Manifold.* CBMS Regional Conference Series in Mathematics 57, AMS, 1985.
-- **[Survey]** T. Aubin. *Some Nonlinear Problems in Riemannian Geometry.* Springer Monographs in Mathematics, 1998.
+- **[SOTA]** F. Borer, L. Galimberti and M. Struwe. *"Large" conformal metrics of prescribed Gauss curvature on surfaces of higher genus.* Commentarii Mathematici Helvetici 90 (2015), 407-428. [DOI](https://doi.org/10.4171/cmh/358)
+- **[Related]** J.-P. Bourguignon and J.-P. Ezin. *Scalar curvature functions in a conformal class of metrics and conformal transformations.* Transactions of the AMS 301 (1987), 723-736. [DOI](https://doi.org/10.1090/s0002-9947-1987-0882712-7)
+- **[Related]** M. Troyanov. *Prescribing curvature on compact surfaces with conical singularities.* Transactions of the AMS 324 (1991), 793-821. [DOI](https://doi.org/10.1090/s0002-9947-1991-1005085-9)
+- **[Related]** S. Stolz. *Simply connected manifolds of positive scalar curvature.* Annals of Mathematics 136 (1992), 511-540. [DOI](https://doi.org/10.2307/2946598)
+- **[Survey]** J. L. Kazdan. *Prescribing the Curvature of a Riemannian Manifold.* CBMS Regional Conference Series in Mathematics 57, AMS, 1985. [DOI](https://doi.org/10.1090/cbms/057)
+- **[Survey]** T. Aubin. *Some Nonlinear Problems in Riemannian Geometry.* Springer Monographs in Mathematics, 1998. [DOI](https://doi.org/10.1007/978-3-662-13006-3)
 
 ## 10. Worked Example / Concrete Special Case
 

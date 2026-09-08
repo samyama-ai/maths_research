@@ -80,8 +80,8 @@ The boundary of current knowledge lies precisely between rank 0 or 1 motives (wh
 - **[Foundational]** Bloch, S., & Kato, K. *L-functions and Tamagawa numbers of motives.* The Grothendieck Festschrift, Vol. I (pp. 333-400), Birkhäuser, Boston, 1990.
 - **[Foundational]** Fontaine, J. M., & Perrin-Riou, B. *Autour des conjectures de Bloch et Kato: cohomologie galoisienne et valeurs de fonctions L.* Motives (Seattle, WA, 1991), Proc. Sympos. Pure Math, Vol. 55, 1994.
 - **[SOTA / Recent]** Skinner, C., & Urban, E. *The Iwasawa main conjectures for $GL_2$.* Inventiones mathematicae, 195(1), 1-277, 2014.
-- **[SOTA / Recent]** Loeffler, D., & Zerbes, S. L. *Euler systems for Rankin-Selberg convolutions of modular forms.* Annals of Mathematics, 180(2), 653-717, 2014.
-- **[Survey]** Flach, M. *The equivariant Tamagawa number conjecture: a survey.* Stark's conjectures: recent work and new directions, Contemp. Math, Vol. 358, 2004.
+- **[SOTA / Recent]** Loeffler, D., & Zerbes, S. L. *Euler systems for Rankin-Selberg convolutions of modular forms.* Annals of Mathematics, 180(2), 653-717, 2014. [DOI](https://doi.org/10.4007/annals.2014.180.2.6)
+- **[Survey]** Flach, M. *The equivariant Tamagawa number conjecture: a survey.* Stark's conjectures: recent work and new directions, Contemp. Math, Vol. 358, 2004. [DOI](https://doi.org/10.1090/conm/358/06537)
 
 ## 10. Worked Example / Concrete Special Case
 

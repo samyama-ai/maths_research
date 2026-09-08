@@ -106,22 +106,22 @@ For Conjecture I the gap is the passage from "no $S^1$-invariant positively curv
 
 ## 9. Key References
 
-- **[Foundational]** S.-S. Chern. *On curvature and characteristic classes of a Riemann manifold.* Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg, 20:117–126, 1955.
+- **[Foundational]** S.-S. Chern. *On curvature and characteristic classes of a Riemann manifold.* Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg, 20:117–126, 1955. [DOI](https://doi.org/10.1007/bf02960745)
 - **[Foundational]** M. Berger. *Les variétés riemanniennes homogènes normales simplement connexes à courbure strictement positive.* Annali della Scuola Normale Superiore di Pisa, 15:179–246, 1961.
 - **[Foundational]** M. Berger. *Trois remarques sur les variétés riemanniennes à courbure positive.* C. R. Acad. Sci. Paris, 263:76–78, 1966.
-- **[Foundational]** R. Geroch. *Positive sectional curvatures does not imply positive Gauss–Bonnet integrand.* Proceedings of the American Mathematical Society, 54:267–270, 1976.
-- **[Foundational]** P. Klembeck. *On Geroch's counterexample to the algebraic Hopf conjecture.* Proceedings of the American Mathematical Society, 59:334–336, 1976.
-- **[Foundational]** M. Gromov. *Curvature, diameter and Betti numbers.* Commentarii Mathematici Helvetici, 56:179–195, 1981.
-- **[Key result]** W.-Y. Hsiang and B. Kleiner. *On the topology of positively curved 4-manifolds with symmetry.* Journal of Differential Geometry, 29(3):615–621, 1989.
-- **[Key result]** T. Püttmann and C. Searle. *The Hopf conjecture for manifolds with low cohomogeneity or high symmetry rank.* Proceedings of the American Mathematical Society, 130:163–166, 2002.
-- **[Key result]** X. Rong and X. Su. *The Hopf conjecture for manifolds with abelian group actions.* Communications in Contemporary Mathematics, 7(1):121–136, 2005.
-- **[SOTA / Recent]** L. Kennard. *On the Hopf conjecture with symmetry.* Geometry & Topology, 17:563–593, 2013.
-- **[SOTA / Recent]** M. Amann and L. Kennard. *Topological properties of positively curved manifolds with symmetry.* Geometric and Functional Analysis, 24:1377–1405, 2014.
-- **[SOTA / Recent]** C. Böhm and B. Wilking. *Manifolds with positive curvature operators are space forms.* Annals of Mathematics, 167:1079–1097, 2008.
-- **[SOTA / Recent]** R. G. Bettiol. *Positive biorthogonal curvature on $S^2\times S^2$.* Proceedings of the American Mathematical Society, 142:4341–4353, 2014.
-- **[Survey]** K. Grove. *Developments around positive sectional curvature.* Surveys in Differential Geometry, Vol. 13, International Press, 2009.
-- **[Survey]** B. Wilking. *Nonnegatively and positively curved manifolds.* Surveys in Differential Geometry, Vol. 11, International Press, 2007.
-- **[Survey]** W. Ziller. *Examples of Riemannian manifolds with non-negative sectional curvature.* Surveys in Differential Geometry, Vol. 11, International Press, 2007.
+- **[Foundational]** R. Geroch. *Positive sectional curvatures does not imply positive Gauss–Bonnet integrand.* Proceedings of the American Mathematical Society, 54:267–270, 1976. [DOI](https://doi.org/10.1090/s0002-9939-1976-0390961-8)
+- **[Foundational]** P. Klembeck. *On Geroch's counterexample to the algebraic Hopf conjecture.* Proceedings of the American Mathematical Society, 59:334–336, 1976. [DOI](https://doi.org/10.2307/2041496)
+- **[Foundational]** M. Gromov. *Curvature, diameter and Betti numbers.* Commentarii Mathematici Helvetici, 56:179–195, 1981. [DOI](https://doi.org/10.1007/bf02566208)
+- **[Key result]** W.-Y. Hsiang and B. Kleiner. *On the topology of positively curved 4-manifolds with symmetry.* Journal of Differential Geometry, 29(3):615–621, 1989. [DOI](https://doi.org/10.4310/jdg/1214443064)
+- **[Key result]** T. Püttmann and C. Searle. *The Hopf conjecture for manifolds with low cohomogeneity or high symmetry rank.* Proceedings of the American Mathematical Society, 130:163–166, 2002. [DOI](https://doi.org/10.1090/s0002-9939-01-06039-7)
+- **[Key result]** X. Rong and X. Su. *The Hopf conjecture for manifolds with abelian group actions.* Communications in Contemporary Mathematics, 7(1):121–136, 2005. [DOI](https://doi.org/10.1142/s0219199705001660)
+- **[SOTA / Recent]** L. Kennard. *On the Hopf conjecture with symmetry.* Geometry & Topology, 17:563–593, 2013. [DOI](https://doi.org/10.2140/gt.2013.17.563)
+- **[SOTA / Recent]** M. Amann and L. Kennard. *Topological properties of positively curved manifolds with symmetry.* Geometric and Functional Analysis, 24:1377–1405, 2014. [DOI](https://doi.org/10.1007/s00039-014-0300-9)
+- **[SOTA / Recent]** C. Böhm and B. Wilking. *Manifolds with positive curvature operators are space forms.* Annals of Mathematics, 167:1079–1097, 2008. [DOI](https://doi.org/10.4007/annals.2008.167.1079)
+- **[SOTA / Recent]** R. G. Bettiol. *Positive biorthogonal curvature on $S^2\times S^2$.* Proceedings of the American Mathematical Society, 142:4341–4353, 2014. [DOI](https://doi.org/10.1090/s0002-9939-2014-12173-3)
+- **[Survey]** K. Grove. *Developments around positive sectional curvature.* Surveys in Differential Geometry, Vol. 13, International Press, 2009. [DOI](https://doi.org/10.4310/sdg.2008.v13.n1.a4)
+- **[Survey]** B. Wilking. *Nonnegatively and positively curved manifolds.* Surveys in Differential Geometry, Vol. 11, International Press, 2007. [DOI](https://doi.org/10.4310/sdg.2006.v11.n1.a3)
+- **[Survey]** W. Ziller. *Examples of Riemannian manifolds with non-negative sectional curvature.* Surveys in Differential Geometry, Vol. 11, International Press, 2007. [DOI](https://doi.org/10.4310/sdg.2006.v11.n1.a4)
 
 ## 10. Worked Example / Concrete Special Case
 

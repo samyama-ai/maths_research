@@ -115,19 +115,19 @@ Not proven, and the precise boundary:
 ## 9. Key References
 
 - **[Foundational]** A. Lichnerowicz. *Spineurs harmoniques.* C. R. Acad. Sci. Paris 257 (1963), 7–9.
-- **[Foundational]** N. Hitchin. *Harmonic spinors.* Advances in Mathematics 14 (1974), 1–55.
-- **[Foundational]** M. Gromov, H. B. Lawson. *The classification of simply connected manifolds of positive scalar curvature.* Annals of Mathematics 111 (1980), 423–434.
+- **[Foundational]** N. Hitchin. *Harmonic spinors.* Advances in Mathematics 14 (1974), 1–55. [DOI](https://doi.org/10.1016/0001-8708(74)90021-8)
+- **[Foundational]** M. Gromov, H. B. Lawson. *The classification of simply connected manifolds of positive scalar curvature.* Annals of Mathematics 111 (1980), 423–434. [DOI](https://doi.org/10.2307/1971103)
 - **[Foundational]** R. Schoen, S.-T. Yau. *On the structure of manifolds with positive scalar curvature.* Manuscripta Mathematica 28 (1979), 159–183.
 - **[Foundational]** J. Rosenberg. *$C^*$-algebras, positive scalar curvature, and the Novikov conjecture.* Publications Mathématiques de l'IHÉS 58 (1983), 197–212. (Parts II and III: Geometric Methods in Operator Algebras, 1986; Topology 25 (1986), 319–336.)
-- **[SOTA]** S. Stolz. *Simply connected manifolds of positive scalar curvature.* Annals of Mathematics 136 (1992), 511–540.
-- **[SOTA]** J. Rosenberg, S. Stolz. *A "stable" version of the Gromov–Lawson conjecture.* Contemporary Mathematics 181 (1995), 405–418.
-- **[SOTA]** B. Botvinnik, P. Gilkey, S. Stolz. *The Gromov–Lawson–Rosenberg conjecture for groups with periodic cohomology.* Journal of Differential Geometry 46 (1997), 374–405.
-- **[SOTA]** T. Schick. *A counterexample to the (unstable) Gromov–Lawson–Rosenberg conjecture.* Topology 37 (1998), 1165–1168.
-- **[SOTA]** W. Dwyer, T. Schick, S. Stolz. *Remarks on a conjecture of Gromov and Lawson.* In: High-Dimensional Manifold Topology, World Scientific, 2003, 159–176.
-- **[SOTA]** B. Hanke, D. Pape, T. Schick. *Codimension two index obstructions to positive scalar curvature.* Annales de l'Institut Fourier 65 (2015), 2681–2710.
-- **[SOTA]** O. Chodosh, C. Li. *Generalized soap bubbles and the topology of manifolds with positive scalar curvature.* Annals of Mathematics 199 (2024), 707–740.
-- **[Survey]** J. Rosenberg. *Manifolds of positive scalar curvature: a progress report.* Surveys in Differential Geometry 11 (2007), 259–294.
-- **[Survey]** J. Rosenberg, S. Stolz. *Metrics of positive scalar curvature and connections with surgery.* In: Surveys on Surgery Theory, Vol. 2, Annals of Mathematics Studies 149, Princeton University Press, 2001.
+- **[SOTA]** S. Stolz. *Simply connected manifolds of positive scalar curvature.* Annals of Mathematics 136 (1992), 511–540. [DOI](https://doi.org/10.2307/2946598)
+- **[SOTA]** J. Rosenberg, S. Stolz. *A "stable" version of the Gromov–Lawson conjecture.* Contemporary Mathematics 181 (1995), 405–418. [DOI](https://doi.org/10.1090/conm/181/02046)
+- **[SOTA]** B. Botvinnik, P. Gilkey, S. Stolz. *The Gromov–Lawson–Rosenberg conjecture for groups with periodic cohomology.* Journal of Differential Geometry 46 (1997), 374–405. [DOI](https://doi.org/10.4310/jdg/1214459973)
+- **[SOTA]** T. Schick. *A counterexample to the (unstable) Gromov–Lawson–Rosenberg conjecture.* Topology 37 (1998), 1165–1168. [DOI](https://doi.org/10.1016/s0040-9383(97)00082-7)
+- **[SOTA]** W. Dwyer, T. Schick, S. Stolz. *Remarks on a conjecture of Gromov and Lawson.* In: High-Dimensional Manifold Topology, World Scientific, 2003, 159–176. [DOI](https://doi.org/10.1142/9789812704443_0008)
+- **[SOTA]** B. Hanke, D. Pape, T. Schick. *Codimension two index obstructions to positive scalar curvature.* Annales de l'Institut Fourier 65 (2015), 2681–2710. [DOI](https://doi.org/10.5802/aif.3000)
+- **[SOTA]** O. Chodosh, C. Li. *Generalized soap bubbles and the topology of manifolds with positive scalar curvature.* Annals of Mathematics 199 (2024), 707–740. [DOI](https://doi.org/10.4007/annals.2024.199.2.3)
+- **[Survey]** J. Rosenberg. *Manifolds of positive scalar curvature: a progress report.* Surveys in Differential Geometry 11 (2007), 259–294. [DOI](https://doi.org/10.4310/sdg.2006.v11.n1.a9)
+- **[Survey]** J. Rosenberg, S. Stolz. *Metrics of positive scalar curvature and connections with surgery.* In: Surveys on Surgery Theory, Vol. 2, Annals of Mathematics Studies 149, Princeton University Press, 2001. [DOI](https://doi.org/10.1515/9781400865215-010)
 - **[Survey]** T. Schick. *The topology of positive scalar curvature.* Proceedings of the ICM, Seoul, 2014, Vol. II, 1285–1307.
 
 ## 10. Worked Example / Concrete Special Case

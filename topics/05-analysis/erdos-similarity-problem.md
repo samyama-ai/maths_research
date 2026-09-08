@@ -95,9 +95,9 @@ Leading mathematicians have outlined several strategic pathways for future break
 
 ## 9. Key References
 
-- **[Foundational]** K. J. Falconer. *On a problem of Erdős on sequences and measurable sets.* Proceedings of the American Mathematical Society, 1984.
-- **[SOTA / Recent]** M. N. Kolountzakis. *Infinite patterns that can be avoided by measure.* Bulletin of the London Mathematical Society, 1997.
-- **[Survey]** I. Łaba, M. Pramanik. *Arithmetic progressions in sets of fractional dimension.* Geometric and Functional Analysis, 2009.
+- **[Foundational]** K. J. Falconer. *On a problem of Erdős on sequences and measurable sets.* Proceedings of the American Mathematical Society, 1984. [DOI](https://doi.org/10.1090/s0002-9939-1984-0722418-0)
+- **[SOTA / Recent]** M. N. Kolountzakis. *Infinite patterns that can be avoided by measure.* Bulletin of the London Mathematical Society, 1997. [DOI](https://doi.org/10.1112/s0024609397003056)
+- **[Survey]** I. Łaba, M. Pramanik. *Arithmetic progressions in sets of fractional dimension.* Geometric and Functional Analysis, 2009. [DOI](https://doi.org/10.1007/s00039-009-0003-9)
 
 ## 10. Worked Example / Concrete Special Case
 

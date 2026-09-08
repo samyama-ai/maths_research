@@ -81,10 +81,10 @@ Leading mathematicians working in Diophantine equations have articulated the fol
 ## 9. Key References
 
 - **[Foundational]** Catalan, E. *Note extraite d'une lettre adressée à l'éditeur.* Journal für die reine und angewandte Mathematik, 1844. 
-- **[Foundational]** Tijdeman, R. *On the equation of Catalan.* Acta Arithmetica, 1976.
+- **[Foundational]** Tijdeman, R. *On the equation of Catalan.* Acta Arithmetica, 1976. [DOI](https://doi.org/10.4064/aa-29-2-197-209)
 - **[SOTA / Recent]** Mihăilescu, P. *Primary Cyclotomic Units and a Proof of Catalan's Conjecture.* Journal für die reine und angewandte Mathematik (Crelles Journal), 2004.
 - **[Survey]** Schoof, R. *Catalan's Conjecture.* Universitext, Springer, 2008.
-- **[Survey]** Bilu, Y., Bugeaud, Y., Mignotte, M. *The Problem of Catalan.* Springer, 2014.
+- **[Survey]** Bilu, Y., Bugeaud, Y., Mignotte, M. *The Problem of Catalan.* Springer, 2014. [DOI](https://doi.org/10.1007/978-3-319-10094-4)
 
 ## 10. Worked Example / Concrete Special Case
 

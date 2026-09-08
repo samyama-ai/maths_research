@@ -95,19 +95,19 @@ Proved: equality for tempered parameters, for Adams–Johnson parameters over re
 
 ## 9. Key References
 
-- **[Foundational]** J. Adams, D. Barbasch, D. A. Vogan Jr. *The Langlands Classification and Irreducible Characters for Real Reductive Groups.* Progress in Mathematics 104, Birkhäuser, 1992.
+- **[Foundational]** J. Adams, D. Barbasch, D. A. Vogan Jr. *The Langlands Classification and Irreducible Characters for Real Reductive Groups.* Progress in Mathematics 104, Birkhäuser, 1992. [DOI](https://doi.org/10.1007/978-1-4612-0383-4)
 - **[Foundational]** J. Arthur. *Unipotent automorphic representations: conjectures.* Astérisque 171–172 (1989), 13–71.
 - **[Foundational]** J. Adams, J. Johnson. *Endoscopic groups and packets of non-tempered representations.* Compositio Mathematica 64 (1987), 271–309.
-- **[Foundational]** D. Barbasch, D. A. Vogan Jr. *Unipotent representations of complex semisimple groups.* Annals of Mathematics 121 (1985), 41–110.
+- **[Foundational]** D. Barbasch, D. A. Vogan Jr. *Unipotent representations of complex semisimple groups.* Annals of Mathematics 121 (1985), 41–110. [DOI](https://doi.org/10.2307/1971193)
 - **[Foundational]** M. Kashiwara. *Index theorem for constructible sheaves.* Astérisque 130 (1985), 193–209.
-- **[SOTA]** J. Arthur. *The Endoscopic Classification of Representations: Orthogonal and Symplectic Groups.* AMS Colloquium Publications 61, 2013.
-- **[SOTA]** N. Arancibia, C. Moeglin, D. Renard. *Paquets d'Arthur des groupes classiques et unitaires.* Annales de la Faculté des Sciences de Toulouse 27 (2018), 1023–1105.
+- **[SOTA]** J. Arthur. *The Endoscopic Classification of Representations: Orthogonal and Symplectic Groups.* AMS Colloquium Publications 61, 2013. [DOI](https://doi.org/10.1365/s13291-014-0088-4)
+- **[SOTA]** N. Arancibia, C. Moeglin, D. Renard. *Paquets d'Arthur des groupes classiques et unitaires.* Annales de la Faculté des Sciences de Toulouse 27 (2018), 1023–1105. [DOI](https://doi.org/10.5802/afst.1590)
 - **[SOTA]** J. Adams, N. Arancibia Robert, P. Mezo. *Equivalent definitions of Arthur packets for real classical groups.* arXiv:2108.05788, 2021.
-- **[SOTA]** C. Cunningham, A. Fiori, A. Moussaoui, J. Mracek, B. Xu. *Arthur packets for $p$-adic groups by way of microlocal vanishing cycles of perverse sheaves, with examples.* Memoirs of the AMS 276 (2022), no. 1353.
-- **[SOTA]** C. Cunningham, M. Ray. *Proof of Vogan's conjecture on Arthur packets: irreducible parameters of $p$-adic general linear groups.* arXiv:2206.01027, 2022.
+- **[SOTA]** C. Cunningham, A. Fiori, A. Moussaoui, J. Mracek, B. Xu. *Arthur packets for $p$-adic groups by way of microlocal vanishing cycles of perverse sheaves, with examples.* Memoirs of the AMS 276 (2022), no. 1353. [DOI](https://doi.org/10.1090/memo/1353)
+- **[SOTA]** C. Cunningham, M. Ray. *Proof of Vogan's conjecture on Arthur packets: irreducible parameters of $p$-adic general linear groups.* arXiv:2206.01027, 2022. [DOI](https://doi.org/10.1007/s00229-023-01490-7)
 - **[SOTA]** C. Cunningham, A. Fiori, B. Xu. *Arthur packets for $G_2$ and perverse sheaves on cubics.* Advances in Mathematics 395 (2022), 108074.
 - **[Survey]** D. A. Vogan Jr. *The local Langlands conjecture.* In *Representation Theory of Groups and Algebras*, Contemporary Mathematics 145, AMS, 1993, 305–379.
-- **[Survey]** P. Mezo. *Character identities in the twisted endoscopy of real reductive groups.* Memoirs of the AMS 222 (2013), no. 1042.
+- **[Survey]** P. Mezo. *Character identities in the twisted endoscopy of real reductive groups.* Memoirs of the AMS 222 (2013), no. 1042. [DOI](https://doi.org/10.1090/s0065-9266-2012-00661-7)
 - **[Computational]** J. Adams, M. van Leeuwen, P. Trapa, D. A. Vogan Jr. *Unitary representations of real reductive groups.* Astérisque 417 (2020).
 
 ## 10. Worked Example / Concrete Special Case

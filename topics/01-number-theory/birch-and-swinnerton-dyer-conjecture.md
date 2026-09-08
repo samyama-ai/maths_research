@@ -86,7 +86,7 @@ Leading mathematicians suggest the following open pathways:
 - **[Foundational]** Birch, B. J., & Swinnerton-Dyer, H. P. F. *Notes on Elliptic Curves (I and II).* Journal für die reine und angewandte Mathematik, 1963/1965.
 - **[Foundational]** Gross, B., & Zagier, D. *Heegner points and derivatives of L-series.* Inventiones mathematicae, 1986.
 - **[SOTA / Recent]** Kolyvagin, V. A. *Euler systems.* The Grothendieck Festschrift, 1990.
-- **[SOTA / Recent]** Bhargava, M., & Shankar, A. *Ternary cubic forms having bounded invariants, and the existence of a positive proportion of elliptic curves having rank 0.* Annals of Mathematics, 2015.
+- **[SOTA / Recent]** Bhargava, M., & Shankar, A. *Ternary cubic forms having bounded invariants, and the existence of a positive proportion of elliptic curves having rank 0.* Annals of Mathematics, 2015. [DOI](https://doi.org/10.4007/annals.2015.181.2.4)
 - **[Survey]** Wiles, A. *The Birch and Swinnerton-Dyer Conjecture.* Clay Mathematics Institute, Millennium Prize Problems, 2006.
 
 ## 10. Worked Example / Concrete Special Case

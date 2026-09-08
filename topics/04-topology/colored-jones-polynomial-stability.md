@@ -106,19 +106,19 @@ The precise missing step is a $q$-adic convergence criterion for the colored Kau
 
 ## 9. Key References
 
-- **[Foundational]** O. Dasbach, X.-S. Lin. *On the head and the tail of the colored Jones polynomial.* Compositio Mathematica 142 (2006), 1332–1342.
-- **[Foundational]** K. Habiro. *A unified Witten–Reshetikhin–Turaev invariant for integral homology spheres.* Inventiones Mathematicae 171 (2008), 1–81.
-- **[Foundational]** G. Masbaum. *Skein-theoretical derivation of some formulas of Habiro.* Algebraic & Geometric Topology 3 (2003), 537–556.
-- **[SOTA]** S. Garoufalidis, T. T. Q. Le. *Nahm sums, stability and the colored Jones polynomial.* Research in the Mathematical Sciences 2 (2015), Article 1.
-- **[SOTA]** C. Armond. *The head and tail conjecture for alternating knots.* Algebraic & Geometric Topology 13 (2013), 2809–2826.
-- **[SOTA]** L. Rozansky. *Khovanov homology of a unicolored B-adequate link has a tail.* Quantum Topology 5 (2014), 541–579.
+- **[Foundational]** O. Dasbach, X.-S. Lin. *On the head and the tail of the colored Jones polynomial.* Compositio Mathematica 142 (2006), 1332–1342. [DOI](https://doi.org/10.1112/s0010437x06002296)
+- **[Foundational]** K. Habiro. *A unified Witten–Reshetikhin–Turaev invariant for integral homology spheres.* Inventiones Mathematicae 171 (2008), 1–81. [DOI](https://doi.org/10.1007/s00222-007-0071-0)
+- **[Foundational]** G. Masbaum. *Skein-theoretical derivation of some formulas of Habiro.* Algebraic & Geometric Topology 3 (2003), 537–556. [DOI](https://doi.org/10.2140/agt.2003.3.537)
+- **[SOTA]** S. Garoufalidis, T. T. Q. Le. *Nahm sums, stability and the colored Jones polynomial.* Research in the Mathematical Sciences 2 (2015), Article 1. [DOI](https://doi.org/10.1186/2197-9847-2-1)
+- **[SOTA]** C. Armond. *The head and tail conjecture for alternating knots.* Algebraic & Geometric Topology 13 (2013), 2809–2826. [DOI](https://doi.org/10.2140/agt.2013.13.2809)
+- **[SOTA]** L. Rozansky. *Khovanov homology of a unicolored B-adequate link has a tail.* Quantum Topology 5 (2014), 541–579. [DOI](https://doi.org/10.4171/qt/58)
 - **[SOTA]** C. Armond, O. Dasbach. *Rogers–Ramanujan type identities and the head and tail of the colored Jones polynomial.* arXiv:1106.3948 (2011).
-- **[Recent]** S. Garoufalidis, T. Vuong. *Alternating knots, planar graphs, and q-series.* The Ramanujan Journal 36 (2015), 501–527.
-- **[Recent]** M. Hajij. *The tail of a quantum spin network.* The Ramanujan Journal 40 (2016), 135–176.
-- **[Recent]** A. Keilthy, R. Osburn. *Rogers–Ramanujan type identities for alternating knots.* Journal of Number Theory 161 (2016), 255–280.
+- **[Recent]** S. Garoufalidis, T. Vuong. *Alternating knots, planar graphs, and q-series.* The Ramanujan Journal 36 (2015), 501–527. [DOI](https://doi.org/10.1007/s11139-014-9592-5)
+- **[Recent]** M. Hajij. *The tail of a quantum spin network.* The Ramanujan Journal 40 (2016), 135–176. [DOI](https://doi.org/10.1007/s11139-015-9705-9)
+- **[Recent]** A. Keilthy, R. Osburn. *Rogers–Ramanujan type identities for alternating knots.* Journal of Number Theory 161 (2016), 255–280. [DOI](https://doi.org/10.1016/j.jnt.2015.02.002)
 - **[Recent]** P. Beirne, R. Osburn. *q-series and tails of colored Jones polynomials.* Indagationes Mathematicae 28 (2017), 647–660.
-- **[Context]** D. Zagier. *Vassiliev invariants and a strange identity related to the Dedekind eta-function.* Topology 40 (2001), 945–960.
-- **[Context]** G. E. Andrews. *An analytic generalization of the Rogers–Ramanujan identities for odd moduli.* PNAS 71 (1974), 4082–4085.
+- **[Context]** D. Zagier. *Vassiliev invariants and a strange identity related to the Dedekind eta-function.* Topology 40 (2001), 945–960. [DOI](https://doi.org/10.1016/s0040-9383(00)00005-7)
+- **[Context]** G. E. Andrews. *An analytic generalization of the Rogers–Ramanujan identities for odd moduli.* PNAS 71 (1974), 4082–4085. [DOI](https://doi.org/10.1073/pnas.71.10.4082)
 - **[Survey]** W. B. R. Lickorish. *An Introduction to Knot Theory.* Graduate Texts in Mathematics 175, Springer, 1997.
 - **[Survey]** S. Garoufalidis, D. Zagier. *Knots and their related $q$-series.* SIGMA 19 (2023), 082.
 

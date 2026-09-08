@@ -103,18 +103,18 @@ The gap is precisely: (i) an axiomatic target category — infrared equivalence 
 
 ## 9. Key References
 
-- **[Foundational]** T. Dimofte, D. Gaiotto, S. Gukov. *Gauge Theories Labelled by Three-Manifolds.* Communications in Mathematical Physics 325 (2014) 367–419.
-- **[Foundational]** T. Dimofte, D. Gaiotto, S. Gukov. *3-Manifolds and 3d Indices.* Advances in Theoretical and Mathematical Physics 17 (2013) 975–1076.
+- **[Foundational]** T. Dimofte, D. Gaiotto, S. Gukov. *Gauge Theories Labelled by Three-Manifolds.* Communications in Mathematical Physics 325 (2014) 367–419. [DOI](https://doi.org/10.1007/s00220-013-1863-2)
+- **[Foundational]** T. Dimofte, D. Gaiotto, S. Gukov. *3-Manifolds and 3d Indices.* Advances in Theoretical and Mathematical Physics 17 (2013) 975–1076. [DOI](https://doi.org/10.4310/atmp.2013.v17.n5.a3)
 - **[Foundational]** Y. Terashima, M. Yamazaki. *SL(2,R) Chern–Simons, Liouville, and Gauge Theory on Duality Walls.* JHEP 08 (2011) 135.
-- **[Foundational]** D. Cooper, M. Culler, H. Gillet, D. Long, P. Shalen. *Plane curves associated to character varieties of 3-manifolds.* Inventiones Mathematicae 118 (1994) 47–84.
-- **[Foundational]** J. E. Andersen, R. Kashaev. *A TQFT from Quantum Teichmüller Theory.* Communications in Mathematical Physics 330 (2014) 887–934.
-- **[SOTA / Recent]** S. Gukov, P. Putrov, C. Vafa. *Fivebranes and 3-manifold homology.* JHEP 07 (2017) 071.
-- **[SOTA / Recent]** S. Gukov, D. Pei, P. Putrov, C. Vafa. *BPS spectra and 3-manifold invariants.* Journal of Knot Theory and Its Ramifications 29 (2020) 2040003.
-- **[SOTA / Recent]** S. Gukov, C. Manolescu. *A two-variable series for knot complements.* Quantum Topology 12 (2021) 1–109.
-- **[SOTA / Recent]** C. Córdova, D. Jafferis. *Complex Chern–Simons from M5-branes on the Squashed Three-Sphere.* JHEP 11 (2017) 119.
-- **[SOTA / Recent]** S. Garoufalidis, C. Hodgson, H. Rubinstein, H. Segerman. *1-efficient triangulations and the index of a cusped hyperbolic 3-manifold.* Geometry & Topology 19 (2015) 2619–2689.
-- **[SOTA / Recent]** S. Garoufalidis, J. Gu, M. Mariño. *The resurgent structure of quantum knot invariants.* Communications in Mathematical Physics 386 (2021) 469–493.
-- **[Survey]** T. Dimofte. *Perturbative and nonperturbative aspects of complex Chern–Simons theory.* Journal of Physics A 50 (2017) 443009.
+- **[Foundational]** D. Cooper, M. Culler, H. Gillet, D. Long, P. Shalen. *Plane curves associated to character varieties of 3-manifolds.* Inventiones Mathematicae 118 (1994) 47–84. [DOI](https://doi.org/10.1007/bf01231526)
+- **[Foundational]** J. E. Andersen, R. Kashaev. *A TQFT from Quantum Teichmüller Theory.* Communications in Mathematical Physics 330 (2014) 887–934. [DOI](https://doi.org/10.1007/s00220-014-2073-2)
+- **[SOTA / Recent]** S. Gukov, P. Putrov, C. Vafa. *Fivebranes and 3-manifold homology.* JHEP 07 (2017) 071. [DOI](https://doi.org/10.1007/jhep07(2017)071)
+- **[SOTA / Recent]** S. Gukov, D. Pei, P. Putrov, C. Vafa. *BPS spectra and 3-manifold invariants.* Journal of Knot Theory and Its Ramifications 29 (2020) 2040003. [DOI](https://doi.org/10.1142/s0218216520400039)
+- **[SOTA / Recent]** S. Gukov, C. Manolescu. *A two-variable series for knot complements.* Quantum Topology 12 (2021) 1–109. [DOI](https://doi.org/10.4171/qt/145)
+- **[SOTA / Recent]** C. Córdova, D. Jafferis. *Complex Chern–Simons from M5-branes on the Squashed Three-Sphere.* JHEP 11 (2017) 119. [DOI](https://doi.org/10.1007/jhep11(2017)119)
+- **[SOTA / Recent]** S. Garoufalidis, C. Hodgson, H. Rubinstein, H. Segerman. *1-efficient triangulations and the index of a cusped hyperbolic 3-manifold.* Geometry & Topology 19 (2015) 2619–2689. [DOI](https://doi.org/10.2140/gt.2015.19.2619)
+- **[SOTA / Recent]** S. Garoufalidis, J. Gu, M. Mariño. *The resurgent structure of quantum knot invariants.* Communications in Mathematical Physics 386 (2021) 469–493. [DOI](https://doi.org/10.1007/s00220-021-04076-0)
+- **[Survey]** T. Dimofte. *Perturbative and nonperturbative aspects of complex Chern–Simons theory.* Journal of Physics A 50 (2017) 443009. [DOI](https://doi.org/10.1088/1751-8121/aa6a5b)
 - **[Survey]** S. Gukov, M. Mariño, P. Putrov. *Resurgence in complex Chern–Simons theory.* arXiv (2016).
 
 ## 10. Worked Example: the figure-eight knot complement $M=S^3\setminus 4_1$

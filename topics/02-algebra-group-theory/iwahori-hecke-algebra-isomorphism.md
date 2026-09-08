@@ -110,18 +110,18 @@ The precise missing step: **a parameter-detecting invariant valid outside the se
 - **[Foundational]** N. Iwahori. *On the structure of a Hecke ring of a Chevalley group over a finite field.* J. Fac. Sci. Univ. Tokyo Sect. I, 10 (1964), 215–236.
 - **[Foundational]** N. Iwahori, H. Matsumoto. *On some Bruhat decomposition and the structure of the Hecke rings of $p$-adic Chevalley groups.* Publ. Math. IHÉS 25 (1965), 5–48.
 - **[Foundational]** N. Bourbaki. *Groupes et algèbres de Lie, Chapitres IV–VI.* Hermann, 1968.
-- **[Foundational]** D. Kazhdan, G. Lusztig. *Representations of Coxeter groups and Hecke algebras.* Invent. Math. 53 (1979), 165–184.
-- **[Foundational]** A. Gyoja, K. Uno. *On the semisimplicity of Hecke algebras.* J. Math. Soc. Japan 41 (1989), 75–79.
-- **[Foundational]** R. Dipper, G. James. *Representations of Hecke algebras of general linear groups.* Proc. London Math. Soc. (3) 52 (1986), 20–52.
-- **[SOTA / Recent]** G. Lusztig. *Hecke Algebras with Unequal Parameters.* CRM Monograph Series 18, AMS, 2003.
-- **[SOTA / Recent]** M. Geck. *Hecke algebras of finite type are cellular.* Invent. Math. 169 (2007), 501–517.
+- **[Foundational]** D. Kazhdan, G. Lusztig. *Representations of Coxeter groups and Hecke algebras.* Invent. Math. 53 (1979), 165–184. [DOI](https://doi.org/10.1007/bf01390031)
+- **[Foundational]** A. Gyoja, K. Uno. *On the semisimplicity of Hecke algebras.* J. Math. Soc. Japan 41 (1989), 75–79. [DOI](https://doi.org/10.2969/jmsj/04110075)
+- **[Foundational]** R. Dipper, G. James. *Representations of Hecke algebras of general linear groups.* Proc. London Math. Soc. (3) 52 (1986), 20–52. [DOI](https://doi.org/10.1112/plms/s3-52.1.20)
+- **[SOTA / Recent]** G. Lusztig. *Hecke Algebras with Unequal Parameters.* CRM Monograph Series 18, AMS, 2003. [DOI](https://doi.org/10.1090/crmm/018)
+- **[SOTA / Recent]** M. Geck. *Hecke algebras of finite type are cellular.* Invent. Math. 169 (2007), 501–517. [DOI](https://doi.org/10.1007/s00222-007-0053-2)
 - **[SOTA / Recent]** J. Graham, G. Lehrer. *Cellular algebras.* Invent. Math. 123 (1996), 1–34.
-- **[SOTA / Recent]** M. Solleveld. *On the classification of irreducible representations of affine Hecke algebras with unequal parameters.* Represent. Theory 16 (2012), 1–87.
+- **[SOTA / Recent]** M. Solleveld. *On the classification of irreducible representations of affine Hecke algebras with unequal parameters.* Represent. Theory 16 (2012), 1–87. [DOI](https://doi.org/10.1090/s1088-4165-2012-00406-x)
 - **[SOTA / Recent]** S. Ariki. *On the semi-simplicity of the Hecke algebra of $(\mathbb{Z}/r\mathbb{Z})\wr\mathfrak{S}_n$.* J. Algebra 169 (1994), 216–225.
-- **[Survey]** M. Geck, G. Pfeiffer. *Characters of Finite Coxeter Groups and Iwahori–Hecke Algebras.* LMS Monographs 21, Oxford Univ. Press, 2000.
-- **[Survey]** M. Geck, N. Jacon. *Representations of Hecke Algebras at Roots of Unity.* Algebra and Applications 15, Springer, 2011.
-- **[Survey]** A. Mathas. *Iwahori–Hecke Algebras and Schur Algebras of the Symmetric Group.* AMS University Lecture Series 15, 1999.
-- **[Survey]** N. Brady, J. McCammond, B. Mühlherr, W. Neumann. *Rigidity of Coxeter groups and Artin groups.* Geom. Dedicata 94 (2002), 91–109.
+- **[Survey]** M. Geck, G. Pfeiffer. *Characters of Finite Coxeter Groups and Iwahori–Hecke Algebras.* LMS Monographs 21, Oxford Univ. Press, 2000. [DOI](https://doi.org/10.1093/oso/9780198502500.001.0001)
+- **[Survey]** M. Geck, N. Jacon. *Representations of Hecke Algebras at Roots of Unity.* Algebra and Applications 15, Springer, 2011. [DOI](https://doi.org/10.1007/978-0-85729-716-7)
+- **[Survey]** A. Mathas. *Iwahori–Hecke Algebras and Schur Algebras of the Symmetric Group.* AMS University Lecture Series 15, 1999. [DOI](https://doi.org/10.1090/ulect/015)
+- **[Survey]** N. Brady, J. McCammond, B. Mühlherr, W. Neumann. *Rigidity of Coxeter groups and Artin groups.* Geom. Dedicata 94 (2002), 91–109. [DOI](https://doi.org/10.1023/a:1020948811381)
 
 ## 10. Worked Example / Concrete Special Case
 

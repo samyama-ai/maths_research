@@ -105,17 +105,17 @@ The exact step to be crossed for (2)–(3): a substitute for the $X(n)$-tower in
 
 ## 9. Key References
 
-- **[Foundational]** Goro Nishida. *The nilpotency of elements of the stable homotopy groups of spheres.* Journal of the Mathematical Society of Japan 25 (1973), 707–732.
-- **[Foundational]** Douglas C. Ravenel. *Localization with respect to certain periodic homology theories.* American Journal of Mathematics 106 (1984), 351–414.
+- **[Foundational]** Goro Nishida. *The nilpotency of elements of the stable homotopy groups of spheres.* Journal of the Mathematical Society of Japan 25 (1973), 707–732. [DOI](https://doi.org/10.2969/jmsj/02540707)
+- **[Foundational]** Douglas C. Ravenel. *Localization with respect to certain periodic homology theories.* American Journal of Mathematics 106 (1984), 351–414. [DOI](https://doi.org/10.2307/2374308)
 - **[Foundational]** Ethan S. Devinatz, Michael J. Hopkins, Jeffrey H. Smith. *Nilpotence and stable homotopy theory I.* Annals of Mathematics 128 (1988), 207–241.
 - **[Foundational]** Michael J. Hopkins, Jeffrey H. Smith. *Nilpotence and stable homotopy theory II.* Annals of Mathematics 148 (1998), 1–49.
 - **[Survey / Book]** Douglas C. Ravenel. *Nilpotence and Periodicity in Stable Homotopy Theory.* Annals of Mathematics Studies 128, Princeton University Press, 1992.
 - **[Foundational]** Michael J. Hopkins. *Global methods in homotopy theory.* In: Homotopy Theory (Durham 1985), LMS Lecture Note Series 117, Cambridge University Press, 1987, 73–96.
-- **[Structural]** Paul Balmer. *The spectrum of prime ideals in tensor triangulated categories.* Journal für die reine und angewandte Mathematik 588 (2005), 149–168.
-- **[SOTA]** Paul Balmer, Beren Sanders. *The spectrum of the equivariant stable homotopy category of a finite group.* Inventiones Mathematicae 208 (2017), 283–326.
-- **[SOTA]** Akhil Mathew, Niko Naumann, Justin Noel. *Nilpotence and descent in equivariant stable homotopy theory.* Advances in Mathematics 305 (2017), 994–1084.
-- **[SOTA]** Tobias Barthel, J.P.C. Greenlees, Markus Hausmann. *On the Balmer spectrum for compact Lie groups.* Compositio Mathematica 156 (2020), 39–76.
-- **[Survey]** Tobias Barthel, Agnès Beaudry. *Chromatic structures in stable homotopy theory.* In: Handbook of Homotopy Theory, CRC Press, 2020.
+- **[Structural]** Paul Balmer. *The spectrum of prime ideals in tensor triangulated categories.* Journal für die reine und angewandte Mathematik 588 (2005), 149–168. [DOI](https://doi.org/10.1515/crll.2005.2005.588.149)
+- **[SOTA]** Paul Balmer, Beren Sanders. *The spectrum of the equivariant stable homotopy category of a finite group.* Inventiones Mathematicae 208 (2017), 283–326. [DOI](https://doi.org/10.1007/s00222-016-0691-3)
+- **[SOTA]** Akhil Mathew, Niko Naumann, Justin Noel. *Nilpotence and descent in equivariant stable homotopy theory.* Advances in Mathematics 305 (2017), 994–1084. [DOI](https://doi.org/10.1016/j.aim.2016.09.027)
+- **[SOTA]** Tobias Barthel, J.P.C. Greenlees, Markus Hausmann. *On the Balmer spectrum for compact Lie groups.* Compositio Mathematica 156 (2020), 39–76. [DOI](https://doi.org/10.1112/s0010437x19007656)
+- **[Survey]** Tobias Barthel, Agnès Beaudry. *Chromatic structures in stable homotopy theory.* In: Handbook of Homotopy Theory, CRC Press, 2020. [DOI](https://doi.org/10.1201/9781351251624-5)
 - **[Recent]** Robert Burklund, Tomer M. Schlank, Allen Yuan. *The Chromatic Nullstellensatz.* Annals of Mathematics, 2025 (arXiv:2207.09929).
 
 ## 10. Worked Example / Concrete Special Case

@@ -99,9 +99,9 @@ Leading mathematicians have outlined several strategic pathways for future resea
 ## 9. Key References
 
 - **[Foundational]** D. Eisenbud, M. Green, J. Harris. *Higher Castelnuovo Theory.* Astérisque, Volume 218, 1993, pp. 187-202.
-- **[Foundational]** G.F. Clements, B. Lindström. *A generalization of a combinatorial theorem of Macaulay.* Journal of Combinatorial Theory, Volume 7, Issue 3, 1969, pp. 230-238.
-- **[SOTA / Recent]** G. Caviglia, D. Maclagan. *Some cases of the Eisenbud-Green-Harris conjecture.* Mathematical Research Letters, Volume 15, Issue 3, 2008, pp. 427-433.
-- **[Survey]** S. Güntürkün. *A survey on the Eisenbud-Green-Harris conjecture.* In *Women in Commutative Algebra*, Association for Women in Mathematics Series, vol 29. Springer, 2021.
+- **[Foundational]** G.F. Clements, B. Lindström. *A generalization of a combinatorial theorem of Macaulay.* Journal of Combinatorial Theory, Volume 7, Issue 3, 1969, pp. 230-238. [DOI](https://doi.org/10.1016/s0021-9800(69)80016-5)
+- **[SOTA / Recent]** G. Caviglia, D. Maclagan. *Some cases of the Eisenbud-Green-Harris conjecture.* Mathematical Research Letters, Volume 15, Issue 3, 2008, pp. 427-433. [DOI](https://doi.org/10.4310/mrl.2008.v15.n3.a3)
+- **[Survey]** S. Güntürkün. *A survey on the Eisenbud-Green-Harris conjecture.* In *Women in Commutative Algebra*, Association for Women in Mathematics Series, vol 29. Springer, 2021. [DOI](https://doi.org/10.1007/978-3-030-91986-3_13)
 
 ## 10. Worked Example / Concrete Special Case
 

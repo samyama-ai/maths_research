@@ -105,19 +105,19 @@ for every closed $(M,\omega)$ (this is itself open, and would follow from semisi
 
 ## 9. Key References
 
-- **[Foundational]** H. Hofer. *On the topological properties of symplectic maps.* Proc. Roy. Soc. Edinburgh Sect. A **115** (1990), 25–38.
-- **[Foundational]** H. Hofer, E. Zehnder. *Symplectic Invariants and Hamiltonian Dynamics.* Birkhäuser, 1994.
+- **[Foundational]** H. Hofer. *On the topological properties of symplectic maps.* Proc. Roy. Soc. Edinburgh Sect. A **115** (1990), 25–38. [DOI](https://doi.org/10.1017/s0308210500024549)
+- **[Foundational]** H. Hofer, E. Zehnder. *Symplectic Invariants and Hamiltonian Dynamics.* Birkhäuser, 1994. [DOI](https://doi.org/10.1007/978-3-0348-8540-9)
 - **[Foundational]** F. Lalonde, D. McDuff. *The geometry of symplectic energy.* Annals of Mathematics **141** (1995), 349–371.
 - **[Key result]** L. Polterovich. *Hofer's diameter and Lagrangian intersections.* International Mathematics Research Notices **1998**, no. 4, 217–223.
-- **[Key result]** M. Schwarz. *On the action spectrum for closed symplectically aspherical manifolds.* Pacific Journal of Mathematics **193** (2000), 419–461.
+- **[Key result]** M. Schwarz. *On the action spectrum for closed symplectically aspherical manifolds.* Pacific Journal of Mathematics **193** (2000), 419–461. [DOI](https://doi.org/10.2140/pjm.2000.193.419)
 - **[Key result]** M. Entov, L. Polterovich. *Calabi quasimorphism and quantum homology.* International Mathematics Research Notices **2003**, no. 30, 1635–1676.
-- **[Key result]** Y. Ostrover. *A comparison of Hofer's metrics on Hamiltonian diffeomorphisms and Lagrangian submanifolds.* Communications in Contemporary Mathematics **5** (2003), 803–811.
-- **[SOTA]** M. Usher. *Hofer's metrics and boundary depth.* Annales Scientifiques de l'École Normale Supérieure **46** (2013), 57–128.
-- **[SOTA]** A. Kislev, E. Shelukhin. *Bounds on spectral norms and barcodes.* Geometry & Topology **25** (2021), 3257–3350.
-- **[SOTA]** D. Cristofaro-Gardiner, V. Humilière, S. Seyfaddini. *Proof of the simplicity conjecture.* Annals of Mathematics **199** (2024), 181–257.
+- **[Key result]** Y. Ostrover. *A comparison of Hofer's metrics on Hamiltonian diffeomorphisms and Lagrangian submanifolds.* Communications in Contemporary Mathematics **5** (2003), 803–811. [DOI](https://doi.org/10.1142/s0219199703001154)
+- **[SOTA]** M. Usher. *Hofer's metrics and boundary depth.* Annales Scientifiques de l'École Normale Supérieure **46** (2013), 57–128. [DOI](https://doi.org/10.24033/asens.2185)
+- **[SOTA]** A. Kislev, E. Shelukhin. *Bounds on spectral norms and barcodes.* Geometry & Topology **25** (2021), 3257–3350. [DOI](https://doi.org/10.2140/gt.2021.25.3257)
+- **[SOTA]** D. Cristofaro-Gardiner, V. Humilière, S. Seyfaddini. *Proof of the simplicity conjecture.* Annals of Mathematics **199** (2024), 181–257. [DOI](https://doi.org/10.4007/annals.2024.199.1.3)
 - **[Survey]** L. Polterovich. *The Geometry of the Group of Symplectic Diffeomorphisms.* Lectures in Mathematics ETH Zürich, Birkhäuser, 2001.
 - **[Survey]** Y. Ostrover. *When symplectic topology meets Banach space geometry.* Proceedings of the ICM, Seoul, 2014.
-- **[Background]** Y.-G. Oh. *Spectral invariants and the length minimizing property of Hamiltonian paths.* Asian Journal of Mathematics **9** (2005), 1–18.
+- **[Background]** Y.-G. Oh. *Spectral invariants and the length minimizing property of Hamiltonian paths.* Asian Journal of Mathematics **9** (2005), 1–18. [DOI](https://doi.org/10.4310/ajm.2005.v9.n1.a1)
 
 ## 10. Worked Example / Concrete Special Case
 

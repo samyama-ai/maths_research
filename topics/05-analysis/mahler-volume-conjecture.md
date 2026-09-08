@@ -111,16 +111,16 @@ The exact missing step: **an inductive or variational mechanism that reduces a g
 - **[Foundational]** L. A. Santaló. *Un invariante afín para los cuerpos convexos del espacio de $n$ dimensiones.* Portugaliae Mathematica 8 (1949), 155–161.
 - **[Foundational]** J. Saint-Raymond. *Sur le volume des corps convexes symétriques.* Séminaire d'Initiation à l'Analyse (Choquet), 1980/81, Univ. Paris VI.
 - **[Foundational]** M. Meyer. *Une caractérisation volumique de certains espaces normés de dimension finie.* Israel J. Math. 55 (1986), 317–326.
-- **[Foundational]** S. Reisner. *Zonoids with minimal volume-product.* Math. Zeitschrift 192 (1986), 339–346.
-- **[Foundational]** J. Bourgain, V. Milman. *New volume ratio properties for convex symmetric bodies in $\mathbb{R}^n$.* Inventiones Math. 88 (1987), 319–340.
+- **[Foundational]** S. Reisner. *Zonoids with minimal volume-product.* Math. Zeitschrift 192 (1986), 339–346. [DOI](https://doi.org/10.1007/bf01164009)
+- **[Foundational]** J. Bourgain, V. Milman. *New volume ratio properties for convex symmetric bodies in $\mathbb{R}^n$.* Inventiones Math. 88 (1987), 319–340. [DOI](https://doi.org/10.1007/bf01388911)
 - **[Foundational]** M. Meyer, A. Pajor. *On the Blaschke–Santaló inequality.* Archiv der Mathematik 55 (1990), 82–93.
-- **[SOTA]** G. Kuperberg. *From the Mahler conjecture to Gauss linking integrals.* Geometric and Functional Analysis 18 (2008), 870–892.
-- **[SOTA]** F. Nazarov, F. Petrov, D. Ryabogin, A. Zvavitch. *A remark on the Mahler conjecture: local minimality of the unit cube.* Duke Math. J. 154 (2010), 419–430.
-- **[SOTA]** F. Nazarov. *The Hörmander proof of the Bourgain–Milman theorem.* Geometric Aspects of Functional Analysis, Lecture Notes in Math. 2050, Springer (2012), 335–343.
-- **[SOTA]** S. Artstein-Avidan, R. Karasev, Y. Ostrover. *From symplectic measurements to the Mahler conjecture.* Duke Math. J. 163 (2014), 2003–2022.
-- **[SOTA]** J. Kim. *Minimal volume product near Hanner polytopes.* J. Functional Analysis 266 (2014), 2360–2402.
-- **[SOTA]** H. Iriyeh, M. Shibata. *Symmetric Mahler's conjecture for the volume product in the three-dimensional case.* Duke Math. J. 169 (2020), 1077–1134.
-- **[SOTA]** M. Fradelizi, A. Hubard, M. Meyer, E. Roldán-Pensado, A. Zvavitch. *Equipartitions and Mahler volumes of symmetric convex bodies.* American J. Math. 144 (2022), 1201–1219.
+- **[SOTA]** G. Kuperberg. *From the Mahler conjecture to Gauss linking integrals.* Geometric and Functional Analysis 18 (2008), 870–892. [DOI](https://doi.org/10.1007/s00039-008-0669-4)
+- **[SOTA]** F. Nazarov, F. Petrov, D. Ryabogin, A. Zvavitch. *A remark on the Mahler conjecture: local minimality of the unit cube.* Duke Math. J. 154 (2010), 419–430. [DOI](https://doi.org/10.1215/00127094-2010-042)
+- **[SOTA]** F. Nazarov. *The Hörmander proof of the Bourgain–Milman theorem.* Geometric Aspects of Functional Analysis, Lecture Notes in Math. 2050, Springer (2012), 335–343. [DOI](https://doi.org/10.1007/978-3-642-29849-3_20)
+- **[SOTA]** S. Artstein-Avidan, R. Karasev, Y. Ostrover. *From symplectic measurements to the Mahler conjecture.* Duke Math. J. 163 (2014), 2003–2022. [DOI](https://doi.org/10.1215/00127094-2794999)
+- **[SOTA]** J. Kim. *Minimal volume product near Hanner polytopes.* J. Functional Analysis 266 (2014), 2360–2402. [DOI](https://doi.org/10.1016/j.jfa.2013.08.008)
+- **[SOTA]** H. Iriyeh, M. Shibata. *Symmetric Mahler's conjecture for the volume product in the three-dimensional case.* Duke Math. J. 169 (2020), 1077–1134. [DOI](https://doi.org/10.1215/00127094-2019-0072)
+- **[SOTA]** M. Fradelizi, A. Hubard, M. Meyer, E. Roldán-Pensado, A. Zvavitch. *Equipartitions and Mahler volumes of symmetric convex bodies.* American J. Math. 144 (2022), 1201–1219. [DOI](https://doi.org/10.1353/ajm.2022.0027)
 - **[SOTA]** P. Haim-Kislev, Y. Ostrover. *A counterexample to Viterbo's conjecture.* arXiv:2405.16513 (2024).
 - **[Survey]** M. Fradelizi, M. Meyer, A. Zvavitch. *Volume product.* In: Harmonic Analysis and Convexity (A. Koldobsky, A. Volberg, eds.), De Gruyter, 2023.
 - **[Survey]** M. A. Lopez, S. Reisner. *A special case of Mahler's conjecture.* Discrete & Computational Geometry 20 (1998), 163–177.

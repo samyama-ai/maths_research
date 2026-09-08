@@ -98,10 +98,10 @@ Leading analytic number theorists have outlined potential long-term strategies f
 
 ## 9. Key References
 
-- **[Foundational]** Cramér, H. *On the order of magnitude of the difference between consecutive prime numbers.* Acta Arithmetica, 2(1), 23-46, 1936.
-- **[SOTA / Recent]** Baker, R. C., Harman, G., & Pintz, J. *The difference between consecutive primes, II.* Proceedings of the London Mathematical Society, 83(3), 532-562, 2001.
+- **[Foundational]** Cramér, H. *On the order of magnitude of the difference between consecutive prime numbers.* Acta Arithmetica, 2(1), 23-46, 1936. [DOI](https://doi.org/10.4064/aa-2-1-23-46)
+- **[SOTA / Recent]** Baker, R. C., Harman, G., & Pintz, J. *The difference between consecutive primes, II.* Proceedings of the London Mathematical Society, 83(3), 532-562, 2001. [DOI](https://doi.org/10.1112/plms/83.3.532)
 - **[SOTA / Recent]** Ford, K., Green, B., Konyagin, S., Maynard, J., & Tao, T. *Long gaps between primes.* Journal of the American Mathematical Society, 29(1), 73-111, 2014.
-- **[Survey]** Granville, A. *Harald Cramér and the distribution of prime numbers.* Scandinavian Actuarial Journal, 1995(1), 12-28, 1995.
+- **[Survey]** Granville, A. *Harald Cramér and the distribution of prime numbers.* Scandinavian Actuarial Journal, 1995(1), 12-28, 1995. [DOI](https://doi.org/10.1080/03461238.1995.10413946)
 - **[Survey]** Soundararajan, K. *Small gaps between prime numbers: The work of Goldston-Pintz-Yıldırım.* Bulletin of the American Mathematical Society, 44(1), 1-18, 2007.
 
 ## 10. Worked Example / Concrete Special Case

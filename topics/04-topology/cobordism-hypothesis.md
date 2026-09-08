@@ -115,17 +115,17 @@ What is proved: the framed and $G$-structured statements for all $n$ (Ayala–Fr
 
 ## 9. Key References
 
-- **[Foundational]** J. Baez, J. Dolan. *Higher-dimensional algebra and topological quantum field theory.* Journal of Mathematical Physics **36** (1995), 6073–6105.
+- **[Foundational]** J. Baez, J. Dolan. *Higher-dimensional algebra and topological quantum field theory.* Journal of Mathematical Physics **36** (1995), 6073–6105. [DOI](https://doi.org/10.1063/1.531236)
 - **[Foundational]** M. Atiyah. *Topological quantum field theories.* Publications Mathématiques de l'IHÉS **68** (1988), 175–186.
-- **[Foundational / SOTA]** J. Lurie. *On the classification of topological field theories.* Current Developments in Mathematics 2008, International Press, 2009, 129–280.
+- **[Foundational / SOTA]** J. Lurie. *On the classification of topological field theories.* Current Developments in Mathematics 2008, International Press, 2009, 129–280. [DOI](https://doi.org/10.4310/cdm.2008.v2008.n1.a3)
 - **[SOTA]** D. Ayala, J. Francis. *The cobordism hypothesis.* arXiv:1705.02240, 2017.
 - **[SOTA]** D. Grady, D. Pavlov. *The geometric cobordism hypothesis.* arXiv:2111.01095, 2021.
 - **[Verified case, $n=2$]** C. Schommer-Pries. *The Classification of Two-Dimensional Extended Topological Field Theories.* PhD thesis, UC Berkeley, 2009; arXiv:1112.1000.
 - **[Verified case, $n=3$]** C. Douglas, C. Schommer-Pries, N. Snyder. *Dualizable Tensor Categories.* Memoirs of the American Mathematical Society **268**, no. 1308, 2020.
-- **[Related]** S. Galatius, I. Madsen, U. Tillmann, M. Weiss. *The homotopy type of the cobordism category.* Acta Mathematica **202** (2009), 195–239.
-- **[Model]** D. Calaque, C. Scheimbauer. *A note on the $(\infty,n)$-category of cobordisms.* Algebraic & Geometric Topology **19** (2019), 533–655.
+- **[Related]** S. Galatius, I. Madsen, U. Tillmann, M. Weiss. *The homotopy type of the cobordism category.* Acta Mathematica **202** (2009), 195–239. [DOI](https://doi.org/10.1007/s11511-009-0036-9)
+- **[Model]** D. Calaque, C. Scheimbauer. *A note on the $(\infty,n)$-category of cobordisms.* Algebraic & Geometric Topology **19** (2019), 533–655. [DOI](https://doi.org/10.2140/agt.2019.19.533)
 - **[Survey]** L. Abrams. *Two-dimensional topological quantum field theories and Frobenius algebras.* Journal of Knot Theory and Its Ramifications **5** (1996), 569–587.
-- **[Survey]** J. Kock. *Frobenius Algebras and 2D Topological Quantum Field Theories.* Cambridge University Press, 2004.
+- **[Survey]** J. Kock. *Frobenius Algebras and 2D Topological Quantum Field Theories.* Cambridge University Press, 2004. [DOI](https://doi.org/10.1017/cbo9780511615443)
 
 ## 10. Worked Example / Concrete Special Case
 

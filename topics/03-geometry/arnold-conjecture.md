@@ -110,18 +110,18 @@ Two gaps remain.
 
 - **[Foundational]** V. I. Arnold. *Sur une propriété topologique des applications globalement canoniques de la mécanique classique.* C. R. Acad. Sci. Paris **261** (1965), 3719–3722.
 - **[Foundational]** V. I. Arnold. *Mathematical Methods of Classical Mechanics.* Springer, 1978 (Appendix 9).
-- **[Foundational]** C. Conley, E. Zehnder. *The Birkhoff–Lewis fixed point theorem and a conjecture of V. I. Arnold.* Inventiones Mathematicae **73** (1983), 33–49.
-- **[Foundational]** M. Gromov. *Pseudo holomorphic curves in symplectic manifolds.* Inventiones Mathematicae **82** (1985), 307–347.
-- **[Foundational]** A. Floer. *Symplectic fixed points and holomorphic spheres.* Communications in Mathematical Physics **120** (1989), 575–611.
-- **[Foundational]** A. Floer. *Morse theory for Lagrangian intersections.* Journal of Differential Geometry **28** (1988), 513–547.
-- **[SOTA]** K. Ono. *On the Arnold conjecture for weakly monotone symplectic manifolds.* Inventiones Mathematicae **119** (1995), 519–537.
-- **[SOTA]** K. Fukaya, K. Ono. *Arnold conjecture and Gromov–Witten invariant.* Topology **38** (1999), 933–1048.
-- **[SOTA]** G. Liu, G. Tian. *Floer homology and Arnold conjecture.* Journal of Differential Geometry **49** (1998), 1–74.
-- **[SOTA]** J. Pardon. *An algebraic approach to virtual fundamental cycles on moduli spaces of pseudo-holomorphic curves.* Geometry & Topology **20** (2016), 779–1034.
+- **[Foundational]** C. Conley, E. Zehnder. *The Birkhoff–Lewis fixed point theorem and a conjecture of V. I. Arnold.* Inventiones Mathematicae **73** (1983), 33–49. [DOI](https://doi.org/10.1007/bf01393824)
+- **[Foundational]** M. Gromov. *Pseudo holomorphic curves in symplectic manifolds.* Inventiones Mathematicae **82** (1985), 307–347. [DOI](https://doi.org/10.1007/bf01388806)
+- **[Foundational]** A. Floer. *Symplectic fixed points and holomorphic spheres.* Communications in Mathematical Physics **120** (1989), 575–611. [DOI](https://doi.org/10.1007/bf01260388)
+- **[Foundational]** A. Floer. *Morse theory for Lagrangian intersections.* Journal of Differential Geometry **28** (1988), 513–547. [DOI](https://doi.org/10.4310/jdg/1214442477)
+- **[SOTA]** K. Ono. *On the Arnold conjecture for weakly monotone symplectic manifolds.* Inventiones Mathematicae **119** (1995), 519–537. [DOI](https://doi.org/10.1007/bf01245191)
+- **[SOTA]** K. Fukaya, K. Ono. *Arnold conjecture and Gromov–Witten invariant.* Topology **38** (1999), 933–1048. [DOI](https://doi.org/10.1016/s0040-9383(98)00042-1)
+- **[SOTA]** G. Liu, G. Tian. *Floer homology and Arnold conjecture.* Journal of Differential Geometry **49** (1998), 1–74. [DOI](https://doi.org/10.4310/jdg/1214460936)
+- **[SOTA]** J. Pardon. *An algebraic approach to virtual fundamental cycles on moduli spaces of pseudo-holomorphic curves.* Geometry & Topology **20** (2016), 779–1034. [DOI](https://doi.org/10.2140/gt.2016.20.779)
 - **[SOTA / Recent]** M. Abouzaid, A. J. Blumberg. *Arnold Conjecture and Morava K-theory.* arXiv:2103.01507, 2021.
 - **[SOTA / Recent]** S. Bai, G. Xu. *Arnold conjecture over integers.* arXiv:2209.08599, 2022.
-- **[SOTA / Recent]** L. Buhovsky, V. Humilière, S. Seyfaddini. *A $C^0$ counterexample to the Arnold conjecture.* Inventiones Mathematicae **213** (2018), 759–809.
-- **[Related]** Y. Rudyak, J. Oprea. *On the Lusternik–Schnirelmann category of symplectic manifolds and the Arnold conjecture.* Mathematische Zeitschrift **230** (1999), 673–678.
+- **[SOTA / Recent]** L. Buhovsky, V. Humilière, S. Seyfaddini. *A $C^0$ counterexample to the Arnold conjecture.* Inventiones Mathematicae **213** (2018), 759–809. [DOI](https://doi.org/10.1007/s00222-018-0797-x)
+- **[Related]** Y. Rudyak, J. Oprea. *On the Lusternik–Schnirelmann category of symplectic manifolds and the Arnold conjecture.* Mathematische Zeitschrift **230** (1999), 673–678. [DOI](https://doi.org/10.1007/pl00004709)
 - **[Survey]** D. McDuff, D. Salamon. *J-holomorphic Curves and Symplectic Topology.* AMS Colloquium Publications 52, 2nd ed., 2012.
 - **[Survey]** D. Salamon. *Lectures on Floer homology.* In *Symplectic Geometry and Topology*, IAS/Park City Mathematics Series 7, AMS, 1999.
 - **[Survey]** H. Hofer, K. Wysocki, E. Zehnder. *Polyfold and Fredholm Theory.* Ergebnisse der Mathematik, Springer, 2021.

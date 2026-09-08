@@ -127,14 +127,14 @@ which is nonempty and grows linearly. The exact missing step is an obstruction w
 
 - **[Foundational]** V. A. Rokhlin. *New results in the theory of four-dimensional manifolds.* Doklady Akad. Nauk SSSR **84** (1952), 221–224.
 - **[Foundational]** M. H. Freedman. *The topology of four-dimensional manifolds.* Journal of Differential Geometry **17** (1982), 357–453.
-- **[Foundational]** S. K. Donaldson. *An application of gauge theory to four-dimensional topology.* Journal of Differential Geometry **18** (1983), 279–315.
+- **[Foundational]** S. K. Donaldson. *An application of gauge theory to four-dimensional topology.* Journal of Differential Geometry **18** (1983), 279–315. [DOI](https://doi.org/10.4310/jdg/1214437665)
 - **[Foundational]** M. Furuta. *Monopole equation and the $11/8$-conjecture.* Mathematical Research Letters **8** (2001), 279–291.
-- **[Foundational]** S. Bauer, M. Furuta. *A stable cohomotopy refinement of Seiberg–Witten invariants: I.* Inventiones Mathematicae **155** (2004), 1–19.
-- **[Foundational]** S. Bauer. *A stable cohomotopy refinement of Seiberg–Witten invariants: II.* Inventiones Mathematicae **155** (2004), 21–40.
-- **[SOTA / Recent]** M. J. Hopkins, J. Lin, X. D. Shi, Z. Xu. *Intersection forms of spin four-manifolds and the $Pin(2)$-equivariant Mahowald invariant.* Transactions of the American Mathematical Society **375** (2022).
-- **[SOTA / Recent]** J. Lin. *$Pin(2)$-equivariant $KO$-theory and intersection forms of spin 4-manifolds.* Algebraic & Geometric Topology **15** (2015), 863–902.
-- **[SOTA / Recent]** N. Nakamura. *$Pin(2)$-monopole equations and intersection forms with local coefficients of four-manifolds.* Mathematische Annalen **357** (2013), 915–939.
-- **[SOTA / Recent]** C. Manolescu. *$Pin(2)$-equivariant Seiberg–Witten Floer homology and the triangulation conjecture.* Journal of the American Mathematical Society **29** (2016), 147–176.
+- **[Foundational]** S. Bauer, M. Furuta. *A stable cohomotopy refinement of Seiberg–Witten invariants: I.* Inventiones Mathematicae **155** (2004), 1–19. [DOI](https://doi.org/10.1007/s00222-003-0288-5)
+- **[Foundational]** S. Bauer. *A stable cohomotopy refinement of Seiberg–Witten invariants: II.* Inventiones Mathematicae **155** (2004), 21–40. [DOI](https://doi.org/10.1007/s00222-003-0289-4)
+- **[SOTA / Recent]** M. J. Hopkins, J. Lin, X. D. Shi, Z. Xu. *Intersection forms of spin four-manifolds and the $Pin(2)$-equivariant Mahowald invariant.* Transactions of the American Mathematical Society **375** (2022). [DOI](https://doi.org/10.1090/cams/4)
+- **[SOTA / Recent]** J. Lin. *$Pin(2)$-equivariant $KO$-theory and intersection forms of spin 4-manifolds.* Algebraic & Geometric Topology **15** (2015), 863–902. [DOI](https://doi.org/10.2140/agt.2015.15.863)
+- **[SOTA / Recent]** N. Nakamura. *$Pin(2)$-monopole equations and intersection forms with local coefficients of four-manifolds.* Mathematische Annalen **357** (2013), 915–939. [DOI](https://doi.org/10.1007/s00208-013-0924-3)
+- **[SOTA / Recent]** C. Manolescu. *$Pin(2)$-equivariant Seiberg–Witten Floer homology and the triangulation conjecture.* Journal of the American Mathematical Society **29** (2016), 147–176. [DOI](https://doi.org/10.1090/jams829)
 - **[Survey]** R. E. Gompf, A. I. Stipsicz. *4-Manifolds and Kirby Calculus.* Graduate Studies in Mathematics 20, American Mathematical Society, 1999.
 - **[Survey]** A. Scorpan. *The Wild World of 4-Manifolds.* American Mathematical Society, 2005.
 

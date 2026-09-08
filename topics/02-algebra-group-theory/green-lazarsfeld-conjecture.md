@@ -107,18 +107,18 @@ Every current proof supplies this only after either (a) fixing $p=0$, where a di
 
 ## 9. Key References
 
-- **[Foundational]** Mark L. Green. *Koszul cohomology and the geometry of projective varieties.* Journal of Differential Geometry **19** (1984), 125–171. (Appendix by M. Green and R. Lazarsfeld, pp. 168–171.)
-- **[Foundational]** Mark Green and Robert Lazarsfeld. *On the projective normality of complete linear series on an algebraic curve.* Inventiones Mathematicae **83** (1986), 73–90.
-- **[Foundational]** Frank-Olaf Schreyer. *Syzygies of canonical curves and special linear series.* Mathematische Annalen **275** (1986), 105–137.
-- **[SOTA]** Gavril Farkas and Michael Kemeny. *The generic Green–Lazarsfeld Secant Conjecture.* Inventiones Mathematicae **203** (2016), 265–301.
-- **[SOTA]** Michael Kemeny. *The extremal secant conjecture for curves of arbitrary gonality.* Compositio Mathematica **153** (2017), 347–357.
-- **[SOTA]** Lawrence Ein and Robert Lazarsfeld. *The gonality conjecture on syzygies of algebraic curves of large degree.* Publications Mathématiques de l'IHÉS **122** (2015), 301–313.
-- **[SOTA]** Gavril Farkas and Michael Kemeny. *Linear syzygies of curves with prescribed gonality.* Advances in Mathematics **356** (2019), 106810.
-- **[Related]** Claire Voisin. *Green's generic syzygy conjecture for curves of even genus lying on a K3 surface.* Journal of the European Mathematical Society **4** (2002), 363–404.
-- **[Related]** Claire Voisin. *Green's canonical syzygy conjecture for generic curves of odd genus.* Compositio Mathematica **141** (2005), 1163–1190.
-- **[Related]** Marian Aprodu. *Remarks on syzygies of d-gonal curves.* Mathematical Research Letters **12** (2005), 387–400.
-- **[Survey]** Marian Aprodu and Jan Nagel. *Koszul Cohomology and Algebraic Geometry.* University Lecture Series 52, American Mathematical Society, 2010.
-- **[Survey]** David Eisenbud. *The Geometry of Syzygies.* Graduate Texts in Mathematics 229, Springer, 2005.
+- **[Foundational]** Mark L. Green. *Koszul cohomology and the geometry of projective varieties.* Journal of Differential Geometry **19** (1984), 125–171. (Appendix by M. Green and R. Lazarsfeld, pp. 168–171.). [DOI](https://doi.org/10.4310/jdg/1214438426)
+- **[Foundational]** Mark Green and Robert Lazarsfeld. *On the projective normality of complete linear series on an algebraic curve.* Inventiones Mathematicae **83** (1986), 73–90. [DOI](https://doi.org/10.1007/bf01388754)
+- **[Foundational]** Frank-Olaf Schreyer. *Syzygies of canonical curves and special linear series.* Mathematische Annalen **275** (1986), 105–137. [DOI](https://doi.org/10.1007/bf01458587)
+- **[SOTA]** Gavril Farkas and Michael Kemeny. *The generic Green–Lazarsfeld Secant Conjecture.* Inventiones Mathematicae **203** (2016), 265–301. [DOI](https://doi.org/10.1007/s00222-015-0595-7)
+- **[SOTA]** Michael Kemeny. *The extremal secant conjecture for curves of arbitrary gonality.* Compositio Mathematica **153** (2017), 347–357. [DOI](https://doi.org/10.1112/s0010437x16008198)
+- **[SOTA]** Lawrence Ein and Robert Lazarsfeld. *The gonality conjecture on syzygies of algebraic curves of large degree.* Publications Mathématiques de l'IHÉS **122** (2015), 301–313. [DOI](https://doi.org/10.1007/s10240-015-0072-2)
+- **[SOTA]** Gavril Farkas and Michael Kemeny. *Linear syzygies of curves with prescribed gonality.* Advances in Mathematics **356** (2019), 106810. [DOI](https://doi.org/10.1016/j.aim.2019.106810)
+- **[Related]** Claire Voisin. *Green's generic syzygy conjecture for curves of even genus lying on a K3 surface.* Journal of the European Mathematical Society **4** (2002), 363–404. [DOI](https://doi.org/10.1007/s100970200042)
+- **[Related]** Claire Voisin. *Green's canonical syzygy conjecture for generic curves of odd genus.* Compositio Mathematica **141** (2005), 1163–1190. [DOI](https://doi.org/10.1112/s0010437x05001387)
+- **[Related]** Marian Aprodu. *Remarks on syzygies of d-gonal curves.* Mathematical Research Letters **12** (2005), 387–400. [DOI](https://doi.org/10.4310/mrl.2005.v12.n3.a9)
+- **[Survey]** Marian Aprodu and Jan Nagel. *Koszul Cohomology and Algebraic Geometry.* University Lecture Series 52, American Mathematical Society, 2010. [DOI](https://doi.org/10.1090/ulect/052)
+- **[Survey]** David Eisenbud. *The Geometry of Syzygies.* Graduate Texts in Mathematics 229, Springer, 2005. [DOI](https://doi.org/10.1007/b137572)
 - **[Computational]** Christian Bopp and Frank-Olaf Schreyer. *A version of Green's conjecture in positive characteristic.* Experimental Mathematics **30** (2021).
 
 ## 10. Worked Example / Concrete Special Case

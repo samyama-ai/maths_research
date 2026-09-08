@@ -103,19 +103,19 @@ has cokernel with trivial $\Gamma$-coinvariants in even eigenspaces — equivale
 
 ## 9. Key References
 
-- **[Foundational]** E. E. Kummer. *Über die Zerlegung der aus Wurzeln der Einheit gebildeten complexen Zahlen in ihre Primfactoren.* J. reine angew. Math. 35 (1847), 327–367.
-- **[Foundational]** H. S. Vandiver. *Fermat's last theorem: its history and the nature of the known results concerning it.* American Mathematical Monthly 53 (1946), 555–578.
+- **[Foundational]** E. E. Kummer. *Über die Zerlegung der aus Wurzeln der Einheit gebildeten complexen Zahlen in ihre Primfactoren.* J. reine angew. Math. 35 (1847), 327–367. [DOI](https://doi.org/10.1515/crll.1847.35.327)
+- **[Foundational]** H. S. Vandiver. *Fermat's last theorem: its history and the nature of the known results concerning it.* American Mathematical Monthly 53 (1946), 555–578. [DOI](https://doi.org/10.1080/00029890.1946.11991754)
 - **[Foundational]** H. S. Vandiver, D. H. Lehmer, E. Lehmer. *An application of high-speed computing to Fermat's last theorem.* Proc. Nat. Acad. Sci. USA 40 (1954), 25–33.
 - **[Textbook]** L. C. Washington. *Introduction to Cyclotomic Fields.* 2nd ed., Graduate Texts in Mathematics 83, Springer, 1997. (Chapters 8, 10, 13; Washington's heuristic on counterexample density.)
-- **[Foundational]** B. Ferrero, L. C. Washington. *The Iwasawa invariant $\mu_p$ vanishes for abelian number fields.* Annals of Mathematics 109 (1979), 377–395.
+- **[Foundational]** B. Ferrero, L. C. Washington. *The Iwasawa invariant $\mu_p$ vanishes for abelian number fields.* Annals of Mathematics 109 (1979), 377–395. [DOI](https://doi.org/10.2307/1971116)
 - **[Foundational]** K. Ribet. *A modular construction of unramified $p$-extensions of $\mathbb{Q}(\mu_p)$.* Inventiones Mathematicae 34 (1976), 151–162.
-- **[Foundational]** B. Mazur, A. Wiles. *Class fields of abelian extensions of $\mathbb{Q}$.* Inventiones Mathematicae 76 (1984), 179–330.
+- **[Foundational]** B. Mazur, A. Wiles. *Class fields of abelian extensions of $\mathbb{Q}$.* Inventiones Mathematicae 76 (1984), 179–330. [DOI](https://doi.org/10.1007/bf01388599)
 - **[Structural]** M. Kurihara. *Some remarks on conjectures about cyclotomic fields and K-groups of $\mathbb{Z}$.* Compositio Mathematica 81 (1992), 223–236.
-- **[Computational]** J. Buhler, R. Crandall, R. Ernvall, T. Metsänkylä, M. A. Shokrollahi. *Irregular primes and cyclotomic invariants to 12 million.* Journal of Symbolic Computation 31 (2001), 89–96.
-- **[Computational]** J. Buhler, D. Harvey. *Irregular primes to 163 million.* Mathematics of Computation 80 (2011), 2435–2444.
-- **[SOTA / Recent]** W. Hart, D. Harvey, W. Ong. *Irregular primes to two billion.* Mathematics of Computation 86 (2017), 3031–3049.
-- **[Computational]** R. Schoof. *Class numbers of real cyclotomic fields of prime conductor.* Mathematics of Computation 72 (2003), 913–937.
-- **[Survey]** C. Weibel. *Algebraic K-theory of rings of integers in local and global fields.* In: Handbook of K-Theory, Springer, 2005.
+- **[Computational]** J. Buhler, R. Crandall, R. Ernvall, T. Metsänkylä, M. A. Shokrollahi. *Irregular primes and cyclotomic invariants to 12 million.* Journal of Symbolic Computation 31 (2001), 89–96. [DOI](https://doi.org/10.1006/jsco.1999.1011)
+- **[Computational]** J. Buhler, D. Harvey. *Irregular primes to 163 million.* Mathematics of Computation 80 (2011), 2435–2444. [DOI](https://doi.org/10.1090/s0025-5718-2011-02461-0)
+- **[SOTA / Recent]** W. Hart, D. Harvey, W. Ong. *Irregular primes to two billion.* Mathematics of Computation 86 (2017), 3031–3049. [DOI](https://doi.org/10.1090/mcom/3211)
+- **[Computational]** R. Schoof. *Class numbers of real cyclotomic fields of prime conductor.* Mathematics of Computation 72 (2003), 913–937. [DOI](https://doi.org/10.1090/s0025-5718-02-01432-1)
+- **[Survey]** C. Weibel. *Algebraic K-theory of rings of integers in local and global fields.* In: Handbook of K-Theory, Springer, 2005. [DOI](https://doi.org/10.1007/978-3-540-27855-9_5)
 
 ## 10. Worked Example / Concrete Special Case
 

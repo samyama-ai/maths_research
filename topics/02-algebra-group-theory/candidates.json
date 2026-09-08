@@ -802,5 +802,185 @@
     "slug": "james-conjecture",
     "status": "solved-recently",
     "description": "Describes decomposition matrices for symmetric groups at sufficiently large prime characteristics."
+  },
+  {
+    "title": "Ore's Conjecture on Commutators in Infinite Simple Groups",
+    "slug": "commutator-width-of-simple-groups",
+    "status": "open",
+    "description": "Commutator width bounds for infinite simple groups remain unknown"
+  },
+  {
+    "title": "Wiegold's Problem on Finite Simple Group Generation Growth",
+    "slug": "product-decomposition-conjecture",
+    "status": "partially-solved",
+    "description": "Every finite simple group is a bounded product of subgroup conjugates"
+  },
+  {
+    "title": "Guralnick-Thompson Conjecture on Monodromy Groups",
+    "slug": "guralnick-thompson-conjecture",
+    "status": "solved-recently",
+    "description": "Genus zero covers admit only restricted composition factor types"
+  },
+  {
+    "title": "Babai's Conjecture on Diameters of Cayley Graphs",
+    "slug": "babai-conjecture-on-cayley-graph-diameter",
+    "status": "open",
+    "description": "Simple group Cayley graphs have polylogarithmic diameter bounds"
+  },
+  {
+    "title": "Restricted Burnside Problem for Nonassociative Analogues",
+    "slug": "restricted-burnside-for-engel-lie-rings",
+    "status": "open",
+    "description": "Local nilpotency of Engel Lie rings without solvability assumptions"
+  },
+  {
+    "title": "Higman's PORC Conjecture",
+    "slug": "higman-porc-conjecture",
+    "status": "open",
+    "description": "Number of p-groups of fixed order is polynomial on residue classes"
+  },
+  {
+    "title": "Coclass Conjectures for Pro-p Groups",
+    "slug": "coclass-conjectures",
+    "status": "solved-recently",
+    "description": "Structure of finite p-groups organized by coclass invariant"
+  },
+  {
+    "title": "Modular Isomorphism Problem",
+    "slug": "modular-isomorphism-problem",
+    "status": "solved-recently",
+    "description": "Do modular group algebras determine finite p-groups"
+  },
+  {
+    "title": "Brauer's Height Zero Conjecture",
+    "slug": "brauer-height-zero-conjecture",
+    "status": "solved-recently",
+    "description": "Abelian defect groups correspond to blocks of height zero characters"
+  },
+  {
+    "title": "Brauer's k(B) Conjecture",
+    "slug": "brauer-k-b-conjecture",
+    "status": "open",
+    "description": "Block character count bounded by defect group order"
+  },
+  {
+    "title": "Alperin-McKay Conjecture",
+    "slug": "alperin-mckay-conjecture",
+    "status": "partially-solved",
+    "description": "Height zero characters counted equally in block and normalizer"
+  },
+  {
+    "title": "Navarro's Galois-McKay Conjecture",
+    "slug": "navarro-galois-mckay-conjecture",
+    "status": "partially-solved",
+    "description": "Galois-equivariant refinement of the McKay counting bijection"
+  },
+  {
+    "title": "Feit's Conjecture on Character Field Degrees",
+    "slug": "feits-conjecture-on-character-fields",
+    "status": "open",
+    "description": "Character field conductors bounded by element orders"
+  },
+  {
+    "title": "Gluck's Conjecture on Class Sizes and Fitting Subgroups",
+    "slug": "glucks-conjecture",
+    "status": "open",
+    "description": "Solvable group index bounded by largest character degree squared"
+  },
+  {
+    "title": "Huppert's rho-sigma Conjecture",
+    "slug": "huppert-rho-sigma-conjecture",
+    "status": "open",
+    "description": "Primes dividing character degrees bounded by degree divisibility"
+  },
+  {
+    "title": "Huppert's Conjecture on Character Degree Sets",
+    "slug": "hupperts-conjecture-on-character-degrees",
+    "status": "partially-solved",
+    "description": "Character degree set determines simple group up to abelian factors"
+  },
+  {
+    "title": "Thompson's Conjecture on Conjugacy Class Sizes",
+    "slug": "thompsons-conjecture-on-conjugacy-classes",
+    "status": "partially-solved",
+    "description": "Class sizes determine simple groups among trivial center groups"
+  },
+  {
+    "title": "Berkovich-Zhmud Problem on Nonvanishing Elements",
+    "slug": "nonvanishing-elements-conjecture",
+    "status": "open",
+    "description": "Nonvanishing elements lie in the Fitting subgroup"
+  },
+  {
+    "title": "Conjecture on p-Rationality and Character Degrees",
+    "slug": "navarro-tiep-p-rationality-conjecture",
+    "status": "partially-solved",
+    "description": "Rational character existence forces restricted prime structure"
+  },
+  {
+    "title": "Bogomolov Multiplier Vanishing Problem",
+    "slug": "bogomolov-multiplier-problem",
+    "status": "open",
+    "description": "Which finite groups have nontrivial unramified Brauer obstruction"
+  },
+  {
+    "title": "Noether's Rationality Problem for Finite Groups",
+    "slug": "noethers-rationality-problem",
+    "status": "partially-solved",
+    "description": "Is the invariant field of a permutation action rational"
+  },
+  {
+    "title": "Degree Bound Conjecture for Modular Invariant Rings",
+    "slug": "noether-bound-in-modular-invariant-theory",
+    "status": "open",
+    "description": "Generator degree bounds for invariants in modular characteristic"
+  },
+  {
+    "title": "Wehrfritz-Zalesskii Problem on Linearity of Automorphism Groups",
+    "slug": "linearity-of-automorphism-groups-of-free-groups",
+    "status": "open",
+    "description": "Is the automorphism group of a free group linear"
+  },
+  {
+    "title": "Ivanov's Conjecture on Mapping Class Group Rigidity",
+    "slug": "ivanov-metaconjecture",
+    "status": "partially-solved",
+    "description": "Natural curve complexes have mapping class group automorphisms"
+  },
+  {
+    "title": "Bounded Generation of Arithmetic Groups",
+    "slug": "bounded-generation-of-arithmetic-groups",
+    "status": "partially-solved",
+    "description": "Higher rank arithmetic groups are products of finitely many cyclics"
+  },
+  {
+    "title": "Lubotzky-Zelmanov Problem on Subgroup Growth Types",
+    "slug": "subgroup-growth-gap-conjecture",
+    "status": "partially-solved",
+    "description": "Which growth types arise for subgroup counting functions"
+  },
+  {
+    "title": "Serre's Conjecture on Finiteness of Congruence Kernels",
+    "slug": "serres-uniformity-conjecture-for-galois-images",
+    "status": "open",
+    "description": "Uniform surjectivity of Galois representations on elliptic curves"
+  },
+  {
+    "title": "Ordering Conjecture for Amenable and Left-Orderable Groups",
+    "slug": "left-orderability-and-amenability",
+    "status": "open",
+    "description": "Relations between orderable groups and group ring zero divisors"
+  },
+  {
+    "title": "Wiegold Conjecture on Nielsen Equivalence in Perfect Groups",
+    "slug": "nielsen-equivalence-in-finite-groups",
+    "status": "open",
+    "description": "Are generating tuples of perfect groups stably Nielsen equivalent"
+  },
+  {
+    "title": "Amitsur's Conjecture on Rational Identities of Division Rings",
+    "slug": "amitsurs-conjecture-on-division-algebras",
+    "status": "open",
+    "description": "Rational identity behaviour of finite dimensional division algebras"
   }
 ]

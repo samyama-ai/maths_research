@@ -83,12 +83,12 @@ Leading mathematicians suggest that future breakthroughs will require a fundamen
 
 ## 9. Key References
 
-- **[Foundational]** Lehmer, D. H. *Factorization of certain cyclotomic functions.* Annals of Mathematics, 1933.
-- **[Foundational]** Smyth, C. J. *On the product of the conjugates outside the unit circle of an algebraic integer.* Bulletin of the London Mathematical Society, 1971.
+- **[Foundational]** Lehmer, D. H. *Factorization of certain cyclotomic functions.* Annals of Mathematics, 1933. [DOI](https://doi.org/10.2307/1968172)
+- **[Foundational]** Smyth, C. J. *On the product of the conjugates outside the unit circle of an algebraic integer.* Bulletin of the London Mathematical Society, 1971. [DOI](https://doi.org/10.1112/blms/3.2.169)
 - **[Foundational]** Dobrowolski, E. *On a theorem of Schinzel and Zassenhaus.* Acta Arithmetica, 1979.
 - **[SOTA / Recent]** Dimitrov, V. *A proof of the Schinzel-Zassenhaus conjecture on algebraic integers.* Annals of Mathematics, 2021.
 - **[SOTA / Recent]** Mossinghoff, M. J., Rhind, G., and Ryan, C. J. *Computed bounds for the Mahler measure of polynomials.* Mathematics of Computation, (various years / updates).
-- **[Survey]** Smyth, C. J. *The Mahler measure of algebraic numbers: a survey.* Number Theory and Polynomials, LMS Lecture Note Series, 2008.
+- **[Survey]** Smyth, C. J. *The Mahler measure of algebraic numbers: a survey.* Number Theory and Polynomials, LMS Lecture Note Series, 2008. [DOI](https://doi.org/10.1017/cbo9780511721274.021)
 
 ## 10. Worked Example / Concrete Special Case
 

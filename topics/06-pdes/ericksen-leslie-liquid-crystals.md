@@ -97,12 +97,12 @@ The central mathematical gap lies between weak existence (characterized by bound
 
 ## 9. Key References
 
-- **[Foundational]** Ericksen, J. L. *Conservation laws for liquid crystals.* Transactions of the Society of Rheology, 1961.
-- **[Foundational]** Leslie, F. M. *Some constitutive equations for liquid crystals.* Archive for Rational Mechanics and Analysis, 1968.
-- **[Foundational]** Lin, F.-H., & Liu, C. *Nonparabolic dissipative systems modeling the flow of liquid crystals.* Communications on Pure and Applied Mathematics, 1995.
-- **[SOTA / Recent]** Lin, F.-H., Lin, J., & Wang, C. *Liquid crystal flows in two dimensions.* Archive for Rational Mechanics and Analysis, 2010.
-- **[SOTA / Recent]** Lin, F.-H., & Wang, C. *Global existence of weak solutions of the nematic liquid crystal flow in dimension three.* Communications on Pure and Applied Mathematics, 2016.
-- **[Survey]** Lin, F.-H., & Wang, C. *Recent developments of analysis for hydrodynamic flow of nematic liquid crystals.* Philosophical Transactions of the Royal Society A, 2014.
+- **[Foundational]** Ericksen, J. L. *Conservation laws for liquid crystals.* Transactions of the Society of Rheology, 1961. [DOI](https://doi.org/10.1122/1.548883)
+- **[Foundational]** Leslie, F. M. *Some constitutive equations for liquid crystals.* Archive for Rational Mechanics and Analysis, 1968. [DOI](https://doi.org/10.1007/bf00251810)
+- **[Foundational]** Lin, F.-H., & Liu, C. *Nonparabolic dissipative systems modeling the flow of liquid crystals.* Communications on Pure and Applied Mathematics, 1995. [DOI](https://doi.org/10.1002/cpa.3160480503)
+- **[SOTA / Recent]** Lin, F.-H., Lin, J., & Wang, C. *Liquid crystal flows in two dimensions.* Archive for Rational Mechanics and Analysis, 2010. [DOI](https://doi.org/10.1007/s00205-009-0278-x)
+- **[SOTA / Recent]** Lin, F.-H., & Wang, C. *Global existence of weak solutions of the nematic liquid crystal flow in dimension three.* Communications on Pure and Applied Mathematics, 2016. [DOI](https://doi.org/10.1002/cpa.21583)
+- **[Survey]** Lin, F.-H., & Wang, C. *Recent developments of analysis for hydrodynamic flow of nematic liquid crystals.* Philosophical Transactions of the Royal Society A, 2014. [DOI](https://doi.org/10.1098/rsta.2013.0361)
 
 ## 10. Worked Example / Concrete Special Case
 

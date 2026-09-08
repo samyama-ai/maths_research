@@ -93,7 +93,7 @@ Leading modular representation theorists suggest the following immediate pathway
 ## 9. Key References
 
 - **[Foundational]** Alperin, J. L. *Local Representation Theory*. Cambridge University Press, 1986.
-- **[Foundational]** Scopes, J. *Cartan matrices and Morita equivalence for blocks of the symmetric groups.* Journal of Algebra, 1991.
+- **[Foundational]** Scopes, J. *Cartan matrices and Morita equivalence for blocks of the symmetric groups.* Journal of Algebra, 1991. [DOI](https://doi.org/10.1016/0021-8693(91)90319-4)
 - **[SOTA / Recent]** Eaton, C. W., Kessar, R., Linckelmann, M., & Robinson, G. R. *On Donovan’s conjecture for blocks with abelian defect groups.* Transactions of the American Mathematical Society, 2014.
 - **[SOTA / Recent]** Kessar, R., & Linckelmann, M. *A reduction of Donovan’s conjecture to quasi-simple groups.* Journal of Algebra, 2020.
 - **[Survey]** Kessar, R. *Introduction to block theory.* In: Group Representation Theory, EPFL Press, 2007.

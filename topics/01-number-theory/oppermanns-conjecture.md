@@ -90,9 +90,9 @@ Leading mathematicians suggest that solving Oppermann's conjecture will require 
 ## 9. Key References
 
 - **[Foundational]** Oppermann, L. *Om vor Kundskab om Primtallenes Mængde mellem givne Grændser.* Oversigt over det Kongelige Danske Videnskabernes Selskabs Forhandlinger og dets Medlemmers Arbejder, 1882.
-- **[SOTA / Recent]** Baker, R. C., Harman, G., & Pintz, J. *The difference between consecutive primes, II.* Proceedings of the London Mathematical Society, 2001.
+- **[SOTA / Recent]** Baker, R. C., Harman, G., & Pintz, J. *The difference between consecutive primes, II.* Proceedings of the London Mathematical Society, 2001. [DOI](https://doi.org/10.1112/plms/83.3.532)
 - **[Survey]** Soundararajan, K. *Small gaps between prime numbers: The work of Goldston-Pintz-Yıldırım.* Bulletin of the American Mathematical Society, 2007.
-- **[Survey]** Granville, A. *Primes in intervals of bounded length.* Bulletin of the American Mathematical Society, 2015.
+- **[Survey]** Granville, A. *Primes in intervals of bounded length.* Bulletin of the American Mathematical Society, 2015. [DOI](https://doi.org/10.1090/s0273-0979-2015-01480-1)
 
 ## 10. Worked Example / Concrete Special Case
 

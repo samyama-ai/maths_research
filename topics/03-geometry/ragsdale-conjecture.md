@@ -105,17 +105,17 @@ At $k = 5$ this reads $32 \le P(5) \le 34$. Closing it requires either (i) a pat
 
 ## 9. Key References
 
-- **[Foundational]** V. Ragsdale. *On the arrangement of the real branches of plane algebraic curves.* American Journal of Mathematics **28** (1906), 377–404.
+- **[Foundational]** V. Ragsdale. *On the arrangement of the real branches of plane algebraic curves.* American Journal of Mathematics **28** (1906), 377–404. [DOI](https://doi.org/10.2307/2370070)
 - **[Foundational]** I. G. Petrovskii. *On the topology of real plane algebraic curves.* Annals of Mathematics **39** (1938), 189–209.
 - **[Foundational]** D. Hilbert. *Mathematische Probleme.* Nachrichten der Gesellschaft der Wissenschaften zu Göttingen, 1900 (Problem 16).
 - **[Key construction]** O. Ya. Viro. *Gluing of plane real algebraic curves and constructions of curves of degrees 6 and 7.* In *Topology (Leningrad 1982)*, Lecture Notes in Mathematics **1060**, Springer, 1984, 187–200.
 - **[Disproof]** I. Itenberg. *Contre-exemples à la conjecture de Ragsdale.* Comptes Rendus de l'Académie des Sciences Paris, Série I **317** (1993), 277–282.
-- **[SOTA]** I. Itenberg. *Counter-examples to Ragsdale conjecture and T-curves.* Contemporary Mathematics **182**, American Mathematical Society, 1995, 55–72.
+- **[SOTA]** I. Itenberg. *Counter-examples to Ragsdale conjecture and T-curves.* Contemporary Mathematics **182**, American Mathematical Society, 1995, 55–72. [DOI](https://doi.org/10.1090/conm/182/02087)
 - **[SOTA]** B. Haas. *Les multilucarnes: nouveaux contre-exemples à la conjecture de Ragsdale.* Comptes Rendus de l'Académie des Sciences Paris, Série I **320** (1995), 1507–1512.
-- **[Survey]** I. Itenberg and O. Viro. *Patchworking algebraic curves disproves the Ragsdale conjecture.* The Mathematical Intelligencer **18** (1996), no. 4, 19–28.
+- **[Survey]** I. Itenberg and O. Viro. *Patchworking algebraic curves disproves the Ragsdale conjecture.* The Mathematical Intelligencer **18** (1996), no. 4, 19–28. [DOI](https://doi.org/10.1007/bf03026748)
 - **[Survey]** G. Wilson. *Hilbert's sixteenth problem.* Topology **17** (1978), 53–73.
 - **[Survey]** A. Degtyarev and V. Kharlamov. *Topological properties of real algebraic varieties: Rokhlin's way.* Russian Mathematical Surveys **55** (2000), 735–814.
-- **[Survey]** O. Ya. Viro. *Progress in the topology of real algebraic varieties over the last six years.* Russian Mathematical Surveys **41** (1986), 55–82.
+- **[Survey]** O. Ya. Viro. *Progress in the topology of real algebraic varieties over the last six years.* Russian Mathematical Surveys **41** (1986), 55–82. [DOI](https://doi.org/10.1070/rm1986v041n03abeh003317)
 - **[Book]** I. Itenberg, G. Mikhalkin, E. Shustin. *Tropical Algebraic Geometry.* Oberwolfach Seminars **35**, Birkhäuser, 2007.
 
 ## 10. Worked Example / Concrete Special Case

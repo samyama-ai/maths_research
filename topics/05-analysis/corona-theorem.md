@@ -122,14 +122,14 @@ Equivalently: is the Toeplitz-corona (positivity of the operator matrix $[\,(\su
 
 ## 9. Key References
 
-- **[Foundational]** L. Carleson. *Interpolations by bounded analytic functions and the corona problem.* Annals of Mathematics **76** (1962), 547–559.
-- **[Foundational]** L. Hörmander. *Generators for some rings of analytic functions.* Bulletin of the AMS **73** (1967), 943–949.
-- **[Book / Standard reference]** J. B. Garnett. *Bounded Analytic Functions.* Revised 1st ed., Graduate Texts in Mathematics 236, Springer, 2007 (orig. Academic Press, 1981). — Wolff's proof, Chapter VIII.
+- **[Foundational]** L. Carleson. *Interpolations by bounded analytic functions and the corona problem.* Annals of Mathematics **76** (1962), 547–559. [DOI](https://doi.org/10.2307/1970375)
+- **[Foundational]** L. Hörmander. *Generators for some rings of analytic functions.* Bulletin of the AMS **73** (1967), 943–949. [DOI](https://doi.org/10.1090/s0002-9904-1967-11860-3)
+- **[Book / Standard reference]** J. B. Garnett. *Bounded Analytic Functions.* Revised 1st ed., Graduate Texts in Mathematics 236, Springer, 2007 (orig. Academic Press, 1981). — Wolff's proof, Chapter VIII. [DOI](https://doi.org/10.1007/0-387-49763-3)
 - **[Book]** T. W. Gamelin. *Uniform Algebras.* Prentice-Hall, 1969 (reprinted AMS Chelsea). — Cole's counterexample, maximal ideal space theory.
-- **[SOTA / Planar]** J. B. Garnett and P. W. Jones. *The corona theorem for Denjoy domains.* Acta Mathematica **155** (1985), 27–40.
+- **[SOTA / Planar]** J. B. Garnett and P. W. Jones. *The corona theorem for Denjoy domains.* Acta Mathematica **155** (1985), 27–40. [DOI](https://doi.org/10.1007/bf02392536)
 - **[Counterexample]** N. Sibony. *Problème de la couronne pour des domaines pseudoconvexes à bord lisse.* Annals of Mathematics **126** (1987), 675–682.
 - **[Counterexample]** J. E. Fornæss and N. Sibony. *Smooth pseudoconvex domains in $\mathbb{C}^2$ for which the corona theorem and $L^p$ estimates for $\bar\partial$ fail.* In *Complex Analysis and Geometry*, Plenum Press, 1993.
-- **[SOTA / Several variables]** Ş. Costea, E. T. Sawyer and B. D. Wick. *The corona theorem for the Drury–Arveson Hardy space and other holomorphic Besov–Sobolev spaces on the unit ball in $\mathbb{C}^n$.* Analysis & PDE **4** (2011), 499–550.
+- **[SOTA / Several variables]** Ş. Costea, E. T. Sawyer and B. D. Wick. *The corona theorem for the Drury–Arveson Hardy space and other holomorphic Besov–Sobolev spaces on the unit ball in $\mathbb{C}^n$.* Analysis & PDE **4** (2011), 499–550. [DOI](https://doi.org/10.2140/apde.2011.4.499)
 - **[Constants / Ideals]** S. Treil. *Estimates in the corona theorem and ideals of $H^\infty$: a problem of T. Wolff.* Journal d'Analyse Mathématique **87** (2002), 481–495.
 - **[Operator corona]** S. Treil. *Angles between co-invariant subspaces, and the operator corona problem. The Szőkefalvi-Nagy problem.* Soviet Math. Doklady **38** (1989).
 - **[Survey]** R. G. Douglas, S. G. Krantz, E. T. Sawyer, S. Treil, B. D. Wick (eds.). *The Corona Problem: Connections Between Operator Theory, Function Theory, and Geometry.* Fields Institute Communications 72, Springer, 2014.

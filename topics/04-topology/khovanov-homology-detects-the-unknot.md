@@ -108,22 +108,22 @@ The gap is that each arrow is analytic. The precise missing step for (1) is a **
 
 ## 9. Key References
 
-- **[Foundational]** M. Khovanov. *A categorification of the Jones polynomial.* Duke Math. J. 101 (2000), 359–426.
+- **[Foundational]** M. Khovanov. *A categorification of the Jones polynomial.* Duke Math. J. 101 (2000), 359–426. [DOI](https://doi.org/10.1215/s0012-7094-00-10131-7)
 - **[Foundational]** D. Bar-Natan. *On Khovanov's categorification of the Jones polynomial.* Algebr. Geom. Topol. 2 (2002), 337–370.
-- **[SOTA]** P. B. Kronheimer, T. S. Mrowka. *Khovanov homology is an unknot-detector.* Publ. Math. Inst. Hautes Études Sci. 113 (2011), 97–208.
-- **[SOTA]** P. B. Kronheimer, T. S. Mrowka. *Knots, sutures, and excision.* J. Topology 3 (2010), 835–921.
-- **[SOTA]** J. A. Baldwin, S. Sivek. *Khovanov homology detects the trefoils.* Duke Math. J. 171 (2022), 885–956.
-- **[SOTA]** J. A. Baldwin, N. Dowlin, A. S. Levine, T. Lidman, R. Sazdanović. *Khovanov homology detects the figure-eight knot.* Bull. London Math. Soc. 53 (2021), 871–876.
+- **[SOTA]** P. B. Kronheimer, T. S. Mrowka. *Khovanov homology is an unknot-detector.* Publ. Math. Inst. Hautes Études Sci. 113 (2011), 97–208. [DOI](https://doi.org/10.1007/s10240-010-0030-y)
+- **[SOTA]** P. B. Kronheimer, T. S. Mrowka. *Knots, sutures, and excision.* J. Topology 3 (2010), 835–921. [DOI](https://doi.org/10.4310/jdg/1274707316)
+- **[SOTA]** J. A. Baldwin, S. Sivek. *Khovanov homology detects the trefoils.* Duke Math. J. 171 (2022), 885–956. [DOI](https://doi.org/10.1215/00127094-2021-0034)
+- **[SOTA]** J. A. Baldwin, N. Dowlin, A. S. Levine, T. Lidman, R. Sazdanović. *Khovanov homology detects the figure-eight knot.* Bull. London Math. Soc. 53 (2021), 871–876. [DOI](https://doi.org/10.1112/blms.12467)
 - **[SOTA]** J. A. Baldwin, Y. Hu, S. Sivek. *Khovanov homology and the cinquefoil.* arXiv:2105.12102 (2021); J. Eur. Math. Soc.
 - **[Recent]** N. Dowlin. *A spectral sequence from Khovanov homology to knot Floer homology.* arXiv:1811.07848 (2018).
-- **[Recent]** M. Hedden, Y. Ni. *Khovanov module and the detection of unlinks.* Geom. Topol. 17 (2013), 3027–3076.
-- **[Recent]** J. Batson, C. Seed. *A link-splitting spectral sequence in Khovanov homology.* Duke Math. J. 164 (2015), 801–841.
-- **[Related]** E. S. Lee. *An endomorphism of the Khovanov invariant.* Adv. Math. 197 (2005), 554–586.
-- **[Related]** J. Rasmussen. *Khovanov homology and the slice genus.* Invent. Math. 182 (2010), 419–447.
-- **[Related]** P. Ozsváth, Z. Szabó. *Holomorphic disks and genus bounds.* Geom. Topol. 8 (2004), 311–334.
-- **[Related]** S. Eliahou, L. Kauffman, M. Thistlethwaite. *Infinite families of links with trivial Jones polynomial.* Topology 42 (2003), 155–169.
+- **[Recent]** M. Hedden, Y. Ni. *Khovanov module and the detection of unlinks.* Geom. Topol. 17 (2013), 3027–3076. [DOI](https://doi.org/10.2140/gt.2013.17.3027)
+- **[Recent]** J. Batson, C. Seed. *A link-splitting spectral sequence in Khovanov homology.* Duke Math. J. 164 (2015), 801–841. [DOI](https://doi.org/10.1215/00127094-2881374)
+- **[Related]** E. S. Lee. *An endomorphism of the Khovanov invariant.* Adv. Math. 197 (2005), 554–586. [DOI](https://doi.org/10.1016/j.aim.2004.10.015)
+- **[Related]** J. Rasmussen. *Khovanov homology and the slice genus.* Invent. Math. 182 (2010), 419–447. [DOI](https://doi.org/10.1007/s00222-010-0275-6)
+- **[Related]** P. Ozsváth, Z. Szabó. *Holomorphic disks and genus bounds.* Geom. Topol. 8 (2004), 311–334. [DOI](https://doi.org/10.2140/gt.2004.8.311)
+- **[Related]** S. Eliahou, L. Kauffman, M. Thistlethwaite. *Infinite families of links with trivial Jones polynomial.* Topology 42 (2003), 155–169. [DOI](https://doi.org/10.1016/s0040-9383(02)00012-5)
 - **[Related]** S. Bigelow. *Does the Jones polynomial detect unknottedness?* J. Knot Theory Ramifications 11 (2002), 493–505.
-- **[Survey]** P. Turner. *Five lectures on Khovanov homology.* J. Knot Theory Ramifications 26 (2017), 1741009.
+- **[Survey]** P. Turner. *Five lectures on Khovanov homology.* J. Knot Theory Ramifications 26 (2017), 1741009. [DOI](https://doi.org/10.1142/s0218216517410097)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -110,15 +110,15 @@ Proven: $\mu$ obstructs; gauge theory shows $\Theta^3_{\mathbb Z}$ is large and 
 
 - **[Foundational]** V. A. Rokhlin. *New results in the theory of four-dimensional manifolds.* Doklady Akad. Nauk SSSR 84 (1952), 221–224.
 - **[Foundational]** M. H. Freedman. *The topology of four-dimensional manifolds.* Journal of Differential Geometry 17 (1982), 357–453.
-- **[Foundational]** S. Akbulut, R. Kirby. *Mazur manifolds.* Michigan Mathematical Journal 26 (1979), 259–284.
-- **[Foundational]** A. Casson, J. Harer. *Some homology lens spaces which bound rational homology balls.* Pacific Journal of Mathematics 96 (1981), 23–36.
-- **[Foundational]** R. Fintushel, R. Stern. *Pseudofree orbifolds.* Annals of Mathematics 122 (1985), 335–364.
-- **[SOTA]** M. Furuta. *Homology cobordism group of homology 3-spheres.* Inventiones Mathematicae 100 (1990), 339–355.
-- **[SOTA]** K. Frøyshov. *Equivariant aspects of Yang–Mills Floer theory.* Topology 41 (2002), 525–552.
-- **[SOTA]** P. Ozsváth, Z. Szabó. *Absolutely graded Floer homologies and intersection forms for four-manifolds with boundary.* Advances in Mathematics 173 (2003), 179–261.
-- **[SOTA]** C. Manolescu. *Pin(2)-equivariant Seiberg–Witten Floer homology and the triangulation conjecture.* Journal of the AMS 29 (2016), 147–176.
+- **[Foundational]** S. Akbulut, R. Kirby. *Mazur manifolds.* Michigan Mathematical Journal 26 (1979), 259–284. [DOI](https://doi.org/10.1307/mmj/1029002261)
+- **[Foundational]** A. Casson, J. Harer. *Some homology lens spaces which bound rational homology balls.* Pacific Journal of Mathematics 96 (1981), 23–36. [DOI](https://doi.org/10.2140/pjm.1981.96.23)
+- **[Foundational]** R. Fintushel, R. Stern. *Pseudofree orbifolds.* Annals of Mathematics 122 (1985), 335–364. [DOI](https://doi.org/10.2307/1971306)
+- **[SOTA]** M. Furuta. *Homology cobordism group of homology 3-spheres.* Inventiones Mathematicae 100 (1990), 339–355. [DOI](https://doi.org/10.1007/bf01231190)
+- **[SOTA]** K. Frøyshov. *Equivariant aspects of Yang–Mills Floer theory.* Topology 41 (2002), 525–552. [DOI](https://doi.org/10.1016/s0040-9383(01)00018-0)
+- **[SOTA]** P. Ozsváth, Z. Szabó. *Absolutely graded Floer homologies and intersection forms for four-manifolds with boundary.* Advances in Mathematics 173 (2003), 179–261. [DOI](https://doi.org/10.1016/s0001-8708(02)00030-0)
+- **[SOTA]** C. Manolescu. *Pin(2)-equivariant Seiberg–Witten Floer homology and the triangulation conjecture.* Journal of the AMS 29 (2016), 147–176. [DOI](https://doi.org/10.1090/jams829)
 - **[SOTA / Recent]** I. Dai, J. Hom, M. Stoffregen, L. Truong. *An infinite-rank summand of the homology cobordism group.* Duke Mathematical Journal 170 (2021), 1275–1300.
-- **[Survey]** N. Saveliev. *Invariants for Homology 3-Spheres.* Encyclopaedia of Mathematical Sciences 140, Springer, 2002.
+- **[Survey]** N. Saveliev. *Invariants for Homology 3-Spheres.* Encyclopaedia of Mathematical Sciences 140, Springer, 2002. [DOI](https://doi.org/10.1007/978-3-662-04705-7)
 - **[Survey]** C. Manolescu. *Lectures on the triangulation conjecture.* Proceedings of the Gökova Geometry–Topology Conference 2015, 1–38.
 - **[Survey]** S. Akbulut, J. McCarthy. *Casson's Invariant for Oriented Homology 3-Spheres: An Exposition.* Mathematical Notes 36, Princeton University Press, 1990.
 

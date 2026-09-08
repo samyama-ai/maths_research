@@ -127,19 +127,19 @@ Institutions with sustained activity: Roma Tor Vergata (Ciliberto), Michigan Sta
 ## 9. Key References
 
 - **[Foundational]** B. Segre. *Alcune questioni su insiemi finiti di punti in geometria algebrica.* Atti del Convegno Internaz. di Geom. Alg. (Torino), 1961.
-- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics 81 (1959), 766–772.
+- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics 81 (1959), 766–772. [DOI](https://doi.org/10.2307/2372927)
 - **[Foundational]** B. Harbourne. *The geometry of rational surfaces and Hilbert functions of points in the plane.* Canadian Mathematical Society Conference Proceedings 6 (1986), 95–111.
-- **[Foundational]** A. Hirschowitz. *Une conjecture pour la cohomologie des diviseurs sur les surfaces rationnelles génériques.* Journal für die reine und angewandte Mathematik (Crelle) 397 (1989), 208–213.
-- **[Foundational]** J. Alexander, A. Hirschowitz. *Polynomial interpolation in several variables.* Journal of Algebraic Geometry 4 (1995), 201–222.
-- **[SOTA]** C. Ciliberto, R. Miranda. *Degenerations of planar linear systems.* Journal für die reine und angewandte Mathematik 501 (1998), 191–220.
-- **[SOTA]** C. Ciliberto, R. Miranda. *Linear systems of plane curves with base points of equal multiplicity.* Transactions of the American Mathematical Society 352 (2000), 4037–4050.
-- **[SOTA]** C. Ciliberto, R. Miranda. *Homogeneous interpolation on ten points.* Journal of Algebraic Geometry 20 (2011), 685–726.
-- **[SOTA]** T. Mignon. *Systèmes de courbes planes à singularités imposées: le cas des multiplicités inférieures ou égales à quatre.* Journal of Pure and Applied Algebra 151 (2000), 173–195.
+- **[Foundational]** A. Hirschowitz. *Une conjecture pour la cohomologie des diviseurs sur les surfaces rationnelles génériques.* Journal für die reine und angewandte Mathematik (Crelle) 397 (1989), 208–213. [DOI](https://doi.org/10.1515/crll.1989.397.208)
+- **[Foundational]** J. Alexander, A. Hirschowitz. *Polynomial interpolation in several variables.* Journal of Algebraic Geometry 4 (1995), 201–222. [DOI](https://doi.org/10.1007/978-1-4615-1791-7_9)
+- **[SOTA]** C. Ciliberto, R. Miranda. *Degenerations of planar linear systems.* Journal für die reine und angewandte Mathematik 501 (1998), 191–220. [DOI](https://doi.org/10.1515/crll.1998.077)
+- **[SOTA]** C. Ciliberto, R. Miranda. *Linear systems of plane curves with base points of equal multiplicity.* Transactions of the American Mathematical Society 352 (2000), 4037–4050. [DOI](https://doi.org/10.1090/s0002-9947-00-02416-8)
+- **[SOTA]** C. Ciliberto, R. Miranda. *Homogeneous interpolation on ten points.* Journal of Algebraic Geometry 20 (2011), 685–726. [DOI](https://doi.org/10.1090/s1056-3911-2011-00545-6)
+- **[SOTA]** T. Mignon. *Systèmes de courbes planes à singularités imposées: le cas des multiplicités inférieures ou égales à quatre.* Journal of Pure and Applied Algebra 151 (2000), 173–195. [DOI](https://doi.org/10.1016/s0022-4049(99)00054-7)
 - **[SOTA]** S. Yang. *Linear systems in $\mathbb{P}^2$ with base points of bounded multiplicity.* Journal of Algebra 309 (2007), 137–153.
 - **[SOTA]** M. Dumnicki, W. Jarnicki. *New effective bounds on the dimension of a linear system in $\mathbb{P}^2$.* Journal of Symbolic Computation 42 (2007), 621–635.
 - **[SOTA]** L. Evain. *La fonction de Hilbert de la réunion de $4^h$ gros points génériques de $\mathbb{P}^2$.* Journal of Algebraic Geometry 8 (1999), 787–796.
 - **[Survey]** C. Ciliberto, B. Harbourne, R. Miranda, J. Roé. *Variations on Nagata's conjecture.* In: A Celebration of Algebraic Geometry, Clay Mathematics Proceedings 18 (2013), 185–203.
-- **[Survey]** C. Ciliberto. *Geometric aspects of polynomial interpolation in more variables and of Waring's problem.* European Congress of Mathematics (Barcelona 2000), Progress in Mathematics 201, Birkhäuser, 2001, 289–316.
+- **[Survey]** C. Ciliberto. *Geometric aspects of polynomial interpolation in more variables and of Waring's problem.* European Congress of Mathematics (Barcelona 2000), Progress in Mathematics 201, Birkhäuser, 2001, 289–316. [DOI](https://doi.org/10.1007/978-3-0348-8268-2_17)
 - **[Survey]** B. Harbourne. *Problems and progress: a survey on fat points in $\mathbb{P}^2$.* Queen's Papers in Pure and Applied Mathematics 123 (2002), 85–132.
 
 ## 10. Worked Example / Concrete Special Case

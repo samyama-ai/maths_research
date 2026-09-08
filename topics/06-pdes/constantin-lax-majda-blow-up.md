@@ -120,21 +120,21 @@ Closing either half would also decide whether the $a$-threshold $a_c$ is regular
 
 ## 9. Key References
 
-- **[Foundational]** P. Constantin, P. D. Lax, A. Majda. *A simple one-dimensional model for the three-dimensional vorticity equation.* Communications on Pure and Applied Mathematics, 38(6):715–724, 1985.
-- **[Foundational]** S. De Gregorio. *On a one-dimensional model for the three-dimensional vorticity equation.* Journal of Statistical Physics, 59:1251–1263, 1990.
-- **[Foundational]** S. Schochet. *Explicit solutions of the viscous model vorticity equation.* Communications on Pure and Applied Mathematics, 39(4):531–537, 1986.
-- **[Foundational]** A. Córdoba, D. Córdoba, M. A. Fontelos. *Formation of singularities for a transport equation with nonlocal velocity.* Annals of Mathematics, 162(3):1377–1389, 2005.
-- **[SOTA / Recent]** H. Okamoto, T. Sakajo, M. Wunsch. *On a generalization of the Constantin–Lax–Majda equation.* Nonlinearity, 21(10):2447–2461, 2008.
+- **[Foundational]** P. Constantin, P. D. Lax, A. Majda. *A simple one-dimensional model for the three-dimensional vorticity equation.* Communications on Pure and Applied Mathematics, 38(6):715–724, 1985. [DOI](https://doi.org/10.1002/cpa.3160380605)
+- **[Foundational]** S. De Gregorio. *On a one-dimensional model for the three-dimensional vorticity equation.* Journal of Statistical Physics, 59:1251–1263, 1990. [DOI](https://doi.org/10.1007/bf01334750)
+- **[Foundational]** S. Schochet. *Explicit solutions of the viscous model vorticity equation.* Communications on Pure and Applied Mathematics, 39(4):531–537, 1986. [DOI](https://doi.org/10.1002/cpa.3160390404)
+- **[Foundational]** A. Córdoba, D. Córdoba, M. A. Fontelos. *Formation of singularities for a transport equation with nonlocal velocity.* Annals of Mathematics, 162(3):1377–1389, 2005. [DOI](https://doi.org/10.4007/annals.2005.162.1377)
+- **[SOTA / Recent]** H. Okamoto, T. Sakajo, M. Wunsch. *On a generalization of the Constantin–Lax–Majda equation.* Nonlinearity, 21(10):2447–2461, 2008. [DOI](https://doi.org/10.1088/0951-7715/21/10/013)
 - **[SOTA / Recent]** A. Castro, D. Córdoba. *Global existence, singularities and ill-posedness for a nonlocal flux.* Advances in Mathematics, 219(6):1916–1936, 2008.
-- **[SOTA / Recent]** H. Jia, S. Stewart, V. Šverák. *On the De Gregorio modification of the Constantin–Lax–Majda model.* Archive for Rational Mechanics and Analysis, 231:1269–1304, 2019.
+- **[SOTA / Recent]** H. Jia, S. Stewart, V. Šverák. *On the De Gregorio modification of the Constantin–Lax–Majda model.* Archive for Rational Mechanics and Analysis, 231:1269–1304, 2019. [DOI](https://doi.org/10.1007/s00205-018-1298-1)
 - **[SOTA / Recent]** T. M. Elgindi, I.-J. Jeong. *On the effects of advection and vortex stretching.* Archive for Rational Mechanics and Analysis, 235:1763–1817, 2020.
-- **[SOTA / Recent]** Z. Lei, J. Liu, X. Ren. *On the Constantin–Lax–Majda model with convection.* Communications in Mathematical Physics, 375:765–783, 2020.
-- **[SOTA / Recent]** J. Chen, T. Y. Hou, D. Huang. *On the finite time blowup of the De Gregorio model for the 3D Euler equations.* Communications on Pure and Applied Mathematics, 74(6):1282–1350, 2021.
+- **[SOTA / Recent]** Z. Lei, J. Liu, X. Ren. *On the Constantin–Lax–Majda model with convection.* Communications in Mathematical Physics, 375:765–783, 2020. [DOI](https://doi.org/10.1007/s00220-019-03584-4)
+- **[SOTA / Recent]** J. Chen, T. Y. Hou, D. Huang. *On the finite time blowup of the De Gregorio model for the 3D Euler equations.* Communications on Pure and Applied Mathematics, 74(6):1282–1350, 2021. [DOI](https://doi.org/10.1002/cpa.21991)
 - **[SOTA / Recent]** J. Chen. *On the slightly perturbed De Gregorio model on $S^1$.* Archive for Rational Mechanics and Analysis, 241:1843–1869, 2021.
-- **[SOTA / Recent]** P. M. Lushnikov, D. A. Silantyev, M. Siegel. *Collapse versus blow-up and global existence in the generalized Constantin–Lax–Majda equation.* Journal of Nonlinear Science, 31:82, 2021.
-- **[SOTA / Recent]** T. M. Elgindi. *Finite-time singularity formation for $C^{1,\alpha}$ solutions to the incompressible Euler equations on $\mathbb{R}^3$.* Annals of Mathematics, 194(3):647–727, 2021.
+- **[SOTA / Recent]** P. M. Lushnikov, D. A. Silantyev, M. Siegel. *Collapse versus blow-up and global existence in the generalized Constantin–Lax–Majda equation.* Journal of Nonlinear Science, 31:82, 2021. [DOI](https://doi.org/10.1007/s00332-021-09737-x)
+- **[SOTA / Recent]** T. M. Elgindi. *Finite-time singularity formation for $C^{1,\alpha}$ solutions to the incompressible Euler equations on $\mathbb{R}^3$.* Annals of Mathematics, 194(3):647–727, 2021. [DOI](https://doi.org/10.4007/annals.2021.194.3.2)
 - **[Survey]** A. J. Majda, A. L. Bertozzi. *Vorticity and Incompressible Flow.* Cambridge University Press, 2002 (Chapter 5 treats the CLM model).
-- **[Survey]** T. D. Drivas, T. M. Elgindi. *Singularity formation in the incompressible Euler equation in finite and infinite time.* EMS Surveys in Mathematical Sciences, 10(1):1–100, 2023.
+- **[Survey]** T. D. Drivas, T. M. Elgindi. *Singularity formation in the incompressible Euler equation in finite and infinite time.* EMS Surveys in Mathematical Sciences, 10(1):1–100, 2023. [DOI](https://doi.org/10.4171/emss/66)
 
 ## 10. Worked Example / Concrete Special Case
 

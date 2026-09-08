@@ -90,7 +90,7 @@ Leading algebraic and differential geometers suggest the following pathways for 
 
 ## 9. Key References
 
-- **[Foundational]** Durfee, Alan H. *The signature of smoothings of complex surface singularities.* Mathematische Annalen, 232(1), 1978.
+- **[Foundational]** Durfee, Alan H. *The signature of smoothings of complex surface singularities.* Mathematische Annalen, 232(1), 1978. [DOI](https://doi.org/10.1007/bf01420624)
 - **[SOTA / Recent]** Kerner, Dmitry, and András Némethi. *The 'Durfee inequality' for isolated surface singularities.* Mathematische Annalen, 2017.
 - **[SOTA / Recent]** Yau, Stephen S.-T., and Huaiqing Zuo. *Durfee conjecture for isolated complete intersection surface singularities.* Journal of Algebra, 2020.
 - **[Survey]** Némethi, András. *Five lectures on normal surface singularities.* Low Dimensional Topology, IAS/Park City Mathematics Series, 1999.

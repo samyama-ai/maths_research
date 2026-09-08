@@ -120,23 +120,23 @@ Yokota's construction supplies the potential in principle; what is missing is (i
 
 ## 9. Key References
 
-- **[Foundational]** R. M. Kashaev. *A link invariant from quantum dilogarithm.* Modern Physics Letters A **10** (1995), 1409–1418.
-- **[Foundational]** R. M. Kashaev. *The hyperbolic volume of knots from the quantum dilogarithm.* Letters in Mathematical Physics **39** (1997), 269–275.
-- **[Foundational]** H. Murakami, J. Murakami. *The colored Jones polynomials and the simplicial volume of a knot.* Acta Mathematica **186** (2001), 85–104.
-- **[Foundational]** H. Murakami, J. Murakami, M. Okamoto, T. Takata, Y. Yokota. *Kashaev's conjecture and the Chern–Simons invariants of knots and links.* Experimental Mathematics **11** (2002), 427–435.
+- **[Foundational]** R. M. Kashaev. *A link invariant from quantum dilogarithm.* Modern Physics Letters A **10** (1995), 1409–1418. [DOI](https://doi.org/10.1142/s0217732395001526)
+- **[Foundational]** R. M. Kashaev. *The hyperbolic volume of knots from the quantum dilogarithm.* Letters in Mathematical Physics **39** (1997), 269–275. [DOI](https://doi.org/10.1023/a:1007364912784)
+- **[Foundational]** H. Murakami, J. Murakami. *The colored Jones polynomials and the simplicial volume of a knot.* Acta Mathematica **186** (2001), 85–104. [DOI](https://doi.org/10.1007/bf02392716)
+- **[Foundational]** H. Murakami, J. Murakami, M. Okamoto, T. Takata, Y. Yokota. *Kashaev's conjecture and the Chern–Simons invariants of knots and links.* Experimental Mathematics **11** (2002), 427–435. [DOI](https://doi.org/10.1080/10586458.2002.10504485)
 - **[Partial result]** R. M. Kashaev, O. Tirkkonen. *A proof of the volume conjecture on torus knots.* Journal of Mathematical Sciences **115** (2003), 2033–2036.
 - **[Partial result]** R. van der Veen. *Proof of the volume conjecture for Whitehead chains.* Acta Mathematica Vietnamica **33** (2008), 421–431.
-- **[Partial result]** J. E. Andersen, S. K. Hansen. *Asymptotics of the quantum invariants for surgeries on the figure 8 knot.* Journal of Knot Theory and Its Ramifications **15** (2006), 479–548.
-- **[SOTA]** T. Ohtsuki. *On the asymptotic expansion of the Kashaev invariant of the $5_2$ knot.* Quantum Topology **7** (2016), 669–735.
-- **[SOTA]** T. Ohtsuki, Y. Yokota. *On the asymptotic expansions of the Kashaev invariant of the knots with 6 crossings.* Mathematical Proceedings of the Cambridge Philosophical Society **165** (2018), 287–339.
-- **[SOTA]** S. Garoufalidis, T. T. Q. Lê. *Asymptotics of the colored Jones function of a knot.* Geometry & Topology **15** (2011), 2135–2180.
-- **[SOTA]** Q. Chen, T. Yang. *Volume conjectures for the Reshetikhin–Turaev and the Turaev–Viro invariants.* Quantum Topology **9** (2018), 419–460.
-- **[SOTA]** R. Detcherry, E. Kalfagianni, T. Yang. *Turaev–Viro invariants, colored Jones polynomials and volume.* Quantum Topology **9** (2018), 775–813.
-- **[SOTA]** G. Belletti, R. Detcherry, E. Kalfagianni, T. Yang. *Growth of Turaev–Viro invariants and cabling.* Mathematical Proceedings of the Cambridge Philosophical Society (2020).
-- **[Frontier]** S. Garoufalidis, D. Zagier. *Knots, perturbative series and quantum modularity.* SIGMA **20** (2024).
-- **[Context]** S. Gukov. *Three-dimensional quantum gravity, Chern–Simons theory, and the A-polynomial.* Communications in Mathematical Physics **255** (2005), 577–627.
+- **[Partial result]** J. E. Andersen, S. K. Hansen. *Asymptotics of the quantum invariants for surgeries on the figure 8 knot.* Journal of Knot Theory and Its Ramifications **15** (2006), 479–548. [DOI](https://doi.org/10.1142/s0218216506004555)
+- **[SOTA]** T. Ohtsuki. *On the asymptotic expansion of the Kashaev invariant of the $5_2$ knot.* Quantum Topology **7** (2016), 669–735. [DOI](https://doi.org/10.4171/qt/83)
+- **[SOTA]** T. Ohtsuki, Y. Yokota. *On the asymptotic expansions of the Kashaev invariant of the knots with 6 crossings.* Mathematical Proceedings of the Cambridge Philosophical Society **165** (2018), 287–339. [DOI](https://doi.org/10.1017/s0305004117000494)
+- **[SOTA]** S. Garoufalidis, T. T. Q. Lê. *Asymptotics of the colored Jones function of a knot.* Geometry & Topology **15** (2011), 2135–2180. [DOI](https://doi.org/10.2140/gt.2011.15.2135)
+- **[SOTA]** Q. Chen, T. Yang. *Volume conjectures for the Reshetikhin–Turaev and the Turaev–Viro invariants.* Quantum Topology **9** (2018), 419–460. [DOI](https://doi.org/10.4171/qt/111)
+- **[SOTA]** R. Detcherry, E. Kalfagianni, T. Yang. *Turaev–Viro invariants, colored Jones polynomials and volume.* Quantum Topology **9** (2018), 775–813. [DOI](https://doi.org/10.4171/qt/120)
+- **[SOTA]** G. Belletti, R. Detcherry, E. Kalfagianni, T. Yang. *Growth of Turaev–Viro invariants and cabling.* Mathematical Proceedings of the Cambridge Philosophical Society (2020). [DOI](https://doi.org/10.1142/s021821651950041x)
+- **[Frontier]** S. Garoufalidis, D. Zagier. *Knots, perturbative series and quantum modularity.* SIGMA **20** (2024). [DOI](https://doi.org/10.3842/sigma.2024.055)
+- **[Context]** S. Gukov. *Three-dimensional quantum gravity, Chern–Simons theory, and the A-polynomial.* Communications in Mathematical Physics **255** (2005), 577–627. [DOI](https://doi.org/10.1007/s00220-005-1312-y)
 - **[Survey]** H. Murakami. *An introduction to the volume conjecture.* Contemporary Mathematics **541** (2011), 1–40.
-- **[Survey]** H. Murakami, Y. Yokota. *Volume Conjecture for Knots.* SpringerBriefs in Mathematical Physics **30**, Springer, 2018.
+- **[Survey]** H. Murakami, Y. Yokota. *Volume Conjecture for Knots.* SpringerBriefs in Mathematical Physics **30**, Springer, 2018. [DOI](https://doi.org/10.1007/978-981-13-1150-5)
 
 ## 10. Worked Example / Concrete Special Case
 

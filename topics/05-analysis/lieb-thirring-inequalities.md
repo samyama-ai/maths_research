@@ -108,17 +108,17 @@ Proven: $L_{\gamma,d} = L^{\mathrm{sc}}_{\gamma,d}$ for $\gamma\ge3/2$; $L_{1/2,
 
 ## 9. Key References
 
-- **[Foundational]** E. H. Lieb, W. E. Thirring. *Bound for the kinetic energy of fermions which proves the stability of matter.* Physical Review Letters 35, 1975.
+- **[Foundational]** E. H. Lieb, W. E. Thirring. *Bound for the kinetic energy of fermions which proves the stability of matter.* Physical Review Letters 35, 1975. [DOI](https://doi.org/10.1103/physrevlett.35.1116)
 - **[Foundational]** E. H. Lieb, W. E. Thirring. *Inequalities for the moments of the eigenvalues of the Schrödinger Hamiltonian and their relation to Sobolev inequalities.* In *Studies in Mathematical Physics: Essays in Honor of Valentine Bargmann*, Princeton University Press, 1976.
 - **[Foundational]** M. Aizenman, E. H. Lieb. *On semiclassical bounds for eigenvalues of Schrödinger operators.* Physics Letters A 66, 1978.
-- **[Key result]** D. Hundertmark, E. H. Lieb, L. E. Thomas. *A sharp bound for an eigenvalue moment of the one-dimensional Schrödinger operator.* Advances in Theoretical and Mathematical Physics 2, 1998.
-- **[Key result]** A. Laptev, T. Weidl. *Sharp Lieb–Thirring inequalities in high dimensions.* Acta Mathematica 184, 2000.
+- **[Key result]** D. Hundertmark, E. H. Lieb, L. E. Thomas. *A sharp bound for an eigenvalue moment of the one-dimensional Schrödinger operator.* Advances in Theoretical and Mathematical Physics 2, 1998. [DOI](https://doi.org/10.4310/atmp.1998.v2.n4.a2)
+- **[Key result]** A. Laptev, T. Weidl. *Sharp Lieb–Thirring inequalities in high dimensions.* Acta Mathematica 184, 2000. [DOI](https://doi.org/10.1007/bf02392782)
 - **[Key result]** B. Helffer, D. Robert. *Riesz means of bounded states and semi-classical limit connected with a Lieb–Thirring conjecture.* Asymptotic Analysis 3, 1990.
-- **[SOTA / Recent]** R. L. Frank, D. Hundertmark, M. Jex, P. T. Nam. *The Lieb–Thirring inequality revisited.* Journal of the European Mathematical Society 23, 2021.
-- **[SOTA / Recent]** R. L. Frank, D. Gontier, M. Lewin. *The nonlinear Schrödinger equation for orthonormal functions II: application to Lieb–Thirring inequalities.* Communications in Mathematical Physics 384, 2021.
+- **[SOTA / Recent]** R. L. Frank, D. Hundertmark, M. Jex, P. T. Nam. *The Lieb–Thirring inequality revisited.* Journal of the European Mathematical Society 23, 2021. [DOI](https://doi.org/10.4171/jems/1062)
+- **[SOTA / Recent]** R. L. Frank, D. Gontier, M. Lewin. *The nonlinear Schrödinger equation for orthonormal functions II: application to Lieb–Thirring inequalities.* Communications in Mathematical Physics 384, 2021. [DOI](https://doi.org/10.1007/s00220-021-04039-5)
 - **[SOTA / Recent]** J. Dolbeault, A. Laptev, M. Loss. *Lieb–Thirring inequalities with improved constants.* Journal of the European Mathematical Society 10, 2008.
 - **[Survey / Book]** R. L. Frank, A. Laptev, T. Weidl. *Schrödinger Operators: Eigenvalues and Lieb–Thirring Inequalities.* Cambridge Studies in Advanced Mathematics 200, Cambridge University Press, 2022.
-- **[Survey]** R. L. Frank. *The Lieb–Thirring inequalities: Recent results and open problems.* In *Nine Mathematical Challenges*, Proceedings of Symposia in Pure Mathematics 104, AMS, 2021.
+- **[Survey]** R. L. Frank. *The Lieb–Thirring inequalities: Recent results and open problems.* In *Nine Mathematical Challenges*, Proceedings of Symposia in Pure Mathematics 104, AMS, 2021. [DOI](https://doi.org/10.1090/pspum/104/01877)
 
 ## 10. Worked Example / Concrete Special Case
 

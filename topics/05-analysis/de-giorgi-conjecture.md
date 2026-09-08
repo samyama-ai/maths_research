@@ -125,22 +125,22 @@ The gap is entirely the passage **stable $\Rightarrow$ minimizing** (or the dire
 ## 9. Key References
 
 - **[Foundational]** E. De Giorgi. *Convergence problems for functionals and operators.* Proceedings of the International Meeting on Recent Methods in Nonlinear Analysis (Rome, 1978), Pitagora, Bologna, 1979, 131–188.
-- **[Foundational]** L. Modica. *A gradient bound and a Liouville theorem for nonlinear Poisson equations.* Communications on Pure and Applied Mathematics 38 (1985), 679–684.
-- **[Foundational]** L. Modica. *The gradient theory of phase transitions and the minimal interface criterion.* Archive for Rational Mechanics and Analysis 98 (1987), 123–142.
-- **[Foundational]** E. Bombieri, E. De Giorgi, E. Giusti. *Minimal cones and the Bernstein problem.* Inventiones Mathematicae 7 (1969), 243–268.
-- **[Foundational]** J. Simons. *Minimal varieties in riemannian manifolds.* Annals of Mathematics 88 (1968), 62–105.
+- **[Foundational]** L. Modica. *A gradient bound and a Liouville theorem for nonlinear Poisson equations.* Communications on Pure and Applied Mathematics 38 (1985), 679–684. [DOI](https://doi.org/10.1002/cpa.3160380515)
+- **[Foundational]** L. Modica. *The gradient theory of phase transitions and the minimal interface criterion.* Archive for Rational Mechanics and Analysis 98 (1987), 123–142. [DOI](https://doi.org/10.1007/bf00251230)
+- **[Foundational]** E. Bombieri, E. De Giorgi, E. Giusti. *Minimal cones and the Bernstein problem.* Inventiones Mathematicae 7 (1969), 243–268. [DOI](https://doi.org/10.1007/bf01404309)
+- **[Foundational]** J. Simons. *Minimal varieties in riemannian manifolds.* Annals of Mathematics 88 (1968), 62–105. [DOI](https://doi.org/10.2307/1970556)
 - **[Key case]** H. Berestycki, L. Caffarelli, L. Nirenberg. *Further qualitative properties for elliptic equations in unbounded domains.* Annali della Scuola Normale Superiore di Pisa, Cl. Sci. 25 (1997), 69–94.
-- **[Key case]** N. Ghoussoub, C. Gui. *On a conjecture of De Giorgi and some related problems.* Mathematische Annalen 311 (1998), 481–491.
+- **[Key case]** N. Ghoussoub, C. Gui. *On a conjecture of De Giorgi and some related problems.* Mathematische Annalen 311 (1998), 481–491. [DOI](https://doi.org/10.1007/s002080050196)
 - **[Key case]** L. Ambrosio, X. Cabré. *Entire solutions of semilinear elliptic equations in $\mathbb{R}^3$ and a conjecture of De Giorgi.* Journal of the American Mathematical Society 13 (2000), 725–739.
 - **[Key case]** N. Ghoussoub, C. Gui. *On De Giorgi's conjecture in dimensions 4 and 5.* Annals of Mathematics 157 (2003), 313–334.
-- **[SOTA]** O. Savin. *Regularity of flat level sets in phase transitions.* Annals of Mathematics 169 (2009), 41–78.
+- **[SOTA]** O. Savin. *Regularity of flat level sets in phase transitions.* Annals of Mathematics 169 (2009), 41–78. [DOI](https://doi.org/10.4007/annals.2009.169.41)
 - **[SOTA]** M. del Pino, M. Kowalczyk, J. Wei. *On De Giorgi's conjecture in dimension $N \ge 9$.* Annals of Mathematics 174 (2011), 1485–1569.
-- **[SOTA]** K. Wang. *A new proof of Savin's theorem on Allen–Cahn equations.* Journal of the European Mathematical Society 19 (2017), 2997–3051.
-- **[SOTA]** K. Wang, J. Wei. *Finite Morse index implies finite ends.* Communications on Pure and Applied Mathematics 72 (2019), 1044–1119.
-- **[SOTA]** X. Cabré, A. Figalli, X. Ros-Oton, J. Serra. *Stable solutions to semilinear elliptic equations are smooth up to dimension 9.* Acta Mathematica 224 (2020), 187–252.
+- **[SOTA]** K. Wang. *A new proof of Savin's theorem on Allen–Cahn equations.* Journal of the European Mathematical Society 19 (2017), 2997–3051. [DOI](https://doi.org/10.4171/jems/734)
+- **[SOTA]** K. Wang, J. Wei. *Finite Morse index implies finite ends.* Communications on Pure and Applied Mathematics 72 (2019), 1044–1119. [DOI](https://doi.org/10.1002/cpa.21812)
+- **[SOTA]** X. Cabré, A. Figalli, X. Ros-Oton, J. Serra. *Stable solutions to semilinear elliptic equations are smooth up to dimension 9.* Acta Mathematica 224 (2020), 187–252. [DOI](https://doi.org/10.4310/acta.2020.v224.n2.a1)
 - **[SOTA]** O. Chodosh, C. Li. *Stable minimal hypersurfaces in $\mathbb{R}^4$.* arXiv:2108.11462, 2021.
-- **[Survey]** H. Chan, J. Wei. *On De Giorgi's conjecture: recent progress and open problems.* Science China Mathematics 61 (2018), 1925–1946.
-- **[Survey]** A. Farina, E. Valdinoci. *The state of the art for a conjecture of De Giorgi and related problems.* In *Recent Progress on Reaction-Diffusion Systems and Viscosity Solutions*, World Scientific, 2009, 74–96.
+- **[Survey]** H. Chan, J. Wei. *On De Giorgi's conjecture: recent progress and open problems.* Science China Mathematics 61 (2018), 1925–1946. [DOI](https://doi.org/10.1007/s11425-017-9307-4)
+- **[Survey]** A. Farina, E. Valdinoci. *The state of the art for a conjecture of De Giorgi and related problems.* In *Recent Progress on Reaction-Diffusion Systems and Viscosity Solutions*, World Scientific, 2009, 74–96. [DOI](https://doi.org/10.1142/9789812834744_0004)
 
 ## 10. Worked Example / Concrete Special Case
 

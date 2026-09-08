@@ -79,7 +79,7 @@ Leading number theorists and computational mathematicians suggest several open p
 
 ## 9. Key References
 
-- **[Foundational]** Wagstaff, S. S., Jr. *Divisors of Mersenne numbers.* Mathematics of Computation, 1983.
+- **[Foundational]** Wagstaff, S. S., Jr. *Divisors of Mersenne numbers.* Mathematics of Computation, 1983. [DOI](https://doi.org/10.1090/s0025-5718-1983-0679454-x)
 - **[Foundational]** Bateman, P. T., Selfridge, J. L., & Wagstaff, S. S., Jr. *The New Mersenne Conjecture.* The American Mathematical Monthly, 1989.
 - **[SOTA / Recent]** Morain, F. *Primality proving using elliptic curves: an update.* Algorithmic Number Theory Symposium (ANTS), 2007.
 

@@ -107,18 +107,18 @@ For spherical space forms there is now no gap: the Bamler–Kleiner theorem subs
 
 - **[Foundational]** S. Smale. *Diffeomorphisms of the 2-sphere.* Proc. Amer. Math. Soc. 10 (1959), 621–626.
 - **[Foundational]** J. Cerf. *Sur les difféomorphismes de la sphère de dimension trois ($\Gamma_4 = 0$).* Lecture Notes in Mathematics 53, Springer, 1968.
-- **[Foundational]** A. Hatcher. *A proof of the Smale conjecture, $\mathrm{Diff}(S^3)\simeq O(4)$.* Annals of Mathematics 117 (1983), 553–607.
-- **[Foundational]** A. Hatcher. *On the diffeomorphism group of $S^1\times S^2$.* Proc. Amer. Math. Soc. 83 (1981), 427–430.
+- **[Foundational]** A. Hatcher. *A proof of the Smale conjecture, $\mathrm{Diff}(S^3)\simeq O(4)$.* Annals of Mathematics 117 (1983), 553–607. [DOI](https://doi.org/10.2307/2007035)
+- **[Foundational]** A. Hatcher. *On the diffeomorphism group of $S^1\times S^2$.* Proc. Amer. Math. Soc. 83 (1981), 427–430. [DOI](https://doi.org/10.1090/s0002-9939-1981-0624946-2)
 - **[Foundational]** N. V. Ivanov. *Homotopy of spaces of diffeomorphisms of some three-dimensional manifolds.* Zap. Nauchn. Sem. LOMI 122 (1982); English transl. J. Soviet Math. 26 (1984).
-- **[Foundational]** F. Bonahon. *Difféotopies des espaces lenticulaires.* Topology 22 (1983), 305–314.
+- **[Foundational]** F. Bonahon. *Difféotopies des espaces lenticulaires.* Topology 22 (1983), 305–314. [DOI](https://doi.org/10.1016/0040-9383(83)90016-2)
 - **[Foundational]** D. Gabai. *The Smale conjecture for hyperbolic 3-manifolds: $\mathrm{Isom}(M^3)\simeq\mathrm{Diff}(M^3)$.* J. Differential Geometry 58 (2001), 113–149.
-- **[Survey / Monograph]** S. Hong, J. Kalliongis, D. McCullough, J. H. Rubinstein. *Diffeomorphisms of Elliptic 3-Manifolds.* Lecture Notes in Mathematics 2055, Springer, 2012.
-- **[Background]** D. McCullough. *Isometries of elliptic 3-manifolds.* J. London Math. Soc. 65 (2002), 167–182.
-- **[SOTA]** R. Bamler, B. Kleiner. *Ricci flow and diffeomorphism groups of 3-manifolds.* Journal of the American Mathematical Society 36 (2023), 563–589.
-- **[SOTA]** R. Bamler, B. Kleiner. *Uniqueness and stability of Ricci flow through singularities.* Acta Mathematica 228 (2022), 1–215.
-- **[SOTA]** B. Kleiner, J. Lott. *Singular Ricci flows I.* Acta Mathematica 219 (2017), 65–134.
+- **[Survey / Monograph]** S. Hong, J. Kalliongis, D. McCullough, J. H. Rubinstein. *Diffeomorphisms of Elliptic 3-Manifolds.* Lecture Notes in Mathematics 2055, Springer, 2012. [DOI](https://doi.org/10.1007/978-3-642-31564-0)
+- **[Background]** D. McCullough. *Isometries of elliptic 3-manifolds.* J. London Math. Soc. 65 (2002), 167–182. [DOI](https://doi.org/10.1112/s0024610701002782)
+- **[SOTA]** R. Bamler, B. Kleiner. *Ricci flow and diffeomorphism groups of 3-manifolds.* Journal of the American Mathematical Society 36 (2023), 563–589. [DOI](https://doi.org/10.1090/jams/1003)
+- **[SOTA]** R. Bamler, B. Kleiner. *Uniqueness and stability of Ricci flow through singularities.* Acta Mathematica 228 (2022), 1–215. [DOI](https://doi.org/10.4310/acta.2022.v228.n1.a1)
+- **[SOTA]** B. Kleiner, J. Lott. *Singular Ricci flows I.* Acta Mathematica 219 (2017), 65–134. [DOI](https://doi.org/10.4310/acta.2017.v219.n1.a4)
 - **[Recent]** T. Watanabe. *Some exotic nontrivial elements of the rational homotopy groups of $\mathrm{Diff}(S^4)$.* Preprint, 2018.
-- **[Background]** P. Antonelli, D. Burghelea, P. J. Kahn. *The non-finite homotopy type of some diffeomorphism groups.* Topology 11 (1972), 1–49.
+- **[Background]** P. Antonelli, D. Burghelea, P. J. Kahn. *The non-finite homotopy type of some diffeomorphism groups.* Topology 11 (1972), 1–49. [DOI](https://doi.org/10.1016/0040-9383(72)90021-3)
 - **[Background]** G. Perelman. *The entropy formula for the Ricci flow and its geometric applications.* Preprint, 2002.
 
 ## 10. Worked Example / Concrete Special Case

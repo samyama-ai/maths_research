@@ -106,19 +106,19 @@ Existence is closed. The gap is quantitative. Precisely:
 
 ## 9. Key References
 
-- **[Foundational]** Stephen Smale. *A classification of immersions of the two-sphere.* Transactions of the American Mathematical Society **90** (1959), 281–290.
+- **[Foundational]** Stephen Smale. *A classification of immersions of the two-sphere.* Transactions of the American Mathematical Society **90** (1959), 281–290. [DOI](https://doi.org/10.1090/s0002-9947-1959-0104227-9)
 - **[Foundational]** Morris W. Hirsch. *Immersions of manifolds.* Transactions of the American Mathematical Society **93** (1959), 242–276.
 - **[Foundational]** Hassler Whitney. *On regular closed curves in the plane.* Compositio Mathematica **4** (1937), 276–284.
-- **[Foundational]** Mikhael Gromov. *Partial Differential Relations.* Springer, Ergebnisse der Mathematik, 1986.
+- **[Foundational]** Mikhael Gromov. *Partial Differential Relations.* Springer, Ergebnisse der Mathematik, 1986. [DOI](https://doi.org/10.1007/978-3-662-02267-2)
 - **[Structural]** Nelson Max and Tom Banchoff. *Every sphere eversion has a quadruple point.* In *Contributions to Analysis and Geometry*, Johns Hopkins University Press, 1981, 191–209.
-- **[Structural]** Tahl Nowik. *Quadruple points of regular homotopies of surfaces in 3-manifolds.* Topology **39** (2000), 1069–1088.
-- **[SOTA]** George Francis, John M. Sullivan, Rob Kusner, Ken Brakke, Chris Hartman, Glenn Chappell. *The minimax sphere eversion.* In *Visualization and Mathematics*, Springer, 1997, 3–20.
-- **[SOTA]** Adam Bednorz and Witold Bednorz. *Analytic sphere eversion using ruled surfaces.* Differential Geometry and its Applications **64** (2019), 59–79.
-- **[SOTA]** Patrick Massot, Floris van Doorn, Oliver Nash. *Formalising the h-principle and sphere eversion.* Proceedings of CPP 2023 (ACM), 2023.
+- **[Structural]** Tahl Nowik. *Quadruple points of regular homotopies of surfaces in 3-manifolds.* Topology **39** (2000), 1069–1088. [DOI](https://doi.org/10.1016/s0040-9383(99)00055-5)
+- **[SOTA]** George Francis, John M. Sullivan, Rob Kusner, Ken Brakke, Chris Hartman, Glenn Chappell. *The minimax sphere eversion.* In *Visualization and Mathematics*, Springer, 1997, 3–20. [DOI](https://doi.org/10.1007/978-3-642-59195-2_1)
+- **[SOTA]** Adam Bednorz and Witold Bednorz. *Analytic sphere eversion using ruled surfaces.* Differential Geometry and its Applications **64** (2019), 59–79. [DOI](https://doi.org/10.1016/j.difgeo.2019.02.004)
+- **[SOTA]** Patrick Massot, Floris van Doorn, Oliver Nash. *Formalising the h-principle and sphere eversion.* Proceedings of CPP 2023 (ACM), 2023. [DOI](https://doi.org/10.1145/3573105.3575688)
 - **[Survey]** Y. Eliashberg and N. Mishachev. *Introduction to the h-Principle.* Graduate Studies in Mathematics 48, American Mathematical Society, 2002.
 - **[Survey]** George K. Francis. *A Topological Picturebook.* Springer, 1987.
 - **[Expository]** Anthony Phillips. *Turning a surface inside out.* Scientific American **214** (May 1966), 112–120.
-- **[Related]** Robert Bryant. *A duality theorem for Willmore surfaces.* Journal of Differential Geometry **20** (1984), 23–53.
+- **[Related]** Robert Bryant. *A duality theorem for Willmore surfaces.* Journal of Differential Geometry **20** (1984), 23–53. [DOI](https://doi.org/10.4310/jdg/1214438991)
 
 ## 10. Worked Example / Concrete Special Case
 

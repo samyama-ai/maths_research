@@ -134,19 +134,19 @@ on average over $p \le x$ with an *unconditional* Mertens-type estimate valid un
 
 ## 9. Key References
 
-- **[Foundational]** D. B. Gillies. *Three new Mersenne primes and a statistical theory.* Mathematics of Computation **18** (1964), 93–97.
-- **[Foundational]** S. S. Wagstaff, Jr. *Divisors of Mersenne numbers.* Mathematics of Computation **40** (1983), 385–397.
-- **[Foundational]** C. Pomerance. *Recent developments in primality testing.* The Mathematical Intelligencer **3** (1981), 97–105.
-- **[Foundational]** H. W. Lenstra, Jr. *Primality testing algorithms (after Adleman, Rumely and Williams).* Séminaire Bourbaki 1980/81, Exp. 576, Lecture Notes in Mathematics 901, Springer, 1981.
-- **[Foundational]** P. T. Bateman, R. A. Horn. *A heuristic asymptotic formula concerning the distribution of prime numbers.* Mathematics of Computation **16** (1962), 363–367.
+- **[Foundational]** D. B. Gillies. *Three new Mersenne primes and a statistical theory.* Mathematics of Computation **18** (1964), 93–97. [DOI](https://doi.org/10.1090/s0025-5718-1964-0159774-6)
+- **[Foundational]** S. S. Wagstaff, Jr. *Divisors of Mersenne numbers.* Mathematics of Computation **40** (1983), 385–397. [DOI](https://doi.org/10.1090/s0025-5718-1983-0679454-x)
+- **[Foundational]** C. Pomerance. *Recent developments in primality testing.* The Mathematical Intelligencer **3** (1981), 97–105. [DOI](https://doi.org/10.1007/bf03022861)
+- **[Foundational]** H. W. Lenstra, Jr. *Primality testing algorithms (after Adleman, Rumely and Williams).* Séminaire Bourbaki 1980/81, Exp. 576, Lecture Notes in Mathematics 901, Springer, 1981. [DOI](https://doi.org/10.1007/bfb0097201)
+- **[Foundational]** P. T. Bateman, R. A. Horn. *A heuristic asymptotic formula concerning the distribution of prime numbers.* Mathematics of Computation **16** (1962), 363–367. [DOI](https://doi.org/10.1090/s0025-5718-1962-0148632-7)
 - **[Related conjecture]** P. T. Bateman, J. L. Selfridge, S. S. Wagstaff, Jr. *The new Mersenne conjecture.* American Mathematical Monthly **96** (1989), 125–128.
-- **[SOTA / Structural]** C. L. Stewart. *On divisors of Lucas and Lehmer numbers.* Acta Mathematica **211** (2013), 291–314.
-- **[SOTA / Structural]** C. L. Stewart. *On divisors of Fermat, Fibonacci, Lucas and Lehmer numbers.* Proceedings of the London Mathematical Society **35** (1977), 425–447.
+- **[SOTA / Structural]** C. L. Stewart. *On divisors of Lucas and Lehmer numbers.* Acta Mathematica **211** (2013), 291–314. [DOI](https://doi.org/10.1007/s11511-013-0105-y)
+- **[SOTA / Structural]** C. L. Stewart. *On divisors of Fermat, Fibonacci, Lucas and Lehmer numbers.* Proceedings of the London Mathematical Society **35** (1977), 425–447. [DOI](https://doi.org/10.1112/plms/s3-35.3.425)
 - **[Structural]** A. Schinzel. *On primitive prime factors of $a^n-b^n$.* Proceedings of the Cambridge Philosophical Society **58** (1962), 555–562.
 - **[Conditional]** J. H. Silverman. *Wieferich's criterion and the abc-conjecture.* Journal of Number Theory **30** (1988), 226–237.
 - **[Survey]** R. K. Guy. *Unsolved Problems in Number Theory*, 3rd ed., Springer, 2004, Section A3.
 - **[Survey]** R. Crandall, C. Pomerance. *Prime Numbers: A Computational Perspective*, 2nd ed., Springer, 2005, Chapters 1 and 4.
-- **[Survey]** P. Ribenboim. *The New Book of Prime Number Records*, Springer, 1996.
+- **[Survey]** P. Ribenboim. *The New Book of Prime Number Records*, Springer, 1996. [DOI](https://doi.org/10.1007/978-1-4612-0759-7)
 
 ## 10. Worked Example / Concrete Special Case
 

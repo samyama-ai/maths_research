@@ -103,20 +103,20 @@ Concretely: bridge from "the numbers are integers" to "the integers are dimensio
 
 ## 9. Key References
 
-- **[Foundational]** H. Ooguri, C. Vafa. *Knot invariants and topological strings.* Nuclear Physics B **577** (2000), 419–438. arXiv:hep-th/9912123.
-- **[Foundational]** R. Gopakumar, C. Vafa. *On the gauge theory/geometry correspondence.* Advances in Theoretical and Mathematical Physics **3** (1999), 1415–1443.
-- **[Foundational]** J. M. F. Labastida, M. Mariño, C. Vafa. *Knots, links and branes at large $N$.* Journal of High Energy Physics **11** (2000), 007.
-- **[Foundational]** J. M. F. Labastida, M. Mariño. *A new point of view in the theory of knot and link invariants.* Journal of Knot Theory and Its Ramifications **11** (2002), 173–197.
-- **[Partial result]** S. Katz, C.-C. M. Liu. *Enumerative geometry of stable maps with Lagrangian boundary conditions and multiple covers of the disc.* Advances in Theoretical and Mathematical Physics **5** (2001), 1–49. arXiv:math/0103074.
-- **[Partial result]** C.-C. M. Liu, K. Liu, J. Zhou. *A proof of a conjecture of Mariño–Vafa on Hodge integrals.* Journal of Differential Geometry **65** (2003), 289–340.
-- **[SOTA]** K. Liu, P. Peng. *Proof of the Labastida–Mariño–Ooguri–Vafa conjecture.* Journal of Differential Geometry **85** (2010), 479–525. arXiv:0704.1526.
-- **[SOTA]** D.-E. Diaconescu, V. Shende, C. Vafa. *Large $N$ duality, Lagrangian cycles, and algebraic knots.* Communications in Mathematical Physics **319** (2013), 813–863. arXiv:1111.6533.
-- **[SOTA]** D. Maulik. *Stable pairs and the HOMFLY polynomial.* Inventiones Mathematicae **204** (2016), 787–831. arXiv:1210.6323.
-- **[SOTA]** A. Oblomkov, V. Shende. *The Hilbert scheme of a plane curve singularity and the HOMFLY polynomial of its link.* Duke Mathematical Journal **161** (2012), 1277–1303.
+- **[Foundational]** H. Ooguri, C. Vafa. *Knot invariants and topological strings.* Nuclear Physics B **577** (2000), 419–438. arXiv:hep-th/9912123. [DOI](https://doi.org/10.1016/s0550-3213(00)00118-8)
+- **[Foundational]** R. Gopakumar, C. Vafa. *On the gauge theory/geometry correspondence.* Advances in Theoretical and Mathematical Physics **3** (1999), 1415–1443. [DOI](https://doi.org/10.4310/atmp.1999.v3.n5.a5)
+- **[Foundational]** J. M. F. Labastida, M. Mariño, C. Vafa. *Knots, links and branes at large $N$.* Journal of High Energy Physics **11** (2000), 007. [DOI](https://doi.org/10.1088/1126-6708/2000/11/007)
+- **[Foundational]** J. M. F. Labastida, M. Mariño. *A new point of view in the theory of knot and link invariants.* Journal of Knot Theory and Its Ramifications **11** (2002), 173–197. [DOI](https://doi.org/10.1142/s0218216502001561)
+- **[Partial result]** S. Katz, C.-C. M. Liu. *Enumerative geometry of stable maps with Lagrangian boundary conditions and multiple covers of the disc.* Advances in Theoretical and Mathematical Physics **5** (2001), 1–49. arXiv:math/0103074. [DOI](https://doi.org/10.4310/atmp.2001.v5.n1.a1)
+- **[Partial result]** C.-C. M. Liu, K. Liu, J. Zhou. *A proof of a conjecture of Mariño–Vafa on Hodge integrals.* Journal of Differential Geometry **65** (2003), 289–340. [DOI](https://doi.org/10.4310/jdg/1090511689)
+- **[SOTA]** K. Liu, P. Peng. *Proof of the Labastida–Mariño–Ooguri–Vafa conjecture.* Journal of Differential Geometry **85** (2010), 479–525. arXiv:0704.1526. [DOI](https://doi.org/10.4310/jdg/1292940692)
+- **[SOTA]** D.-E. Diaconescu, V. Shende, C. Vafa. *Large $N$ duality, Lagrangian cycles, and algebraic knots.* Communications in Mathematical Physics **319** (2013), 813–863. arXiv:1111.6533. [DOI](https://doi.org/10.1007/s00220-012-1563-3)
+- **[SOTA]** D. Maulik. *Stable pairs and the HOMFLY polynomial.* Inventiones Mathematicae **204** (2016), 787–831. arXiv:1210.6323. [DOI](https://doi.org/10.1007/s00222-015-0624-6)
+- **[SOTA]** A. Oblomkov, V. Shende. *The Hilbert scheme of a plane curve singularity and the HOMFLY polynomial of its link.* Duke Mathematical Journal **161** (2012), 1277–1303. [DOI](https://doi.org/10.1215/00127094-1593281)
 - **[SOTA]** T. Ekholm, V. Shende. *Skeins on branes.* arXiv:1901.08027 (2019).
-- **[SOTA]** M. Aganagic, T. Ekholm, L. Ng, C. Vafa. *Topological strings, D-model, and knot contact homology.* Advances in Theoretical and Mathematical Physics **18** (2014), 827–956.
+- **[SOTA]** M. Aganagic, T. Ekholm, L. Ng, C. Vafa. *Topological strings, D-model, and knot contact homology.* Advances in Theoretical and Mathematical Physics **18** (2014), 827–956. [DOI](https://doi.org/10.4310/atmp.2014.v18.n4.a3)
 - **[Survey]** M. Mariño. *Chern–Simons Theory, Matrix Models, and Topological Strings.* International Series of Monographs on Physics 131, Oxford University Press, 2005.
-- **[Survey]** P. Kucharski, M. Reineke, M. Stošić, P. Sułkowski. *BPS states, knots and quivers.* Physical Review D **96** (2017), 121902.
+- **[Survey]** P. Kucharski, M. Reineke, M. Stošić, P. Sułkowski. *BPS states, knots and quivers.* Physical Review D **96** (2017), 121902. [DOI](https://doi.org/10.1103/physrevd.96.121902)
 
 ## 10. Worked Example / Concrete Special Case
 

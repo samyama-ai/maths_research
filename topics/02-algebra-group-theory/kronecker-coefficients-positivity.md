@@ -104,24 +104,24 @@ The precise barrier: convert the *asymptotic* positivity criterion (membership i
 
 ## 9. Key References
 
-- **[Foundational]** F. D. Murnaghan. *The analysis of the Kronecker product of irreducible representations of the symmetric group.* American Journal of Mathematics 60 (1938), 761–784.
+- **[Foundational]** F. D. Murnaghan. *The analysis of the Kronecker product of irreducible representations of the symmetric group.* American Journal of Mathematics 60 (1938), 761–784. [DOI](https://doi.org/10.2307/2371610)
 - **[Foundational]** R. P. Stanley. *Positivity problems and conjectures in algebraic combinatorics.* In: Mathematics: Frontiers and Perspectives, AMS, 2000, 295–319.
-- **[Partial rules]** M. H. Rosas. *The Kronecker product of Schur functions indexed by two-row shapes or hook shapes.* Journal of Algebraic Combinatorics 14 (2001), 153–173.
-- **[Partial rules]** J. B. Remmel, T. Whitehead. *On the Kronecker product of Schur functions of two row shapes.* Bulletin of the Belgian Mathematical Society 1 (1994), 649–683.
+- **[Partial rules]** M. H. Rosas. *The Kronecker product of Schur functions indexed by two-row shapes or hook shapes.* Journal of Algebraic Combinatorics 14 (2001), 153–173. [DOI](https://doi.org/10.1007/978-3-662-04166-6_31)
+- **[Partial rules]** J. B. Remmel, T. Whitehead. *On the Kronecker product of Schur functions of two row shapes.* Bulletin of the Belgian Mathematical Society 1 (1994), 649–683. [DOI](https://doi.org/10.36045/bbms/1103408635)
 - **[Partial rules]** C. Ballantine, R. Orellana. *On the Kronecker product $s_{(n-p,p)} * s_\lambda$.* Electronic Journal of Combinatorics 12 (2005), R28.
 - **[Partial rules]** J. Blasiak. *Kronecker coefficients for one hook shape.* Séminaire Lotharingien de Combinatoire 77 (2017), Art. B77c.
-- **[SOTA]** J. Blasiak, R. I. Liu. *Kronecker coefficients and noncommutative super Schur functions.* Journal of Combinatorial Theory Series A 158 (2018), 315–361.
-- **[Stability]** E. Briand, R. Orellana, M. Rosas. *The stability of the Kronecker product of Schur functions.* Journal of Algebra 331 (2011), 11–27.
-- **[Stability]** S. Sam, A. Snowden. *Proof of Stembridge's conjecture on stability of Kronecker coefficients.* Journal of Algebraic Combinatorics 43 (2016), 1–10.
-- **[Complexity]** E. Briand, R. Orellana, M. Rosas. *Reduced Kronecker coefficients and counter-examples to Mulmuley's strong saturation conjecture SH.* Computational Complexity 18 (2009), 577–600.
+- **[SOTA]** J. Blasiak, R. I. Liu. *Kronecker coefficients and noncommutative super Schur functions.* Journal of Combinatorial Theory Series A 158 (2018), 315–361. [DOI](https://doi.org/10.1016/j.jcta.2018.02.007)
+- **[Stability]** E. Briand, R. Orellana, M. Rosas. *The stability of the Kronecker product of Schur functions.* Journal of Algebra 331 (2011), 11–27. [DOI](https://doi.org/10.46298/dmtcs.2872)
+- **[Stability]** S. Sam, A. Snowden. *Proof of Stembridge's conjecture on stability of Kronecker coefficients.* Journal of Algebraic Combinatorics 43 (2016), 1–10. [DOI](https://doi.org/10.1007/s10801-015-0622-1)
+- **[Complexity]** E. Briand, R. Orellana, M. Rosas. *Reduced Kronecker coefficients and counter-examples to Mulmuley's strong saturation conjecture SH.* Computational Complexity 18 (2009), 577–600. [DOI](https://doi.org/10.1007/s00037-009-0279-z)
 - **[Complexity]** I. Pak, G. Panova. *On the complexity of computing Kronecker coefficients.* Computational Complexity 26 (2017), 1–36.
-- **[Complexity / SOTA]** C. Ikenmeyer, K. D. Mulmuley, M. Walter. *On vanishing of Kronecker coefficients.* Computational Complexity 26 (2017), 949–992.
-- **[GCT]** K. D. Mulmuley, M. Sohoni. *Geometric Complexity Theory II: Towards explicit obstructions for embeddings among class varieties.* SIAM Journal on Computing 38 (2008), 1175–1206.
-- **[SOTA]** P. Bürgisser, C. Ikenmeyer, G. Panova. *No occurrence obstructions in geometric complexity theory.* Journal of the American Mathematical Society 32 (2019), 163–193.
-- **[Quantum marginals]** M. Christandl, A. W. Harrow, G. Mitchison. *Nonzero Kronecker coefficients and what they tell us about spectra.* Communications in Mathematical Physics 270 (2007), 575–585.
-- **[Rectangles]** P. Bürgisser, M. Christandl, C. Ikenmeyer. *Nonvanishing of Kronecker coefficients for rectangular shapes.* Advances in Mathematics 227 (2011), 2082–2091.
-- **[Asymptotics]** L. Manivel. *On the asymptotics of Kronecker coefficients.* Journal of Algebraic Combinatorics 42 (2015), 999–1025.
-- **[Survey]** G. Panova. *Complexity and asymptotics of structure constants.* arXiv:2305.02553, 2023.
+- **[Complexity / SOTA]** C. Ikenmeyer, K. D. Mulmuley, M. Walter. *On vanishing of Kronecker coefficients.* Computational Complexity 26 (2017), 949–992. [DOI](https://doi.org/10.1007/s00037-017-0158-y)
+- **[GCT]** K. D. Mulmuley, M. Sohoni. *Geometric Complexity Theory II: Towards explicit obstructions for embeddings among class varieties.* SIAM Journal on Computing 38 (2008), 1175–1206. [DOI](https://doi.org/10.1137/080718115)
+- **[SOTA]** P. Bürgisser, C. Ikenmeyer, G. Panova. *No occurrence obstructions in geometric complexity theory.* Journal of the American Mathematical Society 32 (2019), 163–193. [DOI](https://doi.org/10.1090/jams/908)
+- **[Quantum marginals]** M. Christandl, A. W. Harrow, G. Mitchison. *Nonzero Kronecker coefficients and what they tell us about spectra.* Communications in Mathematical Physics 270 (2007), 575–585. [DOI](https://doi.org/10.1007/s00220-006-0157-3)
+- **[Rectangles]** P. Bürgisser, M. Christandl, C. Ikenmeyer. *Nonvanishing of Kronecker coefficients for rectangular shapes.* Advances in Mathematics 227 (2011), 2082–2091. [DOI](https://doi.org/10.1016/j.aim.2011.04.012)
+- **[Asymptotics]** L. Manivel. *On the asymptotics of Kronecker coefficients.* Journal of Algebraic Combinatorics 42 (2015), 999–1025. [DOI](https://doi.org/10.1007/s10801-015-0614-1)
+- **[Survey]** G. Panova. *Complexity and asymptotics of structure constants.* arXiv:2305.02553, 2023. [DOI](https://doi.org/10.1090/pspum/110/02016)
 
 ## 10. Worked Example / Concrete Special Case
 

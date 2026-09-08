@@ -89,7 +89,7 @@ Leading mathematicians suggest that proving $\mu=0$ generally might strictly req
 ## 9. Key References
 
 - **[Foundational]** Iwasawa, K. *On $\Gamma$-extensions of algebraic number fields*. Bulletin of the American Mathematical Society, 1959.
-- **[Foundational]** Ferrero, B., and Washington, L. *The Iwasawa invariant $\mu_p$ vanishes for abelian number fields*. Annals of Mathematics, 1979.
+- **[Foundational]** Ferrero, B., and Washington, L. *The Iwasawa invariant $\mu_p$ vanishes for abelian number fields*. Annals of Mathematics, 1979. [DOI](https://doi.org/10.2307/1971116)
 - **[Foundational]** Sinnott, W. *On the $\mu$-invariant of the $\Gamma$-transform of a rational function*. Inventiones Mathematicae, 1984.
 - **[Survey]** Washington, L. C. *Introduction to Cyclotomic Fields* (2nd ed.). Springer-Verlag, 1997.
 - **[SOTA / Recent]** Coates, J., Fukaya, T., Kato, K., Sujatha, R., Venjakob, O. *The $\text{GL}_2$ main conjecture for elliptic curves without complex multiplication*. Publications Mathématiques de l'IHÉS, 2005.

@@ -137,22 +137,22 @@ Neither reduction is known to be reversible without loss; closing the gap means 
 
 ## 9. Key References
 
-- **[Foundational]** R. Kannan, L. Lovász, M. Simonovits. *Isoperimetric problems for convex bodies and a localization lemma.* Discrete & Computational Geometry, 13 (1995), 541–559.
+- **[Foundational]** R. Kannan, L. Lovász, M. Simonovits. *Isoperimetric problems for convex bodies and a localization lemma.* Discrete & Computational Geometry, 13 (1995), 541–559. [DOI](https://doi.org/10.1007/bf02574061)
 - **[Foundational]** C. Borell. *Convex set functions in $d$-space.* Periodica Mathematica Hungarica, 6 (1975), 111–136.
 - **[Foundational]** S. G. Bobkov. *On isoperimetric constants for log-concave probability distributions.* Geometric Aspects of Functional Analysis (GAFA Seminar Notes), Lecture Notes in Math. 1910, Springer, 2007.
-- **[Key technique]** R. Eldan. *Thin shell implies spectral gap up to polylog via a stochastic localization scheme.* Geometric and Functional Analysis, 23 (2013), 532–569.
-- **[Key technique]** R. Eldan, B. Klartag. *Approximately gaussian marginals and the hyperplane conjecture.* Contemporary Mathematics 545, AMS, 2011, 55–68.
-- **[Structural]** E. Milman. *On the role of convexity in isoperimetry, spectral gap and concentration.* Inventiones Mathematicae, 177 (2009), 1–43.
-- **[Partial results]** O. Guédon, E. Milman. *Interpolating thin-shell and sharp large-deviation estimates for isotropic log-concave measures.* Geometric and Functional Analysis, 21 (2011), 1043–1068.
-- **[Partial results]** B. Klartag. *A Berry–Esseen type inequality for convex bodies with an unconditional basis.* Probability Theory and Related Fields, 145 (2009), 1–33.
-- **[Partial results]** S. Sodin. *An isoperimetric inequality on the $\ell_p$ balls.* Annales de l'Institut Henri Poincaré (B), 44 (2008), 362–373.
-- **[SOTA]** Y. T. Lee, S. S. Vempala. *Eldan's stochastic localization and the KLS hyperplane conjecture: an improved lower bound for expansion.* Proc. 58th IEEE FOCS, 2017.
-- **[SOTA]** Y. Chen. *An almost constant lower bound of the isoperimetric coefficient in the KLS conjecture.* Geometric and Functional Analysis, 31 (2021), 34–61.
-- **[SOTA]** B. Klartag, J. Lehec. *Bourgain's slicing problem and KLS isoperimetry up to polylog.* Geometric and Functional Analysis, 32 (2022), 1134–1159.
+- **[Key technique]** R. Eldan. *Thin shell implies spectral gap up to polylog via a stochastic localization scheme.* Geometric and Functional Analysis, 23 (2013), 532–569. [DOI](https://doi.org/10.1007/s00039-013-0214-y)
+- **[Key technique]** R. Eldan, B. Klartag. *Approximately gaussian marginals and the hyperplane conjecture.* Contemporary Mathematics 545, AMS, 2011, 55–68. [DOI](https://doi.org/10.1090/conm/545/10764)
+- **[Structural]** E. Milman. *On the role of convexity in isoperimetry, spectral gap and concentration.* Inventiones Mathematicae, 177 (2009), 1–43. [DOI](https://doi.org/10.1007/s00222-009-0175-9)
+- **[Partial results]** O. Guédon, E. Milman. *Interpolating thin-shell and sharp large-deviation estimates for isotropic log-concave measures.* Geometric and Functional Analysis, 21 (2011), 1043–1068. [DOI](https://doi.org/10.1007/s00039-011-0136-5)
+- **[Partial results]** B. Klartag. *A Berry–Esseen type inequality for convex bodies with an unconditional basis.* Probability Theory and Related Fields, 145 (2009), 1–33. [DOI](https://doi.org/10.1007/s00440-008-0158-6)
+- **[Partial results]** S. Sodin. *An isoperimetric inequality on the $\ell_p$ balls.* Annales de l'Institut Henri Poincaré (B), 44 (2008), 362–373. [DOI](https://doi.org/10.1214/07-aihp121)
+- **[SOTA]** Y. T. Lee, S. S. Vempala. *Eldan's stochastic localization and the KLS hyperplane conjecture: an improved lower bound for expansion.* Proc. 58th IEEE FOCS, 2017. [DOI](https://doi.org/10.1109/focs.2017.96)
+- **[SOTA]** Y. Chen. *An almost constant lower bound of the isoperimetric coefficient in the KLS conjecture.* Geometric and Functional Analysis, 31 (2021), 34–61. [DOI](https://doi.org/10.1007/s00039-021-00558-4)
+- **[SOTA]** B. Klartag, J. Lehec. *Bourgain's slicing problem and KLS isoperimetry up to polylog.* Geometric and Functional Analysis, 32 (2022), 1134–1159. [DOI](https://doi.org/10.1007/s00039-022-00612-9)
 - **[SOTA]** B. Klartag. *Logarithmic bounds for isoperimetry and slices of convex sets.* Ars Inveniendi Analytica, 2023.
-- **[SOTA / Recent]** B. Klartag, J. Lehec. *Affirmative resolution of Bourgain's slicing problem using Guan's bound.* arXiv:2412.15044, 2024.
-- **[Survey]** S. Brazitikos, A. Giannopoulos, P. Valettas, B.-H. Vritsiou. *Geometry of Isotropic Convex Bodies.* Mathematical Surveys and Monographs 196, AMS, 2014.
-- **[Survey]** Y. T. Lee, S. S. Vempala. *The Kannan–Lovász–Simonovits conjecture.* Current Developments in Mathematics 2017, International Press, 2019.
+- **[SOTA / Recent]** B. Klartag, J. Lehec. *Affirmative resolution of Bourgain's slicing problem using Guan's bound.* arXiv:2412.15044, 2024. [DOI](https://doi.org/10.1007/s00039-025-00718-w)
+- **[Survey]** S. Brazitikos, A. Giannopoulos, P. Valettas, B.-H. Vritsiou. *Geometry of Isotropic Convex Bodies.* Mathematical Surveys and Monographs 196, AMS, 2014. [DOI](https://doi.org/10.1090/surv/196)
+- **[Survey]** Y. T. Lee, S. S. Vempala. *The Kannan–Lovász–Simonovits conjecture.* Current Developments in Mathematics 2017, International Press, 2019. [DOI](https://doi.org/10.4310/cdm.2017.v2017.n1.a1)
 
 ## 10. Worked Example / Concrete Special Case
 

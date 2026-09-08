@@ -127,25 +127,25 @@ The remaining gap, in June 2026, is quantitative and canonical:
 ## 9. Key References
 
 - **[Foundational]** R. S. Hamilton. *The formation of singularities in the Ricci flow.* Surveys in Differential Geometry, Vol. II, International Press, 1995, 7–136.
-- **[Foundational]** G. Tian. *Kähler–Einstein metrics with positive scalar curvature.* Inventiones Mathematicae 130 (1997), 1–37.
+- **[Foundational]** G. Tian. *Kähler–Einstein metrics with positive scalar curvature.* Inventiones Mathematicae 130 (1997), 1–37. [DOI](https://doi.org/10.1007/s002220050176)
 - **[Foundational]** H.-D. Cao. *Deformation of Kähler metrics to Kähler–Einstein metrics on compact Kähler manifolds.* Inventiones Mathematicae 81 (1985), 359–372.
 - **[Foundational]** G. Perelman. *The entropy formula for the Ricci flow and its geometric applications.* arXiv:math/0211159, 2002.
-- **[Foundational]** N. Sesum, G. Tian. *Bounding scalar curvature and diameter along the Kähler Ricci flow (after Perelman).* Journal of the Institute of Mathematics of Jussieu 7 (2008), 575–587.
-- **[SOTA]** G. Tian, Z. Zhang. *Regularity of Kähler–Ricci flows on Fano manifolds.* Acta Mathematica 216 (2016), 127–176.
-- **[SOTA]** G. Tian, Z. Zhang. *Convergence of Kähler–Ricci flow on lower-dimensional algebraic manifolds of general type.* / *Relative volume comparison of Ricci flow and its applications*; and G. Tian, Z. Zhang, Journal of the European Mathematical Society 18 (2016) for the $n\le 3$ case.
-- **[SOTA]** X. Chen, B. Wang. *Space of Ricci flows (II) — Part B: Weak compactness of the flows.* Journal of Differential Geometry 116 (2020), 1–123.
-- **[SOTA]** X. Chen, B. Wang. *Space of Ricci flows (II) — Part A: Moduli of singular Calabi–Yau spaces.* Forum of Mathematics, Sigma 5 (2017), e32.
-- **[SOTA]** R. Bamler. *Convergence of Ricci flows with bounded scalar curvature.* Annals of Mathematics 188 (2018), 753–831.
-- **[SOTA]** R. Bamler. *Compactness theory of the space of super Ricci flows.* Inventiones Mathematicae 233 (2023), 1121–1277.
+- **[Foundational]** N. Sesum, G. Tian. *Bounding scalar curvature and diameter along the Kähler Ricci flow (after Perelman).* Journal of the Institute of Mathematics of Jussieu 7 (2008), 575–587. [DOI](https://doi.org/10.1017/s1474748008000133)
+- **[SOTA]** G. Tian, Z. Zhang. *Regularity of Kähler–Ricci flows on Fano manifolds.* Acta Mathematica 216 (2016), 127–176. [DOI](https://doi.org/10.1007/s11511-016-0137-1)
+- **[SOTA]** G. Tian, Z. Zhang. *Convergence of Kähler–Ricci flow on lower-dimensional algebraic manifolds of general type.* / *Relative volume comparison of Ricci flow and its applications*; and G. Tian, Z. Zhang, Journal of the European Mathematical Society 18 (2016) for the $n\le 3$ case. [DOI](https://doi.org/10.1093/imrn/rnv357)
+- **[SOTA]** X. Chen, B. Wang. *Space of Ricci flows (II) — Part B: Weak compactness of the flows.* Journal of Differential Geometry 116 (2020), 1–123. [DOI](https://doi.org/10.4310/jdg/1599271253)
+- **[SOTA]** X. Chen, B. Wang. *Space of Ricci flows (II) — Part A: Moduli of singular Calabi–Yau spaces.* Forum of Mathematics, Sigma 5 (2017), e32. [DOI](https://doi.org/10.1017/fms.2017.28)
+- **[SOTA]** R. Bamler. *Convergence of Ricci flows with bounded scalar curvature.* Annals of Mathematics 188 (2018), 753–831. [DOI](https://doi.org/10.4007/annals.2018.188.3.2)
+- **[SOTA]** R. Bamler. *Compactness theory of the space of super Ricci flows.* Inventiones Mathematicae 233 (2023), 1121–1277. [DOI](https://doi.org/10.1007/s00222-023-01196-3)
 - **[SOTA]** G. Tian, X. Zhu. *Convergence of Kähler–Ricci flow.* Journal of the American Mathematical Society 20 (2007), 675–699.
-- **[SOTA]** X. Chen, S. Sun, B. Wang. *Kähler–Ricci flow, Kähler–Einstein metric, and K-stability.* Geometry & Topology 22 (2018), 3145–3173.
-- **[SOTA]** J. Han, C. Li. *Algebraic uniqueness of Kähler–Ricci flow limits and optimal degenerations of Fano varieties.* Geometry & Topology 27 (2023), 2691–2751.
-- **[SOTA]** H. Blum, Y. Liu, C. Xu, Z. Zhuang. *The existence of the Kähler–Ricci soliton degeneration.* Forum of Mathematics, Pi 11 (2023), e9.
+- **[SOTA]** X. Chen, S. Sun, B. Wang. *Kähler–Ricci flow, Kähler–Einstein metric, and K-stability.* Geometry & Topology 22 (2018), 3145–3173. [DOI](https://doi.org/10.2140/gt.2018.22.3145)
+- **[SOTA]** J. Han, C. Li. *Algebraic uniqueness of Kähler–Ricci flow limits and optimal degenerations of Fano varieties.* Geometry & Topology 27 (2023), 2691–2751. [DOI](https://doi.org/10.2140/gt.2024.28.539)
+- **[SOTA]** H. Blum, Y. Liu, C. Xu, Z. Zhuang. *The existence of the Kähler–Ricci soliton degeneration.* Forum of Mathematics, Pi 11 (2023), e9. [DOI](https://doi.org/10.1017/fmp.2023.5)
 - **[SOTA]** F. Wang, X. Zhu. *Tian's partial $C^0$-estimate implies Hamilton–Tian's conjecture.* Advances in Mathematics 381 (2021), 107619.
-- **[SOTA]** R. Dervan, G. Székelyhidi. *The Kähler–Ricci flow and optimal degenerations.* Journal of Differential Geometry 116 (2020), 187–203.
-- **[Related]** J. Cheeger, A. Naber. *Regularity of Einstein manifolds and the codimension 4 conjecture.* Annals of Mathematics 182 (2015), 1093–1165.
+- **[SOTA]** R. Dervan, G. Székelyhidi. *The Kähler–Ricci flow and optimal degenerations.* Journal of Differential Geometry 116 (2020), 187–203. [DOI](https://doi.org/10.4310/jdg/1599271255)
+- **[Related]** J. Cheeger, A. Naber. *Regularity of Einstein manifolds and the codimension 4 conjecture.* Annals of Mathematics 182 (2015), 1093–1165. [DOI](https://doi.org/10.4007/annals.2015.182.3.5)
 - **[Survey]** G. Székelyhidi. *An Introduction to Extremal Kähler Metrics.* Graduate Studies in Mathematics 152, AMS, 2014.
-- **[Survey]** C. Xu. *K-stability of Fano varieties: an algebro-geometric approach.* EMS Surveys in Mathematical Sciences 8 (2021), 265–354.
+- **[Survey]** C. Xu. *K-stability of Fano varieties: an algebro-geometric approach.* EMS Surveys in Mathematical Sciences 8 (2021), 265–354. [DOI](https://doi.org/10.4171/emss/51)
 
 ## 10. Worked Example / Concrete Special Case
 

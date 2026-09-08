@@ -108,14 +108,14 @@ Open: the step from *"$\mathrm{GCH}+\square(\lambda^+)$ gives a $\lambda^+$-Susl
 - **[Foundational]** Đ. Kurepa. *Ensembles ordonnés et ramifiés.* Publ. Math. Univ. Belgrade 4 (1935), 1–138.
 - **[Foundational]** S. Tennenbaum. *Souslin's problem.* Proc. Natl. Acad. Sci. USA 59 (1968), 60–63.
 - **[Foundational]** T. Jech. *Non-provability of Souslin's hypothesis.* Commentationes Mathematicae Universitatis Carolinae 8 (1967), 291–305.
-- **[Foundational]** R. M. Solovay, S. Tennenbaum. *Iterated Cohen extensions and Souslin's problem.* Annals of Mathematics 94 (1971), 201–245.
-- **[Foundational]** R. B. Jensen. *The fine structure of the constructible hierarchy.* Annals of Mathematical Logic 4 (1972), 229–308.
-- **[Survey]** K. Devlin, H. Johnsbråten. *The Souslin Problem.* Lecture Notes in Mathematics 405, Springer, 1974.
+- **[Foundational]** R. M. Solovay, S. Tennenbaum. *Iterated Cohen extensions and Souslin's problem.* Annals of Mathematics 94 (1971), 201–245. [DOI](https://doi.org/10.2307/1970860)
+- **[Foundational]** R. B. Jensen. *The fine structure of the constructible hierarchy.* Annals of Mathematical Logic 4 (1972), 229–308. [DOI](https://doi.org/10.1016/0003-4843(72)90008-3)
+- **[Survey]** K. Devlin, H. Johnsbråten. *The Souslin Problem.* Lecture Notes in Mathematics 405, Springer, 1974. [DOI](https://doi.org/10.1007/bfb0065979)
 - **[Survey]** M. E. Rudin. *Souslin's conjecture.* American Mathematical Monthly 76 (1969), 1113–1119.
 - **[Survey]** T. Jech. *Set Theory: The Third Millennium Edition.* Springer, 2003 (Chapters 9, 15, 27).
-- **[Survey]** S. Todorcevic. *Partition Problems in Topology.* Contemporary Mathematics 84, AMS, 1989.
-- **[SOTA]** A. Rinot. *Higher Souslin trees and the GCH, revisited.* Advances in Mathematics 311 (2017), 510–531.
-- **[SOTA]** A. Brodsky, A. Rinot. *A microscopic approach to Souslin-tree constructions, Part I.* Annals of Pure and Applied Logic 168 (2017), 1949–2007.
+- **[Survey]** S. Todorcevic. *Partition Problems in Topology.* Contemporary Mathematics 84, AMS, 1989. [DOI](https://doi.org/10.1090/conm/084)
+- **[SOTA]** A. Rinot. *Higher Souslin trees and the GCH, revisited.* Advances in Mathematics 311 (2017), 510–531. [DOI](https://doi.org/10.1016/j.aim.2017.03.002)
+- **[SOTA]** A. Brodsky, A. Rinot. *A microscopic approach to Souslin-tree constructions, Part I.* Annals of Pure and Applied Logic 168 (2017), 1949–2007. [DOI](https://doi.org/10.1016/j.apal.2017.05.003)
 - **[SOTA]** P. Larson, S. Todorcevic. *Katětov's problem.* Transactions of the AMS 354 (2002), 1783–1791.
 - **[Related]** S. Shelah. *Proper and Improper Forcing,* 2nd ed., Springer, 1998.
 

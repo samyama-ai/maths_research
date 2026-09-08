@@ -103,13 +103,13 @@ The gap is therefore a **multiplicative factor of roughly $4$, uniform in $d$** 
 ## 9. Key References
 
 - **[Foundational]** S. Smale. *The fundamental theorem of algebra and complexity theory.* Bulletin of the American Mathematical Society (N.S.) 4 (1981), 1–36.
-- **[Foundational]** D. Tischler. *Critical points and values of complex polynomials.* Journal of Complexity 5 (1989), 438–456.
-- **[SOTA]** A. F. Beardon, D. Minda, T. W. Ng. *Smale's mean value conjecture and the hyperbolic metric.* Mathematische Annalen 322 (2002), 623–632.
-- **[SOTA]** E. Crane. *A bound for Smale's mean value conjecture for complex polynomials.* Bulletin of the London Mathematical Society 39 (2007), 781–791.
-- **[SOTA]** A. Conte, E. Fujikawa, N. Lakic. *Smale's mean value conjecture and the coefficients of univalent functions.* Proceedings of the American Mathematical Society 135 (2007), 3295–3300.
-- **[Partial result]** T. W. Ng. *Smale's mean value conjecture for odd polynomials.* Journal of the Australian Mathematical Society 75 (2003), 409–411.
+- **[Foundational]** D. Tischler. *Critical points and values of complex polynomials.* Journal of Complexity 5 (1989), 438–456. [DOI](https://doi.org/10.1016/0885-064x(89)90019-8)
+- **[SOTA]** A. F. Beardon, D. Minda, T. W. Ng. *Smale's mean value conjecture and the hyperbolic metric.* Mathematische Annalen 322 (2002), 623–632. [DOI](https://doi.org/10.1007/s002080000184)
+- **[SOTA]** E. Crane. *A bound for Smale's mean value conjecture for complex polynomials.* Bulletin of the London Mathematical Society 39 (2007), 781–791. [DOI](https://doi.org/10.1112/blms/bdm063)
+- **[SOTA]** A. Conte, E. Fujikawa, N. Lakic. *Smale's mean value conjecture and the coefficients of univalent functions.* Proceedings of the American Mathematical Society 135 (2007), 3295–3300. [DOI](https://doi.org/10.1090/s0002-9939-07-08861-2)
+- **[Partial result]** T. W. Ng. *Smale's mean value conjecture for odd polynomials.* Journal of the Australian Mathematical Society 75 (2003), 409–411. [DOI](https://doi.org/10.1017/s1446788700008181)
 - **[Computational]** M. Marinov, B. Sendov. *Verification of Smale's mean value conjecture for $n \le 10$.* Comptes Rendus de l'Académie Bulgare des Sciences 60 (2007), 1151–1156.
-- **[Dual problem]** V. N. Dubinin, T. Sugawa. *Dual mean value problem for complex polynomials.* Proceedings of the Japan Academy, Series A 85 (2009), 135–137.
+- **[Dual problem]** V. N. Dubinin, T. Sugawa. *Dual mean value problem for complex polynomials.* Proceedings of the Japan Academy, Series A 85 (2009), 135–137. [DOI](https://doi.org/10.3792/pjaa.85.135)
 - **[Survey / Book]** T. Sheil-Small. *Complex Polynomials.* Cambridge Studies in Advanced Mathematics 75, Cambridge University Press, 2002 (Chapter on Smale's conjecture).
 - **[Book]** Q. I. Rahman, G. Schmeisser. *Analytic Theory of Polynomials.* London Mathematical Society Monographs, Oxford University Press, 2002.
 

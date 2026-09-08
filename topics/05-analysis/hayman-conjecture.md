@@ -112,18 +112,18 @@ For the conjecture as literally stated by Hayman there is **no gap**: $n\ge 3$ (
 
 ## 9. Key References
 
-- **[Foundational]** W. K. Hayman. *Picard values of meromorphic functions and their derivatives.* Annals of Mathematics (2) **70** (1959), 9–42.
+- **[Foundational]** W. K. Hayman. *Picard values of meromorphic functions and their derivatives.* Annals of Mathematics (2) **70** (1959), 9–42. [DOI](https://doi.org/10.2307/1969890)
 - **[Foundational]** W. K. Hayman. *Meromorphic Functions.* Oxford Mathematical Monographs, Clarendon Press, 1964.
 - **[Foundational]** W. K. Hayman. *Research Problems in Function Theory.* Athlone Press, London, 1967. (Problem 1.19)
-- **[Partial]** J. Clunie. *On a result of Hayman.* Journal of the London Mathematical Society **42** (1967), 389–392.
-- **[Partial]** E. Mues. *Über ein Problem von Hayman.* Mathematische Zeitschrift **164** (1979), 239–259.
-- **[SOTA]** W. Bergweiler and A. Eremenko. *On the singularities of the inverse to a meromorphic function of finite order.* Revista Matemática Iberoamericana **11** (1995), 355–373.
+- **[Partial]** J. Clunie. *On a result of Hayman.* Journal of the London Mathematical Society **42** (1967), 389–392. [DOI](https://doi.org/10.1112/jlms/s1-42.1.389)
+- **[Partial]** E. Mues. *Über ein Problem von Hayman.* Mathematische Zeitschrift **164** (1979), 239–259. [DOI](https://doi.org/10.1007/bf01182271)
+- **[SOTA]** W. Bergweiler and A. Eremenko. *On the singularities of the inverse to a meromorphic function of finite order.* Revista Matemática Iberoamericana **11** (1995), 355–373. [DOI](https://doi.org/10.4171/rmi/176)
 - **[SOTA]** H. Chen and M. Fang. *The value distribution of $f^n f'$.* Science in China Series A **38** (1995), 789–798.
-- **[Method]** L. Zalcman. *A heuristic principle in complex function theory.* American Mathematical Monthly **82** (1975), 813–817.
-- **[Survey]** L. Zalcman. *Normal families: new perspectives.* Bulletin of the American Mathematical Society **35** (1998), 215–230.
+- **[Method]** L. Zalcman. *A heuristic principle in complex function theory.* American Mathematical Monthly **82** (1975), 813–817. [DOI](https://doi.org/10.1080/00029890.1975.11993942)
+- **[Survey]** L. Zalcman. *Normal families: new perspectives.* Bulletin of the American Mathematical Society **35** (1998), 215–230. [DOI](https://doi.org/10.1090/s0273-0979-98-00755-1)
 - **[Survey]** W. Bergweiler. *Bloch's principle.* Computational Methods and Function Theory **6** (2006), 77–108.
 - **[Method]** X. Pang and L. Zalcman. *Normal families and shared values.* Bulletin of the London Mathematical Society **32** (2000), 325–331.
-- **[Difference]** R. G. Halburd and R. J. Korhonen. *Difference analogue of the lemma on the logarithmic derivative with applications to difference equations.* Journal of Mathematical Analysis and Applications **314** (2006), 477–487.
+- **[Difference]** R. G. Halburd and R. J. Korhonen. *Difference analogue of the lemma on the logarithmic derivative with applications to difference equations.* Journal of Mathematical Analysis and Applications **314** (2006), 477–487. [DOI](https://doi.org/10.1016/j.jmaa.2005.04.010)
 - **[Difference]** I. Laine and C.-C. Yang. *Value distribution of difference polynomials.* Proceedings of the Japan Academy, Series A **83** (2007), 148–151.
 - **[Survey]** W. K. Hayman and E. F. Lingham. *Research Problems in Function Theory: Fiftieth Anniversary Edition.* Springer, 2019.
 

@@ -94,7 +94,7 @@ Leading mathematicians working in function theory and operator algebras suggest 
 - **[Foundational]** Marshall, D. E. *Blaschke products generate $H^\infty$.* Bulletin of the American Mathematical Society, 82(3), 494-496, 1976.
 - **[Foundational]** Hoffman, K. *Banach Spaces of Analytic Functions.* Prentice-Hall, 1962. (Reprinted by Dover Publications, 2007).
 - **[SOTA / Recent]** Garnett, J. B., and Nicolau, A. *Interpolating Blaschke products generate $H^\infty$.* Pacific Journal of Mathematics, 173(2), 501-510, 1996.
-- **[Survey]** Garcia, S. R., Mashreghi, J., and Ross, W. T. *Finite Blaschke Products and Their Connections.* Springer, 2018.
+- **[Survey]** Garcia, S. R., Mashreghi, J., and Ross, W. T. *Finite Blaschke Products and Their Connections.* Springer, 2018. [DOI](https://doi.org/10.1007/978-3-319-78247-8)
 
 ## 10. Worked Example / Concrete Special Case
 

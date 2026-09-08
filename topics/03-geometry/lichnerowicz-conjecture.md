@@ -103,18 +103,18 @@ produced by the blow-up dynamics of a non-proper conformal flow is open — equi
 
 ## 9. Key References
 
-- **[Foundational]** M. Obata. *The conjectures on conformal transformations of Riemannian manifolds.* Journal of Differential Geometry 6 (1971), 247–258.
+- **[Foundational]** M. Obata. *The conjectures on conformal transformations of Riemannian manifolds.* Journal of Differential Geometry 6 (1971), 247–258. [DOI](https://doi.org/10.4310/jdg/1214430407)
 - **[Foundational]** J. Lelong-Ferrand. *Transformations conformes et quasi-conformes des variétés riemanniennes compactes (démonstration de la conjecture de A. Lichnerowicz).* Académie Royale de Belgique, Mémoires Cl. Sci. (2) 39, no. 5 (1971).
-- **[Foundational]** D. V. Alekseevskii. *Groups of conformal transformations of Riemannian spaces.* Matematicheskii Sbornik 89 (1972); English transl. Math. USSR Sbornik 18 (1972), 285–301.
+- **[Foundational]** D. V. Alekseevskii. *Groups of conformal transformations of Riemannian spaces.* Matematicheskii Sbornik 89 (1972); English transl. Math. USSR Sbornik 18 (1972), 285–301. [DOI](https://doi.org/10.1070/sm1972v018n02abeh001770)
 - **[Foundational]** J. Ferrand. *The action of conformal transformations on Riemannian manifolds.* Mathematische Annalen 304 (1996), 277–291.
-- **[Foundational]** R. Schoen. *On the conformal and CR automorphism groups.* Geometric and Functional Analysis 5 (1995), 464–481.
-- **[SOTA]** C. Frances. *Sur le groupe d'automorphismes des géométries paraboliques de rang 1.* Annales Scientifiques de l'École Normale Supérieure 40 (2007), 741–764.
+- **[Foundational]** R. Schoen. *On the conformal and CR automorphism groups.* Geometric and Functional Analysis 5 (1995), 464–481. [DOI](https://doi.org/10.1007/978-3-0348-9102-8_13)
+- **[SOTA]** C. Frances. *Sur le groupe d'automorphismes des géométries paraboliques de rang 1.* Annales Scientifiques de l'École Normale Supérieure 40 (2007), 741–764. [DOI](https://doi.org/10.1016/j.ansens.2007.07.003)
 - **[SOTA]** C. Frances, K. Melnick. *Nilpotent groups of conformal transformations of Lorentzian manifolds.* Geometric and Functional Analysis 20 (2010), 1052–1101.
-- **[SOTA]** C. Frances, K. Melnick. *Formes normales pour les champs conformes pseudo-riemanniens.* Bulletin de la Société Mathématique de France 141 (2013), 377–421.
-- **[SOTA]** C. Frances. *About pseudo-Riemannian Lichnerowicz conjecture.* Transformation Groups 20 (2015), 1103–1128.
-- **[SOTA]** C. Frances, K. Melnick. *Lorentzian manifolds with a conformal action of $\mathrm{SL}(2,\mathbb{R})$.* Commentarii Mathematici Helvetici 93 (2018), 61–82.
-- **[SOTA]** K. Melnick, F. Pecastaing. *The conformal group of a compact simply connected Lorentzian manifold.* Journal of the American Mathematical Society 35 (2022), 81–122.
-- **[Survey]** K. Melnick. *Rigidity of transformation groups in differential geometry.* Notices of the American Mathematical Society 68 (2021), 721–732.
+- **[SOTA]** C. Frances, K. Melnick. *Formes normales pour les champs conformes pseudo-riemanniens.* Bulletin de la Société Mathématique de France 141 (2013), 377–421. [DOI](https://doi.org/10.24033/bsmf.2652)
+- **[SOTA]** C. Frances. *About pseudo-Riemannian Lichnerowicz conjecture.* Transformation Groups 20 (2015), 1103–1128. [DOI](https://doi.org/10.1007/s00031-015-9317-x)
+- **[SOTA]** C. Frances, K. Melnick. *Lorentzian manifolds with a conformal action of $\mathrm{SL}(2,\mathbb{R})$.* Commentarii Mathematici Helvetici 93 (2018), 61–82. [DOI](https://doi.org/10.4171/cmh/439)
+- **[SOTA]** K. Melnick, F. Pecastaing. *The conformal group of a compact simply connected Lorentzian manifold.* Journal of the American Mathematical Society 35 (2022), 81–122. [DOI](https://doi.org/10.1090/jams/976)
+- **[Survey]** K. Melnick. *Rigidity of transformation groups in differential geometry.* Notices of the American Mathematical Society 68 (2021), 721–732. [DOI](https://doi.org/10.1090/noti2279)
 - **[Background]** A. Čap, J. Slovák. *Parabolic Geometries I: Background and General Theory.* Mathematical Surveys and Monographs 154, American Mathematical Society, 2009.
 - **[Background]** R. W. Sharpe. *Differential Geometry: Cartan's Generalization of Klein's Erlangen Program.* Springer GTM 166, 1997.
 

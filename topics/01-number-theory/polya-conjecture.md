@@ -86,10 +86,10 @@ Leading mathematicians working in prime bias suggest the following open pathways
 ## 9. Key References
 
 - **[Foundational]** Pólya, G. *Verschiedene Bemerkungen zur Zahlentheorie.* Jahresbericht der Deutschen Mathematiker-Vereinigung, 1919.
-- **[Foundational]** Haselgrove, C. B. *A disproof of a conjecture of Pólya.* Mathematika, 1958.
+- **[Foundational]** Haselgrove, C. B. *A disproof of a conjecture of Pólya.* Mathematika, 1958. [DOI](https://doi.org/10.1112/s0025579300001480)
 - **[Foundational]** Lehman, R. S. *On Liouville's function.* Mathematics of Computation, 1960.
-- **[SOTA / Recent]** Tanaka, M. *A Numerical Investigation on Cumulative Sum of the Liouville Function.* Tokyo Journal of Mathematics, 1980.
-- **[SOTA / Recent]** Borwein, P., Ferguson, R., & Mossinghoff, M. *Sign changes in sums of the Liouville function.* Mathematics of Computation, 2008.
+- **[SOTA / Recent]** Tanaka, M. *A Numerical Investigation on Cumulative Sum of the Liouville Function.* Tokyo Journal of Mathematics, 1980. [DOI](https://doi.org/10.3836/tjm/1270216093)
+- **[SOTA / Recent]** Borwein, P., Ferguson, R., & Mossinghoff, M. *Sign changes in sums of the Liouville function.* Mathematics of Computation, 2008. [DOI](https://doi.org/10.1090/s0025-5718-08-02036-x)
 - **[Survey]** Rubinstein, M., & Sarnak, P. *Chebyshev's bias.* Experimental Mathematics, 1994.
 
 ## 10. Worked Example / Concrete Special Case

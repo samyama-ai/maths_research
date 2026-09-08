@@ -108,19 +108,19 @@ Positivity itself: **closed** (Haiman 2001). The remaining gap is threefold.
 
 - **[Foundational]** I. G. Macdonald. *A new class of symmetric functions.* Séminaire Lotharingien de Combinatoire, 20 (1988), Article B20a.
 - **[Foundational]** I. G. Macdonald. *Symmetric Functions and Hall Polynomials*, 2nd edition. Oxford University Press, 1995 (Chapter VI).
-- **[Foundational]** A. M. Garsia and M. Haiman. *A graded representation model for Macdonald's polynomials.* Proc. Natl. Acad. Sci. USA, 90 (1993), 3607–3610.
-- **[SOTA]** M. Haiman. *Hilbert schemes, polygraphs and the Macdonald positivity conjecture.* Journal of the American Mathematical Society, 14 (2001), 941–1006.
-- **[SOTA]** M. Haiman. *Vanishing theorems and character formulas for the Hilbert scheme of points in the plane.* Inventiones Mathematicae, 149 (2002), 371–407.
+- **[Foundational]** A. M. Garsia and M. Haiman. *A graded representation model for Macdonald's polynomials.* Proc. Natl. Acad. Sci. USA, 90 (1993), 3607–3610. [DOI](https://doi.org/10.1073/pnas.90.8.3607)
+- **[SOTA]** M. Haiman. *Hilbert schemes, polygraphs and the Macdonald positivity conjecture.* Journal of the American Mathematical Society, 14 (2001), 941–1006. [DOI](https://doi.org/10.1090/s0894-0347-01-00373-3)
+- **[SOTA]** M. Haiman. *Vanishing theorems and character formulas for the Hilbert scheme of points in the plane.* Inventiones Mathematicae, 149 (2002), 371–407. [DOI](https://doi.org/10.1142/9789812810007_0001)
 - **[SOTA]** J. Haglund, M. Haiman and N. Loehr. *A combinatorial formula for Macdonald polynomials.* Journal of the American Mathematical Society, 18 (2005), 735–761.
-- **[Recent]** S. Assaf. *Dual equivalence graphs I: A new paradigm for Schur positivity.* Forum of Mathematics, Sigma, 3 (2015), e12.
-- **[Recent]** J. Blasiak, M. Haiman, J. Morse, A. Pun and G. Seelinger. *A shuffle theorem for paths under any line.* Forum of Mathematics, Pi, 11 (2023), e5.
-- **[Recent]** E. Carlsson and A. Mellit. *A proof of the shuffle conjecture.* Journal of the American Mathematical Society, 31 (2018), 661–697.
-- **[Partial results]** F. Knop. *Integrality of two variable Kostka functions.* Journal für die reine und angewandte Mathematik, 482 (1997), 177–189.
+- **[Recent]** S. Assaf. *Dual equivalence graphs I: A new paradigm for Schur positivity.* Forum of Mathematics, Sigma, 3 (2015), e12. [DOI](https://doi.org/10.1017/fms.2015.15)
+- **[Recent]** J. Blasiak, M. Haiman, J. Morse, A. Pun and G. Seelinger. *A shuffle theorem for paths under any line.* Forum of Mathematics, Pi, 11 (2023), e5. [DOI](https://doi.org/10.1017/fmp.2023.4)
+- **[Recent]** E. Carlsson and A. Mellit. *A proof of the shuffle conjecture.* Journal of the American Mathematical Society, 31 (2018), 661–697. [DOI](https://doi.org/10.1090/jams/893)
+- **[Partial results]** F. Knop. *Integrality of two variable Kostka functions.* Journal für die reine und angewandte Mathematik, 482 (1997), 177–189. [DOI](https://doi.org/10.1515/crll.1997.482.177)
 - **[Partial results]** S. Sahi. *Interpolation, integrality, and a generalization of Macdonald's polynomials.* International Mathematics Research Notices, 1996, no. 10, 457–471.
 - **[Partial results]** A. M. Garsia and G. Tesler. *Plethystic formulas for Macdonald $q,t$-Kostka coefficients.* Advances in Mathematics, 123 (1996), 144–222.
-- **[Partial results]** S. Fishel. *Statistics for special $q,t$-Kostka polynomials.* Proceedings of the American Mathematical Society, 123 (1995), 2961–2969.
+- **[Partial results]** S. Fishel. *Statistics for special $q,t$-Kostka polynomials.* Proceedings of the American Mathematical Society, 123 (1995), 2961–2969. [DOI](https://doi.org/10.2307/2160648)
 - **[Survey]** J. Haglund. *The $q,t$-Catalan Numbers and the Space of Diagonal Harmonics.* AMS University Lecture Series 41, 2008.
-- **[Survey]** M. Haiman. *Combinatorics, symmetric functions and Hilbert schemes.* Current Developments in Mathematics 2002, International Press, 2003, 39–111.
+- **[Survey]** M. Haiman. *Combinatorics, symmetric functions and Hilbert schemes.* Current Developments in Mathematics 2002, International Press, 2003, 39–111. [DOI](https://doi.org/10.4310/cdm.2002.v2002.n1.a2)
 
 ## 10. Worked Example / Concrete Special Case
 

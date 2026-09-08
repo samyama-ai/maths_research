@@ -104,17 +104,17 @@ For the original statement, no gap remains: Sections 1 and 4 coincide since 1994
 
 ## 9. Key References
 
-- **[Foundational]** S. S. Abhyankar. *Coverings of algebraic curves.* American Journal of Mathematics **79** (1957), 825–856.
+- **[Foundational]** S. S. Abhyankar. *Coverings of algebraic curves.* American Journal of Mathematics **79** (1957), 825–856. [DOI](https://doi.org/10.2307/2372438)
 - **[Foundational]** A. Grothendieck. *Revêtements étales et groupe fondamental (SGA 1).* Lecture Notes in Mathematics 224, Springer, 1971.
 - **[Milestone]** J.-P. Serre. *Construction de revêtements étales de la droite affine en caractéristique $p$.* C. R. Acad. Sci. Paris, Sér. I Math. **311** (1990), 341–346.
 - **[Milestone]** M. Raynaud. *Revêtements de la droite affine en caractéristique $p>0$ et conjecture d'Abhyankar.* Inventiones Mathematicae **116** (1994), 425–462.
-- **[Milestone]** D. Harbater. *Abhyankar's conjecture on Galois groups over curves.* Inventiones Mathematicae **117** (1994), 1–25.
+- **[Milestone]** D. Harbater. *Abhyankar's conjecture on Galois groups over curves.* Inventiones Mathematicae **117** (1994), 1–25. [DOI](https://doi.org/10.1007/bf01232232)
 - **[SOTA]** F. Pop. *Étale Galois covers of affine smooth curves. The geometric case of a conjecture of Shafarevich. On Abhyankar's conjecture.* Inventiones Mathematicae **120** (1995), 555–578.
 - **[SOTA]** D. Harbater. *Abhyankar's conjecture and embedding problems.* Journal für die reine und angewandte Mathematik (Crelle) **559** (2003), 1–24.
-- **[SOTA]** I. Bouw. *The $p$-rank of ramified covers of curves.* Compositio Mathematica **126** (2001), 295–322.
-- **[Survey]** D. Harbater, A. Obus, R. Pries, K. Stevenson. *Abhyankar's conjectures in Galois theory: current status and future directions.* Bulletin of the American Mathematical Society **55** (2018), 239–287.
+- **[SOTA]** I. Bouw. *The $p$-rank of ramified covers of curves.* Compositio Mathematica **126** (2001), 295–322. [DOI](https://doi.org/10.1023/a:1017513122376)
+- **[Survey]** D. Harbater, A. Obus, R. Pries, K. Stevenson. *Abhyankar's conjectures in Galois theory: current status and future directions.* Bulletin of the American Mathematical Society **55** (2018), 239–287. [DOI](https://doi.org/10.1090/bull/1594)
 - **[Survey]** J.-P. Serre. *Revêtements de courbes algébriques.* Séminaire Bourbaki, exp. 749, Astérisque **206** (1992), 167–182.
-- **[Explicit]** S. S. Abhyankar. *Galois theory on the line in nonzero characteristic.* Bulletin of the AMS **27** (1992), 68–133.
+- **[Explicit]** S. S. Abhyankar. *Galois theory on the line in nonzero characteristic.* Bulletin of the AMS **27** (1992), 68–133. [DOI](https://doi.org/10.1090/s0273-0979-1992-00270-7)
 - **[Background]** D. Harbater. *Galois coverings of the arithmetic line.* Number Theory (New York 1984–85), Lecture Notes in Math. 1240, Springer (1987), 165–195.
 
 ## 10. Worked Example / Concrete Special Case

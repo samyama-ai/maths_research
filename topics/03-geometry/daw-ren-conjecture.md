@@ -82,7 +82,7 @@ Leading mathematicians in arithmetic geometry suggest several open pathways bran
 ## 9. Key References
 
 - **[Foundational]** Daw, C., & Ren, J. *Applications of the hyperbolic Ax-Schanuel conjecture.* Compositio Mathematica, 154(9), 1843–1888, 2018.
-- **[SOTA / Recent]** Urbanik, D. *Sets of special subvarieties of bounded degree.* Compositio Mathematica, 159(3), 616–657, 2023.
+- **[SOTA / Recent]** Urbanik, D. *Sets of special subvarieties of bounded degree.* Compositio Mathematica, 159(3), 616–657, 2023. [DOI](https://doi.org/10.1112/s0010437x23007029)
 - **[Survey]** Pila, J. *Diophantine Geometry and Analytic Minimality.* Princeton University Press, 2022.
 
 ## 10. Worked Example / Concrete Special Case

@@ -103,19 +103,19 @@ The remaining gap is no longer existence-vs-uniqueness but **decidability and ex
 ## 9. Key References
 
 - **[Foundational]** S. Bando, T. Mabuchi. *Uniqueness of Einstein Kähler metrics modulo connected group actions.* Advanced Studies in Pure Mathematics 10 (Algebraic Geometry, Sendai 1985), 11–40, 1987.
-- **[Foundational]** S. Mukai, H. Umemura. *Minimal rational threefolds.* In: Algebraic Geometry (Tokyo/Kyoto 1982), Lecture Notes in Mathematics 1016, Springer, 490–518, 1983.
+- **[Foundational]** S. Mukai, H. Umemura. *Minimal rational threefolds.* In: Algebraic Geometry (Tokyo/Kyoto 1982), Lecture Notes in Mathematics 1016, Springer, 490–518, 1983. [DOI](https://doi.org/10.1007/bfb0099976)
 - **[Foundational]** G. Tian. *On Kähler–Einstein metrics on certain Kähler manifolds with $C_1(M)>0$.* Inventiones Mathematicae 89, 225–246, 1987.
 - **[Foundational]** A. Futaki. *An obstruction to the existence of Einstein Kähler metrics.* Inventiones Mathematicae 73, 437–443, 1983.
-- **[Foundational]** S. K. Donaldson. *Scalar curvature and stability of toric varieties.* Journal of Differential Geometry 62, 289–349, 2002.
+- **[Foundational]** S. K. Donaldson. *Scalar curvature and stability of toric varieties.* Journal of Differential Geometry 62, 289–349, 2002. [DOI](https://doi.org/10.4310/jdg/1090950195)
 - **[SOTA]** S. K. Donaldson. *A note on the $\alpha$-invariant of the Mukai–Umemura 3-fold.* arXiv:0711.4357, 2007.
-- **[SOTA]** G. Székelyhidi. *The Kähler–Ricci flow and K-polystability.* American Journal of Mathematics 132, 1077–1090, 2010.
+- **[SOTA]** G. Székelyhidi. *The Kähler–Ricci flow and K-polystability.* American Journal of Mathematics 132, 1077–1090, 2010. [DOI](https://doi.org/10.1353/ajm.0.0128)
 - **[SOTA]** X. Chen, S. Donaldson, S. Sun. *Kähler–Einstein metrics on Fano manifolds, I–III.* Journal of the American Mathematical Society 28, 183–197, 199–234, 235–278, 2015.
-- **[SOTA]** B. Berndtsson. *A Brunn–Minkowski type inequality for Fano manifolds and some uniqueness theorems in Kähler geometry.* Inventiones Mathematicae 200, 149–200, 2015.
-- **[SOTA]** R. Berman, S. Boucksom, M. Jonsson. *A variational approach to the Yau–Tian–Donaldson conjecture.* Journal of the American Mathematical Society 34, 605–652, 2021.
-- **[SOTA]** Y. Liu, C. Xu, Z. Zhuang. *Finite generation for valuations computing stability thresholds and applications to K-stability.* Annals of Mathematics 196, 507–566, 2022.
-- **[Survey]** C. Xu. *K-stability of Fano varieties.* Cambridge University Press (New Mathematical Monographs), 2025.
+- **[SOTA]** B. Berndtsson. *A Brunn–Minkowski type inequality for Fano manifolds and some uniqueness theorems in Kähler geometry.* Inventiones Mathematicae 200, 149–200, 2015. [DOI](https://doi.org/10.1007/s00222-014-0532-1)
+- **[SOTA]** R. Berman, S. Boucksom, M. Jonsson. *A variational approach to the Yau–Tian–Donaldson conjecture.* Journal of the American Mathematical Society 34, 605–652, 2021. [DOI](https://doi.org/10.1090/jams/964)
+- **[SOTA]** Y. Liu, C. Xu, Z. Zhuang. *Finite generation for valuations computing stability thresholds and applications to K-stability.* Annals of Mathematics 196, 507–566, 2022. [DOI](https://doi.org/10.4007/annals.2022.196.2.2)
+- **[Survey]** C. Xu. *K-stability of Fano varieties.* Cambridge University Press (New Mathematical Monographs), 2025. [DOI](https://doi.org/10.1017/9781009538763)
 - **[Survey]** C. Araujo, A.-M. Castravet, I. Cheltsov, K. Fujita, A.-S. Kaloghiros, J. Martinez-Garcia, C. Shramov, H. Süß, N. Viswanathan. *The Calabi Problem for Fano Threefolds.* London Mathematical Society Lecture Note Series 485, Cambridge University Press, 2023.
-- **[Survey]** Y. Odaka, C. Spotti, S. Sun. *Compact moduli spaces of del Pezzo surfaces and Kähler–Einstein metrics.* Journal of Differential Geometry 102, 127–172, 2016.
+- **[Survey]** Y. Odaka, C. Spotti, S. Sun. *Compact moduli spaces of del Pezzo surfaces and Kähler–Einstein metrics.* Journal of Differential Geometry 102, 127–172, 2016. [DOI](https://doi.org/10.4310/jdg/1452002879)
 
 ## 10. Worked Example / Concrete Special Case
 

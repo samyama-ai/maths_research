@@ -104,17 +104,17 @@ The gap is the single configuration: $n = 16$, $R_X$ with exactly two eigenvalue
 
 ## 9. Key References
 
-- **[Foundational]** R. Osserman. *Curvature in the eighties.* American Mathematical Monthly **97** (1990), 731–756.
-- **[Foundational]** Q.-S. Chi. *A curvature characterization of certain locally rank-one symmetric spaces.* Journal of Differential Geometry **28** (1988), 187–202.
+- **[Foundational]** R. Osserman. *Curvature in the eighties.* American Mathematical Monthly **97** (1990), 731–756. [DOI](https://doi.org/10.1080/00029890.1990.11995659)
+- **[Foundational]** Q.-S. Chi. *A curvature characterization of certain locally rank-one symmetric spaces.* Journal of Differential Geometry **28** (1988), 187–202. [DOI](https://doi.org/10.4310/jdg/1214442277)
 - **[Foundational]** Q.-S. Chi. *Quaternionic Kähler manifolds and a curvature characterization of two-point homogeneous spaces.* Illinois Journal of Mathematics **35** (1991), 408–418.
-- **[Structural]** P. Gilkey, A. Swann, L. Vanhecke. *Isoparametric geodesic spheres and a conjecture of Osserman concerning the Jacobi operator.* Quarterly Journal of Mathematics Oxford (2) **46** (1995), 299–320.
-- **[SOTA]** Y. Nikolayevsky. *Osserman manifolds of dimension 8.* Manuscripta Mathematica **115** (2004), 31–53.
-- **[SOTA]** Y. Nikolayevsky. *Osserman conjecture in dimension $n \neq 8, 16$.* Mathematische Annalen **331** (2005), 505–522.
+- **[Structural]** P. Gilkey, A. Swann, L. Vanhecke. *Isoparametric geodesic spheres and a conjecture of Osserman concerning the Jacobi operator.* Quarterly Journal of Mathematics Oxford (2) **46** (1995), 299–320. [DOI](https://doi.org/10.1093/qmath/46.3.299)
+- **[SOTA]** Y. Nikolayevsky. *Osserman manifolds of dimension 8.* Manuscripta Mathematica **115** (2004), 31–53. [DOI](https://doi.org/10.1007/s00229-004-0480-y)
+- **[SOTA]** Y. Nikolayevsky. *Osserman conjecture in dimension $n \neq 8, 16$.* Mathematische Annalen **331** (2005), 505–522. [DOI](https://doi.org/10.1007/s00208-004-0580-8)
 - **[SOTA]** Y. Nikolayevsky. *On Osserman manifolds of dimension 16.* In *Contemporary Geometry and Related Topics*, University of Belgrade, 2006, 379–398.
-- **[Survey / Book]** P. Gilkey. *Geometric Properties of Natural Operators Defined by the Riemann Curvature Tensor.* World Scientific, 2001.
+- **[Survey / Book]** P. Gilkey. *Geometric Properties of Natural Operators Defined by the Riemann Curvature Tensor.* World Scientific, 2001. [DOI](https://doi.org/10.1142/4812)
 - **[Survey / Book]** E. García-Río, D. N. Kupeli, R. Vázquez-Lorenzo. *Osserman Manifolds in Semi-Riemannian Geometry.* Lecture Notes in Mathematics **1777**, Springer, 2002.
-- **[Related]** N. Blažić, N. Bokan, P. Gilkey. *A note on Osserman Lorentzian manifolds.* Bulletin of the London Mathematical Society **29** (1997), 227–230.
-- **[Tool]** J. F. Adams. *Vector fields on spheres.* Annals of Mathematics **75** (1962), 603–632.
+- **[Related]** N. Blažić, N. Bokan, P. Gilkey. *A note on Osserman Lorentzian manifolds.* Bulletin of the London Mathematical Society **29** (1997), 227–230. [DOI](https://doi.org/10.1112/s0024609396002238)
+- **[Tool]** J. F. Adams. *Vector fields on spheres.* Annals of Mathematics **75** (1962), 603–632. [DOI](https://doi.org/10.1016/0040-9383(62)90096-4)
 
 ## 10. Worked Example / Concrete Special Case
 

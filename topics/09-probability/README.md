@@ -8,9 +8,16 @@ Stochastic differential equations, random matrices, percolation theory, Schramm-
 * 🟡 [Mixing Time of Adjacent Transposition Walks on Trees](./adjacent-transposition-walk-mixing-trees.md) — Bounding the mixing time when adjacent states swap along tree edges.
 * 🔴 [Aldous-Lyons Conjecture on Unimodular Networks](./aldous-lyons-conjecture-on-unimodular-networks.md) — Characterize networks obtainable as limits of finite planar random graphs.
 * 🟢 [Aldous Spectral Gap Conjecture](./aldous-spectral-gap-conjecture.md) — Prove the spectral gap of random walks on certain graphs.
+* 🟡 [Random Walk on the Incipient Infinite Cluster: Alexander–Orbach Conjecture](./alexander-orbach-conjecture.md) — Spectral dimension four thirds for critical percolation clusters
 * 🔴 [Anderson Localization for Random Band Matrices](./anderson-localization-for-random-band-matrices.md) — Show a transition between localized and delocalized eigenvector states.
+* 🔴 [Anomalous Diffusion Exponent for the Two-Dimensional Anharmonic Chain](./anomalous-diffusion-two-dimensional-hamiltonian-chains.md) — Logarithmic superdiffusion of energy in two-dimensional oscillator chains
 * 🔴 [Critical Exponents of the Bak-Sneppen Model](./bak-sneppen-model-critical-exponents.md) — Proving the existence of critical exponents for this evolutionary toy model.
 * 🟡 [Ballisticity of Random Walks in Random Environments](./ballisticity-of-random-walks-in-random-environments.md) — Find criteria for random walks to have positive asymptotic velocity.
+* 🟡 [Benjamini–Schramm Conjecture on Percolation Below the Uniqueness Threshold](./benjamini-schramm-nonuniqueness-conjecture.md) — Nonamenable groups admit infinitely many infinite percolation clusters somewhere
+* 🟡 [Rate of Convergence in the Multivariate Central Limit Theorem for Convex Sets (Bentkus Problem)](./berry-esseen-convex-sets-dimension-dependence.md) — Optimal dimension dependence of central limit theorem error on convex sets
+* 🟡 [Coalescent Processes with Multiple Mergers and Beta Coalescent Tree Heights](./beta-coalescent-tree-height-asymptotics.md) — Precise height asymptotics of multiple merger coalescent trees
+* 🔴 [The Speed of Random Walk on Galton-Watson Trees as a Function of Bias](./biased-walk-galton-watson-speed-monotonicity.md) — Whether walk speed is monotone in the bias parameter
+* 🟡 [Uniqueness of Bi-Infinite Geodesics in First-Passage Percolation](./bigeodesics-first-passage-percolation.md) — Nonexistence of two-sided infinite geodesics in planar random metrics
 * 🔴 [Blank-Shiryaev Problem](./blank-shiryaev-problem.md) — Characterize the optimal stopping rule for specific sequential testing models.
 * 🟢 [Winkler Blanket Time Conjecture](./blanket-time-conjecture-for-random-walks.md) — Relating the blanket time of a graph to its cover time.
 * 🟡 [Boolean Satisfiability Phase Transition](./boolean-satisfiability-phase-transition.md) — Prove the existence of a sharp satisfiability threshold for formulas.
@@ -18,25 +25,36 @@ Stochastic differential equations, random matrices, percolation theory, Schramm-
 * 🟡 [Survival Probability of Branching Random Walks with Selection](./branching-random-walk-selection-survival-probability.md) — Quantifying the chance of infinite lineage survival under specific selection pressures.
 * 🔴 [Uniqueness of Busemann Functions in First-Passage Percolation](./busemann-functions-first-passage-percolation.md) — Characterizing the limiting behavior of Busemann functions in multi dimensional percolation.
 * 🟢 [Capacity of the Brownian Motion Path in 3D](./capacity-of-the-brownian-motion-path-in-3d.md) — Calculate exact asymptotics for the Newtonian capacity of Brownian paths.
+* 🔴 [Longest Common Subsequence Chvátal–Sankoff Constant](./chvatal-sankoff-constant.md) — Exact value of the longest common subsequence growth constant
+* 🟢 [Stochastic Six-Vertex and Colored Interacting Particle System Symmetry](./colored-particle-system-shift-invariance.md) — Shift invariance identities for colored stochastic vertex models
 * 🟢 [Conformal Invariance of the 2D Ising Model](./conformal-invariance-of-the-2d-ising-model.md) — Show critical Ising correlations are invariant under planar conformal mappings.
 * 🔴 [Conformal Invariance of the 2D O(n) Model](./conformal-invariance-of-the-2d-on-model.md) — Establish conformal invariance limits for the general O spin model.
 * 🟡 [Connectivity of the Random Telegraph Noise](./connectivity-of-the-random-telegraph-noise.md) — Analyze the topological properties of level sets of telegraph processes.
 * 🟠 [Contact Process Critical Value Approximation](./contact-process-critical-value-approximation.md) — Find accurate numerical bounds for the critical infection rate threshold.
+* 🔴 [Bandit Regret Lower Bounds for Adversarial Contextual Settings](./contextual-bandit-minimax-regret-gap.md) — Exact minimax regret for contextual bandits remains unknown
 * 🟡 [Continuity of the Local Time of the Stochastic Heat Equation](./continuity-of-the-local-time-of-the-stochastic-heat-equation.md) — Prove Holder continuity properties for local times of SPDE solutions.
 * 🟢 [Convergence of the KMT Approximation](./convergence-of-the-kmt-approximation.md) — Give tight error bounds for embedding random walks into paths.
 * 🟡 [Convergence of the O(n) Model Loop Soup](./convergence-of-the-on-model-loop-soup.md) — Show discrete loop models converge to continuous conformal loop ensembles.
 * 🟡 [Cover Time of the Random Walk on Fractals](./cover-time-of-the-random-walk-on-fractals.md) — Analyze the expected time required to visit every fractal node.
 * 🔴 [Critical Density for Random Interlacements](./critical-density-for-random-interlacements.md) — Finding the exact critical density for percolation of random interlacements.
+* 🔴 [Scaling Limit of Critical Percolation in Dimensions Between Six and Seven](./critical-percolation-intermediate-dimensions.md) — Behaviour of critical percolation just below the upper critical dimension
 * 🔴 [Critical Probability for Site Percolation on the Square Lattice](./critical-probability-for-site-percolation-on-the-square-lattice.md) — Find the exact analytical value of the site percolation threshold.
 * 🔴 [Critical Probability for 3D Voronoi Percolation](./critical-probability-voronoi-percolation-3d.md) — Finding exact bounds for percolation thresholds in three dimensional Voronoi tessellations.
+* 🟡 [Erdős–Rényi Critical Window Universality for Inhomogeneous Random Graphs](./critical-window-universality-random-graphs.md) — Multiplicative coalescent limits for heavy tailed random graph components
 * 🔴 [Crossing Probabilities in 3D Percolation](./crossing-probabilities-in-3d-percolation.md) — Establish conformal invariance of crossing probabilities in three dimensional percolation.
+* 🟡 [Cutoff for the Bernoulli-Laplace and Card Shuffling Generalizations](./cutoff-bernoulli-laplace-generalizations.md) — Cutoff windows for generalized urn and shuffle chains
 * 🟢 [Cutoff for the Simple Random Walk on Random Regular Graphs](./cutoff-for-the-simple-random-walk-on-random-regular-graphs.md) — Prove an abrupt mixing transition occurs on large regular graphs.
 * 🟡 [Cutoff Phenomenon Universality for Markov Chains](./cutoff-phenomenon-universality-for-markov-chains.md) — Show most mixing times exhibit an abrupt cutoff phenomenon.
 * 🟢 [Dimension of the SLE Curve](./dimension-of-the-sle-curve.md) — Calculate the exact fractional dimension of Schramm Loewner evolution traces.
+* 🟡 [Fluctuations of the Airy Sheet and Directed Landscape Regularity](./directed-landscape-regularity-airy-sheet.md) — Regularity and modulus properties of the universal directed landscape
 * 🔴 [Infinite Volume Limit for 2D Directed Polymers](./directed-polymer-infinite-volume-limit-2d.md) — Establishing the existence of the limit for two dimensional directed polymers.
 * 🟡 [Directed Polymers in Random Environment Weak Disorder](./directed-polymers-in-random-environment-weak-disorder.md) — Analyze the high temperature fluctuation behavior of directed random paths.
+* 🟡 [Dimerization and Delocalization in the Random-Cluster Model with q>4](./discontinuity-random-cluster-large-q.md) — Sharp discontinuous phase transition behaviour for large cluster weight
+* 🟡 [Dvoretzky's Covering Problem for General Sequences](./dvoretzky-covering-problem-general-sequences.md) — Which arc length sequences cover the circle almost surely
 * 🟢 [Dyson Brownian Motion Universality](./dyson-brownian-motion-universality.md) — Prove the universal local eigenvalue statistics for random matrix paths.
 * 🟡 [Edgeworth Expansion for Markov Chains](./edgeworth-expansion-for-markov-chains.md) — Develop higher order asymptotic corrections for Markov chain limit theorems.
+* 🟡 [Random Matrix Eigenvector Delocalization at the Spectral Edge](./eigenvector-delocalization-heavy-tailed-matrices.md) — Delocalization for heavy tailed random matrix eigenvectors
+* 🟡 [Optimal Transport Cost Between Empirical and True Measures in High Dimension](./empirical-measure-wasserstein-rate-high-dimension.md) — Sharp Wasserstein convergence rates for empirical measures
 * 🟢 [Exact Asymptotics for the First Passage Time of Brownian Motion](./exact-asymptotics-for-the-first-passage-time-of-brownian-motion.md) — Calculate heavy tailed probabilities for Brownian motions reaching moving boundaries.
 * 🔴 [Exact Connection Probability in Random Geometric Graphs](./exact-connection-probability-random-geometric-graph.md) — Finding a closed form expression for global connectivity in geometric graphs.
 * 🟠 [Exact Critical Exponents for the 3D Ising Model](./exact-critical-exponents-for-3d-ising-model.md) — Find exact rational values for three dimensional Ising critical exponents.

@@ -108,9 +108,9 @@ Leading mathematicians have articulated several necessary pathways to break the 
 ## 9. Key References
 
 - **[Foundational]** Wolff, T. *Recent work connected with the Kakeya problem.* Prospects in Mathematics (Princeton, NJ), 1999.
-- **[Foundational]** Bourgain, J. *On the Erdős-Volkmann and Katz-Tao ring conjectures.* Geometric and Functional Analysis, 2003.
+- **[Foundational]** Bourgain, J. *On the Erdős-Volkmann and Katz-Tao ring conjectures.* Geometric and Functional Analysis, 2003. [DOI](https://doi.org/10.1007/s000390300008)
 - **[SOTA / Recent]** Ren, K., & Wang, H. *The Furstenberg set conjecture.* arXiv preprint arXiv:2307.01138, 2023.
-- **[SOTA / Recent]** Orponen, T., & Shmerkin, P. *On the Hausdorff dimension of Furstenberg sets and orthogonal projections in the plane.* Duke Mathematical Journal, 2023.
+- **[SOTA / Recent]** Orponen, T., & Shmerkin, P. *On the Hausdorff dimension of Furstenberg sets and orthogonal projections in the plane.* Duke Mathematical Journal, 2023. [DOI](https://doi.org/10.1215/00127094-2022-0103)
 - **[Survey]** Mattila, P. *Fourier Analysis and Hausdorff Dimension.* Cambridge University Press, 2015.
 
 ## 10. Worked Example / Concrete Special Case

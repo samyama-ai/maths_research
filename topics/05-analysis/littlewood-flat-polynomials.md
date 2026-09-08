@@ -118,17 +118,17 @@ The gap is a change of quantifier and of direction:
 - **[Foundational]** J. E. Littlewood. *On polynomials $\sum^n \pm z^m$, $\sum^n e^{\alpha_m i}z^m$, $z=e^{\theta i}$.* Journal of the London Mathematical Society **41** (1966), 367–376.
 - **[Foundational]** J. E. Littlewood. *Some Problems in Real and Complex Analysis.* D. C. Heath, Lexington MA, 1968.
 - **[Foundational]** P. Erdős. *Some unsolved problems.* Michigan Mathematical Journal **4** (1957), 291–300.
-- **[Foundational]** W. Rudin. *Some theorems on Fourier coefficients.* Proceedings of the American Mathematical Society **10** (1959), 855–859.
+- **[Foundational]** W. Rudin. *Some theorems on Fourier coefficients.* Proceedings of the American Mathematical Society **10** (1959), 855–859. [DOI](https://doi.org/10.1090/s0002-9939-1959-0116184-5)
 - **[Foundational]** J.-P. Kahane. *Sur les polynômes à coefficients unimodulaires.* Bulletin of the London Mathematical Society **12** (1980), 321–342.
-- **[SOTA]** P. Balister, B. Bollobás, R. Morris, J. Sahasrabudhe, M. Tiba. *Flat Littlewood polynomials exist.* Annals of Mathematics **192** (2020), 977–1004.
-- **[Key]** J. Beck. *Flat polynomials on the unit circle — note on a problem of Littlewood.* Bulletin of the London Mathematical Society **23** (1991), 269–277.
-- **[Key]** E. Bombieri, J. Bourgain. *On Kahane's ultraflat polynomials.* Journal of the European Mathematical Society **11** (2009), 627–703.
-- **[Key]** D. J. Newman, J. S. Byrnes. *The $L^4$ norm of a polynomial with coefficients $\pm1$.* American Mathematical Monthly **97** (1990), 42–45.
-- **[Key]** T. W. Körner. *On a polynomial of Byrnes.* Bulletin of the London Mathematical Society **12** (1980), 219–224.
-- **[SOTA / Recent]** J. Jedwab, D. J. Katz, K.-U. Schmidt. *Advances in the merit factor problem for binary sequences.* Journal of Combinatorial Theory, Series A **120** (2013), 882–906.
+- **[SOTA]** P. Balister, B. Bollobás, R. Morris, J. Sahasrabudhe, M. Tiba. *Flat Littlewood polynomials exist.* Annals of Mathematics **192** (2020), 977–1004. [DOI](https://doi.org/10.4007/annals.2020.192.3.6)
+- **[Key]** J. Beck. *Flat polynomials on the unit circle — note on a problem of Littlewood.* Bulletin of the London Mathematical Society **23** (1991), 269–277. [DOI](https://doi.org/10.1112/blms/23.3.269)
+- **[Key]** E. Bombieri, J. Bourgain. *On Kahane's ultraflat polynomials.* Journal of the European Mathematical Society **11** (2009), 627–703. [DOI](https://doi.org/10.4171/jems/163)
+- **[Key]** D. J. Newman, J. S. Byrnes. *The $L^4$ norm of a polynomial with coefficients $\pm1$.* American Mathematical Monthly **97** (1990), 42–45. [DOI](https://doi.org/10.2307/2324003)
+- **[Key]** T. W. Körner. *On a polynomial of Byrnes.* Bulletin of the London Mathematical Society **12** (1980), 219–224. [DOI](https://doi.org/10.1112/blms/12.3.219)
+- **[SOTA / Recent]** J. Jedwab, D. J. Katz, K.-U. Schmidt. *Advances in the merit factor problem for binary sequences.* Journal of Combinatorial Theory, Series A **120** (2013), 882–906. [DOI](https://doi.org/10.1016/j.jcta.2013.01.010)
 - **[Key]** T. Erdélyi. *The phase problem of ultraflat unimodular polynomials: the resolution of the conjecture of Saffari.* Mathematische Nachrichten **248–249** (2003), 89–107.
-- **[Survey]** P. Borwein. *Computational Excursions in Analysis and Number Theory.* CMS Books in Mathematics, Springer, 2002.
-- **[Survey]** J. Spencer. *Six standard deviations suffice.* Transactions of the American Mathematical Society **289** (1985), 679–706.
+- **[Survey]** P. Borwein. *Computational Excursions in Analysis and Number Theory.* CMS Books in Mathematics, Springer, 2002. [DOI](https://doi.org/10.1007/978-0-387-21652-2)
+- **[Survey]** J. Spencer. *Six standard deviations suffice.* Transactions of the American Mathematical Society **289** (1985), 679–706. [DOI](https://doi.org/10.1090/s0002-9947-1985-0784009-0)
 
 ## 10. Worked Example / Concrete Special Case
 

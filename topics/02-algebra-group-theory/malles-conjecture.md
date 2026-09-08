@@ -107,24 +107,24 @@ The precise barrier is the first case with **no abelian normal subgroup and no p
 ## 9. Key References
 
 - **[Foundational]** G. Malle. *On the distribution of Galois groups.* Journal of Number Theory **92** (2002), 315–329.
-- **[Foundational]** G. Malle. *On the distribution of Galois groups, II.* Experimental Mathematics **13** (2004), 129–135.
-- **[Foundational]** H. Davenport, H. Heilbronn. *On the density of discriminants of cubic fields, II.* Proceedings of the Royal Society A **322** (1971), 405–420.
-- **[Foundational]** D. J. Wright. *Distribution of discriminants of abelian extensions.* Proceedings of the London Mathematical Society (3) **58** (1989), 17–50.
+- **[Foundational]** G. Malle. *On the distribution of Galois groups, II.* Experimental Mathematics **13** (2004), 129–135. [DOI](https://doi.org/10.1080/10586458.2004.10504527)
+- **[Foundational]** H. Davenport, H. Heilbronn. *On the density of discriminants of cubic fields, II.* Proceedings of the Royal Society A **322** (1971), 405–420. [DOI](https://doi.org/10.1098/rspa.1971.0075)
+- **[Foundational]** D. J. Wright. *Distribution of discriminants of abelian extensions.* Proceedings of the London Mathematical Society (3) **58** (1989), 17–50. [DOI](https://doi.org/10.1112/plms/s3-58.1.17)
 - **[Foundational]** S. Mäki. *On the density of abelian number fields.* Annales Academiae Scientiarum Fennicae, Ser. A I Math. Dissertationes **54** (1985).
-- **[SOTA]** M. Bhargava. *The density of discriminants of quartic rings and fields.* Annals of Mathematics **162** (2005), 1031–1063.
-- **[SOTA]** M. Bhargava. *The density of discriminants of quintic rings and fields.* Annals of Mathematics **172** (2010), 1559–1591.
+- **[SOTA]** M. Bhargava. *The density of discriminants of quartic rings and fields.* Annals of Mathematics **162** (2005), 1031–1063. [DOI](https://doi.org/10.4007/annals.2005.162.1031)
+- **[SOTA]** M. Bhargava. *The density of discriminants of quintic rings and fields.* Annals of Mathematics **172** (2010), 1559–1591. [DOI](https://doi.org/10.4007/annals.2010.172.1559)
 - **[Counterexample]** J. Klüners. *A counterexample to Malle's conjecture on the asymptotics of discriminants.* Comptes Rendus Mathématique, Acad. Sci. Paris **340** (2005), 411–414.
-- **[SOTA]** J. Klüners, G. Malle. *Counting nilpotent Galois extensions.* Journal für die reine und angewandte Mathematik **572** (2004), 1–26.
-- **[SOTA]** S. Türkelli. *Connected components of Hurwitz schemes and Malle's conjecture.* Journal of Number Theory **155** (2015), 163–201.
-- **[SOTA]** J. S. Ellenberg, A. Venkatesh. *The number of extensions of a number field with fixed degree and bounded discriminant.* Annals of Mathematics **163** (2006), 723–741.
+- **[SOTA]** J. Klüners, G. Malle. *Counting nilpotent Galois extensions.* Journal für die reine und angewandte Mathematik **572** (2004), 1–26. [DOI](https://doi.org/10.1515/crll.2004.050)
+- **[SOTA]** S. Türkelli. *Connected components of Hurwitz schemes and Malle's conjecture.* Journal of Number Theory **155** (2015), 163–201. [DOI](https://doi.org/10.1016/j.jnt.2015.03.005)
+- **[SOTA]** J. S. Ellenberg, A. Venkatesh. *The number of extensions of a number field with fixed degree and bounded discriminant.* Annals of Mathematics **163** (2006), 723–741. [DOI](https://doi.org/10.4007/annals.2006.163.723)
 - **[SOTA]** W. M. Schmidt. *Number fields of given degree and bounded discriminant.* Astérisque **228** (1995), 189–195.
-- **[SOTA]** R. J. Lemke Oliver, F. Thorne. *Upper bounds on number fields of given degree and bounded discriminant.* Duke Mathematical Journal **171** (2022).
-- **[SOTA]** B. Alberts. *Statistics of the first Galois cohomology group: a refinement of Malle's conjecture.* Algebra & Number Theory **15** (2021), 2513–2569.
+- **[SOTA]** R. J. Lemke Oliver, F. Thorne. *Upper bounds on number fields of given degree and bounded discriminant.* Duke Mathematical Journal **171** (2022). [DOI](https://doi.org/10.1215/00127094-2022-0046)
+- **[SOTA]** B. Alberts. *Statistics of the first Galois cohomology group: a refinement of Malle's conjecture.* Algebra & Number Theory **15** (2021), 2513–2569. [DOI](https://doi.org/10.2140/ant.2021.15.2513)
 - **[SOTA]** J. Wang. *Malle's conjecture for $S_n\times A$ for $n=3,4,5$.* Compositio Mathematica **157** (2021), 83–121.
 - **[SOTA]** S. A. Altuğ, A. Shankar, I. Varma, K. Wilson. *The number of quartic $D_4$-fields ordered by conductor.* Journal of the European Mathematical Society **23** (2021).
 - **[Related]** H. Cohen, F. Diaz y Diaz, M. Olivier. *Enumerating quartic dihedral extensions of $\mathbb{Q}$.* Compositio Mathematica **133** (2002), 65–93.
 - **[Survey]** K. Belabas. *Paramétrisation de structures algébriques et densité de discriminants (d'après Bhargava).* Séminaire Bourbaki, Astérisque **299** (2005), Exp. 935.
-- **[Heuristic]** M. Bhargava. *Mass formulae for extensions of local fields, and conjectures on the density of number field discriminants.* International Mathematics Research Notices (2007).
+- **[Heuristic]** M. Bhargava. *Mass formulae for extensions of local fields, and conjectures on the density of number field discriminants.* International Mathematics Research Notices (2007). [DOI](https://doi.org/10.1093/imrn/rnm052)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -120,17 +120,17 @@ The exact step to be crossed is a **tile-counting inequality below the $3/2$ thr
 ## 9. Key References
 
 - **[Foundational]** N. Wiener and A. Wintner. *Harmonic analysis and ergodic theory.* American Journal of Mathematics 63 (1941), 415–426.
-- **[Foundational]** L. Carleson. *On convergence and growth of partial sums of Fourier series.* Acta Mathematica 116 (1966), 135–157.
+- **[Foundational]** L. Carleson. *On convergence and growth of partial sums of Fourier series.* Acta Mathematica 116 (1966), 135–157. [DOI](https://doi.org/10.1007/bf02392815)
 - **[Foundational]** R. A. Hunt. *On the convergence of Fourier series.* In: Orthogonal Expansions and their Continuous Analogues, Southern Illinois Univ. Press, 1968, 235–255.
 - **[Foundational]** J. Bourgain. *Temps de retour pour les systèmes dynamiques.* C. R. Acad. Sci. Paris Sér. I Math. 306 (1988), 483–485.
-- **[Foundational]** J. Bourgain. *Pointwise ergodic theorems for arithmetic sets*, with an appendix *On the return time sequence* by J. Bourgain, H. Furstenberg, Y. Katznelson and D. Ornstein. Publications Mathématiques de l'IHÉS 69 (1989), 5–45.
-- **[Structural]** D. J. Rudolph. *A joinings proof of Bourgain's return time theorem.* Ergodic Theory and Dynamical Systems 14 (1994), 197–203.
-- **[Structural]** D. J. Rudolph. *Fully generic sequences and a multiple-term return-times theorem.* Inventiones Mathematicae 131 (1998), 199–228.
-- **[Technique]** M. Lacey and C. Thiele. *A proof of boundedness of the Carleson operator.* Mathematical Research Letters 7 (2000), 361–370.
-- **[SOTA / Recent]** C. Demeter, M. Lacey, T. Tao and C. Thiele. *Breaking the duality in the return times theorem.* Duke Mathematical Journal 143 (2008), 281–355.
+- **[Foundational]** J. Bourgain. *Pointwise ergodic theorems for arithmetic sets*, with an appendix *On the return time sequence* by J. Bourgain, H. Furstenberg, Y. Katznelson and D. Ornstein. Publications Mathématiques de l'IHÉS 69 (1989), 5–45. [DOI](https://doi.org/10.1007/bf02698838)
+- **[Structural]** D. J. Rudolph. *A joinings proof of Bourgain's return time theorem.* Ergodic Theory and Dynamical Systems 14 (1994), 197–203. [DOI](https://doi.org/10.1017/s014338570000780x)
+- **[Structural]** D. J. Rudolph. *Fully generic sequences and a multiple-term return-times theorem.* Inventiones Mathematicae 131 (1998), 199–228. [DOI](https://doi.org/10.1007/s002220050202)
+- **[Technique]** M. Lacey and C. Thiele. *A proof of boundedness of the Carleson operator.* Mathematical Research Letters 7 (2000), 361–370. [DOI](https://doi.org/10.4310/mrl.2000.v7.n4.a1)
+- **[SOTA / Recent]** C. Demeter, M. Lacey, T. Tao and C. Thiele. *Breaking the duality in the return times theorem.* Duke Mathematical Journal 143 (2008), 281–355. [DOI](https://doi.org/10.1215/00127094-2008-020)
 - **[Counterexample]** I. Assani, Z. Buczolich and R. D. Mauldin. *An $L^1$ counting problem in ergodic theory.* Journal d'Analyse Mathématique 95 (2005), 221–241.
-- **[Survey]** I. Assani and K. Presser. *A survey of the return times theorem.* In: Ergodic Theory and Dynamical Systems, de Gruyter Proceedings in Mathematics, 2014. (arXiv:1209.0856)
-- **[Monograph]** I. Assani. *Wiener Wintner Ergodic Theorems.* World Scientific, 2003.
+- **[Survey]** I. Assani and K. Presser. *A survey of the return times theorem.* In: Ergodic Theory and Dynamical Systems, de Gruyter Proceedings in Mathematics, 2014. (arXiv:1209.0856). [DOI](https://doi.org/10.1515/9783110298208.19)
+- **[Monograph]** I. Assani. *Wiener Wintner Ergodic Theorems.* World Scientific, 2003. [DOI](https://doi.org/10.1142/4538)
 - **[Related]** E. Lesigne. *Spectre quasi-discret et théorème ergodique de Wiener–Wintner pour les polynômes.* Ergodic Theory and Dynamical Systems 13 (1993), 767–784.
 
 ## 10. Worked Example / Concrete Special Case

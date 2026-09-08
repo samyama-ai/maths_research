@@ -110,18 +110,18 @@ uniformly over the family of admissible moduli. Equivalently: show the extremal 
 
 ## 9. Key References
 
-- **[Foundational]** L. Brown, A. L. Shields. *Cyclic vectors in the Dirichlet space.* Transactions of the American Mathematical Society **285** (1984), 269–304.
-- **[Foundational]** A. Beurling. *Ensembles exceptionnels.* Acta Mathematica **72** (1940), 1–13.
-- **[Foundational]** L. Carleson. *On the zeros of functions with bounded Dirichlet integrals.* Mathematische Zeitschrift **56** (1952), 289–295.
-- **[Partial results]** L. Brown, W. Cohn. *Some examples of cyclic vectors in the Dirichlet space.* Proceedings of the American Mathematical Society **95** (1985), 42–46.
-- **[Structure]** S. Richter, C. Sundberg. *A formula for the local Dirichlet integral.* Michigan Mathematical Journal **38** (1991), 355–379.
+- **[Foundational]** L. Brown, A. L. Shields. *Cyclic vectors in the Dirichlet space.* Transactions of the American Mathematical Society **285** (1984), 269–304. [DOI](https://doi.org/10.1090/s0002-9947-1984-0748841-0)
+- **[Foundational]** A. Beurling. *Ensembles exceptionnels.* Acta Mathematica **72** (1940), 1–13. [DOI](https://doi.org/10.1007/bf02546325)
+- **[Foundational]** L. Carleson. *On the zeros of functions with bounded Dirichlet integrals.* Mathematische Zeitschrift **56** (1952), 289–295. [DOI](https://doi.org/10.1007/bf01174755)
+- **[Partial results]** L. Brown, W. Cohn. *Some examples of cyclic vectors in the Dirichlet space.* Proceedings of the American Mathematical Society **95** (1985), 42–46. [DOI](https://doi.org/10.1090/s0002-9939-1985-0796443-9)
+- **[Structure]** S. Richter, C. Sundberg. *A formula for the local Dirichlet integral.* Michigan Mathematical Journal **38** (1991), 355–379. [DOI](https://doi.org/10.1307/mmj/1029004388)
 - **[Structure]** S. Richter, C. Sundberg. *Multipliers and invariant subspaces in the Dirichlet space.* Journal of Operator Theory **28** (1992), 167–186.
-- **[Structure]** H. Hedenmalm, A. Shields. *Invariant subspaces in Banach spaces of analytic functions.* Michigan Mathematical Journal **37** (1990), 91–104.
-- **[SOTA]** O. El-Fallah, K. Kellay, T. Ransford. *Cyclicity in the Dirichlet space.* Arkiv för Matematik **44** (2006), 61–86.
-- **[SOTA]** O. El-Fallah, K. Kellay, T. Ransford. *On the Brown–Shields conjecture for cyclicity in the Dirichlet space.* Advances in Mathematics **222** (2009), 2196–2214.
-- **[SOTA]** C. Bénéteau, A. Condori, C. Liaw, D. Seco, A. Sola. *Cyclicity in Dirichlet-type spaces and extremal polynomials.* Journal d'Analyse Mathématique **126** (2015), 259–286.
+- **[Structure]** H. Hedenmalm, A. Shields. *Invariant subspaces in Banach spaces of analytic functions.* Michigan Mathematical Journal **37** (1990), 91–104. [DOI](https://doi.org/10.1307/mmj/1029004068)
+- **[SOTA]** O. El-Fallah, K. Kellay, T. Ransford. *Cyclicity in the Dirichlet space.* Arkiv för Matematik **44** (2006), 61–86. [DOI](https://doi.org/10.1007/s11512-005-0008-z)
+- **[SOTA]** O. El-Fallah, K. Kellay, T. Ransford. *On the Brown–Shields conjecture for cyclicity in the Dirichlet space.* Advances in Mathematics **222** (2009), 2196–2214. [DOI](https://doi.org/10.1016/j.aim.2009.07.011)
+- **[SOTA]** C. Bénéteau, A. Condori, C. Liaw, D. Seco, A. Sola. *Cyclicity in Dirichlet-type spaces and extremal polynomials.* Journal d'Analyse Mathématique **126** (2015), 259–286. [DOI](https://doi.org/10.1007/s11854-015-0017-1)
 - **[Survey / Book]** O. El-Fallah, K. Kellay, J. Mashreghi, T. Ransford. *A Primer on the Dirichlet Space.* Cambridge Tracts in Mathematics 203, Cambridge University Press, 2014.
-- **[Background]** J. Agler, J. E. McCarthy. *Pick Interpolation and Hilbert Function Spaces.* Graduate Studies in Mathematics 44, American Mathematical Society, 2002.
+- **[Background]** J. Agler, J. E. McCarthy. *Pick Interpolation and Hilbert Function Spaces.* Graduate Studies in Mathematics 44, American Mathematical Society, 2002. [DOI](https://doi.org/10.1090/gsm/044)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -92,8 +92,8 @@ Leading mathematicians suggest the following pathways for future research:
 
 - **[Foundational]** Euler, L. *De Progressionibus harmonicis observationes.* Commentarii academiae scientiarum Petropolitanae, 9, 87-100, 1734.
 - **[Foundational]** Mascheroni, L. *Adnotationes ad calculum integralem Euleri.* Ticini, Apud Petrum Galeatium, 1790.
-- **[SOTA / Recent]** Brent, R. P. *Computation of the regular continued fraction for Euler's constant.* Mathematics of Computation, 31(139), 771-777, 1977.
-- **[SOTA / Recent]** Sondow, J. *Criteria for irrationality of Euler's constant.* Proceedings of the American Mathematical Society, 131(11), 3335-3344, 2003.
+- **[SOTA / Recent]** Brent, R. P. *Computation of the regular continued fraction for Euler's constant.* Mathematics of Computation, 31(139), 771-777, 1977. [DOI](https://doi.org/10.2307/2006010)
+- **[SOTA / Recent]** Sondow, J. *Criteria for irrationality of Euler's constant.* Proceedings of the American Mathematical Society, 131(11), 3335-3344, 2003. [DOI](https://doi.org/10.1090/s0002-9939-03-07081-3)
 - **[Survey]** Lagarias, J. C. *Euler's constant: Euler's work and modern developments.* Bulletin of the American Mathematical Society, 50(4), 527-628, 2013.
 
 ## 10. Worked Example / Concrete Special Case

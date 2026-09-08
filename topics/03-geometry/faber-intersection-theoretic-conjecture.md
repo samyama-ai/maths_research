@@ -109,9 +109,9 @@ Leading mathematicians have outlined several long-term strategies to complete th
 
 ## 9. Key References
 
-- **[Foundational]** Faber, Carel. *A conjectural description of the tautological ring of the moduli space of curves.* Moduli of curves and abelian varieties, 109–129, Aspects Math., E33, Vieweg, 1999.
+- **[Foundational]** Faber, Carel. *A conjectural description of the tautological ring of the moduli space of curves.* Moduli of curves and abelian varieties, 109–129, Aspects Math., E33, Vieweg, 1999. [DOI](https://doi.org/10.1007/978-3-322-90172-9_6)
 - **[Foundational]** Looijenga, Eduard. *On the tautological ring of $\mathcal{M}_g$.* Inventiones Mathematicae, 121(1), 411–419, 1995.
-- **[SOTA / Recent]** Petersen, Dan, and Tommasi, Orsola. *The Gorenstein conjecture fails for the tautological ring of $\overline{\mathcal{M}}_{2,n}$.* Inventiones Mathematicae, 196(1), 139–161, 2014.
+- **[SOTA / Recent]** Petersen, Dan, and Tommasi, Orsola. *The Gorenstein conjecture fails for the tautological ring of $\overline{\mathcal{M}}_{2,n}$.* Inventiones Mathematicae, 196(1), 139–161, 2014. [DOI](https://doi.org/10.1007/s00222-013-0466-z)
 - **[SOTA / Recent]** Pandharipande, Rahul, and Pixton, Aaron. *Relations in the tautological ring of the moduli space of curves.* Journal of the American Mathematical Society, 26(1), 263–308, 2013.
 - **[SOTA / Recent]** Pandharipande, Rahul, Pixton, Aaron, and Zvonkine, Dimitri. *Relations on $\overline{\mathcal{M}}_{g,n}$ via 3-spin structures.* Journal of the American Mathematical Society, 28(1), 279–309, 2015.
 - **[Survey]** Pandharipande, Rahul. *A calculus for the moduli space of curves.* Algebraic Geometry: Salt Lake City 2015, Proc. Sympos. Pure Math., 97, Part 1, 459–487, 2018.

@@ -84,11 +84,11 @@ Leading figures such as Barry Mazur and Bjorn Poonen suggest several critical pa
 
 ## 9. Key References
 
-- **[Foundational]** Robinson, J. *Definability and decision problems in arithmetic.* Journal of Symbolic Logic, 14(2), 98-114, 1949.
+- **[Foundational]** Robinson, J. *Definability and decision problems in arithmetic.* Journal of Symbolic Logic, 14(2), 98-114, 1949. [DOI](https://doi.org/10.2307/2266510)
 - **[Foundational]** Matiyasevich, Y. *Hilbert's Tenth Problem.* MIT Press, 1993.
-- **[SOTA / Recent]** Koenigsmann, J. *Defining $\mathbb{Z}$ in $\mathbb{Q}$.* Annals of Mathematics, 183(1), 73-93, 2016.
+- **[SOTA / Recent]** Koenigsmann, J. *Defining $\mathbb{Z}$ in $\mathbb{Q}$.* Annals of Mathematics, 183(1), 73-93, 2016. [DOI](https://doi.org/10.4007/annals.2016.183.1.2)
 - **[Survey]** Poonen, B. *Undecidability in Number Theory.* Notices of the AMS, 55(3), 344-350, 2008.
-- **[Survey]** Mazur, B. *Questions of decidability and undecidability in number theory.* Journal of Symbolic Logic, 59(2), 353-371, 1994.
+- **[Survey]** Mazur, B. *Questions of decidability and undecidability in number theory.* Journal of Symbolic Logic, 59(2), 353-371, 1994. [DOI](https://doi.org/10.2307/2275395)
 
 ## 10. Worked Example / Concrete Special Case
 

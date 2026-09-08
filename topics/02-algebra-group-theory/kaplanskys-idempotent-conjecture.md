@@ -116,18 +116,18 @@ Two disjoint gaps.
 
 - **[Foundational]** G. Higman. *The units of group-rings.* Proc. London Math. Soc. (2) **46** (1940), 231–248.
 - **[Foundational]** I. Kaplansky. *Fields and Rings.* University of Chicago Press, 1969.
-- **[Foundational]** I. Kaplansky. *"Problems in the theory of rings" revisited.* Amer. Math. Monthly **77** (1970), 445–454.
-- **[Foundational]** A. E. Zalesskii. *On a problem of Kaplansky.* Soviet Math. Doklady **13** (1972), 449–452.
+- **[Foundational]** I. Kaplansky. *"Problems in the theory of rings" revisited.* Amer. Math. Monthly **77** (1970), 445–454. [DOI](https://doi.org/10.2307/2317376)
+- **[Foundational]** A. E. Zalesskii. *On a problem of Kaplansky.* Soviet Math. Doklady **13** (1972), 449–452. [DOI](https://doi.org/10.1070/im1973v007n03abeh001952)
 - **[Foundational]** D. R. Farkas, R. L. Snider. *$K_0$ and Noetherian group rings.* J. Algebra **42** (1976), 192–198.
 - **[Foundational]** K. A. Brown. *On zero divisors in group rings.* Bull. London Math. Soc. **8** (1976), 251–256.
-- **[Foundational]** P. H. Kropholler, P. A. Linnell, J. A. Moody. *Applications of a new $K$-theoretic theorem to soluble group rings.* Proc. Amer. Math. Soc. **104** (1988), 675–684.
-- **[Foundational]** S. D. Promislow. *A simple example of a torsion-free, non-unique product group.* Bull. London Math. Soc. **20** (1988), 302–304.
-- **[SOTA]** P. A. Linnell. *Division rings and group von Neumann algebras.* Forum Math. **5** (1993), 561–576.
-- **[SOTA]** N. Higson, G. Kasparov. *$E$-theory and $KK$-theory for groups which act properly and isometrically on Hilbert space.* Invent. Math. **144** (2001), 23–74.
-- **[SOTA]** G. Elek, E. Szabó. *Sofic groups and direct finiteness.* J. Algebra **280** (2004), 426–434.
-- **[SOTA]** A. Bartels, W. Lück. *The Borel conjecture for hyperbolic and $\mathrm{CAT}(0)$-groups.* Ann. of Math. **175** (2012), 631–689.
-- **[SOTA]** A. Bartels, M. Bestvina. *The Farrell–Jones conjecture for mapping class groups.* Invent. Math. **215** (2019), 651–712.
-- **[SOTA]** G. Gardam. *A counterexample to the unit conjecture for group rings.* Ann. of Math. **194** (2021), 967–979.
+- **[Foundational]** P. H. Kropholler, P. A. Linnell, J. A. Moody. *Applications of a new $K$-theoretic theorem to soluble group rings.* Proc. Amer. Math. Soc. **104** (1988), 675–684. [DOI](https://doi.org/10.2307/2046771)
+- **[Foundational]** S. D. Promislow. *A simple example of a torsion-free, non-unique product group.* Bull. London Math. Soc. **20** (1988), 302–304. [DOI](https://doi.org/10.1112/blms/20.4.302)
+- **[SOTA]** P. A. Linnell. *Division rings and group von Neumann algebras.* Forum Math. **5** (1993), 561–576. [DOI](https://doi.org/10.1515/form.1993.5.561)
+- **[SOTA]** N. Higson, G. Kasparov. *$E$-theory and $KK$-theory for groups which act properly and isometrically on Hilbert space.* Invent. Math. **144** (2001), 23–74. [DOI](https://doi.org/10.1007/s002220000118)
+- **[SOTA]** G. Elek, E. Szabó. *Sofic groups and direct finiteness.* J. Algebra **280** (2004), 426–434. [DOI](https://doi.org/10.1016/j.jalgebra.2004.06.023)
+- **[SOTA]** A. Bartels, W. Lück. *The Borel conjecture for hyperbolic and $\mathrm{CAT}(0)$-groups.* Ann. of Math. **175** (2012), 631–689. [DOI](https://doi.org/10.4007/annals.2012.175.2.5)
+- **[SOTA]** A. Bartels, M. Bestvina. *The Farrell–Jones conjecture for mapping class groups.* Invent. Math. **215** (2019), 651–712. [DOI](https://doi.org/10.1007/s00222-018-0834-9)
+- **[SOTA]** G. Gardam. *A counterexample to the unit conjecture for group rings.* Ann. of Math. **194** (2021), 967–979. [DOI](https://doi.org/10.4007/annals.2021.194.3.9)
 - **[SOTA]** A. G. Murray. *More counterexamples to the unit conjecture for group rings.* Preprint, 2021.
 - **[Survey]** D. S. Passman. *The Algebraic Structure of Group Rings.* Wiley-Interscience, 1977.
 - **[Survey]** W. Lück. *$L^2$-Invariants: Theory and Applications to Geometry and $K$-Theory.* Ergebnisse der Mathematik 44, Springer, 2002.

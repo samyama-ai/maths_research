@@ -122,10 +122,10 @@ Another identified pathway is integrating fractional regularity with geometric m
 
 ## 9. Key References
 
-- **[Foundational]** Caffarelli, L., & Silvestre, L. *An extension problem related to the fractional Laplacian.* Communications in Partial Differential Equations, 32(8), 2007.
-- **[Foundational]** Caffarelli, L., & Silvestre, L. *Regularity theory for fully nonlinear integro-differential equations.* Communications on Pure and Applied Mathematics, 62(5), 2009.
-- **[SOTA / Recent]** Ros-Oton, X., & Serra, J. *The Dirichlet problem for the fractional Laplacian: regularity up to the boundary.* Journal de Mathématiques Pures et Appliquées, 101(3), 2014.
-- **[SOTA / Recent]** Figalli, A., Ros-Oton, X., & Serra, J. *Generic regularity of free boundaries for the obstacle problem.* Publications Mathématiques de l'IHÉS, 132, 2020.
+- **[Foundational]** Caffarelli, L., & Silvestre, L. *An extension problem related to the fractional Laplacian.* Communications in Partial Differential Equations, 32(8), 2007. [DOI](https://doi.org/10.1080/03605300600987306)
+- **[Foundational]** Caffarelli, L., & Silvestre, L. *Regularity theory for fully nonlinear integro-differential equations.* Communications on Pure and Applied Mathematics, 62(5), 2009. [DOI](https://doi.org/10.1002/cpa.20274)
+- **[SOTA / Recent]** Ros-Oton, X., & Serra, J. *The Dirichlet problem for the fractional Laplacian: regularity up to the boundary.* Journal de Mathématiques Pures et Appliquées, 101(3), 2014. [DOI](https://doi.org/10.1016/j.matpur.2013.06.003)
+- **[SOTA / Recent]** Figalli, A., Ros-Oton, X., & Serra, J. *Generic regularity of free boundaries for the obstacle problem.* Publications Mathématiques de l'IHÉS, 132, 2020. [DOI](https://doi.org/10.1007/s10240-020-00119-9)
 - **[Survey]** Bucur, C., & Valdinoci, E. *Nonlocal Diffusion and Applications.* Lecture Notes of the Unione Matematica Italiana, Springer, 2016.
 
 ## 10. Worked Example / Concrete Special Case

@@ -110,19 +110,19 @@ The exact missing step is a **uniform-in-$N$ a priori estimate in $H^s$, $s>5/2$
 
 - **[Foundational]** J. Boussinesq. *Théorie analytique de la chaleur*, vol. 2. Gauthier-Villars, Paris, 1903.
 - **[Foundational]** K. R. Rajagopal, M. Růžička, A. R. Srinivasa. *On the Oberbeck–Boussinesq approximation.* Mathematical Models and Methods in Applied Sciences 6(8), 1996.
-- **[Foundational]** A. Babin, A. Mahalov, B. Nicolaenko. *Fast singular oscillating limits and global regularity for the 3D primitive equations of geophysics.* M2AN Mathematical Modelling and Numerical Analysis 34(2), 2000.
+- **[Foundational]** A. Babin, A. Mahalov, B. Nicolaenko. *Fast singular oscillating limits and global regularity for the 3D primitive equations of geophysics.* M2AN Mathematical Modelling and Numerical Analysis 34(2), 2000. [DOI](https://doi.org/10.1051/m2an:2000138)
 - **[Foundational]** P. F. Embid, A. J. Majda. *Averaging over fast gravity waves for geophysical flows with arbitrary potential vorticity.* Communications in Partial Differential Equations 21, 1996.
-- **[Foundational]** D. Bourgeois, J. T. Beale. *Validity of the quasigeostrophic model for large-scale flow in the atmosphere and ocean.* SIAM Journal on Mathematical Analysis 25(4), 1994.
-- **[SOTA]** T. M. Elgindi, K. Widmayer. *Sharp decay estimates for an anisotropic linear semigroup and applications to the surface quasi-geostrophic and inviscid Boussinesq systems.* SIAM Journal on Mathematical Analysis 47(6), 2015.
-- **[SOTA]** S. Lee, R. Takada. *Dispersive estimates for the stably stratified Boussinesq equations.* Indiana University Mathematics Journal 66(6), 2017.
-- **[SOTA]** K. Widmayer. *Convergence to stratified flow for an inviscid 3D Boussinesq system.* Communications in Mathematical Sciences 16(6), 2018.
-- **[SOTA]** N. Masmoudi. *Rigorous derivation of the anelastic approximation.* Journal de Mathématiques Pures et Appliquées 88(3), 2007.
+- **[Foundational]** D. Bourgeois, J. T. Beale. *Validity of the quasigeostrophic model for large-scale flow in the atmosphere and ocean.* SIAM Journal on Mathematical Analysis 25(4), 1994. [DOI](https://doi.org/10.1137/s0036141092234980)
+- **[SOTA]** T. M. Elgindi, K. Widmayer. *Sharp decay estimates for an anisotropic linear semigroup and applications to the surface quasi-geostrophic and inviscid Boussinesq systems.* SIAM Journal on Mathematical Analysis 47(6), 2015. [DOI](https://doi.org/10.1137/14099036x)
+- **[SOTA]** S. Lee, R. Takada. *Dispersive estimates for the stably stratified Boussinesq equations.* Indiana University Mathematics Journal 66(6), 2017. [DOI](https://doi.org/10.1512/iumj.2017.66.6179)
+- **[SOTA]** K. Widmayer. *Convergence to stratified flow for an inviscid 3D Boussinesq system.* Communications in Mathematical Sciences 16(6), 2018. [DOI](https://doi.org/10.4310/cms.2018.v16.n6.a10)
+- **[SOTA]** N. Masmoudi. *Rigorous derivation of the anelastic approximation.* Journal de Mathématiques Pures et Appliquées 88(3), 2007. [DOI](https://doi.org/10.1016/j.matpur.2007.06.001)
 - **[SOTA]** E. Feireisl, A. Novotný. *The Oberbeck–Boussinesq approximation as a singular limit of the full Navier–Stokes–Fourier system.* Journal of Mathematical Fluid Mechanics 11, 2009.
-- **[SOTA]** F. Charve. *Global well-posedness and asymptotics for a geophysical fluid system.* Communications in Partial Differential Equations 29, 2004.
-- **[SOTA]** R. Bianchini, M. Coti Zelati, M. Dolce. *Linear inviscid damping for shear flows near Couette in the 2D stably stratified regime.* Indiana University Mathematics Journal 71(4), 2022.
+- **[SOTA]** F. Charve. *Global well-posedness and asymptotics for a geophysical fluid system.* Communications in Partial Differential Equations 29, 2004. [DOI](https://doi.org/10.1081/pde-200043510)
+- **[SOTA]** R. Bianchini, M. Coti Zelati, M. Dolce. *Linear inviscid damping for shear flows near Couette in the 2D stably stratified regime.* Indiana University Mathematics Journal 71(4), 2022. [DOI](https://doi.org/10.1512/iumj.2022.71.9040)
 - **[Survey/Book]** J.-Y. Chemin, B. Desjardins, I. Gallagher, E. Grenier. *Mathematical Geophysics: An Introduction to Rotating Fluids and the Navier–Stokes Equations.* Oxford University Press, 2006.
-- **[Survey/Book]** E. Feireisl, A. Novotný. *Singular Limits in Thermodynamics of Viscous Fluids.* Birkhäuser, 2009 (2nd ed. 2017).
-- **[Survey/Book]** A. J. Majda. *Introduction to PDEs and Waves for the Atmosphere and Ocean.* Courant Lecture Notes 9, AMS, 2003.
+- **[Survey/Book]** E. Feireisl, A. Novotný. *Singular Limits in Thermodynamics of Viscous Fluids.* Birkhäuser, 2009 (2nd ed. 2017). [DOI](https://doi.org/10.1007/978-3-7643-8843-0)
+- **[Survey/Book]** A. J. Majda. *Introduction to PDEs and Waves for the Atmosphere and Ocean.* Courant Lecture Notes 9, AMS, 2003. [DOI](https://doi.org/10.1090/cln/009)
 
 ## 10. Worked Example / Concrete Special Case
 

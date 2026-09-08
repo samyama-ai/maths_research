@@ -84,10 +84,10 @@ Leading algebraic geometers articulate several open pathways stemming from this 
 
 ## 9. Key References
 
-- **[Foundational]** Coolidge, J. L. *A Treatise on Algebraic Plane Curves*. Oxford University Press, 1931. (Dover reprint 1959).
+- **[Foundational]** Coolidge, J. L. *A Treatise on Algebraic Plane Curves*. Oxford University Press, 1931. (Dover reprint 1959). [DOI](https://doi.org/10.1038/130910a0)
 - **[Foundational]** Nagata, M. *On rational surfaces I*. Memoirs of the College of Science, University of Kyoto, Series A: Mathematics, 32(3), 351-370, 1960.
-- **[SOTA / Recent]** Koras, M., and Palka, K. *The Coolidge–Nagata conjecture*. Duke Mathematical Journal, 166(16), 3085–3145, 2017.
-- **[SOTA / Recent]** Koras, M., and Palka, K. *Complex planar curves homeomorphic to a line have at most four singular points*. Journal de Mathématiques Pures et Appliquées, 158, 255-300, 2022.
+- **[SOTA / Recent]** Koras, M., and Palka, K. *The Coolidge–Nagata conjecture*. Duke Mathematical Journal, 166(16), 3085–3145, 2017. [DOI](https://doi.org/10.1215/00127094-2017-0010)
+- **[SOTA / Recent]** Koras, M., and Palka, K. *Complex planar curves homeomorphic to a line have at most four singular points*. Journal de Mathématiques Pures et Appliquées, 158, 255-300, 2022. [DOI](https://doi.org/10.1016/j.matpur.2021.11.003)
 
 ## 10. Worked Example / Concrete Special Case
 

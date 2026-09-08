@@ -95,14 +95,14 @@ Leading mathematicians suggest the following open pathways:
 
 ## 9. Key References
 
-- **[Foundational]** Fisher, R. A. *The wave of advance of advantageous genes.* Annals of Eugenics, 1937.
+- **[Foundational]** Fisher, R. A. *The wave of advance of advantageous genes.* Annals of Eugenics, 1937. [DOI](https://doi.org/10.1111/j.1469-1809.1937.tb02153.x)
 - **[Foundational]** Kolmogorov, A., Petrovsky, I., & Piskunov, N. *Etude de l'équation de la diffusion avec croissance de la quantité de matière et son application à un problème biologique.* Moscow University Mathematics Bulletin, 1937.
-- **[Foundational]** Fife, P. C., & McLeod, J. B. *The approach of solutions of nonlinear diffusion equations to travelling front solutions.* Archive for Rational Mechanics and Analysis, 1977. (link if stable)
-- **[Foundational]** Bramson, M. *Convergence of solutions of the Kolmogorov equation to travelling waves.* Memoirs of the American Mathematical Society, 1983.
-- **[SOTA / Recent]** Gallay, T. *Local stability of critical fronts in nonlinear parabolic partial differential equations.* Nonlinearity, 1994.
-- **[SOTA / Recent]** Ebert, U., & van Saarloos, W. *Front propagation into unstable states: universal algebraic convergence towards uniformly translating pulled fronts.* Physica D: Nonlinear Phenomena, 2000.
-- **[SOTA / Recent]** Hamel, F., & Nadirashvili, N. *Travelling fronts and entire solutions of the Fisher-KPP equation in $\mathbb{R}^N$.* Archive for Rational Mechanics and Analysis, 2001.
-- **[Survey]** Xin, J. *Front propagation in heterogeneous media.* SIAM Review, 2000.
+- **[Foundational]** Fife, P. C., & McLeod, J. B. *The approach of solutions of nonlinear diffusion equations to travelling front solutions.* Archive for Rational Mechanics and Analysis, 1977. (link if stable). [DOI](https://doi.org/10.1007/bf00250432)
+- **[Foundational]** Bramson, M. *Convergence of solutions of the Kolmogorov equation to travelling waves.* Memoirs of the American Mathematical Society, 1983. [DOI](https://doi.org/10.1090/memo/0285)
+- **[SOTA / Recent]** Gallay, T. *Local stability of critical fronts in nonlinear parabolic partial differential equations.* Nonlinearity, 1994. [DOI](https://doi.org/10.1088/0951-7715/7/3/003)
+- **[SOTA / Recent]** Ebert, U., & van Saarloos, W. *Front propagation into unstable states: universal algebraic convergence towards uniformly translating pulled fronts.* Physica D: Nonlinear Phenomena, 2000. [DOI](https://doi.org/10.1016/s0167-2789(00)00068-3)
+- **[SOTA / Recent]** Hamel, F., & Nadirashvili, N. *Travelling fronts and entire solutions of the Fisher-KPP equation in $\mathbb{R}^N$.* Archive for Rational Mechanics and Analysis, 2001. [DOI](https://doi.org/10.1007/pl00004238)
+- **[Survey]** Xin, J. *Front propagation in heterogeneous media.* SIAM Review, 2000. [DOI](https://doi.org/10.1137/s0036144599364296)
 
 ## 10. Worked Example / Concrete Special Case
 

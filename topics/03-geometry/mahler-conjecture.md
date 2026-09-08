@@ -123,16 +123,16 @@ i.e. removing a fixed exponential loss from an analytic inequality that is *not*
 - **[Foundational]** K. Mahler. *Ein Übertragungsprinzip für konvexe Körper.* Časopis pro pěstování matematiky a fysiky **68** (1939), 93–102.
 - **[Foundational]** K. Mahler. *Ein Minimalproblem für konvexe Polygone.* Mathematica (Zutphen) B **7** (1939), 118–127.
 - **[Foundational]** L. A. Santaló. *Un invariante afín para los cuerpos convexos del espacio de n dimensiones.* Portugaliae Mathematica **8** (1949), 155–161.
-- **[Foundational]** J. Bourgain, V. D. Milman. *New volume ratio properties for convex symmetric bodies in $\mathbb{R}^n$.* Inventiones Mathematicae **88** (1987), 319–340.
-- **[Foundational]** S. Reisner. *Zonoids with minimal volume-product.* Mathematische Zeitschrift **192** (1986), 339–346.
+- **[Foundational]** J. Bourgain, V. D. Milman. *New volume ratio properties for convex symmetric bodies in $\mathbb{R}^n$.* Inventiones Mathematicae **88** (1987), 319–340. [DOI](https://doi.org/10.1007/bf01388911)
+- **[Foundational]** S. Reisner. *Zonoids with minimal volume-product.* Mathematische Zeitschrift **192** (1986), 339–346. [DOI](https://doi.org/10.1007/bf01164009)
 - **[Foundational]** J. Saint-Raymond. *Sur le volume des corps convexes symétriques.* Séminaire d'Initiation à l'Analyse, Univ. Paris VI, 1980/81.
-- **[SOTA]** H. Iriyeh, M. Shibata. *Symmetric Mahler's conjecture for the volume product in the three-dimensional case.* Duke Mathematical Journal **169** (2020), 1077–1134.
-- **[SOTA]** M. Fradelizi, A. Hubard, M. Meyer, E. Roldán-Pensado, A. Zvavitch. *Equipartitions and Mahler volumes of symmetric convex bodies.* American Journal of Mathematics **144** (2022), 1201–1219.
-- **[SOTA]** G. Kuperberg. *From the Mahler conjecture to Gauss linking integrals.* Geometric and Functional Analysis **18** (2008), 870–892.
-- **[SOTA]** F. Nazarov. *The Hörmander proof of the Bourgain–Milman theorem.* In: Geometric Aspects of Functional Analysis, Lecture Notes in Mathematics **2050**, Springer, 2012, 335–343.
-- **[SOTA]** F. Nazarov, F. Petrov, D. Ryabogin, A. Zvavitch. *A remark on the Mahler conjecture: local minimality of the unit cube.* Duke Mathematical Journal **154** (2010), 419–430.
-- **[SOTA]** S. Artstein-Avidan, R. Karasev, Y. Ostrover. *From symplectic measurements to the Mahler conjecture.* Duke Mathematical Journal **163** (2014), 2003–2022.
-- **[SOTA]** F. Barthe, M. Fradelizi. *The volume product of convex bodies with many hyperplane symmetries.* American Journal of Mathematics **135** (2013), 311–347.
+- **[SOTA]** H. Iriyeh, M. Shibata. *Symmetric Mahler's conjecture for the volume product in the three-dimensional case.* Duke Mathematical Journal **169** (2020), 1077–1134. [DOI](https://doi.org/10.1215/00127094-2019-0072)
+- **[SOTA]** M. Fradelizi, A. Hubard, M. Meyer, E. Roldán-Pensado, A. Zvavitch. *Equipartitions and Mahler volumes of symmetric convex bodies.* American Journal of Mathematics **144** (2022), 1201–1219. [DOI](https://doi.org/10.1353/ajm.2022.0027)
+- **[SOTA]** G. Kuperberg. *From the Mahler conjecture to Gauss linking integrals.* Geometric and Functional Analysis **18** (2008), 870–892. [DOI](https://doi.org/10.1007/s00039-008-0669-4)
+- **[SOTA]** F. Nazarov. *The Hörmander proof of the Bourgain–Milman theorem.* In: Geometric Aspects of Functional Analysis, Lecture Notes in Mathematics **2050**, Springer, 2012, 335–343. [DOI](https://doi.org/10.1007/978-3-642-29849-3_20)
+- **[SOTA]** F. Nazarov, F. Petrov, D. Ryabogin, A. Zvavitch. *A remark on the Mahler conjecture: local minimality of the unit cube.* Duke Mathematical Journal **154** (2010), 419–430. [DOI](https://doi.org/10.1215/00127094-2010-042)
+- **[SOTA]** S. Artstein-Avidan, R. Karasev, Y. Ostrover. *From symplectic measurements to the Mahler conjecture.* Duke Mathematical Journal **163** (2014), 2003–2022. [DOI](https://doi.org/10.1215/00127094-2794999)
+- **[SOTA]** F. Barthe, M. Fradelizi. *The volume product of convex bodies with many hyperplane symmetries.* American Journal of Mathematics **135** (2013), 311–347. [DOI](https://doi.org/10.1353/ajm.2013.0018)
 - **[Survey]** M. Fradelizi, M. Meyer, A. Zvavitch. *Volume product.* In: Harmonic Analysis and Convexity (A. Koldobsky, A. Volberg, eds.), De Gruyter, 2023.
 - **[Survey]** R. Schneider. *Convex Bodies: The Brunn–Minkowski Theory.* 2nd expanded ed., Cambridge University Press, 2014.
 - **[Reference]** C. M. Petty. *Affine isoperimetric problems.* Annals of the New York Academy of Sciences **440** (1985), 113–127.

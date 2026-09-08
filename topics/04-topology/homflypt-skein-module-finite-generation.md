@@ -110,19 +110,19 @@ The precise missing step is a **generic-$v$ holonomicity theorem**: an interpret
 
 ## 9. Key References
 
-- **[Foundational]** P. Freyd, D. Yetter, J. Hoste, W. B. R. Lickorish, K. Millett, A. Ocneanu. *A new polynomial invariant of knots and links.* Bull. Amer. Math. Soc. 12 (1985), 239–246.
+- **[Foundational]** P. Freyd, D. Yetter, J. Hoste, W. B. R. Lickorish, K. Millett, A. Ocneanu. *A new polynomial invariant of knots and links.* Bull. Amer. Math. Soc. 12 (1985), 239–246. [DOI](https://doi.org/10.2140/pjm.1986.124.295)
 - **[Foundational]** J. H. Przytycki, P. Traczyk. *Invariants of links of Conway type.* Kobe J. Math. 4 (1987), 115–139.
 - **[Foundational]** V. G. Turaev. *The Conway and Kauffman modules of a solid torus.* Zap. Nauchn. Sem. LOMI 167 (1988), 79–89; English transl. J. Soviet Math. 52 (1990), 2799–2805.
 - **[Foundational]** J. H. Przytycki. *Skein modules of 3-manifolds.* Bull. Polish Acad. Sci. Math. 39 (1991), 91–100.
-- **[Foundational]** J. H. Przytycki. *Skein module of links in a handlebody.* In: Topology '90, de Gruyter, 1992, 315–342.
+- **[Foundational]** J. H. Przytycki. *Skein module of links in a handlebody.* In: Topology '90, de Gruyter, 1992, 315–342. [DOI](https://doi.org/10.1515/9783110857726.315)
 - **[Structural]** J. Hoste, J. H. Przytycki. *The Kauffman bracket skein module of $S^1\times S^2$.* Math. Z. 220 (1995), 65–73.
 - **[Structural]** D. Bullock. *Rings of $SL_2(\mathbb{C})$-characters and the Kauffman bracket skein module.* Comment. Math. Helv. 72 (1997), 521–542.
 - **[Structural]** A. S. Sikora. *$SL_n$-character varieties as spaces of graphs.* Trans. Amer. Math. Soc. 353 (2001), 2773–2804.
-- **[Computation]** P. M. Gilmer, J. K. Zhong. *On the Homflypt skein module of $S^1\times S^2$.* Math. Z. 237 (2001), 769–814.
-- **[Computation]** P. M. Gilmer, J. K. Zhong. *The Homflypt skein module of a connected sum of 3-manifolds.* Algebr. Geom. Topol. 1 (2001), 605–625.
-- **[SOTA]** S. Gunningham, D. Jordan, P. Safronov. *The finiteness conjecture for skein modules.* Invent. Math. 223 (2021), 301–545.
-- **[SOTA]** H. Morton, P. Samuelson. *The HOMFLYPT skein algebra of the torus and the elliptic Hall algebra.* Duke Math. J. 166 (2017), 801–854.
-- **[SOTA]** R. Detcherry, M. Wolff. *A basis for the Kauffman bracket skein module of the product of a surface and a circle.* Algebr. Geom. Topol. 21 (2021), 2649–2676.
+- **[Computation]** P. M. Gilmer, J. K. Zhong. *On the Homflypt skein module of $S^1\times S^2$.* Math. Z. 237 (2001), 769–814. [DOI](https://doi.org/10.1007/pl00004890)
+- **[Computation]** P. M. Gilmer, J. K. Zhong. *The Homflypt skein module of a connected sum of 3-manifolds.* Algebr. Geom. Topol. 1 (2001), 605–625. [DOI](https://doi.org/10.2140/agt.2001.1.605)
+- **[SOTA]** S. Gunningham, D. Jordan, P. Safronov. *The finiteness conjecture for skein modules.* Invent. Math. 223 (2021), 301–545. [DOI](https://doi.org/10.1007/s00222-022-01167-0)
+- **[SOTA]** H. Morton, P. Samuelson. *The HOMFLYPT skein algebra of the torus and the elliptic Hall algebra.* Duke Math. J. 166 (2017), 801–854. [DOI](https://doi.org/10.1215/00127094-3718881)
+- **[SOTA]** R. Detcherry, M. Wolff. *A basis for the Kauffman bracket skein module of the product of a surface and a circle.* Algebr. Geom. Topol. 21 (2021), 2649–2676. [DOI](https://doi.org/10.2140/agt.2021.21.2959)
 - **[Survey]** J. H. Przytycki. *Fundamentals of Kauffman bracket skein modules.* Kobe J. Math. 16 (1999), 45–66.
 - **[Survey]** T. Ohtsuki (ed.). *Problems on invariants of knots and 3-manifolds.* Geom. Topol. Monogr. 4 (2002).
 - **[Survey]** J. H. Przytycki, R. P. Bakshi, D. Ibarra, G. Montoya-Vega, D. Weeks. *Lectures in Knot Theory: An Exploration of Contemporary Topics.* Springer Universitext, 2024.

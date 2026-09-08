@@ -85,7 +85,7 @@ Leading number theorists have suggested several intermediate milestones:
 - **[Foundational]** Jensen, K. L. *Om talteoretiske Egenskaber ved de Bernoulliske Tal.* Nyt Tidsskrift for Matematik B, 1915.
 - **[Foundational]** Siegel, C. L. *Zu zwei Bemerkungen Kummers.* Nachrichten der Akademie der Wissenschaften in Göttingen, 1964.
 - **[Survey]** Washington, L. C. *Introduction to Cyclotomic Fields (2nd Edition).* Springer, 1997.
-- **[SOTA / Recent]** Buhler, J., Harvey, D. *Irregular primes to 163 million.* Mathematics of Computation, 2011.
+- **[SOTA / Recent]** Buhler, J., Harvey, D. *Irregular primes to 163 million.* Mathematics of Computation, 2011. [DOI](https://doi.org/10.1090/s0025-5718-2011-02461-0)
 
 ## 10. Worked Example / Concrete Special Case
 

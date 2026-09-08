@@ -104,17 +104,17 @@ The precise barrier is the passage from *one* asymptotic direction (integer $N\t
 
 ## 9. Key References
 
-- **[Foundational]** R. M. Kashaev. *The hyperbolic volume of knots from quantum dilogarithm.* Letters in Mathematical Physics 39 (1997), 269–275.
-- **[Foundational]** H. Murakami, J. Murakami. *The colored Jones polynomials and the simplicial volume of a knot.* Acta Mathematica 186 (2001), 85–104.
-- **[Foundational]** D. Zagier. *Vassiliev invariants and a strange identity related to the Dedekind eta-function.* Topology 40 (2001), 945–960.
+- **[Foundational]** R. M. Kashaev. *The hyperbolic volume of knots from quantum dilogarithm.* Letters in Mathematical Physics 39 (1997), 269–275. [DOI](https://doi.org/10.1023/a:1007364912784)
+- **[Foundational]** H. Murakami, J. Murakami. *The colored Jones polynomials and the simplicial volume of a knot.* Acta Mathematica 186 (2001), 85–104. [DOI](https://doi.org/10.1007/bf02392716)
+- **[Foundational]** D. Zagier. *Vassiliev invariants and a strange identity related to the Dedekind eta-function.* Topology 40 (2001), 945–960. [DOI](https://doi.org/10.1016/s0040-9383(00)00005-7)
 - **[Foundational]** D. Zagier. *Quantum modular forms.* In *Quanta of Maths*, Clay Mathematics Proceedings 11, AMS (2010), 659–675.
-- **[SOTA / Recent]** T. Ohtsuki. *On the asymptotic expansion of the Kashaev invariant of the $5_2$ knot.* Quantum Topology 7 (2016), 669–735.
-- **[SOTA / Recent]** T. Ohtsuki, Y. Yokota. *On the asymptotic expansions of the Kashaev invariant of hyperbolic knots with seven crossings.* Mathematical Proceedings of the Cambridge Philosophical Society 165 (2018), 287–339.
+- **[SOTA / Recent]** T. Ohtsuki. *On the asymptotic expansion of the Kashaev invariant of the $5_2$ knot.* Quantum Topology 7 (2016), 669–735. [DOI](https://doi.org/10.4171/qt/83)
+- **[SOTA / Recent]** T. Ohtsuki, Y. Yokota. *On the asymptotic expansions of the Kashaev invariant of hyperbolic knots with seven crossings.* Mathematical Proceedings of the Cambridge Philosophical Society 165 (2018), 287–339. [DOI](https://doi.org/10.1142/s0129167x17500963)
 - **[SOTA / Recent]** S. Bettin, S. Drappeau. *Modularity of the $q$-Pochhammer symbol and application.* (2020); and *Limit laws for rational continued fractions and value distribution of quantum modular forms.* Proceedings of the London Mathematical Society 125 (2022), 1377–1425.
-- **[SOTA / Recent]** S. Garoufalidis, D. Zagier. *Knots, perturbative series and quantum modularity.* SIGMA 20 (2024), paper 055.
+- **[SOTA / Recent]** S. Garoufalidis, D. Zagier. *Knots, perturbative series and quantum modularity.* SIGMA 20 (2024), paper 055. [DOI](https://doi.org/10.3842/sigma.2024.055)
 - **[SOTA / Recent]** S. Garoufalidis, D. Zagier. *Knots and their related $q$-series.* SIGMA 19 (2023), paper 082.
-- **[SOTA / Recent]** S. Garoufalidis, J. Gu, M. Mariño. *The resurgent structure of quantum knot invariants.* Communications in Mathematical Physics 386 (2021), 469–493.
-- **[Survey]** J. E. Andersen, S. K. Hansen. *Asymptotics of the quantum invariants for surgeries on the figure 8 knot.* Journal of Knot Theory and Its Ramifications 15 (2006), 479–548.
+- **[SOTA / Recent]** S. Garoufalidis, J. Gu, M. Mariño. *The resurgent structure of quantum knot invariants.* Communications in Mathematical Physics 386 (2021), 469–493. [DOI](https://doi.org/10.1007/s00220-021-04076-0)
+- **[Survey]** J. E. Andersen, S. K. Hansen. *Asymptotics of the quantum invariants for surgeries on the figure 8 knot.* Journal of Knot Theory and Its Ramifications 15 (2006), 479–548. [DOI](https://doi.org/10.1142/s0218216506004555)
 - **[Survey]** H. Murakami. *An introduction to the volume conjecture.* In *Interactions between Hyperbolic Geometry, Quantum Topology and Number Theory*, Contemporary Mathematics 541, AMS (2011), 1–40.
 
 ## 10. Worked Example / Concrete Special Case

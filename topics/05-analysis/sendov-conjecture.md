@@ -111,20 +111,20 @@ The proven region is $\{n \le 8\} \cup \{n \ge n_0\}$; the conjecture is the who
 ## 9. Key References
 
 - **[Foundational]** W. K. Hayman. *Research Problems in Function Theory.* Athlone Press, London, 1967. (Problem 4.5; first published statement.)
-- **[Foundational]** Z. Rubinstein. *On a problem of Ilyeff.* Pacific Journal of Mathematics **26** (1968), 159–161.
+- **[Foundational]** Z. Rubinstein. *On a problem of Ilyeff.* Pacific Journal of Mathematics **26** (1968), 159–161. [DOI](https://doi.org/10.2140/pjm.1968.26.159)
 - **[Foundational]** A. W. Goodman, Q. I. Rahman, J. S. Ratti. *On the zeros of a polynomial and its derivative.* Proceedings of the American Mathematical Society **21** (1969), 273–274.
-- **[Foundational]** G. Schmeisser. *Bemerkungen zu einer Vermutung von Ilieff.* Mathematische Zeitschrift **111** (1969), 121–125.
-- B. D. Bojanov, Q. I. Rahman, J. Szynal. *On a conjecture of Sendov about the critical points of a polynomial.* Mathematische Zeitschrift **190** (1985), 281–285.
-- M. J. Miller. *Maximal polynomials and the Ilieff–Sendov conjecture.* Transactions of the American Mathematical Society **321** (1990), 285–303.
-- V. Vâjâitu, A. Zaharescu. *Ilyeff's conjecture on a corona.* Bulletin of the London Mathematical Society **25** (1993), 49–54.
-- J. E. Brown. *On the Sendov conjecture for sixth degree polynomials.* Proceedings of the American Mathematical Society **113** (1991), 939–946.
-- **[SOTA]** J. E. Brown, G. Xiang. *Proof of the Sendov conjecture for polynomials of degree at most eight.* Journal of Mathematical Analysis and Applications **232** (1999), 272–292.
-- J. Dégot. *Sendov conjecture for high degree polynomials.* Proceedings of the American Mathematical Society **142** (2014), 1337–1349.
-- **[SOTA / Recent]** T. Tao. *Sendov's conjecture for sufficiently high degree polynomials.* Acta Mathematica **229** (2022), 347–392.
+- **[Foundational]** G. Schmeisser. *Bemerkungen zu einer Vermutung von Ilieff.* Mathematische Zeitschrift **111** (1969), 121–125. [DOI](https://doi.org/10.1007/bf01111192)
+- B. D. Bojanov, Q. I. Rahman, J. Szynal. *On a conjecture of Sendov about the critical points of a polynomial.* Mathematische Zeitschrift **190** (1985), 281–285. [DOI](https://doi.org/10.1007/bf01160464)
+- M. J. Miller. *Maximal polynomials and the Ilieff–Sendov conjecture.* Transactions of the American Mathematical Society **321** (1990), 285–303. [DOI](https://doi.org/10.2307/2001603)
+- V. Vâjâitu, A. Zaharescu. *Ilyeff's conjecture on a corona.* Bulletin of the London Mathematical Society **25** (1993), 49–54. [DOI](https://doi.org/10.1112/blms/25.1.49)
+- J. E. Brown. *On the Sendov conjecture for sixth degree polynomials.* Proceedings of the American Mathematical Society **113** (1991), 939–946. [DOI](https://doi.org/10.2307/2048768)
+- **[SOTA]** J. E. Brown, G. Xiang. *Proof of the Sendov conjecture for polynomials of degree at most eight.* Journal of Mathematical Analysis and Applications **232** (1999), 272–292. [DOI](https://doi.org/10.1006/jmaa.1999.6267)
+- J. Dégot. *Sendov conjecture for high degree polynomials.* Proceedings of the American Mathematical Society **142** (2014), 1337–1349. [DOI](https://doi.org/10.1090/s0002-9939-2014-11888-0)
+- **[SOTA / Recent]** T. Tao. *Sendov's conjecture for sufficiently high degree polynomials.* Acta Mathematica **229** (2022), 347–392. [DOI](https://doi.org/10.4310/acta.2022.v229.n2.a3)
 - **[Survey]** Q. I. Rahman, G. Schmeisser. *Analytic Theory of Polynomials.* London Mathematical Society Monographs, New Series 26, Oxford University Press, 2002. (Chapter 7 surveys Sendov's conjecture.)
 - **[Survey]** Bl. Sendov. *Hausdorff geometry of polynomials.* East Journal on Approximation **7** (2001), 123–178.
 - **[Reference]** M. Marden. *Geometry of Polynomials.* 2nd ed., Mathematical Surveys 3, American Mathematical Society, 1966.
-- G. L. Phelps, R. S. Rodriguez. *Some properties of extremal polynomials for the Ilieff conjecture.* Kōdai Mathematical Seminar Reports **24** (1972), 172–175.
+- G. L. Phelps, R. S. Rodriguez. *Some properties of extremal polynomials for the Ilieff conjecture.* Kōdai Mathematical Seminar Reports **24** (1972), 172–175. [DOI](https://doi.org/10.2996/kmj/1138846519)
 
 ## 10. Worked Example / Concrete Special Case
 

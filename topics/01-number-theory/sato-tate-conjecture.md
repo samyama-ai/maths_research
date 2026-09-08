@@ -78,7 +78,7 @@ The precise mathematical boundary sits between **elliptic curves over totally re
 
 - **[Foundational]** J. Tate. *Algebraic cycles and poles of zeta functions.* Arithmetical Algebraic Geometry (Proc. Conf. Purdue Univ., 1963), 1965.
 - **[SOTA / Recent]** L. Clozel, M. Harris, R. Taylor. *Automorphy for some l-adic lifts of automorphic mod l Galois representations.* Publications Mathématiques de l'IHÉS, 2008.
-- **[SOTA / Recent]** T. Barnet-Lamb, D. Geraghty, M. Harris, R. Taylor. *A family of Calabi-Yau varieties and potential automorphy II.* Publications of the Research Institute for Mathematical Sciences, 2011.
+- **[SOTA / Recent]** T. Barnet-Lamb, D. Geraghty, M. Harris, R. Taylor. *A family of Calabi-Yau varieties and potential automorphy II.* Publications of the Research Institute for Mathematical Sciences, 2011. [DOI](https://doi.org/10.2977/prims/31)
 - **[Survey]** M. Harris. *The Sato-Tate Conjecture.* Clay Mathematics Institute Summer School, 2009.
 
 ## 10. Worked Example / Concrete Special Case

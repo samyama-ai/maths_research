@@ -99,8 +99,8 @@ Leading mathematicians have outlined several concrete pathways to attack the pro
 
 ## 9. Key References
 
-- **[Foundational]** Gromov, M. *Filling Riemannian manifolds.* Journal of Differential Geometry, 18(1), 1-147, 1983.
-- **[SOTA / Recent]** Croke, C. B. *Rigidity and the distance between boundary points.* Journal of Differential Geometry, 33(2), 445-464, 1991.
+- **[Foundational]** Gromov, M. *Filling Riemannian manifolds.* Journal of Differential Geometry, 18(1), 1-147, 1983. [DOI](https://doi.org/10.4310/jdg/1214509283)
+- **[SOTA / Recent]** Croke, C. B. *Rigidity and the distance between boundary points.* Journal of Differential Geometry, 33(2), 445-464, 1991. [DOI](https://doi.org/10.4310/jdg/1214446326)
 - **[Survey]** Katz, M. G. *Systolic Geometry and Topology.* Mathematical Surveys and Monographs, Vol. 137, American Mathematical Society, 2007.
 
 ## 10. Worked Example / Concrete Special Case

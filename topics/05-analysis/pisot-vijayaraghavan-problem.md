@@ -108,16 +108,16 @@ which is false for arbitrary sequences but is expected to be forced here by the 
 
 - **[Foundational]** G. H. Hardy. *A problem of Diophantine approximation.* Journal of the Indian Mathematical Society, 11 (1919), 162–166.
 - **[Foundational]** C. Pisot. *La répartition modulo 1 et les nombres algébriques.* Annali della Scuola Normale Superiore di Pisa, 7 (1938), 205–248.
-- **[Foundational]** R. Salem. *A remarkable class of algebraic integers. Proof of a conjecture of Vijayaraghavan.* Duke Mathematical Journal, 11 (1944), 103–108.
-- **[Foundational]** C. L. Siegel. *Algebraic integers whose conjugates lie in the unit circle.* Duke Mathematical Journal, 11 (1944), 597–602.
+- **[Foundational]** R. Salem. *A remarkable class of algebraic integers. Proof of a conjecture of Vijayaraghavan.* Duke Mathematical Journal, 11 (1944), 103–108. [DOI](https://doi.org/10.1215/s0012-7094-44-01111-7)
+- **[Foundational]** C. L. Siegel. *Algebraic integers whose conjugates lie in the unit circle.* Duke Mathematical Journal, 11 (1944), 597–602. [DOI](https://doi.org/10.1215/s0012-7094-44-01152-x)
 - **[Book / Survey]** M.-J. Bertin, A. Decomps-Guilloux, M. Grandet-Hugot, M. Pathiaux-Delefosse, J.-P. Schreiber. *Pisot and Salem Numbers.* Birkhäuser, 1992.
 - **[Book]** R. Salem. *Algebraic Numbers and Fourier Analysis.* D. C. Heath, 1963.
 - **[Book]** J. W. S. Cassels. *An Introduction to Diophantine Approximation.* Cambridge University Press, 1957.
 - **[Survey]** Y. Bugeaud. *Distribution Modulo One and Diophantine Approximation.* Cambridge Tracts in Mathematics 193, Cambridge University Press, 2012.
-- **[SOTA]** A. Dubickas. *Arithmetical properties of powers of algebraic numbers.* Bulletin of the London Mathematical Society, 38 (2006), 70–80.
+- **[SOTA]** A. Dubickas. *Arithmetical properties of powers of algebraic numbers.* Bulletin of the London Mathematical Society, 38 (2006), 70–80. [DOI](https://doi.org/10.1017/s0024609305017728)
 - **[SOTA]** L. Flatto, J. C. Lagarias, A. D. Pollington. *On the range of fractional parts $\{\xi(p/q)^n\}$.* Acta Arithmetica, 70 (1995), 125–147.
-- **[Related]** K. Mahler. *An unsolved problem on the powers of 3/2.* Journal of the Australian Mathematical Society, 8 (1968), 313–321.
-- **[Computational]** D. W. Boyd. *Pisot and Salem numbers in intervals of the real line.* Mathematics of Computation, 32 (1978), 1244–1260.
+- **[Related]** K. Mahler. *An unsolved problem on the powers of 3/2.* Journal of the Australian Mathematical Society, 8 (1968), 313–321. [DOI](https://doi.org/10.1017/s1446788700005371)
+- **[Computational]** D. W. Boyd. *Pisot and Salem numbers in intervals of the real line.* Mathematics of Computation, 32 (1978), 1244–1260. [DOI](https://doi.org/10.1090/s0025-5718-1978-0491587-8)
 
 ## 10. Worked Example / Concrete Special Case
 

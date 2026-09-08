@@ -107,18 +107,18 @@ The precise missing step is a $k$-dimensional compression lemma: a subspace $\ma
 
 ## 9. Key References
 
-- **[Foundational]** R. Bhatia and F. Kittaneh. *On the singular values of a product of operators.* SIAM Journal on Matrix Analysis and Applications, 11(2):272–277, 1990.
-- **[Foundational]** F. Kubo and T. Ando. *Means of positive linear operators.* Mathematische Annalen, 246:205–224, 1980.
+- **[Foundational]** R. Bhatia and F. Kittaneh. *On the singular values of a product of operators.* SIAM Journal on Matrix Analysis and Applications, 11(2):272–277, 1990. [DOI](https://doi.org/10.1137/0611018)
+- **[Foundational]** F. Kubo and T. Ando. *Means of positive linear operators.* Mathematische Annalen, 246:205–224, 1980. [DOI](https://doi.org/10.1007/bf01371042)
 - **[Foundational]** R. Bhatia. *Matrix Analysis.* Graduate Texts in Mathematics 169, Springer, 1997.
-- **[SOTA]** R. Bhatia and F. Kittaneh. *The matrix arithmetic–geometric mean inequality revisited.* Linear Algebra and its Applications, 428(8–9):2177–2189, 2008.
+- **[SOTA]** R. Bhatia and F. Kittaneh. *The matrix arithmetic–geometric mean inequality revisited.* Linear Algebra and its Applications, 428(8–9):2177–2189, 2008. [DOI](https://doi.org/10.1016/j.laa.2007.11.030)
 - **[SOTA]** S. W. Drury. *On a question of Bhatia and Kittaneh.* Linear Algebra and its Applications, 437(8):1955–1960, 2012.
 - **[SOTA / Recent]** B. Recht and C. Ré. *Beneath the valley of the noncommutative arithmetic-geometric mean inequality: conjectures, case-studies, and consequences.* Proceedings of COLT 2012, JMLR Workshop and Conference Proceedings 23.
-- **[SOTA / Recent]** A. Israel, F. Krahmer and R. Ward. *An arithmetic–geometric mean inequality for products of three matrices.* Linear Algebra and its Applications, 488:1–12, 2016.
+- **[SOTA / Recent]** A. Israel, F. Krahmer and R. Ward. *An arithmetic–geometric mean inequality for products of three matrices.* Linear Algebra and its Applications, 488:1–12, 2016. [DOI](https://doi.org/10.1016/j.laa.2015.09.013)
 - **[SOTA / Recent]** Z. Lai and L.-H. Lim. *Recht–Ré noncommutative arithmetic-geometric mean conjecture is false.* Proceedings of ICML 2020, PMLR 119.
 - **[Survey]** X. Zhan. *Matrix Inequalities.* Lecture Notes in Mathematics 1790, Springer, 2002.
 - **[Survey]** R. Bhatia. *Positive Definite Matrices.* Princeton University Press, 2007.
-- **[Related]** T. Ando and F. Hiai. *Log majorization and complementary Golden–Thompson type inequalities.* Linear Algebra and its Applications, 197/198:113–131, 1994.
-- **[Related]** J. Lawson and Y. Lim. *Monotonic properties of the least squares mean.* Mathematische Annalen, 351:267–279, 2011.
+- **[Related]** T. Ando and F. Hiai. *Log majorization and complementary Golden–Thompson type inequalities.* Linear Algebra and its Applications, 197/198:113–131, 1994. [DOI](https://doi.org/10.1016/0024-3795(94)90484-7)
+- **[Related]** J. Lawson and Y. Lim. *Monotonic properties of the least squares mean.* Mathematische Annalen, 351:267–279, 2011. [DOI](https://doi.org/10.1007/s00208-010-0603-6)
 
 ## 10. Worked Example / Concrete Special Case
 

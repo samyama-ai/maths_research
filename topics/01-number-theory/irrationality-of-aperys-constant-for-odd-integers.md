@@ -86,7 +86,7 @@ Leading number theorists propose several specific paths:
 
 - **[Foundational]** Apéry, R. *Irrationalité de $\zeta(2)$ et $\zeta(3)$.* Astérisque, 1979.
 - **[Foundational]** Beukers, F. *A note on the irrationality of $\zeta(2)$ and $\zeta(3)$.* Bulletin of the London Mathematical Society, 1979.
-- **[SOTA / Recent]** Rivoal, T. *La fonction zêta de Riemann prend une infinité de valeurs irrationnelles aux entiers impairs.* Comptes Rendus de l'Académie des Sciences - Series I - Mathematics, 2000.
+- **[SOTA / Recent]** Rivoal, T. *La fonction zêta de Riemann prend une infinité de valeurs irrationnelles aux entiers impairs.* Comptes Rendus de l'Académie des Sciences - Series I - Mathematics, 2000. [DOI](https://doi.org/10.1016/s0764-4442(00)01624-4)
 - **[SOTA / Recent]** Zudilin, W. *One of the numbers $\zeta(5), \zeta(7), \zeta(9), \zeta(11)$ is irrational.* Russian Mathematical Surveys, 2001.
 - **[Survey]** Fischler, S. *Irrationalité de valeurs de zêta (d'après Apéry, Rivoal, ...).* Séminaire Bourbaki, 2002.
 

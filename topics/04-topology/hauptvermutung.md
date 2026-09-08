@@ -111,22 +111,22 @@ The classical conjecture is closed. The precise remaining boundary:
 
 ## 9. Key References
 
-- **[Foundational]** H. Tietze. *Über die topologischen Invarianten mehrdimensionaler Mannigfaltigkeiten.* Monatshefte für Mathematik und Physik **19** (1908), 1–118.
+- **[Foundational]** H. Tietze. *Über die topologischen Invarianten mehrdimensionaler Mannigfaltigkeiten.* Monatshefte für Mathematik und Physik **19** (1908), 1–118. [DOI](https://doi.org/10.1007/bf01736688)
 - **[Foundational]** E. Steinitz. *Beiträge zur Analysis situs.* Sitzungsberichte der Berliner Mathematischen Gesellschaft **7** (1908), 29–49.
 - **[Foundational]** T. Radó. *Über den Begriff der Riemannschen Fläche.* Acta Litterarum ac Scientiarum Szeged **2** (1925), 101–121.
-- **[Foundational]** E. E. Moise. *Affine structures in 3-manifolds V: The triangulation theorem and Hauptvermutung.* Annals of Mathematics **56** (1952), 96–114.
+- **[Foundational]** E. E. Moise. *Affine structures in 3-manifolds V: The triangulation theorem and Hauptvermutung.* Annals of Mathematics **56** (1952), 96–114. [DOI](https://doi.org/10.2307/1969769)
 - **[Foundational]** J. H. C. Whitehead. *Simple homotopy types.* American Journal of Mathematics **72** (1950), 1–57.
-- **[Counterexample]** J. Milnor. *Two complexes which are homeomorphic but combinatorially distinct.* Annals of Mathematics **74** (1961), 575–590.
-- **[Counterexample]** D. Sullivan. *On the Hauptvermutung for manifolds.* Bulletin of the AMS **73** (1967), 598–600.
-- **[Counterexample]** R. C. Kirby, L. C. Siebenmann. *On the triangulation of manifolds and the Hauptvermutung.* Bulletin of the AMS **75** (1969), 742–749.
+- **[Counterexample]** J. Milnor. *Two complexes which are homeomorphic but combinatorially distinct.* Annals of Mathematics **74** (1961), 575–590. [DOI](https://doi.org/10.2307/1970299)
+- **[Counterexample]** D. Sullivan. *On the Hauptvermutung for manifolds.* Bulletin of the AMS **73** (1967), 598–600. [DOI](https://doi.org/10.1090/s0002-9904-1967-11764-6)
+- **[Counterexample]** R. C. Kirby, L. C. Siebenmann. *On the triangulation of manifolds and the Hauptvermutung.* Bulletin of the AMS **75** (1969), 742–749. [DOI](https://doi.org/10.1090/s0002-9904-1969-12271-8)
 - **[Foundational]** R. C. Kirby, L. C. Siebenmann. *Foundational Essays on Topological Manifolds, Smoothings, and Triangulations.* Annals of Mathematics Studies 88, Princeton University Press, 1977.
-- **[Structural]** D. E. Galewski, R. J. Stern. *Classification of simplicial triangulations of topological manifolds.* Annals of Mathematics **111** (1980), 1–34.
-- **[SOTA]** C. Manolescu. *Pin(2)-equivariant Seiberg–Witten Floer homology and the triangulation conjecture.* Journal of the AMS **29** (2016), 147–176.
+- **[Structural]** D. E. Galewski, R. J. Stern. *Classification of simplicial triangulations of topological manifolds.* Annals of Mathematics **111** (1980), 1–34. [DOI](https://doi.org/10.2307/1971215)
+- **[SOTA]** C. Manolescu. *Pin(2)-equivariant Seiberg–Witten Floer homology and the triangulation conjecture.* Journal of the AMS **29** (2016), 147–176. [DOI](https://doi.org/10.1090/jams829)
 - **[SOTA]** I. Dai, J. Hom, M. Stoffregen, L. Truong. *An infinite-rank summand of the homology cobordism group.* Duke Mathematical Journal **170** (2021), 3255–3340.
 - **[Survey]** A. A. Ranicki (ed.). *The Hauptvermutung Book.* K-Monographs in Mathematics 1, Kluwer, 1996.
 - **[Survey]** C. Manolescu. *Lectures on the triangulation conjecture.* Proceedings of the Gökova Geometry–Topology Conference 2015, 1–38.
-- **[Textbook]** M. M. Cohen. *A Course in Simple-Homotopy Theory.* Graduate Texts in Mathematics 10, Springer, 1973.
-- **[Textbook]** S. Donaldson. *Irrationality and the h-cobordism conjecture.* Journal of Differential Geometry **26** (1987), 141–168.
+- **[Textbook]** M. M. Cohen. *A Course in Simple-Homotopy Theory.* Graduate Texts in Mathematics 10, Springer, 1973. [DOI](https://doi.org/10.1007/978-1-4684-9372-6)
+- **[Textbook]** S. Donaldson. *Irrationality and the h-cobordism conjecture.* Journal of Differential Geometry **26** (1987), 141–168. [DOI](https://doi.org/10.4310/jdg/1214441179)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -83,8 +83,8 @@ The exact mathematical barrier is resolving the isolated boundary case: obstruct
 
 ## 9. Key References
 
-- **[Foundational]** Gordon, C. McA., and Luecke, J. *Knots are determined by their complements.* Journal of the American Mathematical Society, 1989.
-- **[SOTA / Recent]** Hanselman, J. *Heegaard Floer homology and cosmetic surgeries in $S^3$.* Journal of the European Mathematical Society, 2023.
+- **[Foundational]** Gordon, C. McA., and Luecke, J. *Knots are determined by their complements.* Journal of the American Mathematical Society, 1989. [DOI](https://doi.org/10.1090/s0273-0979-1989-15706-6)
+- **[SOTA / Recent]** Hanselman, J. *Heegaard Floer homology and cosmetic surgeries in $S^3$.* Journal of the European Mathematical Society, 2023. [DOI](https://doi.org/10.4171/jems/1218)
 - **[SOTA / Recent]** Daemi, A., Eismeier, M. M., and Lidman, T. *Filtered instanton homology and cosmetic surgery.* arXiv:2410.21248, 2024.
 - **[Survey]** Ni, Y., and Wu, Z. *Cosmetic surgeries on knots in $S^3$.* Journal für die reine und angewandte Mathematik, 2015.
 

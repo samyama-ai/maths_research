@@ -107,16 +107,16 @@ Every known proof supplies this only when the degree pattern is rigid enough to 
 
 ## 9. Key References
 
-- **[Foundational]** S. Halperin. *Finiteness in the minimal models of Sullivan.* Transactions of the American Mathematical Society **230** (1977), 173–199.
-- **[Foundational]** S. Halperin. *Rational homotopy and torus actions.* In *Aspects of Topology*, London Math. Soc. Lecture Note Series **93**, Cambridge University Press, 1985, 293–306.
-- **[Foundational]** W. Meier. *Rational universal fibrations and flag manifolds.* Mathematische Annalen **258** (1982), 329–340.
-- **[Foundational]** J.-C. Thomas. *Rational homotopy of Serre fibrations.* Annales de l'Institut Fourier **31** (1981), no. 3, 71–90.
-- **[SOTA]** H. Shiga, M. Tezuka. *Rational fibrations, homogeneous spaces with positive Euler characteristics and Jacobians.* Annales de l'Institut Fourier **37** (1987), no. 1, 81–106.
-- **[SOTA]** G. Lupton. *Note on a conjecture of Stephen Halperin's.* In *Topology and Combinatorial Group Theory*, Lecture Notes in Mathematics **1440**, Springer, 1990, 148–163.
-- **[SOTA]** S. Papadima, L. Paunescu. *Reduced weighted complete intersection and derivations.* Journal of Algebra **183** (1996), 595–604.
+- **[Foundational]** S. Halperin. *Finiteness in the minimal models of Sullivan.* Transactions of the American Mathematical Society **230** (1977), 173–199. [DOI](https://doi.org/10.1090/s0002-9947-1977-0461508-8)
+- **[Foundational]** S. Halperin. *Rational homotopy and torus actions.* In *Aspects of Topology*, London Math. Soc. Lecture Note Series **93**, Cambridge University Press, 1985, 293–306. [DOI](https://doi.org/10.1017/cbo9781107359925.015)
+- **[Foundational]** W. Meier. *Rational universal fibrations and flag manifolds.* Mathematische Annalen **258** (1982), 329–340. [DOI](https://doi.org/10.1007/bf01450686)
+- **[Foundational]** J.-C. Thomas. *Rational homotopy of Serre fibrations.* Annales de l'Institut Fourier **31** (1981), no. 3, 71–90. [DOI](https://doi.org/10.5802/aif.838)
+- **[SOTA]** H. Shiga, M. Tezuka. *Rational fibrations, homogeneous spaces with positive Euler characteristics and Jacobians.* Annales de l'Institut Fourier **37** (1987), no. 1, 81–106. [DOI](https://doi.org/10.5802/aif.1078)
+- **[SOTA]** G. Lupton. *Note on a conjecture of Stephen Halperin's.* In *Topology and Combinatorial Group Theory*, Lecture Notes in Mathematics **1440**, Springer, 1990, 148–163. [DOI](https://doi.org/10.1007/bfb0084459)
+- **[SOTA]** S. Papadima, L. Paunescu. *Reduced weighted complete intersection and derivations.* Journal of Algebra **183** (1996), 595–604. [DOI](https://doi.org/10.1006/jabr.1996.0234)
 - **[SOTA]** M. Markl. *Towards one conjecture on collapsing of the Serre spectral sequence.* Rendiconti del Circolo Matematico di Palermo, Serie II, Supplemento **22** (1990), 151–159.
-- **[Recent]** M. Amann, V. Kapovitch. *On fibrations with formal elliptic fibers.* Advances in Mathematics **231** (2012), 2048–2068.
-- **[Survey]** G. Lupton. *Variations on a conjecture of Halperin.* In *Homotopy and Geometry*, Banach Center Publications **45**, Polish Academy of Sciences, 1998, 115–135.
+- **[Recent]** M. Amann, V. Kapovitch. *On fibrations with formal elliptic fibers.* Advances in Mathematics **231** (2012), 2048–2068. [DOI](https://doi.org/10.1016/j.aim.2012.07.022)
+- **[Survey]** G. Lupton. *Variations on a conjecture of Halperin.* In *Homotopy and Geometry*, Banach Center Publications **45**, Polish Academy of Sciences, 1998, 115–135. [DOI](https://doi.org/10.4064/-45-1-115-135)
 - **[Textbook]** Y. Félix, S. Halperin, J.-C. Thomas. *Rational Homotopy Theory.* Graduate Texts in Mathematics **205**, Springer, 2001 (Sections 32, 38–39).
 - **[Textbook]** Y. Félix, J. Oprea, D. Tanré. *Algebraic Models in Geometry.* Oxford Graduate Texts in Mathematics **17**, Oxford University Press, 2008.
 

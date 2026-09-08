@@ -97,19 +97,19 @@ For Property P itself the gap is closed. What remains open is the quantitative s
 
 ## 9. Key References
 
-- **[Foundational]** R. H. Bing and J. M. Martin. *Cubes with knotted holes.* Transactions of the American Mathematical Society 155 (1971), 217–231.
+- **[Foundational]** R. H. Bing and J. M. Martin. *Cubes with knotted holes.* Transactions of the American Mathematical Society 155 (1971), 217–231. [DOI](https://doi.org/10.1090/s0002-9947-1971-0278287-4)
 - **[Foundational]** M. Culler, C. McA. Gordon, J. Luecke, P. B. Shalen. *Dehn surgery on knots.* Annals of Mathematics 125 (1987), 237–300.
-- **[Foundational]** D. Gabai. *Foliations and the topology of 3-manifolds. III.* Journal of Differential Geometry 26 (1987), 479–536.
-- **[Foundational]** C. McA. Gordon and J. Luecke. *Knots are determined by their complements.* Journal of the American Mathematical Society 2 (1989), 371–415.
+- **[Foundational]** D. Gabai. *Foliations and the topology of 3-manifolds. III.* Journal of Differential Geometry 26 (1987), 479–536. [DOI](https://doi.org/10.4310/jdg/1214441488)
+- **[Foundational]** C. McA. Gordon and J. Luecke. *Knots are determined by their complements.* Journal of the American Mathematical Society 2 (1989), 371–415. [DOI](https://doi.org/10.1090/s0273-0979-1989-15706-6)
 - **[SOTA]** P. B. Kronheimer and T. S. Mrowka. *Witten's conjecture and Property P.* Geometry & Topology 8 (2004), 295–310.
-- **[SOTA]** P. B. Kronheimer and T. S. Mrowka. *Dehn surgery, the fundamental group and $SU(2)$.* Mathematical Research Letters 11 (2004), 741–754.
-- **[SOTA]** P. B. Kronheimer and T. S. Mrowka. *Knots, sutures, and excision.* Journal of Differential Geometry 84 (2010), 301–364.
-- **[Recent]** S. Sivek and R. Zentner. *$SU(2)$-cyclic surgeries and the pillowcase.* Journal of Differential Geometry 119 (2021), 335–405.
-- **[Recent]** R. Zentner. *Integer homology 3-spheres admit irreducible representations in $SL(2,\mathbb{C})$.* Journal of the London Mathematical Society 96 (2017), 227–242.
-- **[Recent]** C. Delman and R. Roberts. *Alternating knots satisfy Strong Property P.* Commentarii Mathematici Helvetici 74 (1999), 376–397.
-- **[Survey]** S. Boyer. *Dehn surgery on knots.* In *Handbook of Geometric Topology*, Elsevier, 2002, 165–218.
-- **[Survey]** R. Kirby (ed.). *Problems in low-dimensional topology.* In *Geometric Topology* (AMS/IP Studies in Advanced Mathematics 2.2), 1997.
-- **[Background]** Y. Eliashberg and W. Thurston. *Confoliations.* University Lecture Series 13, AMS, 1998.
+- **[SOTA]** P. B. Kronheimer and T. S. Mrowka. *Dehn surgery, the fundamental group and $SU(2)$.* Mathematical Research Letters 11 (2004), 741–754. [DOI](https://doi.org/10.4310/mrl.2004.v11.n6.a3)
+- **[SOTA]** P. B. Kronheimer and T. S. Mrowka. *Knots, sutures, and excision.* Journal of Differential Geometry 84 (2010), 301–364. [DOI](https://doi.org/10.4310/jdg/1274707316)
+- **[Recent]** S. Sivek and R. Zentner. *$SU(2)$-cyclic surgeries and the pillowcase.* Journal of Differential Geometry 119 (2021), 335–405. [DOI](https://doi.org/10.4310/jdg/1656005497)
+- **[Recent]** R. Zentner. *Integer homology 3-spheres admit irreducible representations in $SL(2,\mathbb{C})$.* Journal of the London Mathematical Society 96 (2017), 227–242. [DOI](https://doi.org/10.1215/00127094-2018-0004)
+- **[Recent]** C. Delman and R. Roberts. *Alternating knots satisfy Strong Property P.* Commentarii Mathematici Helvetici 74 (1999), 376–397. [DOI](https://doi.org/10.1007/s000140050095)
+- **[Survey]** S. Boyer. *Dehn surgery on knots.* In *Handbook of Geometric Topology*, Elsevier, 2002, 165–218. [DOI](https://doi.org/10.1016/b978-044482432-5/50005-6)
+- **[Survey]** R. Kirby (ed.). *Problems in low-dimensional topology.* In *Geometric Topology* (AMS/IP Studies in Advanced Mathematics 2.2), 1997. [DOI](https://doi.org/10.1090/amsip/002.2/02)
+- **[Background]** Y. Eliashberg and W. Thurston. *Confoliations.* University Lecture Series 13, AMS, 1998. [DOI](https://doi.org/10.1090/ulect/013)
 - **[Background]** S. Akbulut and J. McCarthy. *Casson's Invariant for Oriented Homology 3-Spheres: An Exposition.* Mathematical Notes 36, Princeton University Press, 1990.
 
 ## 10. Worked Example / Concrete Special Case

@@ -110,26 +110,26 @@ The exact missing step: **derive the vanishing of the transcendental motive $t_2
 
 ## 9. Key References
 
-- **[Foundational]** D. Mumford. *Rational equivalence of 0-cycles on surfaces.* J. Math. Kyoto Univ. 9 (1968), 195–204.
+- **[Foundational]** D. Mumford. *Rational equivalence of 0-cycles on surfaces.* J. Math. Kyoto Univ. 9 (1968), 195–204. [DOI](https://doi.org/10.1215/kjm/1250523940)
 - **[Foundational]** S. Bloch. *Lectures on Algebraic Cycles.* Duke Univ. Math. Series IV, 1980; 2nd ed., Cambridge University Press, 2010.
 - **[Foundational]** S. Bloch, A. Kas, D. Lieberman. *Zero cycles on surfaces with $p_g = 0$.* Compositio Mathematica 33 (1976), 135–145.
-- **[Foundational]** A. A. Roitman. *The torsion of the group of 0-cycles modulo rational equivalence.* Annals of Mathematics 111 (1980), 553–569.
-- **[Foundational]** S. Bloch, V. Srinivas. *Remarks on correspondences and algebraic cycles.* American Journal of Mathematics 105 (1983), 1235–1253.
+- **[Foundational]** A. A. Roitman. *The torsion of the group of 0-cycles modulo rational equivalence.* Annals of Mathematics 111 (1980), 553–569. [DOI](https://doi.org/10.2307/1971109)
+- **[Foundational]** S. Bloch, V. Srinivas. *Remarks on correspondences and algebraic cycles.* American Journal of Mathematics 105 (1983), 1235–1253. [DOI](https://doi.org/10.2307/2374341)
 - **[Partial results]** H. Inose, M. Mizukami. *Rational equivalence of 0-cycles on some surfaces of general type with $p_g=0$.* Mathematische Annalen 244 (1979), 205–217.
 - **[Partial results]** R. Barlow. *Rational equivalence of zero cycles for some more surfaces with $p_g=0$.* Inventiones Mathematicae 79 (1985), 303–308.
 - **[Partial results]** C. Voisin. *Sur les zéro-cycles de certaines hypersurfaces munies d'un automorphisme.* Annali della Scuola Normale Superiore di Pisa (4) 19 (1992), 473–492.
-- **[SOTA]** S.-I. Kimura. *Chow groups are finite dimensional, in some sense.* Mathematische Annalen 331 (2005), 173–201.
-- **[SOTA]** V. Guletskiĭ, C. Pedrini. *Finite-dimensional motives and the conjectures of Beilinson and Murre.* K-Theory 30 (2003), 243–263.
-- **[SOTA]** C. Voisin. *Bloch's conjecture for Catanese and Barlow surfaces.* Journal of Differential Geometry 97 (2014), 149–175.
-- **[SOTA]** C. Voisin. *Symplectic involutions of K3 surfaces act trivially on $CH_0$.* Documenta Mathematica 17 (2012), 851–860.
+- **[SOTA]** S.-I. Kimura. *Chow groups are finite dimensional, in some sense.* Mathematische Annalen 331 (2005), 173–201. [DOI](https://doi.org/10.1007/s00208-004-0577-3)
+- **[SOTA]** V. Guletskiĭ, C. Pedrini. *Finite-dimensional motives and the conjectures of Beilinson and Murre.* K-Theory 30 (2003), 243–263. [DOI](https://doi.org/10.1023/b:kthe.0000019787.69435.89)
+- **[SOTA]** C. Voisin. *Bloch's conjecture for Catanese and Barlow surfaces.* Journal of Differential Geometry 97 (2014), 149–175. [DOI](https://doi.org/10.4310/jdg/1404912107)
+- **[SOTA]** C. Voisin. *Symplectic involutions of K3 surfaces act trivially on $CH_0$.* Documenta Mathematica 17 (2012), 851–860. [DOI](https://doi.org/10.4171/dm/383)
 - **[SOTA]** D. Huybrechts. *Symplectic automorphisms and the Chow ring of K3 surfaces.* Geometriae Dedicata 156 (2012), 153–167.
-- **[SOTA]** C. Voisin. *The generalized Hodge and Bloch conjectures are equivalent for general complete intersections.* Annales Scientifiques de l'ENS 46 (2013), 449–475.
-- **[SOTA]** I. Bauer. *Bloch's conjecture for Inoue surfaces with $p_g = 0$, $K^2 = 7$.* Proceedings of the AMS 142 (2014), 3335–3345.
-- **[SOTA]** C. Pedrini, C. Weibel. *Some surfaces of general type for which Bloch's conjecture holds.* In: *Recent Advances in Hodge Theory*, Cambridge University Press, 2016.
+- **[SOTA]** C. Voisin. *The generalized Hodge and Bloch conjectures are equivalent for general complete intersections.* Annales Scientifiques de l'ENS 46 (2013), 449–475. [DOI](https://doi.org/10.24033/asens.2193)
+- **[SOTA]** I. Bauer. *Bloch's conjecture for Inoue surfaces with $p_g = 0$, $K^2 = 7$.* Proceedings of the AMS 142 (2014), 3335–3345. [DOI](https://doi.org/10.1090/s0002-9939-2014-12246-5)
+- **[SOTA]** C. Pedrini, C. Weibel. *Some surfaces of general type for which Bloch's conjecture holds.* In: *Recent Advances in Hodge Theory*, Cambridge University Press, 2016. [DOI](https://doi.org/10.1017/cbo9781316387887.014)
 - **[Survey]** C. Voisin. *Chow Rings, Decomposition of the Diagonal, and the Topology of Families.* Annals of Mathematics Studies 187, Princeton University Press, 2014.
-- **[Survey]** U. Jannsen. *Motivic sheaves and filtrations on Chow groups.* In: *Motives*, Proc. Sympos. Pure Math. 55, AMS, 1994.
+- **[Survey]** U. Jannsen. *Motivic sheaves and filtrations on Chow groups.* In: *Motives*, Proc. Sympos. Pure Math. 55, AMS, 1994. [DOI](https://doi.org/10.1090/pspum/055.1/1265533)
 - **[Survey]** Y. André. *Une introduction aux motifs (motifs purs, motifs mixtes, périodes).* Panoramas et Synthèses 17, Société Mathématique de France, 2004.
-- **[Related]** A. Beauville, C. Voisin. *On the Chow ring of a K3 surface.* Journal of Algebraic Geometry 13 (2004), 417–426.
+- **[Related]** A. Beauville, C. Voisin. *On the Chow ring of a K3 surface.* Journal of Algebraic Geometry 13 (2004), 417–426. [DOI](https://doi.org/10.1090/s1056-3911-04-00341-8)
 
 ## 10. Worked Example / Concrete Special Case
 

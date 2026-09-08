@@ -109,15 +109,15 @@ Crossing (1) requires either an infinite-order/universal boundary diffeomorphism
 ## 9. Key References
 
 - **[Foundational]** M. Freedman. *The topology of four-dimensional manifolds.* Journal of Differential Geometry 17 (1982), 357–453.
-- **[Foundational]** S. Akbulut. *A fake compact contractible 4-manifold.* Journal of Differential Geometry 33 (1991), 335–356.
-- **[Foundational]** C. L. Curtis, M. H. Freedman, W. C. Hsiang, R. Stong. *A decomposition theorem for h-cobordant smooth simply-connected compact 4-manifolds.* Inventiones Mathematicae 123 (1996), 343–348.
-- **[Foundational]** R. Matveyev. *A decomposition of smooth simply-connected h-cobordant 4-manifolds.* Journal of Differential Geometry 44 (1996), 571–582.
+- **[Foundational]** S. Akbulut. *A fake compact contractible 4-manifold.* Journal of Differential Geometry 33 (1991), 335–356. [DOI](https://doi.org/10.4310/jdg/1214446320)
+- **[Foundational]** C. L. Curtis, M. H. Freedman, W. C. Hsiang, R. Stong. *A decomposition theorem for h-cobordant smooth simply-connected compact 4-manifolds.* Inventiones Mathematicae 123 (1996), 343–348. [DOI](https://doi.org/10.1007/s002220050031)
+- **[Foundational]** R. Matveyev. *A decomposition of smooth simply-connected h-cobordant 4-manifolds.* Journal of Differential Geometry 44 (1996), 571–582. [DOI](https://doi.org/10.4310/jdg/1214459222)
 - **[SOTA]** S. Akbulut, R. Matveyev. *A convex decomposition theorem for 4-manifolds.* International Mathematics Research Notices 1998, no. 7, 371–381.
 - **[SOTA]** S. Akbulut, K. Yasui. *Corks, plugs and exotic structures.* Journal of Gökova Geometry Topology 2 (2008), 40–82.
-- **[SOTA]** R. E. Gompf. *Infinite order corks.* Geometry & Topology 21 (2017), 2475–2484.
-- **[SOTA]** D. Auckly, H. J. Kim, P. Melvin, D. Ruberman. *Equivariant corks.* Algebraic & Geometric Topology 17 (2017), 1771–1783.
-- **[SOTA]** P. Melvin, H. Schwartz. *Higher-order corks.* Inventiones Mathematicae 224 (2021), 291–313.
-- **[SOTA]** J. Lin, D. Ruberman, N. Saveliev. *On the monopole Lefschetz number of finite-order diffeomorphisms.* Geometry & Topology 26 (2022).
+- **[SOTA]** R. E. Gompf. *Infinite order corks.* Geometry & Topology 21 (2017), 2475–2484. [DOI](https://doi.org/10.2140/gt.2017.21.2475)
+- **[SOTA]** D. Auckly, H. J. Kim, P. Melvin, D. Ruberman. *Equivariant corks.* Algebraic & Geometric Topology 17 (2017), 1771–1783. [DOI](https://doi.org/10.2140/agt.2017.17.1771)
+- **[SOTA]** P. Melvin, H. Schwartz. *Higher-order corks.* Inventiones Mathematicae 224 (2021), 291–313. [DOI](https://doi.org/10.1007/s00222-020-01009-x)
+- **[SOTA]** J. Lin, D. Ruberman, N. Saveliev. *On the monopole Lefschetz number of finite-order diffeomorphisms.* Geometry & Topology 26 (2022). [DOI](https://doi.org/10.2140/gt.2021.25.3591)
 - **[Survey / Book]** R. E. Gompf, A. I. Stipsicz. *4-Manifolds and Kirby Calculus.* Graduate Studies in Mathematics 20, American Mathematical Society, 1999.
 - **[Survey / Book]** S. Akbulut. *4-Manifolds.* Oxford Graduate Texts in Mathematics 25, Oxford University Press, 2016.
 

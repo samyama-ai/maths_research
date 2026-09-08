@@ -108,21 +108,21 @@ Everything proved rests on one of two hypotheses: (i) homological finiteness of 
 
 ## 9. Key References
 
-- **[Foundational]** H. Bass. *Euler characteristics and characters of discrete groups.* Inventiones Mathematicae 35 (1976), 155–196.
-- **[Foundational]** A. Hattori. *Rank element of a projective module.* Nagoya Mathematical Journal 25 (1965), 113–120.
-- **[Foundational]** J. Stallings. *Centerless groups — an algebraic formulation of Gottlieb's theorem.* Topology 4 (1965), 129–134.
-- **[Foundational]** R. G. Swan. *Induced representations and projective modules.* Annals of Mathematics 71 (1960), 552–578.
+- **[Foundational]** H. Bass. *Euler characteristics and characters of discrete groups.* Inventiones Mathematicae 35 (1976), 155–196. [DOI](https://doi.org/10.1007/bf01390137)
+- **[Foundational]** A. Hattori. *Rank element of a projective module.* Nagoya Mathematical Journal 25 (1965), 113–120. [DOI](https://doi.org/10.1017/s002776300001148x)
+- **[Foundational]** J. Stallings. *Centerless groups — an algebraic formulation of Gottlieb's theorem.* Topology 4 (1965), 129–134. [DOI](https://doi.org/10.1016/0040-9383(65)90060-1)
+- **[Foundational]** R. G. Swan. *Induced representations and projective modules.* Annals of Mathematics 71 (1960), 552–578. [DOI](https://doi.org/10.2307/1969944)
 - **[Foundational]** I. Kaplansky. *Fields and Rings.* University of Chicago Press, 1969.
-- **[Classical]** A. E. Zalesskii. *On a problem of Kaplansky.* Soviet Mathematics Doklady 13 (1972), 449–452.
-- **[Structural]** B. Eckmann. *Cyclic homology of groups and the Bass conjecture.* Commentarii Mathematici Helvetici 61 (1986), 193–202.
-- **[Structural]** Z. Marciniak. *Cyclic homology and idempotents in group rings.* In: Transformation Groups (Poznań 1985), Lecture Notes in Mathematics 1217, Springer, 1986.
-- **[Structural]** R. Ji. *Nilpotency of Connes' periodicity operator and the idempotent conjectures.* K-Theory 9 (1995), 59–76.
-- **[SOTA]** I. Emmanouil. *On a class of groups satisfying Bass' conjecture.* Inventiones Mathematicae 132 (1998), 307–330.
-- **[SOTA]** W. Lück. *The relation between the Baum–Connes conjecture and the trace conjecture.* Inventiones Mathematicae 149 (2002), 123–152.
-- **[SOTA]** A. J. Berrick, I. Chatterji, G. Mislin. *From acyclic groups to the Bass conjecture for amenable groups.* Mathematische Annalen 329 (2004), 597–621.
-- **[Survey]** I. Emmanouil. *Idempotent Matrices over Complex Group Algebras.* Universitext, Springer, 2006.
+- **[Classical]** A. E. Zalesskii. *On a problem of Kaplansky.* Soviet Mathematics Doklady 13 (1972), 449–452. [DOI](https://doi.org/10.1070/im1973v007n03abeh001952)
+- **[Structural]** B. Eckmann. *Cyclic homology of groups and the Bass conjecture.* Commentarii Mathematici Helvetici 61 (1986), 193–202. [DOI](https://doi.org/10.1007/978-3-642-61708-9_64)
+- **[Structural]** Z. Marciniak. *Cyclic homology and idempotents in group rings.* In: Transformation Groups (Poznań 1985), Lecture Notes in Mathematics 1217, Springer, 1986. [DOI](https://doi.org/10.1007/bfb0072827)
+- **[Structural]** R. Ji. *Nilpotency of Connes' periodicity operator and the idempotent conjectures.* K-Theory 9 (1995), 59–76. [DOI](https://doi.org/10.1007/bf00965459)
+- **[SOTA]** I. Emmanouil. *On a class of groups satisfying Bass' conjecture.* Inventiones Mathematicae 132 (1998), 307–330. [DOI](https://doi.org/10.1007/s002220050225)
+- **[SOTA]** W. Lück. *The relation between the Baum–Connes conjecture and the trace conjecture.* Inventiones Mathematicae 149 (2002), 123–152. [DOI](https://doi.org/10.1007/s002220200215)
+- **[SOTA]** A. J. Berrick, I. Chatterji, G. Mislin. *From acyclic groups to the Bass conjecture for amenable groups.* Mathematische Annalen 329 (2004), 597–621. [DOI](https://doi.org/10.1007/s00208-004-0521-6)
+- **[Survey]** I. Emmanouil. *Idempotent Matrices over Complex Group Algebras.* Universitext, Springer, 2006. [DOI](https://doi.org/10.1007/3-540-27991-1)
 - **[Survey]** W. Lück. *L²-Invariants: Theory and Applications to Geometry and K-Theory.* Ergebnisse der Mathematik 44, Springer, 2002.
-- **[Survey]** B. Eckmann. *Projective and Hilbert modules over group algebras, and finitely dominated spaces.* Commentarii Mathematici Helvetici 71 (1996), 453–462.
+- **[Survey]** B. Eckmann. *Projective and Hilbert modules over group algebras, and finitely dominated spaces.* Commentarii Mathematici Helvetici 71 (1996), 453–462. [DOI](https://doi.org/10.1007/bf02566430)
 
 ## 10. Worked Example / Concrete Special Case
 

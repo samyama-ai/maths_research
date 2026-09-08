@@ -97,11 +97,11 @@ Leading mathematicians suggest the following pathways:
 
 ## 9. Key References
 
-- **[Foundational]** Franke, J., Manin, Y. I., and Tschinkel, Y. *Rational points of bounded height on Fano varieties*. Inventiones Mathematicae, 1989.
-- **[Foundational]** Peyre, E. *Hauteurs et mesures de Tamagawa sur les variétés de Fano*. Duke Mathematical Journal, 1995.
-- **[SOTA / Recent]** Lehmann, B., and Tanimoto, S. *On the geometry of thin exceptional sets in Manin's conjecture*. Duke Mathematical Journal, 2017.
+- **[Foundational]** Franke, J., Manin, Y. I., and Tschinkel, Y. *Rational points of bounded height on Fano varieties*. Inventiones Mathematicae, 1989. [DOI](https://doi.org/10.1007/bf01233436)
+- **[Foundational]** Peyre, E. *Hauteurs et mesures de Tamagawa sur les variétés de Fano*. Duke Mathematical Journal, 1995. [DOI](https://doi.org/10.1215/s0012-7094-95-07904-6)
+- **[SOTA / Recent]** Lehmann, B., and Tanimoto, S. *On the geometry of thin exceptional sets in Manin's conjecture*. Duke Mathematical Journal, 2017. [DOI](https://doi.org/10.1215/00127094-2017-0011)
 - **[SOTA / Recent]** Batyrev, V. V., and Tschinkel, Y. *Manin's conjecture for toric varieties*. Journal of Algebraic Geometry, 1998.
-- **[Survey]** Browning, T. D. *Quantitative Arithmetic of Projective Varieties*. Progress in Mathematics, Birkhäuser, 2009.
+- **[Survey]** Browning, T. D. *Quantitative Arithmetic of Projective Varieties*. Progress in Mathematics, Birkhäuser, 2009. [DOI](https://doi.org/10.1007/978-3-0346-0129-0)
 
 ## 10. Worked Example / Concrete Special Case
 

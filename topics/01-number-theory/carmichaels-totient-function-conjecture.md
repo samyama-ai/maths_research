@@ -74,10 +74,10 @@ Leading number theorists suggest that an unconditional proof of Carmichael's con
 ## 9. Key References
 
 - **[Foundational]** Carmichael, R. D. *On Euler's $\phi$-function*. Bulletin of the American Mathematical Society, 1907.
-- **[Foundational]** Klee, V. L. *On a conjecture of Carmichael*. Bulletin of the American Mathematical Society, 1947.
+- **[Foundational]** Klee, V. L. *On a conjecture of Carmichael*. Bulletin of the American Mathematical Society, 1947. [DOI](https://doi.org/10.1090/s0002-9904-1947-08940-0)
 - **[SOTA / Recent]** Ford, K. *The number of solutions of $\phi(x) = m$*. Annals of Mathematics, 1999.
 - **[SOTA / Recent]** Pomerance, C. *On Carmichael's conjecture*. Proceedings of the American Mathematical Society, 1974.
-- **[Survey]** Schlafly, A., and Wagon, S. *Carmichael's conjecture on the Euler function is valid below $10^{10^7}$*. Mathematics of Computation, 1994.
+- **[Survey]** Schlafly, A., and Wagon, S. *Carmichael's conjecture on the Euler function is valid below $10^{10^7}$*. Mathematics of Computation, 1994. [DOI](https://doi.org/10.2307/2153585)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -85,10 +85,10 @@ Leading mathematicians suggest the following pathways to resolve the conjecture:
 
 ## 9. Key References
 
-- **[Foundational]** Ribenboim, Paulo. *The New Book of Prime Number Records*. Springer-Verlag, 1996. 
-- **[Foundational]** Baker, R. C., Harman, G., Pintz, J. *The difference between consecutive primes, II*. Proceedings of the London Mathematical Society, 2001.
-- **[Survey]** Granville, Andrew. *Unexpected irregularities in the distribution of prime numbers*. Proceedings of the International Congress of Mathematicians (Zürich, 1994), Birkhäuser, 1995.
-- **[SOTA / Recent]** Kourbatov, Alexei. *Verification of the Firoozbakht conjecture for primes up to four quintillion*. International Mathematical Forum, 2015.
+- **[Foundational]** Ribenboim, Paulo. *The New Book of Prime Number Records*. Springer-Verlag, 1996. [DOI](https://doi.org/10.1007/978-1-4612-0759-7)
+- **[Foundational]** Baker, R. C., Harman, G., Pintz, J. *The difference between consecutive primes, II*. Proceedings of the London Mathematical Society, 2001. [DOI](https://doi.org/10.1112/plms/83.3.532)
+- **[Survey]** Granville, Andrew. *Unexpected irregularities in the distribution of prime numbers*. Proceedings of the International Congress of Mathematicians (Zürich, 1994), Birkhäuser, 1995. [DOI](https://doi.org/10.1007/978-3-0348-9078-6_32)
+- **[SOTA / Recent]** Kourbatov, Alexei. *Verification of the Firoozbakht conjecture for primes up to four quintillion*. International Mathematical Forum, 2015. [DOI](https://doi.org/10.12988/imf.2015.5322)
 
 ## 10. Worked Example / Concrete Special Case
 

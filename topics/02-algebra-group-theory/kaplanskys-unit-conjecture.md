@@ -111,15 +111,15 @@ Proven: units are trivial for UP/diffuse/orderable torsion-free groups, all fiel
 ## 9. Key References
 
 - **[Foundational]** G. Higman. *The units of group-rings.* Proceedings of the London Mathematical Society (2) 46, 231–248, 1940.
-- **[Foundational]** I. Kaplansky. *Problems in the theory of rings revisited.* The American Mathematical Monthly 77(5), 445–454, 1970.
+- **[Foundational]** I. Kaplansky. *Problems in the theory of rings revisited.* The American Mathematical Monthly 77(5), 445–454, 1970. [DOI](https://doi.org/10.2307/2317376)
 - **[Foundational]** D. S. Passman. *The Algebraic Structure of Group Rings.* Wiley-Interscience, 1977.
-- **[Foundational]** E. Rips, Y. Segev. *Torsion-free group without unique product property.* Journal of Algebra 108(1), 116–126, 1987.
-- **[Foundational]** S. D. Promislow. *A simple example of a torsion-free, non-unique product group.* Bulletin of the London Mathematical Society 20(4), 302–304, 1988.
-- **[SOTA / Recent]** G. Gardam. *A counterexample to the unit conjecture for group rings.* Annals of Mathematics 194(3), 967–979, 2021. (arXiv:2102.11818)
+- **[Foundational]** E. Rips, Y. Segev. *Torsion-free group without unique product property.* Journal of Algebra 108(1), 116–126, 1987. [DOI](https://doi.org/10.1016/0021-8693(87)90125-6)
+- **[Foundational]** S. D. Promislow. *A simple example of a torsion-free, non-unique product group.* Bulletin of the London Mathematical Society 20(4), 302–304, 1988. [DOI](https://doi.org/10.1112/blms/20.4.302)
+- **[SOTA / Recent]** G. Gardam. *A counterexample to the unit conjecture for group rings.* Annals of Mathematics 194(3), 967–979, 2021. (arXiv:2102.11818). [DOI](https://doi.org/10.4007/annals.2021.194.3.9)
 - **[SOTA / Recent]** A. G. Murray. *More counterexamples to Kaplansky's unit conjecture.* arXiv preprint arXiv:2106.02147, 2021.
 - **[Survey]** G. Gardam. *Kaplansky's conjectures.* arXiv preprint arXiv:2210.16600, 2022 (European Congress of Mathematics proceedings).
-- **[Structural]** B. H. Bowditch. *A variation on the unique product property.* Journal of the London Mathematical Society 62(3), 813–826, 2000.
-- **[Structural]** P. H. Kropholler, P. A. Linnell, J. A. Moody. *Applications of a new K-theoretic theorem to soluble group rings.* Proceedings of the American Mathematical Society 104(3), 675–684, 1988.
+- **[Structural]** B. H. Bowditch. *A variation on the unique product property.* Journal of the London Mathematical Society 62(3), 813–826, 2000. [DOI](https://doi.org/10.1112/s0024610700001307)
+- **[Structural]** P. H. Kropholler, P. A. Linnell, J. A. Moody. *Applications of a new K-theoretic theorem to soluble group rings.* Proceedings of the American Mathematical Society 104(3), 675–684, 1988. [DOI](https://doi.org/10.2307/2046771)
 
 ## 10. Worked Example / Concrete Special Case
 

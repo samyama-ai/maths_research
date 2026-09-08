@@ -103,17 +103,17 @@ Two gaps, in different directions.
 ## 9. Key References
 
 - **[Foundational]** M. Gerstenhaber and O. S. Rothaus. *The solution of sets of equations in groups.* Proceedings of the National Academy of Sciences USA 48 (1962), 1531–1533.
-- **[Foundational]** F. Levin. *Solutions of equations over groups.* Bulletin of the American Mathematical Society 68 (1962), 603–604.
-- **[Foundational]** J. Howie. *On pairs of 2-complexes and systems of equations over groups.* Journal für die reine und angewandte Mathematik 324 (1981), 165–174.
-- **[Foundational]** S. D. Brodskii. *Equations over groups and groups with one defining relation.* Siberian Mathematical Journal 25 (1984), 235–251.
-- **[Key advance]** A. A. Klyachko. *A funny property of sphere and equations over groups.* Communications in Algebra 21 (1993), 2555–2575.
+- **[Foundational]** F. Levin. *Solutions of equations over groups.* Bulletin of the American Mathematical Society 68 (1962), 603–604. [DOI](https://doi.org/10.1090/s0002-9904-1962-10868-4)
+- **[Foundational]** J. Howie. *On pairs of 2-complexes and systems of equations over groups.* Journal für die reine und angewandte Mathematik 324 (1981), 165–174. [DOI](https://doi.org/10.1515/crll.1981.324.165)
+- **[Foundational]** S. D. Brodskii. *Equations over groups and groups with one defining relation.* Siberian Mathematical Journal 25 (1984), 235–251. [DOI](https://doi.org/10.1007/bf00971461)
+- **[Key advance]** A. A. Klyachko. *A funny property of sphere and equations over groups.* Communications in Algebra 21 (1993), 2555–2575. [DOI](https://doi.org/10.1080/00927879308824692)
 - **[Key advance]** R. Fenn and C. Rourke. *Klyachko's methods and the solution of equations over torsion-free groups.* L'Enseignement Mathématique (2) 42 (1996), 49–74.
-- **[Partial results]** J. Howie. *The solution of length three equations over groups.* Proceedings of the Edinburgh Mathematical Society 26 (1983), 89–96.
-- **[Partial results]** M. Edjvet and J. Howie. *The solution of length four equations over groups.* Transactions of the American Mathematical Society 326 (1991), 345–369.
-- **[SOTA / Recent]** A. Klyachko and A. Thom. *New topological methods to solve equations over groups.* Algebraic & Geometric Topology 17 (2017), 331–353.
-- **[Survey]** S. M. Gersten. *Reducible diagrams and equations over groups.* In: Essays in Group Theory (ed. S. M. Gersten), MSRI Publications 8, Springer, 1987, 15–73.
-- **[Survey]** W. A. Bogley. *J. H. C. Whitehead's asphericity question.* In: Two-Dimensional Homotopy and Combinatorial Group Theory, LMS Lecture Note Series 197, Cambridge University Press, 1993, 309–334.
-- **[Context]** J. Howie. *Some remarks on a problem of J. H. C. Whitehead.* Topology 22 (1983), 475–485.
+- **[Partial results]** J. Howie. *The solution of length three equations over groups.* Proceedings of the Edinburgh Mathematical Society 26 (1983), 89–96. [DOI](https://doi.org/10.1017/s0013091500028108)
+- **[Partial results]** M. Edjvet and J. Howie. *The solution of length four equations over groups.* Transactions of the American Mathematical Society 326 (1991), 345–369. [DOI](https://doi.org/10.2307/2001867)
+- **[SOTA / Recent]** A. Klyachko and A. Thom. *New topological methods to solve equations over groups.* Algebraic & Geometric Topology 17 (2017), 331–353. [DOI](https://doi.org/10.2140/agt.2017.17.331)
+- **[Survey]** S. M. Gersten. *Reducible diagrams and equations over groups.* In: Essays in Group Theory (ed. S. M. Gersten), MSRI Publications 8, Springer, 1987, 15–73. [DOI](https://doi.org/10.1007/978-1-4613-9586-7_2)
+- **[Survey]** W. A. Bogley. *J. H. C. Whitehead's asphericity question.* In: Two-Dimensional Homotopy and Combinatorial Group Theory, LMS Lecture Note Series 197, Cambridge University Press, 1993, 309–334. [DOI](https://doi.org/10.1017/cbo9780511629358.012)
+- **[Context]** J. Howie. *Some remarks on a problem of J. H. C. Whitehead.* Topology 22 (1983), 475–485. [DOI](https://doi.org/10.1016/0040-9383(83)90038-1)
 
 ## 10. Worked Example / Concrete Special Case
 

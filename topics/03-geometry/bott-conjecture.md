@@ -99,17 +99,17 @@ The precise missing step is a mechanism transferring a *lower sectional curvatur
 
 ## 9. Key References
 
-- **[Foundational]** K. Grove, S. Halperin. *Contributions of rational homotopy theory to global problems in geometry.* Publications Mathématiques de l'IHÉS **56** (1982), 171–177.
-- **[Foundational]** M. Gromov. *Curvature, diameter and Betti numbers.* Commentarii Mathematici Helvetici **56** (1981), 179–195.
-- **[Foundational]** J. Friedlander, S. Halperin. *An arithmetic characterization of the rational homotopy groups of certain spaces.* Inventiones Mathematicae **53** (1979), 117–133.
-- **[Foundational]** K. Grove, S. Halperin. *Dupin hypersurfaces, group actions and the double mapping cylinder.* Journal of Differential Geometry **26** (1987), 429–459.
+- **[Foundational]** K. Grove, S. Halperin. *Contributions of rational homotopy theory to global problems in geometry.* Publications Mathématiques de l'IHÉS **56** (1982), 171–177. [DOI](https://doi.org/10.1007/bf02700465)
+- **[Foundational]** M. Gromov. *Curvature, diameter and Betti numbers.* Commentarii Mathematici Helvetici **56** (1981), 179–195. [DOI](https://doi.org/10.1007/bf02566208)
+- **[Foundational]** J. Friedlander, S. Halperin. *An arithmetic characterization of the rational homotopy groups of certain spaces.* Inventiones Mathematicae **53** (1979), 117–133. [DOI](https://doi.org/10.1007/bf01390029)
+- **[Foundational]** K. Grove, S. Halperin. *Dupin hypersurfaces, group actions and the double mapping cylinder.* Journal of Differential Geometry **26** (1987), 429–459. [DOI](https://doi.org/10.4310/jdg/1214441486)
 - **[SOTA / Recent]** C. Searle, D. Yang. *On the topology of non-negatively curved simply connected 4-manifolds with continuous symmetry.* Duke Mathematical Journal **74** (1994), 547–556.
 - **[SOTA / Recent]** V. Kapovitch, A. Petrunin, W. Tuschmann. *Nilpotency, almost nonnegative curvature, and the gradient push.* Annals of Mathematics **171** (2010), 343–373.
-- **[SOTA / Recent]** M. Amann, L. Kennard. *Positive curvature and rational ellipticity.* Algebraic & Geometric Topology **15** (2015), 2269–2301.
-- **[SOTA / Recent]** F. Galaz-García, M. Kerin, M. Radeschi, M. Wiemeler. *Torus orbifolds, slice-maximal torus actions and rational ellipticity.* International Mathematics Research Notices (2018).
-- **[SOTA / Recent]** G. P. Paternain, J. Petean. *Minimal entropy and collapsing with curvature bounded from below.* Inventiones Mathematicae **151** (2003), 415–450.
-- **[Survey]** B. Wilking. *Nonnegatively and positively curved manifolds.* Surveys in Differential Geometry **XI** (2007), 25–62.
-- **[Survey]** W. Ziller. *Examples of Riemannian manifolds with non-negative sectional curvature.* Surveys in Differential Geometry **XI** (2007), 63–102.
+- **[SOTA / Recent]** M. Amann, L. Kennard. *Positive curvature and rational ellipticity.* Algebraic & Geometric Topology **15** (2015), 2269–2301. [DOI](https://doi.org/10.2140/agt.2015.15.2269)
+- **[SOTA / Recent]** F. Galaz-García, M. Kerin, M. Radeschi, M. Wiemeler. *Torus orbifolds, slice-maximal torus actions and rational ellipticity.* International Mathematics Research Notices (2018). [DOI](https://doi.org/10.1093/imrn/rnx064)
+- **[SOTA / Recent]** G. P. Paternain, J. Petean. *Minimal entropy and collapsing with curvature bounded from below.* Inventiones Mathematicae **151** (2003), 415–450. [DOI](https://doi.org/10.1007/s00222-002-0262-7)
+- **[Survey]** B. Wilking. *Nonnegatively and positively curved manifolds.* Surveys in Differential Geometry **XI** (2007), 25–62. [DOI](https://doi.org/10.4310/sdg.2006.v11.n1.a3)
+- **[Survey]** W. Ziller. *Examples of Riemannian manifolds with non-negative sectional curvature.* Surveys in Differential Geometry **XI** (2007), 63–102. [DOI](https://doi.org/10.4310/sdg.2006.v11.n1.a4)
 - **[Survey / Textbook]** Y. Félix, S. Halperin, J.-C. Thomas. *Rational Homotopy Theory.* Graduate Texts in Mathematics 205, Springer, 2001.
 
 ## 10. Worked Example / Concrete Special Case

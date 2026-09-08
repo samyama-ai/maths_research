@@ -114,19 +114,19 @@ The precise missing steps:
 
 ## 9. Key References
 
-- **[Foundational]** P. Constantin, A. Kiselev, L. Ryzhik, A. Zlatoš. *Diffusion and mixing in fluid flow.* Annals of Mathematics 168 (2008), 643–674.
+- **[Foundational]** P. Constantin, A. Kiselev, L. Ryzhik, A. Zlatoš. *Diffusion and mixing in fluid flow.* Annals of Mathematics 168 (2008), 643–674. [DOI](https://doi.org/10.4007/annals.2008.168.643)
 - **[Foundational]** C. Villani. *Hypocoercivity.* Memoirs of the American Mathematical Society 202, no. 950 (2009).
-- **[Foundational]** J. Bedrossian, M. Coti Zelati. *Enhanced dissipation, hypoellipticity, and anomalous small noise inviscid limits in shear flows.* Archive for Rational Mechanics and Analysis 224 (2017), 1161–1204.
-- **[Foundational]** J. Bedrossian, N. Masmoudi, V. Vicol. *Enhanced dissipation and inviscid damping in the inviscid limit of the Navier–Stokes equations near the two dimensional Couette flow.* Archive for Rational Mechanics and Analysis 219 (2016), 1087–1159.
-- **[SOTA / Recent]** M. Coti Zelati, M. G. Delgadino, T. M. Elgindi. *On the relation between enhanced dissipation timescales and mixing rates.* Communications on Pure and Applied Mathematics 73 (2020), 1205–1244.
+- **[Foundational]** J. Bedrossian, M. Coti Zelati. *Enhanced dissipation, hypoellipticity, and anomalous small noise inviscid limits in shear flows.* Archive for Rational Mechanics and Analysis 224 (2017), 1161–1204. [DOI](https://doi.org/10.1007/s00205-017-1099-y)
+- **[Foundational]** J. Bedrossian, N. Masmoudi, V. Vicol. *Enhanced dissipation and inviscid damping in the inviscid limit of the Navier–Stokes equations near the two dimensional Couette flow.* Archive for Rational Mechanics and Analysis 219 (2016), 1087–1159. [DOI](https://doi.org/10.1007/s00205-015-0917-3)
+- **[SOTA / Recent]** M. Coti Zelati, M. G. Delgadino, T. M. Elgindi. *On the relation between enhanced dissipation timescales and mixing rates.* Communications on Pure and Applied Mathematics 73 (2020), 1205–1244. [DOI](https://doi.org/10.1002/cpa.21831)
 - **[SOTA / Recent]** D. Wei. *Diffusion and mixing in fluid flow via the resolvent estimate.* Science China Mathematics 64 (2021), 507–518.
-- **[SOTA / Recent]** D. Wei, Z. Zhang, W. Zhao. *Linear inviscid damping and enhanced dissipation for the Kolmogorov flow.* Advances in Mathematics 362 (2020), 106963.
-- **[SOTA / Recent]** S. Ibrahim, Y. Maekawa, N. Masmoudi. *On pseudospectral bound for non-selfadjoint operators and its application to stability of Kolmogorov flows.* Annals of PDE 5 (2019), article 14.
-- **[SOTA / Recent]** J. Bedrossian, A. Blumenthal, S. Punshon-Smith. *Almost-sure enhanced dissipation and uniform-in-diffusivity exponential mixing for advection–diffusion by stochastic Navier–Stokes.* Probability Theory and Related Fields 179 (2021), 777–834.
-- **[SOTA / Recent]** J. Bedrossian, P. Germain, N. Masmoudi. *On the stability threshold for the 3D Couette flow in Sobolev regularity.* Annals of Mathematics 185 (2017), 541–608.
-- **[SOTA / Recent]** T. Gallay. *Enhanced dissipation and axisymmetrization of two-dimensional viscous vortices.* Archive for Rational Mechanics and Analysis 230 (2018), 939–975.
-- **[Survey]** J. Bedrossian, P. Germain, N. Masmoudi. *Stability of the Couette flow at high Reynolds numbers in two dimensions and three dimensions.* Bulletin of the American Mathematical Society 56 (2019), 373–414.
-- **[Survey]** M. Coti Zelati, M. Dolce, Y. Feng, A. Mazzucato. *Global existence for the two-dimensional Kuramoto–Sivashinsky equation with advection* — and, for background, M. Coti Zelati. *Stable mixing estimates in the infinite Péclet number limit.* Journal of Functional Analysis 279 (2020), 108562.
+- **[SOTA / Recent]** D. Wei, Z. Zhang, W. Zhao. *Linear inviscid damping and enhanced dissipation for the Kolmogorov flow.* Advances in Mathematics 362 (2020), 106963. [DOI](https://doi.org/10.1016/j.aim.2019.106963)
+- **[SOTA / Recent]** S. Ibrahim, Y. Maekawa, N. Masmoudi. *On pseudospectral bound for non-selfadjoint operators and its application to stability of Kolmogorov flows.* Annals of PDE 5 (2019), article 14. [DOI](https://doi.org/10.1007/s40818-019-0070-7)
+- **[SOTA / Recent]** J. Bedrossian, A. Blumenthal, S. Punshon-Smith. *Almost-sure enhanced dissipation and uniform-in-diffusivity exponential mixing for advection–diffusion by stochastic Navier–Stokes.* Probability Theory and Related Fields 179 (2021), 777–834. [DOI](https://doi.org/10.1007/s00440-020-01010-8)
+- **[SOTA / Recent]** J. Bedrossian, P. Germain, N. Masmoudi. *On the stability threshold for the 3D Couette flow in Sobolev regularity.* Annals of Mathematics 185 (2017), 541–608. [DOI](https://doi.org/10.4007/annals.2017.185.2.4)
+- **[SOTA / Recent]** T. Gallay. *Enhanced dissipation and axisymmetrization of two-dimensional viscous vortices.* Archive for Rational Mechanics and Analysis 230 (2018), 939–975. [DOI](https://doi.org/10.1007/s00205-018-1262-0)
+- **[Survey]** J. Bedrossian, P. Germain, N. Masmoudi. *Stability of the Couette flow at high Reynolds numbers in two dimensions and three dimensions.* Bulletin of the American Mathematical Society 56 (2019), 373–414. [DOI](https://doi.org/10.1090/bull/1649)
+- **[Survey]** M. Coti Zelati, M. Dolce, Y. Feng, A. Mazzucato. *Global existence for the two-dimensional Kuramoto–Sivashinsky equation with advection* — and, for background, M. Coti Zelati. *Stable mixing estimates in the infinite Péclet number limit.* Journal of Functional Analysis 279 (2020), 108562. [DOI](https://doi.org/10.1080/03605302.2021.1975131)
 
 ## 10. Worked Example / Concrete Special Case
 

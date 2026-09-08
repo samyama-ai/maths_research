@@ -87,10 +87,10 @@ The step that needs to be crossed to resolve the problem broadly is finding a ge
 ## 9. Key References
 
 - **[Foundational]** Selberg, A. *The general sieve method and its place in prime number theory.* Proceedings of the International Congress of Mathematicians, Cambridge, Mass., Vol. 1, 1950.
-- **[Foundational]** Friedlander, J., and Iwaniec, H. *Opera de Cribro.* American Mathematical Society Colloquium Publications, Vol. 57, 2010.
-- **[SOTA / Recent]** Friedlander, J., and Iwaniec, H. *The polynomial $X^2 + Y^4$ captures its primes.* Annals of Mathematics, 148(3):945-1040, 1998.
+- **[Foundational]** Friedlander, J., and Iwaniec, H. *Opera de Cribro.* American Mathematical Society Colloquium Publications, Vol. 57, 2010. [DOI](https://doi.org/10.1090/coll/057)
+- **[SOTA / Recent]** Friedlander, J., and Iwaniec, H. *The polynomial $X^2 + Y^4$ captures its primes.* Annals of Mathematics, 148(3):945-1040, 1998. [DOI](https://doi.org/10.2307/121034)
 - **[Survey]** Tao, T. *Recent progress in analytic number theory.* Current Developments in Mathematics, 2014.
-- **[SOTA / Recent]** Maynard, J. *Small gaps between primes.* Annals of Mathematics, 181(1):383-413, 2015.
+- **[SOTA / Recent]** Maynard, J. *Small gaps between primes.* Annals of Mathematics, 181(1):383-413, 2015. [DOI](https://doi.org/10.4007/annals.2015.181.1.7)
 
 ## 10. Worked Example / Concrete Special Case
 

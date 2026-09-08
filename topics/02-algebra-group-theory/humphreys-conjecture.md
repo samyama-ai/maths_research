@@ -103,20 +103,20 @@ Additionally, it is unresolved whether the correct combinatorial index is Luszti
 ## 9. Key References
 
 - **[Foundational]** J. E. Humphreys. *Comparing modular representations of semisimple groups and their Lie algebras.* In: Modular Interfaces (Riverside, CA, 1995), AMS/IP Studies in Advanced Mathematics 4, American Mathematical Society, 1997, pp. 69–80.
-- **[Foundational]** E. Friedlander, B. Parshall. *Support varieties for restricted Lie algebras.* Inventiones Mathematicae 86 (1986), 553–562.
-- **[Foundational]** H. H. Andersen, J. C. Jantzen. *Cohomology of induced representations for algebraic groups.* Mathematische Annalen 269 (1984), 487–525.
-- **[Foundational]** A. Suslin, E. Friedlander, C. Bendel. *Support varieties for infinitesimal group schemes.* Journal of the AMS 10 (1997), 729–759.
+- **[Foundational]** E. Friedlander, B. Parshall. *Support varieties for restricted Lie algebras.* Inventiones Mathematicae 86 (1986), 553–562. [DOI](https://doi.org/10.1007/bf01389268)
+- **[Foundational]** H. H. Andersen, J. C. Jantzen. *Cohomology of induced representations for algebraic groups.* Mathematische Annalen 269 (1984), 487–525. [DOI](https://doi.org/10.1007/bf01450762)
+- **[Foundational]** A. Suslin, E. Friedlander, C. Bendel. *Support varieties for infinitesimal group schemes.* Journal of the AMS 10 (1997), 729–759. [DOI](https://doi.org/10.1090/s0894-0347-97-00239-7)
 - **[Foundational]** G. Lusztig. *Cells in affine Weyl groups, IV.* Journal of the Faculty of Science, University of Tokyo 36 (1989), 297–328.
 - **[Foundational]** S. Donkin. *On tilting modules for algebraic groups.* Mathematische Zeitschrift 212 (1993), 39–60.
-- **[SOTA]** R. Bezrukavnikov. *Cohomology of tilting modules over quantum groups and t-structures on derived categories of coherent sheaves.* Inventiones Mathematicae 166 (2006), 327–357.
-- **[SOTA]** V. Ostrik. *Support varieties for quantum groups.* Functional Analysis and Its Applications 32 (1998), 237–246.
+- **[SOTA]** R. Bezrukavnikov. *Cohomology of tilting modules over quantum groups and t-structures on derived categories of coherent sheaves.* Inventiones Mathematicae 166 (2006), 327–357. [DOI](https://doi.org/10.1007/s00222-006-0514-z)
+- **[SOTA]** V. Ostrik. *Support varieties for quantum groups.* Functional Analysis and Its Applications 32 (1998), 237–246. [DOI](https://doi.org/10.1007/bf02463206)
 - **[SOTA]** D. Nakano, B. Parshall, D. Vella. *Support varieties for algebraic groups.* Journal für die reine und angewandte Mathematik 547 (2002), 15–49.
-- **[SOTA]** W. Hardesty. *On support varieties and the Humphreys conjecture in type A.* Advances in Mathematics 329 (2018), 392–421.
-- **[SOTA]** P. Achar, W. Hardesty, S. Riche. *On the Humphreys conjecture on support varieties of tilting modules.* Transformation Groups 24 (2019), 597–657.
-- **[SOTA]** B. Cooper. *On the support varieties of tilting modules.* Journal of Algebra 324 (2010), 2287–2299.
+- **[SOTA]** W. Hardesty. *On support varieties and the Humphreys conjecture in type A.* Advances in Mathematics 329 (2018), 392–421. [DOI](https://doi.org/10.1016/j.aim.2018.01.023)
+- **[SOTA]** P. Achar, W. Hardesty, S. Riche. *On the Humphreys conjecture on support varieties of tilting modules.* Transformation Groups 24 (2019), 597–657. [DOI](https://doi.org/10.1007/s00031-019-09513-y)
+- **[SOTA]** B. Cooper. *On the support varieties of tilting modules.* Journal of Algebra 324 (2010), 2287–2299. [DOI](https://doi.org/10.1016/j.jpaa.2009.12.003)
 - **[Survey]** J. C. Jantzen. *Representations of Algebraic Groups.* 2nd ed., Mathematical Surveys and Monographs 107, AMS, 2003.
 - **[Survey]** J. E. Humphreys. *Modular representations of simple Lie algebras.* Bulletin of the AMS 35 (1998), 105–122.
-- **[Survey]** S. Riche, G. Williamson. *Tilting modules and the $p$-canonical basis.* Astérisque 397, Société Mathématique de France, 2018.
+- **[Survey]** S. Riche, G. Williamson. *Tilting modules and the $p$-canonical basis.* Astérisque 397, Société Mathématique de France, 2018. [DOI](https://doi.org/10.24033/ast.1043)
 
 ## 10. Worked Example / Concrete Special Case
 

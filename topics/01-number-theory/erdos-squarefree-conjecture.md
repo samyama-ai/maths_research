@@ -87,9 +87,9 @@ Leading mathematicians have outlined several open pathways extending the Granvil
 ## 9. Key References
 
 - **[Foundational]** Erdős, P., and Graham, R. L. *Old and New Problems and Results in Combinatorial Number Theory.* L'Enseignement Mathématique, 1980.
-- **[Foundational]** Sárközy, A. *On divisors of binomial coefficients, I.* Journal of Number Theory, 20(1), 70-80, 1985.
-- **[SOTA / Recent]** Goetgheluck, J. *On prime divisors of binomial coefficients.* Mathematics of Computation, 51(183), 325-329, 1988.
-- **[SOTA / Recent]** Granville, A., and Ramaré, O. *Explicit bounds on exponential sums and the scarcity of squarefree binomial coefficients.* Mathematika, 43(1), 73-107, 1996.
+- **[Foundational]** Sárközy, A. *On divisors of binomial coefficients, I.* Journal of Number Theory, 20(1), 70-80, 1985. [DOI](https://doi.org/10.1016/0022-314x(85)90017-4)
+- **[SOTA / Recent]** Goetgheluck, J. *On prime divisors of binomial coefficients.* Mathematics of Computation, 51(183), 325-329, 1988. [DOI](https://doi.org/10.1090/s0025-5718-1988-0942159-6)
+- **[SOTA / Recent]** Granville, A., and Ramaré, O. *Explicit bounds on exponential sums and the scarcity of squarefree binomial coefficients.* Mathematika, 43(1), 73-107, 1996. [DOI](https://doi.org/10.1112/s0025579300011608)
 
 ## 10. Worked Example / Concrete Special Case
 

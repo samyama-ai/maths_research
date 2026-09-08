@@ -112,15 +112,15 @@ For the arithmetic Schanuel conjecture the gap is total: no case with $n \ge 2$ 
 ## 9. Key References
 
 - **[Foundational]** J. Ax. *On Schanuel's conjectures.* Annals of Mathematics (2) **93** (1971), 252–268.
-- **[Foundational]** J. Ax. *Some topics in differential algebraic geometry I: Analytic subgroups of algebraic groups.* American Journal of Mathematics **94** (1972), 1195–1204.
+- **[Foundational]** J. Ax. *Some topics in differential algebraic geometry I: Analytic subgroups of algebraic groups.* American Journal of Mathematics **94** (1972), 1195–1204. [DOI](https://doi.org/10.2307/2373569)
 - **[Foundational]** S. Lang. *Introduction to Transcendental Numbers.* Addison-Wesley, 1966.
-- **[SOTA]** J. Pila, J. Tsimerman. *Ax–Schanuel for the $j$-function.* Duke Mathematical Journal **165** (2016), 2587–2605.
-- **[SOTA]** N. Mok, J. Pila, J. Tsimerman. *Ax–Schanuel for Shimura varieties.* Annals of Mathematics **189** (2019), 945–978.
-- **[SOTA]** B. Bakker, J. Tsimerman. *The Ax–Schanuel conjecture for variations of Hodge structures.* Inventiones mathematicae **217** (2019), 77–94.
-- **[SOTA]** Z. Gao. *Mixed Ax–Schanuel for the universal abelian varieties and some applications.* Compositio Mathematica **156** (2020), 2263–2297.
-- **[SOTA]** G. Casale, J. Freitag, J. Nagloo. *Ax–Lindemann–Weierstrass with derivatives and the genus 0 Fuchsian groups.* Annals of Mathematics **192** (2020), 721–765.
-- **[Recent]** G. Baldi, B. Klingler, E. Ullmo. *On the distribution of the Hodge locus.* Inventiones mathematicae **235** (2024), 441–487.
-- **[Related]** J. Kirby. *The theory of the exponential differential equations of semiabelian varieties.* Selecta Mathematica **15** (2009), 445–486.
+- **[SOTA]** J. Pila, J. Tsimerman. *Ax–Schanuel for the $j$-function.* Duke Mathematical Journal **165** (2016), 2587–2605. [DOI](https://doi.org/10.1215/00127094-3620005)
+- **[SOTA]** N. Mok, J. Pila, J. Tsimerman. *Ax–Schanuel for Shimura varieties.* Annals of Mathematics **189** (2019), 945–978. [DOI](https://doi.org/10.4007/annals.2019.189.3.7)
+- **[SOTA]** B. Bakker, J. Tsimerman. *The Ax–Schanuel conjecture for variations of Hodge structures.* Inventiones mathematicae **217** (2019), 77–94. [DOI](https://doi.org/10.1007/s00222-019-00863-8)
+- **[SOTA]** Z. Gao. *Mixed Ax–Schanuel for the universal abelian varieties and some applications.* Compositio Mathematica **156** (2020), 2263–2297. [DOI](https://doi.org/10.1112/s0010437x20007447)
+- **[SOTA]** G. Casale, J. Freitag, J. Nagloo. *Ax–Lindemann–Weierstrass with derivatives and the genus 0 Fuchsian groups.* Annals of Mathematics **192** (2020), 721–765. [DOI](https://doi.org/10.4007/annals.2020.192.3.2)
+- **[Recent]** G. Baldi, B. Klingler, E. Ullmo. *On the distribution of the Hodge locus.* Inventiones mathematicae **235** (2024), 441–487. [DOI](https://doi.org/10.1007/s00222-023-01226-0)
+- **[Related]** J. Kirby. *The theory of the exponential differential equations of semiabelian varieties.* Selecta Mathematica **15** (2009), 445–486. [DOI](https://doi.org/10.1007/s00029-009-0001-7)
 - **[Survey]** B. Klingler, E. Ullmo, A. Yafaev. *Bi-algebraic geometry and the André–Oort conjecture.* In *Algebraic Geometry: Salt Lake City 2015*, Proc. Sympos. Pure Math. **97.2**, AMS, 2018.
 - **[Survey]** J. Pila. *Point-Counting and the Zilber–Pink Conjecture.* Cambridge Tracts in Mathematics 228, Cambridge University Press, 2022.
 

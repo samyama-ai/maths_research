@@ -119,18 +119,18 @@ Proven: for each $n$ there exists $d(n)$ — roughly $n^{n}$ — such that a gen
 
 - **[Foundational]** S. Kobayashi. *Hyperbolic Manifolds and Holomorphic Mappings.* Marcel Dekker, 1970 (2nd ed., World Scientific, 2005).
 - **[Foundational]** S. Kobayashi. *Hyperbolic Complex Spaces.* Grundlehren der math. Wissenschaften 318, Springer, 1998.
-- **[Foundational]** R. Brody. *Compact manifolds and hyperbolicity.* Transactions of the AMS 235 (1978), 213–219.
-- **[Foundational]** M. Green, P. Griffiths. *Two applications of algebraic geometry to entire holomorphic mappings.* In: The Chern Symposium 1979, Springer, 1980, 41–74.
-- **[Foundational]** J.-P. Demailly. *Algebraic criteria for Kobayashi hyperbolic projective varieties and jet differentials.* Proc. Sympos. Pure Math. 62, AMS, 1997, 285–360.
-- **[Key result]** M. McQuillan. *Diophantine approximations and foliations.* Publications Mathématiques de l'IHÉS 87 (1998), 121–174.
-- **[Key result]** C. Voisin. *On a conjecture of Clemens on rational curves on hypersurfaces.* Journal of Differential Geometry 44 (1996), 200–213.
-- **[Key result]** J.-P. Demailly, J. El Goul. *Hyperbolicity of generic surfaces of high degree in projective 3-space.* American Journal of Mathematics 122 (2000), 515–546.
+- **[Foundational]** R. Brody. *Compact manifolds and hyperbolicity.* Transactions of the AMS 235 (1978), 213–219. [DOI](https://doi.org/10.2307/1998216)
+- **[Foundational]** M. Green, P. Griffiths. *Two applications of algebraic geometry to entire holomorphic mappings.* In: The Chern Symposium 1979, Springer, 1980, 41–74. [DOI](https://doi.org/10.1007/978-1-4613-8109-9_4)
+- **[Foundational]** J.-P. Demailly. *Algebraic criteria for Kobayashi hyperbolic projective varieties and jet differentials.* Proc. Sympos. Pure Math. 62, AMS, 1997, 285–360. [DOI](https://doi.org/10.1090/pspum/062.2/1492539)
+- **[Key result]** M. McQuillan. *Diophantine approximations and foliations.* Publications Mathématiques de l'IHÉS 87 (1998), 121–174. [DOI](https://doi.org/10.1007/bf02698862)
+- **[Key result]** C. Voisin. *On a conjecture of Clemens on rational curves on hypersurfaces.* Journal of Differential Geometry 44 (1996), 200–213. [DOI](https://doi.org/10.4310/jdg/1214458743)
+- **[Key result]** J.-P. Demailly, J. El Goul. *Hyperbolicity of generic surfaces of high degree in projective 3-space.* American Journal of Mathematics 122 (2000), 515–546. [DOI](https://doi.org/10.1353/ajm.2000.0019)
 - **[Key result]** J. Duval. *Une sextique hyperbolique dans $\mathbb{P}^3(\mathbb{C})$.* Mathematische Annalen 330 (2004), 473–476.
-- **[SOTA]** Y.-T. Siu. *Hyperbolicity of generic high-degree hypersurfaces in complex projective space.* Inventiones Mathematicae 202 (2015), 1069–1166.
-- **[SOTA]** D. Brotbek. *On the hyperbolicity of general hypersurfaces.* Publications Mathématiques de l'IHÉS 126 (2017), 1–34.
-- **[SOTA]** D. Brotbek, Y. Deng. *Hyperbolicity of the complements of general hypersurfaces of high degree.* Geometric and Functional Analysis 29 (2019), 690–750.
-- **[SOTA]** E. Riedl, D. Yang. *Applications of a Grassmannian technique to hyperbolicity, Chow equivalency, and Seshadri constants.* Journal of Algebraic Geometry 31 (2022), 1–12.
-- **[Survey]** J.-P. Demailly. *Recent results on the Kobayashi and Green–Griffiths–Lang conjectures.* Japanese Journal of Mathematics 15 (2020), 1–120.
+- **[SOTA]** Y.-T. Siu. *Hyperbolicity of generic high-degree hypersurfaces in complex projective space.* Inventiones Mathematicae 202 (2015), 1069–1166. [DOI](https://doi.org/10.1007/s00222-015-0584-x)
+- **[SOTA]** D. Brotbek. *On the hyperbolicity of general hypersurfaces.* Publications Mathématiques de l'IHÉS 126 (2017), 1–34. [DOI](https://doi.org/10.1007/s10240-017-0090-3)
+- **[SOTA]** D. Brotbek, Y. Deng. *Hyperbolicity of the complements of general hypersurfaces of high degree.* Geometric and Functional Analysis 29 (2019), 690–750. [DOI](https://doi.org/10.1007/s00039-019-00496-2)
+- **[SOTA]** E. Riedl, D. Yang. *Applications of a Grassmannian technique to hyperbolicity, Chow equivalency, and Seshadri constants.* Journal of Algebraic Geometry 31 (2022), 1–12. [DOI](https://doi.org/10.1090/jag/786)
+- **[Survey]** J.-P. Demailly. *Recent results on the Kobayashi and Green–Griffiths–Lang conjectures.* Japanese Journal of Mathematics 15 (2020), 1–120. [DOI](https://doi.org/10.1007/s11537-019-1566-3)
 - **[Survey]** S. Diverio, E. Rousseau. *Hyperbolicity of Projective Varieties.* IMPA Monographs / Springer, 2016.
 
 ## 10. Worked Example / Concrete Special Case

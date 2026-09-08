@@ -118,22 +118,22 @@ Equivalently: does Hilbert-space geometry (parallelogram law, unconditionality o
 
 ## 9. Key References
 
-- **[Foundational]** A. Beurling. *On two problems concerning linear transformations in Hilbert space.* Acta Mathematica 81 (1949), 239–255.
-- **[Foundational]** N. Aronszajn and K. T. Smith. *Invariant subspaces of completely continuous operators.* Annals of Mathematics 60 (1954), 345–350.
-- **[Foundational]** A. R. Bernstein and A. Robinson. *Solution of an invariant subspace problem of K. T. Smith and P. R. Halmos.* Pacific Journal of Mathematics 16 (1966), 421–431.
-- **[Foundational]** P. R. Halmos. *Invariant subspaces of polynomially compact operators.* Pacific Journal of Mathematics 16 (1966), 433–437.
-- **[Foundational]** P. R. Halmos. *Ten problems in Hilbert space.* Bulletin of the AMS 76 (1970), 887–933.
+- **[Foundational]** A. Beurling. *On two problems concerning linear transformations in Hilbert space.* Acta Mathematica 81 (1949), 239–255. [DOI](https://doi.org/10.1007/bf02395019)
+- **[Foundational]** N. Aronszajn and K. T. Smith. *Invariant subspaces of completely continuous operators.* Annals of Mathematics 60 (1954), 345–350. [DOI](https://doi.org/10.2307/1969637)
+- **[Foundational]** A. R. Bernstein and A. Robinson. *Solution of an invariant subspace problem of K. T. Smith and P. R. Halmos.* Pacific Journal of Mathematics 16 (1966), 421–431. [DOI](https://doi.org/10.2140/pjm.1966.16.421)
+- **[Foundational]** P. R. Halmos. *Invariant subspaces of polynomially compact operators.* Pacific Journal of Mathematics 16 (1966), 433–437. [DOI](https://doi.org/10.2140/pjm.1966.16.433)
+- **[Foundational]** P. R. Halmos. *Ten problems in Hilbert space.* Bulletin of the AMS 76 (1970), 887–933. [DOI](https://doi.org/10.1090/s0002-9904-1970-12502-2)
 - **[Foundational]** V. I. Lomonosov. *Invariant subspaces of the family of operators that commute with a completely continuous operator.* Functional Analysis and Its Applications 7 (1973), 213–214.
-- **[SOTA]** S. W. Brown. *Some invariant subspaces for subnormal operators.* Integral Equations and Operator Theory 1 (1978), 310–333.
-- **[SOTA]** P. Enflo. *On the invariant subspace problem for Banach spaces.* Acta Mathematica 158 (1987), 213–313.
+- **[SOTA]** S. W. Brown. *Some invariant subspaces for subnormal operators.* Integral Equations and Operator Theory 1 (1978), 310–333. [DOI](https://doi.org/10.1007/bf01682842)
+- **[SOTA]** P. Enflo. *On the invariant subspace problem for Banach spaces.* Acta Mathematica 158 (1987), 213–313. [DOI](https://doi.org/10.1007/bf02392260)
 - **[SOTA]** C. J. Read. *A solution to the invariant subspace problem.* Bulletin of the London Mathematical Society 16 (1984), 337–401.
 - **[SOTA]** C. J. Read. *A solution to the invariant subspace problem on the space $\ell_1$.* Bulletin of the London Mathematical Society 17 (1985), 305–317.
-- **[SOTA]** C. J. Read. *Quasinilpotent operators and the invariant subspace problem.* Journal of the London Mathematical Society 56 (1997), 595–606.
-- **[SOTA]** S. Brown, B. Chevreau and C. Pearcy. *On the structure of contraction operators II.* Journal of Functional Analysis 76 (1988), 30–55.
-- **[SOTA]** S. A. Argyros and R. G. Haydon. *A hereditarily indecomposable $\mathcal{L}_\infty$-space that solves the scalar-plus-compact problem.* Acta Mathematica 206 (2011), 1–54.
+- **[SOTA]** C. J. Read. *Quasinilpotent operators and the invariant subspace problem.* Journal of the London Mathematical Society 56 (1997), 595–606. [DOI](https://doi.org/10.1112/s0024610797005486)
+- **[SOTA]** S. Brown, B. Chevreau and C. Pearcy. *On the structure of contraction operators II.* Journal of Functional Analysis 76 (1988), 30–55. [DOI](https://doi.org/10.1016/0022-1236(88)90047-x)
+- **[SOTA]** S. A. Argyros and R. G. Haydon. *A hereditarily indecomposable $\mathcal{L}_\infty$-space that solves the scalar-plus-compact problem.* Acta Mathematica 206 (2011), 1–54. [DOI](https://doi.org/10.1007/s11511-011-0058-y)
 - **[Survey]** H. Radjavi and P. Rosenthal. *Invariant Subspaces.* Springer, 1973; 2nd ed. Dover, 2003.
 - **[Survey]** I. Chalendar and J. R. Partington. *Modern Approaches to the Invariant Subspace Problem.* Cambridge University Press, 2011.
-- **[Survey]** B. Sz.-Nagy, C. Foiaş, H. Bercovici and L. Kérchy. *Harmonic Analysis of Operators on Hilbert Space.* 2nd ed., Springer, 2010.
+- **[Survey]** B. Sz.-Nagy, C. Foiaş, H. Bercovici and L. Kérchy. *Harmonic Analysis of Operators on Hilbert Space.* 2nd ed., Springer, 2010. [DOI](https://doi.org/10.1007/978-1-4419-6094-8)
 
 ## 10. Worked Example / Concrete Special Case
 

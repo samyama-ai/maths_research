@@ -107,20 +107,20 @@ The precise barrier is the **cuspidalization step over global fields**: given a 
 ## 9. Key References
 
 - **[Foundational]** A. Grothendieck. *Letter to G. Faltings (1983)* and *Esquisse d'un Programme*, in L. Schneps, P. Lochak (eds.), **Geometric Galois Actions 1**, LMS Lecture Note Series 242, Cambridge University Press, 1997.
-- **[Foundational]** H. Nakamura. *Galois rigidity of the étale fundamental groups of punctured projective lines.* J. reine angew. Math. **411** (1990), 205–216.
-- **[Foundational]** A. Tamagawa. *The Grothendieck conjecture for affine curves.* Compositio Mathematica **109** (1997), 135–194.
-- **[Foundational]** S. Mochizuki. *The local pro-$p$ anabelian geometry of curves.* Inventiones Mathematicae **138** (1999), 319–423.
-- **[SOTA]** J. Koenigsmann. *On the section conjecture in anabelian geometry.* J. reine angew. Math. **588** (2005), 221–235.
-- **[SOTA]** F. Pop. *On the birational $p$-adic section conjecture.* Compositio Mathematica **146** (2010), 621–637.
-- **[SOTA]** H. Esnault, O. Wittenberg. *On abelian birational sections.* Journal of the AMS **23** (2010), 713–724.
-- **[SOTA]** J. Stix. *On the period-index problem in light of the section conjecture.* American Journal of Mathematics **132** (2010), 157–180.
-- **[SOTA]** Y. Hoshi. *Existence of nongeometric pro-$p$ Galois sections of hyperbolic curves.* Publ. RIMS **46** (2010), 829–848.
-- **[SOTA]** D. Harari, T. Szamuely. *Galois sections for abelianized fundamental groups* (with an appendix by E. Demarche). Mathematische Annalen **344** (2009), 779–800.
-- **[SOTA]** A. Pál. *The real section conjecture and Smith's fixed point theorem for pro-spaces.* J. London Math. Soc. **83** (2011), 353–367.
-- **[SOTA]** K. Wickelgren. *2-nilpotent real section conjecture.* Mathematische Annalen **358** (2014), 361–387.
+- **[Foundational]** H. Nakamura. *Galois rigidity of the étale fundamental groups of punctured projective lines.* J. reine angew. Math. **411** (1990), 205–216. [DOI](https://doi.org/10.1515/crll.1990.411.205)
+- **[Foundational]** A. Tamagawa. *The Grothendieck conjecture for affine curves.* Compositio Mathematica **109** (1997), 135–194. [DOI](https://doi.org/10.1023/a:1000114400142)
+- **[Foundational]** S. Mochizuki. *The local pro-$p$ anabelian geometry of curves.* Inventiones Mathematicae **138** (1999), 319–423. [DOI](https://doi.org/10.1007/s002220050381)
+- **[SOTA]** J. Koenigsmann. *On the section conjecture in anabelian geometry.* J. reine angew. Math. **588** (2005), 221–235. [DOI](https://doi.org/10.1515/crll.2005.2005.588.221)
+- **[SOTA]** F. Pop. *On the birational $p$-adic section conjecture.* Compositio Mathematica **146** (2010), 621–637. [DOI](https://doi.org/10.1112/s0010437x09004436)
+- **[SOTA]** H. Esnault, O. Wittenberg. *On abelian birational sections.* Journal of the AMS **23** (2010), 713–724. [DOI](https://doi.org/10.1090/s0894-0347-10-00660-0)
+- **[SOTA]** J. Stix. *On the period-index problem in light of the section conjecture.* American Journal of Mathematics **132** (2010), 157–180. [DOI](https://doi.org/10.1353/ajm.0.0092)
+- **[SOTA]** Y. Hoshi. *Existence of nongeometric pro-$p$ Galois sections of hyperbolic curves.* Publ. RIMS **46** (2010), 829–848. [DOI](https://doi.org/10.2977/prims/27)
+- **[SOTA]** D. Harari, T. Szamuely. *Galois sections for abelianized fundamental groups* (with an appendix by E. Demarche). Mathematische Annalen **344** (2009), 779–800. [DOI](https://doi.org/10.1007/s00208-008-0327-z)
+- **[SOTA]** A. Pál. *The real section conjecture and Smith's fixed point theorem for pro-spaces.* J. London Math. Soc. **83** (2011), 353–367. [DOI](https://doi.org/10.1112/jlms/jdq075)
+- **[SOTA]** K. Wickelgren. *2-nilpotent real section conjecture.* Mathematische Annalen **358** (2014), 361–387. [DOI](https://doi.org/10.1007/s00208-013-0967-5)
 - **[Survey]** J. Stix. **Rational Points and Arithmetic of Fundamental Groups: Evidence for the Section Conjecture.** Lecture Notes in Mathematics 2054, Springer, 2013.
 - **[Survey]** T. Szamuely. **Galois Groups and Fundamental Groups.** Cambridge Studies in Advanced Mathematics 117, Cambridge University Press, 2009.
-- **[Related]** M. Stoll. *Finite descent obstructions and rational points on curves.* Algebra & Number Theory **1** (2007), 349–391.
+- **[Related]** M. Stoll. *Finite descent obstructions and rational points on curves.* Algebra & Number Theory **1** (2007), 349–391. [DOI](https://doi.org/10.2140/ant.2007.1.349)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -92,7 +92,7 @@ Leading mathematicians suggest the following pathways for future breakthroughs:
 - **[Foundational]** Gauss, C.F. *Disquisitiones Arithmeticae.* Fleischer, Leipzig, 1801.
 - **[SOTA / Recent]** Smith, A. *The $2^\infty$-Selmer groups, $2^\infty$-class groups, and heuristics for real quadratic fields.* Inventiones mathematicae, 2021.
 - **[Foundational]** Cohen, H., and Lenstra, H.W. *Heuristics on class groups of number fields.* Lecture Notes in Mathematics, vol 1068, Springer, 1984.
-- **[Survey]** Hooley, C. *On the Pellian equation and the class number of indefinite binary quadratic forms.* Journal für die reine und angewandte Mathematik, 1984.
+- **[Survey]** Hooley, C. *On the Pellian equation and the class number of indefinite binary quadratic forms.* Journal für die reine und angewandte Mathematik, 1984. [DOI](https://doi.org/10.1515/crll.1984.353.98)
 
 ## 10. Worked Example / Concrete Special Case
 

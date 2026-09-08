@@ -105,16 +105,16 @@ Key groups: ETH Zürich / Bonn (Pandharipande, Oberdieck), Imperial College (Tho
 ## 9. Key References
 
 - **[Foundational]** S. Katz, A. Klemm, C. Vafa. *M-theory, topological strings and spinning black holes.* Advances in Theoretical and Mathematical Physics 3 (1999), 1445–1537.
-- **[Foundational]** S.-T. Yau, E. Zaslow. *BPS states, string duality, and nodal curves on K3.* Nuclear Physics B 471 (1996), 503–512.
+- **[Foundational]** S.-T. Yau, E. Zaslow. *BPS states, string duality, and nodal curves on K3.* Nuclear Physics B 471 (1996), 503–512. [DOI](https://doi.org/10.1016/0550-3213(96)00176-9)
 - **[Foundational]** J. Bryan, N. C. Leung. *The enumerative geometry of K3 surfaces and modular forms.* Journal of the AMS 13 (2000), 371–410.
-- **[Foundational]** T. Kawai, K. Yoshioka. *String partition functions and infinite products.* Advances in Theoretical and Mathematical Physics 4 (2000), 397–485.
-- **[SOTA]** R. Pandharipande, R. P. Thomas. *The Katz–Klemm–Vafa conjecture for K3 surfaces.* Forum of Mathematics, Pi 4 (2016), e4.
+- **[Foundational]** T. Kawai, K. Yoshioka. *String partition functions and infinite products.* Advances in Theoretical and Mathematical Physics 4 (2000), 397–485. [DOI](https://doi.org/10.4310/atmp.2000.v4.n2.a7)
+- **[SOTA]** R. Pandharipande, R. P. Thomas. *The Katz–Klemm–Vafa conjecture for K3 surfaces.* Forum of Mathematics, Pi 4 (2016), e4. [DOI](https://doi.org/10.1017/fmp.2016.2)
 - **[SOTA]** D. Maulik, R. Pandharipande, R. P. Thomas. *Curves on K3 surfaces and modular forms.* Journal of Topology 3 (2010), 937–996.
-- **[SOTA]** A. Klemm, D. Maulik, R. Pandharipande, E. Scheidegger. *Noether–Lefschetz theory and the Yau–Zaslow conjecture.* Journal of the AMS 23 (2010), 1013–1040.
+- **[SOTA]** A. Klemm, D. Maulik, R. Pandharipande, E. Scheidegger. *Noether–Lefschetz theory and the Yau–Zaslow conjecture.* Journal of the AMS 23 (2010), 1013–1040. [DOI](https://doi.org/10.1090/s0894-0347-2010-00672-8)
 - **[Recent]** S. Katz, A. Klemm, R. Pandharipande, with an appendix by R. P. Thomas. *On the motivic stable pairs invariants of K3 surfaces.* Journal of Algebraic Geometry 27 (2018), 151–199.
 - **[Recent]** D. Maulik, R. P. Thomas. *Sheaf counting on local K3 surfaces.* Pure and Applied Mathematics Quarterly 14 (2018), 419–441.
-- **[Recent]** G. Oberdieck, A. Pixton. *Holomorphic anomaly equations and the Igusa cusp form conjecture.* Inventiones Mathematicae 213 (2018), 507–587.
-- **[Survey]** D. Maulik, Y. Toda. *Gopakumar–Vafa invariants via vanishing cycles.* Inventiones Mathematicae 213 (2018), 1017–1097.
+- **[Recent]** G. Oberdieck, A. Pixton. *Holomorphic anomaly equations and the Igusa cusp form conjecture.* Inventiones Mathematicae 213 (2018), 507–587. [DOI](https://doi.org/10.1007/s00222-018-0794-0)
+- **[Survey]** D. Maulik, Y. Toda. *Gopakumar–Vafa invariants via vanishing cycles.* Inventiones Mathematicae 213 (2018), 1017–1097. [DOI](https://doi.org/10.1007/s00222-018-0800-6)
 
 ## 10. Worked Example / Concrete Special Case
 

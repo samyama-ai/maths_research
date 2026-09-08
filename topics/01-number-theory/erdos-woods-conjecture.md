@@ -97,12 +97,12 @@ for some fixed $k$. Everything else in the argument (§2) is elementary. Since $
 
 ## 9. Key References
 
-- **[Foundational]** P. Erdős. *How many pairs of products of consecutive integers have the same prime factors?* American Mathematical Monthly **87** (1980), 391–392.
+- **[Foundational]** P. Erdős. *How many pairs of products of consecutive integers have the same prime factors?* American Mathematical Monthly **87** (1980), 391–392. [DOI](https://doi.org/10.2307/2321216)
 - **[Foundational]** A. R. Woods. *Some problems in logic and number theory, and their connections.* PhD thesis, University of Manchester, 1981; reprinted in *New Studies in Weak Arithmetics* (P. Cégielski, C. Cornaros, C. Dimitracopoulos, eds.), CSLI Publications, 2013.
-- **[Foundational]** D. Richard. *All arithmetical sets of powers of primes are first-order definable in terms of the successor function and the coprimeness predicate.* Discrete Mathematics **53** (1985), 221–247.
-- **[SOTA / Recent]** D. L. Dowe. *On the existence of sequences of co-prime pairs of integers.* Journal of the Australian Mathematical Society (Series A) **47** (1989), 84–89.
-- **[SOTA / Recent]** R. Balasubramanian, M. Langevin, T. N. Shorey, M. Waldschmidt. *On the maximal length of two sequences of integers in arithmetic progressions with the same prime divisors.* Monatshefte für Mathematik **121** (1996), 295–307.
-- **[SOTA / Recent]** P. Cégielski, F. Heroult, D. Richard. *On the amplitude of intervals of natural numbers whose every element has a common prime divisor with at least an extremity.* Theoretical Computer Science **303** (2003), 53–62.
+- **[Foundational]** D. Richard. *All arithmetical sets of powers of primes are first-order definable in terms of the successor function and the coprimeness predicate.* Discrete Mathematics **53** (1985), 221–247. [DOI](https://doi.org/10.1016/0012-365x(85)90144-x)
+- **[SOTA / Recent]** D. L. Dowe. *On the existence of sequences of co-prime pairs of integers.* Journal of the Australian Mathematical Society (Series A) **47** (1989), 84–89. [DOI](https://doi.org/10.1017/s1446788700031220)
+- **[SOTA / Recent]** R. Balasubramanian, M. Langevin, T. N. Shorey, M. Waldschmidt. *On the maximal length of two sequences of integers in arithmetic progressions with the same prime divisors.* Monatshefte für Mathematik **121** (1996), 295–307. [DOI](https://doi.org/10.1007/bf01308722)
+- **[SOTA / Recent]** P. Cégielski, F. Heroult, D. Richard. *On the amplitude of intervals of natural numbers whose every element has a common prime divisor with at least an extremity.* Theoretical Computer Science **303** (2003), 53–62. [DOI](https://doi.org/10.1016/s0304-3975(02)00444-9)
 - **[Survey]** R. K. Guy. *Unsolved Problems in Number Theory*, 3rd edition, Springer, 2004 — problem **B29**.
 - **[Survey]** T. N. Shorey, R. Tijdeman. *Exponential Diophantine Equations.* Cambridge Tracts in Mathematics 87, Cambridge University Press, 1986.
 

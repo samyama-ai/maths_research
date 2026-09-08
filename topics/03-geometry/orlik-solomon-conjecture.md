@@ -111,23 +111,23 @@ The gap is exactly: **does the upper bound above (or any combinatorial refinemen
 
 ## 9. Key References
 
-- **[Foundational]** P. Orlik, L. Solomon. *Combinatorics and topology of complements of hyperplanes.* Inventiones Mathematicae **56** (1980), 167–189.
+- **[Foundational]** P. Orlik, L. Solomon. *Combinatorics and topology of complements of hyperplanes.* Inventiones Mathematicae **56** (1980), 167–189. [DOI](https://doi.org/10.1007/bf01392549)
 - **[Foundational]** J. Milnor. *Singular Points of Complex Hypersurfaces.* Annals of Mathematics Studies 61, Princeton University Press, 1968.
 - **[Foundational]** P. Orlik, H. Terao. *Arrangements of Hyperplanes.* Grundlehren der mathematischen Wissenschaften 300, Springer, 1992.
-- **[Foundational]** H. Esnault, V. Schechtman, E. Viehweg. *Cohomology of local systems on the complement of hyperplanes.* Inventiones Mathematicae **109** (1992), 557–561.
-- **[SOTA]** A. Dimca, S. Papadima. *Hypersurface complements, Milnor fibers and higher homotopy groups of arrangements.* Annals of Mathematics **158** (2003), 473–507.
-- **[SOTA]** M. Falk, S. Yuzvinsky. *Multinets, resonance varieties, and pencils of plane curves.* Compositio Mathematica **143** (2007), 1069–1088.
-- **[SOTA]** S. Papadima, A. Suciu. *The Milnor fibration of a hyperplane arrangement: from modular resonance to algebraic monodromy.* Proceedings of the London Mathematical Society **114** (2017), 961–1004.
-- **[SOTA]** G. Denham, A. Suciu. *Multinets, parallel connections, and Milnor fibrations of arrangements.* Proceedings of the London Mathematical Society **107** (2013), 1435–1470.
-- **[SOTA]** N. Budur, M. Saito. *Jumping coefficients and spectrum of a hyperplane arrangement.* Mathematische Annalen **347** (2010), 545–579.
-- **[Recent]** D. Cohen, G. Denham, A. Suciu. *Torsion in Milnor fiber homology.* Algebraic & Geometric Topology **3** (2003), 511–535.
-- **[Recent]** M. Yoshinaga. *Milnor fibers of real line arrangements.* Journal of Singularities **7** (2013), 220–237.
-- **[Recent]** A. Măcinic, S. Papadima. *On the monodromy action on Milnor fibers of graphic arrangements.* Topology and its Applications **156** (2009), 761–774.
+- **[Foundational]** H. Esnault, V. Schechtman, E. Viehweg. *Cohomology of local systems on the complement of hyperplanes.* Inventiones Mathematicae **109** (1992), 557–561. [DOI](https://doi.org/10.1007/bf01232443)
+- **[SOTA]** A. Dimca, S. Papadima. *Hypersurface complements, Milnor fibers and higher homotopy groups of arrangements.* Annals of Mathematics **158** (2003), 473–507. [DOI](https://doi.org/10.4007/annals.2003.158.473)
+- **[SOTA]** M. Falk, S. Yuzvinsky. *Multinets, resonance varieties, and pencils of plane curves.* Compositio Mathematica **143** (2007), 1069–1088. [DOI](https://doi.org/10.1112/s0010437x07002722)
+- **[SOTA]** S. Papadima, A. Suciu. *The Milnor fibration of a hyperplane arrangement: from modular resonance to algebraic monodromy.* Proceedings of the London Mathematical Society **114** (2017), 961–1004. [DOI](https://doi.org/10.1112/plms.12027)
+- **[SOTA]** G. Denham, A. Suciu. *Multinets, parallel connections, and Milnor fibrations of arrangements.* Proceedings of the London Mathematical Society **107** (2013), 1435–1470. [DOI](https://doi.org/10.1112/plms/pdt058)
+- **[SOTA]** N. Budur, M. Saito. *Jumping coefficients and spectrum of a hyperplane arrangement.* Mathematische Annalen **347** (2010), 545–579. [DOI](https://doi.org/10.1007/s00208-009-0449-y)
+- **[Recent]** D. Cohen, G. Denham, A. Suciu. *Torsion in Milnor fiber homology.* Algebraic & Geometric Topology **3** (2003), 511–535. [DOI](https://doi.org/10.2140/agt.2003.3.511)
+- **[Recent]** M. Yoshinaga. *Milnor fibers of real line arrangements.* Journal of Singularities **7** (2013), 220–237. [DOI](https://doi.org/10.5427/jsing.2013.7l)
+- **[Recent]** A. Măcinic, S. Papadima. *On the monodromy action on Milnor fibers of graphic arrangements.* Topology and its Applications **156** (2009), 761–774. [DOI](https://doi.org/10.1016/j.topol.2008.09.014)
 - **[Context]** P. Edelman, V. Reiner. *A counterexample to Orlik's conjecture.* Proceedings of the American Mathematical Society **118** (1993), 927–929.
-- **[Context]** G. Rybnikov. *On the fundamental group of the complement of a complex hyperplane arrangement.* Functional Analysis and Its Applications **45** (2011), 137–148.
-- **[Survey]** A. Suciu. *Hyperplane arrangements and Milnor fibrations.* Annales de la Faculté des Sciences de Toulouse **23** (2014), 417–481.
+- **[Context]** G. Rybnikov. *On the fundamental group of the complement of a complex hyperplane arrangement.* Functional Analysis and Its Applications **45** (2011), 137–148. [DOI](https://doi.org/10.1007/s10688-011-0015-8)
+- **[Survey]** A. Suciu. *Hyperplane arrangements and Milnor fibrations.* Annales de la Faculté des Sciences de Toulouse **23** (2014), 417–481. [DOI](https://doi.org/10.5802/afst.1412)
 - **[Survey]** A. Dimca. *Hyperplane Arrangements: An Introduction.* Universitext, Springer, 2017.
-- **[Survey]** D. Cohen, A. Suciu. *On Milnor fibrations of arrangements.* Journal of the London Mathematical Society **51** (1995), 105–119.
+- **[Survey]** D. Cohen, A. Suciu. *On Milnor fibrations of arrangements.* Journal of the London Mathematical Society **51** (1995), 105–119. [DOI](https://doi.org/10.1112/jlms/51.1.105)
 
 ## 10. Worked Example / Concrete Special Case
 

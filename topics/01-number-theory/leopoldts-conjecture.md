@@ -74,7 +74,7 @@ Active research continues in several highly sophisticated directions:
 
 ## 9. Key References
 
-- **[Foundational]** Leopoldt, H. W. *Zur Arithmetik in abelschen Zahlkörpern.* Journal für die reine und angewandte Mathematik 209 (1962): 54-71.
+- **[Foundational]** Leopoldt, H. W. *Zur Arithmetik in abelschen Zahlkörpern.* Journal für die reine und angewandte Mathematik 209 (1962): 54-71. [DOI](https://doi.org/10.1515/crll.1962.209.54)
 - **[Foundational]** Brumer, A. *On the units of algebraic number fields.* Mathematika 14, no. 2 (1967): 121-124.
 - **[SOTA / Recent]** Neukirch, J., Schmidt, A., Wingberg, K. *Cohomology of Number Fields.* 2nd ed., Springer Science & Business Media, 2008.
 - **[Survey]** Washington, L. C. *Introduction to Cyclotomic Fields.* 2nd ed., Springer Science & Business Media, 1997.

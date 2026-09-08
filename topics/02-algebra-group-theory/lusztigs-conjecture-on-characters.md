@@ -89,18 +89,18 @@ Proved: the formula for $p \ge N(\Phi)$, $N$ explicit but enormous; and a *repla
 
 ## 9. Key References
 
-- **[Foundational]** G. Lusztig. *Some problems in the representation theory of finite Chevalley groups.* Proc. Sympos. Pure Math. 37, AMS, 1980, 313–317.
+- **[Foundational]** G. Lusztig. *Some problems in the representation theory of finite Chevalley groups.* Proc. Sympos. Pure Math. 37, AMS, 1980, 313–317. [DOI](https://doi.org/10.1090/pspum/037/604598)
 - **[Foundational]** H. H. Andersen, J. C. Jantzen, W. Soergel. *Representations of quantum groups at a p-th root of unity and of semisimple groups in characteristic p: independence of p.* Astérisque 220, 1994.
-- **[Foundational]** D. Kazhdan, G. Lusztig. *Tensor structures arising from affine Lie algebras, I–IV.* J. Amer. Math. Soc. 6 (1993), 905–947, 949–1011; 7 (1994), 335–381, 383–453.
-- **[Foundational]** M. Kashiwara, T. Tanisaki. *Kazhdan–Lusztig conjecture for affine Lie algebras with negative level.* Duke Math. J. 77 (1995), 21–62.
-- **[SOTA]** G. Williamson. *Schubert calculus and torsion explosion.* J. Amer. Math. Soc. 30 (2017), 1023–1046 (with an appendix by A. Kontorovich, P. J. McNamara, G. Williamson).
-- **[SOTA]** S. Riche, G. Williamson. *Tilting modules and the p-canonical basis.* Astérisque 397, 2018.
-- **[SOTA]** P. Achar, S. Makisumi, S. Riche, G. Williamson. *Koszul duality for Kac–Moody groups and characters of tilting modules.* J. Amer. Math. Soc. 31 (2018), 1023–1076.
-- **[SOTA]** P. Fiebig. *An upper bound on the exceptional characteristics for Lusztig's character formula.* J. reine angew. Math. 673 (2012), 1–31.
-- **[Foundational]** B. Elias, G. Williamson. *The Hodge theory of Soergel bimodules.* Ann. of Math. 180 (2014), 1089–1136.
+- **[Foundational]** D. Kazhdan, G. Lusztig. *Tensor structures arising from affine Lie algebras, I–IV.* J. Amer. Math. Soc. 6 (1993), 905–947, 949–1011; 7 (1994), 335–381, 383–453. [DOI](https://doi.org/10.1090/s0894-0347-1994-1239507-1)
+- **[Foundational]** M. Kashiwara, T. Tanisaki. *Kazhdan–Lusztig conjecture for affine Lie algebras with negative level.* Duke Math. J. 77 (1995), 21–62. [DOI](https://doi.org/10.1215/s0012-7094-95-07702-3)
+- **[SOTA]** G. Williamson. *Schubert calculus and torsion explosion.* J. Amer. Math. Soc. 30 (2017), 1023–1046 (with an appendix by A. Kontorovich, P. J. McNamara, G. Williamson). [DOI](https://doi.org/10.1090/jams/868)
+- **[SOTA]** S. Riche, G. Williamson. *Tilting modules and the p-canonical basis.* Astérisque 397, 2018. [DOI](https://doi.org/10.24033/ast.1043)
+- **[SOTA]** P. Achar, S. Makisumi, S. Riche, G. Williamson. *Koszul duality for Kac–Moody groups and characters of tilting modules.* J. Amer. Math. Soc. 31 (2018), 1023–1076. [DOI](https://doi.org/10.1090/jams/905)
+- **[SOTA]** P. Fiebig. *An upper bound on the exceptional characteristics for Lusztig's character formula.* J. reine angew. Math. 673 (2012), 1–31. [DOI](https://doi.org/10.1515/crelle.2011.170)
+- **[Foundational]** B. Elias, G. Williamson. *The Hodge theory of Soergel bimodules.* Ann. of Math. 180 (2014), 1089–1136. [DOI](https://doi.org/10.4007/annals.2014.180.3.6)
 - **[Survey]** J. C. Jantzen. *Representations of Algebraic Groups*, 2nd ed. Math. Surveys and Monographs 107, AMS, 2003.
-- **[Survey]** G. Williamson. *Algebraic representations and constructible sheaves.* Jpn. J. Math. 12 (2017), 211–259.
-- **[Survey]** W. Soergel. *On the relation between intersection cohomology and representation theory in positive characteristic.* J. Pure Appl. Algebra 152 (2000), 311–335.
+- **[Survey]** G. Williamson. *Algebraic representations and constructible sheaves.* Jpn. J. Math. 12 (2017), 211–259. [DOI](https://doi.org/10.1007/s11537-017-1646-1)
+- **[Survey]** W. Soergel. *On the relation between intersection cohomology and representation theory in positive characteristic.* J. Pure Appl. Algebra 152 (2000), 311–335. [DOI](https://doi.org/10.1016/s0022-4049(99)00138-3)
 
 ## 10. Worked Example / Concrete Special Case
 

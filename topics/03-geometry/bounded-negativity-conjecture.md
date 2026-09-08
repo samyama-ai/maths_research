@@ -116,15 +116,15 @@ and even $H(\mathbb{P}^2) > -\infty$ — bounded negativity for *all* blow-ups o
 
 ## 9. Key References
 
-- **[Foundational]** M. Nagata. *On rational surfaces II.* Memoirs of the College of Science, University of Kyoto, Ser. A, 33 (1960), 271–293.
+- **[Foundational]** M. Nagata. *On rational surfaces II.* Memoirs of the College of Science, University of Kyoto, Ser. A, 33 (1960), 271–293. [DOI](https://doi.org/10.1215/kjm/1250775912)
 - **[Foundational]** F. Sakai. *Semistable curves on algebraic surfaces and logarithmic pluricanonical maps.* Mathematische Annalen 254 (1980), 89–120.
-- **[Foundational]** Y. Miyaoka. *The maximal number of quotient singularities on surfaces with given numerical invariants.* Mathematische Annalen 268 (1984), 159–171.
-- **[Foundational]** F. Hirzebruch. *Arrangements of lines and algebraic surfaces.* In: Arithmetic and Geometry, Vol. II, Progress in Mathematics 36, Birkhäuser, 1983, 113–140.
+- **[Foundational]** Y. Miyaoka. *The maximal number of quotient singularities on surfaces with given numerical invariants.* Mathematische Annalen 268 (1984), 159–171. [DOI](https://doi.org/10.1007/bf01456083)
+- **[Foundational]** F. Hirzebruch. *Arrangements of lines and algebraic surfaces.* In: Arithmetic and Geometry, Vol. II, Progress in Mathematics 36, Birkhäuser, 1983, 113–140. [DOI](https://doi.org/10.1007/978-1-4757-9286-7_7)
 - **[SOTA]** Th. Bauer, B. Harbourne, A. L. Knutsen, A. Küronya, S. Müller-Stach, X. Roulleau, T. Szemberg. *Negative curves on algebraic surfaces.* Duke Mathematical Journal 162 (2013), no. 10, 1877–1894.
-- **[SOTA]** Th. Bauer, S. Di Rocco, B. Harbourne, J. Huizenga, A. Lundman, P. Pokora, T. Szemberg. *Bounded negativity and arrangements of lines.* International Mathematics Research Notices 2015, no. 19, 9456–9471.
-- **[SOTA]** X. Roulleau. *Bounded negativity, Miyaoka–Sakai inequality and elliptic curve configurations.* International Mathematics Research Notices 2017, no. 8, 2480–2496.
+- **[SOTA]** Th. Bauer, S. Di Rocco, B. Harbourne, J. Huizenga, A. Lundman, P. Pokora, T. Szemberg. *Bounded negativity and arrangements of lines.* International Mathematics Research Notices 2015, no. 19, 9456–9471. [DOI](https://doi.org/10.1093/imrn/rnu236)
+- **[SOTA]** X. Roulleau. *Bounded negativity, Miyaoka–Sakai inequality and elliptic curve configurations.* International Mathematics Research Notices 2017, no. 8, 2480–2496. [DOI](https://doi.org/10.1093/imrn/rnw107)
 - **[Survey]** Th. Bauer, C. Bocci, S. Cooper, S. Di Rocco, M. Dumnicki, B. Harbourne, K. Jabbusch, A. L. Knutsen, A. Küronya, R. Miranda, J. Roé, H. Schenck, T. Szemberg, Z. Teitler. *Recent developments and open problems in linear series.* In: Contributions to Algebraic Geometry (Impanga Lecture Notes), EMS Series of Congress Reports, European Mathematical Society, 2012, 93–140.
-- **[Survey]** Th. Bauer, S. Di Rocco, B. Harbourne, M. Kapustka, A. L. Knutsen, W. Syzdek, T. Szemberg. *A primer on Seshadri constants.* Contemporary Mathematics 496, American Mathematical Society, 2009, 33–70.
+- **[Survey]** Th. Bauer, S. Di Rocco, B. Harbourne, M. Kapustka, A. L. Knutsen, W. Syzdek, T. Szemberg. *A primer on Seshadri constants.* Contemporary Mathematics 496, American Mathematical Society, 2009, 33–70. [DOI](https://doi.org/10.1090/conm/496/09718)
 - **[Related]** M. Dumnicki, T. Szemberg, H. Tutaj-Gasińska. *Counterexamples to the $I^{(3)} \subset I^2$ containment.* Journal of Algebra 393 (2013), 24–29.
 
 ## 10. Worked Example / Concrete Special Case

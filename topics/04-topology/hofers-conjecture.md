@@ -102,20 +102,20 @@ The exact gap is the class of closed symplectic manifolds on which **simultaneou
 
 ## 9. Key References
 
-- **[Foundational]** H. Hofer. *On the topological properties of symplectic maps.* Proceedings of the Royal Society of Edinburgh Sect. A, 115 (1990), 25–38.
+- **[Foundational]** H. Hofer. *On the topological properties of symplectic maps.* Proceedings of the Royal Society of Edinburgh Sect. A, 115 (1990), 25–38. [DOI](https://doi.org/10.1017/s0308210500024549)
 - **[Foundational]** F. Lalonde, D. McDuff. *The geometry of symplectic energy.* Annals of Mathematics, 141 (1995), 349–371.
-- **[Foundational]** M. Bialy, L. Polterovich. *Geodesics of Hofer's metric on the group of Hamiltonian diffeomorphisms.* Duke Mathematical Journal, 76 (1994), 273–292.
-- **[Foundational]** H. Hofer, E. Zehnder. *Symplectic Invariants and Hamiltonian Dynamics.* Birkhäuser, 1994.
-- **[SOTA]** M. Schwarz. *On the action spectrum for closed symplectically aspherical manifolds.* Pacific Journal of Mathematics, 193 (2000), 419–461.
+- **[Foundational]** M. Bialy, L. Polterovich. *Geodesics of Hofer's metric on the group of Hamiltonian diffeomorphisms.* Duke Mathematical Journal, 76 (1994), 273–292. [DOI](https://doi.org/10.1215/s0012-7094-94-07609-6)
+- **[Foundational]** H. Hofer, E. Zehnder. *Symplectic Invariants and Hamiltonian Dynamics.* Birkhäuser, 1994. [DOI](https://doi.org/10.1007/978-3-0348-8540-9)
+- **[SOTA]** M. Schwarz. *On the action spectrum for closed symplectically aspherical manifolds.* Pacific Journal of Mathematics, 193 (2000), 419–461. [DOI](https://doi.org/10.2140/pjm.2000.193.419)
 - **[SOTA]** M. Entov, L. Polterovich. *Calabi quasimorphism and quantum homology.* International Mathematics Research Notices, 2003, no. 30, 1635–1676.
-- **[SOTA]** Y. Ostrover. *A comparison of Hofer's metrics on Hamiltonian diffeomorphisms and Lagrangian submanifolds.* Communications in Contemporary Mathematics, 5 (2003), 803–811.
-- **[SOTA]** M. Usher. *Hofer's metrics and boundary depth.* Annales Scientifiques de l'École Normale Supérieure, 46 (2013), 57–128.
-- **[SOTA]** D. McDuff. *Monodromy in Hamiltonian Floer theory.* Compositio Mathematica, 146 (2010), 1002–1028.
-- **[Recent]** A. Kislev, E. Shelukhin. *Bounds on spectral norms and barcodes.* Geometry & Topology, 25 (2021), 3257–3350.
-- **[Recent]** E. Shelukhin. *On the Hofer–Zehnder conjecture.* Annals of Mathematics, 195 (2022), 775–839.
-- **[Recent]** D. Cristofaro-Gardiner, V. Humilière, C. Y. Mak, S. Seyfaddini, I. Smith. *Quantitative Heegaard Floer cohomology and the Calabi invariant.* Forum of Mathematics, Pi, 10 (2022), e27.
+- **[SOTA]** Y. Ostrover. *A comparison of Hofer's metrics on Hamiltonian diffeomorphisms and Lagrangian submanifolds.* Communications in Contemporary Mathematics, 5 (2003), 803–811. [DOI](https://doi.org/10.1142/s0219199703001154)
+- **[SOTA]** M. Usher. *Hofer's metrics and boundary depth.* Annales Scientifiques de l'École Normale Supérieure, 46 (2013), 57–128. [DOI](https://doi.org/10.24033/asens.2185)
+- **[SOTA]** D. McDuff. *Monodromy in Hamiltonian Floer theory.* Compositio Mathematica, 146 (2010), 1002–1028. [DOI](https://doi.org/10.4171/cmh/189)
+- **[Recent]** A. Kislev, E. Shelukhin. *Bounds on spectral norms and barcodes.* Geometry & Topology, 25 (2021), 3257–3350. [DOI](https://doi.org/10.2140/gt.2021.25.3257)
+- **[Recent]** E. Shelukhin. *On the Hofer–Zehnder conjecture.* Annals of Mathematics, 195 (2022), 775–839. [DOI](https://doi.org/10.4007/annals.2022.195.3.1)
+- **[Recent]** D. Cristofaro-Gardiner, V. Humilière, C. Y. Mak, S. Seyfaddini, I. Smith. *Quantitative Heegaard Floer cohomology and the Calabi invariant.* Forum of Mathematics, Pi, 10 (2022), e27. [DOI](https://doi.org/10.1017/fmp.2022.18)
 - **[Survey]** L. Polterovich. *The Geometry of the Group of Symplectic Diffeomorphisms.* Lectures in Mathematics ETH Zürich, Birkhäuser, 2001.
-- **[Survey]** D. McDuff, D. Salamon. *Introduction to Symplectic Topology.* 3rd edition, Oxford University Press, 2017.
+- **[Survey]** D. McDuff, D. Salamon. *Introduction to Symplectic Topology.* 3rd edition, Oxford University Press, 2017. [DOI](https://doi.org/10.1093/oso/9780198794899.001.0001)
 - **[Survey]** L. Polterovich, D. Rosen. *Function Theory on Symplectic Manifolds.* CRM Monograph Series 34, AMS, 2014.
 
 ## 10. Worked Example / Concrete Special Case

@@ -114,20 +114,20 @@ Neither has been produced in any dimension $\ge 5$.
 
 ## 9. Key References
 
-- **[Foundational]** R. Charney, M. Davis. *The Euler characteristic of a nonpositively curved, piecewise Euclidean manifold.* Pacific Journal of Mathematics **171** (1995), 117–137.
+- **[Foundational]** R. Charney, M. Davis. *The Euler characteristic of a nonpositively curved, piecewise Euclidean manifold.* Pacific Journal of Mathematics **171** (1995), 117–137. [DOI](https://doi.org/10.2140/pjm.1995.171.117)
 - **[Foundational]** M. W. Davis, B. Okun. *Vanishing theorems and conjectures for the $\ell^2$-homology of right-angled Coxeter groups.* Geometry & Topology **5** (2001), 7–74.
-- **[Key]** Ś. R. Gal. *Real root conjecture fails for five- and higher-dimensional spheres.* Discrete & Computational Geometry **34** (2005), 269–284.
-- **[Key]** K. Karu. *The cd-index of fans and posets.* Compositio Mathematica **142** (2006), 701–718.
-- **[Key]** N. C. Leung, V. Reiner. *The signature of a toric variety.* Duke Mathematical Journal **111** (2002), 253–286.
+- **[Key]** Ś. R. Gal. *Real root conjecture fails for five- and higher-dimensional spheres.* Discrete & Computational Geometry **34** (2005), 269–284. [DOI](https://doi.org/10.1007/s00454-005-1171-5)
+- **[Key]** K. Karu. *The cd-index of fans and posets.* Compositio Mathematica **142** (2006), 701–718. [DOI](https://doi.org/10.1112/s0010437x06001928)
+- **[Key]** N. C. Leung, V. Reiner. *The signature of a toric variety.* Duke Mathematical Journal **111** (2002), 253–286. [DOI](https://doi.org/10.1215/s0012-7094-02-11123-5)
 - **[Survey]** R. P. Stanley. *Positivity problems and conjectures in algebraic combinatorics.* In *Mathematics: Frontiers and Perspectives*, American Mathematical Society, 2000, 295–319.
 - **[Reference]** M. W. Davis. *The Geometry and Topology of Coxeter Groups.* London Mathematical Society Monographs 32, Princeton University Press, 2008.
 - **[SOTA / Recent]** E. Nevo, T. K. Petersen. *On $\gamma$-vectors satisfying the Kruskal–Katona bounds.* Discrete & Computational Geometry **45** (2011), 503–521.
-- **[SOTA / Recent]** E. Nevo, T. K. Petersen, B. E. Tenner. *The $\gamma$-vector of a barycentric subdivision.* Journal of Combinatorial Theory Series A **118** (2011), 1364–1380.
-- **[Related]** P. Brändén. *Sign-graded posets, unimodality of $W$-polynomials and the Charney–Davis conjecture.* Electronic Journal of Combinatorics **11**(2) (2004), #R9.
-- **[Related]** V. Reiner, V. Welker. *On the Charney–Davis and Neggers–Stanley conjectures.* Journal of Combinatorial Theory Series A **109** (2005), 247–280.
-- **[Related]** A. Frohmader. *Face vectors of flag complexes.* Israel Journal of Mathematics **164** (2008), 153–164.
-- **[Related]** N. Aisbett. *Frankl–Füredi–Kalai inequalities on the $\gamma$-vectors of flag nestohedra.* Discrete & Computational Geometry **51** (2014), 323–336.
-- **[Related]** A. Postnikov, V. Reiner, L. Williams. *Faces of generalized permutohedra.* Documenta Mathematica **13** (2008), 207–273.
+- **[SOTA / Recent]** E. Nevo, T. K. Petersen, B. E. Tenner. *The $\gamma$-vector of a barycentric subdivision.* Journal of Combinatorial Theory Series A **118** (2011), 1364–1380. [DOI](https://doi.org/10.1016/j.jcta.2011.01.001)
+- **[Related]** P. Brändén. *Sign-graded posets, unimodality of $W$-polynomials and the Charney–Davis conjecture.* Electronic Journal of Combinatorics **11**(2) (2004), #R9. [DOI](https://doi.org/10.37236/1866)
+- **[Related]** V. Reiner, V. Welker. *On the Charney–Davis and Neggers–Stanley conjectures.* Journal of Combinatorial Theory Series A **109** (2005), 247–280. [DOI](https://doi.org/10.1016/j.jcta.2004.09.003)
+- **[Related]** A. Frohmader. *Face vectors of flag complexes.* Israel Journal of Mathematics **164** (2008), 153–164. [DOI](https://doi.org/10.1007/s11856-008-0024-3)
+- **[Related]** N. Aisbett. *Frankl–Füredi–Kalai inequalities on the $\gamma$-vectors of flag nestohedra.* Discrete & Computational Geometry **51** (2014), 323–336. [DOI](https://doi.org/10.1007/s00454-013-9567-0)
+- **[Related]** A. Postnikov, V. Reiner, L. Williams. *Faces of generalized permutohedra.* Documenta Mathematica **13** (2008), 207–273. [DOI](https://doi.org/10.4171/dm/248)
 
 ## 10. Worked Example / Concrete Special Case
 

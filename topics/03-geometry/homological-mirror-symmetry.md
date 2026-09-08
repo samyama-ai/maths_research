@@ -110,22 +110,22 @@ defined for every Calabi–Yau $X$ with a suitable degeneration, together with a
 
 ## 9. Key References
 
-- **[Foundational]** M. Kontsevich. *Homological Algebra of Mirror Symmetry.* Proceedings of the International Congress of Mathematicians (Zürich, 1994), Birkhäuser, 1995, 120–139.
+- **[Foundational]** M. Kontsevich. *Homological Algebra of Mirror Symmetry.* Proceedings of the International Congress of Mathematicians (Zürich, 1994), Birkhäuser, 1995, 120–139. [DOI](https://doi.org/10.1007/978-3-0348-9078-6_11)
 - **[Foundational]** A. Strominger, S.-T. Yau, E. Zaslow. *Mirror Symmetry is T-Duality.* Nuclear Physics B 479 (1996), 243–259.
-- **[Foundational]** A. Polishchuk, E. Zaslow. *Categorical Mirror Symmetry: the Elliptic Curve.* Advances in Theoretical and Mathematical Physics 2 (1998), 443–470.
+- **[Foundational]** A. Polishchuk, E. Zaslow. *Categorical Mirror Symmetry: the Elliptic Curve.* Advances in Theoretical and Mathematical Physics 2 (1998), 443–470. [DOI](https://doi.org/10.4310/atmp.1998.v2.n2.a9)
 - **[Foundational]** K. Fukaya, Y.-G. Oh, H. Ohta, K. Ono. *Lagrangian Intersection Floer Theory: Anomaly and Obstruction, I & II.* AMS/IP Studies in Advanced Mathematics 46, 2009.
-- **[Foundational]** P. Seidel. *Fukaya Categories and Picard–Lefschetz Theory.* Zurich Lectures in Advanced Mathematics, EMS, 2008.
-- **[SOTA]** P. Seidel. *Homological Mirror Symmetry for the Quartic Surface.* Memoirs of the American Mathematical Society 236 (1116), 2015.
-- **[SOTA]** N. Sheridan. *Homological Mirror Symmetry for Calabi–Yau Hypersurfaces in Projective Space.* Inventiones Mathematicae 199 (2015), 1–186.
-- **[SOTA]** N. Sheridan, I. Smith. *Homological Mirror Symmetry for Generalized Greene–Plesser Mirrors.* Inventiones Mathematicae 224 (2021), 627–682.
-- **[SOTA]** M. Abouzaid, I. Smith. *Homological Mirror Symmetry for the 4-Torus.* Duke Mathematical Journal 152 (2010), 373–440.
-- **[SOTA]** M. Abouzaid, D. Auroux, A. Efimov, L. Katzarkov, D. Orlov. *Homological Mirror Symmetry for Punctured Spheres.* Journal of the AMS 26 (2013), 1051–1083.
-- **[SOTA]** S. Ganatra, J. Pardon, V. Shende. *Sectorial Descent for Wrapped Fukaya Categories.* Journal of the AMS 37 (2024), 499–635.
-- **[SOTA]** M. Abouzaid. *A Geometric Criterion for Generating the Fukaya Category.* Publications Mathématiques de l'IHÉS 112 (2010), 191–240.
-- **[SOTA]** M. Gross, B. Siebert. *From Real Affine Geometry to Complex Geometry.* Annals of Mathematics 174 (2011), 1301–1428.
+- **[Foundational]** P. Seidel. *Fukaya Categories and Picard–Lefschetz Theory.* Zurich Lectures in Advanced Mathematics, EMS, 2008. [DOI](https://doi.org/10.4171/063)
+- **[SOTA]** P. Seidel. *Homological Mirror Symmetry for the Quartic Surface.* Memoirs of the American Mathematical Society 236 (1116), 2015. [DOI](https://doi.org/10.1090/memo/1116)
+- **[SOTA]** N. Sheridan. *Homological Mirror Symmetry for Calabi–Yau Hypersurfaces in Projective Space.* Inventiones Mathematicae 199 (2015), 1–186. [DOI](https://doi.org/10.1007/s00222-014-0507-2)
+- **[SOTA]** N. Sheridan, I. Smith. *Homological Mirror Symmetry for Generalized Greene–Plesser Mirrors.* Inventiones Mathematicae 224 (2021), 627–682. [DOI](https://doi.org/10.1007/s00222-020-01018-w)
+- **[SOTA]** M. Abouzaid, I. Smith. *Homological Mirror Symmetry for the 4-Torus.* Duke Mathematical Journal 152 (2010), 373–440. [DOI](https://doi.org/10.1215/00127094-2010-015)
+- **[SOTA]** M. Abouzaid, D. Auroux, A. Efimov, L. Katzarkov, D. Orlov. *Homological Mirror Symmetry for Punctured Spheres.* Journal of the AMS 26 (2013), 1051–1083. [DOI](https://doi.org/10.1090/s0894-0347-2013-00770-5)
+- **[SOTA]** S. Ganatra, J. Pardon, V. Shende. *Sectorial Descent for Wrapped Fukaya Categories.* Journal of the AMS 37 (2024), 499–635. [DOI](https://doi.org/10.1090/jams/1035)
+- **[SOTA]** M. Abouzaid. *A Geometric Criterion for Generating the Fukaya Category.* Publications Mathématiques de l'IHÉS 112 (2010), 191–240. [DOI](https://doi.org/10.1007/s10240-010-0028-5)
+- **[SOTA]** M. Gross, B. Siebert. *From Real Affine Geometry to Complex Geometry.* Annals of Mathematics 174 (2011), 1301–1428. [DOI](https://doi.org/10.4007/annals.2011.174.3.1)
 - **[Survey]** K. Hori, S. Katz, A. Klemm, R. Pandharipande, R. Thomas, C. Vafa, R. Vakil, E. Zaslow. *Mirror Symmetry.* Clay Mathematics Monographs 1, AMS, 2003.
-- **[Survey]** D. Auroux. *A Beginner's Introduction to Fukaya Categories.* In: Contact and Symplectic Topology, Bolyai Society Mathematical Studies 26, Springer, 2014, 85–136.
-- **[Survey]** M. Gross. *Tropical Geometry and Mirror Symmetry.* CBMS Regional Conference Series in Mathematics 114, AMS, 2011.
+- **[Survey]** D. Auroux. *A Beginner's Introduction to Fukaya Categories.* In: Contact and Symplectic Topology, Bolyai Society Mathematical Studies 26, Springer, 2014, 85–136. [DOI](https://doi.org/10.1007/978-3-319-02036-5_3)
+- **[Survey]** M. Gross. *Tropical Geometry and Mirror Symmetry.* CBMS Regional Conference Series in Mathematics 114, AMS, 2011. [DOI](https://doi.org/10.1090/cbms/114)
 
 ## 10. Worked Example / Concrete Special Case
 

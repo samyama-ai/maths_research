@@ -108,18 +108,18 @@ Two sub-obstructions: (i) an inverse-limit problem — holomorphic convexity is 
 ## 9. Key References
 
 - **[Foundational]** I. R. Shafarevich. *Basic Algebraic Geometry.* Springer, 1974 (Russian original: Nauka, 1972). — the original question.
-- **[Foundational]** J. Kollár. *Shafarevich maps and plurigenera of algebraic varieties.* Inventiones Mathematicae 113 (1993), 177–215.
+- **[Foundational]** J. Kollár. *Shafarevich maps and plurigenera of algebraic varieties.* Inventiones Mathematicae 113 (1993), 177–215. [DOI](https://doi.org/10.1007/bf01244307)
 - **[Foundational]** J. Kollár. *Shafarevich Maps and Automorphic Forms.* Princeton University Press, 1995.
-- **[Foundational]** F. Campana. *Remarques sur le revêtement universel des variétés kählériennes compactes.* Bulletin de la Société Mathématique de France 122 (1994), 255–284.
-- **[Foundational]** T. Napier. *Convexity properties of coverings of smooth projective varieties.* Mathematische Annalen 286 (1990), 433–479.
-- **[SOTA]** P. Eyssidieux, L. Katzarkov, T. Pantev, M. Ramachandran. *Linear Shafarevich conjecture.* Annals of Mathematics 176 (2012), 1545–1581.
-- **[SOTA]** P. Eyssidieux. *Sur la convexité holomorphe des revêtements linéaires réductifs d'une variété projective algébrique complexe.* Inventiones Mathematicae 156 (2004), 503–564.
-- **[SOTA]** L. Katzarkov, M. Ramachandran. *On the universal coverings of algebraic surfaces.* Annales Scientifiques de l'École Normale Supérieure 31 (1998), 525–535.
+- **[Foundational]** F. Campana. *Remarques sur le revêtement universel des variétés kählériennes compactes.* Bulletin de la Société Mathématique de France 122 (1994), 255–284. [DOI](https://doi.org/10.24033/bsmf.2232)
+- **[Foundational]** T. Napier. *Convexity properties of coverings of smooth projective varieties.* Mathematische Annalen 286 (1990), 433–479. [DOI](https://doi.org/10.1007/bf01453583)
+- **[SOTA]** P. Eyssidieux, L. Katzarkov, T. Pantev, M. Ramachandran. *Linear Shafarevich conjecture.* Annals of Mathematics 176 (2012), 1545–1581. [DOI](https://doi.org/10.4007/annals.2012.176.3.4)
+- **[SOTA]** P. Eyssidieux. *Sur la convexité holomorphe des revêtements linéaires réductifs d'une variété projective algébrique complexe.* Inventiones Mathematicae 156 (2004), 503–564. [DOI](https://doi.org/10.1007/s00222-003-0345-0)
+- **[SOTA]** L. Katzarkov, M. Ramachandran. *On the universal coverings of algebraic surfaces.* Annales Scientifiques de l'École Normale Supérieure 31 (1998), 525–535. [DOI](https://doi.org/10.1016/s0012-9593(98)80105-5)
 - **[SOTA / Recent]** Y. Deng, K. Yamanoi. *Reductive Shafarevich conjecture.* arXiv:2306.03070, 2023.
-- **[Context]** D. Toledo. *Projective varieties with non-residually finite fundamental group.* Publications Mathématiques de l'IHÉS 77 (1993), 103–119.
-- **[Context]** T. Napier, M. Ramachandran. *Structure theorems for complete Kähler manifolds and applications to Lefschetz type theorems.* Geometric and Functional Analysis 5 (1995), 809–851.
+- **[Context]** D. Toledo. *Projective varieties with non-residually finite fundamental group.* Publications Mathématiques de l'IHÉS 77 (1993), 103–119. [DOI](https://doi.org/10.1007/bf02699189)
+- **[Context]** T. Napier, M. Ramachandran. *Structure theorems for complete Kähler manifolds and applications to Lefschetz type theorems.* Geometric and Functional Analysis 5 (1995), 809–851. [DOI](https://doi.org/10.1007/bf01897052)
 - **[Survey]** J. Amorós, M. Burger, K. Corlette, D. Kotschick, D. Toledo. *Fundamental Groups of Compact Kähler Manifolds.* AMS Mathematical Surveys and Monographs 44, 1996.
-- **[Survey]** C. Simpson. *Higgs bundles and local systems.* Publications Mathématiques de l'IHÉS 75 (1992), 5–95.
+- **[Survey]** C. Simpson. *Higgs bundles and local systems.* Publications Mathématiques de l'IHÉS 75 (1992), 5–95. [DOI](https://doi.org/10.1007/bf02699491)
 
 ## 10. Worked Example / Concrete Special Case
 

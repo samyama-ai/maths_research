@@ -115,16 +115,16 @@ For the conjecture **as stated**, there is no gap: $u(T_{p,q}) = (p-1)(q-1)/2$ i
 - **[Foundational]** Milnor, J. *Singular Points of Complex Hypersurfaces.* Annals of Mathematics Studies 61, Princeton University Press, 1968.
 - **[Foundational]** Boileau, M., Weber, C. *Le problème de J. Milnor sur le nombre gordien des nœuds algébriques.* L'Enseignement Mathématique 30 (1984), 173–222.
 - **[Foundational]** Bennequin, D. *Entrelacements et équations de Pfaff.* Astérisque 107–108 (1983), 87–161.
-- **[Solution]** Kronheimer, P. B., Mrowka, T. S. *Gauge theory for embedded surfaces, I.* Topology 32 (1993), 773–826.
-- **[Solution]** Kronheimer, P. B., Mrowka, T. S. *The genus of embedded surfaces in the projective plane.* Mathematical Research Letters 1 (1994), 797–808.
-- **[SOTA]** Rasmussen, J. *Khovanov homology and the slice genus.* Inventiones Mathematicae 182 (2010), 419–447.
-- **[SOTA]** Ozsváth, P., Szabó, Z. *Knot Floer homology and the four-ball genus.* Geometry & Topology 7 (2003), 615–639.
+- **[Solution]** Kronheimer, P. B., Mrowka, T. S. *Gauge theory for embedded surfaces, I.* Topology 32 (1993), 773–826. [DOI](https://doi.org/10.1016/0040-9383(93)90051-v)
+- **[Solution]** Kronheimer, P. B., Mrowka, T. S. *The genus of embedded surfaces in the projective plane.* Mathematical Research Letters 1 (1994), 797–808. [DOI](https://doi.org/10.4310/mrl.1994.v1.n6.a14)
+- **[SOTA]** Rasmussen, J. *Khovanov homology and the slice genus.* Inventiones Mathematicae 182 (2010), 419–447. [DOI](https://doi.org/10.1007/s00222-010-0275-6)
+- **[SOTA]** Ozsváth, P., Szabó, Z. *Knot Floer homology and the four-ball genus.* Geometry & Topology 7 (2003), 615–639. [DOI](https://doi.org/10.2140/gt.2003.7.615)
 - **[SOTA]** Lobb, A. *A slice genus lower bound from $sl(n)$ Khovanov–Rozansky homology.* Advances in Mathematics 222 (2009), 1220–1276.
-- **[SOTA]** Baader, S., Feller, P., Lewark, L., Liechti, L. *On the topological 4-genus of torus knots.* Transactions of the American Mathematical Society 370 (2018), 2639–2656.
-- **[Recent]** Feller, P. *The degree of the Alexander polynomial is an upper bound for the topological slice genus.* Geometry & Topology 20 (2016), 1763–1771.
+- **[SOTA]** Baader, S., Feller, P., Lewark, L., Liechti, L. *On the topological 4-genus of torus knots.* Transactions of the American Mathematical Society 370 (2018), 2639–2656. [DOI](https://doi.org/10.1090/tran/7051)
+- **[Recent]** Feller, P. *The degree of the Alexander polynomial is an upper bound for the topological slice genus.* Geometry & Topology 20 (2016), 1763–1771. [DOI](https://doi.org/10.2140/gt.2016.20.1763)
 - **[Recent]** Lewark, L. *Rasmussen's spectral sequences and the $\mathfrak{sl}_N$-concordance invariants.* Advances in Mathematics 260 (2014), 59–83.
-- **[Survey]** Rudolph, L. *Quasipositivity as an obstruction to sliceness.* Bulletin of the AMS 29 (1993), 51–59.
-- **[Survey]** Livingston, C. *A survey of classical knot concordance.* In: Handbook of Knot Theory, Elsevier, 2005, 319–347.
+- **[Survey]** Rudolph, L. *Quasipositivity as an obstruction to sliceness.* Bulletin of the AMS 29 (1993), 51–59. [DOI](https://doi.org/10.1090/s0273-0979-1993-00397-5)
+- **[Survey]** Livingston, C. *A survey of classical knot concordance.* In: Handbook of Knot Theory, Elsevier, 2005, 319–347. [DOI](https://doi.org/10.1016/b978-044451452-3/50008-3)
 - **[Survey]** Gambaudo, J.-M., Ghys, É. *Braids and signatures.* Bulletin de la Société Mathématique de France 133 (2005), 541–579.
 
 ## 10. Worked Example / Concrete Special Case

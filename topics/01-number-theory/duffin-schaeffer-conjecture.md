@@ -91,10 +91,10 @@ Leading researchers emphasize several open pathways built on the ashes of the Du
 ## 9. Key References
 
 - **[Foundational]** R. J. Duffin, A. C. Schaeffer. *Khintchine's problem in metric Diophantine approximation.* Duke Mathematical Journal, 1941.
-- **[Foundational]** A. Khinchin. *Einige Sätze über Kettenbrüche, mit Anwendungen auf die Theorie der Diophantischen Approximationen.* Mathematische Annalen, 1924.
-- **[SOTA / Recent]** D. Koukoulopoulos, J. Maynard. *On the Duffin-Schaeffer conjecture.* Annals of Mathematics, 2020.
-- **[Survey]** G. Harman. *Metric Number Theory.* LMS Monographs, 1998.
-- **[Survey]** A. Pollington, R. C. Vaughan. *The k-dimensional Duffin and Schaeffer conjecture.* Journal de Théorie des Nombres de Bordeaux, 1990.
+- **[Foundational]** A. Khinchin. *Einige Sätze über Kettenbrüche, mit Anwendungen auf die Theorie der Diophantischen Approximationen.* Mathematische Annalen, 1924. [DOI](https://doi.org/10.1007/bf01448437)
+- **[SOTA / Recent]** D. Koukoulopoulos, J. Maynard. *On the Duffin-Schaeffer conjecture.* Annals of Mathematics, 2020. [DOI](https://doi.org/10.4007/annals.2020.192.1.5)
+- **[Survey]** G. Harman. *Metric Number Theory.* LMS Monographs, 1998. [DOI](https://doi.org/10.1093/oso/9780198500834.001.0001)
+- **[Survey]** A. Pollington, R. C. Vaughan. *The k-dimensional Duffin and Schaeffer conjecture.* Journal de Théorie des Nombres de Bordeaux, 1990. [DOI](https://doi.org/10.1112/s0025579300012900)
 
 ## 10. Worked Example / Concrete Special Case
 

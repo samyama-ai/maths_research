@@ -102,19 +102,19 @@ Open: for a single non-square $r \ge 10$, exclude curves of unbounded multiplici
 
 ## 9. Key References
 
-- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics **81** (1959), 766–772.
-- **[Foundational]** P. Biran. *A stability property of symplectic packing.* Inventiones Mathematicae **136** (1999), 123–155.
-- **[Foundational]** P. Biran. *Constructing new ample divisors out of old ones.* Duke Mathematical Journal **98** (1999), 113–135.
-- **[Foundational]** D. McDuff, L. Polterovich. *Symplectic packings and algebraic geometry.* Inventiones Mathematicae **115** (1994), 405–429.
+- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics **81** (1959), 766–772. [DOI](https://doi.org/10.2307/2372927)
+- **[Foundational]** P. Biran. *A stability property of symplectic packing.* Inventiones Mathematicae **136** (1999), 123–155. [DOI](https://doi.org/10.1007/s002220050306)
+- **[Foundational]** P. Biran. *Constructing new ample divisors out of old ones.* Duke Mathematical Journal **98** (1999), 113–135. [DOI](https://doi.org/10.1215/s0012-7094-99-09803-4)
+- **[Foundational]** D. McDuff, L. Polterovich. *Symplectic packings and algebraic geometry.* Inventiones Mathematicae **115** (1994), 405–429. [DOI](https://doi.org/10.1007/bf01231766)
 - **[Foundational]** G. Xu. *Curves in $\mathbb{P}^2$ and symplectic packings.* Mathematische Annalen **299** (1994), 609–613.
-- **[Foundational]** G. Xu. *Ample line bundles on smooth surfaces.* Journal für die reine und angewandte Mathematik **469** (1995), 199–209.
-- **[Survey]** T. Bauer, S. Di Rocco, B. Harbourne, M. Kapustka, A. Knutsen, W. Syzdek, T. Szemberg. *A primer on Seshadri constants.* Contemporary Mathematics **496**, AMS (2009), 33–70.
-- **[Survey]** R. Lazarsfeld. *Positivity in Algebraic Geometry I.* Ergebnisse der Mathematik 48, Springer, 2004 (Chapter 5).
-- **[Survey]** P. Biran. *From symplectic packing to algebraic geometry and back.* European Congress of Mathematics, Vol. II (Barcelona, 2000), Progress in Mathematics 202, Birkhäuser (2001), 507–524.
-- **[SOTA / Recent]** C. Ciliberto, R. Miranda. *Linear systems of plane curves with base points of equal multiplicity.* Transactions of the AMS **352** (2000), 4037–4050.
+- **[Foundational]** G. Xu. *Ample line bundles on smooth surfaces.* Journal für die reine und angewandte Mathematik **469** (1995), 199–209. [DOI](https://doi.org/10.1515/crll.1995.469.199)
+- **[Survey]** T. Bauer, S. Di Rocco, B. Harbourne, M. Kapustka, A. Knutsen, W. Syzdek, T. Szemberg. *A primer on Seshadri constants.* Contemporary Mathematics **496**, AMS (2009), 33–70. [DOI](https://doi.org/10.1090/conm/496/09718)
+- **[Survey]** R. Lazarsfeld. *Positivity in Algebraic Geometry I.* Ergebnisse der Mathematik 48, Springer, 2004 (Chapter 5). [DOI](https://doi.org/10.1007/978-3-642-18808-4)
+- **[Survey]** P. Biran. *From symplectic packing to algebraic geometry and back.* European Congress of Mathematics, Vol. II (Barcelona, 2000), Progress in Mathematics 202, Birkhäuser (2001), 507–524. [DOI](https://doi.org/10.1007/978-3-0348-8266-8_44)
+- **[SOTA / Recent]** C. Ciliberto, R. Miranda. *Linear systems of plane curves with base points of equal multiplicity.* Transactions of the AMS **352** (2000), 4037–4050. [DOI](https://doi.org/10.1090/s0002-9947-00-02416-8)
 - **[SOTA / Recent]** M. Dumnicki, W. Jarnicki. *New effective bounds on the dimension of a linear system in $\mathbb{P}^2$.* Journal of Symbolic Computation **42** (2007), 621–635.
-- **[SOTA / Recent]** B. Harbourne, J. Roé. *Discrete behavior of Seshadri constants on surfaces.* Journal of Pure and Applied Algebra **212** (2008), 616–627.
-- **[SOTA / Recent]** O. Buse, M. Pinsonnault. *Packing numbers of rational ruled four-manifolds.* Journal of Symplectic Geometry **11** (2013), 269–316.
+- **[SOTA / Recent]** B. Harbourne, J. Roé. *Discrete behavior of Seshadri constants on surfaces.* Journal of Pure and Applied Algebra **212** (2008), 616–627. [DOI](https://doi.org/10.1016/j.jpaa.2007.06.018)
+- **[SOTA / Recent]** O. Buse, M. Pinsonnault. *Packing numbers of rational ruled four-manifolds.* Journal of Symplectic Geometry **11** (2013), 269–316. [DOI](https://doi.org/10.4310/jsg.2013.v11.n2.a5)
 
 ## 10. Worked Example / Concrete Special Case
 

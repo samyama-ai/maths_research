@@ -85,9 +85,9 @@ Another key strategy is the investigation of morphic words and block substitutio
 
 ## 9. Key References
 
-- **[Foundational]** Borel, Émile. *Les probabilités dénombrables et leurs applications arithmétiques*. Rendiconti del Circolo Matematico di Palermo, 1909.
-- **[Foundational]** Bailey, David H., and Richard E. Crandall. *On the random character of fundamental constant expansions*. Experimental Mathematics, 2001.
-- **[SOTA / Recent]** Adamczewski, Boris, and Yann Bugeaud. *On the complexity of algebraic numbers I. Expansions in integer bases*. Annals of Mathematics, 2007.
+- **[Foundational]** Borel, Émile. *Les probabilités dénombrables et leurs applications arithmétiques*. Rendiconti del Circolo Matematico di Palermo, 1909. [DOI](https://doi.org/10.1007/bf03019651)
+- **[Foundational]** Bailey, David H., and Richard E. Crandall. *On the random character of fundamental constant expansions*. Experimental Mathematics, 2001. [DOI](https://doi.org/10.1080/10586458.2001.10504441)
+- **[SOTA / Recent]** Adamczewski, Boris, and Yann Bugeaud. *On the complexity of algebraic numbers I. Expansions in integer bases*. Annals of Mathematics, 2007. [DOI](https://doi.org/10.4007/annals.2007.165.547)
 - **[Survey]** Bugeaud, Yann. *Distribution modulo one and Diophantine approximation*. Cambridge Tracts in Mathematics (No. 193), Cambridge University Press, 2012.
 
 ## 10. Worked Example / Concrete Special Case

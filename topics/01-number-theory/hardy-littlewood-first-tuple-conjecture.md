@@ -79,11 +79,11 @@ Leading analytic number theorists point toward the Elliott-Halberstam (EH) conje
 
 ## 9. Key References
 
-- **[Foundational]** Hardy, G. H., & Littlewood, J. E. *Some problems of ‘Partitio numerorum’; III: On the expression of a number as a sum of primes.* Acta Mathematica, 1923.
-- **[Foundational]** Bateman, P. T., & Horn, R. A. *A heuristic asymptotic formula concerning the distribution of prime numbers.* Mathematics of Computation, 1962.
+- **[Foundational]** Hardy, G. H., & Littlewood, J. E. *Some problems of ‘Partitio numerorum’; III: On the expression of a number as a sum of primes.* Acta Mathematica, 1923. [DOI](https://doi.org/10.1007/bf02403921)
+- **[Foundational]** Bateman, P. T., & Horn, R. A. *A heuristic asymptotic formula concerning the distribution of prime numbers.* Mathematics of Computation, 1962. [DOI](https://doi.org/10.1090/s0025-5718-1962-0148632-7)
 - **[SOTA / Recent]** Zhang, Y. *Bounded gaps between primes.* Annals of Mathematics, 2014.
-- **[SOTA / Recent]** Maynard, J. *Small gaps between primes.* Annals of Mathematics, 2015.
-- **[Survey]** Granville, A. *Primes in intervals of bounded length.* Bulletin of the American Mathematical Society, 2015.
+- **[SOTA / Recent]** Maynard, J. *Small gaps between primes.* Annals of Mathematics, 2015. [DOI](https://doi.org/10.4007/annals.2015.181.1.7)
+- **[Survey]** Granville, A. *Primes in intervals of bounded length.* Bulletin of the American Mathematical Society, 2015. [DOI](https://doi.org/10.1090/s0273-0979-2015-01480-1)
 - **[Survey]** Soundararajan, K. *Small gaps between prime numbers: The work of Goldston-Pintz-Yıldırım.* Bulletin of the American Mathematical Society, 2007.
 
 ## 10. Worked Example / Concrete Special Case

@@ -1,0 +1,162 @@
+---
+id: 08-logic-set-theory/borel-cardinality-of-group-orbit-equivalence
+title: "The Amenability Problem for Definable Group Actions and Borel Cardinality"
+topic: 08-logic-set-theory
+status: open
+first_added: 2026-09
+last_reviewed: 2026-09
+last_substantive_update: 2026-09
+stale_since: ""
+provenance: synthesized
+---
+
+# The Amenability Problem for Definable Group Actions and Borel Cardinality
+
+> **Topic:** Mathematical Logic & Set Theory · **ID:** `08-logic-set-theory/borel-cardinality-of-group-orbit-equivalence` · **Status:** open
+
+## 1. Problem Statement / Conjecture
+
+Let $\Gamma$ be a countable discrete group acting in a Borel way on a standard Borel space $X$, and let
+$$E^X_\Gamma = \{(x,y) \in X\times X : \exists \gamma\in\Gamma\ \ \gamma\cdot x = y\}$$
+be the induced orbit equivalence relation. The problem, in three linked forms:
+
+**(A) Weiss's problem (1984).** If $\Gamma$ is amenable, is $E^X_\Gamma$ always *hyperfinite*, i.e. an increasing union of Borel equivalence relations with finite classes?
+
+**(B) The amenability problem (Jackson–Kechris–Louveau).** Is every *Borel-amenable* countable Borel equivalence relation hyperfinite? Borel amenability is the definable analogue of the Følner condition (Section 2); it is implied by (but not obviously equivalent to) amenability of the acting group.
+
+**(C) Borel-cardinality form.** Is it true that for amenable $\Gamma$, $E^X_\Gamma \le_B E_0$, where $E_0$ is eventual equality on $2^{\mathbb N}$ and $\le_B$ is Borel reducibility? Equivalently: does the Borel cardinality $|X/E^X_\Gamma|_B$ never exceed $|2^{\mathbb N}/E_0|_B$?
+
+A complete solution is either a proof of (A)/(B) in ZFC, or a Borel action of a specific amenable group (a solvable group, or a group of intermediate growth) whose orbit equivalence relation is proved not Borel reducible to $E_0$. The measure-theoretic and category-theoretic analogues are **theorems** (Ornstein–Weiss; Connes–Feldman–Weiss; Sullivan–Weiss–Wright), so any counterexample must be invisible to every Borel probability measure and to Baire category — that is the whole difficulty.
+
+## 2. Mathematical Foundations
+
+**Standard Borel spaces and reducibility.** $X$ is standard Borel if its $\sigma$-algebra comes from a Polish topology. For equivalence relations $E$ on $X$, $F$ on $Y$, a *Borel reduction* is a Borel $f:X\to Y$ with
+$$x\,E\,x' \iff f(x)\,F\,f(x'),$$
+written $E\le_B F$; $E\sim_B F$ if both directions hold. $|X/E|_B$ denotes the $\le_B$-degree, the "Borel cardinality" of the quotient.
+
+**Benchmarks.**
+- $\Delta_{\mathbb R}$: equality on $\mathbb R$. $E$ is *smooth* iff $E\le_B\Delta_{\mathbb R}$.
+- $E_0$ on $2^{\mathbb N}$: $x\,E_0\,y \iff \exists N\ \forall n\ge N\ x_n=y_n$. This is the orbit equivalence relation of the odometer $\mathbb Z$-action.
+- $E_1$ on $(2^{\mathbb N})^{\mathbb N}$: eventual equality of sequences.
+- $E_\infty$: the universal countable Borel equivalence relation, realized by the shift of $F_2$ on $2^{F_2}$.
+
+**Feldman–Moore (1977).** $E$ is a countable Borel equivalence relation (all classes countable) iff $E=E^X_\Gamma$ for some Borel action of a countable group $\Gamma$.
+
+**Harrington–Kechris–Louveau dichotomy (1990).** For Borel $E$: either $E$ is smooth, or $E_0\le_B E$. So $E_0$ is the immediate successor of $\Delta_{\mathbb R}$.
+
+**Dougherty–Jackson–Kechris (1994).** For countable Borel $E$, the following are equivalent: $E$ is hyperfinite; $E\le_B E_0$; $E=E^X_{\mathbb Z}$ for some Borel $\mathbb Z$-action. Hyperfiniteness is closed under subrelations, finite index extensions, countable disjoint unions, and Borel reducibility.
+
+**Borel amenability.** $E$ is amenable (Jackson–Kechris–Louveau, after Kaimanovich) if there is a sequence of Borel assignments $x\mapsto \lambda^x_n \in \mathrm{Prob}([x]_E)$ with
+$$\lim_{n\to\infty}\ \bigl\|\lambda^x_n-\lambda^y_n\bigr\|_1 = 0 \quad\text{for all } (x,y)\in E .$$
+If $\Gamma$ is amenable with Følner sets $F_n$, then $\lambda^x_n = $ pushforward of the uniform measure on $F_n$ witnesses amenability of $E^X_\Gamma$. So (A) is a special case of (B).
+
+**Measure/category localizations.** $E$ is $\mu$-hyperfinite if $E\restriction X\setminus N$ is hyperfinite for some $\mu$-null $N$; *measure-hyperfinite* if this holds for every Borel probability $\mu$; *generically hyperfinite* if it holds off a meager set.
+
+**Borel asymptotic dimension (CJMST-D).** $E$ has $\mathrm{asdim}_B(E)\le d$ if for every "scale" (finite symmetric $S\subseteq\Gamma$) there is a Borel cover of $X$ by $d+1$ families of uniformly $S$-bounded, $S$-separated pieces. Finite Borel asymptotic dimension $\Rightarrow$ hyperfinite.
+
+## 3. History & State of the Art (SOTA)
+
+- **1959 — Dye.** Any two ergodic measure-preserving $\mathbb Z$-actions are orbit equivalent; the birth of the hyperfinite class.
+- **1980 — Ornstein–Weiss.** Every measure-preserving action of a countable amenable group is, mod null, generated by a single transformation.
+- **1981 — Connes–Feldman–Weiss.** Amenable measured equivalence relations are hyperfinite mod null. Combined with Ornstein–Weiss this settles the measure-theoretic form of (A)–(B) completely.
+- **1984 — Weiss, "Measurable dynamics".** Explicitly asks the purely Borel version; also proves the $\mathbb Z$ case (independently obtained by Slaman–Steel, published 1988 via a degree-theoretic marker argument).
+- **1986 — Sullivan–Weiss–Wright.** Every countable Borel equivalence relation is hyperfinite on a comeager invariant set. Category form of (A) is a theorem, for *all* $\Gamma$.
+- **1994 — Dougherty–Jackson–Kechris.** Complete structure theory of hyperfinite relations; classification up to Borel isomorphism by number of invariant measures and class sizes.
+- **2000 — Adams–Kechris.** Using Zimmer/Margulis superrigidity, continuum many pairwise $\le_B$-incomparable countable Borel equivalence relations: the $\le_B$-order is wild above $E_0$, which is why the sharpness of the $E_0$ ceiling matters.
+- **2002 — Jackson–Kechris–Louveau.** The reference paper for the problem; proves hyperfiniteness for finitely generated groups of polynomial growth, isolates the amenability problem and the union problem.
+- **2015 — Gao–Jackson.** All countable **abelian** groups: $E^X_\Gamma$ hyperfinite.
+- **2023 — Conley–Jackson–Marks–Seward–Tucker-Drob.** Borel asymptotic dimension; hyperfiniteness for actions of polycyclic groups and, more generally, for relations of finite Borel asymptotic dimension.
+
+The problem is open for exponential-growth amenable groups such as the lamplighter $\mathbb Z_2\wr\mathbb Z$, for $\mathbb Z\wr\mathbb Z$, and for the Grigorchuk group of intermediate growth.
+
+## 4. Partial Results / Verified Cases
+
+| Class of $\Gamma$ / relation | Status | Source |
+|---|---|---|
+| $\Gamma=\mathbb Z$ (any Borel action) | hyperfinite | Weiss 1984; Slaman–Steel 1988 |
+| $\Gamma=\mathbb Z^n$, all $n$ | hyperfinite | JKL 2002 |
+| f.g. of polynomial growth (virtually nilpotent, Gromov) | hyperfinite | JKL 2002 |
+| all countable **abelian** groups | hyperfinite | Gao–Jackson, *Invent. Math.* 201 (2015) |
+| locally nilpotent | hyperfinite | Schneider–Seward (preprint, 2013) |
+| polycyclic; $\mathrm{asdim}_B<\infty$ | hyperfinite | CJMST-D, *Duke* 172 (2023) |
+| locally finite $\Gamma$ | hyperfinite (immediate from the definition) | folklore |
+| any $\Gamma$, restricted to a comeager set | hyperfinite | Sullivan–Weiss–Wright 1986 |
+| any amenable $\Gamma$, mod every Borel prob. measure | measure-hyperfinite | Ornstein–Weiss 1980; CFW 1981 |
+| any amenable $\Gamma$ | Borel-amenable | JKL 2002 |
+
+So for amenable $\Gamma$ the target $E^X_\Gamma\le_B E_0$ is known to hold after deleting a null set (for every measure) and after deleting a meager set, and it holds outright through Hirsch length / polynomial-growth-type parameters: solvable groups of derived length $\le 2$ with finitely generated abelianization are covered by the polycyclic case, while $\mathbb Z\wr\mathbb Z$ (derived length 2, not polycyclic) is not.
+
+## 5. Principal Obstacles
+
+- **No Følner set is Borel-choosable coherently.** The Ornstein–Weiss tiling argument selects Følner patches by an exhaustion that discards a null set at each of infinitely many stages. In the Borel category there is no null ideal to absorb the error, and the residual set can be a full non-meager, non-null Borel set on which the construction says nothing.
+- **Marker arguments degrade with growth.** The proof for $\mathbb Z$ uses a decreasing sequence of Borel complete sections with unbounded gaps. For $\mathbb Z^n$ the marker regions must be cut into rectangles with controlled boundary; the combinatorial cost grows with $n$ and the Gao–Jackson machinery (orthogonal marker regions, "hyperaperiodic" elements) is already extremely delicate. For exponential growth the boundary-to-volume ratio of any Borel-definable tile cannot be made to vanish uniformly.
+- **Asymptotic dimension is not an amenability invariant.** $\mathrm{asdim}(\mathbb Z_2\wr\mathbb Z)=\infty$, so the 2023 method is silent exactly where the problem now lives.
+- **The union problem blocks bootstrapping.** Whether an increasing union $\bigcup_n E_n$ of hyperfinite Borel relations is hyperfinite is itself open. Every "build $\Gamma$ from smaller pieces" strategy for solvable or locally-something groups runs into it.
+- **Determinacy/effective methods give only local information.** Marks-style game arguments and Slaman–Steel degree arguments produce cone-uniform statements; a cone in the Turing degrees is null and meager, so it is the wrong invariant set for a global Borel construction.
+
+## 6. The Gap
+
+Proven: for amenable $\Gamma$, $E^X_\Gamma$ is Borel-amenable, measure-hyperfinite, and generically hyperfinite; and it is hyperfinite outright for abelian, locally nilpotent, polycyclic, and finite-$\mathrm{asdim}_B$ cases.
+
+Wanted: $E^X_\Gamma\le_B E_0$ with no exceptional set.
+
+The exact step: produce, uniformly in $x$ and Borel in $x$, an exhaustion of each orbit $[x]$ by finite subsets $F_n(x)$ that are (i) increasing with union $[x]$, (ii) *coherent* — $F_n(x)=F_n(y)$ whenever $x\,E\,y$ — with no measure- or category-exceptional set. Equivalently: close the gap between "measure-hyperfinite + generically hyperfinite" and "hyperfinite". No implication of that shape is known for any nonsmooth class; indeed whether *measure-hyperfinite $\Rightarrow$ hyperfinite* is itself a stated open problem (JKL 2002).
+
+## 7. Current Research (as of June 2026)
+
+- **Borel asymptotic dimension beyond finite $\mathrm{asdim}$.** Extending the CJMST-D framework with "asymptotic separation index" and dimension-like invariants that survive wreath products. *(frontier — verify)*
+- **Caltech / UCLA / North Texas / Rutgers school.** Kechris's monograph-length treatment of countable Borel equivalence relations consolidates the amenability, union and measure-hyperfiniteness problems as the three central open questions.
+- **Borel combinatorics transfer.** Bernshteyn's work on Borel/local algorithm correspondence (LOCAL complexity vs. Borel definability) supplies lower-bound techniques that may show a Borel Følner selection is impossible for lamplighter-type groups. *(frontier — verify)*
+- **Polish (non-locally-compact) group side.** Hjorth turbulence and the Becker–Kechris theory bound which orbit equivalence relations of Polish group actions are classifiable by countable structures; the Kechris–Louveau theorem that $E_1\not\le_B$ any Polish-group orbit equivalence relation remains the key rigidity fact and its "amenable-group" strengthenings are actively pursued.
+- **Descriptive graph combinatorics.** Toast constructions and layered orbit-forests, generalizing Gao–Jackson, as a route to countable solvable groups.
+
+## 8. Future Work
+
+1. Settle the lamplighter $\mathbb Z_2\wr\mathbb Z$: the smallest amenable group not covered by any current method.
+2. Prove or refute *measure-hyperfinite $\Rightarrow$ hyperfinite*; a refutation would almost certainly refute (A) as well.
+3. Settle the union problem for increasing unions with uniformly bounded "witness complexity".
+4. Develop a Borel Ornstein–Weiss tiling theorem with explicit definable error control, or prove a formal barrier showing no Borel tiling exists for exponential-growth Følner sequences.
+5. Determine whether Borel amenability is strictly weaker than group amenability at the level of $\le_B$-degrees.
+
+## 9. Key References
+
+- **[Foundational]** J. Feldman and C. C. Moore. *Ergodic equivalence relations, cohomology, and von Neumann algebras I.* Trans. Amer. Math. Soc. 234 (1977), 289–324.
+- **[Foundational]** D. Ornstein and B. Weiss. *Ergodic theory of amenable group actions I: The Rohlin lemma.* Bull. Amer. Math. Soc. 2 (1980), 161–164.
+- **[Foundational]** A. Connes, J. Feldman, B. Weiss. *An amenable equivalence relation is generated by a single transformation.* Ergodic Theory Dynam. Systems 1 (1981), 431–450.
+- **[Foundational]** B. Weiss. *Measurable dynamics.* Contemporary Mathematics 26 (1984), 395–421.
+- **[Foundational]** D. Sullivan, B. Weiss, J. D. M. Wright. *Generic dynamics and monotone complete $C^*$-algebras.* Trans. Amer. Math. Soc. 295 (1986), 795–809.
+- **[Foundational]** L. Harrington, A. S. Kechris, A. Louveau. *A Glimm–Effros dichotomy for Borel equivalence relations.* J. Amer. Math. Soc. 3 (1990), 903–928.
+- **[Foundational]** R. Dougherty, S. Jackson, A. S. Kechris. *The structure of hyperfinite Borel equivalence relations.* Trans. Amer. Math. Soc. 341 (1994), 193–225.
+- **[Foundational]** H. Becker and A. S. Kechris. *The Descriptive Set Theory of Polish Group Actions.* LMS Lecture Note Series 232, Cambridge University Press, 1996.
+- **[Survey]** S. Jackson, A. S. Kechris, A. Louveau. *Countable Borel equivalence relations.* J. Math. Log. 2 (2002), 1–80.
+- **[Survey]** A. S. Kechris and B. D. Miller. *Topics in Orbit Equivalence.* Lecture Notes in Mathematics 1852, Springer, 2004.
+- **[Survey]** G. Hjorth. *Classification and Orbit Equivalence Relations.* Mathematical Surveys and Monographs 75, AMS, 2000.
+- **[SOTA]** S. Gao and S. Jackson. *Countable abelian group actions and hyperfinite equivalence relations.* Invent. Math. 201 (2015), 309–383.
+- **[SOTA]** C. Conley, S. Jackson, A. Marks, B. Seward, R. Tucker-Drob. *Borel asymptotic dimension and hyperfinite equivalence relations.* Duke Math. J. 172 (2023), 3175–3226.
+- **[SOTA]** S. Adams and A. S. Kechris. *Linear algebraic groups and countable Borel equivalence relations.* J. Amer. Math. Soc. 13 (2000), 909–943.
+- **[Context]** A. S. Kechris and A. Louveau. *The classification of hypersmooth Borel equivalence relations.* J. Amer. Math. Soc. 10 (1997), 215–242.
+- **[Reference]** A. S. Kechris. *Classical Descriptive Set Theory.* Graduate Texts in Mathematics 156, Springer, 1995.
+
+## 10. Worked Example / Concrete Special Case
+
+**Case $\Gamma=\mathbb Z$ acting on $X=2^{\mathbb Z}$ by the shift, restricted to the free part $X_{\mathrm{free}}$.** We show $E^X_{\mathbb Z}$ is hyperfinite, then see exactly where the argument dies.
+
+*Step 1 (marker sets).* For each $n$, let
+$$A_n=\{x\in X_{\mathrm{free}} : x\restriction[0,n) = 0^n\},$$
+and set $S_n=\{x : \exists k\ \ k\cdot x\in A_n\ \text{witnessed at }k=0\}$, i.e. $S_n=A_n$. On the free part with no all-zero tail, each $S_n$ meets every orbit in an infinite, bi-infinite set (for $x$ with infinitely many $0^n$-blocks). A standard refinement (replace $A_n$ by a maximal $n$-separated Borel subset of a complete section) produces Borel complete sections $M_n\subseteq X_{\mathrm{free}}$ with:
+- $M_0\supseteq M_1\supseteq\cdots$,
+- consecutive $M_n$-markers in each orbit are at $\mathbb Z$-distance $\ge n$ and $\le 2n$,
+- $\bigcap_n M_n=\emptyset$.
+
+*Step 2 (finite relations).* Each orbit $[x]$, identified with $\mathbb Z$, is cut by $M_n\cap[x]$ into consecutive intervals $I^n_1,I^n_2,\dots$ of length between $n$ and $2n$. Define
+$$x\,F_n\,y \iff x\,E\,y \text{ and } x,y \text{ lie in the same } M_n\text{-interval.}$$
+$F_n$ is Borel with classes of size $\le 2n$, so $F_n$ is a finite Borel equivalence relation.
+
+*Step 3 (increasing union).* Passing to a subsequence where $M_{n+1}\subseteq M_n$, each $M_{n+1}$-interval is a union of $M_n$-intervals, hence $F_n\subseteq F_{n+1}$. Since $\bigcap_n M_n=\emptyset$ and gap lengths $\to\infty$, every pair $x\,E\,y$ eventually lies in one interval, so $\bigcup_n F_n=E^X_{\mathbb Z}$. Therefore $E^X_{\mathbb Z}$ is hyperfinite and $E^X_{\mathbb Z}\le_B E_0$; in fact $E^{2^{\mathbb Z}}_{\mathbb Z}\restriction X_{\mathrm{free}} \sim_B E_0$.
+
+*Step 4 (where it breaks).* Replace $\mathbb Z$ by $\Gamma=\mathbb Z_2\wr\mathbb Z$, with word metric $d_S$. Choose again a maximal $n$-separated Borel section $M_n$. The Voronoi cells of $M_n$ in an orbit are now subsets of the Cayley graph of $\Gamma$, and to build $F_n$ one needs cells that are *nested* across $n$ — that is what forced the rectangle/orthogonal-marker machinery in the $\mathbb Z^n$ case. Voronoi cells of a maximal $n$-separated set in $\mathbb Z_2\wr\mathbb Z$ have boundary $\partial_S C$ with
+$$\frac{|\partial_S C|}{|C|}\ \not\to\ 0$$
+uniformly, because balls grow like $2^{cn}$: the Følner sets that do exist are long, thin, and non-nestable, and no Borel choice of them is coherent along an orbit. This is the concrete failure point of Step 3 and the reason (A) is still open.
+
+---
+*Part of the [Maths Research catalog](../../README.md). Schema: [TEMPLATE.md](../../TEMPLATE.md).*

@@ -112,17 +112,17 @@ for a fixed explicit $\Phi_\alpha$, using only regularity plus local absolute co
 - **[Foundational]** G. Szegő. *Orthogonal Polynomials.* American Mathematical Society Colloquium Publications, Vol. 23, 4th ed., 1975 (1st ed. 1939). Chapter 8, "Mehler–Heine type formulas".
 - **[Foundational]** E. Heine. *Handbuch der Kugelfunctionen, Theorie und Anwendungen.* Georg Reimer, Berlin, 1878.
 - **[Foundational]** P. Nevai. *Orthogonal Polynomials.* Memoirs of the American Mathematical Society, No. 213, 1979.
-- **[SOTA]** A. B. J. Kuijlaars, K. T.-R. McLaughlin, W. Van Assche, M. Vanlessen. *The Riemann–Hilbert approach to strong asymptotics for orthogonal polynomials on $[-1,1]$.* Advances in Mathematics 188 (2004), 337–398.
-- **[SOTA]** D. S. Lubinsky. *A new approach to universality limits involving orthogonal polynomials.* Annals of Mathematics 170 (2009), 915–939.
+- **[SOTA]** A. B. J. Kuijlaars, K. T.-R. McLaughlin, W. Van Assche, M. Vanlessen. *The Riemann–Hilbert approach to strong asymptotics for orthogonal polynomials on $[-1,1]$.* Advances in Mathematics 188 (2004), 337–398. [DOI](https://doi.org/10.1016/j.aim.2003.08.015)
+- **[SOTA]** D. S. Lubinsky. *A new approach to universality limits involving orthogonal polynomials.* Annals of Mathematics 170 (2009), 915–939. [DOI](https://doi.org/10.4007/annals.2009.170.915)
 - **[SOTA]** D. S. Lubinsky. *Universality limits at the hard edge of the spectrum for measures with compact support.* International Mathematics Research Notices, 2008.
-- **[SOTA]** M. Vanlessen. *Strong asymptotics of Laguerre-type orthogonal polynomials and applications in random matrix theory.* Constructive Approximation 25 (2007), 125–175.
-- **[SOTA]** P. Deift, T. Kriecherbauer, K. T.-R. McLaughlin, S. Venakides, X. Zhou. *Strong asymptotics of orthogonal polynomials with respect to exponential weights.* Communications on Pure and Applied Mathematics 52 (1999), 1491–1552.
-- **[Related]** C. A. Tracy, H. Widom. *Level spacing distributions and the Bessel kernel.* Communications in Mathematical Physics 161 (1994), 289–309.
-- **[Related]** P. J. Forrester. *The spectrum edge of random matrix ensembles.* Nuclear Physics B 402 (1993), 709–728.
-- **[Related]** F. Marcellán, J. J. Moreno-Balcázar. *Asymptotics and zeros of Sobolev orthogonal polynomials on unbounded supports.* Acta Applicandae Mathematicae 94 (2006), 163–192.
+- **[SOTA]** M. Vanlessen. *Strong asymptotics of Laguerre-type orthogonal polynomials and applications in random matrix theory.* Constructive Approximation 25 (2007), 125–175. [DOI](https://doi.org/10.1007/s00365-005-0611-z)
+- **[SOTA]** P. Deift, T. Kriecherbauer, K. T.-R. McLaughlin, S. Venakides, X. Zhou. *Strong asymptotics of orthogonal polynomials with respect to exponential weights.* Communications on Pure and Applied Mathematics 52 (1999), 1491–1552. [DOI](https://doi.org/10.1002/(sici)1097-0312(199912)52:12<1491::aid-cpa2>3.0.co;2-#)
+- **[Related]** C. A. Tracy, H. Widom. *Level spacing distributions and the Bessel kernel.* Communications in Mathematical Physics 161 (1994), 289–309. [DOI](https://doi.org/10.1007/bf02099779)
+- **[Related]** P. J. Forrester. *The spectrum edge of random matrix ensembles.* Nuclear Physics B 402 (1993), 709–728. [DOI](https://doi.org/10.1016/0550-3213(93)90126-a)
+- **[Related]** F. Marcellán, J. J. Moreno-Balcázar. *Asymptotics and zeros of Sobolev orthogonal polynomials on unbounded supports.* Acta Applicandae Mathematicae 94 (2006), 163–192. [DOI](https://doi.org/10.1007/s10440-006-9073-y)
 - **[Survey]** H. Stahl, V. Totik. *General Orthogonal Polynomials.* Encyclopedia of Mathematics and its Applications 43, Cambridge University Press, 1992.
 - **[Survey]** B. Simon. *Szegő's Theorem and Its Descendants.* Princeton University Press, 2011.
-- **[Survey]** A. S. Levin, D. S. Lubinsky. *Orthogonal Polynomials for Exponential Weights.* CMS Books in Mathematics, Springer, 2001.
+- **[Survey]** A. S. Levin, D. S. Lubinsky. *Orthogonal Polynomials for Exponential Weights.* CMS Books in Mathematics, Springer, 2001. [DOI](https://doi.org/10.1007/978-1-4613-0201-8)
 - **[Survey]** M. E. H. Ismail. *Classical and Quantum Orthogonal Polynomials in One Variable.* Encyclopedia of Mathematics and its Applications 98, Cambridge University Press, 2005.
 
 ## 10. Worked Example / Concrete Special Case

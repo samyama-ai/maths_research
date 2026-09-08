@@ -838,5 +838,336 @@
     "slug": "duffin-schaeffer-conjecture",
     "status": "solved-recently",
     "description": "Provides a condition for metric Diophantine approximation of real numbers."
+  },
+  {
+    "title": "Sendov's Conjecture",
+    "slug": "sendovs-conjecture",
+    "status": "partially-solved",
+    "description": "Polynomial roots have nearby critical points in unit disk"
+  },
+  {
+    "title": "Casas-Alvero Conjecture",
+    "slug": "casas-alvero-conjecture",
+    "status": "open",
+    "description": "Polynomial sharing roots with each derivative is a power"
+  },
+  {
+    "title": "Sierpinski Problem",
+    "slug": "sierpinski-problem",
+    "status": "partially-solved",
+    "description": "Determining smallest odd Sierpinski number covering all exponents"
+  },
+  {
+    "title": "Riesel Problem",
+    "slug": "riesel-problem",
+    "status": "partially-solved",
+    "description": "Finding smallest Riesel number with no prime terms"
+  },
+  {
+    "title": "Fermat-Catalan Conjecture",
+    "slug": "fermat-catalan-conjecture",
+    "status": "open",
+    "description": "Finitely many coprime powers satisfying generalized Fermat equation"
+  },
+  {
+    "title": "Erdos-Turan Conjecture on Additive Bases",
+    "slug": "erdos-turan-conjecture-on-additive-bases",
+    "status": "open",
+    "description": "Representation counts of additive bases must be unbounded"
+  },
+  {
+    "title": "Erdos Conjecture on Arithmetic Progressions",
+    "slug": "erdos-conjecture-on-arithmetic-progressions",
+    "status": "open",
+    "description": "Divergent reciprocal sums force arbitrarily long progressions"
+  },
+  {
+    "title": "Sarkozy's Problem on Shifted Primes",
+    "slug": "sarkozys-problem-on-shifted-primes",
+    "status": "partially-solved",
+    "description": "Density bounds for sets avoiding shifted prime differences"
+  },
+  {
+    "title": "Waring-Goldbach Problem",
+    "slug": "waring-goldbach-problem",
+    "status": "partially-solved",
+    "description": "Representing integers as sums of prime powers"
+  },
+  {
+    "title": "Vinogradov's Least Quadratic Nonresidue Problem",
+    "slug": "vinogradovs-least-quadratic-nonresidue-problem",
+    "status": "open",
+    "description": "Least quadratic nonresidue grows slower than any power"
+  },
+  {
+    "title": "Class Number One Problem for Real Cyclotomic Fields",
+    "slug": "weber-class-number-problem",
+    "status": "open",
+    "description": "All Weber cyclotomic two-power fields have class number one"
+  },
+  {
+    "title": "Greenberg's Generalized Conjecture",
+    "slug": "greenbergs-generalized-conjecture",
+    "status": "open",
+    "description": "Iwasawa modules over multiple Zp-extensions are pseudo-null"
+  },
+  {
+    "title": "Coleman's Conjecture on Semistable Reduction",
+    "slug": "colemans-conjecture-on-jacobians",
+    "status": "open",
+    "description": "Bounded genus curves have bounded bad reduction primes"
+  },
+  {
+    "title": "Uniform Boundedness Conjecture for Preperiodic Points",
+    "slug": "morton-silverman-uniform-boundedness-conjecture",
+    "status": "open",
+    "description": "Preperiodic points of rational maps are uniformly bounded"
+  },
+  {
+    "title": "Dynamical Mordell-Lang Conjecture",
+    "slug": "dynamical-mordell-lang-conjecture",
+    "status": "partially-solved",
+    "description": "Orbit intersections with subvarieties form finite union of progressions"
+  },
+  {
+    "title": "Griffiths Conjecture on Hodge Loci",
+    "slug": "grothendieck-period-conjecture",
+    "status": "open",
+    "description": "Periods of abelian varieties satisfy only motivic relations"
+  },
+  {
+    "title": "Serre's Uniformity Conjecture",
+    "slug": "serres-uniformity-conjecture",
+    "status": "partially-solved",
+    "description": "Galois image is surjective for large primes uniformly"
+  },
+  {
+    "title": "Northcott and Lehmer Problems for Dynamical Heights",
+    "slug": "dynamical-lehmer-conjecture",
+    "status": "open",
+    "description": "Canonical heights of non-preperiodic points bounded below"
+  },
+  {
+    "title": "Chabauty-Kim Program for Rational Points",
+    "slug": "effective-mordell-conjecture",
+    "status": "open",
+    "description": "Effectively bounding rational points on higher genus curves"
+  },
+  {
+    "title": "Zagier's Polylogarithm Conjecture",
+    "slug": "zagiers-polylogarithm-conjecture",
+    "status": "partially-solved",
+    "description": "Dedekind zeta special values via classical polylogarithms"
+  },
+  {
+    "title": "Kontsevich-Zagier Period Conjecture",
+    "slug": "kontsevich-zagier-period-conjecture",
+    "status": "open",
+    "description": "Period equalities follow from elementary calculus rules"
+  },
+  {
+    "title": "Transcendence of the Euler Gamma Function at Rationals",
+    "slug": "rohrlichs-conjecture-on-gamma-values",
+    "status": "open",
+    "description": "Multiplicative relations among gamma values are only standard ones"
+  },
+  {
+    "title": "Mahler's Problem on Liouville Numbers and Analytic Functions",
+    "slug": "mahlers-classification-problem",
+    "status": "partially-solved",
+    "description": "Transcendence measures and classification of transcendental numbers"
+  },
+  {
+    "title": "Littlewood's Problem on Flat Trigonometric Polynomials",
+    "slug": "littlewood-flat-polynomial-problem",
+    "status": "solved-recently",
+    "description": "Existence of flat plus-minus-one coefficient trigonometric polynomials"
+  },
+  {
+    "title": "Multiplicative Structure of Zeros: Zeros of the Epstein Zeta Function",
+    "slug": "epstein-zeta-function-zeros",
+    "status": "open",
+    "description": "Distribution of zeros of Epstein zeta functions off critical line"
+  },
+  {
+    "title": "Sylvester's Sequence Primality Problem",
+    "slug": "sylvesters-sequence-primality",
+    "status": "open",
+    "description": "Whether any term of Sylvester's sequence is squarefree",
+    "status_note": null
+  },
+  {
+    "title": "Nagell-Ljunggren Equation",
+    "slug": "nagell-ljunggren-equation",
+    "status": "open",
+    "description": "Classifying repunit perfect powers in arbitrary integer bases"
+  },
+  {
+    "title": "Schmidt's Subspace Conjecture Effectivity Problem",
+    "slug": "effective-schmidt-subspace-theorem",
+    "status": "open",
+    "description": "Making the subspace theorem bounds effectively computable"
+  },
+  {
+    "title": "Uniform Boundedness of Integral Points on Elliptic Curves",
+    "slug": "uniform-boundedness-of-integral-points",
+    "status": "open",
+    "description": "Bounding integral points independently of the curve coefficients"
+  },
+  {
+    "title": "Serre's Open Image Question for Abelian Surfaces",
+    "slug": "open-image-problem-for-abelian-surfaces",
+    "status": "partially-solved",
+    "description": "Uniform surjectivity of Galois images for abelian surfaces"
+  },
+  {
+    "title": "Vanishing of Odd Zeta Values Modulo Primes",
+    "slug": "kummer-type-congruences-for-zeta-values",
+    "status": "open",
+    "description": "Congruence structure of zeta values at odd integers"
+  },
+  {
+    "title": "Lang's Height Lower Bound Conjecture",
+    "slug": "langs-height-conjecture",
+    "status": "partially-solved",
+    "description": "Canonical heights of non-torsion points bounded below by discriminant"
+  },
+  {
+    "title": "Positive Density of Ranks Zero and One",
+    "slug": "goldfeld-rank-density-conjecture",
+    "status": "partially-solved",
+    "description": "Half of quadratic twists should have each minimal rank"
+  },
+  {
+    "title": "Watkins' Conjecture on Class Numbers and Ranks",
+    "slug": "watkins-conjecture",
+    "status": "open",
+    "description": "Rank bounds the two-adic valuation of modular degree"
+  },
+  {
+    "title": "Sums of Two Cubes Density Problem",
+    "slug": "sums-of-two-rational-cubes",
+    "status": "partially-solved",
+    "description": "Which integers are sums of two rational cubes"
+  },
+  {
+    "title": "Erdos Minimum Overlap Problem",
+    "slug": "erdos-minimum-overlap-problem",
+    "status": "open",
+    "description": "Exact constant for minimal overlap of complementary integer sets"
+  },
+  {
+    "title": "Sidon Set Growth Problem",
+    "slug": "sidon-set-maximal-density-problem",
+    "status": "open",
+    "description": "Maximal density of infinite Sidon sets of integers"
+  },
+  {
+    "title": "Erdos Covering Congruences Odd Modulus Problem",
+    "slug": "odd-covering-systems-problem",
+    "status": "open",
+    "description": "Existence of covering systems with distinct odd moduli"
+  },
+  {
+    "title": "Zaremba Continued Fraction Conjecture for Denominator Five",
+    "slug": "zaremba-conjecture-partial-quotient-five",
+    "status": "partially-solved",
+    "description": "Bounded partial quotients for every denominator with small bound"
+  },
+  {
+    "title": "Duke's Equidistribution for Indefinite Ternary Forms",
+    "slug": "linniks-problem-for-ternary-quadratic-forms",
+    "status": "partially-solved",
+    "description": "Equidistribution of integer points on indefinite ternary quadratic forms"
+  },
+  {
+    "title": "Kaplansky's Ternary Form Representation Problem",
+    "slug": "kaplansky-ternary-form-problem",
+    "status": "open",
+    "description": "Which integers ternary quadratic forms fail to represent"
+  },
+  {
+    "title": "The 451-Theorem for Quadratic Forms over Number Fields",
+    "slug": "universal-quadratic-forms-over-number-fields",
+    "status": "partially-solved",
+    "description": "Finite criteria for universality of forms over totally real fields"
+  },
+  {
+    "title": "Ramanujan's Tau Function Nonvanishing (Lehmer's Conjecture)",
+    "slug": "lehmers-tau-nonvanishing-conjecture",
+    "status": "open",
+    "description": "Ramanujan tau function never takes the value zero"
+  },
+  {
+    "title": "Distribution of Fourier Coefficients Modulo Primes",
+    "slug": "lang-trotter-nonvanishing-for-modular-forms",
+    "status": "open",
+    "description": "Density of primes where modular coefficients hit fixed values"
+  },
+  {
+    "title": "Atkin-Serre Conjecture on Coefficient Growth",
+    "slug": "atkin-serre-conjecture",
+    "status": "open",
+    "description": "Lower bounds on prime-indexed coefficients of cusp forms"
+  },
+  {
+    "title": "Maeda's Conjecture",
+    "slug": "maedas-conjecture",
+    "status": "empirically-supported",
+    "description": "Hecke algebras on level one cusp forms are irreducible"
+  },
+  {
+    "title": "Gross-Zagier Type Formulas in Higher Rank",
+    "slug": "higher-rank-gross-zagier-problem",
+    "status": "open",
+    "description": "Geometric formulas for higher derivatives of L-functions"
+  },
+  {
+    "title": "Beilinson-Bloch Conjecture on Heights",
+    "slug": "beilinson-bloch-conjecture",
+    "status": "open",
+    "description": "Cycle class groups compute L-function orders of vanishing"
+  },
+  {
+    "title": "Deligne's Conjecture on Critical L-Values",
+    "slug": "delignes-conjecture-on-critical-l-values",
+    "status": "partially-solved",
+    "description": "Critical L-values are periods times algebraic numbers"
+  },
+  {
+    "title": "Katz-Sarnak Symmetry Type Conjecture",
+    "slug": "katz-sarnak-symmetry-conjecture",
+    "status": "partially-solved",
+    "description": "Low-lying zeros of L-families match random matrix symmetries"
+  },
+  {
+    "title": "Chebyshev's Bias and Prime Race Densities",
+    "slug": "chebyshevs-bias-prime-race-problem",
+    "status": "partially-solved",
+    "description": "Logarithmic densities of prime counting races between residues"
+  },
+  {
+    "title": "Deninger's Program for Zeta Functions",
+    "slug": "deningers-cohomological-program",
+    "status": "open",
+    "description": "Constructing a cohomology theory computing arithmetic zeta functions"
+  },
+  {
+    "title": "Field of One Element and Arithmetic Geometry",
+    "slug": "field-with-one-element-program",
+    "status": "open",
+    "description": "Making the field with one element mathematically rigorous"
+  },
+  {
+    "title": "Existence of Odd Weighing Matrices in Cyclotomic Fields",
+    "slug": "jacobi-sums-equidistribution-problem",
+    "status": "open",
+    "description": "Equidistribution of normalized Jacobi sums over finite fields"
+  },
+  {
+    "title": "Vinogradov Mean Value Beyond the Critical Exponent",
+    "slug": "vinogradov-mean-value-off-critical-exponent",
+    "status": "partially-solved",
+    "description": "Sharp bounds for exponential sums past decoupling range"
   }
 ]

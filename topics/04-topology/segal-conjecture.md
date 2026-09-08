@@ -104,20 +104,20 @@ For finite groups there is no gap: Carlsson's theorem is the general statement. 
 ## 9. Key References
 
 - **[Foundational]** G. Segal. *Equivariant stable homotopy theory.* Actes du Congrès International des Mathématiciens (Nice, 1970), Vol. 2, Gauthier-Villars, 1971, pp. 59–63.
-- **[Foundational]** M. F. Atiyah and G. Segal. *Equivariant K-theory and completion.* Journal of Differential Geometry 3 (1969), 1–18.
-- **[Foundational]** W. H. Lin, D. M. Davis, M. E. Mahowald, J. F. Adams. *Calculation of Lin's Ext groups.* Mathematical Proceedings of the Cambridge Philosophical Society 87 (1980), 459–469.
-- **[Foundational]** D. C. Ravenel. *The Segal conjecture for cyclic groups.* Bulletin of the London Mathematical Society 13 (1981), 42–44.
-- **[Foundational]** J. F. Adams, J. H. Gunawardena, H. Miller. *The Segal conjecture for elementary abelian $p$-groups.* Topology 24 (1985), 435–460.
-- **[Resolution]** G. Carlsson. *Equivariant stable homotopy and Segal's Burnside ring conjecture.* Annals of Mathematics (2) 120 (1984), 189–224.
-- **[SOTA / Recent]** J. Caruso, J. P. May, S. B. Priddy. *The Segal conjecture for elementary abelian $p$-groups II: $p$-adic completion in equivariant cohomology.* Topology 26 (1987), 413–433.
-- **[SOTA / Recent]** M. Feshbach. *The Segal conjecture for compact Lie groups.* Topology 26 (1987), 1–20.
+- **[Foundational]** M. F. Atiyah and G. Segal. *Equivariant K-theory and completion.* Journal of Differential Geometry 3 (1969), 1–18. [DOI](https://doi.org/10.4310/jdg/1214428815)
+- **[Foundational]** W. H. Lin, D. M. Davis, M. E. Mahowald, J. F. Adams. *Calculation of Lin's Ext groups.* Mathematical Proceedings of the Cambridge Philosophical Society 87 (1980), 459–469. [DOI](https://doi.org/10.1017/s0305004100056899)
+- **[Foundational]** D. C. Ravenel. *The Segal conjecture for cyclic groups.* Bulletin of the London Mathematical Society 13 (1981), 42–44. [DOI](https://doi.org/10.1112/blms/13.1.42)
+- **[Foundational]** J. F. Adams, J. H. Gunawardena, H. Miller. *The Segal conjecture for elementary abelian $p$-groups.* Topology 24 (1985), 435–460. [DOI](https://doi.org/10.1016/0040-9383(85)90014-x)
+- **[Resolution]** G. Carlsson. *Equivariant stable homotopy and Segal's Burnside ring conjecture.* Annals of Mathematics (2) 120 (1984), 189–224. [DOI](https://doi.org/10.2307/2006940)
+- **[SOTA / Recent]** J. Caruso, J. P. May, S. B. Priddy. *The Segal conjecture for elementary abelian $p$-groups II: $p$-adic completion in equivariant cohomology.* Topology 26 (1987), 413–433. [DOI](https://doi.org/10.1016/0040-9383(87)90040-1)
+- **[SOTA / Recent]** M. Feshbach. *The Segal conjecture for compact Lie groups.* Topology 26 (1987), 1–20. [DOI](https://doi.org/10.1016/0040-9383(87)90016-4)
 - **[SOTA / Recent]** T. Nikolaus and P. Scholze. *On topological cyclic homology.* Acta Mathematica 221 (2018), 203–409.
-- **[SOTA / Recent]** J. Hahn and D. Wilson. *Redshift and multiplication for truncated Brown–Peterson spectra.* Annals of Mathematics 196 (2022), 1277–1351.
-- **[SOTA / Recent]** G. Angelini-Knoll and J. D. Quigley. *The Segal conjecture for topological Hochschild homology of Ravenel spectra.* Journal of Homotopy and Related Structures 16 (2021), 41–60.
+- **[SOTA / Recent]** J. Hahn and D. Wilson. *Redshift and multiplication for truncated Brown–Peterson spectra.* Annals of Mathematics 196 (2022), 1277–1351. [DOI](https://doi.org/10.4007/annals.2022.196.3.6)
+- **[SOTA / Recent]** G. Angelini-Knoll and J. D. Quigley. *The Segal conjecture for topological Hochschild homology of Ravenel spectra.* Journal of Homotopy and Related Structures 16 (2021), 41–60. [DOI](https://doi.org/10.1007/s40062-021-00275-7)
 - **[Survey]** J. P. C. Greenlees and J. P. May. *Equivariant stable homotopy theory.* In: Handbook of Algebraic Topology, North-Holland, 1995, pp. 277–323.
 - **[Survey / Background]** L. G. Lewis, J. P. May, M. Steinberger (with J. E. McClure). *Equivariant Stable Homotopy Theory.* Lecture Notes in Mathematics 1213, Springer, 1986.
 - **[Background]** T. tom Dieck. *Transformation Groups.* de Gruyter Studies in Mathematics 8, Walter de Gruyter, 1987.
-- **[Companion]** H. Miller. *The Sullivan conjecture on maps from classifying spaces.* Annals of Mathematics (2) 120 (1984), 39–87.
+- **[Companion]** H. Miller. *The Sullivan conjecture on maps from classifying spaces.* Annals of Mathematics (2) 120 (1984), 39–87. [DOI](https://doi.org/10.2307/2007071)
 
 ## 10. Worked Example / Concrete Special Case
 

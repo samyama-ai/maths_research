@@ -109,17 +109,17 @@ Active groups: Grenoble (Eyssidieux), Miami/Katzarkov, CNRS-Nancy (Deng), Nantes
 ## 9. Key References
 
 - **[Foundational]** I. R. Shafarevich. *Basic Algebraic Geometry.* Springer, 1974 (Russian original 1972) — statement of the problem.
-- **[Foundational]** T. Napier. *Convexity properties of coverings of smooth projective varieties.* Mathematische Annalen 286 (1990), 433–479.
+- **[Foundational]** T. Napier. *Convexity properties of coverings of smooth projective varieties.* Mathematische Annalen 286 (1990), 433–479. [DOI](https://doi.org/10.1007/bf01453583)
 - **[Foundational]** J. Kollár. *Shafarevich Maps and Automorphic Forms.* Princeton University Press, 1995.
-- **[Foundational]** F. Campana. *Remarques sur le revêtement universel des variétés kählériennes compactes.* Bulletin de la SMF 122 (1994), 255–284.
-- **[Foundational]** D. Toledo. *Projective varieties with non-residually finite fundamental group.* Publications Mathématiques de l'IHÉS 77 (1993), 103–119.
-- **[SOTA]** P. Eyssidieux, L. Katzarkov, T. Pantev, M. Ramachandran. *Linear Shafarevich conjecture.* Annals of Mathematics 176 (2012), 1545–1581.
-- **[SOTA]** P. Eyssidieux. *Sur la convexité holomorphe des revêtements linéaires réductifs d'une variété projective algébrique complexe.* Inventiones Mathematicae 156 (2004), 503–564.
-- **[SOTA]** B. Claudon, A. Höring, J. Kollár. *Algebraic varieties with quasi-projective universal cover.* Journal für die reine und angewandte Mathematik 679 (2013), 207–221.
+- **[Foundational]** F. Campana. *Remarques sur le revêtement universel des variétés kählériennes compactes.* Bulletin de la SMF 122 (1994), 255–284. [DOI](https://doi.org/10.24033/bsmf.2232)
+- **[Foundational]** D. Toledo. *Projective varieties with non-residually finite fundamental group.* Publications Mathématiques de l'IHÉS 77 (1993), 103–119. [DOI](https://doi.org/10.1007/bf02699189)
+- **[SOTA]** P. Eyssidieux, L. Katzarkov, T. Pantev, M. Ramachandran. *Linear Shafarevich conjecture.* Annals of Mathematics 176 (2012), 1545–1581. [DOI](https://doi.org/10.4007/annals.2012.176.3.4)
+- **[SOTA]** P. Eyssidieux. *Sur la convexité holomorphe des revêtements linéaires réductifs d'une variété projective algébrique complexe.* Inventiones Mathematicae 156 (2004), 503–564. [DOI](https://doi.org/10.1007/s00222-003-0345-0)
+- **[SOTA]** B. Claudon, A. Höring, J. Kollár. *Algebraic varieties with quasi-projective universal cover.* Journal für die reine und angewandte Mathematik 679 (2013), 207–221. [DOI](https://doi.org/10.1515/crelle.2012.017)
 - **[Recent]** F. Campana, B. Claudon, P. Eyssidieux. *Représentations linéaires des groupes kählériens: factorisations et applications.* American Journal of Mathematics 137 (2015), 1091–1130.
-- **[Partial results]** L. Katzarkov, M. Ramachandran. *On the universal coverings of algebraic surfaces.* Annales Scientifiques de l'ÉNS 31 (1998), 525–535.
-- **[Partial results]** T. Napier, M. Ramachandran. *Structure theorems for complete Kähler manifolds and applications to Lefschetz type theorems.* GAFA 5 (1995), 809–851.
-- **[Candidate counterexamples]** F. Bogomolov, L. Katzarkov. *Complex projective surfaces and infinite groups.* GAFA 8 (1998), 243–272.
+- **[Partial results]** L. Katzarkov, M. Ramachandran. *On the universal coverings of algebraic surfaces.* Annales Scientifiques de l'ÉNS 31 (1998), 525–535. [DOI](https://doi.org/10.1016/s0012-9593(98)80105-5)
+- **[Partial results]** T. Napier, M. Ramachandran. *Structure theorems for complete Kähler manifolds and applications to Lefschetz type theorems.* GAFA 5 (1995), 809–851. [DOI](https://doi.org/10.1007/bf01897052)
+- **[Candidate counterexamples]** F. Bogomolov, L. Katzarkov. *Complex projective surfaces and infinite groups.* GAFA 8 (1998), 243–272. [DOI](https://doi.org/10.1007/s000390050055)
 - **[Technique]** M. Gromov, R. Schoen. *Harmonic maps into singular spaces and $p$-adic superrigidity for lattices in groups of rank one.* Publ. IHÉS 76 (1992), 165–246.
 - **[Survey]** P. Eyssidieux. *Lectures on the Shafarevich conjecture on uniformization.* In: Complex Manifolds, Foliations and Uniformization, Panoramas et Synthèses 34/35, SMF, 2011.
 

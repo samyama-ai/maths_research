@@ -116,7 +116,7 @@ Leading mathematicians outline several required pathways to fully resolve the co
 ## 9. Key References
 
 - **[Foundational]** Poonen, B. *Union-closed families.* Journal of Combinatorial Theory, Series A, 1992.
-- **[Foundational]** Bruhn, H., & Schaudt, O. *The journey of the union-closed sets conjecture.* Graphs and Combinatorics, 2015.
+- **[Foundational]** Bruhn, H., & Schaudt, O. *The journey of the union-closed sets conjecture.* Graphs and Combinatorics, 2015. [DOI](https://doi.org/10.1007/s00373-014-1515-0)
 - **[SOTA / Recent]** Gilmer, J. *A constant lower bound for the union-closed sets conjecture.* Bulletin of the American Mathematical Society, 2023.
 - **[SOTA / Recent]** Chase, Z. *An improvement of Gilmer's constant for the union-closed sets conjecture.* Mathematical Proceedings of the Cambridge Philosophical Society, 2023.
 - **[SOTA / Recent]** Sawin, W. *An improved lower bound for the union-closed sets conjecture.* arXiv preprint (subsequently peer-reviewed), 2022.

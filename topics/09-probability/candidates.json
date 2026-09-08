@@ -838,5 +838,359 @@
     "slug": "bramson-delay-for-branching-brownian-motion-in-random-environment",
     "status": "open",
     "description": "Generalizing the logarithmic delay of the maximum of branching brownian motion."
+  },
+  {
+    "title": "Dimerization and Delocalization in the Random-Cluster Model with q>4",
+    "slug": "discontinuity-random-cluster-large-q",
+    "status": "partially-solved",
+    "description": "Sharp discontinuous phase transition behaviour for large cluster weight"
+  },
+  {
+    "title": "Uniqueness of the Infinite Cluster for Percolation on Nonamenable Groups",
+    "slug": "percolation-nonamenable-groups-uniqueness-phase",
+    "status": "open",
+    "description": "Existence of a nonuniqueness phase for percolation on nonamenable Cayley graphs"
+  },
+  {
+    "title": "Benjamini\u2013Schramm Conjecture on Percolation Below the Uniqueness Threshold",
+    "slug": "benjamini-schramm-nonuniqueness-conjecture",
+    "status": "partially-solved",
+    "description": "Nonamenable groups admit infinitely many infinite percolation clusters somewhere"
+  },
+  {
+    "title": "Liouville Quantum Gravity Metric Exponent and Dimension",
+    "slug": "liouville-quantum-gravity-metric-dimension",
+    "status": "open",
+    "description": "Exact fractal dimension of the Liouville quantum gravity metric"
+  },
+  {
+    "title": "Watabiki Formula for the Dimension of Liouville Quantum Gravity",
+    "slug": "watabiki-formula-lqg-dimension",
+    "status": "partially-solved",
+    "description": "Proposed closed formula for Liouville gravity fractal dimension disproved partially"
+  },
+  {
+    "title": "Uniqueness of Bi-Infinite Geodesics in First-Passage Percolation",
+    "slug": "bigeodesics-first-passage-percolation",
+    "status": "partially-solved",
+    "description": "Nonexistence of two-sided infinite geodesics in planar random metrics"
+  },
+  {
+    "title": "Coalescence of Semi-Infinite Geodesics in Last-Passage Percolation",
+    "slug": "geodesic-coalescence-last-passage-percolation",
+    "status": "partially-solved",
+    "description": "All directed geodesics in one direction eventually merge"
+  },
+  {
+    "title": "Sharpness of the Phase Transition for Bernoulli Percolation on General Graphs",
+    "slug": "sharpness-percolation-general-graphs",
+    "status": "partially-solved",
+    "description": "Exponential decay below criticality for arbitrary transitive graphs"
+  },
+  {
+    "title": "Slow Bond Problem for the Totally Asymmetric Exclusion Process",
+    "slug": "slow-bond-problem-tasep",
+    "status": "solved-recently",
+    "description": "Any single defect bond reduces exclusion process current"
+  },
+  {
+    "title": "Fluctuations of the Airy Sheet and Directed Landscape Regularity",
+    "slug": "directed-landscape-regularity-airy-sheet",
+    "status": "partially-solved",
+    "description": "Regularity and modulus properties of the universal directed landscape"
+  },
+  {
+    "title": "Existence of the KPZ Fixed Point in Higher Dimensions",
+    "slug": "kpz-fixed-point-higher-dimensions",
+    "status": "open",
+    "description": "Nontrivial scaling limit for growth models above one dimension"
+  },
+  {
+    "title": "Anomalous Diffusion Exponent for the Two-Dimensional Anharmonic Chain",
+    "slug": "anomalous-diffusion-two-dimensional-hamiltonian-chains",
+    "status": "open",
+    "description": "Logarithmic superdiffusion of energy in two-dimensional oscillator chains"
+  },
+  {
+    "title": "Superdiffusivity of the Two-Dimensional Random Stirring and Tracer Problems",
+    "slug": "superdiffusivity-two-dimensional-tracer-diffusion",
+    "status": "partially-solved",
+    "description": "Logarithmic correction to diffusivity for two-dimensional passive tracers"
+  },
+  {
+    "title": "Mixing Time of the Swendsen\u2013Wang Dynamics at Criticality",
+    "slug": "swendsen-wang-dynamics-mixing-time",
+    "status": "partially-solved",
+    "description": "Polynomial mixing of cluster dynamics at the critical point"
+  },
+  {
+    "title": "Peres\u2013Winkler Conjecture on Sequential Cavity and Negative Dependence",
+    "slug": "negative-dependence-strong-rayleigh-conjectures",
+    "status": "partially-solved",
+    "description": "Negative association properties for measures with real stable generating polynomials"
+  },
+  {
+    "title": "Grimmett\u2013Kesten\u2013Zhang Transience of Supercritical Percolation Clusters in High Dimensions",
+    "slug": "random-walk-percolation-cluster-heat-kernel-bounds",
+    "status": "partially-solved",
+    "description": "Sharp heat kernel behaviour for walks on percolation clusters"
+  },
+  {
+    "title": "Random Walk on the Incipient Infinite Cluster: Alexander\u2013Orbach Conjecture",
+    "slug": "alexander-orbach-conjecture",
+    "status": "partially-solved",
+    "description": "Spectral dimension four thirds for critical percolation clusters"
+  },
+  {
+    "title": "Scaling Limit of Critical Percolation in Dimensions Between Six and Seven",
+    "slug": "critical-percolation-intermediate-dimensions",
+    "status": "open",
+    "description": "Behaviour of critical percolation just below the upper critical dimension"
+  },
+  {
+    "title": "Convergence of the Uniform Spanning Forest Component Structure",
+    "slug": "uniform-spanning-forest-number-of-trees",
+    "status": "partially-solved",
+    "description": "Number and geometry of trees in uniform spanning forests"
+  },
+  {
+    "title": "Kahn\u2013Kalai Threshold Conjecture and Its Fractional Refinements",
+    "slug": "kahn-kalai-expectation-threshold-refinements",
+    "status": "solved-recently",
+    "description": "Thresholds bounded by expectation thresholds up to logarithmic factors"
+  },
+  {
+    "title": "Erdos\u2013Renyi Critical Window Universality for Inhomogeneous Random Graphs",
+    "slug": "critical-window-universality-random-graphs",
+    "status": "partially-solved",
+    "description": "Multiplicative coalescent limits for heavy tailed random graph components"
+  },
+  {
+    "title": "Longest Common Subsequence Chvatal\u2013Sankoff Constant",
+    "slug": "chvatal-sankoff-constant",
+    "status": "open",
+    "description": "Exact value of the longest common subsequence growth constant"
+  },
+  {
+    "title": "Random Assignment Problem Beyond the Parisi Formula",
+    "slug": "random-assignment-problem-fluctuations",
+    "status": "partially-solved",
+    "description": "Fluctuations of the minimal matching cost in random assignment"
+  },
+  {
+    "title": "Stochastic Six-Vertex and Colored Interacting Particle System Symmetry",
+    "slug": "colored-particle-system-shift-invariance",
+    "status": "solved-recently",
+    "description": "Shift invariance identities for colored stochastic vertex models"
+  },
+  {
+    "title": "Uniqueness in Law for Multidimensional Stochastic Differential Equations with Merely Bounded Drift",
+    "slug": "sde-uniqueness-bounded-measurable-drift",
+    "status": "open",
+    "description": "Well-posedness of degenerate multidimensional equations with rough coefficients"
+  },
+  {
+    "title": "Restoration of Uniqueness by Noise for Transport Equations",
+    "slug": "regularization-by-noise-transport-equations",
+    "status": "partially-solved",
+    "description": "Noise restoring uniqueness for ill posed transport dynamics"
+  },
+  {
+    "title": "Renormalization and Global Well-Posedness of the Stochastic Quantization Equation in Three Dimensions",
+    "slug": "phi43-stochastic-quantization-global-wellposedness",
+    "status": "partially-solved",
+    "description": "Global solutions and measure construction for three dimensional stochastic quantization"
+  },
+  {
+    "title": "Existence of the Two-Dimensional Sine-Gordon and Yang\u2013Mills Measures via Stochastic Quantization",
+    "slug": "stochastic-quantization-yang-mills-measure",
+    "status": "partially-solved",
+    "description": "Construction of gauge invariant random fields via stochastic dynamics"
+  },
+  {
+    "title": "Rate of Convergence in the Multivariate Central Limit Theorem for Convex Sets (Bentkus Problem)",
+    "slug": "berry-esseen-convex-sets-dimension-dependence",
+    "status": "partially-solved",
+    "description": "Optimal dimension dependence of central limit theorem error on convex sets"
+  },
+  {
+    "title": "Dvoretzky's Covering Problem for General Sequences",
+    "slug": "dvoretzky-covering-problem-general-sequences",
+    "status": "partially-solved",
+    "description": "Which arc length sequences cover the circle almost surely"
+  },
+  {
+    "title": "Rate of Convergence in the Martingale Central Limit Theorem",
+    "slug": "martingale-clt-optimal-convergence-rate",
+    "status": "open",
+    "description": "Sharp Berry-Esseen bounds for martingale difference arrays"
+  },
+  {
+    "title": "Skorokhod Embedding with Optimal Higher Moments",
+    "slug": "skorokhod-embedding-optimal-moment-bounds",
+    "status": "partially-solved",
+    "description": "Best possible moment bounds for embedding stopping times"
+  },
+  {
+    "title": "The Secretary Problem with Partial Order Information",
+    "slug": "secretary-problem-partial-order",
+    "status": "open",
+    "description": "Optimal selection strategy when only partial rankings are observed"
+  },
+  {
+    "title": "Bandit Regret Lower Bounds for Adversarial Contextual Settings",
+    "slug": "contextual-bandit-minimax-regret-gap",
+    "status": "open",
+    "description": "Exact minimax regret for contextual bandits remains unknown"
+  },
+  {
+    "title": "Rate of Escape of Random Walks on Lamplighter Groups",
+    "slug": "escape-rate-lamplighter-group-walks",
+    "status": "partially-solved",
+    "description": "Precise speed and entropy asymptotics for lamplighter walks"
+  },
+  {
+    "title": "Uniqueness of Gibbs Measures for the Two-Dimensional Dimer Model with Disorder",
+    "slug": "gibbs-uniqueness-disordered-dimer-model",
+    "status": "open",
+    "description": "Whether disorder destroys uniqueness of dimer Gibbs states"
+  },
+  {
+    "title": "Convergence of the Metropolis Algorithm in High Dimension",
+    "slug": "metropolis-scaling-limit-high-dimension",
+    "status": "partially-solved",
+    "description": "Optimal scaling and diffusion limits for Metropolis chains"
+  },
+  {
+    "title": "Coalescent Processes with Multiple Mergers and Beta Coalescent Tree Heights",
+    "slug": "beta-coalescent-tree-height-asymptotics",
+    "status": "partially-solved",
+    "description": "Precise height asymptotics of multiple merger coalescent trees"
+  },
+  {
+    "title": "Fixation Probability in the Moran Model on General Graphs",
+    "slug": "moran-model-fixation-general-graphs",
+    "status": "open",
+    "description": "Characterising graphs amplifying or suppressing evolutionary selection"
+  },
+  {
+    "title": "The Wright-Fisher Diffusion with Selection and Recombination: Duality Gap",
+    "slug": "wright-fisher-selection-recombination-duality",
+    "status": "open",
+    "description": "Tractable dual process for selection plus recombination is unknown"
+  },
+  {
+    "title": "Random Walks on the Heisenberg Group: Local Limit Theorem Sharpness",
+    "slug": "heisenberg-group-random-walk-local-limit",
+    "status": "partially-solved",
+    "description": "Sharp local limit theorems for nilpotent group walks"
+  },
+  {
+    "title": "Poisson Approximation Error for Dependent Rare Events",
+    "slug": "stein-chen-poisson-approximation-optimal-bounds",
+    "status": "open",
+    "description": "Optimal Stein-Chen bounds under strong local dependence"
+  },
+  {
+    "title": "The Number of Limiting Gibbs States in Two-Dimensional Spin Glasses",
+    "slug": "two-dimensional-spin-glass-gibbs-state-count",
+    "status": "open",
+    "description": "How many pure states exist in planar spin glasses"
+  },
+  {
+    "title": "Existence of Stationary Measures for Stochastic Delay Equations",
+    "slug": "stochastic-delay-equations-invariant-measures",
+    "status": "partially-solved",
+    "description": "Ergodicity for infinite dimensional delay driven diffusions"
+  },
+  {
+    "title": "Rough Path Signature Inversion and Uniqueness",
+    "slug": "rough-path-signature-inversion",
+    "status": "partially-solved",
+    "description": "Reconstructing a path from its iterated integral signature"
+  },
+  {
+    "title": "Small Ball Probabilities for Gaussian Processes with General Covariance",
+    "slug": "gaussian-small-ball-probability-general-covariance",
+    "status": "open",
+    "description": "Precise small deviation asymptotics for arbitrary Gaussian processes"
+  },
+  {
+    "title": "The Chung-Erdos Law of the Iterated Logarithm for Self-Normalized Sums",
+    "slug": "self-normalized-lil-heavy-tails",
+    "status": "partially-solved",
+    "description": "Iterated logarithm laws for self-normalized heavy tailed sums"
+  },
+  {
+    "title": "Persistence Exponents for Random Polynomial and Gaussian Stationary Processes",
+    "slug": "persistence-exponents-gaussian-stationary-processes",
+    "status": "open",
+    "description": "Exact no-zero probability decay exponents remain unknown"
+  },
+  {
+    "title": "Random Matrix Eigenvector Delocalization at the Spectral Edge",
+    "slug": "eigenvector-delocalization-heavy-tailed-matrices",
+    "status": "partially-solved",
+    "description": "Delocalization for heavy tailed random matrix eigenvectors"
+  },
+  {
+    "title": "Optimal Transport Cost Between Empirical and True Measures in High Dimension",
+    "slug": "empirical-measure-wasserstein-rate-high-dimension",
+    "status": "partially-solved",
+    "description": "Sharp Wasserstein convergence rates for empirical measures"
+  },
+  {
+    "title": "The Diameter of the Random Recursive and Preferential Attachment Trees",
+    "slug": "preferential-attachment-tree-diameter-fluctuations",
+    "status": "open",
+    "description": "Second order fluctuations of random growing tree diameters"
+  },
+  {
+    "title": "Vacant Set Percolation for Random Walk on the Torus",
+    "slug": "vacant-set-random-walk-torus-critical-window",
+    "status": "partially-solved",
+    "description": "Critical window for vacant set left by torus walks"
+  },
+  {
+    "title": "Sharp Threshold for Hamiltonicity in Random Geometric and Hypergraph Models",
+    "slug": "hamiltonicity-threshold-random-hypergraphs",
+    "status": "partially-solved",
+    "description": "Exact Hamilton cycle thresholds in random hypergraph models"
+  },
+  {
+    "title": "Quenched Large Deviations for Branching Processes in Random Environment",
+    "slug": "quenched-large-deviations-branching-random-environment",
+    "status": "open",
+    "description": "Full quenched large deviation rate function still incomplete"
+  },
+  {
+    "title": "Uniqueness of the Stochastic Loewner Chain Driven by Rough Noise",
+    "slug": "loewner-chain-rough-driver-uniqueness",
+    "status": "open",
+    "description": "Well posedness of Loewner evolution with non semimartingale drivers"
+  },
+  {
+    "title": "Freidlin-Wentzell Exit Time Asymptotics for Degenerate Diffusions",
+    "slug": "exit-time-asymptotics-degenerate-diffusions",
+    "status": "partially-solved",
+    "description": "Precise exit asymptotics when diffusion coefficient degenerates"
+  },
+  {
+    "title": "Cutoff for the Bernoulli-Laplace and Card Shuffling Generalizations",
+    "slug": "cutoff-bernoulli-laplace-generalizations",
+    "status": "partially-solved",
+    "description": "Cutoff windows for generalized urn and shuffle chains"
+  },
+  {
+    "title": "Mean-Field Limits for Interacting Particle Systems with Singular Kernels",
+    "slug": "mean-field-limit-singular-interaction-kernels",
+    "status": "partially-solved",
+    "description": "Propagation of chaos for Coulomb and Biot-Savart kernels"
+  },
+  {
+    "title": "The Speed of Random Walk on Galton-Watson Trees as a Function of Bias",
+    "slug": "biased-walk-galton-watson-speed-monotonicity",
+    "status": "open",
+    "description": "Whether walk speed is monotone in the bias parameter"
   }
 ]

@@ -99,20 +99,20 @@ Proven: the classification up to positive rational multiple over a *regular* sta
 ## 9. Key References
 
 - **[Foundational]** J. Herzog, M. Kühl. *On the Betti numbers of finite pure and linear resolutions.* Communications in Algebra 12 (1984), 1627–1646.
-- **[Foundational]** C. Huneke, M. Miller. *A note on the multiplicity of Cohen–Macaulay algebras with pure resolutions.* Canadian Journal of Mathematics 37 (1985), 1149–1162.
-- **[Foundational]** M. Boij, J. Söderberg. *Graded Betti numbers of Cohen–Macaulay modules and the multiplicity conjecture.* Journal of the London Mathematical Society (2) 78 (2008), 85–106.
-- **[SOTA]** D. Eisenbud, F.-O. Schreyer. *Betti numbers of graded modules and cohomology of vector bundles.* Journal of the American Mathematical Society 22 (2009), 859–888.
-- **[SOTA]** M. Boij, J. Söderberg. *Betti numbers of graded modules and the multiplicity conjecture in the non-Cohen–Macaulay case.* Algebra & Number Theory 6 (2012), 437–454.
-- **[SOTA]** D. Eisenbud, G. Fløystad, J. Weyman. *The existence of equivariant pure free resolutions.* Annales de l'Institut Fourier 61 (2011), 905–926.
-- **[Recent]** D. Erman. *The semigroup of Betti diagrams.* Algebra & Number Theory 3 (2009), 341–365.
-- **[Recent]** C. Berkesch, D. Erman, M. Kummini, S. V Sam. *Shapes of free resolutions over a local ring.* Mathematische Annalen 354 (2012), 939–954.
-- **[Recent]** C. Berkesch, D. Erman, M. Kummini, S. V Sam. *Poset structures in Boij–Söderberg theory.* International Mathematics Research Notices 2012 (16), 3596–3618.
-- **[Recent]** D. Eisenbud, D. Erman, F.-O. Schreyer. *Filtering free resolutions.* Compositio Mathematica 149 (2013), 754–772.
-- **[Recent]** D. Eisenbud, D. Erman. *Categorified duality in Boij–Söderberg theory and invariants of free complexes.* Journal of the European Mathematical Society 19 (2017), 2657–2695.
-- **[Recent]** C. Berkesch, D. Erman, G. G. Smith. *Virtual resolutions for a product of projective spaces.* Algebraic Geometry 7 (2020), 460–481.
+- **[Foundational]** C. Huneke, M. Miller. *A note on the multiplicity of Cohen–Macaulay algebras with pure resolutions.* Canadian Journal of Mathematics 37 (1985), 1149–1162. [DOI](https://doi.org/10.4153/cjm-1985-062-4)
+- **[Foundational]** M. Boij, J. Söderberg. *Graded Betti numbers of Cohen–Macaulay modules and the multiplicity conjecture.* Journal of the London Mathematical Society (2) 78 (2008), 85–106. [DOI](https://doi.org/10.1112/jlms/jdn013)
+- **[SOTA]** D. Eisenbud, F.-O. Schreyer. *Betti numbers of graded modules and cohomology of vector bundles.* Journal of the American Mathematical Society 22 (2009), 859–888. [DOI](https://doi.org/10.1090/s0894-0347-08-00620-6)
+- **[SOTA]** M. Boij, J. Söderberg. *Betti numbers of graded modules and the multiplicity conjecture in the non-Cohen–Macaulay case.* Algebra & Number Theory 6 (2012), 437–454. [DOI](https://doi.org/10.2140/ant.2012.6.437)
+- **[SOTA]** D. Eisenbud, G. Fløystad, J. Weyman. *The existence of equivariant pure free resolutions.* Annales de l'Institut Fourier 61 (2011), 905–926. [DOI](https://doi.org/10.5802/aif.2632)
+- **[Recent]** D. Erman. *The semigroup of Betti diagrams.* Algebra & Number Theory 3 (2009), 341–365. [DOI](https://doi.org/10.2140/ant.2009.3.341)
+- **[Recent]** C. Berkesch, D. Erman, M. Kummini, S. V Sam. *Shapes of free resolutions over a local ring.* Mathematische Annalen 354 (2012), 939–954. [DOI](https://doi.org/10.1007/s00208-011-0760-2)
+- **[Recent]** C. Berkesch, D. Erman, M. Kummini, S. V Sam. *Poset structures in Boij–Söderberg theory.* International Mathematics Research Notices 2012 (16), 3596–3618. [DOI](https://doi.org/10.1093/imrn/rnr222)
+- **[Recent]** D. Eisenbud, D. Erman, F.-O. Schreyer. *Filtering free resolutions.* Compositio Mathematica 149 (2013), 754–772. [DOI](https://doi.org/10.1112/s0010437x12000760)
+- **[Recent]** D. Eisenbud, D. Erman. *Categorified duality in Boij–Söderberg theory and invariants of free complexes.* Journal of the European Mathematical Society 19 (2017), 2657–2695. [DOI](https://doi.org/10.4171/jems/725)
+- **[Recent]** C. Berkesch, D. Erman, G. G. Smith. *Virtual resolutions for a product of projective spaces.* Algebraic Geometry 7 (2020), 460–481. [DOI](https://doi.org/10.14231/ag-2020-013)
 - **[Recent]** C. Gibbons, J. Jeffries, S. Mayes, C. Raicu, B. Stone, B. White. *Nonsimplicial decompositions of Betti diagrams of complete intersections.* Journal of Commutative Algebra 7 (2015), 189–206.
-- **[Survey]** G. Fløystad. *Boij–Söderberg theory: introduction and survey.* In: Progress in Commutative Algebra 1, de Gruyter, 2012, 1–54.
-- **[Survey]** D. Eisenbud, F.-O. Schreyer. *Boij–Söderberg theory.* In: Combinatorial Aspects of Commutative Algebra and Algebraic Geometry, Abel Symposia 6, Springer, 2011, 35–48.
+- **[Survey]** G. Fløystad. *Boij–Söderberg theory: introduction and survey.* In: Progress in Commutative Algebra 1, de Gruyter, 2012, 1–54. [DOI](https://doi.org/10.1515/9783110250404.1)
+- **[Survey]** D. Eisenbud, F.-O. Schreyer. *Boij–Söderberg theory.* In: Combinatorial Aspects of Commutative Algebra and Algebraic Geometry, Abel Symposia 6, Springer, 2011, 35–48. [DOI](https://doi.org/10.1007/978-3-642-19492-4_3)
 
 ## 10. Worked Example / Concrete Special Case
 

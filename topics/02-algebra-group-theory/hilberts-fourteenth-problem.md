@@ -127,24 +127,24 @@ Precisely:
 
 - **[Foundational]** D. Hilbert. *Mathematische Probleme.* Nachrichten der Königl. Gesellschaft der Wissenschaften zu Göttingen, 1900; expanded in *Archiv der Mathematik und Physik* (3) **1** (1901), 44–63, 213–237.
 - **[Foundational]** O. Zariski. *Interprétations algébrico-géométriques du quatorzième problème de Hilbert.* Bulletin des Sciences Mathématiques (2) **78** (1954), 155–168.
-- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics **81** (1959), 766–772.
+- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics **81** (1959), 766–772. [DOI](https://doi.org/10.2307/2372927)
 - **[Foundational]** M. Nagata. *Lectures on the Fourteenth Problem of Hilbert.* Tata Institute of Fundamental Research, Bombay, 1965.
-- **[Foundational]** M. Nagata. *Invariants of a group in an affine ring.* Journal of Mathematics of Kyoto University **3** (1964), 369–377.
-- **[Foundational]** W. Haboush. *Reductive groups are geometrically reductive.* Annals of Mathematics **102** (1975), 67–83.
-- **[Foundational]** R. Weitzenböck. *Über die Invarianten von linearen Gruppen.* Acta Mathematica **58** (1932), 231–293.
-- **[Foundational]** C. S. Seshadri. *On a theorem of Weitzenböck in invariant theory.* Journal of Mathematics of Kyoto University **1** (1962), 403–409.
-- **[SOTA / Recent]** P. Roberts. *An infinitely generated symbolic blow-up in a power series ring and a new counterexample to Hilbert's fourteenth problem.* Journal of Algebra **132** (1990), 461–473.
+- **[Foundational]** M. Nagata. *Invariants of a group in an affine ring.* Journal of Mathematics of Kyoto University **3** (1964), 369–377. [DOI](https://doi.org/10.1215/kjm/1250524787)
+- **[Foundational]** W. Haboush. *Reductive groups are geometrically reductive.* Annals of Mathematics **102** (1975), 67–83. [DOI](https://doi.org/10.2307/1970974)
+- **[Foundational]** R. Weitzenböck. *Über die Invarianten von linearen Gruppen.* Acta Mathematica **58** (1932), 231–293. [DOI](https://doi.org/10.1007/bf02547779)
+- **[Foundational]** C. S. Seshadri. *On a theorem of Weitzenböck in invariant theory.* Journal of Mathematics of Kyoto University **1** (1962), 403–409. [DOI](https://doi.org/10.1215/kjm/1250525012)
+- **[SOTA / Recent]** P. Roberts. *An infinitely generated symbolic blow-up in a power series ring and a new counterexample to Hilbert's fourteenth problem.* Journal of Algebra **132** (1990), 461–473. [DOI](https://doi.org/10.1016/0021-8693(90)90141-a)
 - **[SOTA / Recent]** D. Daigle and G. Freudenburg. *A counterexample to Hilbert's fourteenth problem in dimension 5.* Journal of Algebra **221** (1999), 528–535.
-- **[SOTA / Recent]** G. Freudenburg. *A counterexample to Hilbert's fourteenth problem in dimension six.* Transformation Groups **5** (2000), 61–71.
-- **[SOTA / Recent]** S. Kuroda. *A counterexample to the fourteenth problem of Hilbert in dimension four.* Journal of Algebra **279** (2004), 126–134.
-- **[SOTA / Recent]** S. Kuroda. *A counterexample to the fourteenth problem of Hilbert in dimension three.* Michigan Mathematical Journal **53** (2005), 123–132.
-- **[SOTA / Recent]** A.-M. Castravet and J. Tevelev. *Hilbert's 14th problem and Cox rings.* Compositio Mathematica **142** (2006), 1479–1498.
-- **[SOTA / Recent]** B. Totaro. *Hilbert's 14th problem over finite fields and a conjecture on the cone of curves.* Compositio Mathematica **144** (2008), 1176–1198.
+- **[SOTA / Recent]** G. Freudenburg. *A counterexample to Hilbert's fourteenth problem in dimension six.* Transformation Groups **5** (2000), 61–71. [DOI](https://doi.org/10.1007/bf01237178)
+- **[SOTA / Recent]** S. Kuroda. *A counterexample to the fourteenth problem of Hilbert in dimension four.* Journal of Algebra **279** (2004), 126–134. [DOI](https://doi.org/10.1016/j.jalgebra.2004.05.002)
+- **[SOTA / Recent]** S. Kuroda. *A counterexample to the fourteenth problem of Hilbert in dimension three.* Michigan Mathematical Journal **53** (2005), 123–132. [DOI](https://doi.org/10.1307/mmj/1114021089)
+- **[SOTA / Recent]** A.-M. Castravet and J. Tevelev. *Hilbert's 14th problem and Cox rings.* Compositio Mathematica **142** (2006), 1479–1498. [DOI](https://doi.org/10.1112/s0010437x06002284)
+- **[SOTA / Recent]** B. Totaro. *Hilbert's 14th problem over finite fields and a conjecture on the cone of curves.* Compositio Mathematica **144** (2008), 1176–1198. [DOI](https://doi.org/10.1112/s0010437x08003667)
 - **[SOTA / Recent]** S. M. Bhatwadekar and D. Daigle. *On finite generation of kernels of locally nilpotent $R$-derivations of $R[X,Y,Z]$.* Journal of Algebra **322** (2009), 2915–2926.
 - **[Survey]** G. Freudenburg. *Algebraic Theory of Locally Nilpotent Derivations.* Encyclopaedia of Mathematical Sciences **136**, Springer, 2nd edition, 2017.
 - **[Survey]** H. Derksen and G. Kemper. *Computational Invariant Theory.* Encyclopaedia of Mathematical Sciences **130**, Springer, 2nd edition, 2015.
-- **[Survey]** A. van den Essen. *Polynomial Automorphisms and the Jacobian Conjecture.* Progress in Mathematics **190**, Birkhäuser, 2000.
-- **[Survey]** J. Winkelmann. *Invariant rings and quasiaffine quotients.* Mathematische Zeitschrift **244** (2003), 163–174.
+- **[Survey]** A. van den Essen. *Polynomial Automorphisms and the Jacobian Conjecture.* Progress in Mathematics **190**, Birkhäuser, 2000. [DOI](https://doi.org/10.2307/3621827)
+- **[Survey]** J. Winkelmann. *Invariant rings and quasiaffine quotients.* Mathematische Zeitschrift **244** (2003), 163–174. [DOI](https://doi.org/10.1007/s00209-002-0484-9)
 
 ## 10. Worked Example / Concrete Special Case
 

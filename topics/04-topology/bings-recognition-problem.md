@@ -110,24 +110,24 @@ For (R2) the missing step in $n=3$ is: show a homogeneous ANR $X^3$ is a homolog
 
 ## 9. Key References
 
-- **[Foundational]** R. H. Bing. *Necessary and sufficient conditions that a 3-manifold be $S^3$.* Annals of Mathematics **68** (1958), 17–37.
-- **[Foundational]** R. H. Bing. *A homeomorphism between the 3-sphere and the sum of two solid horned spheres.* Annals of Mathematics **56** (1952), 354–362.
-- **[Foundational]** R. H. Bing, K. Borsuk. *Some remarks concerning topologically homogeneous spaces.* Annals of Mathematics **81** (1965), 100–111.
-- **[Foundational]** J. W. Cannon. *Shrinking cell-like decompositions of manifolds. Codimension three.* Annals of Mathematics **110** (1979), 83–112.
+- **[Foundational]** R. H. Bing. *Necessary and sufficient conditions that a 3-manifold be $S^3$.* Annals of Mathematics **68** (1958), 17–37. [DOI](https://doi.org/10.2307/1970041)
+- **[Foundational]** R. H. Bing. *A homeomorphism between the 3-sphere and the sum of two solid horned spheres.* Annals of Mathematics **56** (1952), 354–362. [DOI](https://doi.org/10.2307/1969804)
+- **[Foundational]** R. H. Bing, K. Borsuk. *Some remarks concerning topologically homogeneous spaces.* Annals of Mathematics **81** (1965), 100–111. [DOI](https://doi.org/10.2307/1970385)
+- **[Foundational]** J. W. Cannon. *Shrinking cell-like decompositions of manifolds. Codimension three.* Annals of Mathematics **110** (1979), 83–112. [DOI](https://doi.org/10.2307/1971245)
 - **[Foundational]** R. D. Edwards. *The topology of manifolds and cell-like maps.* Proceedings of the ICM, Helsinki 1978, 111–127.
-- **[Foundational]** F. Quinn. *Resolutions of homology manifolds, and the topological characterization of manifolds.* Inventiones Mathematicae **72** (1983), 267–284; erratum **85** (1986), 653.
+- **[Foundational]** F. Quinn. *Resolutions of homology manifolds, and the topological characterization of manifolds.* Inventiones Mathematicae **72** (1983), 267–284; erratum **85** (1986), 653. [DOI](https://doi.org/10.1007/bf01389323)
 - **[SOTA]** J. Bryant, S. Ferry, W. Mio, S. Weinberger. *Topology of homology manifolds.* Annals of Mathematics **143** (1996), 435–467.
-- **[SOTA]** J. H. Rubinstein. *An algorithm to recognize the 3-sphere.* Proceedings of the ICM, Zürich 1994, 601–611.
-- **[SOTA]** A. Thompson. *Thin position and the recognition problem for $S^3$.* Mathematical Research Letters **1** (1994), 613–630.
-- **[SOTA]** S. Schleimer. *Sphere recognition lies in NP.* In *Low-dimensional and Symplectic Topology*, Proc. Sympos. Pure Math. **82**, AMS, 2011, 183–213.
-- **[SOTA]** G. Kuperberg. *Algorithmic homeomorphism of 3-manifolds as a corollary of geometrization.* Pacific Journal of Mathematics **301** (2019), 189–241.
-- **[SOTA]** M. Lackenby. *The efficient certification of knottedness and Thurston norm.* Advances in Mathematics **387** (2021), 107796.
-- **[Recent]** R. Zentner. *Integer homology 3-spheres admit irreducible representations in $SL(2,\mathbb{C})$.* Journal of the London Mathematical Society **98** (2018), 577–595.
+- **[SOTA]** J. H. Rubinstein. *An algorithm to recognize the 3-sphere.* Proceedings of the ICM, Zürich 1994, 601–611. [DOI](https://doi.org/10.1007/978-3-0348-9078-6_54)
+- **[SOTA]** A. Thompson. *Thin position and the recognition problem for $S^3$.* Mathematical Research Letters **1** (1994), 613–630. [DOI](https://doi.org/10.4310/mrl.1994.v1.n5.a9)
+- **[SOTA]** S. Schleimer. *Sphere recognition lies in NP.* In *Low-dimensional and Symplectic Topology*, Proc. Sympos. Pure Math. **82**, AMS, 2011, 183–213. [DOI](https://doi.org/10.1090/pspum/082/2768660)
+- **[SOTA]** G. Kuperberg. *Algorithmic homeomorphism of 3-manifolds as a corollary of geometrization.* Pacific Journal of Mathematics **301** (2019), 189–241. [DOI](https://doi.org/10.2140/pjm.2019.301.189)
+- **[SOTA]** M. Lackenby. *The efficient certification of knottedness and Thurston norm.* Advances in Mathematics **387** (2021), 107796. [DOI](https://doi.org/10.1016/j.aim.2021.107796)
+- **[Recent]** R. Zentner. *Integer homology 3-spheres admit irreducible representations in $SL(2,\mathbb{C})$.* Journal of the London Mathematical Society **98** (2018), 577–595. [DOI](https://doi.org/10.1215/00127094-2018-0004)
 - **[Survey]** R. J. Daverman. *Decompositions of Manifolds.* Academic Press, 1986.
 - **[Survey]** D. Halverson, D. Repovš. *The Bing–Borsuk and the Busemann conjectures.* Mathematical Communications **13** (2008), 163–184.
 - **[Survey]** R. H. Bing. *The Geometric Topology of 3-Manifolds.* AMS Colloquium Publications **40**, 1983.
-- **[Related]** W. Jakobsche. *The Bing–Borsuk conjecture is stronger than the Poincaré conjecture.* Fundamenta Mathematicae **106** (1980), 127–134.
-- **[Related]** J. Hass, J. Lagarias, N. Pippenger. *The computational complexity of knot and link problems.* Journal of the ACM **46** (1999), 185–211.
+- **[Related]** W. Jakobsche. *The Bing–Borsuk conjecture is stronger than the Poincaré conjecture.* Fundamenta Mathematicae **106** (1980), 127–134. [DOI](https://doi.org/10.4064/fm-106-2-127-134)
+- **[Related]** J. Hass, J. Lagarias, N. Pippenger. *The computational complexity of knot and link problems.* Journal of the ACM **46** (1999), 185–211. [DOI](https://doi.org/10.1145/301970.301971)
 
 ## 10. Worked Example / Concrete Special Case
 

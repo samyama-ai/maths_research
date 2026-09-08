@@ -95,10 +95,10 @@ Leading analytic number theorists suggest that resolving the degree 2 case (such
 ## 9. Key References
 
 - **[Foundational]** V. Bouniakowsky. *Nouveaux théorèmes relatifs à la distinction des nombres premiers et à la décomposition des entiers en facteurs.* Mémoires de l'Académie Impériale des Sciences de St.-Pétersbourg, 1857.
-- **[Foundational]** P. T. Bateman and R. A. Horn. *A heuristic asymptotic formula concerning the distribution of prime numbers.* Mathematics of Computation, 1962.
-- **[SOTA / Recent]** H. Iwaniec. *Almost-primes represented by quadratic polynomials.* Inventiones mathematicae, 1978.
-- **[SOTA / Recent]** J. Friedlander and H. Iwaniec. *The polynomial $X^2 + Y^4$ captures its primes.* Annals of Mathematics, 1998.
-- **[Survey]** P. Ribenboim. *The Little Book of Bigger Primes.* Springer-Verlag, 2004.
+- **[Foundational]** P. T. Bateman and R. A. Horn. *A heuristic asymptotic formula concerning the distribution of prime numbers.* Mathematics of Computation, 1962. [DOI](https://doi.org/10.1090/s0025-5718-1962-0148632-7)
+- **[SOTA / Recent]** H. Iwaniec. *Almost-primes represented by quadratic polynomials.* Inventiones mathematicae, 1978. [DOI](https://doi.org/10.1007/bf01578070)
+- **[SOTA / Recent]** J. Friedlander and H. Iwaniec. *The polynomial $X^2 + Y^4$ captures its primes.* Annals of Mathematics, 1998. [DOI](https://doi.org/10.2307/121034)
+- **[Survey]** P. Ribenboim. *The Little Book of Bigger Primes.* Springer-Verlag, 2004. [DOI](https://doi.org/10.1007/b97621)
 
 ## 10. Worked Example / Concrete Special Case
 

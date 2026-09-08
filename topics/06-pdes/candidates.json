@@ -228,12 +228,6 @@
     "description": "Bound the fundamental vibrational frequency of surfaces by their area."
   },
   {
-    "title": "Schoen Harmonic Map Conjecture",
-    "slug": "schoen-harmonic-map-conjecture",
-    "status": "open",
-    "description": "Characterize the existence of minimal stretching maps between complex spaces."
-  },
-  {
     "title": "Chern Ricci Flow Singularities",
     "slug": "chern-ricci-flow-singularities",
     "status": "partially-solved",
@@ -814,5 +808,367 @@
     "slug": "logarithmic-schrodinger-dispersive-estimates",
     "status": "partially-solved",
     "description": "Studies wave spreading in optical media with logarithmic nonlinear refractive indices."
+  },
+  {
+    "title": "Global Well-posedness of the Two-Dimensional Kuramoto\u2013Sivashinsky Equation with Anisotropic Viscosity",
+    "slug": "anisotropic-kuramoto-sivashinsky-wellposedness",
+    "status": "open",
+    "description": "Global smooth solutions for anisotropic two-dimensional flame front model",
+    "hidden": true
+  },
+  {
+    "title": "De Giorgi Conjecture for the Allen\u2013Cahn Equation in Dimensions Nine and Above",
+    "slug": "de-giorgi-conjecture-allen-cahn",
+    "status": "partially-solved",
+    "description": "Are bounded monotone entire solutions one-dimensional in high dimensions"
+  },
+  {
+    "title": "Uniqueness of Blow-up Limits for the Yamabe Flow on Compact Manifolds",
+    "slug": "yamabe-flow-blowup-uniqueness",
+    "status": "open",
+    "description": "Do rescaled Yamabe flow singularities converge to unique models"
+  },
+  {
+    "title": "Regularity of Optimal Partitions for Eigenvalue Problems",
+    "slug": "optimal-eigenvalue-partition-regularity",
+    "status": "partially-solved",
+    "description": "Smoothness of interfaces in spectral optimal partition problems"
+  },
+  {
+    "title": "Global Existence for the Relativistic Vlasov\u2013Poisson System with Large Data",
+    "slug": "relativistic-vlasov-poisson-large-data",
+    "status": "open",
+    "description": "Does relativistic kinetic gravity avoid finite time concentration"
+  },
+  {
+    "title": "Sharp Well-posedness Threshold for the Cubic Fourth-Order Schrodinger Equation",
+    "slug": "fourth-order-schrodinger-critical-wellposedness",
+    "status": "partially-solved",
+    "description": "Determine minimal regularity for biharmonic nonlinear Schrodinger solutions"
+  },
+  {
+    "title": "Hydrodynamic Limit of the Hard-Sphere Gas Beyond Boltzmann\u2013Grad Time Scales",
+    "slug": "hard-sphere-hydrodynamic-limit",
+    "status": "partially-solved",
+    "description": "Derive fluid equations from particles past short kinetic times"
+  },
+  {
+    "title": "Global Regularity for the Three-Dimensional Primitive Equations with Partial Dissipation",
+    "slug": "primitive-equations-partial-dissipation",
+    "status": "partially-solved",
+    "description": "Smoothness of ocean models with incomplete viscosity terms"
+  },
+  {
+    "title": "Finite-Time Singularity Formation in the Hall-Magnetohydrodynamics System",
+    "slug": "hall-mhd-singularity-formation",
+    "status": "partially-solved",
+    "description": "Does the Hall term drive plasma blow-up"
+  },
+  {
+    "title": "Convergence Rate in the Quasineutral Limit for Ill-prepared Data",
+    "slug": "quasineutral-limit-rough-data",
+    "status": "open",
+    "description": "Plasma quasineutral limit validity for rough initial distributions"
+  },
+  {
+    "title": "Global Solutions of the Two-Fluid Euler\u2013Maxwell System",
+    "slug": "euler-maxwell-two-fluid-global",
+    "status": "partially-solved",
+    "description": "Long time existence for coupled ion electron plasma equations"
+  },
+  {
+    "title": "Nonlinear Stability of the Rarefaction Wave for Compressible Navier\u2013Stokes with Free Boundary",
+    "slug": "rarefaction-wave-free-boundary-stability",
+    "status": "open",
+    "description": "Stability of expansion waves in gases with moving boundary"
+  },
+  {
+    "title": "Convex Integration Limits for Sobolev-Regular Weak Solutions of Transport Equations",
+    "slug": "transport-equation-nonuniqueness-threshold",
+    "status": "partially-solved",
+    "description": "Sharp Sobolev threshold separating uniqueness from wild transport solutions"
+  },
+  {
+    "title": "Regularity of the Free Boundary in the Two-Phase Bernoulli Problem in High Dimensions",
+    "slug": "two-phase-bernoulli-free-boundary",
+    "status": "partially-solved",
+    "description": "Singular set size for two phase free boundaries"
+  },
+  {
+    "title": "Global Well-posedness of the Chemotaxis\u2013Navier\u2013Stokes System in Three Dimensions",
+    "slug": "chemotaxis-navier-stokes-regularity",
+    "status": "partially-solved",
+    "description": "Smooth solutions for bacteria swimming in fluid"
+  },
+  {
+    "title": "Optimal Decay and Asymptotic Completeness for the Massless Vlasov\u2013Nordstrom System",
+    "slug": "vlasov-nordstrom-asymptotics",
+    "status": "open",
+    "description": "Long time behaviour of massless kinetic scalar gravity"
+  },
+  {
+    "title": "Analyticity Radius Lower Bounds for Solutions of the Muskat and SQG Equations",
+    "slug": "analyticity-radius-interface-equations",
+    "status": "open",
+    "description": "Quantitative analyticity persistence for fluid interface evolution"
+  },
+  {
+    "title": "Sharp Constant in the Strichartz Inequality for the Wave Equation",
+    "slug": "wave-strichartz-sharp-constant",
+    "status": "partially-solved",
+    "description": "Determine extremisers and best constants in wave Strichartz bounds"
+  },
+  {
+    "title": "Nodal Domain Count for High-Frequency Laplace Eigenfunctions",
+    "slug": "nodal-domain-count-asymptotics",
+    "status": "open",
+    "description": "Growth of nodal domain numbers for chaotic eigenfunctions"
+  },
+  {
+    "title": "Global Regularity of the Surface Growth Model in One Dimension",
+    "slug": "surface-growth-model-regularity",
+    "status": "open",
+    "description": "Smoothness of a scalar Navier Stokes toy model"
+  },
+  {
+    "title": "Existence of Self-Similar Blow-up for the Supercritical Harmonic Map Flow into Spheres",
+    "slug": "harmonic-map-flow-self-similar-blowup",
+    "status": "partially-solved",
+    "description": "Do self similar singularities exist above dimension two"
+  },
+  {
+    "title": "Long-Time Behaviour of the Peskin Problem for Immersed Elastic Filaments",
+    "slug": "peskin-problem-global-behaviour",
+    "status": "partially-solved",
+    "description": "Global dynamics of elastic loops immersed in Stokes flow"
+  },
+  {
+    "title": "Rigidity of Ancient Solutions to the Ricci Flow in Higher Dimensions",
+    "slug": "ancient-ricci-flow-classification",
+    "status": "partially-solved",
+    "description": "Classify eternal backwards solutions of curvature flow"
+  },
+  {
+    "title": "Uniqueness of Weak Solutions to the Ericksen\u2013Leslie Free Boundary Problem for Films",
+    "slug": "thin-film-equation-uniqueness",
+    "status": "open",
+    "description": "Uniqueness of weak solutions for degenerate thin film flow"
+  },
+  {
+    "title": "Sharp Sobolev Trace Inequality Stability and Its Flow Consequences",
+    "slug": "sobolev-trace-inequality-stability",
+    "status": "partially-solved",
+    "description": "Quantitative deficit bounds for trace Sobolev extremal functions"
+  },
+  {
+    "title": "Global Solvability of the Boltzmann Equation Without Angular Cutoff for Soft Potentials",
+    "slug": "boltzmann-soft-potentials-noncutoff",
+    "status": "partially-solved",
+    "description": "Large data solutions for grazing collisions with soft interactions"
+  },
+  {
+    "title": "Turbulent Cascade and Weak Solutions for the Alpha Models of Fluid Flow",
+    "slug": "alpha-models-turbulence-limit",
+    "status": "open",
+    "description": "Do regularised fluid models converge to Euler dissipative solutions"
+  },
+  {
+    "title": "Instability and Bifurcation of Rotating Vortex Patch Solutions of the Euler Equations",
+    "slug": "rotating-vortex-patch-bifurcation",
+    "status": "partially-solved",
+    "description": "Classify branches of uniformly rotating two dimensional vortices"
+  },
+  {
+    "title": "Sharp Decay Rates for Nonlinear Wave Equations on Extremal Black Hole Backgrounds",
+    "slug": "extremal-black-hole-horizon-instability",
+    "status": "partially-solved",
+    "description": "Aretakis instability effects on nonlinear waves at extremal horizons"
+  },
+  {
+    "title": "Global Existence for the Two-Dimensional Water Wave Problem with Surface Tension and Vorticity",
+    "slug": "capillary-water-waves-vorticity",
+    "status": "open",
+    "description": "Long time solutions for capillary waves with rotational flow"
+  },
+  {
+    "title": "Global Well-posedness of the Ostrovsky Equation with Small Rotation",
+    "slug": "ostrovsky-equation-global-wellposedness",
+    "status": "open",
+    "description": "Long-time behavior of rotation-modified KdV solitary waves",
+    "topic_note": ""
+  },
+  {
+    "title": "Chapman-Enskog Expansion Convergence for Kinetic Equations",
+    "slug": "chapman-enskog-expansion-convergence",
+    "status": "open",
+    "description": "Whether hydrodynamic expansions converge beyond first order"
+  },
+  {
+    "title": "Blow-up for the Supercritical Complex Ginzburg-Landau Equation",
+    "slug": "complex-ginzburg-landau-blowup",
+    "status": "open",
+    "description": "Existence of finite-time singularities in supercritical dissipative regime"
+  },
+  {
+    "title": "Global Regularity for the Two-Dimensional Inviscid Primitive Equations",
+    "slug": "inviscid-primitive-equations-blowup",
+    "status": "partially-solved",
+    "description": "Singularity formation in hydrostatic Euler with analytic data"
+  },
+  {
+    "title": "Uniqueness of Weak Solutions to the Ericksen Bar Equation for Rods",
+    "slug": "nonlinear-elastodynamics-rod-uniqueness",
+    "status": "open",
+    "description": "Uniqueness for one dimensional nonconvex elastodynamics"
+  },
+  {
+    "title": "Global Existence for the Relativistic Boltzmann Equation with Large Data",
+    "slug": "relativistic-boltzmann-large-data",
+    "status": "open",
+    "description": "Strong solutions without smallness for relativistic collision kernels"
+  },
+  {
+    "title": "Regularity of Solutions to the Monge-Kantorovich Flow with Congestion",
+    "slug": "crowd-motion-congestion-regularity",
+    "status": "open",
+    "description": "Smoothness of congested transport and crowd motion densities"
+  },
+  {
+    "title": "Global Solutions to the Vlasov-Einstein System with Small Data in Asymptotically Flat Spacetimes",
+    "slug": "massless-vlasov-einstein-scattering",
+    "status": "partially-solved",
+    "description": "Scattering theory for massless collisionless matter in general relativity"
+  },
+  {
+    "title": "Sharp Thresholds for Instability of Shear Flows in the Euler Equations",
+    "slug": "shear-flow-nonlinear-instability-threshold",
+    "status": "open",
+    "description": "Critical regularity separating stable from unstable inviscid shear flows"
+  },
+  {
+    "title": "Well-posedness of the Hydrostatic Navier-Stokes Equations in Sobolev Spaces",
+    "slug": "hydrostatic-navier-stokes-sobolev",
+    "status": "partially-solved",
+    "description": "Solvability beyond analytic or convex data classes"
+  },
+  {
+    "title": "The Bramson Logarithmic Correction for Nonlocal Reaction-Diffusion",
+    "slug": "nonlocal-fkpp-bramson-correction",
+    "status": "open",
+    "description": "Front delay asymptotics for nonlocal competition equations"
+  },
+  {
+    "title": "Convergence Rate in the Semiclassical Limit of the Hartree Equation",
+    "slug": "hartree-semiclassical-limit-rate",
+    "status": "partially-solved",
+    "description": "Optimal error bounds from quantum Hartree to Vlasov dynamics"
+  },
+  {
+    "title": "Global Regularity of the Fractional Burgers Equation at the Critical Exponent",
+    "slug": "fractional-burgers-critical-regularity",
+    "status": "partially-solved",
+    "description": "Behavior of dissipative Burgers at borderline fractional diffusion"
+  },
+  {
+    "title": "Long-time Behavior of the Degenerate Kolmogorov Equation with Rough Coefficients",
+    "slug": "kinetic-kolmogorov-rough-coefficients",
+    "status": "open",
+    "description": "Harnack inequalities for hypoelliptic equations with measurable coefficients"
+  },
+  {
+    "title": "Uniqueness of Blow-up Profiles for the Energy-Critical Heat Equation",
+    "slug": "energy-critical-heat-blowup-profiles",
+    "status": "partially-solved",
+    "description": "Classification of type II singularities in semilinear heat flow"
+  },
+  {
+    "title": "Global Existence for the Two-Dimensional Water Wave Equation with Surface Tension and Vorticity",
+    "slug": "capillary-gravity-waves-long-time",
+    "status": "open",
+    "description": "Lifespan of capillary gravity waves beyond quadratic time"
+  },
+  {
+    "title": "Rigidity of Ancient Solutions to the Mean Curvature Flow in Higher Codimension",
+    "slug": "ancient-mean-curvature-flow-codimension",
+    "status": "open",
+    "description": "Classifying eternal high codimension mean curvature flows"
+  },
+  {
+    "title": "Global Well-posedness of the Chern-Simons-Schrodinger Equation at Critical Regularity",
+    "slug": "chern-simons-schrodinger-critical",
+    "status": "partially-solved",
+    "description": "Threshold behavior for gauged planar Schrodinger dynamics"
+  },
+  {
+    "title": "The Stability of the Vlasov-Poisson Penrose Criterion Beyond Analytic Data",
+    "slug": "landau-damping-sobolev-regularity",
+    "status": "partially-solved",
+    "description": "Whether Landau damping survives at finite Sobolev regularity"
+  },
+  {
+    "title": "Convergence of Numerical Schemes to Physical Solutions of Multidimensional Systems of Conservation Laws",
+    "slug": "multidimensional-conservation-laws-convergence",
+    "status": "open",
+    "description": "Compactness and entropy solutions for multidimensional hyperbolic systems"
+  },
+  {
+    "title": "Regularity of Free Boundaries in the One-Phase Bernoulli Problem in High Dimensions",
+    "slug": "one-phase-bernoulli-critical-dimension",
+    "status": "partially-solved",
+    "description": "Determining the first dimension admitting singular free boundaries"
+  },
+  {
+    "title": "Global Attractors for the Damped Driven Nonlinear Schrodinger Equation",
+    "slug": "damped-driven-nls-attractor",
+    "status": "open",
+    "description": "Finite dimensionality of attractors for forced dispersive dynamics"
+  },
+  {
+    "title": "Sharp Decay Rates for the Wave Equation on Black Hole Exteriors (Price's Law)",
+    "slug": "price-law-late-time-tails",
+    "status": "solved-recently",
+    "description": "Precise polynomial tails of waves outside black holes"
+  },
+  {
+    "title": "Well-posedness of the Stochastic Wave Equation with Supercritical Nonlinearity",
+    "slug": "stochastic-wave-supercritical-nonlinearity",
+    "status": "open",
+    "description": "Random data solvability above the critical scaling threshold"
+  },
+  {
+    "title": "The Grushin Operator Unique Continuation Problem",
+    "slug": "grushin-operator-unique-continuation",
+    "status": "open",
+    "description": "Unique continuation for degenerate subelliptic operators"
+  },
+  {
+    "title": "Long-time Asymptotics of the Toda Shock Problem",
+    "slug": "nonlinear-steepest-descent-shock-asymptotics",
+    "status": "partially-solved",
+    "description": "Rigorous asymptotics for integrable systems with shock data"
+  },
+  {
+    "title": "Global Regularity for Nematic Liquid Crystal Flows with General Elastic Constants",
+    "slug": "nematic-flow-general-elastic-constants",
+    "status": "open",
+    "description": "Smoothness of liquid crystal flow without one constant approximation"
+  },
+  {
+    "title": "Existence of Nontrivial Steady States for the Vlasov-Maxwell System in a Bounded Domain",
+    "slug": "vlasov-maxwell-steady-states-bounded",
+    "status": "open",
+    "description": "Confined plasma equilibria with self-consistent electromagnetic fields"
+  },
+  {
+    "title": "Analyticity and Gevrey Regularity for the Hydrostatic Euler Equations with Multiple Monotonicity Regions",
+    "slug": "hydrostatic-euler-multiple-monotonicity",
+    "status": "open",
+    "description": "Solvability for shear profiles with several critical points"
+  },
+  {
+    "title": "Sharp Constants in Strichartz Estimates for the Klein-Gordon Equation",
+    "slug": "klein-gordon-strichartz-extremizers",
+    "status": "open",
+    "description": "Existence and shape of extremizers for relativistic dispersive estimates"
   }
 ]

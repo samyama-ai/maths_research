@@ -115,18 +115,18 @@ The gap is now not in the classical statement but at its boundary. Precisely:
 ## 9. Key References
 
 - **[Foundational]** D. Sullivan. *Geometric Topology: Localization, Periodicity and Galois Symmetry* (1970 MIT notes), ed. A. Ranicki, K-Monographs in Mathematics vol. 8, Springer, 2005.
-- **[Foundational]** H. Miller. *The Sullivan conjecture on maps from classifying spaces.* Annals of Mathematics **120** (1984), 39–87. Correction: Annals of Mathematics **121** (1985), 605–609.
-- **[Foundational]** G. Carlsson. *Equivariant stable homotopy and Segal's Burnside ring conjecture.* Annals of Mathematics **120** (1984), 189–224.
-- **[Foundational]** G. Carlsson. *Equivariant stable homotopy and Sullivan's conjecture.* Inventiones Mathematicae **103** (1991), 497–525.
+- **[Foundational]** H. Miller. *The Sullivan conjecture on maps from classifying spaces.* Annals of Mathematics **120** (1984), 39–87. Correction: Annals of Mathematics **121** (1985), 605–609. [DOI](https://doi.org/10.2307/2007071)
+- **[Foundational]** G. Carlsson. *Equivariant stable homotopy and Segal's Burnside ring conjecture.* Annals of Mathematics **120** (1984), 189–224. [DOI](https://doi.org/10.2307/2006940)
+- **[Foundational]** G. Carlsson. *Equivariant stable homotopy and Sullivan's conjecture.* Inventiones Mathematicae **103** (1991), 497–525. [DOI](https://doi.org/10.1007/bf01239524)
 - **[SOTA]** J. Lannes. *Sur les espaces fonctionnels dont la source est le classifiant d'un $p$-groupe abélien élémentaire.* Publications Mathématiques de l'IHÉS **75** (1992), 135–244.
-- **[SOTA]** J. Lannes, L. Schwartz. *Sur la structure des $A$-modules instables injectifs.* Topology **28** (1989), 153–169.
+- **[SOTA]** J. Lannes, L. Schwartz. *Sur la structure des $A$-modules instables injectifs.* Topology **28** (1989), 153–169. [DOI](https://doi.org/10.1016/0040-9383(89)90018-9)
 - **[Survey]** L. Schwartz. *Unstable Modules over the Steenrod Algebra and Sullivan's Fixed Point Set Conjecture.* Chicago Lectures in Mathematics, University of Chicago Press, 1994.
 - **[Survey]** H. Miller. *The Sullivan conjecture and homotopical representation theory.* Proceedings of the ICM, Berkeley 1986, AMS, 1987, pp. 580–589.
 - **[Survey]** J. F. Adams. *Two theorems of J. Lannes.* In *The Selected Works of J. Frank Adams*, Vol. II, Cambridge University Press, 1992.
 - **[Related]** W. Dwyer, A. Zabrodsky. *Maps between classifying spaces.* Lecture Notes in Mathematics **1298**, Springer, 1987, pp. 106–119.
-- **[Related]** W. Dwyer, H. Miller, J. Neisendorfer. *Fibrewise completion and unstable Adams spectral sequences.* Israel Journal of Mathematics **66** (1989), 160–178.
-- **[Related]** W. Dwyer, C. Wilkerson. *Homotopy fixed-point methods for Lie groups and finite loop spaces.* Annals of Mathematics **139** (1994), 395–442.
-- **[Recent]** J. Heller, K. Ormsby. *Galois equivariance and stable motivic homotopy theory.* Transactions of the AMS **368** (2016), 8047–8077.
+- **[Related]** W. Dwyer, H. Miller, J. Neisendorfer. *Fibrewise completion and unstable Adams spectral sequences.* Israel Journal of Mathematics **66** (1989), 160–178. [DOI](https://doi.org/10.1007/bf02765891)
+- **[Related]** W. Dwyer, C. Wilkerson. *Homotopy fixed-point methods for Lie groups and finite loop spaces.* Annals of Mathematics **139** (1994), 395–442. [DOI](https://doi.org/10.2307/2946585)
+- **[Recent]** J. Heller, K. Ormsby. *Galois equivariance and stable motivic homotopy theory.* Transactions of the AMS **368** (2016), 8047–8077. [DOI](https://doi.org/10.1090/tran6647)
 
 ## 10. Worked Example / Concrete Special Case
 

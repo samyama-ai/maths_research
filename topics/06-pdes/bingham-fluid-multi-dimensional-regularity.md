@@ -125,18 +125,18 @@ valid *uniformly across the yield surface*, where the blow-up limit may be a rig
 ## 9. Key References
 
 - **[Foundational]** E. C. Bingham. *Fluidity and Plasticity.* McGraw-Hill, 1922.
-- **[Foundational]** P. P. Mosolov, V. P. Miasnikov. *Variational methods in the theory of the fluidity of a viscous-plastic medium.* Journal of Applied Mathematics and Mechanics (PMM), 29(3):545–577, 1965.
-- **[Foundational]** G. Duvaut, J.-L. Lions. *Inequalities in Mechanics and Physics.* Grundlehren der mathematischen Wissenschaften 219, Springer, 1976. (French original: *Les inéquations en mécanique et en physique*, Dunod, 1972.)
+- **[Foundational]** P. P. Mosolov, V. P. Miasnikov. *Variational methods in the theory of the fluidity of a viscous-plastic medium.* Journal of Applied Mathematics and Mechanics (PMM), 29(3):545–577, 1965. [DOI](https://doi.org/10.1016/0021-8928(65)90063-8)
+- **[Foundational]** G. Duvaut, J.-L. Lions. *Inequalities in Mechanics and Physics.* Grundlehren der mathematischen Wissenschaften 219, Springer, 1976. (French original: *Les inéquations en mécanique et en physique*, Dunod, 1972.). [DOI](https://doi.org/10.1115/1.3424078)
 - **[Foundational]** R. Glowinski, J.-L. Lions, R. Trémolières. *Numerical Analysis of Variational Inequalities.* North-Holland, 1981.
 - **[SOTA]** M. Fuchs, G. Seregin. *Regularity results for the quasi-static Bingham variational inequality in dimensions two and three.* Mathematische Zeitschrift, 233:569–592, 2000.
-- **[SOTA]** M. Fuchs, J. F. Grotowski, J. Reuling. *On variational models for quasi-static Bingham fluids.* Mathematical Methods in the Applied Sciences, 19:991–1015, 1996.
-- **[SOTA]** M. Fuchs, G. Seregin. *Variational Methods for Problems from Plasticity Theory and for Generalized Newtonian Fluids.* Lecture Notes in Mathematics 1749, Springer, 2000.
-- **[SOTA]** V. V. Shelukhin. *Bingham viscoplastic as a limit of non-Newtonian fluids.* Journal of Mathematical Fluid Mechanics, 4:109–127, 2002.
+- **[SOTA]** M. Fuchs, J. F. Grotowski, J. Reuling. *On variational models for quasi-static Bingham fluids.* Mathematical Methods in the Applied Sciences, 19:991–1015, 1996. [DOI](https://doi.org/10.1002/(sici)1099-1476(199608)19:12<991::aid-mma810>3.0.co;2-r)
+- **[SOTA]** M. Fuchs, G. Seregin. *Variational Methods for Problems from Plasticity Theory and for Generalized Newtonian Fluids.* Lecture Notes in Mathematics 1749, Springer, 2000. [DOI](https://doi.org/10.1007/bfb0103751)
+- **[SOTA]** V. V. Shelukhin. *Bingham viscoplastic as a limit of non-Newtonian fluids.* Journal of Mathematical Fluid Mechanics, 4:109–127, 2002. [DOI](https://doi.org/10.1007/s00021-002-8538-7)
 - **[SOTA]** J. Málek, M. Růžička, V. V. Shelukhin. *Herschel–Bulkley fluids: existence and regularity of steady flows.* Mathematical Models and Methods in Applied Sciences, 15:1845–1861, 2005.
-- **[Related]** J. Frehse, J. Málek, M. Steinhauer. *On analysis of steady flows of fluids with shear-dependent viscosity based on the Lipschitz truncation method.* SIAM Journal on Mathematical Analysis, 34:1064–1083, 2003.
-- **[Survey]** N. J. Balmforth, I. A. Frigaard, G. Ovarlez. *Yielding to stress: recent developments in viscoplastic fluid mechanics.* Annual Review of Fluid Mechanics, 46:121–146, 2014.
-- **[Survey]** R. R. Huilgol. *Fluid Mechanics of Viscoplasticity.* Springer, 2015.
-- **[Survey]** I. A. Frigaard, C. Nouar. *On the usage of viscosity regularisation methods for visco-plastic fluid flow computation.* Journal of Non-Newtonian Fluid Mechanics, 127:1–26, 2005.
+- **[Related]** J. Frehse, J. Málek, M. Steinhauer. *On analysis of steady flows of fluids with shear-dependent viscosity based on the Lipschitz truncation method.* SIAM Journal on Mathematical Analysis, 34:1064–1083, 2003. [DOI](https://doi.org/10.1137/s0036141002410988)
+- **[Survey]** N. J. Balmforth, I. A. Frigaard, G. Ovarlez. *Yielding to stress: recent developments in viscoplastic fluid mechanics.* Annual Review of Fluid Mechanics, 46:121–146, 2014. [DOI](https://doi.org/10.1146/annurev-fluid-010313-141424)
+- **[Survey]** R. R. Huilgol. *Fluid Mechanics of Viscoplasticity.* Springer, 2015. [DOI](https://doi.org/10.1007/978-3-662-45617-0)
+- **[Survey]** I. A. Frigaard, C. Nouar. *On the usage of viscosity regularisation methods for visco-plastic fluid flow computation.* Journal of Non-Newtonian Fluid Mechanics, 127:1–26, 2005. [DOI](https://doi.org/10.1016/j.jnnfm.2005.01.003)
 
 ## 10. Worked Example / Concrete Special Case
 

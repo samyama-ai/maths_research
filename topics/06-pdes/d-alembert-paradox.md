@@ -111,20 +111,20 @@ for a sphere or cylinder in uniform flow. Kato's theorem already says this is *e
 - **[Foundational]** J. le R. d'Alembert. *Essai d'une nouvelle théorie de la résistance des fluides.* David l'aîné, Paris, 1752.
 - **[Foundational]** L. Prandtl. *Über Flüssigkeitsbewegung bei sehr kleiner Reibung.* Verhandlungen des III. Internationalen Mathematiker-Kongresses, Heidelberg, 1904, pp. 484–491.
 - **[Foundational]** G. Birkhoff. *Hydrodynamics: A Study in Logic, Fact and Similitude.* Princeton University Press, 1950.
-- **[Foundational]** T. Kato. *Remarks on zero viscosity limit for nonstationary Navier–Stokes flows with boundary.* In: Seminar on Nonlinear Partial Differential Equations (S. S. Chern, ed.), MSRI Publications 2, Springer, 1984, pp. 85–98.
+- **[Foundational]** T. Kato. *Remarks on zero viscosity limit for nonstationary Navier–Stokes flows with boundary.* In: Seminar on Nonlinear Partial Differential Equations (S. S. Chern, ed.), MSRI Publications 2, Springer, 1984, pp. 85–98. [DOI](https://doi.org/10.1007/978-1-4612-1110-5_6)
 - **[Survey]** K. Stewartson. *D'Alembert's paradox.* SIAM Review 23(3), 308–343, 1981.
 - **[Survey]** G. K. Batchelor. *An Introduction to Fluid Dynamics.* Cambridge University Press, 1967 (§6.4, §5.11).
 - **[Survey]** G. P. Galdi. *An Introduction to the Mathematical Theory of the Navier–Stokes Equations: Steady-State Problems.* 2nd ed., Springer, 2011.
-- **[Foundational]** R. Finn. *On the exterior stationary problem for the Navier–Stokes equations, and associated perturbation problems.* Archive for Rational Mechanics and Analysis 19, 363–406, 1965.
-- **[SOTA]** M. Sammartino, R. E. Caflisch. *Zero viscosity limit for analytic solutions of the Navier–Stokes equation on a half-space, I & II.* Communications in Mathematical Physics 192, 433–461 and 463–491, 1998.
-- **[SOTA]** E. Grenier. *On the nonlinear instability of Euler and Prandtl equations.* Communications on Pure and Applied Mathematics 53(9), 1067–1091, 2000.
-- **[SOTA]** D. Gérard-Varet, E. Dormy. *On the ill-posedness of the Prandtl equation.* Journal of the American Mathematical Society 23(2), 591–609, 2010.
-- **[SOTA]** Y. Maekawa. *On the inviscid limit problem of the vorticity equations for viscous incompressible flows in the half-plane.* Communications on Pure and Applied Mathematics 67(7), 1045–1128, 2014.
-- **[SOTA]** D. Gérard-Varet, Y. Maekawa, N. Masmoudi. *Gevrey stability of Prandtl expansions for 2-dimensional Navier–Stokes flows.* Duke Mathematical Journal 167(13), 2531–2631, 2018.
-- **[SOTA]** P. Constantin, V. Vicol. *Remarks on high Reynolds numbers hydrodynamics and the inviscid limit.* Journal of Nonlinear Science 28, 711–724, 2018.
+- **[Foundational]** R. Finn. *On the exterior stationary problem for the Navier–Stokes equations, and associated perturbation problems.* Archive for Rational Mechanics and Analysis 19, 363–406, 1965. [DOI](https://doi.org/10.1007/bf00253485)
+- **[SOTA]** M. Sammartino, R. E. Caflisch. *Zero viscosity limit for analytic solutions of the Navier–Stokes equation on a half-space, I & II.* Communications in Mathematical Physics 192, 433–461 and 463–491, 1998. [DOI](https://doi.org/10.1007/s002200050305)
+- **[SOTA]** E. Grenier. *On the nonlinear instability of Euler and Prandtl equations.* Communications on Pure and Applied Mathematics 53(9), 1067–1091, 2000. [DOI](https://doi.org/10.1002/1097-0312(200009)53:9<1067::aid-cpa1>3.0.co;2-q)
+- **[SOTA]** D. Gérard-Varet, E. Dormy. *On the ill-posedness of the Prandtl equation.* Journal of the American Mathematical Society 23(2), 591–609, 2010. [DOI](https://doi.org/10.1090/s0894-0347-09-00652-3)
+- **[SOTA]** Y. Maekawa. *On the inviscid limit problem of the vorticity equations for viscous incompressible flows in the half-plane.* Communications on Pure and Applied Mathematics 67(7), 1045–1128, 2014. [DOI](https://doi.org/10.1002/cpa.21516)
+- **[SOTA]** D. Gérard-Varet, Y. Maekawa, N. Masmoudi. *Gevrey stability of Prandtl expansions for 2-dimensional Navier–Stokes flows.* Duke Mathematical Journal 167(13), 2531–2631, 2018. [DOI](https://doi.org/10.1215/00127094-2018-0020)
+- **[SOTA]** P. Constantin, V. Vicol. *Remarks on high Reynolds numbers hydrodynamics and the inviscid limit.* Journal of Nonlinear Science 28, 711–724, 2018. [DOI](https://doi.org/10.1007/s00332-017-9424-z)
 - **[SOTA]** J. P. Kelliher. *On Kato's conditions for vanishing viscosity limit.* Indiana University Mathematics Journal 56(4), 1711–1721, 2007.
 - **[Contested]** J. Hoffman, C. Johnson. *Resolution of d'Alembert's paradox.* Journal of Mathematical Fluid Mechanics 12, 321–334, 2010.
-- **[SOTA]** T. Buckmaster, V. Vicol. *Nonuniqueness of weak solutions to the Navier–Stokes equation.* Annals of Mathematics 189(1), 101–144, 2019.
+- **[SOTA]** T. Buckmaster, V. Vicol. *Nonuniqueness of weak solutions to the Navier–Stokes equation.* Annals of Mathematics 189(1), 101–144, 2019. [DOI](https://doi.org/10.4007/annals.2019.189.1.3)
 
 ## 10. Worked Example / Concrete Special Case
 

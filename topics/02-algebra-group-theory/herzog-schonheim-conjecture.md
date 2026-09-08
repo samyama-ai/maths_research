@@ -101,15 +101,15 @@ The precise missing step is a **non-subnormal descent lemma**: given $G=\bigsqcu
 ## 9. Key References
 
 - **[Foundational]** M. Herzog and J. Schönheim. *Research Problem No. 9.* Canadian Mathematical Bulletin **17** (1974), 150.
-- **[Foundational]** B. H. Neumann. *Groups covered by permutable subsets.* Journal of the London Mathematical Society **29** (1954), 236–248.
-- **[Foundational]** Š. Znám. *On exactly covering systems of arithmetic sequences.* Mathematische Annalen **180** (1969), 227–232.
-- **[Partial result]** M. A. Berger, A. Felzenbaum and A. S. Fraenkel. *The Herzog–Schönheim conjecture for finite nilpotent groups.* Canadian Mathematical Bulletin **29** (1986), 329–333.
-- **[Partial result]** M. A. Berger, A. Felzenbaum and A. S. Fraenkel. *Improvements to the Newman–Znám result for disjoint covering systems.* Acta Arithmetica **50** (1988), 1–13.
-- **[SOTA]** Z.-W. Sun. *On the Herzog–Schönheim conjecture for uniform covers of groups.* Journal of Algebra **273** (2004), 153–175.
-- **[SOTA]** Z.-W. Sun. *Finite covers of groups by cosets or subgroups.* International Journal of Mathematics **17** (2006), 1047–1064.
-- **[SOTA / Recent]** L. Margolis and O. Schnabel. *The Herzog–Schönheim conjecture for small groups and harmonic subgroups.* Beiträge zur Algebra und Geometrie **60** (2019), 399–418.
-- **[SOTA / Recent]** L. Margolis and O. Schnabel. *The Herzog–Schönheim conjecture for finitely generated groups.* International Journal of Algebra and Computation, 2019.
-- **[Related]** M. J. Tomkinson. *Groups covered by finitely many cosets or subgroups.* Communications in Algebra **15** (1987), 845–859.
+- **[Foundational]** B. H. Neumann. *Groups covered by permutable subsets.* Journal of the London Mathematical Society **29** (1954), 236–248. [DOI](https://doi.org/10.1112/jlms/s1-29.2.236)
+- **[Foundational]** Š. Znám. *On exactly covering systems of arithmetic sequences.* Mathematische Annalen **180** (1969), 227–232. [DOI](https://doi.org/10.1007/bf01350740)
+- **[Partial result]** M. A. Berger, A. Felzenbaum and A. S. Fraenkel. *The Herzog–Schönheim conjecture for finite nilpotent groups.* Canadian Mathematical Bulletin **29** (1986), 329–333. [DOI](https://doi.org/10.4153/cmb-1986-050-0)
+- **[Partial result]** M. A. Berger, A. Felzenbaum and A. S. Fraenkel. *Improvements to the Newman–Znám result for disjoint covering systems.* Acta Arithmetica **50** (1988), 1–13. [DOI](https://doi.org/10.4064/aa-50-1-1-13)
+- **[SOTA]** Z.-W. Sun. *On the Herzog–Schönheim conjecture for uniform covers of groups.* Journal of Algebra **273** (2004), 153–175. [DOI](https://doi.org/10.1016/s0021-8693(03)00526-x)
+- **[SOTA]** Z.-W. Sun. *Finite covers of groups by cosets or subgroups.* International Journal of Mathematics **17** (2006), 1047–1064. [DOI](https://doi.org/10.1142/s0129167x06003813)
+- **[SOTA / Recent]** L. Margolis and O. Schnabel. *The Herzog–Schönheim conjecture for small groups and harmonic subgroups.* Beiträge zur Algebra und Geometrie **60** (2019), 399–418. [DOI](https://doi.org/10.1007/s13366-018-0419-1)
+- **[SOTA / Recent]** L. Margolis and O. Schnabel. *The Herzog–Schönheim conjecture for finitely generated groups.* International Journal of Algebra and Computation, 2019. [DOI](https://doi.org/10.1142/s0218196719500425)
+- **[Related]** M. J. Tomkinson. *Groups covered by finitely many cosets or subgroups.* Communications in Algebra **15** (1987), 845–859. [DOI](https://doi.org/10.1080/00927878708823445)
 - **[Survey]** Š. Porubský and J. Schönheim. *Covering systems of Paul Erdős: past, present and future.* In *Paul Erdős and His Mathematics I*, Bolyai Society Mathematical Studies **11**, Springer, 2002, 581–627.
 
 ## 10. Worked Example / Concrete Special Case

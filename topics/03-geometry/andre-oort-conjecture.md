@@ -115,20 +115,20 @@ For the conjecture itself there is no gap: Section 4's last unconditional row is
 
 - **[Foundational]** Y. André. *G-Functions and Geometry*. Aspects of Mathematics E13, Vieweg, 1989.
 - **[Foundational]** F. Oort. *Canonical liftings and dense sets of CM-points*, in "Arithmetic and Geometry" (F. Catanese, ed.), Cambridge University Press, 1997.
-- **[Foundational]** J. Pila, A. J. Wilkie. *The rational points of a definable set*. Duke Math. J. 133 (2006), 591–616.
-- **[Foundational]** J. Pila, U. Zannier. *Rational points in periodic analytic sets and the Manin–Mumford conjecture*. Rend. Lincei Mat. Appl. 19 (2008), 149–162.
-- **[Milestone]** B. Edixhoven, A. Yafaev. *Subvarieties of Shimura varieties*. Ann. of Math. 157 (2003), 621–645.
-- **[Milestone]** J. Pila. *O-minimality and the André–Oort conjecture for $\mathbb{C}^n$*. Ann. of Math. 173 (2011), 1779–1840.
-- **[Milestone]** L. Kühne. *An effective result of André–Oort type*. Ann. of Math. 176 (2012), 651–671.
-- **[Milestone]** B. Klingler, A. Yafaev. *The André–Oort conjecture*. Ann. of Math. 180 (2014), 867–925; E. Ullmo, A. Yafaev. *Galois orbits and equidistribution of special subvarieties: towards the André–Oort conjecture*. Ann. of Math. 180 (2014), 823–865.
-- **[Milestone]** J. Pila, J. Tsimerman. *Ax–Lindemann for $\mathcal{A}_g$*. Ann. of Math. 179 (2014), 659–681.
+- **[Foundational]** J. Pila, A. J. Wilkie. *The rational points of a definable set*. Duke Math. J. 133 (2006), 591–616. [DOI](https://doi.org/10.1215/s0012-7094-06-13336-7)
+- **[Foundational]** J. Pila, U. Zannier. *Rational points in periodic analytic sets and the Manin–Mumford conjecture*. Rend. Lincei Mat. Appl. 19 (2008), 149–162. [DOI](https://doi.org/10.4171/rlm/514)
+- **[Milestone]** B. Edixhoven, A. Yafaev. *Subvarieties of Shimura varieties*. Ann. of Math. 157 (2003), 621–645. [DOI](https://doi.org/10.4007/annals.2003.157.621)
+- **[Milestone]** J. Pila. *O-minimality and the André–Oort conjecture for $\mathbb{C}^n$*. Ann. of Math. 173 (2011), 1779–1840. [DOI](https://doi.org/10.4007/annals.2011.173.3.11)
+- **[Milestone]** L. Kühne. *An effective result of André–Oort type*. Ann. of Math. 176 (2012), 651–671. [DOI](https://doi.org/10.4007/annals.2012.176.1.13)
+- **[Milestone]** B. Klingler, A. Yafaev. *The André–Oort conjecture*. Ann. of Math. 180 (2014), 867–925; E. Ullmo, A. Yafaev. *Galois orbits and equidistribution of special subvarieties: towards the André–Oort conjecture*. Ann. of Math. 180 (2014), 823–865. [DOI](https://doi.org/10.4007/annals.2014.180.3.2)
+- **[Milestone]** J. Pila, J. Tsimerman. *Ax–Lindemann for $\mathcal{A}_g$*. Ann. of Math. 179 (2014), 659–681. [DOI](https://doi.org/10.4007/annals.2014.179.2.5)
 - **[SOTA]** J. Tsimerman. *The André–Oort conjecture for $\mathcal{A}_g$*. Ann. of Math. 187 (2018), 379–390.
-- **[SOTA]** F. Andreatta, E. Z. Goren, B. Howard, K. Madapusi Pera. *Faltings heights of abelian varieties with complex multiplication*. Ann. of Math. 187 (2018), 391–531; X. Yuan, S.-W. Zhang. *On the averaged Colmez conjecture*. Ann. of Math. 187 (2018), 533–638.
+- **[SOTA]** F. Andreatta, E. Z. Goren, B. Howard, K. Madapusi Pera. *Faltings heights of abelian varieties with complex multiplication*. Ann. of Math. 187 (2018), 391–531; X. Yuan, S.-W. Zhang. *On the averaged Colmez conjecture*. Ann. of Math. 187 (2018), 533–638. [DOI](https://doi.org/10.4007/annals.2018.187.2.3)
 - **[SOTA]** J. Pila, A. N. Shankar, J. Tsimerman, with an appendix by H. Esnault and M. Groechenig. *Canonical heights on Shimura varieties and the André–Oort conjecture*. arXiv:2109.08788, 2021.
-- **[SOTA]** G. Binyamini, H. Schmidt, A. Yafaev. *Lower bounds for Galois orbits of special points on Shimura varieties: a point-counting approach*. Math. Ann. 385 (2023), 961–973.
+- **[SOTA]** G. Binyamini, H. Schmidt, A. Yafaev. *Lower bounds for Galois orbits of special points on Shimura varieties: a point-counting approach*. Math. Ann. 385 (2023), 961–973. [DOI](https://doi.org/10.1007/s00208-021-02309-0)
 - **[Survey]** T. Scanlon. *O-minimality as an approach to the André–Oort conjecture*. Panoramas et Synthèses 52, SMF, 2017.
-- **[Survey]** C. Daw. *The André–Oort conjecture via o-minimality*, in "O-minimality and Diophantine Geometry", LMS Lecture Note Series 421, Cambridge University Press, 2015.
-- **[Survey]** Y. Peterzil, S. Starchenko. *Definability of restricted theta functions and families of abelian varieties*. Duke Math. J. 162 (2013), 731–765.
+- **[Survey]** C. Daw. *The André–Oort conjecture via o-minimality*, in "O-minimality and Diophantine Geometry", LMS Lecture Note Series 421, Cambridge University Press, 2015. [DOI](https://doi.org/10.1017/cbo9781316106839.006)
+- **[Survey]** Y. Peterzil, S. Starchenko. *Definability of restricted theta functions and families of abelian varieties*. Duke Math. J. 162 (2013), 731–765. [DOI](https://doi.org/10.1215/00127094-2080018)
 
 ## 10. Worked Example / Concrete Special Case
 

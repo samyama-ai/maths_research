@@ -111,16 +111,16 @@ Equivalently: does the space of positively curved *Finsler* metrics on $E$ retra
 ## 9. Key References
 
 - **[Foundational]** P. A. Griffiths. *Hermitian differential geometry, Chern classes, and positive vector bundles.* In *Global Analysis: Papers in Honor of K. Kodaira*, Princeton University Press, 1969, pp. 185–251.
-- **[Foundational]** R. Hartshorne. *Ample vector bundles.* Publications Mathématiques de l'IHÉS 29 (1966), 63–94.
-- **[Foundational]** S. Nakano. *On complex analytic vector bundles.* Journal of the Mathematical Society of Japan 7 (1955), 1–12.
+- **[Foundational]** R. Hartshorne. *Ample vector bundles.* Publications Mathématiques de l'IHÉS 29 (1966), 63–94. [DOI](https://doi.org/10.1007/bf02684806)
+- **[Foundational]** S. Nakano. *On complex analytic vector bundles.* Journal of the Mathematical Society of Japan 7 (1955), 1–12. [DOI](https://doi.org/10.2969/jmsj/00710001)
 - **[Foundational]** J.-P. Demailly, H. Skoda. *Relations entre les notions de positivité de P. A. Griffiths et de S. Nakano pour les fibrés vectoriels.* Séminaire P. Lelong–H. Skoda 1978/79, Lecture Notes in Math. 822, Springer, 1980, 304–309.
-- **[Key partial result]** F. Campana, H. Flenner. *A characterization of ample vector bundles on a curve.* Mathematische Annalen 287 (1990), 571–575.
-- **[Key partial result]** W. Fulton, R. Lazarsfeld. *Positive polynomials for ample vector bundles.* Annals of Mathematics 118 (1983), 35–60.
-- **[SOTA / Recent]** B. Berndtsson. *Curvature of vector bundles associated to holomorphic fibrations.* Annals of Mathematics 169 (2009), 531–560.
-- **[SOTA / Recent]** J.-P. Demailly. *Hermitian–Yang–Mills approach to the conjecture of Griffiths on the positivity of ample vector bundles.* Sbornik: Mathematics 212 (2021).
-- **[SOTA / Recent]** D. Guler. *On Segre forms of positive vector bundles.* Canadian Mathematical Bulletin 55 (2012), 108–113.
-- **[SOTA / Recent]** S. Diverio. *Segre forms and Kobayashi–Lübke inequality.* Mathematische Zeitschrift 283 (2016), 1033–1047.
-- **[SOTA / Recent]** V. P. Pingali. *Representability of Chern–Weil forms.* Mathematische Zeitschrift 288 (2018), 629–641.
+- **[Key partial result]** F. Campana, H. Flenner. *A characterization of ample vector bundles on a curve.* Mathematische Annalen 287 (1990), 571–575. [DOI](https://doi.org/10.1007/bf01446914)
+- **[Key partial result]** W. Fulton, R. Lazarsfeld. *Positive polynomials for ample vector bundles.* Annals of Mathematics 118 (1983), 35–60. [DOI](https://doi.org/10.2307/2006953)
+- **[SOTA / Recent]** B. Berndtsson. *Curvature of vector bundles associated to holomorphic fibrations.* Annals of Mathematics 169 (2009), 531–560. [DOI](https://doi.org/10.4007/annals.2009.169.531)
+- **[SOTA / Recent]** J.-P. Demailly. *Hermitian–Yang–Mills approach to the conjecture of Griffiths on the positivity of ample vector bundles.* Sbornik: Mathematics 212 (2021). [DOI](https://doi.org/10.1070/sm9387)
+- **[SOTA / Recent]** D. Guler. *On Segre forms of positive vector bundles.* Canadian Mathematical Bulletin 55 (2012), 108–113. [DOI](https://doi.org/10.4153/cmb-2011-100-6)
+- **[SOTA / Recent]** S. Diverio. *Segre forms and Kobayashi–Lübke inequality.* Mathematische Zeitschrift 283 (2016), 1033–1047. [DOI](https://doi.org/10.1007/s00209-016-1632-y)
+- **[SOTA / Recent]** V. P. Pingali. *Representability of Chern–Weil forms.* Mathematische Zeitschrift 288 (2018), 629–641. [DOI](https://doi.org/10.1007/s00209-017-1903-2)
 - **[Survey]** R. Lazarsfeld. *Positivity in Algebraic Geometry II: Positivity for Vector Bundles, and Multiplier Ideals.* Ergebnisse der Mathematik 49, Springer, 2004 (Chapter 6).
 - **[Survey]** J.-P. Demailly. *Complex Analytic and Differential Geometry.* Open-access book manuscript, Institut Fourier (Chapter VII).
 

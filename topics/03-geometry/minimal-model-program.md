@@ -120,25 +120,25 @@ The precise remaining steps are:
 
 ## 9. Key References
 
-- **[Foundational]** S. Mori. *Flip theorem and the existence of minimal models for 3-folds.* Journal of the AMS 1 (1988), 117–253.
+- **[Foundational]** S. Mori. *Flip theorem and the existence of minimal models for 3-folds.* Journal of the AMS 1 (1988), 117–253. [DOI](https://doi.org/10.2307/1990969)
 - **[Foundational]** Y. Kawamata, K. Matsuda, K. Matsuki. *Introduction to the minimal model problem.* Advanced Studies in Pure Mathematics 10 (1987), 283–360.
-- **[Foundational]** V. V. Shokurov. *3-fold log flips.* Izvestiya RAN, Ser. Mat. 56 (1992), 105–203.
+- **[Foundational]** V. V. Shokurov. *3-fold log flips.* Izvestiya RAN, Ser. Mat. 56 (1992), 105–203. [DOI](https://doi.org/10.1070/im1993v040n01abeh001862)
 - **[Foundational]** V. V. Shokurov. *Prelimiting flips.* Proceedings of the Steklov Institute of Mathematics 240 (2003), 75–213.
-- **[SOTA]** C. Birkar, P. Cascini, C. D. Hacon, J. McKernan. *Existence of minimal models for varieties of log general type.* Journal of the AMS 23 (2010), 405–468.
-- **[SOTA]** C. Birkar. *Existence of log canonical flips and a special LMMP.* Publications mathématiques de l'IHÉS 115 (2012), 325–368.
-- **[SOTA]** C. D. Hacon, C. Xu. *Existence of log canonical closures.* Inventiones mathematicae 192 (2013), 161–195.
-- **[SOTA]** C. D. Hacon, J. McKernan, C. Xu. *ACC for log canonical thresholds.* Annals of Mathematics 180 (2014), 523–571.
-- **[SOTA]** C. D. Hacon, C. Xu. *On the three dimensional minimal model program in positive characteristic.* Journal of the AMS 28 (2015), 711–744.
+- **[SOTA]** C. Birkar, P. Cascini, C. D. Hacon, J. McKernan. *Existence of minimal models for varieties of log general type.* Journal of the AMS 23 (2010), 405–468. [DOI](https://doi.org/10.1090/s0894-0347-09-00649-3)
+- **[SOTA]** C. Birkar. *Existence of log canonical flips and a special LMMP.* Publications mathématiques de l'IHÉS 115 (2012), 325–368. [DOI](https://doi.org/10.1007/s10240-012-0039-5)
+- **[SOTA]** C. D. Hacon, C. Xu. *Existence of log canonical closures.* Inventiones mathematicae 192 (2013), 161–195. [DOI](https://doi.org/10.1007/s00222-012-0409-0)
+- **[SOTA]** C. D. Hacon, J. McKernan, C. Xu. *ACC for log canonical thresholds.* Annals of Mathematics 180 (2014), 523–571. [DOI](https://doi.org/10.4007/annals.2014.180.2.3)
+- **[SOTA]** C. D. Hacon, C. Xu. *On the three dimensional minimal model program in positive characteristic.* Journal of the AMS 28 (2015), 711–744. [DOI](https://doi.org/10.1090/s0894-0347-2014-00809-2)
 - **[SOTA]** B. Bhatt, L. Ma, Zs. Patakfalvi, K. Schwede, K. Tucker, J. Waldron, J. Witaszek. *Globally +-regular varieties and the minimal model program for threefolds in mixed characteristic.* Publications mathématiques de l'IHÉS 138 (2023), 69–227.
-- **[SOTA]** A. Höring, T. Peternell. *Minimal models for Kähler threefolds.* Inventiones mathematicae 203 (2016), 217–264.
-- **[SOTA]** C. Birkar. *Singularities of linear systems and boundedness of Fano varieties.* Annals of Mathematics 193 (2021), 347–405.
-- **[Abundance]** Y. Kawamata. *Abundance theorem for minimal threefolds.* Inventiones mathematicae 108 (1992), 229–246.
-- **[Abundance]** S. Keel, K. Matsuki, J. McKernan. *Log abundance theorem for threefolds.* Duke Mathematical Journal 75 (1994), 99–119.
-- **[Termination]** V. Alexeev, C. D. Hacon, Y. Kawamata. *Termination of (many) 4-dimensional log flips.* Inventiones mathematicae 168 (2007), 433–448.
-- **[Termination]** C. Birkar. *Ascending chain condition for log canonical thresholds and termination of log flips.* Duke Mathematical Journal 136 (2007), 173–180.
+- **[SOTA]** A. Höring, T. Peternell. *Minimal models for Kähler threefolds.* Inventiones mathematicae 203 (2016), 217–264. [DOI](https://doi.org/10.1007/s00222-015-0592-x)
+- **[SOTA]** C. Birkar. *Singularities of linear systems and boundedness of Fano varieties.* Annals of Mathematics 193 (2021), 347–405. [DOI](https://doi.org/10.4007/annals.2021.193.2.1)
+- **[Abundance]** Y. Kawamata. *Abundance theorem for minimal threefolds.* Inventiones mathematicae 108 (1992), 229–246. [DOI](https://doi.org/10.1007/bf02100604)
+- **[Abundance]** S. Keel, K. Matsuki, J. McKernan. *Log abundance theorem for threefolds.* Duke Mathematical Journal 75 (1994), 99–119. [DOI](https://doi.org/10.1215/s0012-7094-94-07504-2)
+- **[Termination]** V. Alexeev, C. D. Hacon, Y. Kawamata. *Termination of (many) 4-dimensional log flips.* Inventiones mathematicae 168 (2007), 433–448. [DOI](https://doi.org/10.1007/s00222-007-0038-1)
+- **[Termination]** C. Birkar. *Ascending chain condition for log canonical thresholds and termination of log flips.* Duke Mathematical Journal 136 (2007), 173–180. [DOI](https://doi.org/10.1215/s0012-7094-07-13615-9)
 - **[Survey / Book]** J. Kollár, S. Mori. *Birational Geometry of Algebraic Varieties.* Cambridge University Press, 1998.
-- **[Survey / Book]** A. Corti (ed.). *Flips for 3-folds and 4-folds.* Oxford University Press, 2007.
-- **[Survey / Book]** O. Fujino. *Foundations of the Minimal Model Program.* MSJ Memoirs 35, Mathematical Society of Japan, 2017.
+- **[Survey / Book]** A. Corti (ed.). *Flips for 3-folds and 4-folds.* Oxford University Press, 2007. [DOI](https://doi.org/10.1093/acprof:oso/9780198570615.001.0001)
+- **[Survey / Book]** O. Fujino. *Foundations of the Minimal Model Program.* MSJ Memoirs 35, Mathematical Society of Japan, 2017. [DOI](https://doi.org/10.2969/msjmemoirs/035010000)
 
 ## 10. Worked Example / Concrete Special Case
 

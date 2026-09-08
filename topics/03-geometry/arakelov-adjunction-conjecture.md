@@ -127,21 +127,21 @@ $$
 ## 9. Key References
 
 - **[Foundational]** S. Yu. Arakelov. *An intersection theory for divisors on an arithmetic surface.* Izv. Akad. Nauk SSSR Ser. Mat. **38** (1974), 1179–1192.
-- **[Foundational]** G. Faltings. *Calculus on arithmetic surfaces.* Annals of Mathematics **119** (1984), 387–424.
-- **[Foundational]** L. Moret-Bailly. *La formule de Noether pour les surfaces arithmétiques.* Inventiones Mathematicae **98** (1989), 491–498.
-- **[Foundational]** A. N. Parshin. *Application of ramified coverings in the theory of Diophantine equations.* Math. USSR Sbornik **66** (1990), 249–264.
+- **[Foundational]** G. Faltings. *Calculus on arithmetic surfaces.* Annals of Mathematics **119** (1984), 387–424. [DOI](https://doi.org/10.2307/2007043)
+- **[Foundational]** L. Moret-Bailly. *La formule de Noether pour les surfaces arithmétiques.* Inventiones Mathematicae **98** (1989), 491–498. [DOI](https://doi.org/10.1007/bf01393833)
+- **[Foundational]** A. N. Parshin. *Application of ramified coverings in the theory of Diophantine equations.* Math. USSR Sbornik **66** (1990), 249–264. [DOI](https://doi.org/10.1070/sm1990v066n01abeh001171)
 - **[Foundational]** L. Szpiro. *Discriminant et conducteur des courbes elliptiques.* Astérisque **183** (1990), 7–18.
-- **[Foundational]** S. Zhang. *Admissible pairing on a curve.* Inventiones Mathematicae **112** (1993), 171–193.
-- **[SOTA]** Z. Cinkir. *Zhang's conjecture and the effective Bogomolov conjecture over function fields.* Inventiones Mathematicae **183** (2011), 517–562.
+- **[Foundational]** S. Zhang. *Admissible pairing on a curve.* Inventiones Mathematicae **112** (1993), 171–193. [DOI](https://doi.org/10.1007/bf01232429)
+- **[SOTA]** Z. Cinkir. *Zhang's conjecture and the effective Bogomolov conjecture over function fields.* Inventiones Mathematicae **183** (2011), 517–562. [DOI](https://doi.org/10.1007/s00222-010-0282-7)
 - **[SOTA]** R. Wilms. *New results on the Arakelov–Green's function and the delta invariant.* Inventiones Mathematicae **209** (2017), 481–539.
-- **[SOTA]** X. Yuan, S. Zhang. *The arithmetic Hodge index theorem for adelic line bundles.* Mathematische Annalen **367** (2017), 1123–1171.
+- **[SOTA]** X. Yuan, S. Zhang. *The arithmetic Hodge index theorem for adelic line bundles.* Mathematische Annalen **367** (2017), 1123–1171. [DOI](https://doi.org/10.1007/s00208-016-1414-1)
 - **[SOTA]** A. Abbes, E. Ullmo. *Auto-intersection du dualisant relatif des courbes modulaires $X_0(N)$.* J. reine angew. Math. **484** (1997), 1–70.
-- **[SOTA]** P. Michel, E. Ullmo. *Points de petite hauteur sur les courbes modulaires $X_0(N)$.* Inventiones Mathematicae **131** (1998), 645–674.
+- **[SOTA]** P. Michel, E. Ullmo. *Points de petite hauteur sur les courbes modulaires $X_0(N)$.* Inventiones Mathematicae **131** (1998), 645–674. [DOI](https://doi.org/10.1007/s002220050216)
 - **[SOTA]** H. Mayer. *Self-intersection of the relative dualizing sheaf on modular curves $X_1(N)$.* J. Théor. Nombres Bordeaux **26** (2014), 111–161.
-- **[SOTA]** A. Javanpeykar, R. von Känel. *Szpiro's small points conjecture for cyclic covers.* Documenta Mathematica **20** (2015).
+- **[SOTA]** A. Javanpeykar, R. von Känel. *Szpiro's small points conjecture for cyclic covers.* Documenta Mathematica **20** (2015). [DOI](https://doi.org/10.4171/dm/475)
 - **[Partial]** E. Ullmo. *Positivité et discrétion des points algébriques des courbes.* Annals of Mathematics **147** (1998), 167–179; S. Zhang, *Equidistribution of small points on abelian varieties*, ibid., 159–165.
 - **[Survey]** C. Soulé. *Géométrie d'Arakelov des surfaces arithmétiques.* Séminaire Bourbaki, exp. 713, Astérisque **177–178** (1989), 327–343.
-- **[Survey / Book]** S. Lang. *Introduction to Arakelov Theory.* Springer-Verlag, 1988.
+- **[Survey / Book]** S. Lang. *Introduction to Arakelov Theory.* Springer-Verlag, 1988. [DOI](https://doi.org/10.1007/978-1-4612-1031-3)
 - **[Explicit]** J.-B. Bost, J.-F. Mestre, L. Moret-Bailly. *Sur le calcul explicite des « petits points » des courbes de genre 2.* Astérisque **183** (1990), 69–105.
 
 ## 10. Worked Example / Concrete Special Case

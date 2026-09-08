@@ -117,15 +117,15 @@ The missing step for (1) is a JSJ-type decomposition theorem for skein modules: 
 - **[Foundational]** V. G. Turaev. *The Conway and Kauffman modules of a solid torus.* Zapiski Nauchn. Sem. LOMI 167 (1988), 79–89.
 - **[Foundational]** D. Bullock. *Rings of $SL_2(\mathbb{C})$-characters and the Kauffman bracket skein module.* Commentarii Mathematici Helvetici 72 (1997), 521–542.
 - **[Foundational]** J. H. Przytycki, A. S. Sikora. *On skein algebras and $Sl_2(\mathbb{C})$-character varieties.* Topology 39 (2000), 115–148.
-- **[SOTA]** S. Gunningham, D. Jordan, P. Safronov. *The finiteness conjecture for skein modules.* Inventiones Mathematicae 232 (2023), 301–363.
-- **[Conjecture source]** E. Witten. *Fivebranes and knots.* Quantum Topology 3 (2012), 1–137.
-- **[Computation]** J. Hoste, J. H. Przytycki. *The $(2,\infty)$-skein module of lens spaces; a generalization of the Jones polynomial.* Journal of Knot Theory and Its Ramifications 2 (1993), 321–333.
+- **[SOTA]** S. Gunningham, D. Jordan, P. Safronov. *The finiteness conjecture for skein modules.* Inventiones Mathematicae 232 (2023), 301–363. [DOI](https://doi.org/10.1007/s00222-022-01167-0)
+- **[Conjecture source]** E. Witten. *Fivebranes and knots.* Quantum Topology 3 (2012), 1–137. [DOI](https://doi.org/10.4171/qt/26)
+- **[Computation]** J. Hoste, J. H. Przytycki. *The $(2,\infty)$-skein module of lens spaces; a generalization of the Jones polynomial.* Journal of Knot Theory and Its Ramifications 2 (1993), 321–333. [DOI](https://doi.org/10.1142/s0218216593000180)
 - **[Computation]** J. Hoste, J. H. Przytycki. *The Kauffman bracket skein module of $S^1\times S^2$.* Mathematische Zeitschrift 220 (1995), 65–73.
-- **[Computation]** D. Bullock. *A finite set of generators for the Kauffman bracket skein algebra.* Mathematische Zeitschrift 231 (1999), 91–101.
-- **[Computation]** A. Carrega. *Nine generators of the skein space of the 3-torus.* Algebraic & Geometric Topology 17 (2017), 3449–3460.
-- **[Computation]** P. M. Gilmer. *On the Kauffman bracket skein module of the 3-torus.* Indiana University Mathematics Journal 67 (2018), 993–998.
-- **[Computation]** R. Detcherry, M. Wolff. *A basis for the Kauffman bracket skein module of the product of a surface and a circle.* Algebraic & Geometric Topology 21 (2021), 2947–2973.
-- **[Structure]** C. Frohman, R. Gelca. *Skein modules and the noncommutative torus.* Transactions of the AMS 352 (2000), 4877–4888.
+- **[Computation]** D. Bullock. *A finite set of generators for the Kauffman bracket skein algebra.* Mathematische Zeitschrift 231 (1999), 91–101. [DOI](https://doi.org/10.1007/pl00004727)
+- **[Computation]** A. Carrega. *Nine generators of the skein space of the 3-torus.* Algebraic & Geometric Topology 17 (2017), 3449–3460. [DOI](https://doi.org/10.2140/agt.2017.17.3449)
+- **[Computation]** P. M. Gilmer. *On the Kauffman bracket skein module of the 3-torus.* Indiana University Mathematics Journal 67 (2018), 993–998. [DOI](https://doi.org/10.1512/iumj.2018.67.7327)
+- **[Computation]** R. Detcherry, M. Wolff. *A basis for the Kauffman bracket skein module of the product of a surface and a circle.* Algebraic & Geometric Topology 21 (2021), 2947–2973. [DOI](https://doi.org/10.2140/agt.2021.21.2959)
+- **[Structure]** C. Frohman, R. Gelca. *Skein modules and the noncommutative torus.* Transactions of the AMS 352 (2000), 4877–4888. [DOI](https://doi.org/10.1090/s0002-9947-00-02512-5)
 - **[Survey]** J. H. Przytycki. *Fundamentals of Kauffman bracket skein modules.* Kobe Journal of Mathematics 16 (1999), 45–66.
 
 ## 10. Worked Example / Concrete Special Case

@@ -95,9 +95,9 @@ Leading mathematicians such as R. Pandharipande, D. Joyce, and Y. Toda suggest t
 ## 9. Key References
 
 - **[Foundational]** R. Gopakumar, C. Vafa. *M-theory and Topological Strings—I, II.* arXiv:hep-th/9809187 and arXiv:hep-th/9812127, 1998.
-- **[Foundational]** E. Ionel, T. Parker. *The Gopakumar-Vafa formula for symplectic manifolds.* Annals of Mathematics, 187(3): 935–1025, 2018.
-- **[SOTA / Recent]** D. Maulik, Y. Toda. *Gopakumar-Vafa invariants via vanishing cycles.* Inventiones mathematicae, 213(3): 1017–1097, 2018.
-- **[SOTA / Recent]** B. Davison, S. Meinhardt. *Cohomological Donaldson-Thomas theory of a quiver with potential and quantum enveloping algebras.* Inventiones mathematicae, 221(3): 777–871, 2020.
+- **[Foundational]** E. Ionel, T. Parker. *The Gopakumar-Vafa formula for symplectic manifolds.* Annals of Mathematics, 187(3): 935–1025, 2018. [DOI](https://doi.org/10.4007/annals.2018.187.1.1)
+- **[SOTA / Recent]** D. Maulik, Y. Toda. *Gopakumar-Vafa invariants via vanishing cycles.* Inventiones mathematicae, 213(3): 1017–1097, 2018. [DOI](https://doi.org/10.1007/s00222-018-0800-6)
+- **[SOTA / Recent]** B. Davison, S. Meinhardt. *Cohomological Donaldson-Thomas theory of a quiver with potential and quantum enveloping algebras.* Inventiones mathematicae, 221(3): 777–871, 2020. [DOI](https://doi.org/10.1007/s00222-020-00961-y)
 - **[Survey]** R. Pandharipande. *Gromov-Witten theory and the Gopakumar-Vafa formula.* Proceedings of the International Congress of Mathematicians—Rio de Janeiro 2018. Vol. I. Plenary lectures, 849–872, 2018.
 
 ## 10. Worked Example / Concrete Special Case

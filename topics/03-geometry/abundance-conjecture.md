@@ -110,18 +110,18 @@ The single step to be crossed is **Nonvanishing in the intermediate range**: giv
 
 - **[Foundational]** Y. Kawamata, K. Matsuda, K. Matsuki. *Introduction to the Minimal Model Problem.* In: Algebraic Geometry, Sendai 1985, Adv. Stud. Pure Math. 10, North-Holland, 1987.
 - **[Foundational]** Y. Miyaoka. *Abundance conjecture for 3-folds: case $\nu=1$.* Compositio Mathematica 68 (1988), 203–220.
-- **[Foundational]** Y. Kawamata. *Abundance theorem for minimal threefolds.* Inventiones Mathematicae 108 (1992), 229–246.
-- **[Foundational]** S. Keel, K. Matsuki, J. McKernan. *Log abundance theorem for threefolds.* Duke Mathematical Journal 75 (1994), 99–119; Correction, Duke Math. J. 122 (2004), 625–630.
-- **[Foundational]** N. Nakayama. *Zariski-decomposition and Abundance.* MSJ Memoirs 14, Mathematical Society of Japan, 2004.
-- **[SOTA]** C. Birkar, P. Cascini, C. D. Hacon, J. McKernan. *Existence of minimal models for varieties of log general type.* Journal of the AMS 23 (2010), 405–468.
-- **[SOTA]** C. D. Hacon, C. Xu. *Existence of log canonical closures.* Inventiones Mathematicae 192 (2013), 161–195.
-- **[SOTA]** F. Campana, V. Koziarz, M. Păun. *Numerical character of the effectivity of adjoint line bundles.* Annales de l'Institut Fourier 62 (2012), 107–119.
-- **[SOTA]** Y. Gongyo, B. Lehmann. *Reduction maps and minimal model theory.* Compositio Mathematica 149 (2013), 295–308.
+- **[Foundational]** Y. Kawamata. *Abundance theorem for minimal threefolds.* Inventiones Mathematicae 108 (1992), 229–246. [DOI](https://doi.org/10.1007/bf02100604)
+- **[Foundational]** S. Keel, K. Matsuki, J. McKernan. *Log abundance theorem for threefolds.* Duke Mathematical Journal 75 (1994), 99–119; Correction, Duke Math. J. 122 (2004), 625–630. [DOI](https://doi.org/10.1215/s0012-7094-94-07504-2)
+- **[Foundational]** N. Nakayama. *Zariski-decomposition and Abundance.* MSJ Memoirs 14, Mathematical Society of Japan, 2004. [DOI](https://doi.org/10.2969/msjmemoirs/014010000)
+- **[SOTA]** C. Birkar, P. Cascini, C. D. Hacon, J. McKernan. *Existence of minimal models for varieties of log general type.* Journal of the AMS 23 (2010), 405–468. [DOI](https://doi.org/10.1090/s0894-0347-09-00649-3)
+- **[SOTA]** C. D. Hacon, C. Xu. *Existence of log canonical closures.* Inventiones Mathematicae 192 (2013), 161–195. [DOI](https://doi.org/10.1007/s00222-012-0409-0)
+- **[SOTA]** F. Campana, V. Koziarz, M. Păun. *Numerical character of the effectivity of adjoint line bundles.* Annales de l'Institut Fourier 62 (2012), 107–119. [DOI](https://doi.org/10.5802/aif.2701)
+- **[SOTA]** Y. Gongyo, B. Lehmann. *Reduction maps and minimal model theory.* Compositio Mathematica 149 (2013), 295–308. [DOI](https://doi.org/10.1112/s0010437x12000553)
 - **[SOTA]** V. Lazić, T. Peternell. *On generalised abundance, I.* Publications of RIMS 56 (2020), 353–389.
-- **[SOTA]** F. Campana, A. Höring, T. Peternell. *Abundance for Kähler threefolds.* Annales Scientifiques de l'ÉNS 49 (2016), 971–1025.
-- **[Survey]** O. Fujino. *Foundations of the Minimal Model Program.* MSJ Memoirs 35, Mathematical Society of Japan, 2017.
+- **[SOTA]** F. Campana, A. Höring, T. Peternell. *Abundance for Kähler threefolds.* Annales Scientifiques de l'ÉNS 49 (2016), 971–1025. [DOI](https://doi.org/10.24033/asens.2301)
+- **[Survey]** O. Fujino. *Foundations of the Minimal Model Program.* MSJ Memoirs 35, Mathematical Society of Japan, 2017. [DOI](https://doi.org/10.2969/msjmemoirs/035010000)
 - **[Survey]** J. Kollár, S. Mori. *Birational Geometry of Algebraic Varieties.* Cambridge Tracts in Mathematics 134, Cambridge University Press, 1998.
-- **[Survey]** C. D. Hacon, J. McKernan. *Flips and flops.* Proceedings of the ICM, Hyderabad, 2010.
+- **[Survey]** C. D. Hacon, J. McKernan. *Flips and flops.* Proceedings of the ICM, Hyderabad, 2010. [DOI](https://doi.org/10.1142/9789814324359_0062)
 
 ## 10. Worked Example / Concrete Special Case
 

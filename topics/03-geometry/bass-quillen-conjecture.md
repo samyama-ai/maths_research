@@ -108,24 +108,24 @@ The unramified case ($p \notin \mathfrak{m}^2$) is close to reach: it is ind-smo
 
 ## 9. Key References
 
-- **[Foundational]** H. Bass. *Some problems in "classical" algebraic K-theory.* In Algebraic K-Theory II, Lecture Notes in Math. 342, Springer, 1973.
+- **[Foundational]** H. Bass. *Some problems in "classical" algebraic K-theory.* In Algebraic K-Theory II, Lecture Notes in Math. 342, Springer, 1973. [DOI](https://doi.org/10.1007/bfb0073718)
 - **[Foundational]** D. Quillen. *Projective modules over polynomial rings.* Inventiones Mathematicae 36 (1976), 167–171.
 - **[Foundational]** A. A. Suslin. *Projective modules over polynomial rings are free.* Doklady Akademii Nauk SSSR 229 (1976), 1063–1066.
-- **[Foundational]** G. Horrocks. *Projective modules over an extension of a local ring.* Proceedings of the London Mathematical Society (3) 14 (1964), 714–718.
-- **[Key case]** H. Lindel. *On the Bass–Quillen conjecture concerning projective modules over polynomial rings.* Inventiones Mathematicae 65 (1981), 319–323.
+- **[Foundational]** G. Horrocks. *Projective modules over an extension of a local ring.* Proceedings of the London Mathematical Society (3) 14 (1964), 714–718. [DOI](https://doi.org/10.1112/plms/s3-14.4.714)
+- **[Key case]** H. Lindel. *On the Bass–Quillen conjecture concerning projective modules over polynomial rings.* Inventiones Mathematicae 65 (1981), 319–323. [DOI](https://doi.org/10.1007/bf01389017)
 - **[Key case]** M. Roitman. *On projective modules over polynomial rings.* Journal of Algebra 58 (1979), 51–63.
-- **[Key case]** D. Popescu. *General Néron desingularization and approximation.* Nagoya Mathematical Journal 104 (1986), 85–115.
+- **[Key case]** D. Popescu. *General Néron desingularization and approximation.* Nagoya Mathematical Journal 104 (1986), 85–115. [DOI](https://doi.org/10.1017/s0027763000022698)
 - **[Survey]** R. G. Swan. *Néron–Popescu desingularization.* In Algebra and Geometry (Taipei 1995), Lectures in Algebra and Geometry 2, International Press, 1998, 135–192.
-- **[Survey]** T. Y. Lam. *Serre's Problem on Projective Modules.* Springer Monographs in Mathematics, Springer, 2006.
-- **[Related]** B. Plumstead. *The conjectures of Eisenbud and Evans.* American Journal of Mathematics 105 (1983), 1417–1433.
-- **[Related]** S. M. Bhatwadekar, A. Roy. *Some theorems about projective modules over polynomial rings.* Journal of Algebra 86 (1984), 150–158.
-- **[Related]** J. Gubeladze. *Anderson's conjecture and the maximal monoid class over which projective modules are free.* Matematicheskii Sbornik 135 (1988), 169–185.
+- **[Survey]** T. Y. Lam. *Serre's Problem on Projective Modules.* Springer Monographs in Mathematics, Springer, 2006. [DOI](https://doi.org/10.1007/978-3-540-34575-6)
+- **[Related]** B. Plumstead. *The conjectures of Eisenbud and Evans.* American Journal of Mathematics 105 (1983), 1417–1433. [DOI](https://doi.org/10.2307/2374448)
+- **[Related]** S. M. Bhatwadekar, A. Roy. *Some theorems about projective modules over polynomial rings.* Journal of Algebra 86 (1984), 150–158. [DOI](https://doi.org/10.1016/0021-8693(84)90061-9)
+- **[Related]** J. Gubeladze. *Anderson's conjecture and the maximal monoid class over which projective modules are free.* Matematicheskii Sbornik 135 (1988), 169–185. [DOI](https://doi.org/10.1070/sm1989v063n01abeh003266)
 - **[Related]** C. Traverso. *Seminormality and Picard group.* Annali della Scuola Normale Superiore di Pisa 24 (1970), 585–595.
-- **[SOTA]** R. Fedorov, I. Panin. *A proof of the Grothendieck–Serre conjecture on principal bundles over regular local rings containing infinite fields.* Publications Mathématiques de l'IHÉS 122 (2015), 169–193.
-- **[SOTA]** A. Asok, M. Hoyois, M. Wendt. *Affine representability results in $\mathbb{A}^1$-homotopy theory II: principal bundles and homogeneous spaces.* Geometry & Topology 22 (2018), 1181–1225.
-- **[SOTA]** A. Asok, M. Hoyois, M. Wendt. *Affine representability results in $\mathbb{A}^1$-homotopy theory III: finite fields and complements.* Algebraic Geometry 7 (2020), 634–644.
-- **[SOTA / Survey]** K. Česnavičius. *Problems about torsors over regular rings.* Acta Mathematica Vietnamica 47 (2022), 39–107.
-- **[SOTA]** K. Česnavičius. *Grothendieck–Serre in the quasi-split unramified case.* Forum of Mathematics, Pi 10 (2022), e9.
+- **[SOTA]** R. Fedorov, I. Panin. *A proof of the Grothendieck–Serre conjecture on principal bundles over regular local rings containing infinite fields.* Publications Mathématiques de l'IHÉS 122 (2015), 169–193. [DOI](https://doi.org/10.1007/s10240-015-0075-z)
+- **[SOTA]** A. Asok, M. Hoyois, M. Wendt. *Affine representability results in $\mathbb{A}^1$-homotopy theory II: principal bundles and homogeneous spaces.* Geometry & Topology 22 (2018), 1181–1225. [DOI](https://doi.org/10.2140/gt.2018.22.1181)
+- **[SOTA]** A. Asok, M. Hoyois, M. Wendt. *Affine representability results in $\mathbb{A}^1$-homotopy theory III: finite fields and complements.* Algebraic Geometry 7 (2020), 634–644. [DOI](https://doi.org/10.14231/ag-2020-023)
+- **[SOTA / Survey]** K. Česnavičius. *Problems about torsors over regular rings.* Acta Mathematica Vietnamica 47 (2022), 39–107. [DOI](https://doi.org/10.1007/s40306-022-00477-y)
+- **[SOTA]** K. Česnavičius. *Grothendieck–Serre in the quasi-split unramified case.* Forum of Mathematics, Pi 10 (2022), e9. [DOI](https://doi.org/10.1017/fmp.2022.5)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -93,7 +93,7 @@ Leading mathematicians have suggested the following pathways to make incremental
 
 - **[Foundational]** Lang, S. *Introduction to Transcendental Numbers*. Addison-Wesley Publishing Company, 1966.
 - **[Foundational]** Ax, J. *On Schanuel's Conjectures*. Annals of Mathematics, 93(2), 252-268, 1971.
-- **[SOTA / Recent]** Zilber, B. *Pseudo-exponentiation on algebraically closed fields of characteristic zero*. Annals of Pure and Applied Logic, 132(1), 67-95, 2004.
+- **[SOTA / Recent]** Zilber, B. *Pseudo-exponentiation on algebraically closed fields of characteristic zero*. Annals of Pure and Applied Logic, 132(1), 67-95, 2004. [DOI](https://doi.org/10.1016/j.apal.2004.07.001)
 - **[Survey]** Waldschmidt, M. *Diophantine Approximation on Linear Algebraic Groups: Transcendence Properties of the Exponential Function in Several Variables*. Springer, 2000.
 - **[Survey]** Baker, A. *Transcendental Number Theory*. Cambridge University Press, 1975.
 

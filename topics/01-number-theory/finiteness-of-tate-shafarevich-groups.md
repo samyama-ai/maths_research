@@ -87,7 +87,7 @@ Leading mathematicians suggest the following pathways:
 
 - **[Foundational]** J. Tate. *WC-groups over p-adic fields.* Séminaire Bourbaki, 1958.
 - **[Foundational]** V. A. Kolyvagin. *Euler systems for elliptic curves.* The Grothendieck Festschrift, 1990.
-- **[SOTA / Recent]** A. Bhargava, A. Shankar. *Binary quartic forms having bounded invariants, and the boundedness of the average rank of elliptic curves.* Annals of Mathematics, 2015.
+- **[SOTA / Recent]** A. Bhargava, A. Shankar. *Binary quartic forms having bounded invariants, and the boundedness of the average rank of elliptic curves.* Annals of Mathematics, 2015. [DOI](https://doi.org/10.4007/annals.2015.181.1.3)
 - **[SOTA / Recent]** A. Smith. *$2^\infty$-Selmer groups, $2^\infty$-class groups, and Goldfeld's conjecture.* arXiv:1702.02325 (published in Inventiones Mathematicae), 2017/2024.
 - **[SOTA / Recent]** K. Rubin. *Tate-Shafarevich groups and L-functions of elliptic curves with complex multiplication.* Inventiones mathematicae, 1987.
 - **[Survey]** J. H. Silverman. *The Arithmetic of Elliptic Curves.* Springer, 2009.

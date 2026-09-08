@@ -111,18 +111,18 @@ Two precise boundaries:
 
 ## 9. Key References
 
-- **[Foundational]** A. V. Kazhikhov, V. V. Shelukhin. *Unique global solution with respect to time of initial-boundary value problems for one-dimensional equations of a viscous gas.* Journal of Applied Mathematics and Mechanics (PMM) 41(2), 1977.
-- **[Foundational]** A. Matsumura, T. Nishida. *The initial value problem for the equations of motion of viscous and heat-conductive gases.* Journal of Mathematics of Kyoto University 20(1), 1980.
+- **[Foundational]** A. V. Kazhikhov, V. V. Shelukhin. *Unique global solution with respect to time of initial-boundary value problems for one-dimensional equations of a viscous gas.* Journal of Applied Mathematics and Mechanics (PMM) 41(2), 1977. [DOI](https://doi.org/10.1016/0021-8928(77)90011-9)
+- **[Foundational]** A. Matsumura, T. Nishida. *The initial value problem for the equations of motion of viscous and heat-conductive gases.* Journal of Mathematics of Kyoto University 20(1), 1980. [DOI](https://doi.org/10.1215/kjm/1250522322)
 - **[Foundational]** P.-L. Lions. *Mathematical Topics in Fluid Mechanics, Vol. 2: Compressible Models.* Oxford University Press, 1998.
-- **[Foundational]** E. Feireisl, A. Novotný, H. Petzeltová. *On the existence of globally defined weak solutions to the Navier–Stokes equations.* Journal of Mathematical Fluid Mechanics 3, 2001.
-- **[Foundational]** Z. Xin. *Blowup of smooth solutions to the compressible Navier–Stokes equation with compact density.* Communications on Pure and Applied Mathematics 51, 1998.
-- **[Foundational]** R. Danchin. *Global existence in critical spaces for compressible Navier–Stokes equations.* Inventiones Mathematicae 141, 2000.
-- **[SOTA / Recent]** F. Merle, P. Raphaël, I. Rodnianski, J. Szeftel. *On the implosion of a compressible fluid II: singularity formation.* Annals of Mathematics 196(2), 2022.
-- **[SOTA / Recent]** D. Bresch, P.-E. Jabin. *Global existence of weak solutions for compressible Navier–Stokes equations: thermodynamically unstable pressure and anisotropic viscous stress tensor.* Annals of Mathematics 188(2), 2018.
-- **[SOTA / Recent]** A. Vasseur, C. Yu. *Existence of global weak solutions for 3D degenerate compressible Navier–Stokes equations.* Inventiones Mathematicae 206, 2016.
-- **[SOTA / Recent]** X. Huang, J. Li, Z. Xin. *Global well-posedness of classical solutions with large oscillations and vacuum to the three-dimensional isentropic compressible Navier–Stokes equations.* Communications on Pure and Applied Mathematics 65, 2012.
+- **[Foundational]** E. Feireisl, A. Novotný, H. Petzeltová. *On the existence of globally defined weak solutions to the Navier–Stokes equations.* Journal of Mathematical Fluid Mechanics 3, 2001. [DOI](https://doi.org/10.1007/pl00000976)
+- **[Foundational]** Z. Xin. *Blowup of smooth solutions to the compressible Navier–Stokes equation with compact density.* Communications on Pure and Applied Mathematics 51, 1998. [DOI](https://doi.org/10.1002/(sici)1097-0312(199803)51:3<229::aid-cpa1>3.0.co;2-c)
+- **[Foundational]** R. Danchin. *Global existence in critical spaces for compressible Navier–Stokes equations.* Inventiones Mathematicae 141, 2000. [DOI](https://doi.org/10.1007/s002220000078)
+- **[SOTA / Recent]** F. Merle, P. Raphaël, I. Rodnianski, J. Szeftel. *On the implosion of a compressible fluid II: singularity formation.* Annals of Mathematics 196(2), 2022. [DOI](https://doi.org/10.4007/annals.2022.196.2.4)
+- **[SOTA / Recent]** D. Bresch, P.-E. Jabin. *Global existence of weak solutions for compressible Navier–Stokes equations: thermodynamically unstable pressure and anisotropic viscous stress tensor.* Annals of Mathematics 188(2), 2018. [DOI](https://doi.org/10.4007/annals.2018.188.2.4)
+- **[SOTA / Recent]** A. Vasseur, C. Yu. *Existence of global weak solutions for 3D degenerate compressible Navier–Stokes equations.* Inventiones Mathematicae 206, 2016. [DOI](https://doi.org/10.1007/s00222-016-0666-4)
+- **[SOTA / Recent]** X. Huang, J. Li, Z. Xin. *Global well-posedness of classical solutions with large oscillations and vacuum to the three-dimensional isentropic compressible Navier–Stokes equations.* Communications on Pure and Applied Mathematics 65, 2012. [DOI](https://doi.org/10.1002/cpa.21382)
 - **[Survey]** E. Feireisl, A. Novotný. *Singular Limits in Thermodynamics of Viscous Fluids.* Birkhäuser, 2nd ed., 2017.
-- **[Survey]** A. Novotný, I. Straškraba. *Introduction to the Mathematical Theory of Compressible Flow.* Oxford University Press, 2004.
+- **[Survey]** A. Novotný, I. Straškraba. *Introduction to the Mathematical Theory of Compressible Flow.* Oxford University Press, 2004. [DOI](https://doi.org/10.1093/oso/9780198530848.001.0001)
 
 ## 10. Worked Example / Concrete Special Case
 

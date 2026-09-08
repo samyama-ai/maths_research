@@ -108,18 +108,18 @@ is known, and it genuinely fails. The precise step to cross: show that a **nowhe
 
 ## 9. Key References
 
-- **[Foundational]** J. Lipman. *Free derivation modules on algebraic varieties.* American Journal of Mathematics **87** (1965), 874–898.
-- **[Foundational]** G. Scheja, U. Storch. *Differentielle Eigenschaften der Lokalisierungen analytischer Algebren.* Mathematische Annalen **197** (1972), 137–170.
-- **[Foundational]** M. Hochster. *The Zariski–Lipman conjecture in the graded case.* Journal of Algebra **47** (1977), 411–424.
-- **[Classical]** H. Flenner. *Extendability of differential forms on non-isolated singularities.* Inventiones Mathematicae **94** (1988), 317–326.
-- **[Classical]** J. Steenbrink, D. van Straten. *Extendability of holomorphic differential forms near isolated hypersurface singularities.* Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg **55** (1985), 97–110.
-- **[SOTA]** R. Källström. *The Zariski–Lipman conjecture for complete intersections.* Journal of Algebra **337** (2011), 169–180.
-- **[SOTA]** P. Graf, S. J. Kovács. *An optimal extension theorem for 1-forms and the Lipman–Zariski conjecture.* Documenta Mathematica **19** (2014), 815–830.
-- **[SOTA]** S. Druel. *The Zariski–Lipman conjecture for log canonical spaces.* Bulletin of the London Mathematical Society **46** (2014).
+- **[Foundational]** J. Lipman. *Free derivation modules on algebraic varieties.* American Journal of Mathematics **87** (1965), 874–898. [DOI](https://doi.org/10.2307/2373252)
+- **[Foundational]** G. Scheja, U. Storch. *Differentielle Eigenschaften der Lokalisierungen analytischer Algebren.* Mathematische Annalen **197** (1972), 137–170. [DOI](https://doi.org/10.1007/bf01419591)
+- **[Foundational]** M. Hochster. *The Zariski–Lipman conjecture in the graded case.* Journal of Algebra **47** (1977), 411–424. [DOI](https://doi.org/10.1016/0021-8693(77)90232-0)
+- **[Classical]** H. Flenner. *Extendability of differential forms on non-isolated singularities.* Inventiones Mathematicae **94** (1988), 317–326. [DOI](https://doi.org/10.1007/bf01394328)
+- **[Classical]** J. Steenbrink, D. van Straten. *Extendability of holomorphic differential forms near isolated hypersurface singularities.* Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg **55** (1985), 97–110. [DOI](https://doi.org/10.1007/bf02941491)
+- **[SOTA]** R. Källström. *The Zariski–Lipman conjecture for complete intersections.* Journal of Algebra **337** (2011), 169–180. [DOI](https://doi.org/10.1016/j.jalgebra.2011.05.003)
+- **[SOTA]** P. Graf, S. J. Kovács. *An optimal extension theorem for 1-forms and the Lipman–Zariski conjecture.* Documenta Mathematica **19** (2014), 815–830. [DOI](https://doi.org/10.4171/dm/465)
+- **[SOTA]** S. Druel. *The Zariski–Lipman conjecture for log canonical spaces.* Bulletin of the London Mathematical Society **46** (2014). [DOI](https://doi.org/10.1112/blms/bdu040)
 - **[SOTA]** P. Graf. *The Lipman–Zariski conjecture in low dimension.* Mathematische Zeitschrift (2017).
-- **[Toolkit]** D. Greb, S. Kebekus, S. J. Kovács, T. Peternell. *Differential forms on log canonical spaces.* Publications Mathématiques de l'IHÉS **114** (2011), 87–169.
-- **[Toolkit]** S. Kebekus, C. Schnell. *Extending holomorphic forms from the regular locus of a complex space to a resolution of singularities.* Journal of the American Mathematical Society **34** (2021), 315–368.
-- **[Background]** E. Kunz. *Kähler Differentials.* Vieweg, Advanced Lectures in Mathematics, 1986.
+- **[Toolkit]** D. Greb, S. Kebekus, S. J. Kovács, T. Peternell. *Differential forms on log canonical spaces.* Publications Mathématiques de l'IHÉS **114** (2011), 87–169. [DOI](https://doi.org/10.1007/s10240-011-0036-0)
+- **[Toolkit]** S. Kebekus, C. Schnell. *Extending holomorphic forms from the regular locus of a complex space to a resolution of singularities.* Journal of the American Mathematical Society **34** (2021), 315–368. [DOI](https://doi.org/10.1090/jams/962)
+- **[Background]** E. Kunz. *Kähler Differentials.* Vieweg, Advanced Lectures in Mathematics, 1986. [DOI](https://doi.org/10.1007/978-3-663-14074-0)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -101,8 +101,8 @@ Leading mathematicians suggest the following open pathways:
 ## 9. Key References
 
 - **[Foundational]** Tate, J. *Les Conjectures de Stark sur les Fonctions L d'Artin en s=0*. Progress in Mathematics, Vol. 47, Birkhäuser Boston, 1984.
-- **[SOTA / Recent]** Dasgupta, S., & Kakde, M. *On the Brumer-Stark conjecture*. Annals of Mathematics, 197(3), 1013-1070, 2023.
-- **[Foundational]** Wiles, A. *The Iwasawa Conjecture for Totally Real Fields*. Annals of Mathematics, 131(3), 493-540, 1990.
+- **[SOTA / Recent]** Dasgupta, S., & Kakde, M. *On the Brumer-Stark conjecture*. Annals of Mathematics, 197(3), 1013-1070, 2023. [DOI](https://doi.org/10.4007/annals.2023.197.1.5)
+- **[Foundational]** Wiles, A. *The Iwasawa Conjecture for Totally Real Fields*. Annals of Mathematics, 131(3), 493-540, 1990. [DOI](https://doi.org/10.2307/1971468)
 - **[Survey]** Greither, C. *Determining Fitting ideals of minus class groups via the equivariant main conjecture*. Compositio Mathematica, 143(6), 1399-1426, 2007.
 - **[SOTA / Recent]** Burns, D., Kurihara, M., & Sano, T. *On Stark elements of arbitrary weight and their $p$-adic families*. Journal of Algebra, 2022.
 

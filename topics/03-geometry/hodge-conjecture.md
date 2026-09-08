@@ -114,25 +114,25 @@ The gap is the first case where neither holds: a Hodge class $\alpha\in\mathrm{H
 ## 9. Key References
 
 - **[Foundational]** W. V. D. Hodge. *The topological invariants of algebraic varieties.* Proceedings of the International Congress of Mathematicians (Cambridge, MA, 1950), vol. 1, AMS, 1952, 182–192.
-- **[Foundational]** S. Lefschetz. *L'analysis situs et la géométrie algébrique.* Gauthier-Villars, Paris, 1924.
-- **[Foundational]** M. F. Atiyah, F. Hirzebruch. *Analytic cycles on complex manifolds.* Topology 1 (1962), 25–45.
-- **[Foundational]** A. Grothendieck. *Hodge's general conjecture is false for trivial reasons.* Topology 8 (1969), 299–303.
-- **[Foundational]** D. Mumford. *Rational equivalence of 0-cycles on surfaces.* J. Math. Kyoto Univ. 9 (1968), 195–204.
-- **[SOTA / Recent]** E. Cattani, P. Deligne, A. Kaplan. *On the locus of Hodge classes.* J. Amer. Math. Soc. 8 (1995), 483–506.
+- **[Foundational]** S. Lefschetz. *L'analysis situs et la géométrie algébrique.* Gauthier-Villars, Paris, 1924. [DOI](https://doi.org/10.1090/s0002-9904-1925-04116-6)
+- **[Foundational]** M. F. Atiyah, F. Hirzebruch. *Analytic cycles on complex manifolds.* Topology 1 (1962), 25–45. [DOI](https://doi.org/10.1016/0040-9383(62)90094-0)
+- **[Foundational]** A. Grothendieck. *Hodge's general conjecture is false for trivial reasons.* Topology 8 (1969), 299–303. [DOI](https://doi.org/10.1016/0040-9383(69)90016-0)
+- **[Foundational]** D. Mumford. *Rational equivalence of 0-cycles on surfaces.* J. Math. Kyoto Univ. 9 (1968), 195–204. [DOI](https://doi.org/10.1215/kjm/1250523940)
+- **[SOTA / Recent]** E. Cattani, P. Deligne, A. Kaplan. *On the locus of Hodge classes.* J. Amer. Math. Soc. 8 (1995), 483–506. [DOI](https://doi.org/10.1090/s0894-0347-1995-1273413-2)
 - **[SOTA / Recent]** C. Voisin. *A counterexample to the Hodge conjecture extended to Kähler varieties.* Int. Math. Res. Not. 2002, no. 20, 1057–1075.
-- **[SOTA / Recent]** B. Moonen, Yu. Zarhin. *Hodge classes on abelian varieties of low dimension.* Math. Ann. 315 (1999), 711–733.
+- **[SOTA / Recent]** B. Moonen, Yu. Zarhin. *Hodge classes on abelian varieties of low dimension.* Math. Ann. 315 (1999), 711–733. [DOI](https://doi.org/10.1007/s002080050333)
 - **[SOTA / Recent]** C. Schoen. *Hodge classes on self-products of a variety with an automorphism.* Compositio Math. 65 (1988), 3–32.
 - **[SOTA / Recent]** N. Buskin. *Every rational Hodge isometry between two K3 surfaces is algebraic.* J. reine angew. Math. (Crelle) 755 (2019), 127–150.
-- **[SOTA / Recent]** E. Markman. *The monodromy of generalized Kummer varieties and algebraic cycles on their intermediate Jacobians.* J. Eur. Math. Soc. 25 (2023), 231–321.
-- **[SOTA / Recent]** G. Baldi, B. Klingler, E. Ullmo. *On the distribution of the Hodge locus.* Invent. Math. 235 (2024), 441–487.
-- **[SOTA / Recent]** B. Totaro. *Torsion algebraic cycles and complex cobordism.* J. Amer. Math. Soc. 10 (1997), 467–493.
-- **[SOTA / Recent]** C. Soulé, C. Voisin. *Torsion cohomology classes and algebraic cycles on complex projective manifolds.* Adv. Math. 198 (2005), 107–127.
+- **[SOTA / Recent]** E. Markman. *The monodromy of generalized Kummer varieties and algebraic cycles on their intermediate Jacobians.* J. Eur. Math. Soc. 25 (2023), 231–321. [DOI](https://doi.org/10.4171/jems/1199)
+- **[SOTA / Recent]** G. Baldi, B. Klingler, E. Ullmo. *On the distribution of the Hodge locus.* Invent. Math. 235 (2024), 441–487. [DOI](https://doi.org/10.1007/s00222-023-01226-0)
+- **[SOTA / Recent]** B. Totaro. *Torsion algebraic cycles and complex cobordism.* J. Amer. Math. Soc. 10 (1997), 467–493. [DOI](https://doi.org/10.1090/s0894-0347-97-00232-4)
+- **[SOTA / Recent]** C. Soulé, C. Voisin. *Torsion cohomology classes and algebraic cycles on complex projective manifolds.* Adv. Math. 198 (2005), 107–127. [DOI](https://doi.org/10.1016/j.aim.2004.10.022)
 - **[Classical special case]** S. Zucker. *The Hodge conjecture for cubic fourfolds.* Compositio Math. 34 (1977), 199–209.
-- **[Classical special case]** T. Shioda. *The Hodge conjecture for Fermat varieties.* Math. Ann. 245 (1979), 175–184.
+- **[Classical special case]** T. Shioda. *The Hodge conjecture for Fermat varieties.* Math. Ann. 245 (1979), 175–184. [DOI](https://doi.org/10.1007/bf01428804)
 - **[Survey]** P. Deligne. *The Hodge conjecture.* In: The Millennium Prize Problems, Clay Mathematics Institute / AMS, 2006, 45–53.
 - **[Survey]** J. D. Lewis. *A Survey of the Hodge Conjecture*, 2nd ed. CRM Monograph Series 10, AMS, 1999.
 - **[Survey / Textbook]** C. Voisin. *Hodge Theory and Complex Algebraic Geometry I, II.* Cambridge Studies in Advanced Mathematics 76, 77, CUP, 2002–2003.
-- **[Survey]** A. Weil. *Abelian varieties and the Hodge ring.* Collected Papers, vol. III, Springer, 1979, 421–429.
+- **[Survey]** A. Weil. *Abelian varieties and the Hodge ring.* Collected Papers, vol. III, Springer, 1979, 421–429. [DOI](https://doi.org/10.1007/978-1-4757-1705-1_123)
 
 ## 10. Worked Example / Concrete Special Case
 

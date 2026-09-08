@@ -110,19 +110,19 @@ The precise missing step for $n\ge 3$: **prove a uniform lower bound $\det du \g
 ## 9. Key References
 
 - **[Foundational]** J. Eells, J. H. Sampson. *Harmonic mappings of Riemannian manifolds.* American Journal of Mathematics 86 (1964), 109–160.
-- **[Foundational]** R. Schoen, S.-T. Yau. *On univalent harmonic maps between surfaces.* Inventiones Mathematicae 44 (1978), 265–278.
+- **[Foundational]** R. Schoen, S.-T. Yau. *On univalent harmonic maps between surfaces.* Inventiones Mathematicae 44 (1978), 265–278. [DOI](https://doi.org/10.1007/bf01403164)
 - **[Foundational]** R. Schoen. *The role of harmonic mappings in rigidity and deformation problems.* In *Complex Geometry (Osaka, 1990)*, Lecture Notes in Pure and Applied Mathematics 143, Marcel Dekker, 1993, 179–200.
-- **[Foundational]** P. Li, L.-F. Tam. *Uniqueness and regularity of proper harmonic maps.* Annals of Mathematics 137 (1993), 167–201; and *II*, Indiana University Mathematics Journal 42 (1993), 591–635.
-- **[Foundational]** T. Y.-H. Wan. *Constant mean curvature surface, harmonic maps, and universal Teichmüller space.* Journal of Differential Geometry 35 (1992), 643–657.
-- **[Foundational]** L.-F. Tam, T. Y.-H. Wan. *Quasi-conformal harmonic diffeomorphism and the universal Teichmüller space.* Journal of Differential Geometry 42 (1995), 368–410.
-- **[SOTA / Recent]** V. Marković. *Harmonic maps between 3-dimensional hyperbolic spaces.* Inventiones Mathematicae 199 (2015), 921–951.
-- **[SOTA / Recent]** V. Marković. *Harmonic maps and the Schoen conjecture.* Journal of the American Mathematical Society 30 (2017), 799–817.
-- **[SOTA / Recent]** Y. Benoist, D. Hulin. *Harmonic quasi-isometric maps between rank one symmetric spaces.* Annals of Mathematics (2) 185 (2017), 895–917.
-- **[SOTA / Recent]** Y. Benoist, D. Hulin. *Harmonic quasi-isometric maps II: negatively curved manifolds.* Journal of the European Mathematical Society 23 (2021), 2861–2911.
-- **[SOTA / Recent]** M. Lemm, V. Marković. *Heat flows on hyperbolic spaces.* Journal of Differential Geometry 108 (2018), 495–529.
-- **[Related]** R. Hardt, M. Wolf. *Harmonic extensions of quasiconformal maps to hyperbolic space.* Indiana University Mathematics Journal 46 (1997), 155–163.
+- **[Foundational]** P. Li, L.-F. Tam. *Uniqueness and regularity of proper harmonic maps.* Annals of Mathematics 137 (1993), 167–201; and *II*, Indiana University Mathematics Journal 42 (1993), 591–635. [DOI](https://doi.org/10.2307/2946622)
+- **[Foundational]** T. Y.-H. Wan. *Constant mean curvature surface, harmonic maps, and universal Teichmüller space.* Journal of Differential Geometry 35 (1992), 643–657. [DOI](https://doi.org/10.4310/jdg/1214448260)
+- **[Foundational]** L.-F. Tam, T. Y.-H. Wan. *Quasi-conformal harmonic diffeomorphism and the universal Teichmüller space.* Journal of Differential Geometry 42 (1995), 368–410. [DOI](https://doi.org/10.4310/jdg/1214457235)
+- **[SOTA / Recent]** V. Marković. *Harmonic maps between 3-dimensional hyperbolic spaces.* Inventiones Mathematicae 199 (2015), 921–951. [DOI](https://doi.org/10.1007/s00222-014-0536-x)
+- **[SOTA / Recent]** V. Marković. *Harmonic maps and the Schoen conjecture.* Journal of the American Mathematical Society 30 (2017), 799–817. [DOI](https://doi.org/10.1090/jams/881)
+- **[SOTA / Recent]** Y. Benoist, D. Hulin. *Harmonic quasi-isometric maps between rank one symmetric spaces.* Annals of Mathematics (2) 185 (2017), 895–917. [DOI](https://doi.org/10.4007/annals.2017.185.3.4)
+- **[SOTA / Recent]** Y. Benoist, D. Hulin. *Harmonic quasi-isometric maps II: negatively curved manifolds.* Journal of the European Mathematical Society 23 (2021), 2861–2911. [DOI](https://doi.org/10.4171/jems/1065)
+- **[SOTA / Recent]** M. Lemm, V. Marković. *Heat flows on hyperbolic spaces.* Journal of Differential Geometry 108 (2018), 495–529. [DOI](https://doi.org/10.4310/jdg/1519959624)
+- **[Related]** R. Hardt, M. Wolf. *Harmonic extensions of quasiconformal maps to hyperbolic space.* Indiana University Mathematics Journal 46 (1997), 155–163. [DOI](https://doi.org/10.1512/iumj.1997.46.1351)
 - **[Survey]** R. Schoen, S.-T. Yau. *Lectures on Harmonic Maps.* International Press, 1997.
-- **[Survey]** J. Eells, L. Lemaire. *Two Reports on Harmonic Maps.* World Scientific, 1995.
+- **[Survey]** J. Eells, L. Lemaire. *Two Reports on Harmonic Maps.* World Scientific, 1995. [DOI](https://doi.org/10.1142/2088)
 
 ## 10. Worked Example / Concrete Special Case
 

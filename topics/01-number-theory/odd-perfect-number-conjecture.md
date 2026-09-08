@@ -87,7 +87,7 @@ Leading mathematicians suggest that brute-force computation will never resolve t
 ## 9. Key References
 
 - **[Foundational]** Euler, L. *Tractatus de numerorum doctrina capita sedecim, quae supersunt*. Opera Omnia, Series 1, Vol. 5, 1849.
-- **[SOTA / Recent]** Ochem, P. and Rao, M. *Odd perfect numbers are greater than $10^{1500}$*. Mathematics of Computation, Vol. 81, 2012.
+- **[SOTA / Recent]** Ochem, P. and Rao, M. *Odd perfect numbers are greater than $10^{1500}$*. Mathematics of Computation, Vol. 81, 2012. [DOI](https://doi.org/10.1090/s0025-5718-2012-02563-4)
 - **[SOTA / Recent]** Nielsen, P. P. *Odd perfect numbers have at least 10 distinct prime factors*. Mathematics of Computation, Vol. 84, 2015.
 - **[Survey]** Guy, R. K. *Unsolved Problems in Number Theory*. 3rd Edition, Springer, 2004. (Section B1: Perfect Numbers).
 

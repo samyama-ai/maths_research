@@ -85,7 +85,7 @@ where $m \ge 1$ is an integer. Understanding the exact solutions to this equatio
 - **[Foundational]** Giuga, G. *Su una presumibile proprietà caratteristica dei numeri primi.* Istituto Lombardo di Scienze e Lettere, Rendiconti, Classe di Scienze Matematiche e Naturali, 1950.
 - **[Foundational]** Agoh, T. *On Giuga's conjecture.* Manuscripta Mathematica, 1995.
 - **[Survey]** Borwein, D., Borwein, J. M., Borwein, P. B., & Girgensohn, R. *Giuga's Conjecture on Primality.* The American Mathematical Monthly, 1996.
-- **[SOTA / Recent]** Borwein, J. M., Maitland, C., & Skerritt, M. P. *Computation of an improved lower bound to Giuga's primality conjecture.* Integers, 2013.
+- **[SOTA / Recent]** Borwein, J. M., Maitland, C., & Skerritt, M. P. *Computation of an improved lower bound to Giuga's primality conjecture.* Integers, 2013. [DOI](https://doi.org/10.1515/9783110298161.944)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -120,22 +120,22 @@ Without a monotonicity formula there is no proof that $\Sigma_\varepsilon$ is $\
 - **[Foundational]** C. B. Morrey. *On the solutions of quasi-linear elliptic partial differential equations.* Transactions of the AMS **43** (1938), 126–166.
 - **[Foundational]** S. Campanato. *Proprietà di hölderianità di alcune classi di funzioni.* Annali della Scuola Normale Superiore di Pisa **17** (1963), 175–188.
 - **[Foundational]** E. De Giorgi. *Un esempio di estremali discontinue per un problema variazionale di tipo ellittico.* Bollettino UMI **1** (1968), 135–137.
-- **[Foundational]** D. R. Adams. *A note on Riesz potentials.* Duke Mathematical Journal **42** (1975), 765–778.
-- **[Book]** M. Giaquinta. *Multiple Integrals in the Calculus of Variations and Nonlinear Elliptic Systems.* Annals of Mathematics Studies 105, Princeton University Press, 1983.
+- **[Foundational]** D. R. Adams. *A note on Riesz potentials.* Duke Mathematical Journal **42** (1975), 765–778. [DOI](https://doi.org/10.1215/s0012-7094-75-04265-9)
+- **[Book]** M. Giaquinta. *Multiple Integrals in the Calculus of Variations and Nonlinear Elliptic Systems.* Annals of Mathematics Studies 105, Princeton University Press, 1983. [DOI](https://doi.org/10.1515/9781400881628-002)
 - **[Foundational]** R. Schoen, K. Uhlenbeck. *A regularity theory for harmonic maps.* Journal of Differential Geometry **17** (1982), 307–335.
-- **[Foundational]** F. Bethuel. *On the singular set of stationary harmonic maps.* Manuscripta Mathematica **78** (1993), 417–443.
-- **[SOTA]** T. Rivière. *Conservation laws for conformally invariant variational problems.* Inventiones Mathematicae **168** (2007), 1–22.
+- **[Foundational]** F. Bethuel. *On the singular set of stationary harmonic maps.* Manuscripta Mathematica **78** (1993), 417–443. [DOI](https://doi.org/10.1007/bf02599324)
+- **[SOTA]** T. Rivière. *Conservation laws for conformally invariant variational problems.* Inventiones Mathematicae **168** (2007), 1–22. [DOI](https://doi.org/10.1007/s00222-006-0023-0)
 - **[SOTA]** T. Rivière, M. Struwe. *Partial regularity for harmonic maps and related problems.* Communications on Pure and Applied Mathematics **61** (2008), 451–463.
-- **[SOTA]** B. Sharp, P. Topping. *Decay estimates for Rivière's equation, with applications to regularity and compactness.* Transactions of the AMS **365** (2013), 2317–2339.
-- **[SOTA]** A. Naber, D. Valtorta. *Rectifiable-Reifenberg and the regularity of stationary and minimizing harmonic maps.* Annals of Mathematics **185** (2017), 131–227.
-- **[SOTA]** F.-H. Lin. *Gradient estimates and blow-up analysis for stationary harmonic maps.* Annals of Mathematics **149** (1999), 785–829.
-- **[Linear theory]** F. Chiarenza, M. Frasca, P. Longo. *$W^{2,p}$-solvability of the Dirichlet problem for nondivergence elliptic equations with VMO coefficients.* Transactions of the AMS **336** (1993), 841–853.
-- **[Linear theory]** G. Di Fazio, M. A. Ragusa. *Interior estimates in Morrey spaces for strong solutions to nondivergence form equations with discontinuous coefficients.* Journal of Functional Analysis **112** (1993), 241–256.
-- **[Linear theory]** S.-S. Byun, L. Wang. *Elliptic equations with BMO coefficients in Reifenberg domains.* Communications on Pure and Applied Mathematics **57** (2004), 1283–1310.
-- **[Counterexample]** V. Šverák, X. Yan. *Non-Lipschitz minimizers of smooth uniformly convex functionals.* Proceedings of the National Academy of Sciences USA **99** (2002), 15269–15276.
-- **[Survey]** T. Kuusi, G. Mingione. *Guide to nonlinear potential estimates.* Bulletin of Mathematical Sciences **4** (2014), 1–82.
+- **[SOTA]** B. Sharp, P. Topping. *Decay estimates for Rivière's equation, with applications to regularity and compactness.* Transactions of the AMS **365** (2013), 2317–2339. [DOI](https://doi.org/10.1090/s0002-9947-2012-05671-6)
+- **[SOTA]** A. Naber, D. Valtorta. *Rectifiable-Reifenberg and the regularity of stationary and minimizing harmonic maps.* Annals of Mathematics **185** (2017), 131–227. [DOI](https://doi.org/10.4007/annals.2017.185.1.3)
+- **[SOTA]** F.-H. Lin. *Gradient estimates and blow-up analysis for stationary harmonic maps.* Annals of Mathematics **149** (1999), 785–829. [DOI](https://doi.org/10.2307/121073)
+- **[Linear theory]** F. Chiarenza, M. Frasca, P. Longo. *$W^{2,p}$-solvability of the Dirichlet problem for nondivergence elliptic equations with VMO coefficients.* Transactions of the AMS **336** (1993), 841–853. [DOI](https://doi.org/10.2307/2154379)
+- **[Linear theory]** G. Di Fazio, M. A. Ragusa. *Interior estimates in Morrey spaces for strong solutions to nondivergence form equations with discontinuous coefficients.* Journal of Functional Analysis **112** (1993), 241–256. [DOI](https://doi.org/10.1006/jfan.1993.1032)
+- **[Linear theory]** S.-S. Byun, L. Wang. *Elliptic equations with BMO coefficients in Reifenberg domains.* Communications on Pure and Applied Mathematics **57** (2004), 1283–1310. [DOI](https://doi.org/10.1002/cpa.20037)
+- **[Counterexample]** V. Šverák, X. Yan. *Non-Lipschitz minimizers of smooth uniformly convex functionals.* Proceedings of the National Academy of Sciences USA **99** (2002), 15269–15276. [DOI](https://doi.org/10.1073/pnas.222494699)
+- **[Survey]** T. Kuusi, G. Mingione. *Guide to nonlinear potential estimates.* Bulletin of Mathematical Sciences **4** (2014), 1–82. [DOI](https://doi.org/10.1007/s13373-013-0048-9)
 - **[Survey]** D. R. Adams, J. Xiao. *Morrey spaces in harmonic analysis.* Arkiv för Matematik **50** (2012), 201–230.
-- **[Technique]** A. Schikorra. *A remark on gauge transformations and the moving frame method.* Annales de l'IHP – Analyse Non Linéaire **27** (2010), 503–515.
+- **[Technique]** A. Schikorra. *A remark on gauge transformations and the moving frame method.* Annales de l'IHP – Analyse Non Linéaire **27** (2010), 503–515. [DOI](https://doi.org/10.1016/j.anihpc.2009.09.004)
 
 ## 10. Worked Example / Concrete Special Case
 

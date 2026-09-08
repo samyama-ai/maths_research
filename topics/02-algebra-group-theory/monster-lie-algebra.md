@@ -99,18 +99,18 @@ Proven: existence, root multiplicities, all (twisted) denominator identities, re
 ## 9. Key References
 
 - **[Foundational]** J. H. Conway, S. P. Norton. *Monstrous Moonshine.* Bulletin of the London Mathematical Society 11 (1979), 308–339.
-- **[Foundational]** I. Frenkel, J. Lepowsky, A. Meurman. *Vertex Operator Algebras and the Monster.* Pure and Applied Mathematics 134, Academic Press, 1988.
+- **[Foundational]** I. Frenkel, J. Lepowsky, A. Meurman. *Vertex Operator Algebras and the Monster.* Pure and Applied Mathematics 134, Academic Press, 1988. [DOI](https://doi.org/10.1016/s0079-8169(08)x6136-7)
 - **[Foundational]** R. E. Borcherds. *Generalized Kac–Moody algebras.* Journal of Algebra 115 (1988), 501–512.
-- **[Foundational / SOTA]** R. E. Borcherds. *Monstrous moonshine and monstrous Lie superalgebras.* Inventiones Mathematicae 109 (1992), 405–444.
-- **[Structure]** E. Jurisich, J. Lepowsky, R. L. Wilson. *Realizations of the Monster Lie algebra.* Selecta Mathematica (N.S.) 1 (1995), 129–161.
-- **[Structure]** E. Jurisich. *Generalized Kac–Moody Lie algebras, free Lie algebras and the structure of the Monster Lie algebra.* Journal of Pure and Applied Algebra 126 (1998), 233–266.
-- **[SOTA / Recent]** S. Carnahan. *Generalized moonshine I: Genus-zero functions.* Algebra & Number Theory 4 (2010), 649–679; *Generalized moonshine II: Borcherds products.* Duke Mathematical Journal 161 (2012), 893–950; *Generalized moonshine IV: Monstrous Lie algebras.* arXiv:1208.6254.
+- **[Foundational / SOTA]** R. E. Borcherds. *Monstrous moonshine and monstrous Lie superalgebras.* Inventiones Mathematicae 109 (1992), 405–444. [DOI](https://doi.org/10.1007/bf01232032)
+- **[Structure]** E. Jurisich, J. Lepowsky, R. L. Wilson. *Realizations of the Monster Lie algebra.* Selecta Mathematica (N.S.) 1 (1995), 129–161. [DOI](https://doi.org/10.1007/bf01614075)
+- **[Structure]** E. Jurisich. *Generalized Kac–Moody Lie algebras, free Lie algebras and the structure of the Monster Lie algebra.* Journal of Pure and Applied Algebra 126 (1998), 233–266. [DOI](https://doi.org/10.1016/s0022-4049(96)00142-9)
+- **[SOTA / Recent]** S. Carnahan. *Generalized moonshine I: Genus-zero functions.* Algebra & Number Theory 4 (2010), 649–679; *Generalized moonshine II: Borcherds products.* Duke Mathematical Journal 161 (2012), 893–950; *Generalized moonshine IV: Monstrous Lie algebras.* arXiv:1208.6254. [DOI](https://doi.org/10.2140/ant.2010.4.649)
 - **[SOTA / Recent]** J. van Ekeren, S. Möller, N. Scheithauer. *Construction and classification of holomorphic vertex operator algebras.* Journal für die reine und angewandte Mathematik (Crelle) 759 (2020), 61–99.
-- **[Recent]** J. F. R. Duncan, I. B. Frenkel. *Rademacher sums, moonshine and gravity.* Communications in Number Theory and Physics 5 (2011), 849–976.
-- **[Survey]** T. Gannon. *Monstrous moonshine: the first twenty-five years.* Bulletin of the London Mathematical Society 38 (2006), 1–33.
+- **[Recent]** J. F. R. Duncan, I. B. Frenkel. *Rademacher sums, moonshine and gravity.* Communications in Number Theory and Physics 5 (2011), 849–976. [DOI](https://doi.org/10.4310/cntp.2011.v5.n4.a4)
+- **[Survey]** T. Gannon. *Monstrous moonshine: the first twenty-five years.* Bulletin of the London Mathematical Society 38 (2006), 1–33. [DOI](https://doi.org/10.1017/s0024609305018217)
 - **[Survey / Book]** T. Gannon. *Moonshine Beyond the Monster.* Cambridge University Press, 2006.
 - **[Background]** V. G. Kac. *Infinite Dimensional Lie Algebras.* 3rd edition, Cambridge University Press, 1990.
-- **[Background]** P. Goddard, C. B. Thorn. *Compatibility of the dual Pomeron with unitarity and the absence of ghosts in the dual resonance model.* Physics Letters B 40 (1972), 235–238.
+- **[Background]** P. Goddard, C. B. Thorn. *Compatibility of the dual Pomeron with unitarity and the absence of ghosts in the dual resonance model.* Physics Letters B 40 (1972), 235–238. [DOI](https://doi.org/10.1016/0370-2693(72)90420-0)
 
 ## 10. Worked Example / Concrete Special Case
 

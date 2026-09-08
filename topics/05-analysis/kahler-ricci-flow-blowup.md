@@ -103,20 +103,20 @@ Unproven: the implication $T<\infty \Rightarrow \sup_{X\times[0,T)}R<\infty$ for
 ## 9. Key References
 
 - **[Foundational]** H.-D. Cao. *Deformation of Kähler metrics to Kähler–Einstein metrics on compact Kähler manifolds.* Inventiones Mathematicae 81 (1985), 359–372.
-- **[Foundational]** G. Tian, Z. Zhang. *On the Kähler–Ricci flow on projective manifolds of general type.* Chinese Annals of Mathematics Ser. B 27 (2006), 179–192.
-- **[Foundational]** M. Feldman, T. Ilmanen, D. Knopf. *Rotationally symmetric shrinking and expanding gradient Kähler–Ricci solitons.* Journal of Differential Geometry 65 (2003), 169–209.
-- **[SOTA]** R. Bamler. *Convergence of Ricci flows with bounded scalar curvature.* Annals of Mathematics 188 (2018), 753–831.
-- **[SOTA]** X.-X. Chen, B. Wang. *Space of Ricci flows (II) — Part B: Weak compactness of the flows.* Journal of Differential Geometry 116 (2020), 1–123.
-- **[SOTA]** J. Song, G. Tian. *The Kähler–Ricci flow through singularities.* Inventiones Mathematicae 207 (2017), 519–595.
-- **[SOTA]** J. Song, B. Weinkove. *Contracting exceptional divisors by the Kähler–Ricci flow.* Duke Mathematical Journal 162 (2013), 367–415.
-- **[SOTA]** T. Collins, V. Tosatti. *Kähler currents and null loci.* Inventiones Mathematicae 202 (2015), 1167–1198.
-- **[SOTA]** B. Guo, D. H. Phong, F. Tong. *On $L^\infty$ estimates for complex Monge–Ampère equations.* Annals of Mathematics 198 (2023), 393–418.
-- **[SOTA]** B. Guo, D. H. Phong, J. Song, J. Sturm. *Diameter estimates in Kähler geometry.* Communications on Pure and Applied Mathematics 77 (2024), 3520–3556.
+- **[Foundational]** G. Tian, Z. Zhang. *On the Kähler–Ricci flow on projective manifolds of general type.* Chinese Annals of Mathematics Ser. B 27 (2006), 179–192. [DOI](https://doi.org/10.1007/s11401-005-0533-x)
+- **[Foundational]** M. Feldman, T. Ilmanen, D. Knopf. *Rotationally symmetric shrinking and expanding gradient Kähler–Ricci solitons.* Journal of Differential Geometry 65 (2003), 169–209. [DOI](https://doi.org/10.4310/jdg/1090511686)
+- **[SOTA]** R. Bamler. *Convergence of Ricci flows with bounded scalar curvature.* Annals of Mathematics 188 (2018), 753–831. [DOI](https://doi.org/10.4007/annals.2018.188.3.2)
+- **[SOTA]** X.-X. Chen, B. Wang. *Space of Ricci flows (II) — Part B: Weak compactness of the flows.* Journal of Differential Geometry 116 (2020), 1–123. [DOI](https://doi.org/10.4310/jdg/1599271253)
+- **[SOTA]** J. Song, G. Tian. *The Kähler–Ricci flow through singularities.* Inventiones Mathematicae 207 (2017), 519–595. [DOI](https://doi.org/10.1007/s00222-016-0674-4)
+- **[SOTA]** J. Song, B. Weinkove. *Contracting exceptional divisors by the Kähler–Ricci flow.* Duke Mathematical Journal 162 (2013), 367–415. [DOI](https://doi.org/10.1215/00127094-1962881)
+- **[SOTA]** T. Collins, V. Tosatti. *Kähler currents and null loci.* Inventiones Mathematicae 202 (2015), 1167–1198. [DOI](https://doi.org/10.1007/s00222-015-0585-9)
+- **[SOTA]** B. Guo, D. H. Phong, F. Tong. *On $L^\infty$ estimates for complex Monge–Ampère equations.* Annals of Mathematics 198 (2023), 393–418. [DOI](https://doi.org/10.4007/annals.2023.198.1.4)
+- **[SOTA]** B. Guo, D. H. Phong, J. Song, J. Sturm. *Diameter estimates in Kähler geometry.* Communications on Pure and Applied Mathematics 77 (2024), 3520–3556. [DOI](https://doi.org/10.1002/cpa.22196)
 - **[SOTA]** J. Enders, R. Müller, P. Topping. *On type-I singularities in Ricci flow.* Communications in Analysis and Geometry 19 (2011), 905–922.
 - **[SOTA]** D. Máximo. *On the blow-up of four-dimensional Ricci flow singularities.* Journal für die reine und angewandte Mathematik 692 (2014), 153–171.
-- **[Survey]** J. Song, B. Weinkove. *An introduction to the Kähler–Ricci flow.* In: *An Introduction to the Kähler–Ricci Flow*, Lecture Notes in Mathematics 2086, Springer, 2013.
-- **[Survey]** V. Tosatti. *KAWA lecture notes on the Kähler–Ricci flow.* Annales de la Faculté des Sciences de Toulouse 27 (2018), 285–376.
-- **[Survey]** N. Sesum, G. Tian. *Bounding scalar curvature and diameter along the Kähler–Ricci flow (after Perelman).* Journal of the Institute of Mathematics of Jussieu 7 (2008), 575–587.
+- **[Survey]** J. Song, B. Weinkove. *An introduction to the Kähler–Ricci flow.* In: *An Introduction to the Kähler–Ricci Flow*, Lecture Notes in Mathematics 2086, Springer, 2013. [DOI](https://doi.org/10.1007/978-3-319-00819-6_3)
+- **[Survey]** V. Tosatti. *KAWA lecture notes on the Kähler–Ricci flow.* Annales de la Faculté des Sciences de Toulouse 27 (2018), 285–376. [DOI](https://doi.org/10.5802/afst.1571)
+- **[Survey]** N. Sesum, G. Tian. *Bounding scalar curvature and diameter along the Kähler–Ricci flow (after Perelman).* Journal of the Institute of Mathematics of Jussieu 7 (2008), 575–587. [DOI](https://doi.org/10.1017/s1474748008000133)
 
 ## 10. Worked Example: $X=\mathrm{Bl}_p\mathbb{P}^2$
 

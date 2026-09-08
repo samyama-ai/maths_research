@@ -6,22 +6,31 @@ Ramsey theory, extremal graph theory, enumerative & algebraic combinatorics, com
 
 * 🔴 [1-Factorization Conjecture](./1-factorization-conjecture.md) — Regular graphs of high degree can be decomposed into perfect matchings.
 * 🔴 [Aanderaa-Karp-Rosenberg Conjecture (Evasiveness of Monotone Graph Properties)](./aanderaa-karp-rosenberg-conjecture.md) — Monotone graph properties require evaluating a certain number of adjacency matrix entries.
+* 🟡 [Acyclic Edge Coloring Conjecture](./acyclic-edge-coloring-conjecture.md) — Every graph has an acyclic edge coloring with degree plus two colors
+* 🟡 [Aharoni–Berger Rainbow Matching Conjecture](./aharoni-berger-conjecture.md) — Matchings in bipartite multigraphs yield a large rainbow matching
 * 🔴 [Albertson Conjecture](./albertson-conjecture.md) — Complete graphs minimize the crossing number among all same chromatic graphs.
 * 🔴 [Alon-Tarsi Conjecture](./alon-tarsi-conjecture.md) — Even and odd Eulerian subgraphs differ in bipartite graphs.
 * 🟢 [Alspach's Conjecture](./alspachs-conjecture.md) — A complete graph can be completely decomposed into cycles of specified lengths.
 * 🟢 [Alternating Sign Matrix Conjecture](./alternating-sign-matrix-conjecture.md) — Predicts the exact number of alternating sign matrices of a given size.
+* 🔴 [Antimagic Labeling Conjecture (Hartsfield–Ringel)](./antimagic-labeling-conjecture.md) — Every connected graph except K2 is antimagic
 * 🔴 [Babai's Conjecture](./babais-conjecture.md) — Bounding the diameter of Cayley graphs of finite simple groups.
 * 🔴 [Babai's Core-Free Graph Problem](./babais-core-free-graph-problem.md) — Bounding the size of core free graphs using their related automorphism groups.
+* 🟢 [Barát–Thomassen Tree Decomposition Conjecture](./barat-thomassen-conjecture.md) — Highly connected graphs decompose into copies of a tree
 * 🔴 [Barnette's Conjecture](./barnettes-conjecture.md) — Every bipartite cubic polyhedral graph is Hamiltonian.
 * 🔴 [Berge-Fulkerson Conjecture](./berge-fulkerson-conjecture.md) — Bridgeless cubic graphs have six perfect matchings covering edges twice.
 * 🔴 [Bermond-Thomassen Conjecture](./bermond-thomassen-conjecture.md) — Directed graphs with minimum outdegree contain a specific number of disjoint cycles.
+* 🔴 [Sidon Set Growth in Finite Abelian Groups (Erdős–Turán $B_h$ Problem)](./bh-sidon-sets-growth-problem.md) — Maximum size of B sub h sets
 * 🔴 [Blankinship–Oporowski Conjecture](./blankinship-oporowski-conjecture.md) — Bounding the book thickness of specific minor closed graph classes.
 * 🟢 [Bollobás-Eldridge-Catlin Conjecture](./bollobas-eldridge-catlin-conjecture.md) — Graphs can be partitioned into specific dense subgraphs.
 * 🔴 [Bollobás-Riordan Conjecture](./bollobas-riordan-conjecture.md) — Defines critical probability for percolation on random graphs with given degree sequences.
 * 🔴 [Bondy's Meta-Conjecture](./bondys-meta-conjecture.md) — Conditions ensuring a Hamiltonian cycle also ensure specific cycle lengths.
 * 🟡 [Book Thickness of Graphs](./book-thickness-problem.md) — Determine the minimum number of pages required to embed a graph.
+* 🟡 [Borodin–Kostochka Conjecture](./borodin-kostochka-conjecture.md) — High-degree graphs without large cliques are degree-minus-one colorable
 * 🔴 [Bouchet's 6-Flow Conjecture](./bouchets-6-flow-conjecture.md) — Every nowhere zero bidirected graph admits a nowhere zero six flow.
 * 🔴 [Brouwer's Laplacian Spectrum Conjecture](./brouwers-laplacian-spectrum-conjecture.md) — Binds the sum of largest Laplacian eigenvalues by the number of edges.
+* 🟡 [Brualdi–Hollingsworth Conjecture on Rainbow Spanning Trees](./brualdi-hollingsworth-conjecture.md) — Properly colored complete graphs decompose into rainbow spanning trees
+* 🔴 [Brualdi–Ryser–Stein Conjecture on Latin Square Transversals](./brualdi-ryser-stein-conjecture.md) — Every Latin square has near-full partial transversal
+* 🟢 [Bunkbed Conjecture](./bunkbed-conjecture.md) — Percolation connection is likelier on the same bunk level
 * 🔴 [Burning Number Conjecture](./burning-number-conjecture.md) — Bounding the time required to completely burn a connected graph.
 * 🟢 [Burr-Erdős Conjecture](./burr-erdos-conjecture.md) — Sparse graphs have linearly bounded Ramsey numbers.
 * 🔴 [Buser's Conjecture](./busers-conjecture.md) — Binds the isoperimetric constant of a graph strictly using its spectral gap.
@@ -30,14 +39,22 @@ Ramsey theory, extremal graph theory, enumerative & algebraic combinatorics, com
 * 🟢 [Cameron's Sum-Free Set Conjecture](./camerons-sum-free-set-conjecture.md) — The number of sum free subsets in integer sets is strictly bounded.
 * 🟢 [Cap Set Problem](./cap-set-problem.md) — Maximum size of subset avoiding three term arithmetic progressions.
 * 🟡 [Cayley Graph Isomorphism Problem](./cayley-graph-isomorphism-problem.md) — Deciding if two Cayley graphs of a group are isomorphic.
+* 🟡 [Cereceda's Conjecture on Recoloring Diameter](./cereceda-conjecture.md) — Recoloring degenerate graphs takes quadratically many single-vertex color changes
+* 🔴 [Chromatic Number of the Plane for Higher Dimensions](./chromatic-number-euclidean-space-dimension-n.md) — Growth rate of Euclidean space chromatic numbers
+* 🔴 [Chvátal–Erdős Hamiltonicity Threshold Refinements](./chvatal-erdos-hamiltonicity-refinements.md) — Sharpening connectivity versus independence number Hamiltonicity conditions
 * 🔴 [Chvátal-Sankoff Constants](./chvatal-sankoff-constants.md) — Expected length of the longest common subsequence of random words.
+* 🔴 [Chvátal's Conjecture on Intersecting Families in Ideals](./chvatals-ideal-intersecting-family-conjecture.md) — Every downset has a largest intersecting subfamily that is a star
 * 🔴 [Chvátal's Toughness Conjecture](./chvatals-toughness-conjecture.md) — There exists a toughness threshold guaranteeing a graph is Hamiltonian.
 * 🔴 [Colin de Verdière Parameter Conjecture](./colin-de-verdiere-conjecture.md) — Spectral graph parameters relate strongly to fundamental topological properties.
+* 🔴 [Conway's 99-Graph Problem](./conway-99-graph-problem.md) — Existence of a strongly regular graph on ninety-nine vertices
 * 🔴 [Conway's Thrackle Conjecture](./conways-thrackle-conjecture.md) — The number of edges in a thrackle cannot exceed its vertices.
 * 🟡 [Crossing Number Inequality](./crossing-number-inequality.md) — Lower bounding the number of edge crossings in any planar drawing.
 * 🔴 [Cycle Double Cover Conjecture](./cycle-double-cover-conjecture.md) — Every bridgeless graph has a family of cycles covering edges twice.
+* 🔴 [Danzer's Problem on Dense Forests and Bounded Density Sets](./danzers-problem.md) — Bounded density set meeting every convex body
+* 🔴 [Davenport Constant of Finite Abelian Groups of Rank Three](./davenport-constant-rank-three.md) — Exact Davenport constant beyond rank two groups
 * 🔴 [Daykin's Conjecture](./daykins-conjecture.md) — Inequalities concerning the size of Boolean algebra ideals and filters.
 * 🔴 [Degree-Diameter Problem](./degree-diameter-problem.md) — Find the largest graph given maximum degree and diameter bounds.
+* 🟡 [Exponential Improvement for Diagonal Ramsey Numbers](./diagonal-ramsey-exponential-improvement.md) — Determining the exponential growth constant of diagonal Ramsey numbers
 * 🟢 [Dinitz Conjecture](./dinitz-conjecture.md) — Partial Latin squares can always be completed from specific available symbol sets.
 * 🔴 [Edge Reconstruction Conjecture](./edge-reconstruction-conjecture.md) — Graphs with enough edges are determined by edge deleted subgraphs.
 * 🟢 [Empty Hexagon Problem](./empty-hexagon-problem.md) — Any large planar point set contains an empty convex hexagon.

@@ -116,21 +116,21 @@ for an honest moduli space $\mathcal{M}$ of BPS states — the statement that gi
 
 ## 9. Key References
 
-- **[Foundational]** R. Gopakumar, C. Vafa. *On the gauge theory/geometry correspondence.* Adv. Theor. Math. Phys. **3** (1999), 1415–1443.
-- **[Foundational]** H. Ooguri, C. Vafa. *Knot invariants and topological strings.* Nuclear Physics B **577** (2000), 419–438.
-- **[Foundational]** J. M. F. Labastida, M. Mariño, C. Vafa. *Knots, links and branes at large $N$.* JHEP **11** (2000), 007.
-- **[Foundational]** J. M. F. Labastida, M. Mariño. *Polynomial invariants for torus knots and topological strings.* Comm. Math. Phys. **217** (2001), 423–449.
-- **[Foundational]** J. M. F. Labastida, M. Mariño. *A new point of view in the theory of knot and link invariants.* J. Knot Theory Ramifications **11** (2002), 173–197.
-- **[SOTA]** K. Liu, P. Peng. *Proof of the Labastida–Mariño–Ooguri–Vafa conjecture.* J. Differential Geom. **85** (2010), 479–525.
-- **[SOTA]** D.-E. Diaconescu, V. Shende, C. Vafa. *Large $N$ duality, Lagrangian cycles, and algebraic knots.* Comm. Math. Phys. **319** (2013), 813–863.
-- **[SOTA]** D. Maulik. *Stable pairs and the HOMFLY polynomial.* Invent. Math. **204** (2016), 787–831.
-- **[SOTA]** P. Kucharski, M. Reineke, M. Stošić, P. Sułkowski. *BPS states, knots and quivers.* Phys. Rev. D **96** (2017), 121902(R).
-- **[SOTA]** P. Kucharski, M. Reineke, M. Stošić, P. Sułkowski. *Knots–quivers correspondence.* Adv. Theor. Math. Phys. **23** (2019), 1849–1902.
+- **[Foundational]** R. Gopakumar, C. Vafa. *On the gauge theory/geometry correspondence.* Adv. Theor. Math. Phys. **3** (1999), 1415–1443. [DOI](https://doi.org/10.4310/atmp.1999.v3.n5.a5)
+- **[Foundational]** H. Ooguri, C. Vafa. *Knot invariants and topological strings.* Nuclear Physics B **577** (2000), 419–438. [DOI](https://doi.org/10.1016/s0550-3213(00)00118-8)
+- **[Foundational]** J. M. F. Labastida, M. Mariño, C. Vafa. *Knots, links and branes at large $N$.* JHEP **11** (2000), 007. [DOI](https://doi.org/10.1088/1126-6708/2000/11/007)
+- **[Foundational]** J. M. F. Labastida, M. Mariño. *Polynomial invariants for torus knots and topological strings.* Comm. Math. Phys. **217** (2001), 423–449. [DOI](https://doi.org/10.1007/s002200100374)
+- **[Foundational]** J. M. F. Labastida, M. Mariño. *A new point of view in the theory of knot and link invariants.* J. Knot Theory Ramifications **11** (2002), 173–197. [DOI](https://doi.org/10.1142/s0218216502001561)
+- **[SOTA]** K. Liu, P. Peng. *Proof of the Labastida–Mariño–Ooguri–Vafa conjecture.* J. Differential Geom. **85** (2010), 479–525. [DOI](https://doi.org/10.4310/jdg/1292940692)
+- **[SOTA]** D.-E. Diaconescu, V. Shende, C. Vafa. *Large $N$ duality, Lagrangian cycles, and algebraic knots.* Comm. Math. Phys. **319** (2013), 813–863. [DOI](https://doi.org/10.1007/s00220-012-1563-3)
+- **[SOTA]** D. Maulik. *Stable pairs and the HOMFLY polynomial.* Invent. Math. **204** (2016), 787–831. [DOI](https://doi.org/10.1007/s00222-015-0624-6)
+- **[SOTA]** P. Kucharski, M. Reineke, M. Stošić, P. Sułkowski. *BPS states, knots and quivers.* Phys. Rev. D **96** (2017), 121902(R). [DOI](https://doi.org/10.1103/physrevd.96.121902)
+- **[SOTA]** P. Kucharski, M. Reineke, M. Stošić, P. Sułkowski. *Knots–quivers correspondence.* Adv. Theor. Math. Phys. **23** (2019), 1849–1902. [DOI](https://doi.org/10.4310/atmp.2019.v23.n7.a4)
 - **[SOTA]** M. Stošić, P. Wedrich. *Rational links and DT invariants of quivers.* Int. Math. Res. Not. IMRN (2021), no. 6, 4169–4210.
-- **[Supporting]** A. I. Efimov. *Cohomological Hall algebra of a symmetric quiver.* Compositio Math. **148** (2012), 1133–1146.
-- **[Supporting]** C.-C. M. Liu, K. Liu, J. Zhou. *A proof of a conjecture of Mariño–Vafa on Hodge integrals.* J. Differential Geom. **65** (2003), 289–340.
-- **[Supporting]** P. Ramadevi, T. Sarkar. *On link invariants and topological string amplitudes.* Nuclear Physics B **600** (2001), 487–511.
-- **[Orientifold]** M. Mariño. *String theory and the Kauffman polynomial.* Comm. Math. Phys. **298** (2010), 613–643.
+- **[Supporting]** A. I. Efimov. *Cohomological Hall algebra of a symmetric quiver.* Compositio Math. **148** (2012), 1133–1146. [DOI](https://doi.org/10.1112/s0010437x12000152)
+- **[Supporting]** C.-C. M. Liu, K. Liu, J. Zhou. *A proof of a conjecture of Mariño–Vafa on Hodge integrals.* J. Differential Geom. **65** (2003), 289–340. [DOI](https://doi.org/10.4310/jdg/1090511689)
+- **[Supporting]** P. Ramadevi, T. Sarkar. *On link invariants and topological string amplitudes.* Nuclear Physics B **600** (2001), 487–511. [DOI](https://doi.org/10.1016/s0550-3213(00)00761-6)
+- **[Orientifold]** M. Mariño. *String theory and the Kauffman polynomial.* Comm. Math. Phys. **298** (2010), 613–643. [DOI](https://doi.org/10.1007/s00220-010-1088-6)
 - **[Survey / Book]** M. Mariño. *Chern–Simons Theory, Matrix Models, and Topological Strings.* Oxford University Press, 2005.
 
 ## 10. Worked Example / Concrete Special Case

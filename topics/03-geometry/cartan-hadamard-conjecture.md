@@ -103,18 +103,18 @@ Given this, the Gauss equation plus AM–GM upgrades a mean-curvature bound to t
 ## 9. Key References
 
 - **[Foundational]** A. Weil. *Sur les surfaces à courbure négative.* C. R. Acad. Sci. Paris **182** (1926), 1069–1071.
-- **[Foundational]** E. F. Beckenbach and T. Radó. *Subharmonic functions and surfaces of negative curvature.* Transactions of the American Mathematical Society **35** (1933), 662–674.
-- **[Foundational]** T. Aubin. *Problèmes isopérimétriques et espaces de Sobolev.* Journal of Differential Geometry **11** (1976), 573–598.
-- **[Foundational]** C. B. Croke. *A sharp four-dimensional isoperimetric inequality.* Commentarii Mathematici Helvetici **59** (1984), 187–192.
-- **[Foundational]** B. Kleiner. *An isoperimetric comparison theorem.* Inventiones Mathematicae **108** (1992), 37–47.
-- **[SOTA / Recent]** B. Kloeckner and G. Kuperberg. *The Cartan–Hadamard conjecture and the Little Prince.* Revista Matemática Iberoamericana **35** (2019), no. 4, 1195–1258.
-- **[SOTA / Recent]** M. Ghomi and J. Spruck. *Total curvature and the isoperimetric inequality in Cartan–Hadamard manifolds.* Journal of Geometric Analysis **32** (2022), Paper No. 50.
-- **[SOTA / Recent]** F. Schulze. *Nonlinear evolution by mean curvature and isoperimetric inequalities.* Journal of Differential Geometry **79** (2008), 197–241.
-- **[SOTA / Recent]** S. Brendle. *Sobolev inequalities in manifolds with nonnegative curvature.* Communications on Pure and Applied Mathematics **76** (2023), 2192–2218.
-- **[Related]** F. Morgan and D. L. Johnson. *Some sharp isoperimetric theorems for Riemannian manifolds.* Indiana University Mathematics Journal **49** (2000), 1017–1041.
-- **[Related]** O. Druet. *Sharp local isoperimetric inequalities involving the scalar curvature.* Proceedings of the American Mathematical Society **130** (2002), 2351–2361.
+- **[Foundational]** E. F. Beckenbach and T. Radó. *Subharmonic functions and surfaces of negative curvature.* Transactions of the American Mathematical Society **35** (1933), 662–674. [DOI](https://doi.org/10.1090/s0002-9947-1933-1501708-x)
+- **[Foundational]** T. Aubin. *Problèmes isopérimétriques et espaces de Sobolev.* Journal of Differential Geometry **11** (1976), 573–598. [DOI](https://doi.org/10.4310/jdg/1214433725)
+- **[Foundational]** C. B. Croke. *A sharp four-dimensional isoperimetric inequality.* Commentarii Mathematici Helvetici **59** (1984), 187–192. [DOI](https://doi.org/10.1007/bf02566344)
+- **[Foundational]** B. Kleiner. *An isoperimetric comparison theorem.* Inventiones Mathematicae **108** (1992), 37–47. [DOI](https://doi.org/10.1007/bf02100598)
+- **[SOTA / Recent]** B. Kloeckner and G. Kuperberg. *The Cartan–Hadamard conjecture and the Little Prince.* Revista Matemática Iberoamericana **35** (2019), no. 4, 1195–1258. [DOI](https://doi.org/10.4171/rmi/1082)
+- **[SOTA / Recent]** M. Ghomi and J. Spruck. *Total curvature and the isoperimetric inequality in Cartan–Hadamard manifolds.* Journal of Geometric Analysis **32** (2022), Paper No. 50. [DOI](https://doi.org/10.1007/s12220-021-00801-2)
+- **[SOTA / Recent]** F. Schulze. *Nonlinear evolution by mean curvature and isoperimetric inequalities.* Journal of Differential Geometry **79** (2008), 197–241. [DOI](https://doi.org/10.4310/jdg/1211512640)
+- **[SOTA / Recent]** S. Brendle. *Sobolev inequalities in manifolds with nonnegative curvature.* Communications on Pure and Applied Mathematics **76** (2023), 2192–2218. [DOI](https://doi.org/10.1002/cpa.22070)
+- **[Related]** F. Morgan and D. L. Johnson. *Some sharp isoperimetric theorems for Riemannian manifolds.* Indiana University Mathematics Journal **49** (2000), 1017–1041. [DOI](https://doi.org/10.1512/iumj.2000.49.1929)
+- **[Related]** O. Druet. *Sharp local isoperimetric inequalities involving the scalar curvature.* Proceedings of the American Mathematical Society **130** (2002), 2351–2361. [DOI](https://doi.org/10.1090/s0002-9939-02-06355-4)
 - **[Survey]** Yu. D. Burago and V. A. Zalgaller. *Geometric Inequalities.* Grundlehren der mathematischen Wissenschaften 285, Springer, 1988.
-- **[Survey]** M. Ritoré and C. Sinestrari. *Mean Curvature Flow and Isoperimetric Inequalities.* Advanced Courses in Mathematics CRM Barcelona, Birkhäuser, 2010.
+- **[Survey]** M. Ritoré and C. Sinestrari. *Mean Curvature Flow and Isoperimetric Inequalities.* Advanced Courses in Mathematics CRM Barcelona, Birkhäuser, 2010. [DOI](https://doi.org/10.1007/978-3-0346-0213-6)
 
 ## 10. Worked Example / Concrete Special Case
 

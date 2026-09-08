@@ -85,8 +85,8 @@ Leading mathematicians suggest the following pathways:
 ## 9. Key References
 
 - **[Foundational]** Fontaine, J.-M., & Mazur, B. *Geometric Galois representations.* Elliptic curves, modular forms, & Fermat's last theorem (Hong Kong, 1993), Series in Number Theory, Int. Press, 1995.
-- **[Foundational]** Kisin, M. *Moduli of finite flat group schemes, and modularity.* Annals of Mathematics, 2009.
-- **[SOTA / Recent]** Allen, P., Calegari, F., Caraiani, A., Gee, T., Helm, D., Le Hung, B., Newton, J., Scholze, P., Taylor, R., & Thorne, J. *Potential automorphy over CM fields.* Annals of Mathematics, 2023.
+- **[Foundational]** Kisin, M. *Moduli of finite flat group schemes, and modularity.* Annals of Mathematics, 2009. [DOI](https://doi.org/10.4007/annals.2009.170.1085)
+- **[SOTA / Recent]** Allen, P., Calegari, F., Caraiani, A., Gee, T., Helm, D., Le Hung, B., Newton, J., Scholze, P., Taylor, R., & Thorne, J. *Potential automorphy over CM fields.* Annals of Mathematics, 2023. [DOI](https://doi.org/10.4007/annals.2023.197.3.2)
 - **[Survey]** Emerton, M. *The Fontaine-Mazur conjecture for $\operatorname{GL}_2$.* Current Developments in Mathematics, 2004.
 - **[Survey]** Weston, T. *The Fontaine-Mazur Conjecture.* Expositiones Mathematicae, 2001.
 

@@ -99,7 +99,7 @@ Leading mathematicians suggest several long-term strategic pathways:
 
 ## 9. Key References
 
-- **[Foundational]** Legendre, A.-M. *Essai sur la théorie des nombres*. Duprat, Paris, 1798.
+- **[Foundational]** Legendre, A.-M. *Essai sur la théorie des nombres*. Duprat, Paris, 1798. [DOI](https://doi.org/10.5962/bhl.title.18546)
 - **[Foundational]** Cramér, H. "Some theorems concerning prime numbers." *Arkiv för Matematik, Astronomi och Fysik*, 15 (1920): 1-33.
 - **[SOTA / Recent]** Baker, R. C., Harman, G., and Pintz, J. "The difference between consecutive primes, II." *Proceedings of the London Mathematical Society*, 83(3) (2001): 532-562.
 - **[Partial Results]** Chen, J. R. "On the distribution of almost primes in an interval." *Science Sinica*, 18 (1975): 611-627.

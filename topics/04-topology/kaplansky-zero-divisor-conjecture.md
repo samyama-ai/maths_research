@@ -109,22 +109,22 @@ The gap is the complement: torsion-free groups that are **non-UP, non-elementary
 ## 9. Key References
 
 - **[Foundational]** G. Higman. *The units of group-rings.* Proc. London Math. Soc. (2) **46** (1940), 231–248.
-- **[Foundational]** I. Kaplansky. *Problems in the theory of rings revisited.* Amer. Math. Monthly **77** (1970), 445–454.
+- **[Foundational]** I. Kaplansky. *Problems in the theory of rings revisited.* Amer. Math. Monthly **77** (1970), 445–454. [DOI](https://doi.org/10.2307/2317376)
 - **[Foundational]** D. S. Passman. *The Algebraic Structure of Group Rings.* Wiley-Interscience, 1977.
 - K. A. Brown. *On zero divisors in group rings.* Bull. London Math. Soc. **8** (1976), 251–256.
 - D. R. Farkas, R. L. Snider. *$K_0$ and Noetherian group rings.* J. Algebra **42** (1976), 192–198.
 - G. H. Cliff. *Zero divisors in group rings.* Comm. Algebra **8** (1980), 1993–1998.
-- P. H. Kropholler, P. A. Linnell, J. A. Moody. *Applications of a new $K$-theoretic theorem to soluble group rings.* Proc. Amer. Math. Soc. **104** (1988), 675–684.
-- S. D. Promislow. *A simple example of a torsion-free non-unique product group.* Bull. London Math. Soc. **20** (1988), 302–304.
-- E. Rips, Y. Segev. *Torsion-free group without unique product property.* J. Algebra **108** (1987), 116–126.
-- P. A. Linnell. *Division rings and group von Neumann algebras.* Forum Math. **5** (1993), 561–576.
+- P. H. Kropholler, P. A. Linnell, J. A. Moody. *Applications of a new $K$-theoretic theorem to soluble group rings.* Proc. Amer. Math. Soc. **104** (1988), 675–684. [DOI](https://doi.org/10.2307/2046771)
+- S. D. Promislow. *A simple example of a torsion-free non-unique product group.* Bull. London Math. Soc. **20** (1988), 302–304. [DOI](https://doi.org/10.1112/blms/20.4.302)
+- E. Rips, Y. Segev. *Torsion-free group without unique product property.* J. Algebra **108** (1987), 116–126. [DOI](https://doi.org/10.1016/0021-8693(87)90125-6)
+- P. A. Linnell. *Division rings and group von Neumann algebras.* Forum Math. **5** (1993), 561–576. [DOI](https://doi.org/10.1515/form.1993.5.561)
 - T. Delzant. *Sur l'anneau d'un groupe hyperbolique.* C. R. Acad. Sci. Paris Sér. I **324** (1997), 381–384.
-- B. H. Bowditch. *A variation on the unique product property.* J. London Math. Soc. **62** (2000), 813–826.
-- N. Higson, G. Kasparov. *$E$-theory and $KK$-theory for groups which act properly and isometrically on Hilbert space.* Invent. Math. **144** (2001), 23–74.
-- I. Mineyev, G. Yu. *The Baum–Connes conjecture for hyperbolic groups.* Invent. Math. **149** (2002), 97–122.
-- G. Elek, E. Szabó. *Sofic groups and direct finiteness.* J. Algebra **280** (2004), 426–434.
-- **[SOTA]** A. Jaikin-Zapirain, D. López-Álvarez. *The strong Atiyah and Lück approximation conjectures for one-relator groups.* Math. Ann. **376** (2020), 1741–1793.
-- **[SOTA]** G. Gardam. *A counterexample to the unit conjecture for group rings.* Ann. of Math. (2) **194** (2021), 967–979.
+- B. H. Bowditch. *A variation on the unique product property.* J. London Math. Soc. **62** (2000), 813–826. [DOI](https://doi.org/10.1112/s0024610700001307)
+- N. Higson, G. Kasparov. *$E$-theory and $KK$-theory for groups which act properly and isometrically on Hilbert space.* Invent. Math. **144** (2001), 23–74. [DOI](https://doi.org/10.1007/s002220000118)
+- I. Mineyev, G. Yu. *The Baum–Connes conjecture for hyperbolic groups.* Invent. Math. **149** (2002), 97–122. [DOI](https://doi.org/10.1007/s002220200214)
+- G. Elek, E. Szabó. *Sofic groups and direct finiteness.* J. Algebra **280** (2004), 426–434. [DOI](https://doi.org/10.1016/j.jalgebra.2004.06.023)
+- **[SOTA]** A. Jaikin-Zapirain, D. López-Álvarez. *The strong Atiyah and Lück approximation conjectures for one-relator groups.* Math. Ann. **376** (2020), 1741–1793. [DOI](https://doi.org/10.1007/s00208-019-01926-0)
+- **[SOTA]** G. Gardam. *A counterexample to the unit conjecture for group rings.* Ann. of Math. (2) **194** (2021), 967–979. [DOI](https://doi.org/10.4007/annals.2021.194.3.9)
 - **[SOTA]** A. G. Murray. *More counterexamples to the unit conjecture for group rings.* arXiv:2106.02147 (2021).
 - **[Survey]** W. Lück. *$L^2$-Invariants: Theory and Applications to Geometry and $K$-Theory.* Springer, 2002.
 - **[Survey]** G. Gardam. *Kaplansky's conjectures.* European Congress of Mathematics (8ECM) Proceedings, EMS Press, 2023.

@@ -107,20 +107,20 @@ For the classical statement of §1 there is **no gap**: the theorem is proved. T
 
 ## 9. Key References
 
-- **[Foundational]** W. P. Thurston. *Three-dimensional manifolds, Kleinian groups and hyperbolic geometry.* Bulletin of the AMS (N.S.) 6 (1982), 357–381.
+- **[Foundational]** W. P. Thurston. *Three-dimensional manifolds, Kleinian groups and hyperbolic geometry.* Bulletin of the AMS (N.S.) 6 (1982), 357–381. [DOI](https://doi.org/10.1090/s0273-0979-1982-15003-0)
 - **[Foundational]** F. Bonahon. *Bouts des variétés hyperboliques de dimension 3.* Annals of Mathematics 124 (1986), 71–158.
 - **[Foundational]** R. D. Canary. *Ends of hyperbolic 3-manifolds.* Journal of the AMS 6 (1993), 1–35.
-- **[Foundational]** H. Masur, Y. Minsky. *Geometry of the complex of curves I: Hyperbolicity.* Inventiones Mathematicae 138 (1999), 103–149.
-- **[Foundational]** H. Masur, Y. Minsky. *Geometry of the complex of curves II: Hierarchical structure.* GAFA 10 (2000), 902–974.
-- **[Partial]** Y. Minsky. *The classification of punctured-torus groups.* Annals of Mathematics 149 (1999), 559–626.
-- **[SOTA]** Y. Minsky. *The classification of Kleinian surface groups, I: Models and bounds.* Annals of Mathematics 171 (2010), 1–107.
-- **[SOTA]** J. Brock, R. Canary, Y. Minsky. *The classification of Kleinian surface groups, II: The Ending Lamination Conjecture.* Annals of Mathematics 176 (2012), 1–149.
+- **[Foundational]** H. Masur, Y. Minsky. *Geometry of the complex of curves I: Hyperbolicity.* Inventiones Mathematicae 138 (1999), 103–149. [DOI](https://doi.org/10.1007/s002220050343)
+- **[Foundational]** H. Masur, Y. Minsky. *Geometry of the complex of curves II: Hierarchical structure.* GAFA 10 (2000), 902–974. [DOI](https://doi.org/10.1007/pl00001643)
+- **[Partial]** Y. Minsky. *The classification of punctured-torus groups.* Annals of Mathematics 149 (1999), 559–626. [DOI](https://doi.org/10.2307/120976)
+- **[SOTA]** Y. Minsky. *The classification of Kleinian surface groups, I: Models and bounds.* Annals of Mathematics 171 (2010), 1–107. [DOI](https://doi.org/10.4007/annals.2010.171.1)
+- **[SOTA]** J. Brock, R. Canary, Y. Minsky. *The classification of Kleinian surface groups, II: The Ending Lamination Conjecture.* Annals of Mathematics 176 (2012), 1–149. [DOI](https://doi.org/10.4007/annals.2012.176.1.1)
 - **[SOTA]** I. Agol. *Tameness of hyperbolic 3-manifolds.* arXiv:math/0405568, 2004.
-- **[SOTA]** D. Calegari, D. Gabai. *Shrinkwrapping and the taming of hyperbolic 3-manifolds.* Journal of the AMS 19 (2006), 385–446.
+- **[SOTA]** D. Calegari, D. Gabai. *Shrinkwrapping and the taming of hyperbolic 3-manifolds.* Journal of the AMS 19 (2006), 385–446. [DOI](https://doi.org/10.1090/s0894-0347-05-00513-8)
 - **[Alternative proof]** B. H. Bowditch. *The ending lamination theorem.* Preprint, University of Warwick, 2011 (revised).
 - **[Alternative proof]** M. Rees. *The ending laminations theorem direct from Teichmüller geodesics.* arXiv:math/0404007.
-- **[Consequence]** H. Namazi, J. Souto. *Non-realizability and ending laminations: proof of the density conjecture.* Acta Mathematica 209 (2012), 323–395.
-- **[Consequence]** K. Ohshika. *Realising end invariants by limits of minimally parabolic, geometrically finite groups.* Geometry & Topology 15 (2011), 827–890.
+- **[Consequence]** H. Namazi, J. Souto. *Non-realizability and ending laminations: proof of the density conjecture.* Acta Mathematica 209 (2012), 323–395. [DOI](https://doi.org/10.1007/s11511-012-0088-0)
+- **[Consequence]** K. Ohshika. *Realising end invariants by limits of minimally parabolic, geometrically finite groups.* Geometry & Topology 15 (2011), 827–890. [DOI](https://doi.org/10.2140/gt.2011.15.827)
 - **[Survey]** A. Marden. *Hyperbolic Manifolds: An Introduction in 2 and 3 Dimensions.* Cambridge University Press, 2016.
 - **[Survey]** R. D. Canary. *Marden's tameness conjecture: history and applications.* In *Geometry, Analysis and Topology of Discrete Groups*, Higher Education Press / International Press, 2008.
 

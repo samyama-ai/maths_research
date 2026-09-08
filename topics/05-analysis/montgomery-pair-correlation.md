@@ -102,22 +102,22 @@ with $\mathfrak{S}$ the singular series, uniformly for $1\le h\le x^{1-\varepsil
 ## 9. Key References
 
 - **[Foundational]** H. L. Montgomery. *The pair correlation of zeros of the zeta function.* In *Analytic Number Theory* (Proc. Sympos. Pure Math. XXIV, St. Louis 1972), AMS, 1973, pp. 181–193.
-- **[Foundational]** F. J. Dyson. *Statistical theory of the energy levels of complex systems. I–III.* Journal of Mathematical Physics 3 (1962), 140–156, 157–165, 166–175.
+- **[Foundational]** F. J. Dyson. *Statistical theory of the energy levels of complex systems. I–III.* Journal of Mathematical Physics 3 (1962), 140–156, 157–165, 166–175. [DOI](https://doi.org/10.1063/1.1703775)
 - **[Foundational]** M. L. Mehta. *Random Matrices*, 3rd edition. Elsevier/Academic Press, 2004.
-- **[Computational]** A. M. Odlyzko. *On the distribution of spacings between zeros of the zeta function.* Mathematics of Computation 48 (1987), 273–308.
-- **[Computational]** A. M. Odlyzko. *The $10^{22}$-nd zero of the Riemann zeta function.* In *Dynamical, Spectral, and Arithmetic Zeta Functions*, Contemporary Mathematics 290, AMS, 2001, pp. 139–144.
-- **[Equivalence]** D. A. Goldston, H. L. Montgomery. *Pair correlation of zeros and primes in short intervals.* In *Analytic Number Theory and Diophantine Problems*, Progress in Mathematics 70, Birkhäuser, 1987, pp. 183–203.
-- **[SOTA]** Z. Rudnick, P. Sarnak. *Zeros of principal L-functions and random matrix theory.* Duke Mathematical Journal 81 (1996), 269–322.
+- **[Computational]** A. M. Odlyzko. *On the distribution of spacings between zeros of the zeta function.* Mathematics of Computation 48 (1987), 273–308. [DOI](https://doi.org/10.1090/s0025-5718-1987-0866115-0)
+- **[Computational]** A. M. Odlyzko. *The $10^{22}$-nd zero of the Riemann zeta function.* In *Dynamical, Spectral, and Arithmetic Zeta Functions*, Contemporary Mathematics 290, AMS, 2001, pp. 139–144. [DOI](https://doi.org/10.1090/conm/290/04578)
+- **[Equivalence]** D. A. Goldston, H. L. Montgomery. *Pair correlation of zeros and primes in short intervals.* In *Analytic Number Theory and Diophantine Problems*, Progress in Mathematics 70, Birkhäuser, 1987, pp. 183–203. [DOI](https://doi.org/10.1007/978-1-4612-4816-3_10)
+- **[SOTA]** Z. Rudnick, P. Sarnak. *Zeros of principal L-functions and random matrix theory.* Duke Mathematical Journal 81 (1996), 269–322. [DOI](https://doi.org/10.1215/s0012-7094-96-08115-6)
 - **[SOTA]** D. A. Hejhal. *On the triple correlation of zeros of the zeta function.* International Mathematics Research Notices 1994, no. 7, 293–302.
 - **[SOTA]** D. A. Goldston, S. M. Gonek, A. E. Özlük, C. Snyder. *On the pair correlation of zeros of the Riemann zeta-function.* Proceedings of the London Mathematical Society (3) 80 (2000), 31–49.
 - **[SOTA]** A. E. Özlük. *On the q-analogue of the pair correlation conjecture.* Journal of Number Theory 59 (1996), 319–351.
 - **[SOTA / Recent]** E. Carneiro, V. Chandee, F. Littmann, M. B. Milinovich. *Hilbert spaces and the pair correlation of zeros of the Riemann zeta-function.* Journal für die reine und angewandte Mathematik (Crelle) 725 (2017), 143–182.
-- **[SOTA / Recent]** A. Chirre, F. Gonçalves, D. de Laat. *Pair correlation estimates for the zeros of the zeta function via semidefinite programming.* Advances in Mathematics 361 (2020), 106926.
-- **[SOTA / Recent]** S. Baluyot. *On the pair correlation conjecture and the alternative hypothesis.* Journal of Number Theory 169 (2016), 183–226.
+- **[SOTA / Recent]** A. Chirre, F. Gonçalves, D. de Laat. *Pair correlation estimates for the zeros of the zeta function via semidefinite programming.* Advances in Mathematics 361 (2020), 106926. [DOI](https://doi.org/10.1016/j.aim.2019.106926)
+- **[SOTA / Recent]** S. Baluyot. *On the pair correlation conjecture and the alternative hypothesis.* Journal of Number Theory 169 (2016), 183–226. [DOI](https://doi.org/10.1016/j.jnt.2016.05.007)
 - **[Heuristics]** E. B. Bogomolny, J. P. Keating. *Random matrix theory and the Riemann zeros I, II.* Nonlinearity 8 (1995), 1115–1131; 9 (1996), 911–935.
-- **[Survey]** N. M. Katz, P. Sarnak. *Zeroes of zeta functions and symmetry.* Bulletin of the AMS 36 (1999), 1–26.
+- **[Survey]** N. M. Katz, P. Sarnak. *Zeroes of zeta functions and symmetry.* Bulletin of the AMS 36 (1999), 1–26. [DOI](https://doi.org/10.1090/s0273-0979-99-00766-1)
 - **[Survey]** J. B. Conrey. *L-functions and random matrices.* In *Mathematics Unlimited — 2001 and Beyond*, Springer, 2001, pp. 331–352.
-- **[Related]** J. B. Conrey, H. Iwaniec. *Spacing of zeros of Hecke L-functions and the class number problem.* Acta Arithmetica 103 (2002), 259–312.
+- **[Related]** J. B. Conrey, H. Iwaniec. *Spacing of zeros of Hecke L-functions and the class number problem.* Acta Arithmetica 103 (2002), 259–312. [DOI](https://doi.org/10.4064/aa103-3-5)
 - **[Related]** A. Y. Cheer, D. A. Goldston. *Simple zeros of the Riemann zeta-function.* Proceedings of the AMS 118 (1993), 365–372.
 
 ## 10. Worked Example / Concrete Special Case

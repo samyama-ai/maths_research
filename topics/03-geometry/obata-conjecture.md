@@ -113,23 +113,23 @@ Precisely: for complete pseudo-Riemannian $(M^n,g)$, $n\ge 3$, the statement is 
 
 ## 9. Key References
 
-- **[Foundational]** M. Obata. *Certain conditions for a Riemannian manifold to be isometric with a sphere.* Journal of the Mathematical Society of Japan 14 (1962), 333–340.
-- **[Foundational]** M. Obata. *The conjectures on conformal transformations of Riemannian manifolds.* Bulletin of the American Mathematical Society 77 (1971), 269–270.
+- **[Foundational]** M. Obata. *Certain conditions for a Riemannian manifold to be isometric with a sphere.* Journal of the Mathematical Society of Japan 14 (1962), 333–340. [DOI](https://doi.org/10.2969/jmsj/01430333)
+- **[Foundational]** M. Obata. *The conjectures on conformal transformations of Riemannian manifolds.* Bulletin of the American Mathematical Society 77 (1971), 269–270. [DOI](https://doi.org/10.4310/jdg/1214430407)
 - **[Foundational]** A. Lichnerowicz. *Géométrie des groupes de transformations.* Dunod, Paris, 1958.
-- **[Foundational]** E. Beltrami. *Risoluzione del problema: riportare i punti di una superficie sopra un piano in modo che le linee geodetiche vengano rappresentate da linee rette.* Annali di Matematica Pura ed Applicata 7 (1865), 185–204.
+- **[Foundational]** E. Beltrami. *Risoluzione del problema: riportare i punti di una superficie sopra un piano in modo che le linee geodetiche vengano rappresentate da linee rette.* Annali di Matematica Pura ed Applicata 7 (1865), 185–204. [DOI](https://doi.org/10.1007/bf03198517)
 - **[Foundational]** N. S. Sinjukov. *Geodesic Mappings of Riemannian Spaces.* Nauka, Moscow, 1979.
-- **[Foundational]** S. Tanno. *Some differential equations on Riemannian manifolds.* Journal of the Mathematical Society of Japan 30 (1978), 509–531.
-- **[Foundational]** S. Gallot. *Équations différentielles caractéristiques de la sphère.* Annales scientifiques de l'ENS 12 (1979), 235–267.
-- **[SOTA]** V. S. Matveev. *Lichnerowicz–Obata conjecture in dimension two.* Commentarii Mathematici Helvetici 80 (2005), 541–570.
-- **[SOTA]** V. S. Matveev. *Proof of the projective Lichnerowicz–Obata conjecture.* Journal of Differential Geometry 75 (2007), no. 3, 459–502.
-- **[SOTA]** V. Kiosak, V. S. Matveev. *Complete Einstein metrics are geodesically rigid.* Communications in Mathematical Physics 289 (2009), 383–400.
-- **[SOTA]** V. Kiosak, V. S. Matveev. *Proof of the projective Lichnerowicz conjecture for pseudo-Riemannian metrics with degree of mobility greater than two.* Communications in Mathematical Physics 297 (2010), 401–426.
-- **[SOTA]** V. S. Matveev, S. Rosemann. *Proof of the Yano–Obata conjecture for holomorph-projective transformations.* Journal of Differential Geometry 92 (2012), no. 2, 221–261.
+- **[Foundational]** S. Tanno. *Some differential equations on Riemannian manifolds.* Journal of the Mathematical Society of Japan 30 (1978), 509–531. [DOI](https://doi.org/10.2969/jmsj/03030509)
+- **[Foundational]** S. Gallot. *Équations différentielles caractéristiques de la sphère.* Annales scientifiques de l'ENS 12 (1979), 235–267. [DOI](https://doi.org/10.24033/asens.1366)
+- **[SOTA]** V. S. Matveev. *Lichnerowicz–Obata conjecture in dimension two.* Commentarii Mathematici Helvetici 80 (2005), 541–570. [DOI](https://doi.org/10.4171/cmh/25)
+- **[SOTA]** V. S. Matveev. *Proof of the projective Lichnerowicz–Obata conjecture.* Journal of Differential Geometry 75 (2007), no. 3, 459–502. [DOI](https://doi.org/10.4310/jdg/1175266281)
+- **[SOTA]** V. Kiosak, V. S. Matveev. *Complete Einstein metrics are geodesically rigid.* Communications in Mathematical Physics 289 (2009), 383–400. [DOI](https://doi.org/10.1007/s00220-008-0719-7)
+- **[SOTA]** V. Kiosak, V. S. Matveev. *Proof of the projective Lichnerowicz conjecture for pseudo-Riemannian metrics with degree of mobility greater than two.* Communications in Mathematical Physics 297 (2010), 401–426. [DOI](https://doi.org/10.1007/s00220-010-1037-4)
+- **[SOTA]** V. S. Matveev, S. Rosemann. *Proof of the Yano–Obata conjecture for holomorph-projective transformations.* Journal of Differential Geometry 92 (2012), no. 2, 221–261. [DOI](https://doi.org/10.4310/jdg/1352297807)
 - **[SOTA]** A. Fedorova, V. Kiosak, V. S. Matveev, S. Rosemann. *The only Kähler manifold with degree of mobility at least 3 is $(\mathbb{C}P(n), g_{Fubini-Study})$.* Proceedings of the London Mathematical Society 105 (2012), 153–188.
-- **[SOTA]** A. Zeghib. *On discrete projective transformation groups of Riemannian manifolds.* Advances in Mathematics 297 (2016), 26–53.
+- **[SOTA]** A. Zeghib. *On discrete projective transformation groups of Riemannian manifolds.* Advances in Mathematics 297 (2016), 26–53. [DOI](https://doi.org/10.1016/j.aim.2016.04.002)
 - **[Survey]** D. M. J. Calderbank, M. G. Eastwood, V. S. Matveev, K. Neusser. *C-projective geometry.* Memoirs of the American Mathematical Society, 2021.
 - **[Survey]** J. Ferrand. *The action of conformal transformations on Riemannian manifolds.* Mathematische Annalen 304 (1996), 277–291. (Conformal analogue.)
-- **[Survey]** R. Schoen. *On the conformal and CR automorphism groups.* Geometric and Functional Analysis 5 (1995), 464–481.
+- **[Survey]** R. Schoen. *On the conformal and CR automorphism groups.* Geometric and Functional Analysis 5 (1995), 464–481. [DOI](https://doi.org/10.1007/978-3-0348-9102-8_13)
 
 ## 10. Worked Example / Concrete Special Case
 

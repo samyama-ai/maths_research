@@ -111,17 +111,17 @@ Settled: characterization, rate, existence of both semigroups, uniqueness of the
 
 ## 9. Key References
 
-- **[Foundational]** R. Camassa, D. D. Holm. *An integrable shallow water equation with peaked solitons.* Physical Review Letters 71 (1993), 1661–1664.
-- **[Foundational]** A. Constantin, J. Escher. *Wave breaking for nonlinear nonlocal shallow water equations.* Acta Mathematica 181 (1998), 229–243.
-- **[Foundational]** A. Constantin, J. Escher. *On the blow-up rate and the blow-up set of breaking waves for a shallow water equation.* Mathematische Zeitschrift 233 (2000), 75–91.
-- **[SOTA]** H. P. McKean. *Breakdown of the Camassa–Holm equation.* Communications on Pure and Applied Mathematics 57 (2004), 416–418.
+- **[Foundational]** R. Camassa, D. D. Holm. *An integrable shallow water equation with peaked solitons.* Physical Review Letters 71 (1993), 1661–1664. [DOI](https://doi.org/10.1103/physrevlett.71.1661)
+- **[Foundational]** A. Constantin, J. Escher. *Wave breaking for nonlinear nonlocal shallow water equations.* Acta Mathematica 181 (1998), 229–243. [DOI](https://doi.org/10.1007/bf02392586)
+- **[Foundational]** A. Constantin, J. Escher. *On the blow-up rate and the blow-up set of breaking waves for a shallow water equation.* Mathematische Zeitschrift 233 (2000), 75–91. [DOI](https://doi.org/10.1007/pl00004793)
+- **[SOTA]** H. P. McKean. *Breakdown of the Camassa–Holm equation.* Communications on Pure and Applied Mathematics 57 (2004), 416–418. [DOI](https://doi.org/10.1002/cpa.20003)
 - **[SOTA]** A. Bressan, A. Constantin. *Global conservative solutions of the Camassa–Holm equation.* Archive for Rational Mechanics and Analysis 183 (2007), 215–239.
-- **[SOTA]** A. Bressan, A. Constantin. *Global dissipative solutions of the Camassa–Holm equation.* Analysis and Applications 5 (2007), 1–27.
-- **[SOTA / Recent]** A. Bressan, G. Chen, Q. Zhang. *Uniqueness of conservative solutions to the Camassa–Holm equation via characteristics.* Discrete and Continuous Dynamical Systems 35 (2015), 25–42.
-- **[SOTA]** H. Holden, X. Raynaud. *Global conservative solutions of the Camassa–Holm equation — a Lagrangian point of view.* Communications in Partial Differential Equations 32 (2007), 1511–1549.
-- **[SOTA]** Z. Xin, P. Zhang. *On the weak solutions to a shallow water equation.* Communications on Pure and Applied Mathematics 53 (2000), 1411–1433.
-- **[Survey]** A. Constantin. *Nonlinear Water Waves with Applications to Wave–Current Interactions and Tsunamis.* CBMS-NSF Regional Conference Series in Applied Mathematics 81, SIAM, 2011.
-- **[Survey]** A. Constantin, D. Lannes. *The hydrodynamical relevance of the Camassa–Holm and Degasperis–Procesi equations.* Archive for Rational Mechanics and Analysis 192 (2009), 165–186.
+- **[SOTA]** A. Bressan, A. Constantin. *Global dissipative solutions of the Camassa–Holm equation.* Analysis and Applications 5 (2007), 1–27. [DOI](https://doi.org/10.1142/s0219530507000857)
+- **[SOTA / Recent]** A. Bressan, G. Chen, Q. Zhang. *Uniqueness of conservative solutions to the Camassa–Holm equation via characteristics.* Discrete and Continuous Dynamical Systems 35 (2015), 25–42. [DOI](https://doi.org/10.3934/dcds.2015.35.25)
+- **[SOTA]** H. Holden, X. Raynaud. *Global conservative solutions of the Camassa–Holm equation — a Lagrangian point of view.* Communications in Partial Differential Equations 32 (2007), 1511–1549. [DOI](https://doi.org/10.1080/03605300601088674)
+- **[SOTA]** Z. Xin, P. Zhang. *On the weak solutions to a shallow water equation.* Communications on Pure and Applied Mathematics 53 (2000), 1411–1433. [DOI](https://doi.org/10.1002/1097-0312(200011)53:11<1411::aid-cpa4>3.0.co;2-5)
+- **[Survey]** A. Constantin. *Nonlinear Water Waves with Applications to Wave–Current Interactions and Tsunamis.* CBMS-NSF Regional Conference Series in Applied Mathematics 81, SIAM, 2011. [DOI](https://doi.org/10.1137/1.9781611971873)
+- **[Survey]** A. Constantin, D. Lannes. *The hydrodynamical relevance of the Camassa–Holm and Degasperis–Procesi equations.* Archive for Rational Mechanics and Analysis 192 (2009), 165–186. [DOI](https://doi.org/10.1007/s00205-008-0128-2)
 
 ## 10. Worked Example / Concrete Special Case
 

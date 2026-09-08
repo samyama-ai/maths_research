@@ -115,22 +115,22 @@ notably every $n \notin \{1,2,3,4,6\}$ below $101$. Two distinct barriers must b
 
 - **[Foundational]** W. Burnside. *On an unsettled question in the theory of discontinuous groups.* Quarterly Journal of Pure and Applied Mathematics, 33 (1902), 230–238.
 - **[Foundational]** I. N. Sanov. *Solution of Burnside's problem for exponent 4.* Uchenye Zapiski Leningrad State University, 10 (1940), 166–170.
-- **[Foundational]** M. Hall. *Solution of the Burnside problem for exponent six.* Illinois Journal of Mathematics, 2 (1958), 764–786.
-- **[Foundational]** P. Hall, G. Higman. *On the p-length of p-soluble groups and reduction theorems for Burnside's problem.* Proceedings of the London Mathematical Society, 6 (1956), 1–42.
-- **[Foundational]** E. S. Golod. *On nil-algebras and finitely approximable p-groups.* Izvestiya Akademii Nauk SSSR, Ser. Mat., 28 (1964), 273–276.
+- **[Foundational]** M. Hall. *Solution of the Burnside problem for exponent six.* Illinois Journal of Mathematics, 2 (1958), 764–786. [DOI](https://doi.org/10.1215/ijm/1255448339)
+- **[Foundational]** P. Hall, G. Higman. *On the p-length of p-soluble groups and reduction theorems for Burnside's problem.* Proceedings of the London Mathematical Society, 6 (1956), 1–42. [DOI](https://doi.org/10.1112/plms/s3-6.1.1)
+- **[Foundational]** E. S. Golod. *On nil-algebras and finitely approximable p-groups.* Izvestiya Akademii Nauk SSSR, Ser. Mat., 28 (1964), 273–276. [DOI](https://doi.org/10.1090/trans2/048/06)
 - **[Foundational]** P. S. Novikov, S. I. Adian. *Infinite periodic groups I, II, III.* Izvestiya Akademii Nauk SSSR, Ser. Mat., 32 (1968), 212–244, 251–524, 709–731.
-- **[Foundational]** S. I. Adian. *The Burnside Problem and Identities in Groups.* Ergebnisse der Mathematik 95, Springer, 1979.
-- **[Foundational]** E. I. Zelmanov. *Solution of the restricted Burnside problem for groups of odd exponent.* Mathematics of the USSR-Izvestiya, 36 (1991), 41–60.
-- **[Foundational]** E. I. Zelmanov. *A solution of the restricted Burnside problem for 2-groups.* Matematicheskii Sbornik, 182 (1991), 568–592.
-- **[SOTA / Recent]** S. V. Ivanov. *The free Burnside groups of sufficiently large exponents.* International Journal of Algebra and Computation, 4 (1994), 1–308.
+- **[Foundational]** S. I. Adian. *The Burnside Problem and Identities in Groups.* Ergebnisse der Mathematik 95, Springer, 1979. [DOI](https://doi.org/10.1007/978-3-642-66932-3)
+- **[Foundational]** E. I. Zelmanov. *Solution of the restricted Burnside problem for groups of odd exponent.* Mathematics of the USSR-Izvestiya, 36 (1991), 41–60. [DOI](https://doi.org/10.1070/im1991v036n01abeh001946)
+- **[Foundational]** E. I. Zelmanov. *A solution of the restricted Burnside problem for 2-groups.* Matematicheskii Sbornik, 182 (1991), 568–592. [DOI](https://doi.org/10.1070/sm1992v072n02abeh001272)
+- **[SOTA / Recent]** S. V. Ivanov. *The free Burnside groups of sufficiently large exponents.* International Journal of Algebra and Computation, 4 (1994), 1–308. [DOI](https://doi.org/10.1142/s0218196794000026)
 - **[SOTA / Recent]** I. G. Lysënok. *Infinite Burnside groups of even period.* Izvestiya: Mathematics, 60 (1996), 453–654.
-- **[SOTA / Recent]** S. I. Adian. *New estimates of odd exponents of infinite Burnside groups.* Proceedings of the Steklov Institute of Mathematics, 289 (2015), 33–71.
-- **[SOTA / Recent]** M. F. Newman, E. A. O'Brien. *Application of computers to questions like those of Burnside, II.* International Journal of Algebra and Computation, 6 (1996), 593–605.
-- **[SOTA / Recent]** R. Coulon. *On the geometry of Burnside quotients of torsion free hyperbolic groups.* International Journal of Algebra and Computation, 24 (2014), 251–345.
-- **[Survey]** A. I. Kostrikin. *Around Burnside.* Ergebnisse der Mathematik 20, Springer, 1990.
-- **[Survey]** M. Vaughan-Lee. *The Restricted Burnside Problem.* 2nd ed., London Mathematical Society Monographs, Oxford University Press, 1993.
-- **[Survey]** A. Yu. Ol'shanskii. *Geometry of Defining Relations in Groups.* Kluwer, 1991.
-- **[Survey]** S. I. Adian. *The Burnside problem and related topics.* Russian Mathematical Surveys, 65 (2010), 805–855.
+- **[SOTA / Recent]** S. I. Adian. *New estimates of odd exponents of infinite Burnside groups.* Proceedings of the Steklov Institute of Mathematics, 289 (2015), 33–71. [DOI](https://doi.org/10.1134/s0081543815040045)
+- **[SOTA / Recent]** M. F. Newman, E. A. O'Brien. *Application of computers to questions like those of Burnside, II.* International Journal of Algebra and Computation, 6 (1996), 593–605. [DOI](https://doi.org/10.1142/s0218196796000337)
+- **[SOTA / Recent]** R. Coulon. *On the geometry of Burnside quotients of torsion free hyperbolic groups.* International Journal of Algebra and Computation, 24 (2014), 251–345. [DOI](https://doi.org/10.1142/s0218196714500143)
+- **[Survey]** A. I. Kostrikin. *Around Burnside.* Ergebnisse der Mathematik 20, Springer, 1990. [DOI](https://doi.org/10.1007/978-3-642-74324-5)
+- **[Survey]** M. Vaughan-Lee. *The Restricted Burnside Problem.* 2nd ed., London Mathematical Society Monographs, Oxford University Press, 1993. [DOI](https://doi.org/10.1093/oso/9780198537861.001.0001)
+- **[Survey]** A. Yu. Ol'shanskii. *Geometry of Defining Relations in Groups.* Kluwer, 1991. [DOI](https://doi.org/10.1007/978-94-011-3618-1)
+- **[Survey]** S. I. Adian. *The Burnside problem and related topics.* Russian Mathematical Surveys, 65 (2010), 805–855. [DOI](https://doi.org/10.1070/rm2010v065n05abeh004702)
 
 ## 10. Worked Example / Concrete Special Case
 

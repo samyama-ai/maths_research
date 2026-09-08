@@ -110,16 +110,16 @@ is complete. The residual gaps are:
 
 ## 9. Key References
 
-- **[Foundational]** L. V. Ahlfors. *Finitely generated Kleinian groups.* American Journal of Mathematics **86** (1964), 413–429; correction **87** (1965), 759.
-- **[Foundational]** L. V. Ahlfors. *Fundamental polyhedrons and limit point sets of Kleinian groups.* Proc. Nat. Acad. Sci. USA **55** (1966), 251–254.
-- **[Foundational]** A. Marden. *The geometry of finitely generated kleinian groups.* Annals of Mathematics **99** (1974), 383–462.
-- **[Foundational]** D. Sullivan. *The density at infinity of a discrete group of hyperbolic motions.* Publications Mathématiques de l'IHÉS **50** (1979), 171–202.
-- **[Foundational]** D. Sullivan. *Discrete conformal groups and measurable dynamics.* Bulletin of the AMS **6** (1982), 57–73.
+- **[Foundational]** L. V. Ahlfors. *Finitely generated Kleinian groups.* American Journal of Mathematics **86** (1964), 413–429; correction **87** (1965), 759. [DOI](https://doi.org/10.2307/2373173)
+- **[Foundational]** L. V. Ahlfors. *Fundamental polyhedrons and limit point sets of Kleinian groups.* Proc. Nat. Acad. Sci. USA **55** (1966), 251–254. [DOI](https://doi.org/10.1073/pnas.55.2.251)
+- **[Foundational]** A. Marden. *The geometry of finitely generated kleinian groups.* Annals of Mathematics **99** (1974), 383–462. [DOI](https://doi.org/10.2307/1971059)
+- **[Foundational]** D. Sullivan. *The density at infinity of a discrete group of hyperbolic motions.* Publications Mathématiques de l'IHÉS **50** (1979), 171–202. [DOI](https://doi.org/10.1007/bf02684773)
+- **[Foundational]** D. Sullivan. *Discrete conformal groups and measurable dynamics.* Bulletin of the AMS **6** (1982), 57–73. [DOI](https://doi.org/10.1090/s0273-0979-1982-14966-7)
 - **[Key step]** F. Bonahon. *Bouts des variétés hyperboliques de dimension 3.* Annals of Mathematics **124** (1986), 71–158.
 - **[Key step]** R. D. Canary. *Ends of hyperbolic 3-manifolds.* Journal of the AMS **6** (1993), 1–35.
 - **[SOTA]** I. Agol. *Tameness of hyperbolic 3-manifolds.* arXiv:math/0405568, 2004.
-- **[SOTA]** D. Calegari and D. Gabai. *Shrinkwrapping and the taming of hyperbolic 3-manifolds.* Journal of the AMS **19** (2006), 385–446.
-- **[SOTA]** C. J. Bishop and P. W. Jones. *Hausdorff dimension and Kleinian groups.* Acta Mathematica **179** (1997), 1–39.
+- **[SOTA]** D. Calegari and D. Gabai. *Shrinkwrapping and the taming of hyperbolic 3-manifolds.* Journal of the AMS **19** (2006), 385–446. [DOI](https://doi.org/10.1090/s0894-0347-05-00513-8)
+- **[SOTA]** C. J. Bishop and P. W. Jones. *Hausdorff dimension and Kleinian groups.* Acta Mathematica **179** (1997), 1–39. [DOI](https://doi.org/10.1007/bf02392718)
 - **[Survey]** R. D. Canary. *Marden's tameness conjecture: history and applications.* In *Geometry, Analysis and Topology of Discrete Groups*, ALM 6, International Press, 2008, 137–162.
 - **[Book]** A. Marden. *Hyperbolic Manifolds: An Introduction in 2 and 3 Dimensions.* Cambridge University Press, 2016.
 - **[Book]** P. J. Nicholls. *The Ergodic Theory of Discrete Groups.* LMS Lecture Note Series 143, Cambridge University Press, 1989.

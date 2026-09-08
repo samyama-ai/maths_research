@@ -688,5 +688,348 @@
     "slug": "space-bounded-pseudorandom-generators",
     "status": "open",
     "description": "Creates efficient deterministic random bits for space bounded computational models."
+  },
+  {
+    "title": "Sensitivity versus Block Sensitivity Gap",
+    "slug": "sensitivity-versus-block-sensitivity",
+    "status": "partially-solved",
+    "description": "Tight polynomial gap between sensitivity and block sensitivity unknown"
+  },
+  {
+    "title": "KRW Composition Conjecture",
+    "slug": "krw-composition-conjecture",
+    "status": "open",
+    "description": "Formula depth adds under function composition"
+  },
+  {
+    "title": "Shannon Capacity of the Odd Cycle",
+    "slug": "shannon-capacity-of-odd-cycles",
+    "status": "open",
+    "description": "Exact zero-error capacity of the seven-cycle is unknown"
+  },
+  {
+    "title": "Set Cover Conjecture",
+    "slug": "set-cover-conjecture",
+    "status": "open",
+    "description": "Exact set cover needs two to the n time"
+  },
+  {
+    "title": "Minimum Weight Triangulation Complexity",
+    "slug": "minimum-weight-triangulation-complexity",
+    "status": "solved-recently",
+    "description": "Minimum weight triangulation of planar points is NP-hard"
+  },
+  {
+    "title": "Art Gallery Problem Complexity",
+    "slug": "art-gallery-problem-complexity",
+    "status": "solved-recently",
+    "description": "Guarding a polygon is complete for the existential reals"
+  },
+  {
+    "title": "Sorting X plus Y",
+    "slug": "sorting-x-plus-y",
+    "status": "open",
+    "description": "Sorting pairwise sums with subquadratic comparisons and time"
+  },
+  {
+    "title": "Hadwiger\u2013Nelson Algorithmic Colouring of Unit Distance Graphs",
+    "slug": "unit-distance-graph-recognition",
+    "status": "open",
+    "description": "Recognising unit distance graphs sits between NP and reals"
+  },
+  {
+    "title": "Nisan\u2013Wigderson Derandomization of AM",
+    "slug": "am-versus-np-derandomization",
+    "status": "open",
+    "description": "Does Arthur-Merlin equal NP unconditionally"
+  },
+  {
+    "title": "Natural Proofs Barrier Circumvention",
+    "slug": "natural-proofs-barrier",
+    "status": "open",
+    "description": "Finding non-naturalizable techniques for general circuit lower bounds"
+  },
+  {
+    "title": "Karchmer\u2013Wigderson Games for Monotone Depth",
+    "slug": "monotone-depth-lower-bounds",
+    "status": "partially-solved",
+    "description": "Optimal monotone circuit depth bounds for connectivity-like problems"
+  },
+  {
+    "title": "Constant-Depth Threshold Circuits for Division",
+    "slug": "uniform-tc0-division",
+    "status": "partially-solved",
+    "description": "Uniformity level needed for constant depth integer division"
+  },
+  {
+    "title": "Pseudodeterministic Algorithms for Prime Generation",
+    "slug": "pseudodeterministic-prime-generation",
+    "status": "partially-solved",
+    "description": "Fast canonical randomized generation of large primes"
+  },
+  {
+    "title": "Total Function NP Class Separations (TFNP)",
+    "slug": "tfnp-subclass-separations",
+    "status": "partially-solved",
+    "description": "Unconditional separations among PPAD, PLS, PPA, PPP"
+  },
+  {
+    "title": "Continuous Local Search Hardness (CLS = PPAD \u2229 PLS)",
+    "slug": "cls-equals-ppad-intersect-pls",
+    "status": "solved-recently",
+    "description": "Continuous local search equals intersection of PPAD and PLS"
+  },
+  {
+    "title": "Nash Equilibrium Approximation Complexity",
+    "slug": "approximate-nash-equilibrium-complexity",
+    "status": "open",
+    "description": "Polynomial time constant approximation for two-player Nash equilibria"
+  },
+  {
+    "title": "Simplex Method Polynomial Pivot Rule",
+    "slug": "polynomial-pivot-rule-for-simplex",
+    "status": "open",
+    "description": "Existence of a polynomial time simplex pivoting rule"
+  },
+  {
+    "title": "Sensitivity of Parity Decision Trees and the Log-Rank Analogue",
+    "slug": "parity-decision-tree-complexity",
+    "status": "open",
+    "description": "Fourier sparsity bounds parity decision tree depth polylogarithmically"
+  },
+  {
+    "title": "Locally Decodable Codes with Constant Queries",
+    "slug": "constant-query-locally-decodable-codes",
+    "status": "open",
+    "description": "Optimal length of three-query locally decodable codes"
+  },
+  {
+    "title": "Explicit Two-Source Extractors with Optimal Parameters",
+    "slug": "optimal-two-source-extractors",
+    "status": "partially-solved",
+    "description": "Explicit extractors matching optimal min-entropy and error"
+  },
+  {
+    "title": "Ramsey Graph Construction Explicitness",
+    "slug": "explicit-ramsey-graph-construction",
+    "status": "partially-solved",
+    "description": "Explicit graphs with no large clique or independent set"
+  },
+  {
+    "title": "Deterministic Communication Complexity of Set Disjointness Lifting",
+    "slug": "lifting-theorems-for-small-gadgets",
+    "status": "open",
+    "description": "Query to communication lifting with constant size gadgets"
+  },
+  {
+    "title": "Hardness of Approximating Densest k-Subgraph",
+    "slug": "densest-k-subgraph-approximation",
+    "status": "open",
+    "description": "Tight approximation ratio for densest k-subgraph unknown"
+  },
+  {
+    "title": "Sparsest Cut Approximation Ratio",
+    "slug": "sparsest-cut-approximation-ratio",
+    "status": "open",
+    "description": "Optimal approximation factor for nonuniform sparsest cut"
+  },
+  {
+    "title": "Cryptographic Hardness of the Shortest Path in Lattices under Quantum Attack",
+    "slug": "quantum-hardness-of-lattice-sieving",
+    "status": "open",
+    "description": "Best quantum time for solving shortest vector by sieving"
+  },
+  {
+    "title": "Barrington-Style Bounded-Width Branching Programs for NC1",
+    "slug": "branching-program-size-lower-bounds",
+    "status": "open",
+    "description": "Superpolynomial size bounds for bounded width branching programs"
+  },
+  {
+    "title": "Optimal Streaming Space for Triangle Counting",
+    "slug": "streaming-triangle-counting-space",
+    "status": "partially-solved",
+    "description": "Tight space bounds for counting triangles in streams"
+  },
+  {
+    "title": "Log-Rank Conjecture for Randomized Communication Complexity",
+    "slug": "randomized-log-rank-approximate-rank",
+    "status": "open",
+    "description": "Does low approximate rank imply efficient randomized communication protocols",
+    "title_note": null
+  },
+  {
+    "title": "Sunflower-Free Set Growth and the Sunflower Conjecture",
+    "slug": "erdos-ko-rado-sunflower-conjecture",
+    "status": "partially-solved",
+    "description": "Optimal bound on set families forcing sunflower substructures"
+  },
+  {
+    "title": "Ideal Proof System Lower Bounds",
+    "slug": "ideal-proof-system-lower-bounds",
+    "status": "open",
+    "description": "Prove superpolynomial size lower bounds for algebraic proof systems"
+  },
+  {
+    "title": "Nullstellensatz Degree Lower Bounds for Constant-Depth Frege",
+    "slug": "constant-depth-frege-with-counting-lower-bounds",
+    "status": "open",
+    "description": "Lower bounds for bounded depth proof systems with counting gates"
+  },
+  {
+    "title": "Resolution Space-Width Tradeoff Optimality",
+    "slug": "resolution-space-width-tradeoffs",
+    "status": "partially-solved",
+    "description": "Tight tradeoffs between memory and clause width in resolution"
+  },
+  {
+    "title": "Optimal Proof System Existence",
+    "slug": "optimal-propositional-proof-system",
+    "status": "open",
+    "description": "Does a polynomially simulating optimal proof system exist"
+  },
+  {
+    "title": "Sunflower-Based Formula Size Lower Bounds for Andreev's Function",
+    "slug": "formula-size-lower-bound-cubic-barrier",
+    "status": "open",
+    "description": "Break the cubic barrier for Boolean formula size bounds"
+  },
+  {
+    "title": "Depth-Three Arithmetic Circuit Lower Bounds over Infinite Fields",
+    "slug": "depth-three-arithmetic-circuit-lower-bounds",
+    "status": "partially-solved",
+    "description": "Exponential lower bounds for depth three circuits over characteristic zero"
+  },
+  {
+    "title": "Blackbox Identity Testing for Depth-Four Circuits",
+    "slug": "blackbox-pit-depth-four-circuits",
+    "status": "partially-solved",
+    "description": "Deterministic blackbox identity tests for depth four arithmetic circuits"
+  },
+  {
+    "title": "Tensor Rank of Small Matrix Multiplication Tensors",
+    "slug": "tensor-rank-of-three-by-three-matrix-multiplication",
+    "status": "open",
+    "description": "Exact rank of three by three matrix multiplication tensor"
+  },
+  {
+    "title": "Border Rank versus Rank Gap Conjecture",
+    "slug": "border-rank-versus-rank-gap",
+    "status": "open",
+    "description": "How far can border rank fall below tensor rank"
+  },
+  {
+    "title": "Valiant's Rigidity of Hadamard and Fourier Matrices",
+    "slug": "rigidity-of-hadamard-matrices",
+    "status": "partially-solved",
+    "description": "Are Hadamard matrices rigid enough for circuit lower bounds"
+  },
+  {
+    "title": "Hardness of Approximating Graph Coloring within Polynomial Factors",
+    "slug": "approximate-graph-coloring-hardness",
+    "status": "partially-solved",
+    "description": "Complexity of coloring three colorable graphs with few colors"
+  },
+  {
+    "title": "Two-to-Two Games and Optimal Vertex Expansion Hardness",
+    "slug": "two-to-two-games-conjecture",
+    "status": "solved-recently",
+    "description": "Hardness of two-to-two label cover with imperfect completeness"
+  },
+  {
+    "title": "Hardness of the Nearest Codeword Problem",
+    "slug": "nearest-codeword-problem-hardness",
+    "status": "partially-solved",
+    "description": "Approximation hardness of decoding arbitrary linear codes"
+  },
+  {
+    "title": "Minimum Distance Problem Approximability",
+    "slug": "minimum-distance-of-a-code",
+    "status": "partially-solved",
+    "description": "Hardness of approximating minimum distance of linear codes"
+  },
+  {
+    "title": "Gilbert-Varshamov Bound Optimality for Binary Codes",
+    "slug": "gilbert-varshamov-bound-optimality",
+    "status": "open",
+    "description": "Are random binary codes rate optimal at given distance"
+  },
+  {
+    "title": "Explicit Constructions of Optimal Lossless Expanders",
+    "slug": "explicit-lossless-expander-construction",
+    "status": "partially-solved",
+    "description": "Explicit bipartite expanders with near optimal vertex expansion"
+  },
+  {
+    "title": "Ramanujan Graph Existence for All Degrees and Sizes",
+    "slug": "ramanujan-graphs-all-degrees",
+    "status": "partially-solved",
+    "description": "Existence of optimal spectral expanders for every degree"
+  },
+  {
+    "title": "Unique Neighbor Expansion in Local Codes",
+    "slug": "high-dimensional-expander-agreement-testing",
+    "status": "partially-solved",
+    "description": "Agreement testing thresholds on high dimensional expanders"
+  },
+  {
+    "title": "Locally Testable Codes with Constant Query and Rate",
+    "slug": "locally-testable-codes-optimal-parameters",
+    "status": "solved-recently",
+    "description": "Constant rate distance and query locally testable codes"
+  },
+  {
+    "title": "Derandomizing the Isolation Lemma",
+    "slug": "derandomizing-the-isolation-lemma",
+    "status": "open",
+    "description": "Deterministic isolation of minimum weight solutions in combinatorial problems"
+  },
+  {
+    "title": "Hardness versus Randomness for Uniform Classes",
+    "slug": "uniform-hardness-randomness-tradeoffs",
+    "status": "partially-solved",
+    "description": "Derandomization from uniform lower bound assumptions alone"
+  },
+  {
+    "title": "Sparse Set Completeness and Berman-Hartmanis Isomorphism Conjecture",
+    "slug": "berman-hartmanis-isomorphism-conjecture",
+    "status": "open",
+    "description": "Are all NP complete sets polynomially isomorphic to each other"
+  },
+  {
+    "title": "Existence of NP-Intermediate Natural Problems",
+    "slug": "np-intermediate-natural-problems",
+    "status": "open",
+    "description": "Natural problems provably neither in P nor complete"
+  },
+  {
+    "title": "Complexity of Nash Social Welfare Approximation",
+    "slug": "nash-social-welfare-approximation",
+    "status": "partially-solved",
+    "description": "Best constant factor for Nash social welfare allocation"
+  },
+  {
+    "title": "Price of Anarchy Bounds for Simultaneous Auctions",
+    "slug": "price-of-anarchy-simultaneous-auctions",
+    "status": "open",
+    "description": "Tight welfare loss bounds in simultaneous item auctions"
+  },
+  {
+    "title": "Query Complexity of Local Search on the Hypercube",
+    "slug": "randomized-query-complexity-of-local-search",
+    "status": "partially-solved",
+    "description": "Tight randomized and quantum bounds for hypercube local search"
+  },
+  {
+    "title": "Sample Complexity of Distribution Testing under Structure",
+    "slug": "distribution-identity-testing-sample-complexity",
+    "status": "partially-solved",
+    "description": "Optimal sample bounds for structured distribution property testing"
+  },
+  {
+    "title": "Space Complexity of Streaming Maximum Matching",
+    "slug": "streaming-matching-approximation-space",
+    "status": "open",
+    "description": "Best approximation for matching in one pass streams"
   }
 ]

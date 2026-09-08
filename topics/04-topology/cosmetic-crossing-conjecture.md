@@ -110,16 +110,16 @@ The exact step to cross: given a knot $K$ and a crossing disk $D$ with $\partial
 ## 9. Key References
 
 - **[Problem source]** R. Kirby (ed.). *Problems in low-dimensional topology.* In *Geometric Topology* (Athens, GA, 1993), AMS/IP Studies in Advanced Mathematics 2.2, American Mathematical Society, 1997. (Problem 1.58.)
-- **[Foundational]** M. Scharlemann, A. Thompson. *Link genus and the Conway moves.* Commentarii Mathematici Helvetici 64 (1989), 527–535.
-- **[Foundational]** D. Gabai. *Foliations and the topology of 3-manifolds II, III.* Journal of Differential Geometry 26 (1987), 461–478 and 479–536.
-- **[Partial results]** I. Torisu. *On nugatory crossings for knots.* Mathematical Proceedings of the Cambridge Philosophical Society 126 (1999), 435–446.
+- **[Foundational]** M. Scharlemann, A. Thompson. *Link genus and the Conway moves.* Commentarii Mathematici Helvetici 64 (1989), 527–535. [DOI](https://doi.org/10.1007/bf02564693)
+- **[Foundational]** D. Gabai. *Foliations and the topology of 3-manifolds II, III.* Journal of Differential Geometry 26 (1987), 461–478 and 479–536. [DOI](https://doi.org/10.4310/jdg/1214441488)
+- **[Partial results]** I. Torisu. *On nugatory crossings for knots.* Mathematical Proceedings of the Cambridge Philosophical Society 126 (1999), 435–446. [DOI](https://doi.org/10.1016/s0166-8641(97)00238-1)
 - **[Partial results]** E. Kalfagianni. *Cosmetic crossings of fibred knots.* Journal für die reine und angewandte Mathematik (Crelle's Journal) 669 (2012), 151–164.
 - **[Partial results]** C. Balm, S. Friedl, E. Kalfagianni, M. Powell. *Cosmetic crossings and Seifert genus.* Journal of Knot Theory and Its Ramifications 21 (2012), no. 11, 1250120.
-- **[SOTA]** T. Lidman, A. H. Moore. *Cosmetic surgery in L-spaces and nugatory crossings.* Transactions of the American Mathematical Society 369 (2017), 3639–3654.
-- **[SOTA / Recent]** J. Wang. *The cosmetic crossing conjecture for split links.* Geometry & Topology 26 (2022).
-- **[Partial results]** A. H. Moore. *Symmetric unions without cosmetic crossing changes.* In *Advances in the Mathematical Sciences* (Association for Women in Mathematics Series, vol. 6), Springer, 2016.
-- **[Background]** P. Kronheimer, T. Mrowka. *Khovanov homology is an unknot-detector.* Publications mathématiques de l'IHÉS 113 (2011), 97–208.
-- **[Background]** P. Ozsváth, Z. Szabó. *Knot Floer homology and rational surgeries.* Algebraic & Geometric Topology 11 (2011), 1–68.
+- **[SOTA]** T. Lidman, A. H. Moore. *Cosmetic surgery in L-spaces and nugatory crossings.* Transactions of the American Mathematical Society 369 (2017), 3639–3654. [DOI](https://doi.org/10.1090/tran/6839)
+- **[SOTA / Recent]** J. Wang. *The cosmetic crossing conjecture for split links.* Geometry & Topology 26 (2022). [DOI](https://doi.org/10.2140/gt.2022.26.2941)
+- **[Partial results]** A. H. Moore. *Symmetric unions without cosmetic crossing changes.* In *Advances in the Mathematical Sciences* (Association for Women in Mathematics Series, vol. 6), Springer, 2016. [DOI](https://doi.org/10.1007/978-3-319-34139-2_3)
+- **[Background]** P. Kronheimer, T. Mrowka. *Khovanov homology is an unknot-detector.* Publications mathématiques de l'IHÉS 113 (2011), 97–208. [DOI](https://doi.org/10.1007/s10240-010-0030-y)
+- **[Background]** P. Ozsváth, Z. Szabó. *Knot Floer homology and rational surgeries.* Algebraic & Geometric Topology 11 (2011), 1–68. [DOI](https://doi.org/10.2140/agt.2011.11.1)
 
 ## 10. Worked Example / Concrete Special Case
 

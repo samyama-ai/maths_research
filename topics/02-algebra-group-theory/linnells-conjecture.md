@@ -107,23 +107,23 @@ The exact missing step: given an arbitrary torsion-free $G$, construct a divisio
 
 ## 9. Key References
 
-- **[Foundational]** P. A. Linnell. *Division rings and group von Neumann algebras.* Forum Mathematicum **5** (1993), 561–576.
+- **[Foundational]** P. A. Linnell. *Division rings and group von Neumann algebras.* Forum Mathematicum **5** (1993), 561–576. [DOI](https://doi.org/10.1515/form.1993.5.561)
 - **[Foundational]** M. F. Atiyah. *Elliptic operators, discrete groups and von Neumann algebras.* Astérisque **32–33** (1976), 43–72.
-- **[Foundational]** J. Lewin. *Fields of fractions for group algebras of free groups.* Transactions of the AMS **192** (1974), 339–346.
-- **[Foundational]** I. Hughes. *Division rings of fractions for group rings.* Communications on Pure and Applied Mathematics **23** (1970), 181–188.
+- **[Foundational]** J. Lewin. *Fields of fractions for group algebras of free groups.* Transactions of the AMS **192** (1974), 339–346. [DOI](https://doi.org/10.1090/s0002-9947-1974-0338055-4)
+- **[Foundational]** I. Hughes. *Division rings of fractions for group rings.* Communications on Pure and Applied Mathematics **23** (1970), 181–188. [DOI](https://doi.org/10.1002/cpa.3160230205)
 - **[Survey]** W. Lück. *$L^2$-Invariants: Theory and Applications to Geometry and K-Theory.* Ergebnisse der Mathematik 44, Springer, 2002 (Chapter 10).
 - **[Survey]** A. Jaikin-Zapirain. *$L^2$-Betti numbers and their analogues in positive characteristic.* In *Groups St Andrews 2017*, LMS Lecture Note Series 455, Cambridge Univ. Press, 2019.
-- **[Partial results]** T. Schick. *Integrality of $L^2$-Betti numbers.* Mathematische Annalen **317** (2000), 727–750.
+- **[Partial results]** T. Schick. *Integrality of $L^2$-Betti numbers.* Mathematische Annalen **317** (2000), 727–750. [DOI](https://doi.org/10.1007/pl00004421)
 - **[Partial results]** J. Dodziuk, P. Linnell, V. Mathai, T. Schick, S. Yates. *Approximating $L^2$-invariants and the Atiyah conjecture.* Comm. Pure Appl. Math. **56** (2003), 839–873.
-- **[Partial results]** P. Linnell, T. Schick. *Finite group extensions and the Atiyah conjecture.* Journal of the AMS **20** (2007), 1003–1051.
-- **[Partial results]** P. Linnell, B. Okun, T. Schick. *The strong Atiyah conjecture for right-angled Artin and Coxeter groups.* Geometriae Dedicata **158** (2012), 261–266.
-- **[SOTA / Recent]** A. Jaikin-Zapirain, D. López-Álvarez. *The strong Atiyah and Lück approximation conjectures for one-relator groups.* Mathematische Annalen **376** (2020), 1741–1793.
-- **[SOTA / Recent]** A. Jaikin-Zapirain. *The universality of Hughes-free division rings.* Selecta Mathematica **27** (2021), article 74.
-- **[SOTA / Recent]** A. Jaikin-Zapirain. *The base change in the Atiyah and the Lück approximation conjectures.* Geometric and Functional Analysis **29** (2019), 464–538.
-- **[Counterexamples]** Ł. Grabowski. *On Turing dynamical systems and the Atiyah problem.* Inventiones Mathematicae **198** (2014), 27–69.
-- **[Counterexamples]** T. Austin. *Rational group ring elements with kernels having irrational dimension.* Proc. London Math. Soc. **107** (2013), 1424–1448.
+- **[Partial results]** P. Linnell, T. Schick. *Finite group extensions and the Atiyah conjecture.* Journal of the AMS **20** (2007), 1003–1051. [DOI](https://doi.org/10.1090/s0894-0347-07-00561-9)
+- **[Partial results]** P. Linnell, B. Okun, T. Schick. *The strong Atiyah conjecture for right-angled Artin and Coxeter groups.* Geometriae Dedicata **158** (2012), 261–266. [DOI](https://doi.org/10.1007/s10711-011-9631-y)
+- **[SOTA / Recent]** A. Jaikin-Zapirain, D. López-Álvarez. *The strong Atiyah and Lück approximation conjectures for one-relator groups.* Mathematische Annalen **376** (2020), 1741–1793. [DOI](https://doi.org/10.1007/s00208-019-01926-0)
+- **[SOTA / Recent]** A. Jaikin-Zapirain. *The universality of Hughes-free division rings.* Selecta Mathematica **27** (2021), article 74. [DOI](https://doi.org/10.1007/s00029-021-00691-w)
+- **[SOTA / Recent]** A. Jaikin-Zapirain. *The base change in the Atiyah and the Lück approximation conjectures.* Geometric and Functional Analysis **29** (2019), 464–538. [DOI](https://doi.org/10.1007/s00039-019-00487-3)
+- **[Counterexamples]** Ł. Grabowski. *On Turing dynamical systems and the Atiyah problem.* Inventiones Mathematicae **198** (2014), 27–69. [DOI](https://doi.org/10.1007/s00222-013-0497-5)
+- **[Counterexamples]** T. Austin. *Rational group ring elements with kernels having irrational dimension.* Proc. London Math. Soc. **107** (2013), 1424–1448. [DOI](https://doi.org/10.1112/plms/pdt029)
 - **[Counterexamples]** R. Grigorchuk, P. Linnell, T. Schick, A. Żuk. *On a question of Atiyah.* C. R. Acad. Sci. Paris **331** (2000), 663–668.
-- **[Context]** G. Gardam. *A counterexample to the unit conjecture for group rings.* Annals of Mathematics **194** (2021), 967–979.
+- **[Context]** G. Gardam. *A counterexample to the unit conjecture for group rings.* Annals of Mathematics **194** (2021), 967–979. [DOI](https://doi.org/10.4007/annals.2021.194.3.9)
 - **[Context]** I. Agol. *The virtual Haken conjecture.* Documenta Mathematica **18** (2013), 1045–1087.
 
 ## 10. Worked Example / Concrete Special Case

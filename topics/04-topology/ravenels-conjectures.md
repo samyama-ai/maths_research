@@ -102,20 +102,20 @@ for any $n\ge2$. Crossing the gap means: compute $\pi_*L_{T(2)}S^0$ at some prim
 
 ## 9. Key References
 
-- **[Foundational]** D. C. Ravenel. *Localization with respect to certain periodic homology theories.* American Journal of Mathematics **106** (1984), 351–414.
+- **[Foundational]** D. C. Ravenel. *Localization with respect to certain periodic homology theories.* American Journal of Mathematics **106** (1984), 351–414. [DOI](https://doi.org/10.2307/2374308)
 - **[Foundational]** E. S. Devinatz, M. J. Hopkins, J. H. Smith. *Nilpotence and stable homotopy theory I.* Annals of Mathematics **128** (1988), 207–241.
 - **[Foundational]** M. J. Hopkins, J. H. Smith. *Nilpotence and stable homotopy theory II.* Annals of Mathematics **148** (1998), 1–49.
-- **[Foundational]** A. K. Bousfield. *The localization of spectra with respect to homology.* Topology **18** (1979), 257–281.
+- **[Foundational]** A. K. Bousfield. *The localization of spectra with respect to homology.* Topology **18** (1979), 257–281. [DOI](https://doi.org/10.1016/0040-9383(79)90018-1)
 - **[Survey / Book]** D. C. Ravenel. *Nilpotence and Periodicity in Stable Homotopy Theory.* Annals of Mathematics Studies 128, Princeton University Press, 1992.
-- **[Foundational]** H. R. Miller. *On relations between Adams spectral sequences, with an application to the stable homotopy of a Moore space.* Journal of Pure and Applied Algebra **20** (1981), 287–312.
-- **[Foundational]** M. Mahowald. *The image of $J$ in the EHP sequence.* Annals of Mathematics **116** (1982), 65–112.
-- **[Foundational]** H. R. Miller, D. C. Ravenel, W. S. Wilson. *Periodic phenomena in the Adams–Novikov spectral sequence.* Annals of Mathematics **106** (1977), 469–516.
+- **[Foundational]** H. R. Miller. *On relations between Adams spectral sequences, with an application to the stable homotopy of a Moore space.* Journal of Pure and Applied Algebra **20** (1981), 287–312. [DOI](https://doi.org/10.1016/0022-4049(81)90064-5)
+- **[Foundational]** M. Mahowald. *The image of $J$ in the EHP sequence.* Annals of Mathematics **116** (1982), 65–112. [DOI](https://doi.org/10.2307/2007048)
+- **[Foundational]** H. R. Miller, D. C. Ravenel, W. S. Wilson. *Periodic phenomena in the Adams–Novikov spectral sequence.* Annals of Mathematics **106** (1977), 469–516. [DOI](https://doi.org/10.2307/1971064)
 - **[SOTA]** R. Burklund, J. Hahn, I. Levy, T. M. Schlank. *K-theoretic counterexamples to Ravenel's telescope conjecture.* arXiv:2310.17459, 2023.
-- **[SOTA]** J. Hahn, D. Wilson. *Redshift and multiplication for truncated Brown–Peterson spectra.* Annals of Mathematics **196** (2022), 1277–1351.
-- **[SOTA]** M. Land, A. Mathew, L. Meier, G. Tamme. *Purity in chromatically localized algebraic K-theory.* Journal of the AMS (2024).
-- **[Evidence]** M. Mahowald, D. C. Ravenel, P. Shick. *The triple loop space approach to the telescope conjecture.* In *Homotopy Methods in Algebraic Topology*, Contemporary Mathematics 271, AMS, 2001, 217–284.
+- **[SOTA]** J. Hahn, D. Wilson. *Redshift and multiplication for truncated Brown–Peterson spectra.* Annals of Mathematics **196** (2022), 1277–1351. [DOI](https://doi.org/10.4007/annals.2022.196.3.6)
+- **[SOTA]** M. Land, A. Mathew, L. Meier, G. Tamme. *Purity in chromatically localized algebraic K-theory.* Journal of the AMS (2024). [DOI](https://doi.org/10.1090/jams/1043)
+- **[Evidence]** M. Mahowald, D. C. Ravenel, P. Shick. *The triple loop space approach to the telescope conjecture.* In *Homotopy Methods in Algebraic Topology*, Contemporary Mathematics 271, AMS, 2001, 217–284. [DOI](https://doi.org/10.1090/conm/271/04358)
 - **[Structural]** M. Hovey, N. P. Strickland. *Morava K-theories and localisation.* Memoirs of the AMS **139** (1999), no. 666.
-- **[Algebraic analogue]** A. Neeman. *The chromatic tower for $D(R)$.* Topology **31** (1992), 519–532.
+- **[Algebraic analogue]** A. Neeman. *The chromatic tower for $D(R)$.* Topology **31** (1992), 519–532. [DOI](https://doi.org/10.1016/0040-9383(92)90047-l)
 
 ## 10. Worked Example / Concrete Special Case
 

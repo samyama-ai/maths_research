@@ -110,20 +110,20 @@ $$0 < \rho_0 \le \rho(t,x), \qquad \rho(t,x)\le \rho_1, \qquad T(t,x)\le T_1$$
 
 ## 9. Key References
 
-- **[Foundational]** R. J. DiPerna, P.-L. Lions. *On the Cauchy problem for Boltzmann equations: global existence and weak stability.* Annals of Mathematics 130 (1989), 321–366.
-- **[Foundational]** S. Ukai. *On the existence of global solutions of mixed problem for non-linear Boltzmann equation.* Proc. Japan Acad. 50 (1974), 179–184.
-- **[Foundational]** R. Illner, M. Shinbrot. *The Boltzmann equation: global existence for a rare gas in an infinite vacuum.* Communications in Mathematical Physics 95 (1984), 217–226.
-- **[Foundational]** C. Cercignani, R. Illner, M. Pulvirenti. *The Mathematical Theory of Dilute Gases.* Springer, Applied Mathematical Sciences 106, 1994.
-- **[SOTA / Recent]** C. Imbert, L. Silvestre. *Global regularity estimates for the Boltzmann equation without cut-off.* Journal of the AMS 35 (2022), 625–703.
-- **[SOTA / Recent]** C. Imbert, C. Mouhot, L. Silvestre. *Decay estimates for large velocities in the Boltzmann equation without cutoff.* Journal de l'École polytechnique 7 (2020), 143–183.
-- **[SOTA / Recent]** P. T. Gressman, R. M. Strain. *Global classical solutions of the Boltzmann equation without angular cut-off.* Journal of the AMS 24 (2011), 771–847.
-- **[SOTA / Recent]** Y. Guo. *Decay and continuity of the Boltzmann equation in bounded domains.* Archive for Rational Mechanics and Analysis 197 (2010), 713–809.
-- **[SOTA / Recent]** F. Golse, L. Saint-Raymond. *The Navier–Stokes limit of the Boltzmann equation for bounded collision kernels.* Inventiones Mathematicae 155 (2004), 81–161.
-- **[SOTA / Recent]** L. Desvillettes, C. Villani. *On the trend to global equilibrium for spatially inhomogeneous kinetic systems: the Boltzmann equation.* Inventiones Mathematicae 159 (2005), 245–316.
-- **[SOTA / Recent]** S. Chaturvedi. *Stability of vacuum for the Boltzmann equation with moderately soft potentials.* Annals of PDE 7 (2021), article 15.
-- **[Survey]** C. Villani. *A review of mathematical topics in collisional kinetic theory.* Handbook of Mathematical Fluid Dynamics, Vol. I, North-Holland, 2002, 71–305.
-- **[Survey]** C. Imbert, L. Silvestre. *Regularity for the Boltzmann equation conditional to macroscopic bounds.* EMS Surveys in Mathematical Sciences 7 (2020), 117–172.
-- **[Survey]** C. Mouhot. *De Giorgi–Nash–Moser and Hörmander theories: new interplays.* Proceedings of the ICM 2018, Vol. III, 2467–2493.
+- **[Foundational]** R. J. DiPerna, P.-L. Lions. *On the Cauchy problem for Boltzmann equations: global existence and weak stability.* Annals of Mathematics 130 (1989), 321–366. [DOI](https://doi.org/10.2307/1971423)
+- **[Foundational]** S. Ukai. *On the existence of global solutions of mixed problem for non-linear Boltzmann equation.* Proc. Japan Acad. 50 (1974), 179–184. [DOI](https://doi.org/10.3792/pja/1195519027)
+- **[Foundational]** R. Illner, M. Shinbrot. *The Boltzmann equation: global existence for a rare gas in an infinite vacuum.* Communications in Mathematical Physics 95 (1984), 217–226. [DOI](https://doi.org/10.1007/bf01468142)
+- **[Foundational]** C. Cercignani, R. Illner, M. Pulvirenti. *The Mathematical Theory of Dilute Gases.* Springer, Applied Mathematical Sciences 106, 1994. [DOI](https://doi.org/10.1007/978-1-4419-8524-8)
+- **[SOTA / Recent]** C. Imbert, L. Silvestre. *Global regularity estimates for the Boltzmann equation without cut-off.* Journal of the AMS 35 (2022), 625–703. [DOI](https://doi.org/10.1090/jams/986)
+- **[SOTA / Recent]** C. Imbert, C. Mouhot, L. Silvestre. *Decay estimates for large velocities in the Boltzmann equation without cutoff.* Journal de l'École polytechnique 7 (2020), 143–183. [DOI](https://doi.org/10.5802/jep.113)
+- **[SOTA / Recent]** P. T. Gressman, R. M. Strain. *Global classical solutions of the Boltzmann equation without angular cut-off.* Journal of the AMS 24 (2011), 771–847. [DOI](https://doi.org/10.1090/s0894-0347-2011-00697-8)
+- **[SOTA / Recent]** Y. Guo. *Decay and continuity of the Boltzmann equation in bounded domains.* Archive for Rational Mechanics and Analysis 197 (2010), 713–809. [DOI](https://doi.org/10.1007/s00205-009-0285-y)
+- **[SOTA / Recent]** F. Golse, L. Saint-Raymond. *The Navier–Stokes limit of the Boltzmann equation for bounded collision kernels.* Inventiones Mathematicae 155 (2004), 81–161. [DOI](https://doi.org/10.1007/s00222-003-0316-5)
+- **[SOTA / Recent]** L. Desvillettes, C. Villani. *On the trend to global equilibrium for spatially inhomogeneous kinetic systems: the Boltzmann equation.* Inventiones Mathematicae 159 (2005), 245–316. [DOI](https://doi.org/10.1007/s00222-004-0389-9)
+- **[SOTA / Recent]** S. Chaturvedi. *Stability of vacuum for the Boltzmann equation with moderately soft potentials.* Annals of PDE 7 (2021), article 15. [DOI](https://doi.org/10.1007/s40818-021-00103-4)
+- **[Survey]** C. Villani. *A review of mathematical topics in collisional kinetic theory.* Handbook of Mathematical Fluid Dynamics, Vol. I, North-Holland, 2002, 71–305. [DOI](https://doi.org/10.1016/s1874-5792(02)80004-0)
+- **[Survey]** C. Imbert, L. Silvestre. *Regularity for the Boltzmann equation conditional to macroscopic bounds.* EMS Surveys in Mathematical Sciences 7 (2020), 117–172. [DOI](https://doi.org/10.4171/emss/37)
+- **[Survey]** C. Mouhot. *De Giorgi–Nash–Moser and Hörmander theories: new interplays.* Proceedings of the ICM 2018, Vol. III, 2467–2493. [DOI](https://doi.org/10.1142/9789813272880_0146)
 
 ## 10. Worked Example / Concrete Special Case
 

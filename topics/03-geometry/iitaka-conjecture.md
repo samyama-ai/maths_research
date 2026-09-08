@@ -121,16 +121,16 @@ equivalently, prove abundance in dimension $n-m$. Everything else in the reducti
 ## 9. Key References
 
 - **[Foundational]** S. Iitaka. *On $D$-dimensions of algebraic varieties.* Journal of the Mathematical Society of Japan **23** (1971), 356–373.
-- **[Foundational]** K. Ueno. *Classification Theory of Algebraic Varieties and Compact Complex Spaces.* Lecture Notes in Mathematics 439, Springer, 1975.
+- **[Foundational]** K. Ueno. *Classification Theory of Algebraic Varieties and Compact Complex Spaces.* Lecture Notes in Mathematics 439, Springer, 1975. [DOI](https://doi.org/10.1007/bfb0066164)
 - **[Foundational]** E. Viehweg. *Canonical divisors and the additivity of the Kodaira dimension for morphisms of relative dimension one.* Compositio Mathematica **35** (1977), 197–223.
-- **[Foundational]** Y. Kawamata. *Kodaira dimension of algebraic fiber spaces over curves.* Inventiones Mathematicae **66** (1982), 57–71.
+- **[Foundational]** Y. Kawamata. *Kodaira dimension of algebraic fiber spaces over curves.* Inventiones Mathematicae **66** (1982), 57–71. [DOI](https://doi.org/10.1007/bf01404756)
 - **[Foundational]** E. Viehweg. *Weak positivity and the additivity of the Kodaira dimension II: The local Torelli map.* In *Classification of Algebraic and Analytic Manifolds*, Progress in Mathematics 39, Birkhäuser, 1983, 567–589.
-- **[Foundational]** Y. Kawamata. *Minimal models and the Kodaira dimension of algebraic fiber spaces.* Journal für die reine und angewandte Mathematik **363** (1985), 1–46.
+- **[Foundational]** Y. Kawamata. *Minimal models and the Kodaira dimension of algebraic fiber spaces.* Journal für die reine und angewandte Mathematik **363** (1985), 1–46. [DOI](https://doi.org/10.1515/crll.1985.363.1)
 - **[Foundational]** J. Kollár. *Subadditivity of the Kodaira dimension: fibers of general type.* Advanced Studies in Pure Mathematics **10** (1987), 361–398.
 - **[SOTA / Recent]** C. Birkar. *The Iitaka conjecture $C_{n,m}$ in dimension six.* Compositio Mathematica **145** (2009), 1442–1446.
 - **[SOTA / Recent]** J. Cao, M. Păun. *Kodaira dimension of algebraic fiber spaces over abelian varieties.* Inventiones Mathematicae **207** (2017), 345–387.
 - **[SOTA / Recent]** C. Hacon, M. Popa, C. Schnell. *Algebraic fiber spaces over abelian varieties: around a recent theorem by Cao and Păun.* Contemporary Mathematics **712**, AMS, 2018, 143–195.
-- **[SOTA / Recent]** J. Cao. *Kodaira dimension of algebraic fiber spaces over surfaces.* Algebraic Geometry **5** (2018), 728–741.
+- **[SOTA / Recent]** J. Cao. *Kodaira dimension of algebraic fiber spaces over surfaces.* Algebraic Geometry **5** (2018), 728–741. [DOI](https://doi.org/10.14231/ag-2018-020)
 - **[SOTA / Recent]** Y. Chen, L. Zhang. *The subadditivity of the Kodaira dimension for fibrations of relative dimension one in positive characteristics.* Mathematical Research Letters **22** (2015), 675–696.
 - **[Survey]** O. Fujino. *Iitaka conjecture — An introduction.* SpringerBriefs in Mathematics, Springer, 2020.
 - **[Survey]** M. Popa. *D-modules in birational geometry.* Proceedings of the ICM 2018, Vol. II, 781–806.

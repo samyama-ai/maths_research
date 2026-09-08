@@ -99,18 +99,18 @@ The precise missing step is an **inductive Isaacs–Navarro condition** for a si
 
 ## 9. Key References
 
-- **[Foundational]** I. M. Isaacs, G. Navarro. *New refinements of the McKay conjecture for arbitrary finite groups.* Annals of Mathematics (2) **156** (2002), 333–344.
-- **[Foundational]** J. McKay. *Irreducible representations of odd degree.* Journal of Algebra **20** (1972), 416–418.
+- **[Foundational]** I. M. Isaacs, G. Navarro. *New refinements of the McKay conjecture for arbitrary finite groups.* Annals of Mathematics (2) **156** (2002), 333–344. [DOI](https://doi.org/10.2307/3597192)
+- **[Foundational]** J. McKay. *Irreducible representations of odd degree.* Journal of Algebra **20** (1972), 416–418. [DOI](https://doi.org/10.1016/0021-8693(72)90066-x)
 - **[Foundational]** I. M. Isaacs. *Character Theory of Finite Groups.* Academic Press, 1976 (reprinted AMS Chelsea, 2006).
-- **[Structural]** I. M. Isaacs, G. Malle, G. Navarro. *A reduction theorem for the McKay conjecture.* Inventiones Mathematicae **170** (2007), 33–101.
-- **[Related refinement]** G. Navarro. *The McKay conjecture and Galois automorphisms.* Annals of Mathematics (2) **160** (2004), 1129–1140.
-- **[Related refinement]** A. Turull. *Strengthening the McKay conjecture to include local fields and local Schur indices.* Journal of Algebra **319** (2008), 4853–4868.
-- **[SOTA]** G. Malle, B. Späth. *Characters of odd degree.* Annals of Mathematics (2) **184** (2016), 869–908.
-- **[SOTA]** B. Späth. *A reduction theorem for the Alperin–McKay conjecture.* Journal für die reine und angewandte Mathematik **680** (2013), 153–189.
+- **[Structural]** I. M. Isaacs, G. Malle, G. Navarro. *A reduction theorem for the McKay conjecture.* Inventiones Mathematicae **170** (2007), 33–101. [DOI](https://doi.org/10.1007/s00222-007-0057-y)
+- **[Related refinement]** G. Navarro. *The McKay conjecture and Galois automorphisms.* Annals of Mathematics (2) **160** (2004), 1129–1140. [DOI](https://doi.org/10.4007/annals.2004.160.1129)
+- **[Related refinement]** A. Turull. *Strengthening the McKay conjecture to include local fields and local Schur indices.* Journal of Algebra **319** (2008), 4853–4868. [DOI](https://doi.org/10.1016/j.jalgebra.2005.12.035)
+- **[SOTA]** G. Malle, B. Späth. *Characters of odd degree.* Annals of Mathematics (2) **184** (2016), 869–908. [DOI](https://doi.org/10.4007/annals.2016.184.3.6)
+- **[SOTA]** B. Späth. *A reduction theorem for the Alperin–McKay conjecture.* Journal für die reine und angewandte Mathematik **680** (2013), 153–189. [DOI](https://doi.org/10.1515/crelle.2012.035)
 - **[SOTA / frontier]** M. Cabanes, B. Späth. *The McKay Conjecture on character degrees.* Preprint, arXiv:2410.20392 (2024).
 - **[Survey]** G. Navarro. *Character Theory and the McKay Conjecture.* Cambridge Studies in Advanced Mathematics **175**, Cambridge University Press, 2018.
-- **[Survey]** G. Malle. *Height 0 characters of finite groups of Lie type.* Representation Theory **11** (2007), 192–220.
-- **[Background]** I. G. Macdonald. *On the degrees of the irreducible representations of symmetric groups.* Bulletin of the London Mathematical Society **3** (1971), 189–192.
+- **[Survey]** G. Malle. *Height 0 characters of finite groups of Lie type.* Representation Theory **11** (2007), 192–220. [DOI](https://doi.org/10.1090/s1088-4165-07-00312-3)
+- **[Background]** I. G. Macdonald. *On the degrees of the irreducible representations of symmetric groups.* Bulletin of the London Mathematical Society **3** (1971), 189–192. [DOI](https://doi.org/10.1112/blms/3.2.189)
 
 ## 10. Worked Example / Concrete Special Case
 

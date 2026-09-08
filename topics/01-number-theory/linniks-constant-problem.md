@@ -89,9 +89,9 @@ Leading analytic number theorists point toward the following strategies:
 ## 9. Key References
 
 - **[Foundational]** Linnik, U. V. *On the least prime in an arithmetic progression I. The basic theorem*. Rec. Math. (Mat. Sbornik) N.S., 15 (57), 139-178, 1944.
-- **[Foundational]** Heath-Brown, D. R. *Zero-free regions for Dirichlet L-functions, and the least prime in an arithmetic progression*. Proc. London Math. Soc., 64 (2): 265-338, 1992.
-- **[SOTA / Recent]** Xylouris, T. *On the least prime in an arithmetic progression and estimates for the zeros of Dirichlet L-functions*. Acta Arithmetica, 150 (1): 65-91, 2011.
-- **[Survey]** Friedlander, J. B., & Iwaniec, H. *Opera de Cribro*. American Mathematical Society (Colloquium Publications Vol. 57), 2010.
+- **[Foundational]** Heath-Brown, D. R. *Zero-free regions for Dirichlet L-functions, and the least prime in an arithmetic progression*. Proc. London Math. Soc., 64 (2): 265-338, 1992. [DOI](https://doi.org/10.1112/plms/s3-64.2.265)
+- **[SOTA / Recent]** Xylouris, T. *On the least prime in an arithmetic progression and estimates for the zeros of Dirichlet L-functions*. Acta Arithmetica, 150 (1): 65-91, 2011. [DOI](https://doi.org/10.4064/aa150-1-4)
+- **[Survey]** Friedlander, J. B., & Iwaniec, H. *Opera de Cribro*. American Mathematical Society (Colloquium Publications Vol. 57), 2010. [DOI](https://doi.org/10.1090/coll/057)
 
 ## 10. Worked Example / Concrete Special Case
 

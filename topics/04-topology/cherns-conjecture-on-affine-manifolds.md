@@ -113,19 +113,19 @@ The general statement has none of these. The precise missing step: **show that t
 ## 9. Key References
 
 - **[Foundational]** S.-S. Chern. *The geometry of $G$-structures.* Bulletin of the American Mathematical Society **72** (1966), 167–219.
-- **[Foundational]** J.-P. Benzécri. *Sur les variétés localement affines et localement projectives.* Bulletin de la Société Mathématique de France **88** (1960), 229–332.
-- **[Foundational]** J. Milnor. *On the existence of a connection with curvature zero.* Commentarii Mathematici Helvetici **32** (1958), 215–223.
-- **[Foundational]** J. W. Wood. *Bundles with totally disconnected structure group.* Commentarii Mathematici Helvetici **46** (1971), 257–273.
-- **[Foundational]** B. Kostant and D. Sullivan. *The Euler characteristic of an affine space form is zero.* Bulletin of the American Mathematical Society **81** (1975), 937–938.
-- **[Foundational]** M. Hirsch and W. Thurston. *Foliated bundles, invariant measures and flat manifolds.* Annals of Mathematics **101** (1975), 369–390.
-- **[Foundational]** D. Sullivan. *A generalization of Milnor's inequality concerning affine foliations and affine manifolds.* Commentarii Mathematici Helvetici **51** (1976), 183–189.
-- **[Foundational]** J. Smillie. *Flat manifolds with non-zero Euler characteristics.* Commentarii Mathematici Helvetici **52** (1977), 453–455.
-- **[Foundational]** W. Goldman and M. Hirsch. *The radiance obstruction and parallel forms on affine manifolds.* Transactions of the American Mathematical Society **286** (1984), 629–649.
-- **[Foundational]** D. Fried, W. Goldman and M. Hirsch. *Affine manifolds with nilpotent holonomy.* Commentarii Mathematici Helvetici **56** (1981), 487–523.
-- **[SOTA / Recent]** B. Klingler. *Chern's conjecture for special affine manifolds.* Annals of Mathematics (2) **186** (2017), 69–95.
-- **[SOTA / Recent]** M. Bucher and T. Gelander. *The generalized Chern conjecture for manifolds that are locally a product of surfaces.* Advances in Mathematics **228** (2011), 1503–1542.
-- **[Survey]** W. Goldman. *Geometric structures on manifolds and varieties of representations.* In *Geometry of Group Representations*, Contemporary Mathematics **74**, AMS, 1988, 169–198.
-- **[Survey]** J. Milnor. *On fundamental groups of complete affinely flat manifolds.* Advances in Mathematics **25** (1977), 178–187.
+- **[Foundational]** J.-P. Benzécri. *Sur les variétés localement affines et localement projectives.* Bulletin de la Société Mathématique de France **88** (1960), 229–332. [DOI](https://doi.org/10.24033/bsmf.1551)
+- **[Foundational]** J. Milnor. *On the existence of a connection with curvature zero.* Commentarii Mathematici Helvetici **32** (1958), 215–223. [DOI](https://doi.org/10.1007/bf02564579)
+- **[Foundational]** J. W. Wood. *Bundles with totally disconnected structure group.* Commentarii Mathematici Helvetici **46** (1971), 257–273. [DOI](https://doi.org/10.1007/bf02566843)
+- **[Foundational]** B. Kostant and D. Sullivan. *The Euler characteristic of an affine space form is zero.* Bulletin of the American Mathematical Society **81** (1975), 937–938. [DOI](https://doi.org/10.1090/s0002-9904-1975-13896-1)
+- **[Foundational]** M. Hirsch and W. Thurston. *Foliated bundles, invariant measures and flat manifolds.* Annals of Mathematics **101** (1975), 369–390. [DOI](https://doi.org/10.1007/bfb0082577)
+- **[Foundational]** D. Sullivan. *A generalization of Milnor's inequality concerning affine foliations and affine manifolds.* Commentarii Mathematici Helvetici **51** (1976), 183–189. [DOI](https://doi.org/10.1007/bf02568150)
+- **[Foundational]** J. Smillie. *Flat manifolds with non-zero Euler characteristics.* Commentarii Mathematici Helvetici **52** (1977), 453–455. [DOI](https://doi.org/10.1007/bf02567378)
+- **[Foundational]** W. Goldman and M. Hirsch. *The radiance obstruction and parallel forms on affine manifolds.* Transactions of the American Mathematical Society **286** (1984), 629–649. [DOI](https://doi.org/10.1090/s0002-9947-1984-0760977-7)
+- **[Foundational]** D. Fried, W. Goldman and M. Hirsch. *Affine manifolds with nilpotent holonomy.* Commentarii Mathematici Helvetici **56** (1981), 487–523. [DOI](https://doi.org/10.1007/bf02566225)
+- **[SOTA / Recent]** B. Klingler. *Chern's conjecture for special affine manifolds.* Annals of Mathematics (2) **186** (2017), 69–95. [DOI](https://doi.org/10.4007/annals.2017.186.1.2)
+- **[SOTA / Recent]** M. Bucher and T. Gelander. *The generalized Chern conjecture for manifolds that are locally a product of surfaces.* Advances in Mathematics **228** (2011), 1503–1542. [DOI](https://doi.org/10.1016/j.aim.2011.06.022)
+- **[Survey]** W. Goldman. *Geometric structures on manifolds and varieties of representations.* In *Geometry of Group Representations*, Contemporary Mathematics **74**, AMS, 1988, 169–198. [DOI](https://doi.org/10.1090/conm/074/957518)
+- **[Survey]** J. Milnor. *On fundamental groups of complete affinely flat manifolds.* Advances in Mathematics **25** (1977), 178–187. [DOI](https://doi.org/10.1016/0001-8708(77)90004-4)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -108,23 +108,23 @@ Missing: a mechanism that produces a $\mathbb{Q}$-rational point on $\mathcal{H}
 
 ## 9. Key References
 
-- **[Foundational]** D. Hilbert. *Ueber die Irreducibilität ganzer rationaler Functionen mit ganzzahligen Coefficienten.* Journal für die reine und angewandte Mathematik **110** (1892), 104–129.
+- **[Foundational]** D. Hilbert. *Ueber die Irreducibilität ganzer rationaler Functionen mit ganzzahligen Coefficienten.* Journal für die reine und angewandte Mathematik **110** (1892), 104–129. [DOI](https://doi.org/10.1515/crll.1892.110.104)
 - **[Foundational]** I. R. Shafarevich. *Construction of fields of algebraic numbers with given solvable Galois group.* Izvestiya Akad. Nauk SSSR Ser. Mat. **18** (1954), 525–578.
-- **[Foundational]** G. V. Belyi. *On Galois extensions of a maximal cyclotomic field.* Izvestiya Akad. Nauk SSSR Ser. Mat. **43** (1979), 267–276.
+- **[Foundational]** G. V. Belyi. *On Galois extensions of a maximal cyclotomic field.* Izvestiya Akad. Nauk SSSR Ser. Mat. **43** (1979), 267–276. [DOI](https://doi.org/10.1070/im1980v014n02abeh001096)
 - **[Foundational]** J. G. Thompson. *Some finite groups which appear as $\mathrm{Gal}(L/K)$, where $K \subseteq \mathbb{Q}(\mu_n)$.* Journal of Algebra **89** (1984), 437–499.
-- **[Foundational]** K.-y. Shih. *On the construction of Galois extensions of function fields and number fields.* Mathematische Annalen **207** (1974), 99–120.
+- **[Foundational]** K.-y. Shih. *On the construction of Galois extensions of function fields and number fields.* Mathematische Annalen **207** (1974), 99–120. [DOI](https://doi.org/10.1007/bf01362150)
 - **[Survey]** J.-P. Serre. *Topics in Galois Theory.* Jones and Bartlett, 1992 (2nd ed., A K Peters, 2008).
-- **[Survey]** G. Malle and B. H. Matzat. *Inverse Galois Theory.* Springer Monographs in Mathematics, 1999; 2nd edition, Springer, 2018.
+- **[Survey]** G. Malle and B. H. Matzat. *Inverse Galois Theory.* Springer Monographs in Mathematics, 1999; 2nd edition, Springer, 2018. [DOI](https://doi.org/10.1007/978-3-662-12123-8)
 - **[Survey]** H. Völklein. *Groups as Galois Groups: An Introduction.* Cambridge Studies in Advanced Mathematics 53, Cambridge University Press, 1996.
 - **[Survey]** M. D. Fried and M. Jarden. *Field Arithmetic.* Ergebnisse der Mathematik, 3rd edition, Springer, 2008.
 - **[SOTA]** M. Raynaud. *Revêtements de la droite affine en caractéristique $p>0$ et conjecture d'Abhyankar.* Inventiones Mathematicae **116** (1994), 425–462.
-- **[SOTA]** D. Harbater. *Abhyankar's conjecture on Galois groups over curves.* Inventiones Mathematicae **117** (1994), 1–25.
-- **[SOTA]** F. Pop. *Étale Galois covers of affine smooth curves.* Inventiones Mathematicae **120** (1995), 555–578.
-- **[SOTA]** M. D. Fried and H. Völklein. *The inverse Galois problem and rational points on moduli spaces.* Mathematische Annalen **290** (1991), 771–800.
-- **[SOTA]** C. Khare, M. Larsen and G. Savin. *Functoriality and the inverse Galois problem.* Compositio Mathematica **144** (2008), 541–564.
+- **[SOTA]** D. Harbater. *Abhyankar's conjecture on Galois groups over curves.* Inventiones Mathematicae **117** (1994), 1–25. [DOI](https://doi.org/10.1007/bf01232232)
+- **[SOTA]** F. Pop. *Étale Galois covers of affine smooth curves.* Inventiones Mathematicae **120** (1995), 555–578. [DOI](https://doi.org/10.1007/bf01241142)
+- **[SOTA]** M. D. Fried and H. Völklein. *The inverse Galois problem and rational points on moduli spaces.* Mathematische Annalen **290** (1991), 771–800. [DOI](https://doi.org/10.1007/bf01459271)
+- **[SOTA]** C. Khare, M. Larsen and G. Savin. *Functoriality and the inverse Galois problem.* Compositio Mathematica **144** (2008), 541–564. [DOI](https://doi.org/10.1112/s0010437x07003284)
 - **[SOTA]** L. Dieulefait and G. Wiese. *On modular forms and the inverse Galois problem.* Transactions of the American Mathematical Society **363** (2011), 4569–4584.
-- **[SOTA]** J. S. Ellenberg, A. Venkatesh and C. Westerland. *Homological stability for Hurwitz spaces and the Cohen–Lenstra conjecture over function fields.* Annals of Mathematics **183** (2016), 729–786.
-- **[Computational]** J. Klüners and G. Malle. *A database for field extensions of the rationals.* LMS Journal of Computation and Mathematics **4** (2001), 182–196.
+- **[SOTA]** J. S. Ellenberg, A. Venkatesh and C. Westerland. *Homological stability for Hurwitz spaces and the Cohen–Lenstra conjecture over function fields.* Annals of Mathematics **183** (2016), 729–786. [DOI](https://doi.org/10.4007/annals.2016.183.3.1)
+- **[Computational]** J. Klüners and G. Malle. *A database for field extensions of the rationals.* LMS Journal of Computation and Mathematics **4** (2001), 182–196. [DOI](https://doi.org/10.1112/s1461157000000851)
 - **[Computational]** J. Klüners. *A counterexample to Malle's conjecture on the asymptotics of discriminants.* Comptes Rendus Mathématique, Académie des Sciences Paris **340** (2005), 411–414.
 
 ## 10. Worked Example / Concrete Special Case

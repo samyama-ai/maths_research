@@ -108,18 +108,18 @@ The precise missing step is a *virtual* wall-crossing formula: an identity compa
 
 ## 9. Key References
 
-- **[Foundational]** R. Pandharipande, R. P. Thomas. *Curve counting via stable pairs in the derived category.* Inventiones Mathematicae 178 (2009), 407–447.
-- **[Foundational]** R. Pandharipande, R. P. Thomas. *Stable pairs and BPS invariants.* Journal of the AMS 23 (2010), 267–297.
-- **[Foundational]** D. Maulik, N. Nekrasov, A. Okounkov, R. Pandharipande. *Gromov–Witten theory and Donaldson–Thomas theory, I and II.* Compositio Mathematica 142 (2006), 1263–1285 and 1286–1304.
+- **[Foundational]** R. Pandharipande, R. P. Thomas. *Curve counting via stable pairs in the derived category.* Inventiones Mathematicae 178 (2009), 407–447. [DOI](https://doi.org/10.1007/s00222-009-0203-9)
+- **[Foundational]** R. Pandharipande, R. P. Thomas. *Stable pairs and BPS invariants.* Journal of the AMS 23 (2010), 267–297. [DOI](https://doi.org/10.1090/s0894-0347-09-00646-8)
+- **[Foundational]** D. Maulik, N. Nekrasov, A. Okounkov, R. Pandharipande. *Gromov–Witten theory and Donaldson–Thomas theory, I and II.* Compositio Mathematica 142 (2006), 1263–1285 and 1286–1304. [DOI](https://doi.org/10.1112/s0010437x06002314)
 - **[SOTA / Recent]** J. Pardon. *Universally counting curves in Calabi–Yau threefolds.* arXiv:2308.14432, 2023.
-- **[SOTA]** T. Bridgeland. *Hall algebras and curve-counting invariants.* Journal of the AMS 24 (2011), 969–998.
-- **[SOTA]** Y. Toda. *Curve counting theories via stable objects I: DT/PT correspondence.* Journal of the AMS 23 (2010), 1119–1157.
-- **[SOTA]** D. Maulik, A. Oblomkov, A. Okounkov, R. Pandharipande. *Gromov–Witten/Donaldson–Thomas correspondence for toric 3-folds.* Inventiones Mathematicae 186 (2011), 435–479.
-- **[SOTA]** R. Pandharipande, A. Pixton. *Gromov–Witten/Pairs correspondence for the quintic 3-fold.* Journal of the AMS 30 (2017), 389–449.
-- **[SOTA]** J. Stoppa, R. P. Thomas. *Hilbert schemes and stable pairs: GIT and derived category wall crossings.* Bulletin de la SMF 139 (2011), 297–339.
-- **[Recent]** Y. Cao, D. Maulik, Y. Toda. *Stable pairs and Gopakumar–Vafa type invariants for Calabi–Yau 4-folds.* Journal of the EMS 24 (2022), 527–581.
-- **[Survey]** R. Pandharipande, R. P. Thomas. *13/2 ways of counting curves.* In *Moduli Spaces*, LMS Lecture Note Series 411, Cambridge University Press, 2014, 282–333.
-- **[Survey]** R. Pandharipande. *Descendents for stable pairs on 3-folds.* In *Modern Geometry: A Celebration of the Work of Simon Donaldson*, Proc. Sympos. Pure Math. 99, AMS, 2018.
+- **[SOTA]** T. Bridgeland. *Hall algebras and curve-counting invariants.* Journal of the AMS 24 (2011), 969–998. [DOI](https://doi.org/10.1090/s0894-0347-2011-00701-7)
+- **[SOTA]** Y. Toda. *Curve counting theories via stable objects I: DT/PT correspondence.* Journal of the AMS 23 (2010), 1119–1157. [DOI](https://doi.org/10.1090/s0894-0347-10-00670-3)
+- **[SOTA]** D. Maulik, A. Oblomkov, A. Okounkov, R. Pandharipande. *Gromov–Witten/Donaldson–Thomas correspondence for toric 3-folds.* Inventiones Mathematicae 186 (2011), 435–479. [DOI](https://doi.org/10.1007/s00222-011-0322-y)
+- **[SOTA]** R. Pandharipande, A. Pixton. *Gromov–Witten/Pairs correspondence for the quintic 3-fold.* Journal of the AMS 30 (2017), 389–449. [DOI](https://doi.org/10.1090/jams/858)
+- **[SOTA]** J. Stoppa, R. P. Thomas. *Hilbert schemes and stable pairs: GIT and derived category wall crossings.* Bulletin de la SMF 139 (2011), 297–339. [DOI](https://doi.org/10.24033/bsmf.2610)
+- **[Recent]** Y. Cao, D. Maulik, Y. Toda. *Stable pairs and Gopakumar–Vafa type invariants for Calabi–Yau 4-folds.* Journal of the EMS 24 (2022), 527–581. [DOI](https://doi.org/10.4171/jems/1110)
+- **[Survey]** R. Pandharipande, R. P. Thomas. *13/2 ways of counting curves.* In *Moduli Spaces*, LMS Lecture Note Series 411, Cambridge University Press, 2014, 282–333. [DOI](https://doi.org/10.1017/cbo9781107279544.007)
+- **[Survey]** R. Pandharipande. *Descendents for stable pairs on 3-folds.* In *Modern Geometry: A Celebration of the Work of Simon Donaldson*, Proc. Sympos. Pure Math. 99, AMS, 2018. [DOI](https://doi.org/10.1090/pspum/099/01743)
 
 ## 10. Worked Example / Concrete Special Case
 

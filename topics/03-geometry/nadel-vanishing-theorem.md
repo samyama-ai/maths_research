@@ -108,16 +108,16 @@ stabilize to zero for $q>n-\operatorname{nd}(L,h)$, with an $\varepsilon$-unifor
 
 ## 9. Key References
 
-- **[Foundational]** A. M. Nadel. *Multiplier ideal sheaves and Kähler–Einstein metrics of positive scalar curvature.* Annals of Mathematics **132** (1990), 549–596. (Announcement: Proc. Nat. Acad. Sci. USA **86** (1989), 7299–7300.)
+- **[Foundational]** A. M. Nadel. *Multiplier ideal sheaves and Kähler–Einstein metrics of positive scalar curvature.* Annals of Mathematics **132** (1990), 549–596. (Announcement: Proc. Nat. Acad. Sci. USA **86** (1989), 7299–7300.). [DOI](https://doi.org/10.1073/pnas.86.19.7299)
 - **[Foundational]** L. Hörmander. *$L^2$ estimates and existence theorems for the $\bar\partial$ operator.* Acta Mathematica **113** (1965), 89–152.
 - **[Foundational]** J.-P. Demailly. *Regularization of closed positive currents and intersection theory.* Journal of Algebraic Geometry **1** (1992), 361–409.
 - **[Book]** J.-P. Demailly. *Analytic Methods in Algebraic Geometry.* Surveys of Modern Mathematics **1**, Higher Education Press / International Press, 2012.
 - **[Book]** R. Lazarsfeld. *Positivity in Algebraic Geometry II: Positivity for Vector Bundles, and Multiplier Ideals.* Ergebnisse der Mathematik **49**, Springer, 2004.
-- **[SOTA]** Q. Guan, X. Zhou. *A proof of Demailly's strong openness conjecture.* Annals of Mathematics **182** (2015), 605–616.
-- **[SOTA]** J. Cao. *Numerical dimension and a Kawamata–Viehweg–Nadel-type vanishing theorem on compact Kähler manifolds.* Compositio Mathematica **150** (2014), 1869–1902.
-- **[SOTA]** S. Matsumura. *A Nadel vanishing theorem via injectivity theorems.* Mathematische Annalen **359** (2014), 785–802.
-- **[SOTA]** S. Matsumura. *A Nadel vanishing theorem for metrics with minimal singularities on big line bundles.* Advances in Mathematics **280** (2015), 188–207.
-- **[Context]** J.-P. Demailly, T. Peternell, M. Schneider. *Pseudo-effective line bundles on compact Kähler manifolds.* International Journal of Mathematics **12** (2001), 689–741.
+- **[SOTA]** Q. Guan, X. Zhou. *A proof of Demailly's strong openness conjecture.* Annals of Mathematics **182** (2015), 605–616. [DOI](https://doi.org/10.4007/annals.2015.182.2.5)
+- **[SOTA]** J. Cao. *Numerical dimension and a Kawamata–Viehweg–Nadel-type vanishing theorem on compact Kähler manifolds.* Compositio Mathematica **150** (2014), 1869–1902. [DOI](https://doi.org/10.1112/s0010437x14007398)
+- **[SOTA]** S. Matsumura. *A Nadel vanishing theorem via injectivity theorems.* Mathematische Annalen **359** (2014), 785–802. [DOI](https://doi.org/10.1007/s00208-014-1018-6)
+- **[SOTA]** S. Matsumura. *A Nadel vanishing theorem for metrics with minimal singularities on big line bundles.* Advances in Mathematics **280** (2015), 188–207. [DOI](https://doi.org/10.1016/j.aim.2015.03.019)
+- **[Context]** J.-P. Demailly, T. Peternell, M. Schneider. *Pseudo-effective line bundles on compact Kähler manifolds.* International Journal of Mathematics **12** (2001), 689–741. [DOI](https://doi.org/10.1142/s0129167x01000861)
 - **[Counterexample]** M. Raynaud. *Contre-exemple au "vanishing theorem" en caractéristique $p>0$.* In *C. P. Ramanujam — A Tribute*, Tata Institute Studies in Mathematics **8**, Springer, 1978, 273–278.
 - **[Survey]** O. Fujino. *Injectivity theorems.* In *Higher Dimensional Algebraic Geometry*, Advanced Studies in Pure Mathematics **74**, Mathematical Society of Japan, 2017, 131–157.
 

@@ -107,19 +107,19 @@ Proven: existence of $\mathcal{U}$ over $\mathbb{R}$ (and $\mathbb{Q}$-algebras 
 
 ## 9. Key References
 
-- **[Foundational]** M. Kontsevich. *Deformation quantization of Poisson manifolds.* Letters in Mathematical Physics **66** (2003), 157–216. (arXiv:q-alg/9709040, 1997)
+- **[Foundational]** M. Kontsevich. *Deformation quantization of Poisson manifolds.* Letters in Mathematical Physics **66** (2003), 157–216. (arXiv:q-alg/9709040, 1997). [DOI](https://doi.org/10.1023/b:math.0000027508.00421.bf)
 - **[Foundational]** F. Bayen, M. Flato, C. Fronsdal, A. Lichnerowicz, D. Sternheimer. *Deformation theory and quantization I, II.* Annals of Physics **111** (1978), 61–110, 111–151.
-- **[Foundational]** B. Fedosov. *A simple geometrical construction of deformation quantization.* Journal of Differential Geometry **40** (1994), 213–238.
+- **[Foundational]** B. Fedosov. *A simple geometrical construction of deformation quantization.* Journal of Differential Geometry **40** (1994), 213–238. [DOI](https://doi.org/10.4310/jdg/1214455536)
 - **[Alternative proof]** D. Tamarkin. *Another proof of M. Kontsevich formality theorem.* arXiv:math/9803025 (1998); and *Formality of chain operad of little discs*, Lett. Math. Phys. **66** (2003), 65–72.
-- **[Physics interpretation]** A. S. Cattaneo, G. Felder. *A path integral approach to the Kontsevich quantization formula.* Communications in Mathematical Physics **212** (2000), 591–611.
-- **[Globalization]** A. S. Cattaneo, G. Felder, L. Tomassini. *From local to global deformation quantization of Poisson manifolds.* Duke Mathematical Journal **115** (2002), 329–352.
-- **[Globalization / equivariance]** V. Dolgushev. *Covariant and equivariant formality theorems.* Advances in Mathematics **191** (2005), 147–177.
-- **[Chains]** B. Shoikhet. *A proof of the Tsygan formality conjecture for chains.* Advances in Mathematics **179** (2003), 7–37.
-- **[SOTA]** T. Willwacher. *M. Kontsevich's graph complex and the Grothendieck–Teichmüller Lie algebra.* Inventiones Mathematicae **200** (2015), 671–760.
-- **[SOTA]** P. Banks, E. Panzer, B. Pym. *Multiple zeta values in deformation quantization.* Inventiones Mathematicae **222** (2020), 79–159.
-- **[SOTA]** A. Alekseev, C. Torossian. *The Kashiwara–Vergne conjecture and Drinfeld's associators.* Annals of Mathematics **175** (2012), 415–463.
+- **[Physics interpretation]** A. S. Cattaneo, G. Felder. *A path integral approach to the Kontsevich quantization formula.* Communications in Mathematical Physics **212** (2000), 591–611. [DOI](https://doi.org/10.1007/s002200000229)
+- **[Globalization]** A. S. Cattaneo, G. Felder, L. Tomassini. *From local to global deformation quantization of Poisson manifolds.* Duke Mathematical Journal **115** (2002), 329–352. [DOI](https://doi.org/10.1215/s0012-7094-02-11524-5)
+- **[Globalization / equivariance]** V. Dolgushev. *Covariant and equivariant formality theorems.* Advances in Mathematics **191** (2005), 147–177. [DOI](https://doi.org/10.1016/s0001-8708(04)00076-3)
+- **[Chains]** B. Shoikhet. *A proof of the Tsygan formality conjecture for chains.* Advances in Mathematics **179** (2003), 7–37. [DOI](https://doi.org/10.1016/s0001-8708(02)00023-3)
+- **[SOTA]** T. Willwacher. *M. Kontsevich's graph complex and the Grothendieck–Teichmüller Lie algebra.* Inventiones Mathematicae **200** (2015), 671–760. [DOI](https://doi.org/10.1007/s00222-014-0528-x)
+- **[SOTA]** P. Banks, E. Panzer, B. Pym. *Multiple zeta values in deformation quantization.* Inventiones Mathematicae **222** (2020), 79–159. [DOI](https://doi.org/10.1007/s00222-020-00970-x)
+- **[SOTA]** A. Alekseev, C. Torossian. *The Kashiwara–Vergne conjecture and Drinfeld's associators.* Annals of Mathematics **175** (2012), 415–463. [DOI](https://doi.org/10.4007/annals.2012.175.2.1)
 - **[Survey]** S. Gutt. *Deformation quantisation of Poisson manifolds.* Geometry & Topology Monographs **17** (2011), 171–220.
-- **[Survey]** A. Cattaneo, D. Indelicato. *Formality and star products.* In *Poisson Geometry, Deformation Quantisation and Group Representations*, LMS Lecture Note Series 323, CUP, 2005.
+- **[Survey]** A. Cattaneo, D. Indelicato. *Formality and star products.* In *Poisson Geometry, Deformation Quantisation and Group Representations*, LMS Lecture Note Series 323, CUP, 2005. [DOI](https://doi.org/10.1017/cbo9780511734878.008)
 
 ## 10. Worked Example / Concrete Special Case
 

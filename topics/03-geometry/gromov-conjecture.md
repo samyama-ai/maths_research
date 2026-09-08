@@ -104,17 +104,17 @@ The precise missing step is a mechanism converting a **genus-$g$ orientable fill
 
 ## 9. Key References
 
-- **[Foundational]** M. Gromov. *Filling Riemannian manifolds.* Journal of Differential Geometry **18** (1983), 1–147.
-- **[Foundational]** P. M. Pu. *Some inequalities in certain nonorientable Riemannian manifolds.* Pacific Journal of Mathematics **2** (1952), 55–71.
-- **[SOTA]** V. Bangert, C. Croke, S. Ivanov, M. Katz. *Filling area conjecture and ovalless real hyperelliptic surfaces.* Geometric and Functional Analysis (GAFA) **15** (2005), 577–597.
-- **[SOTA]** S. Ivanov. *Filling minimality of Finslerian 2-discs.* Proceedings of the Steklov Institute of Mathematics **273** (2011), 176–190.
-- **[SOTA]** D. Burago, S. Ivanov. *Boundary rigidity and filling volume minimality of metrics close to a flat one.* Annals of Mathematics **171** (2010), 1183–1211.
-- **[SOTA / Recent]** M. Cossarini, S. Sabourau. *Minimal area of Finsler disks with minimizing geodesics.* Journal of the European Mathematical Society, 2023.
-- **[Related]** C. Croke. *Rigidity and the distance between boundary points.* Journal of Differential Geometry **33** (1991), 445–464.
-- **[Related]** P. Stefanov, G. Uhlmann, A. Vasy. *Local and global boundary rigidity and the geodesic X-ray transform in the normal gauge.* Annals of Mathematics **194** (2021), 1–95.
+- **[Foundational]** M. Gromov. *Filling Riemannian manifolds.* Journal of Differential Geometry **18** (1983), 1–147. [DOI](https://doi.org/10.4310/jdg/1214509283)
+- **[Foundational]** P. M. Pu. *Some inequalities in certain nonorientable Riemannian manifolds.* Pacific Journal of Mathematics **2** (1952), 55–71. [DOI](https://doi.org/10.2140/pjm.1952.2.55)
+- **[SOTA]** V. Bangert, C. Croke, S. Ivanov, M. Katz. *Filling area conjecture and ovalless real hyperelliptic surfaces.* Geometric and Functional Analysis (GAFA) **15** (2005), 577–597. [DOI](https://doi.org/10.1007/s00039-005-0517-8)
+- **[SOTA]** S. Ivanov. *Filling minimality of Finslerian 2-discs.* Proceedings of the Steklov Institute of Mathematics **273** (2011), 176–190. [DOI](https://doi.org/10.1134/s0081543811040079)
+- **[SOTA]** D. Burago, S. Ivanov. *Boundary rigidity and filling volume minimality of metrics close to a flat one.* Annals of Mathematics **171** (2010), 1183–1211. [DOI](https://doi.org/10.4007/annals.2010.171.1183)
+- **[SOTA / Recent]** M. Cossarini, S. Sabourau. *Minimal area of Finsler disks with minimizing geodesics.* Journal of the European Mathematical Society, 2023. [DOI](https://doi.org/10.4171/jems/1339)
+- **[Related]** C. Croke. *Rigidity and the distance between boundary points.* Journal of Differential Geometry **33** (1991), 445–464. [DOI](https://doi.org/10.4310/jdg/1214446326)
+- **[Related]** P. Stefanov, G. Uhlmann, A. Vasy. *Local and global boundary rigidity and the geodesic X-ray transform in the normal gauge.* Annals of Mathematics **194** (2021), 1–95. [DOI](https://doi.org/10.4007/annals.2021.194.1.1)
 - **[Survey]** M. Katz. *Systolic Geometry and Topology.* Mathematical Surveys and Monographs **137**, American Mathematical Society, 2007.
-- **[Survey]** M. Gromov. *Metric Structures for Riemannian and Non-Riemannian Spaces.* Birkhäuser, 2007 (with appendices by M. Katz, P. Pansu, S. Semmes).
-- **[Survey]** L. Guth. *Notes on Gromov's systolic estimate.* Geometriae Dedicata **123** (2006), 113–129.
+- **[Survey]** M. Gromov. *Metric Structures for Riemannian and Non-Riemannian Spaces.* Birkhäuser, 2007 (with appendices by M. Katz, P. Pansu, S. Semmes). [DOI](https://doi.org/10.1007/978-0-8176-4583-0)
+- **[Survey]** L. Guth. *Notes on Gromov's systolic estimate.* Geometriae Dedicata **123** (2006), 113–129. [DOI](https://doi.org/10.1007/s10711-006-9111-y)
 
 ## 10. Worked Example / Concrete Special Case
 

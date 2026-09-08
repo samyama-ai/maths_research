@@ -106,21 +106,21 @@ The single technical step blocking (1) and (2) is the construction of pure-type 
 
 ## 9. Key References
 
-- **[Foundational]** C. Huneke, M. Miller. *A note on the multiplicity of Cohen–Macaulay algebras with pure resolutions.* Canadian Journal of Mathematics 37 (1985), 1149–1162.
+- **[Foundational]** C. Huneke, M. Miller. *A note on the multiplicity of Cohen–Macaulay algebras with pure resolutions.* Canadian Journal of Mathematics 37 (1985), 1149–1162. [DOI](https://doi.org/10.4153/cjm-1985-062-4)
 - **[Foundational]** J. Herzog, H. Srinivasan. *Bounds for multiplicities.* Transactions of the American Mathematical Society 350 (1998), 2879–2902.
-- **[SOTA]** D. Eisenbud, F.-O. Schreyer. *Betti numbers of graded modules and cohomology of vector bundles.* Journal of the American Mathematical Society 22 (2009), 859–888.
-- **[SOTA]** M. Boij, J. Söderberg. *Graded Betti numbers of Cohen–Macaulay modules and the multiplicity conjecture.* Journal of the London Mathematical Society (2) 78 (2008), 85–106.
-- **[SOTA]** M. Boij, J. Söderberg. *Betti numbers of graded modules and the multiplicity conjecture in the non-Cohen–Macaulay case.* Algebra & Number Theory 6 (2012), 437–454.
-- **[Partial]** J. Migliore, U. Nagel, T. Römer. *The multiplicity conjecture in low codimensions.* Mathematical Research Letters 12 (2005), 731–747.
-- **[Partial]** J. Migliore, U. Nagel, T. Römer. *Extensions of the multiplicity conjecture.* Transactions of the American Mathematical Society 360 (2008), 2965–2985.
+- **[SOTA]** D. Eisenbud, F.-O. Schreyer. *Betti numbers of graded modules and cohomology of vector bundles.* Journal of the American Mathematical Society 22 (2009), 859–888. [DOI](https://doi.org/10.1090/s0894-0347-08-00620-6)
+- **[SOTA]** M. Boij, J. Söderberg. *Graded Betti numbers of Cohen–Macaulay modules and the multiplicity conjecture.* Journal of the London Mathematical Society (2) 78 (2008), 85–106. [DOI](https://doi.org/10.1112/jlms/jdn013)
+- **[SOTA]** M. Boij, J. Söderberg. *Betti numbers of graded modules and the multiplicity conjecture in the non-Cohen–Macaulay case.* Algebra & Number Theory 6 (2012), 437–454. [DOI](https://doi.org/10.2140/ant.2012.6.437)
+- **[Partial]** J. Migliore, U. Nagel, T. Römer. *The multiplicity conjecture in low codimensions.* Mathematical Research Letters 12 (2005), 731–747. [DOI](https://doi.org/10.4310/mrl.2005.v12.n5.a10)
+- **[Partial]** J. Migliore, U. Nagel, T. Römer. *Extensions of the multiplicity conjecture.* Transactions of the American Mathematical Society 360 (2008), 2965–2985. [DOI](https://doi.org/10.1090/s0002-9947-07-04360-7)
 - **[Partial]** J. Herzog, X. Zheng. *Notes on the multiplicity conjecture.* Collectanea Mathematica 57 (2006), 211–226.
-- **[Partial]** T. Römer. *Note on bounds for multiplicities.* Journal of Pure and Applied Algebra 195 (2005), 113–123.
-- **[Partial]** C. Francisco. *New approaches to bounding the multiplicity of an ideal.* Journal of Algebra 299 (2006), 309–328.
-- **[Existence]** D. Eisenbud, G. Fløystad, J. Weyman. *The existence of equivariant pure free resolutions.* Annales de l'Institut Fourier 61 (2011), 905–926.
-- **[Survey]** C. Francisco, H. Srinivasan. *Multiplicity conjectures.* In *Syzygies and Hilbert Functions*, Lecture Notes in Pure and Applied Mathematics 254, Chapman & Hall/CRC, 2007, 145–178.
-- **[Survey]** G. Fløystad. *Boij–Söderberg theory: introduction and survey.* In *Progress in Commutative Algebra 1*, de Gruyter, 2012, 1–54.
-- **[Survey]** D. Eisenbud, F.-O. Schreyer. *Boij–Söderberg theory.* In *Combinatorial Aspects of Commutative Algebra and Algebraic Geometry*, Abel Symposia 6, Springer, 2011, 35–48.
-- **[Extension]** C. Berkesch, J. Burke, D. Erman, C. Gibbons. *The cone of Betti diagrams over a hypersurface ring of low embedding dimension.* Journal of Pure and Applied Algebra 216 (2012), 2256–2268.
+- **[Partial]** T. Römer. *Note on bounds for multiplicities.* Journal of Pure and Applied Algebra 195 (2005), 113–123. [DOI](https://doi.org/10.1016/j.jpaa.2004.05.008)
+- **[Partial]** C. Francisco. *New approaches to bounding the multiplicity of an ideal.* Journal of Algebra 299 (2006), 309–328. [DOI](https://doi.org/10.1016/j.jalgebra.2005.06.004)
+- **[Existence]** D. Eisenbud, G. Fløystad, J. Weyman. *The existence of equivariant pure free resolutions.* Annales de l'Institut Fourier 61 (2011), 905–926. [DOI](https://doi.org/10.5802/aif.2632)
+- **[Survey]** C. Francisco, H. Srinivasan. *Multiplicity conjectures.* In *Syzygies and Hilbert Functions*, Lecture Notes in Pure and Applied Mathematics 254, Chapman & Hall/CRC, 2007, 145–178. [DOI](https://doi.org/10.1201/9781420050912.ch5)
+- **[Survey]** G. Fløystad. *Boij–Söderberg theory: introduction and survey.* In *Progress in Commutative Algebra 1*, de Gruyter, 2012, 1–54. [DOI](https://doi.org/10.1515/9783110250404.1)
+- **[Survey]** D. Eisenbud, F.-O. Schreyer. *Boij–Söderberg theory.* In *Combinatorial Aspects of Commutative Algebra and Algebraic Geometry*, Abel Symposia 6, Springer, 2011, 35–48. [DOI](https://doi.org/10.1007/978-3-642-19492-4_3)
+- **[Extension]** C. Berkesch, J. Burke, D. Erman, C. Gibbons. *The cone of Betti diagrams over a hypersurface ring of low embedding dimension.* Journal of Pure and Applied Algebra 216 (2012), 2256–2268. [DOI](https://doi.org/10.1016/j.jpaa.2012.03.007)
 
 ## 10. Worked Example / Concrete Special Case
 

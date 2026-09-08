@@ -88,7 +88,7 @@ Leading mathematicians suggest the following pathways:
 ## 9. Key References
 
 - **[Foundational]** Cassels, J. W. S., & Swinnerton-Dyer, H. P. F. *On the product of three linear forms and a problem of Littlewood.* Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences, 1955.
-- **[SOTA / Recent]** Einsiedler, M., Katok, A., & Lindenstrauss, E. *Invariant measures and the set of exceptions to Littlewood's conjecture.* Annals of Mathematics, 2006.
+- **[SOTA / Recent]** Einsiedler, M., Katok, A., & Lindenstrauss, E. *Invariant measures and the set of exceptions to Littlewood's conjecture.* Annals of Mathematics, 2006. [DOI](https://doi.org/10.4007/annals.2006.164.513)
 - **[Foundational]** Gallagher, P. X. *Metric simultaneous diophantine approximation.* Journal of the London Mathematical Society, 1962.
 - **[Survey]** Einsiedler, M., & Lindenstrauss, E. *Diagonal actions on locally homogeneous spaces.* Homogeneous flows, moduli spaces and arithmetic, Clay Mathematics Proceedings, 2007.
 

@@ -104,17 +104,17 @@ The precise missing steps are:
 ## 9. Key References
 
 - **[Foundational]** M. F. Atiyah. *New invariants of 3- and 4-dimensional manifolds.* In *The Mathematical Heritage of Hermann Weyl*, Proc. Sympos. Pure Math. 48, AMS, 1988, 285–299.
-- **[Foundational]** A. Floer. *An instanton-invariant for 3-manifolds.* Communications in Mathematical Physics 118 (1988), 215–240.
-- **[Foundational]** A. Floer. *Morse theory for Lagrangian intersections.* Journal of Differential Geometry 28 (1988), 513–547.
-- **[Foundational]** M. S. Narasimhan, C. S. Seshadri. *Stable and unitary vector bundles on a compact Riemann surface.* Annals of Mathematics 82 (1965), 540–567.
-- **[Key result]** S. Dostoglou, D. A. Salamon. *Self-dual instantons and holomorphic curves.* Annals of Mathematics 139 (1994), 581–640.
-- **[Key result]** K. Wehrheim. *Anti-self-dual instantons with Lagrangian boundary conditions I: Elliptic theory.* Communications in Mathematical Physics 254 (2005), 45–89; *II: Bubbling.* Comm. Math. Phys. 258 (2005), 275–315.
-- **[Key result]** D. Salamon, K. Wehrheim. *Instanton Floer homology with Lagrangian boundary conditions.* Geometry & Topology 12 (2008), 747–918.
-- **[SOTA]** K. Wehrheim, C. T. Woodward. *Functoriality for Lagrangian correspondences in Floer theory.* Quantum Topology 1 (2010), 129–170.
-- **[SOTA]** C. Manolescu, C. Woodward. *Floer homology on the extended moduli space.* In *Perspectives in Analysis, Geometry, and Topology*, Progress in Mathematics 296, Birkhäuser, 2012, 283–329.
-- **[SOTA / Recent]** A. Daemi, K. Fukaya. *Atiyah–Floer conjecture: a formulation, a strategy of proof and generalizations.* In *Modern Geometry: A Celebration of the Work of Simon Donaldson*, Proc. Sympos. Pure Math. 99, AMS, 2018, 23–57.
+- **[Foundational]** A. Floer. *An instanton-invariant for 3-manifolds.* Communications in Mathematical Physics 118 (1988), 215–240. [DOI](https://doi.org/10.1007/bf01218578)
+- **[Foundational]** A. Floer. *Morse theory for Lagrangian intersections.* Journal of Differential Geometry 28 (1988), 513–547. [DOI](https://doi.org/10.4310/jdg/1214442477)
+- **[Foundational]** M. S. Narasimhan, C. S. Seshadri. *Stable and unitary vector bundles on a compact Riemann surface.* Annals of Mathematics 82 (1965), 540–567. [DOI](https://doi.org/10.2307/1970710)
+- **[Key result]** S. Dostoglou, D. A. Salamon. *Self-dual instantons and holomorphic curves.* Annals of Mathematics 139 (1994), 581–640. [DOI](https://doi.org/10.2307/2118573)
+- **[Key result]** K. Wehrheim. *Anti-self-dual instantons with Lagrangian boundary conditions I: Elliptic theory.* Communications in Mathematical Physics 254 (2005), 45–89; *II: Bubbling.* Comm. Math. Phys. 258 (2005), 275–315. [DOI](https://doi.org/10.1007/s00220-004-1235-z)
+- **[Key result]** D. Salamon, K. Wehrheim. *Instanton Floer homology with Lagrangian boundary conditions.* Geometry & Topology 12 (2008), 747–918. [DOI](https://doi.org/10.2140/gt.2008.12.747)
+- **[SOTA]** K. Wehrheim, C. T. Woodward. *Functoriality for Lagrangian correspondences in Floer theory.* Quantum Topology 1 (2010), 129–170. [DOI](https://doi.org/10.4171/qt/4)
+- **[SOTA]** C. Manolescu, C. Woodward. *Floer homology on the extended moduli space.* In *Perspectives in Analysis, Geometry, and Topology*, Progress in Mathematics 296, Birkhäuser, 2012, 283–329. [DOI](https://doi.org/10.1007/978-0-8176-8277-4_13)
+- **[SOTA / Recent]** A. Daemi, K. Fukaya. *Atiyah–Floer conjecture: a formulation, a strategy of proof and generalizations.* In *Modern Geometry: A Celebration of the Work of Simon Donaldson*, Proc. Sympos. Pure Math. 99, AMS, 2018, 23–57. [DOI](https://doi.org/10.1090/pspum/099/02)
 - **[SOTA / Recent]** A. Daemi, K. Fukaya, M. Lipyanskiy. *Lagrangians, SO(3)-instantons and mixed equation.* arXiv preprint, 2021.
-- **[SOTA / Recent]** M. Abouzaid, C. Manolescu. *A sheaf-theoretic model for $SL(2,\mathbb{C})$ Floer homology.* Journal of the European Mathematical Society 22 (2020), 3641–3695.
+- **[SOTA / Recent]** M. Abouzaid, C. Manolescu. *A sheaf-theoretic model for $SL(2,\mathbb{C})$ Floer homology.* Journal of the European Mathematical Society 22 (2020), 3641–3695. [DOI](https://doi.org/10.4171/jems/994)
 - **[Computation]** R. Fintushel, R. J. Stern. *Instanton homology of Seifert fibered homology three spheres.* Proceedings of the London Mathematical Society (3) 61 (1990), 109–137.
 - **[Survey / Book]** S. K. Donaldson. *Floer Homology Groups in Yang–Mills Theory.* Cambridge Tracts in Mathematics 147, Cambridge University Press, 2002.
 

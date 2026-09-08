@@ -108,19 +108,19 @@ with numerics pointing at $1/2$ and no proof of *any* explicit finite $c_2$ from
 ## 9. Key References
 
 - **[Foundational]** P. Delsarte, J.-M. Goethals, J. J. Seidel. *Spherical codes and designs.* Geometriae Dedicata 6 (1977), 363–388.
-- **[Foundational]** P. D. Seymour, T. Zaslavsky. *Averaging sets: a generalization of mean values and spherical designs.* Advances in Mathematics 52 (1984), 213–240.
+- **[Foundational]** P. D. Seymour, T. Zaslavsky. *Averaging sets: a generalization of mean values and spherical designs.* Advances in Mathematics 52 (1984), 213–240. [DOI](https://doi.org/10.1016/0001-8708(84)90022-7)
 - **[Foundational]** G. Wagner. *On averaging sets.* Monatshefte für Mathematik 111 (1991), 69–78.
-- **[Foundational]** J. Korevaar, J. L. H. Meyers. *Spherical Faraday cage for the case of equal point charges and Chebyshev-type quadrature on the sphere.* Integral Transforms and Special Functions 1 (1993), 105–117.
-- **[Foundational]** J. Korevaar, J. L. H. Meyers. *Chebyshev-type quadrature on multidimensional domains.* Journal of Approximation Theory 79 (1994), 144–164.
-- **[Foundational]** A. B. J. Kuijlaars. *The minimal number of nodes in Chebyshev type quadrature formulas.* Indagationes Mathematicae 4 (1993), 339–362.
-- **[SOTA]** A. Bondarenko, D. Radchenko, M. Viazovska. *Optimal asymptotic bounds for spherical designs.* Annals of Mathematics 178 (2013), 443–452.
-- **[SOTA]** A. Bondarenko, D. Radchenko, M. Viazovska. *Well-separated spherical designs.* Constructive Approximation 41 (2015), 93–112.
-- **[SOTA]** L. Gariboldi, G. Gigante. *Optimal asymptotic bounds for designs on manifolds.* Analysis & PDE 14 (2021), 1701–1724.
-- **[SOTA]** U. Etayo, J. Marzo, J. Ortega-Cerdà. *Asymptotically optimal designs on compact algebraic manifolds.* Monatshefte für Mathematik 186 (2018), 235–248.
+- **[Foundational]** J. Korevaar, J. L. H. Meyers. *Spherical Faraday cage for the case of equal point charges and Chebyshev-type quadrature on the sphere.* Integral Transforms and Special Functions 1 (1993), 105–117. [DOI](https://doi.org/10.1080/10652469308819013)
+- **[Foundational]** J. Korevaar, J. L. H. Meyers. *Chebyshev-type quadrature on multidimensional domains.* Journal of Approximation Theory 79 (1994), 144–164. [DOI](https://doi.org/10.1006/jath.1994.1119)
+- **[Foundational]** A. B. J. Kuijlaars. *The minimal number of nodes in Chebyshev type quadrature formulas.* Indagationes Mathematicae 4 (1993), 339–362. [DOI](https://doi.org/10.1016/0019-3577(93)90007-l)
+- **[SOTA]** A. Bondarenko, D. Radchenko, M. Viazovska. *Optimal asymptotic bounds for spherical designs.* Annals of Mathematics 178 (2013), 443–452. [DOI](https://doi.org/10.4007/annals.2013.178.2.2)
+- **[SOTA]** A. Bondarenko, D. Radchenko, M. Viazovska. *Well-separated spherical designs.* Constructive Approximation 41 (2015), 93–112. [DOI](https://doi.org/10.1007/s00365-014-9238-2)
+- **[SOTA]** L. Gariboldi, G. Gigante. *Optimal asymptotic bounds for designs on manifolds.* Analysis & PDE 14 (2021), 1701–1724. [DOI](https://doi.org/10.2140/apde.2021.14.1701)
+- **[SOTA]** U. Etayo, J. Marzo, J. Ortega-Cerdà. *Asymptotically optimal designs on compact algebraic manifolds.* Monatshefte für Mathematik 186 (2018), 235–248. [DOI](https://doi.org/10.1007/s00605-018-1174-y)
 - **[Computational]** X. Chen, A. Frommer, B. Lang. *Computational existence proofs for spherical $t$-designs.* Numerische Mathematik 110 (2008), 725–742.
-- **[Computational]** I. H. Sloan, R. S. Womersley. *A variational characterisation of spherical designs.* Journal of Approximation Theory 159 (2009), 308–318.
-- **[Survey]** J. Korevaar. *Chebyshev-type quadratures: use of complex analysis and potential theory.* In *Complex Potential Theory* (NATO ASI Series C, vol. 439), Kluwer, 1994.
-- **[Survey]** E. Bannai, E. Bannai. *A survey on spherical designs and algebraic combinatorics on spheres.* European Journal of Combinatorics 30 (2009), 1392–1425.
+- **[Computational]** I. H. Sloan, R. S. Womersley. *A variational characterisation of spherical designs.* Journal of Approximation Theory 159 (2009), 308–318. [DOI](https://doi.org/10.1016/j.jat.2009.02.014)
+- **[Survey]** J. Korevaar. *Chebyshev-type quadratures: use of complex analysis and potential theory.* In *Complex Potential Theory* (NATO ASI Series C, vol. 439), Kluwer, 1994. [DOI](https://doi.org/10.1007/978-94-011-0934-5_8)
+- **[Survey]** E. Bannai, E. Bannai. *A survey on spherical designs and algebraic combinatorics on spheres.* European Journal of Combinatorics 30 (2009), 1392–1425. [DOI](https://doi.org/10.1016/j.ejc.2008.11.007)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -105,7 +105,7 @@ Additionally, bounds on the nilpotence of ghost maps remain an open area of inqu
 
 - **[Foundational]** Freyd, P. *Stable Homotopy*. Proceedings of the Conference on Categorical Algebra (La Jolla, Calif., 1965), Springer, 1966.
 - **[Foundational]** Devinatz, E. S. *The generating hypothesis revisited*. Stable and unstable homotopy (Toronto, ON, 1996), Fields Inst. Commun., Vol. 19, American Mathematical Society, 1998.
-- **[SOTA / Recent]** Hovey, M., Lockridge, K., Puninski, G. *The generating hypothesis in the derived category of a ring*. Mathematische Zeitschrift, 256(4), 789-800, 2007.
+- **[SOTA / Recent]** Hovey, M., Lockridge, K., Puninski, G. *The generating hypothesis in the derived category of a ring*. Mathematische Zeitschrift, 256(4), 789-800, 2007. [DOI](https://doi.org/10.1007/s00209-007-0103-x)
 - **[SOTA / Recent]** Benson, D. J., Chebolu, S. K., Christensen, J. D. *The generating hypothesis for the stable module category of a p-group*. Journal of Algebra, 310(1), 428-433, 2007.
 - **[SOTA / Recent]** Barthel, T. *Auslander-Reiten sequences, Brown-Comenetz duality, and the K(n)-local generating hypothesis*. Advances in Mathematics, 297, 104-143, 2016.
 

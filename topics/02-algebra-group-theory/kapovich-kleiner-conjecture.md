@@ -103,19 +103,19 @@ or a route that bypasses it: producing a $G$-equivariant quasi-Möbius embedding
 ## 9. Key References
 
 - **[Foundational]** M. Kapovich, B. Kleiner. *Hyperbolic groups with low-dimensional boundary.* Annales scientifiques de l'École Normale Supérieure (4) **33** (2000), 647–669.
-- **[Foundational]** B. H. Bowditch. *Cut points and canonical splittings of hyperbolic groups.* Acta Mathematica **180** (1998), 145–186.
+- **[Foundational]** B. H. Bowditch. *Cut points and canonical splittings of hyperbolic groups.* Acta Mathematica **180** (1998), 145–186. [DOI](https://doi.org/10.1007/bf02392898)
 - **[Foundational]** M. Kapovich, B. Kleiner. *Coarse Alexander duality and duality groups.* Journal of Differential Geometry **69** (2005), 279–352.
-- **[SOTA / Recent]** P. Haïssinsky. *Hyperbolic groups with planar boundaries.* Inventiones Mathematicae **201** (2015), 61–98.
-- **[SOTA / Recent]** M. Bonk. *Uniformization of Sierpiński carpets in the plane.* Inventiones Mathematicae **186** (2011), 559–665.
-- **[SOTA / Recent]** M. Bonk, B. Kleiner. *Quasisymmetric parametrizations of two-dimensional metric spheres.* Inventiones Mathematicae **150** (2002), 127–183.
-- **[SOTA / Recent]** M. Bonk, S. Merenkov. *Quasisymmetric rigidity of square Sierpiński carpets.* Annals of Mathematics (2) **177** (2013), 591–643.
-- **[SOTA / Recent]** M. Bonk, B. Kleiner, S. Merenkov. *Rigidity of Schottky sets.* American Journal of Mathematics **131** (2009), 409–443.
-- **[SOTA / Recent]** M. Bourdon, B. Kleiner. *Combinatorial modulus, the combinatorial Loewner property, and Coxeter groups.* Groups, Geometry, and Dynamics **7** (2013), 39–107.
+- **[SOTA / Recent]** P. Haïssinsky. *Hyperbolic groups with planar boundaries.* Inventiones Mathematicae **201** (2015), 61–98. [DOI](https://doi.org/10.1007/s00222-014-0552-x)
+- **[SOTA / Recent]** M. Bonk. *Uniformization of Sierpiński carpets in the plane.* Inventiones Mathematicae **186** (2011), 559–665. [DOI](https://doi.org/10.1007/s00222-011-0325-8)
+- **[SOTA / Recent]** M. Bonk, B. Kleiner. *Quasisymmetric parametrizations of two-dimensional metric spheres.* Inventiones Mathematicae **150** (2002), 127–183. [DOI](https://doi.org/10.1007/s00222-002-0233-z)
+- **[SOTA / Recent]** M. Bonk, S. Merenkov. *Quasisymmetric rigidity of square Sierpiński carpets.* Annals of Mathematics (2) **177** (2013), 591–643. [DOI](https://doi.org/10.4007/annals.2013.177.2.5)
+- **[SOTA / Recent]** M. Bonk, B. Kleiner, S. Merenkov. *Rigidity of Schottky sets.* American Journal of Mathematics **131** (2009), 409–443. [DOI](https://doi.org/10.1353/ajm.0.0045)
+- **[SOTA / Recent]** M. Bourdon, B. Kleiner. *Combinatorial modulus, the combinatorial Loewner property, and Coxeter groups.* Groups, Geometry, and Dynamics **7** (2013), 39–107. [DOI](https://doi.org/10.4171/ggd/177)
 - **[SOTA / Recent]** V. Markovic. *Criterion for Cannon's conjecture.* Geometric and Functional Analysis **23** (2013), 1035–1061.
-- **[SOTA / Recent]** J. Kahn, V. Markovic. *Immersing almost geodesic surfaces in a closed hyperbolic three manifold.* Annals of Mathematics **175** (2012), 1127–1190.
-- **[Survey]** M. Bonk. *Quasiconformal geometry of fractals.* Proceedings of the International Congress of Mathematicians, Madrid 2006, Vol. II, EMS, 1349–1373.
-- **[Survey]** B. Kleiner. *The asymptotic geometry of negatively curved spaces: uniformization, geometrization and rigidity.* Proceedings of the ICM, Madrid 2006, Vol. II, EMS, 743–768.
-- **[Survey]** J. W. Cannon, E. L. Swenson. *Recognizing constant curvature discrete groups in dimension 3.* Transactions of the AMS **350** (1998), 809–849.
+- **[SOTA / Recent]** J. Kahn, V. Markovic. *Immersing almost geodesic surfaces in a closed hyperbolic three manifold.* Annals of Mathematics **175** (2012), 1127–1190. [DOI](https://doi.org/10.4007/annals.2012.175.3.4)
+- **[Survey]** M. Bonk. *Quasiconformal geometry of fractals.* Proceedings of the International Congress of Mathematicians, Madrid 2006, Vol. II, EMS, 1349–1373. [DOI](https://doi.org/10.4171/022-2/64)
+- **[Survey]** B. Kleiner. *The asymptotic geometry of negatively curved spaces: uniformization, geometrization and rigidity.* Proceedings of the ICM, Madrid 2006, Vol. II, EMS, 743–768. [DOI](https://doi.org/10.4171/022-2/36)
+- **[Survey]** J. W. Cannon, E. L. Swenson. *Recognizing constant curvature discrete groups in dimension 3.* Transactions of the AMS **350** (1998), 809–849. [DOI](https://doi.org/10.1090/s0002-9947-98-02107-2)
 - **[Survey]** M. Kapovich. *Hyperbolic Manifolds and Discrete Groups.* Birkhäuser, 2001.
 
 ## 10. Worked Example / Concrete Special Case

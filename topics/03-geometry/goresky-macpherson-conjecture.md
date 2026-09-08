@@ -123,16 +123,16 @@ Two gaps, of different kinds.
 
 - **[Foundational]** M. Goresky, R. MacPherson. *Intersection homology theory.* Topology 19 (1980), 135–162.
 - **[Foundational]** M. Goresky, R. MacPherson. *Intersection homology II.* Inventiones Mathematicae 72 (1983), 77–129.
-- **[Foundational]** A. Borel, J.-P. Serre. *Corners and arithmetic groups.* Commentarii Mathematici Helvetici 48 (1973), 436–491.
-- **[Foundational]** W. Baily, A. Borel. *Compactification of arithmetic quotients of bounded symmetric domains.* Annals of Mathematics 84 (1966), 442–528.
+- **[Foundational]** A. Borel, J.-P. Serre. *Corners and arithmetic groups.* Commentarii Mathematici Helvetici 48 (1973), 436–491. [DOI](https://doi.org/10.1007/bf02566134)
+- **[Foundational]** W. Baily, A. Borel. *Compactification of arithmetic quotients of bounded symmetric domains.* Annals of Mathematics 84 (1966), 442–528. [DOI](https://doi.org/10.2307/1970457)
 - **[Origin]** M. Rapoport. *On the shape of the contribution of a fixed point on the boundary: the case of $\mathbb{Q}$-rank one* (with an appendix by L. Saper and M. Stern), in *The Zeta Functions of Picard Modular Surfaces*, R. Langlands and D. Ramakrishnan (eds.), CRM, Montréal, 1992, 479–488.
-- **[Structural]** M. Goresky, G. Harder, R. MacPherson. *Weighted cohomology.* Inventiones Mathematicae 116 (1994), 139–213.
-- **[Related]** S. Zucker. *$L_2$ cohomology of warped products and arithmetic groups.* Inventiones Mathematicae 70 (1982), 169–218.
+- **[Structural]** M. Goresky, G. Harder, R. MacPherson. *Weighted cohomology.* Inventiones Mathematicae 116 (1994), 139–213. [DOI](https://doi.org/10.1007/bf01231560)
+- **[Related]** S. Zucker. *$L_2$ cohomology of warped products and arithmetic groups.* Inventiones Mathematicae 70 (1982), 169–218. [DOI](https://doi.org/10.1007/bf01390727)
 - **[Related]** E. Looijenga. *$L^2$-cohomology of locally symmetric varieties.* Compositio Mathematica 67 (1988), 3–20.
-- **[Related]** L. Saper, M. Stern. *$L^2$-cohomology of arithmetic varieties.* Annals of Mathematics 132 (1990), 1–69.
+- **[Related]** L. Saper, M. Stern. *$L^2$-cohomology of arithmetic varieties.* Annals of Mathematics 132 (1990), 1–69. [DOI](https://doi.org/10.2307/1971500)
 - **[SOTA]** L. Saper. *$\mathcal{L}$-modules and the conjecture of Rapoport and Goresky–MacPherson.* Astérisque 298 (2005), 319–334 (Automorphic Forms I).
 - **[SOTA]** L. Saper. *$\mathcal{L}$-modules and micro-support.* Preprint, arXiv:math/0112251.
-- **[SOTA]** A. Nair. *Weighted cohomology of arithmetic groups.* Annals of Mathematics 150 (1999), 1–31.
+- **[SOTA]** A. Nair. *Weighted cohomology of arithmetic groups.* Annals of Mathematics 150 (1999), 1–31. [DOI](https://doi.org/10.2307/121096)
 - **[Survey]** A. Borel, L. Ji. *Compactifications of Symmetric and Locally Symmetric Spaces.* Birkhäuser, 2006.
 - **[Survey]** F. Hirzebruch. *Hilbert modular surfaces.* L'Enseignement Mathématique 19 (1973), 183–281.
 

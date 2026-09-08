@@ -96,8 +96,8 @@ Leading experts suggest several potential pathways to break the deadlock:
 
 - **[Foundational]** Hall, M. *The Diophantine Equation $x^3 - y^2 = k$.* Computers in Number Theory, Academic Press, 1971.
 - **[Foundational]** Davenport, H. *On $f^3(t) - g^2(t)$.* Norske Vid. Selsk. Forh. (Trondheim), 1965.
-- **[SOTA / Recent]** Elkies, N. D. *Rational points near curves and small nonzero $|x^3 - y^2|$ via lattice reduction.* Lecture Notes in Computer Science (ANTS-IV), Springer, 2000.
-- **[Survey]** Lang, S. *Old and new conjectured Diophantine inequalities.* Bulletin of the American Mathematical Society, 1990.
+- **[SOTA / Recent]** Elkies, N. D. *Rational points near curves and small nonzero $|x^3 - y^2|$ via lattice reduction.* Lecture Notes in Computer Science (ANTS-IV), Springer, 2000. [DOI](https://doi.org/10.1007/10722028_2)
+- **[Survey]** Lang, S. *Old and new conjectured Diophantine inequalities.* Bulletin of the American Mathematical Society, 1990. [DOI](https://doi.org/10.1007/978-1-4612-2116-6_19)
 - **[Survey]** Nitaj, A. *The ABC conjecture homepage.* (Maintained comprehensive survey of ABC and Hall's conjecture literature).
 
 ## 10. Worked Example / Concrete Special Case

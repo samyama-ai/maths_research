@@ -98,17 +98,17 @@ Section 4's theorems hold exactly on the symmetrizable, characteristic-zero, int
 
 ## 9. Key References
 
-- **[Foundational]** P. Littelmann. *A Littlewood–Richardson rule for symmetrizable Kac–Moody algebras.* Inventiones Mathematicae **116** (1994), 329–346.
-- **[Foundational]** P. Littelmann. *Paths and root operators in representation theory.* Annals of Mathematics (2) **142** (1995), 499–525.
-- **[Foundational]** M. Kashiwara. *On crystal bases of the $q$-analogue of universal enveloping algebras.* Duke Mathematical Journal **63** (1991), 465–516.
+- **[Foundational]** P. Littelmann. *A Littlewood–Richardson rule for symmetrizable Kac–Moody algebras.* Inventiones Mathematicae **116** (1994), 329–346. [DOI](https://doi.org/10.1007/bf01231564)
+- **[Foundational]** P. Littelmann. *Paths and root operators in representation theory.* Annals of Mathematics (2) **142** (1995), 499–525. [DOI](https://doi.org/10.2307/2118553)
+- **[Foundational]** M. Kashiwara. *On crystal bases of the $q$-analogue of universal enveloping algebras.* Duke Mathematical Journal **63** (1991), 465–516. [DOI](https://doi.org/10.1215/s0012-7094-91-06321-0)
 - **[Foundational]** V. Lakshmibai, C. S. Seshadri. *Geometry of $G/P$ – V.* Journal of Algebra **100** (1986), 462–557.
-- **[Structural]** A. Joseph. *Quantum Groups and Their Primitive Ideals.* Ergebnisse der Mathematik 29, Springer, 1995.
-- **[Structural]** P. Littelmann. *Cones, crystals, and patterns.* Transformation Groups **3** (1998), 145–179.
-- **[Geometric]** S. Gaussent, P. Littelmann. *LS galleries, the path model, and MV cycles.* Duke Mathematical Journal **127** (2005), 35–88.
-- **[SOTA / Recent]** P. Baumann, S. Gaussent. *On Mirković–Vilonen cycles and crystal combinatorics.* Representation Theory **12** (2008), 83–130.
-- **[SOTA / Recent]** C. Lenart, A. Postnikov. *A combinatorial model for crystals of Kac–Moody algebras.* Transactions of the AMS **360** (2008), 4349–4381.
+- **[Structural]** A. Joseph. *Quantum Groups and Their Primitive Ideals.* Ergebnisse der Mathematik 29, Springer, 1995. [DOI](https://doi.org/10.1007/978-3-642-78400-2)
+- **[Structural]** P. Littelmann. *Cones, crystals, and patterns.* Transformation Groups **3** (1998), 145–179. [DOI](https://doi.org/10.1007/bf01236431)
+- **[Geometric]** S. Gaussent, P. Littelmann. *LS galleries, the path model, and MV cycles.* Duke Mathematical Journal **127** (2005), 35–88. [DOI](https://doi.org/10.1215/s0012-7094-04-12712-5)
+- **[SOTA / Recent]** P. Baumann, S. Gaussent. *On Mirković–Vilonen cycles and crystal combinatorics.* Representation Theory **12** (2008), 83–130. [DOI](https://doi.org/10.1090/s1088-4165-08-00322-1)
+- **[SOTA / Recent]** C. Lenart, A. Postnikov. *A combinatorial model for crystals of Kac–Moody algebras.* Transactions of the AMS **360** (2008), 4349–4381. [DOI](https://doi.org/10.1090/s0002-9947-08-04419-x)
 - **[SOTA / Recent]** S. Naito, D. Sagaki. *Path model for a level-zero extremal weight module over a quantum affine algebra.* International Mathematics Research Notices **2003**, no. 32, 1731–1754.
-- **[SOTA / Recent]** M. Kapovich, J. J. Millson. *A path model for geodesics in Euclidean buildings and its applications to representation theory.* Groups, Geometry, and Dynamics **2** (2008), 405–480.
+- **[SOTA / Recent]** M. Kapovich, J. J. Millson. *A path model for geodesics in Euclidean buildings and its applications to representation theory.* Groups, Geometry, and Dynamics **2** (2008), 405–480. [DOI](https://doi.org/10.4171/ggd/46)
 - **[Survey]** D. Bump, A. Schilling. *Crystal Bases: Representations and Combinatorics.* World Scientific, 2017.
 - **[Survey]** S. Kumar. *Kac–Moody Groups, their Flag Varieties and Representation Theory.* Progress in Mathematics 204, Birkhäuser, 2002.
 

@@ -116,18 +116,18 @@ Everything proved lives in one of two regimes: **$M$ spin** (Dirac, all $n$, sha
 
 ## 9. Key References
 
-- **[Foundational]** Marcelo Llarull. *Sharp estimates and the Dirac operator.* Mathematische Annalen 310 (1998), 55–71.
+- **[Foundational]** Marcelo Llarull. *Sharp estimates and the Dirac operator.* Mathematische Annalen 310 (1998), 55–71. [DOI](https://doi.org/10.1007/s002080050136)
 - **[Foundational]** André Lichnerowicz. *Spineurs harmoniques.* C. R. Acad. Sci. Paris 257 (1963), 7–9.
-- **[Foundational]** Mikhael Gromov, H. Blaine Lawson Jr. *Positive scalar curvature and the Dirac operator on complete Riemannian manifolds.* Publications Mathématiques de l'IHÉS 58 (1983), 83–196.
+- **[Foundational]** Mikhael Gromov, H. Blaine Lawson Jr. *Positive scalar curvature and the Dirac operator on complete Riemannian manifolds.* Publications Mathématiques de l'IHÉS 58 (1983), 83–196. [DOI](https://doi.org/10.1007/bf02953774)
 - **[Foundational]** H. Blaine Lawson Jr., Marie-Louise Michelsohn. *Spin Geometry.* Princeton University Press, 1989.
-- **[SOTA / Recent]** Sebastian Goette, Uwe Semmelmann. *Scalar curvature estimates for compact symmetric spaces.* Differential Geometry and its Applications 16 (2002), 65–78.
+- **[SOTA / Recent]** Sebastian Goette, Uwe Semmelmann. *Scalar curvature estimates for compact symmetric spaces.* Differential Geometry and its Applications 16 (2002), 65–78. [DOI](https://doi.org/10.1016/s0926-2245(01)00068-7)
 - **[SOTA / Recent]** Simon Brendle, Sven Hirsch, Florian Johne. *A generalization of Geroch's conjecture.* Communications on Pure and Applied Mathematics 77 (2024), 441–456.
-- **[SOTA / Recent]** Simon Brendle. *Scalar curvature rigidity of convex polytopes.* Inventiones Mathematicae 235 (2024), 669–708.
-- **[SOTA / Recent]** Simone Cecchini, Rudolf Zeidler. *Scalar and mean curvature comparison via the Dirac operator.* Geometry & Topology 28 (2024), 1167–1212.
+- **[SOTA / Recent]** Simon Brendle. *Scalar curvature rigidity of convex polytopes.* Inventiones Mathematicae 235 (2024), 669–708. [DOI](https://doi.org/10.1007/s00222-023-01229-x)
+- **[SOTA / Recent]** Simone Cecchini, Rudolf Zeidler. *Scalar and mean curvature comparison via the Dirac operator.* Geometry & Topology 28 (2024), 1167–1212. [DOI](https://doi.org/10.2140/gt.2024.28.1167)
 - **[SOTA / Recent]** Jinmin Wang, Zhizhang Xie, Guoliang Yu. *On Gromov's dihedral extremality and rigidity conjectures.* Preprint, arXiv:2112.01510, 2021.
 - **[SOTA / Recent]** Richard Schoen, Shing-Tung Yau. *Positive scalar curvature and minimal hypersurface singularities.* Preprint, arXiv:1704.05490, 2017.
-- **[Survey]** Mikhael Gromov. *Four Lectures on Scalar Curvature.* In: Perspectives in Scalar Curvature, Vol. 1, World Scientific, 2023; preprint arXiv:1908.10612.
-- **[Survey]** Simon Brendle. *Rigidity phenomena involving scalar curvature.* Surveys in Differential Geometry 17 (2012), 179–202.
+- **[Survey]** Mikhael Gromov. *Four Lectures on Scalar Curvature.* In: Perspectives in Scalar Curvature, Vol. 1, World Scientific, 2023; preprint arXiv:1908.10612. [DOI](https://doi.org/10.1142/9789811273223_0001)
+- **[Survey]** Simon Brendle. *Rigidity phenomena involving scalar curvature.* Surveys in Differential Geometry 17 (2012), 179–202. [DOI](https://doi.org/10.4310/sdg.2012.v17.n1.a4)
 
 ## 10. Worked Example / Concrete Special Case
 

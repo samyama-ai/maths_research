@@ -91,23 +91,23 @@ Proven: $\pi|_L$ is a simple homotopy equivalence, $\mu_L = 0$, and the stable G
 
 ## 9. Key References
 
-- **[Foundational]** V. I. Arnold. *First steps in symplectic topology.* Russian Mathematical Surveys 41 (1986), 1–21.
-- **[Foundational]** M. Gromov. *Pseudo holomorphic curves in symplectic manifolds.* Inventiones Mathematicae 82 (1985), 307–347.
-- **[Foundational]** F. Lalonde, J.-C. Sikorav. *Sous-variétés lagrangiennes et lagrangiennes exactes des fibrés cotangents.* Commentarii Mathematici Helvetici 66 (1991), 18–33.
-- **[Foundational]** C. Viterbo. *Exact Lagrange submanifolds, periodic orbits and the cohomology of free loop spaces.* Journal of Differential Geometry 47 (1997), 420–468.
-- **[Milestone]** R. Hind. *Lagrangian spheres in $S^2\times S^2$.* Geometric and Functional Analysis 14 (2004), 303–318.
-- **[Milestone]** K. Fukaya, P. Seidel, I. Smith. *Exact Lagrangian submanifolds in simply-connected cotangent bundles.* Inventiones Mathematicae 172 (2008), 1–27.
-- **[Milestone]** D. Nadler. *Microlocal branes are constructible sheaves.* Selecta Mathematica 15 (2009), 563–619.
+- **[Foundational]** V. I. Arnold. *First steps in symplectic topology.* Russian Mathematical Surveys 41 (1986), 1–21. [DOI](https://doi.org/10.1070/rm1986v041n06abeh004221)
+- **[Foundational]** M. Gromov. *Pseudo holomorphic curves in symplectic manifolds.* Inventiones Mathematicae 82 (1985), 307–347. [DOI](https://doi.org/10.1007/bf01388806)
+- **[Foundational]** F. Lalonde, J.-C. Sikorav. *Sous-variétés lagrangiennes et lagrangiennes exactes des fibrés cotangents.* Commentarii Mathematici Helvetici 66 (1991), 18–33. [DOI](https://doi.org/10.1007/bf02566634)
+- **[Foundational]** C. Viterbo. *Exact Lagrange submanifolds, periodic orbits and the cohomology of free loop spaces.* Journal of Differential Geometry 47 (1997), 420–468. [DOI](https://doi.org/10.4310/jdg/1214460546)
+- **[Milestone]** R. Hind. *Lagrangian spheres in $S^2\times S^2$.* Geometric and Functional Analysis 14 (2004), 303–318. [DOI](https://doi.org/10.1007/s00039-004-0459-6)
+- **[Milestone]** K. Fukaya, P. Seidel, I. Smith. *Exact Lagrangian submanifolds in simply-connected cotangent bundles.* Inventiones Mathematicae 172 (2008), 1–27. [DOI](https://doi.org/10.1007/s00222-007-0092-8)
+- **[Milestone]** D. Nadler. *Microlocal branes are constructible sheaves.* Selecta Mathematica 15 (2009), 563–619. [DOI](https://doi.org/10.1007/s00029-009-0008-0)
 - **[Milestone]** M. Abouzaid. *Nearby Lagrangians with vanishing Maslov class are homotopy equivalent to the zero section.* Inventiones Mathematicae 189 (2012), 251–313.
 - **[Milestone]** M. Abouzaid. *Framed bordism and Lagrangian embeddings of exact Lagrangian spheres.* Annals of Mathematics 175 (2012), 71–185.
-- **[Milestone]** T. Kragh. *Parametrized ring-spectra and the nearby Lagrangian conjecture* (with an appendix by M. Abouzaid). Geometry & Topology 17 (2013), 639–731.
+- **[Milestone]** T. Kragh. *Parametrized ring-spectra and the nearby Lagrangian conjecture* (with an appendix by M. Abouzaid). Geometry & Topology 17 (2013), 639–731. [DOI](https://doi.org/10.2140/gt.2013.17.639)
 - **[SOTA]** M. Abouzaid, T. Kragh. *On the immersion classes of nearby Lagrangians.* Journal of Topology 9 (2016), 232–244.
-- **[SOTA]** M. Abouzaid, T. Kragh. *Simple homotopy equivalence of nearby Lagrangians.* Acta Mathematica 220 (2018), 207–237.
+- **[SOTA]** M. Abouzaid, T. Kragh. *Simple homotopy equivalence of nearby Lagrangians.* Acta Mathematica 220 (2018), 207–237. [DOI](https://doi.org/10.4310/acta.2018.v220.n2.a1)
 - **[SOTA]** G. Dimitroglou Rizell, E. Goodman, A. Ivrii. *Lagrangian isotopy of tori in $S^2\times S^2$ and $\mathbb{CP}^2$.* Geometric and Functional Analysis 26 (2016), 1297–1358.
-- **[SOTA]** T. Ekholm, T. Kragh, I. Smith. *Lagrangian exotic spheres.* Journal of Topology and Analysis 8 (2016), 375–397.
+- **[SOTA]** T. Ekholm, T. Kragh, I. Smith. *Lagrangian exotic spheres.* Journal of Topology and Analysis 8 (2016), 375–397. [DOI](https://doi.org/10.1142/s1793525316500199)
 - **[Frontier]** M. Abouzaid, S. Courte, S. Guillermou, T. Kragh. *Twisted generating functions and the nearby Lagrangian conjecture.* arXiv:2011.13178, 2020.
 - **[Survey]** S. Guillermou. *Sheaves and symplectic geometry of cotangent bundles.* arXiv:1905.07341, 2019.
-- **[Survey]** S. Guillermou, M. Kashiwara, P. Schapira. *Sheaf quantization of Hamiltonian isotopies and applications to nondisplaceability problems.* Duke Mathematical Journal 161 (2012), 201–245.
+- **[Survey]** S. Guillermou, M. Kashiwara, P. Schapira. *Sheaf quantization of Hamiltonian isotopies and applications to nondisplaceability problems.* Duke Mathematical Journal 161 (2012), 201–245. [DOI](https://doi.org/10.1215/00127094-1507367)
 
 ## 10. Worked Example / Concrete Special Case
 

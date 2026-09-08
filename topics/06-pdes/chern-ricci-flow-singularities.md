@@ -102,17 +102,17 @@ on the region where the limiting class is strictly positive, with $C$ depending 
 
 ## 9. Key References
 
-- **[Foundational]** M. Gill. *Convergence of the parabolic complex Monge-Ampère equation on compact Hermitian manifolds.* Communications in Analysis and Geometry 19 (2011), 277-303.
-- **[Foundational]** V. Tosatti, B. Weinkove. *On the evolution of a Hermitian metric by its Chern-Ricci form.* Journal of Differential Geometry 99 (2015), 125-163.
-- **[Foundational]** V. Tosatti, B. Weinkove. *The Chern-Ricci flow on complex surfaces.* Compositio Mathematica 149 (2013), 2101-2138.
+- **[Foundational]** M. Gill. *Convergence of the parabolic complex Monge-Ampère equation on compact Hermitian manifolds.* Communications in Analysis and Geometry 19 (2011), 277-303. [DOI](https://doi.org/10.4310/cag.2011.v19.n2.a2)
+- **[Foundational]** V. Tosatti, B. Weinkove. *On the evolution of a Hermitian metric by its Chern-Ricci form.* Journal of Differential Geometry 99 (2015), 125-163. [DOI](https://doi.org/10.4310/jdg/1418345539)
+- **[Foundational]** V. Tosatti, B. Weinkove. *The Chern-Ricci flow on complex surfaces.* Compositio Mathematica 149 (2013), 2101-2138. [DOI](https://doi.org/10.1112/s0010437x13007471)
 - **[SOTA]** V. Tosatti, B. Weinkove. *The Chern-Ricci flow on elliptic surfaces.* Mathematische Annalen 362 (2015), 1223-1271.
 - **[SOTA]** M. Sherman, B. Weinkove. *Local Calabi and curvature estimates for the Chern-Ricci flow.* New York Journal of Mathematics 19 (2013), 565-582.
-- **[SOTA]** J. Streets, G. Tian. *A parabolic flow of pluriclosed metrics.* International Mathematics Research Notices 2010, no. 16, 3101-3133.
+- **[SOTA]** J. Streets, G. Tian. *A parabolic flow of pluriclosed metrics.* International Mathematics Research Notices 2010, no. 16, 3101-3133. [DOI](https://doi.org/10.1093/imrn/rnp237)
 - **[SOTA]** J. Streets, G. Tian. *Hermitian curvature flow.* Journal of the European Mathematical Society 13 (2011), 601-634.
-- **[SOTA]** T. Zheng. *The Chern-Ricci flow on Oeljeklaus-Toma manifolds.* Canadian Journal of Mathematics 69 (2017), 220-240.
+- **[SOTA]** T. Zheng. *The Chern-Ricci flow on Oeljeklaus-Toma manifolds.* Canadian Journal of Mathematics 69 (2017), 220-240. [DOI](https://doi.org/10.4153/cjm-2015-053-0)
 - **[SOTA]** V. Tosatti, B. Weinkove. *On the Calabi-Yau equation on compact Hermitian manifolds.* Journal of the American Mathematical Society 23 (2010), 1187-1195.
-- **[Survey]** V. Tosatti. *KAWA lecture notes on the Kähler-Ricci flow.* Annales de la Faculté des Sciences de Toulouse 27 (2018), 285-376.
-- **[Survey]** J. Song, B. Weinkove. *An introduction to the Kähler-Ricci flow.* In *An Introduction to the Kähler-Ricci Flow*, Lecture Notes in Mathematics 2086, Springer, 2013.
+- **[Survey]** V. Tosatti. *KAWA lecture notes on the Kähler-Ricci flow.* Annales de la Faculté des Sciences de Toulouse 27 (2018), 285-376. [DOI](https://doi.org/10.5802/afst.1571)
+- **[Survey]** J. Song, B. Weinkove. *An introduction to the Kähler-Ricci flow.* In *An Introduction to the Kähler-Ricci Flow*, Lecture Notes in Mathematics 2086, Springer, 2013. [DOI](https://doi.org/10.1007/978-3-319-00819-6_3)
 - **[Survey]** V. Tosatti, B. Weinkove. *The Chern-Ricci flow.* Rendiconti dell'Istituto di Matematica dell'Università di Trieste, 2022 (survey article).
 
 ## 10. Worked Example / Concrete Special Case

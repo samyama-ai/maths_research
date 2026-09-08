@@ -103,22 +103,22 @@ Precisely:
 
 ## 9. Key References
 
-- **[Foundational]** M. Kardar, G. Parisi, Y.-C. Zhang. *Dynamic Scaling of Growing Interfaces.* Physical Review Letters 56(9), 889–892, 1986.
-- **[Foundational]** L. Bertini, G. Giacomin. *Stochastic Burgers and KPZ equations from particle systems.* Communications in Mathematical Physics 183, 571–607, 1997.
-- **[Foundational]** M. Hairer. *Solving the KPZ equation.* Annals of Mathematics 178(2), 559–664, 2013.
-- **[Foundational]** M. Hairer. *A theory of regularity structures.* Inventiones Mathematicae 198, 269–504, 2014.
-- **[SOTA / Recent]** M. Gubinelli, P. Imkeller, N. Perkowski. *Paracontrolled distributions and singular PDEs.* Forum of Mathematics, Pi 3, e6, 2015.
-- **[SOTA / Recent]** G. Amir, I. Corwin, J. Quastel. *Probability distribution of the free energy of the continuum directed random polymer in 1+1 dimensions.* Communications on Pure and Applied Mathematics 64, 466–537, 2011.
-- **[SOTA / Recent]** M. Gubinelli, N. Perkowski. *Energy solutions of KPZ are unique.* Journal of the American Mathematical Society 31, 427–471, 2018.
-- **[SOTA / Recent]** M. Hairer, J. Quastel. *A class of growth models rescaling to KPZ.* Forum of Mathematics, Pi 6, e3, 2018.
-- **[SOTA / Recent]** K. Matetski, J. Quastel, D. Remenik. *The KPZ fixed point.* Acta Mathematica 227(1), 115–203, 2021.
+- **[Foundational]** M. Kardar, G. Parisi, Y.-C. Zhang. *Dynamic Scaling of Growing Interfaces.* Physical Review Letters 56(9), 889–892, 1986. [DOI](https://doi.org/10.1103/physrevlett.56.889)
+- **[Foundational]** L. Bertini, G. Giacomin. *Stochastic Burgers and KPZ equations from particle systems.* Communications in Mathematical Physics 183, 571–607, 1997. [DOI](https://doi.org/10.1007/s002200050044)
+- **[Foundational]** M. Hairer. *Solving the KPZ equation.* Annals of Mathematics 178(2), 559–664, 2013. [DOI](https://doi.org/10.1142/9789814449243_0037)
+- **[Foundational]** M. Hairer. *A theory of regularity structures.* Inventiones Mathematicae 198, 269–504, 2014. [DOI](https://doi.org/10.1007/s00222-014-0505-4)
+- **[SOTA / Recent]** M. Gubinelli, P. Imkeller, N. Perkowski. *Paracontrolled distributions and singular PDEs.* Forum of Mathematics, Pi 3, e6, 2015. [DOI](https://doi.org/10.1017/fmp.2015.2)
+- **[SOTA / Recent]** G. Amir, I. Corwin, J. Quastel. *Probability distribution of the free energy of the continuum directed random polymer in 1+1 dimensions.* Communications on Pure and Applied Mathematics 64, 466–537, 2011. [DOI](https://doi.org/10.1002/cpa.20347)
+- **[SOTA / Recent]** M. Gubinelli, N. Perkowski. *Energy solutions of KPZ are unique.* Journal of the American Mathematical Society 31, 427–471, 2018. [DOI](https://doi.org/10.1090/jams/889)
+- **[SOTA / Recent]** M. Hairer, J. Quastel. *A class of growth models rescaling to KPZ.* Forum of Mathematics, Pi 6, e3, 2018. [DOI](https://doi.org/10.1017/fmp.2018.2)
+- **[SOTA / Recent]** K. Matetski, J. Quastel, D. Remenik. *The KPZ fixed point.* Acta Mathematica 227(1), 115–203, 2021. [DOI](https://doi.org/10.4310/acta.2021.v227.n1.a3)
 - **[SOTA / Recent]** D. Dauvergne, J. Ortmann, B. Virág. *The directed landscape.* Acta Mathematica 229(2), 201–285, 2022.
-- **[SOTA / Recent]** J. Quastel, S. Sarkar. *Convergence of exclusion processes and the KPZ equation to the KPZ fixed point.* Journal of the American Mathematical Society 36, 251–289, 2023.
-- **[SOTA / Recent]** F. Caravenna, R. Sun, N. Zygouras. *The critical 2d Stochastic Heat Flow.* Inventiones Mathematicae 233, 325–460, 2023.
-- **[SOTA / Recent]** A. Dunlap, Y. Gu, L. Ryzhik, O. Zeitouni. *Fluctuations of the solutions to the KPZ equation in dimensions three and higher.* Probability Theory and Related Fields 176, 1217–1258, 2020.
-- **[Survey]** I. Corwin. *The Kardar–Parisi–Zhang equation and universality class.* Random Matrices: Theory and Applications 1(1), 1130001, 2012.
-- **[Survey]** J. Quastel. *Introduction to KPZ.* Current Developments in Mathematics 2011, 125–194, 2012.
-- **[Survey]** T. Halpin-Healy, K. A. Takeuchi. *A KPZ Cocktail — Shaken, not Stirred.* Journal of Statistical Physics 160, 794–814, 2015.
+- **[SOTA / Recent]** J. Quastel, S. Sarkar. *Convergence of exclusion processes and the KPZ equation to the KPZ fixed point.* Journal of the American Mathematical Society 36, 251–289, 2023. [DOI](https://doi.org/10.1090/jams/999)
+- **[SOTA / Recent]** F. Caravenna, R. Sun, N. Zygouras. *The critical 2d Stochastic Heat Flow.* Inventiones Mathematicae 233, 325–460, 2023. [DOI](https://doi.org/10.1007/s00222-023-01184-7)
+- **[SOTA / Recent]** A. Dunlap, Y. Gu, L. Ryzhik, O. Zeitouni. *Fluctuations of the solutions to the KPZ equation in dimensions three and higher.* Probability Theory and Related Fields 176, 1217–1258, 2020. [DOI](https://doi.org/10.1007/s00440-019-00938-w)
+- **[Survey]** I. Corwin. *The Kardar–Parisi–Zhang equation and universality class.* Random Matrices: Theory and Applications 1(1), 1130001, 2012. [DOI](https://doi.org/10.1142/9789814449243_0007)
+- **[Survey]** J. Quastel. *Introduction to KPZ.* Current Developments in Mathematics 2011, 125–194, 2012. [DOI](https://doi.org/10.4310/cdm.2011.v2011.n1.a3)
+- **[Survey]** T. Halpin-Healy, K. A. Takeuchi. *A KPZ Cocktail — Shaken, not Stirred.* Journal of Statistical Physics 160, 794–814, 2015. [DOI](https://doi.org/10.1007/s10955-015-1282-1)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -118,26 +118,26 @@ Note the *stable* result is known: Wall (1964) showed any two homotopy $4$-spher
 
 ## 9. Key References
 
-- **[Foundational]** H. Poincaré. *Cinquième complément à l'Analysis Situs.* Rendiconti del Circolo Matematico di Palermo, 18:45–110, 1904.
-- **[Foundational]** J. Milnor. *On manifolds homeomorphic to the 7-sphere.* Annals of Mathematics, 64(2):399–405, 1956.
+- **[Foundational]** H. Poincaré. *Cinquième complément à l'Analysis Situs.* Rendiconti del Circolo Matematico di Palermo, 18:45–110, 1904. [DOI](https://doi.org/10.1007/bf03014091)
+- **[Foundational]** J. Milnor. *On manifolds homeomorphic to the 7-sphere.* Annals of Mathematics, 64(2):399–405, 1956. [DOI](https://doi.org/10.2307/1969983)
 - **[Foundational]** S. Smale. *Generalized Poincaré's conjecture in dimensions greater than four.* Annals of Mathematics, 74(2):391–406, 1961.
 - **[Foundational]** M. Kervaire, J. Milnor. *Groups of homotopy spheres: I.* Annals of Mathematics, 77(3):504–537, 1963.
-- **[Foundational]** R. S. Hamilton. *Three-manifolds with positive Ricci curvature.* Journal of Differential Geometry, 17(2):255–306, 1982.
+- **[Foundational]** R. S. Hamilton. *Three-manifolds with positive Ricci curvature.* Journal of Differential Geometry, 17(2):255–306, 1982. [DOI](https://doi.org/10.4310/jdg/1214436922)
 - **[Foundational]** M. H. Freedman. *The topology of four-dimensional manifolds.* Journal of Differential Geometry, 17(3):357–453, 1982.
-- **[Foundational]** W. P. Thurston. *Three-dimensional manifolds, Kleinian groups and hyperbolic geometry.* Bulletin of the AMS, 6(3):357–381, 1982.
+- **[Foundational]** W. P. Thurston. *Three-dimensional manifolds, Kleinian groups and hyperbolic geometry.* Bulletin of the AMS, 6(3):357–381, 1982. [DOI](https://doi.org/10.1090/s0273-0979-1982-15003-0)
 - **[SOTA]** G. Perelman. *The entropy formula for the Ricci flow and its geometric applications.* arXiv:math/0211159, 2002.
 - **[SOTA]** G. Perelman. *Ricci flow with surgery on three-manifolds.* arXiv:math/0303109, 2003.
 - **[SOTA]** G. Perelman. *Finite extinction time for the solutions to the Ricci flow on certain three-manifolds.* arXiv:math/0307245, 2003.
-- **[Verification]** J. Morgan, G. Tian. *Ricci Flow and the Poincaré Conjecture.* Clay Mathematics Monographs, vol. 3, AMS, 2007.
+- **[Verification]** J. Morgan, G. Tian. *Ricci Flow and the Poincaré Conjecture.* Clay Mathematics Monographs, vol. 3, AMS, 2007. [DOI](https://doi.org/10.1007/bf02986174)
 - **[Verification]** B. Kleiner, J. Lott. *Notes on Perelman's papers.* Geometry & Topology, 12(5):2587–2855, 2008.
 - **[Verification]** H.-D. Cao, X.-P. Zhu. *A complete proof of the Poincaré and geometrization conjectures.* Asian Journal of Mathematics, 10(2):165–492, 2006.
-- **[SPC4]** S. Akbulut. *Cappell–Shaneson homotopy spheres are standard.* Annals of Mathematics, 171(3):2171–2175, 2010.
-- **[SPC4]** R. E. Gompf. *More Cappell–Shaneson spheres are standard.* Algebraic & Geometric Topology, 10(3):1665–1681, 2010.
-- **[SPC4]** M. Freedman, R. Gompf, S. Morrison, K. Walker. *Man and machine thinking about the smooth 4-dimensional Poincaré conjecture.* Quantum Topology, 1(2):171–208, 2010.
-- **[SPC4]** J. Meier, A. Zupan. *Characterizing Dehn surgeries on links via trisections.* PNAS, 115(43):10887–10893, 2018.
-- **[Recent]** R. Bamler. *Compactness theory of the space of super Ricci flows.* Inventiones Mathematicae, 233:1121–1277, 2023.
+- **[SPC4]** S. Akbulut. *Cappell–Shaneson homotopy spheres are standard.* Annals of Mathematics, 171(3):2171–2175, 2010. [DOI](https://doi.org/10.4007/annals.2010.171.2171)
+- **[SPC4]** R. E. Gompf. *More Cappell–Shaneson spheres are standard.* Algebraic & Geometric Topology, 10(3):1665–1681, 2010. [DOI](https://doi.org/10.2140/agt.2010.10.1665)
+- **[SPC4]** M. Freedman, R. Gompf, S. Morrison, K. Walker. *Man and machine thinking about the smooth 4-dimensional Poincaré conjecture.* Quantum Topology, 1(2):171–208, 2010. [DOI](https://doi.org/10.4171/qt/5)
+- **[SPC4]** J. Meier, A. Zupan. *Characterizing Dehn surgeries on links via trisections.* PNAS, 115(43):10887–10893, 2018. [DOI](https://doi.org/10.1073/pnas.1717187115)
+- **[Recent]** R. Bamler. *Compactness theory of the space of super Ricci flows.* Inventiones Mathematicae, 233:1121–1277, 2023. [DOI](https://doi.org/10.1007/s00222-023-01196-3)
 - **[Survey]** J. Milnor. *Towards the Poincaré Conjecture and the classification of 3-manifolds.* Notices of the AMS, 50(10):1226–1233, 2003.
-- **[Survey]** R. Kirby (ed.). *Problems in Low-Dimensional Topology.* AMS/IP Studies in Advanced Mathematics, 1997.
+- **[Survey]** R. Kirby (ed.). *Problems in Low-Dimensional Topology.* AMS/IP Studies in Advanced Mathematics, 1997. [DOI](https://doi.org/10.1090/amsip/002.2/02)
 
 ## 10. Worked Example / Concrete Special Case
 

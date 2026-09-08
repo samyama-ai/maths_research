@@ -109,19 +109,19 @@ Concretely, the missing step is a **lower bound on $\operatorname{hhd}$ from sin
 
 ## 9. Key References
 
-- **[Foundational]** Yang Han. *Hochschild (co)homology dimension.* Journal of the London Mathematical Society (2) **73** (2006), 657–668.
-- **[Foundational]** Dieter Happel. *Hochschild cohomology of finite-dimensional algebras.* Séminaire d'Algèbre P. Dubreil et M.-P. Malliavin, Lecture Notes in Mathematics 1404, Springer, 1989, 108–126.
-- **[Foundational]** Ragnar-Olaf Buchweitz, Edward L. Green, Dag Madsen, Øyvind Solberg. *Finite Hochschild cohomology without finite global dimension.* Mathematical Research Letters **12** (2005), 805–816.
+- **[Foundational]** Yang Han. *Hochschild (co)homology dimension.* Journal of the London Mathematical Society (2) **73** (2006), 657–668. [DOI](https://doi.org/10.1112/s002461070602299x)
+- **[Foundational]** Dieter Happel. *Hochschild cohomology of finite-dimensional algebras.* Séminaire d'Algèbre P. Dubreil et M.-P. Malliavin, Lecture Notes in Mathematics 1404, Springer, 1989, 108–126. [DOI](https://doi.org/10.1007/bfb0084073)
+- **[Foundational]** Ragnar-Olaf Buchweitz, Edward L. Green, Dag Madsen, Øyvind Solberg. *Finite Hochschild cohomology without finite global dimension.* Mathematical Research Letters **12** (2005), 805–816. [DOI](https://doi.org/10.4310/mrl.2005.v12.n6.a2)
 - **[Foundational]** Luchezar L. Avramov, Micheline Vigué-Poirrier. *Hochschild homology criteria for smoothness.* International Mathematics Research Notices **1992**, no. 1, 17–25.
-- **[SOTA / Recent]** Petter Andreas Bergh, Dag Madsen. *Hochschild homology and global dimension.* Bulletin of the London Mathematical Society **41** (2009), 473–482.
-- **[SOTA / Recent]** Petter Andreas Bergh, Karin Erdmann. *Homology and cohomology of quantum complete intersections.* Algebra & Number Theory **2** (2008), 501–522.
-- **[SOTA / Recent]** Claude Cibils, Marcelo Lanzilotta, Eduardo N. Marcos, Andrea Solotar. *Deleting or adding arrows of a bound quiver algebra and Hochschild (co)homology.* Proceedings of the American Mathematical Society **148** (2020), 2421–2432.
-- **[SOTA / Recent]** Claude Cibils, Marcelo Lanzilotta, Eduardo N. Marcos, Andrea Solotar. *Han's conjecture for bounded extensions.* Journal of Algebra **598** (2022), 48–67.
-- **[SOTA / Recent]** Claude Cibils, Marcelo Lanzilotta, Eduardo N. Marcos, Andrea Solotar. *Jacobi–Zariski long nearly exact sequences for associative algebras.* Bulletin of the London Mathematical Society **53** (2021), 1636–1650.
-- **[Technique]** Emil Sköldberg. *The Hochschild homology of truncated and quadratic monomial algebras.* Journal of the London Mathematical Society (2) **59** (1999), 246–256.
-- **[Technique]** Bernhard Keller. *Invariance and localization for cyclic homology of DG algebras.* Journal of Pure and Applied Algebra **123** (1998), 223–273.
+- **[SOTA / Recent]** Petter Andreas Bergh, Dag Madsen. *Hochschild homology and global dimension.* Bulletin of the London Mathematical Society **41** (2009), 473–482. [DOI](https://doi.org/10.1112/blms/bdp018)
+- **[SOTA / Recent]** Petter Andreas Bergh, Karin Erdmann. *Homology and cohomology of quantum complete intersections.* Algebra & Number Theory **2** (2008), 501–522. [DOI](https://doi.org/10.2140/ant.2008.2.501)
+- **[SOTA / Recent]** Claude Cibils, Marcelo Lanzilotta, Eduardo N. Marcos, Andrea Solotar. *Deleting or adding arrows of a bound quiver algebra and Hochschild (co)homology.* Proceedings of the American Mathematical Society **148** (2020), 2421–2432. [DOI](https://doi.org/10.1090/proc/14936)
+- **[SOTA / Recent]** Claude Cibils, Marcelo Lanzilotta, Eduardo N. Marcos, Andrea Solotar. *Han's conjecture for bounded extensions.* Journal of Algebra **598** (2022), 48–67. [DOI](https://doi.org/10.1016/j.jalgebra.2022.01.022)
+- **[SOTA / Recent]** Claude Cibils, Marcelo Lanzilotta, Eduardo N. Marcos, Andrea Solotar. *Jacobi–Zariski long nearly exact sequences for associative algebras.* Bulletin of the London Mathematical Society **53** (2021), 1636–1650. [DOI](https://doi.org/10.1112/blms.12516)
+- **[Technique]** Emil Sköldberg. *The Hochschild homology of truncated and quadratic monomial algebras.* Journal of the London Mathematical Society (2) **59** (1999), 246–256. [DOI](https://doi.org/10.1112/s0024610799007036)
+- **[Technique]** Bernhard Keller. *Invariance and localization for cyclic homology of DG algebras.* Journal of Pure and Applied Algebra **123** (1998), 223–273. [DOI](https://doi.org/10.1016/s0022-4049(96)00085-0)
 - **[Survey]** Jean-Louis Loday. *Cyclic Homology*, 2nd edition. Grundlehren der mathematischen Wissenschaften 301, Springer, 1998.
-- **[Related]** Kiyoshi Igusa. *Notes on the no loops conjecture.* Journal of Pure and Applied Algebra **69** (1990), 161–176.
+- **[Related]** Kiyoshi Igusa. *Notes on the no loops conjecture.* Journal of Pure and Applied Algebra **69** (1990), 161–176. [DOI](https://doi.org/10.1016/0022-4049(90)90040-o)
 
 ## 10. Worked Example / Concrete Special Case
 

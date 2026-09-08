@@ -100,7 +100,7 @@ Leading mathematicians have outlined clear strategic pathways to finally conquer
 - **[Foundational]** Y. Ruan. *Stringy Geometry and Topology of Orbifolds.* Contemporary Mathematics, 2001.
 - **[Foundational]** J. Bryan, T. Graber. *The Crepant Resolution Conjecture.* Algebraic Geometry—Seattle 2005, Proceedings of Symposia in Pure Mathematics, 2009.
 - **[SOTA / Recent]** T. Coates, A. Corti, H. Iritani, H.-H. Tseng. *The Crepant Resolution Conjecture for Type A Surface Singularities.* Inventiones mathematicae, 2009.
-- **[Survey]** T. Coates, Y. Ruan. *Quantum Cohomology and Crepant Resolutions: A Conjecture.* Annales de l'Institut Fourier, 2013.
+- **[Survey]** T. Coates, Y. Ruan. *Quantum Cohomology and Crepant Resolutions: A Conjecture.* Annales de l'Institut Fourier, 2013. [DOI](https://doi.org/10.5802/aif.2766)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -95,11 +95,11 @@ Leading mathematicians suggest the following pathways to generalize and fully ex
 - **[Foundational]** Drinfeld, V. G. *Quantum Groups*. Proceedings of the International Congress of Mathematicians, Berkeley, 1986.
 - **[Foundational]** Jimbo, M. *A $q$-difference analogue of $U(\mathfrak{g})$ and the Yang-Baxter equation*. Letters in Mathematical Physics, 1985.
 - **[Foundational]** Lusztig, G. *Introduction to Quantum Groups*. Progress in Mathematics, Birkhäuser, 1993.
-- **[Foundational]** Kashiwara, M. *On crystal bases of the Q-analogue of universal enveloping algebras*. Duke Mathematical Journal, 1991.
-- **[SOTA / Recent]** Khovanov, M., & Lauda, A. D. *A diagrammatic approach to categorification of quantum groups I*. Representation Theory of the American Mathematical Society, 2009.
+- **[Foundational]** Kashiwara, M. *On crystal bases of the Q-analogue of universal enveloping algebras*. Duke Mathematical Journal, 1991. [DOI](https://doi.org/10.1215/s0012-7094-91-06321-0)
+- **[SOTA / Recent]** Khovanov, M., & Lauda, A. D. *A diagrammatic approach to categorification of quantum groups I*. Representation Theory of the American Mathematical Society, 2009. [DOI](https://doi.org/10.1090/s1088-4165-09-00346-x)
 - **[SOTA / Recent]** Rouquier, R. *2-Kac-Moody algebras*. arXiv:0812.5023 (published later in various forms), 2008.
 - **[Survey]** Chari, V., & Pressley, A. *A Guide to Quantum Groups*. Cambridge University Press, 1994.
-- **[Survey]** Brundan, J. *Quiver Hecke algebras and categorification*. Current Developments in Mathematics, 2013.
+- **[Survey]** Brundan, J. *Quiver Hecke algebras and categorification*. Current Developments in Mathematics, 2013. [DOI](https://doi.org/10.4171/125-1/4)
 
 ## 10. Worked Example / Concrete Special Case
 

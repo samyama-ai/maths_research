@@ -114,21 +114,21 @@ Broué's conjecture would follow from a positive answer plus the (also open) cla
 ## 9. Key References
 
 - **[Foundational]** M. Broué. *Isométries parfaites, types de blocs, catégories dérivées.* Astérisque 181–182 (1990), 61–92.
-- **[Foundational]** J. Rickard. *Morita theory for derived categories.* Journal of the London Mathematical Society 39 (1989), 436–456.
-- **[Foundational]** J. Rickard. *Splendid equivalences: derived categories and permutation modules.* Proceedings of the London Mathematical Society 72 (1996), 331–358.
+- **[Foundational]** J. Rickard. *Morita theory for derived categories.* Journal of the London Mathematical Society 39 (1989), 436–456. [DOI](https://doi.org/10.1112/jlms/s2-39.3.436)
+- **[Foundational]** J. Rickard. *Splendid equivalences: derived categories and permutation modules.* Proceedings of the London Mathematical Society 72 (1996), 331–358. [DOI](https://doi.org/10.1112/plms/s3-72.2.331)
 - **[Foundational]** M. Linckelmann. *Derived equivalence for cyclic blocks over a $P$-adic ring.* Mathematische Zeitschrift 207 (1991), 293–304.
-- **[Reduction]** A. Marcus. *On equivalences between blocks of group algebras: reduction to the simple components.* Journal of Algebra 184 (1996), 372–396.
+- **[Reduction]** A. Marcus. *On equivalences between blocks of group algebras: reduction to the simple components.* Journal of Algebra 184 (1996), 372–396. [DOI](https://doi.org/10.1006/jabr.1996.0265)
 - **[SOTA]** J. Chuang, R. Rouquier. *Derived equivalences for symmetric groups and $\mathfrak{sl}_2$-categorification.* Annals of Mathematics 167 (2008), 245–298.
 - **[SOTA]** C. Bonnafé, J.-F. Dat, R. Rouquier. *Derived categories and Deligne–Lusztig varieties II.* Annals of Mathematics 185 (2017), 609–670.
-- **[SOTA]** C. Bonnafé, R. Rouquier. *Coxeter orbits and modular representations.* Nagoya Mathematical Journal 183 (2006), 1–34.
-- **[SOTA]** D. Craven, R. Rouquier. *Perverse equivalences and Broué's conjecture.* Advances in Mathematics 248 (2013), 1–58.
-- **[SOTA]** R. Kessar, S. Koshitani, M. Linckelmann. *Conjectures of Alperin and Broué for $2$-blocks with elementary abelian defect groups of order $8$.* Journal für die reine und angewandte Mathematik 671 (2012), 101–130.
+- **[SOTA]** C. Bonnafé, R. Rouquier. *Coxeter orbits and modular representations.* Nagoya Mathematical Journal 183 (2006), 1–34. [DOI](https://doi.org/10.1017/s0027763000009259)
+- **[SOTA]** D. Craven, R. Rouquier. *Perverse equivalences and Broué's conjecture.* Advances in Mathematics 248 (2013), 1–58. [DOI](https://doi.org/10.1016/j.aim.2013.07.010)
+- **[SOTA]** R. Kessar, S. Koshitani, M. Linckelmann. *Conjectures of Alperin and Broué for $2$-blocks with elementary abelian defect groups of order $8$.* Journal für die reine und angewandte Mathematik 671 (2012), 101–130. [DOI](https://doi.org/10.1515/crelle.2011.162)
 - **[SOTA]** C. Eaton, R. Kessar, B. Külshammer, B. Sambale. *$2$-blocks with abelian defect groups.* Advances in Mathematics 254 (2014), 706–735.
-- **[SOTA]** R. Kessar, G. Malle. *Quasi-isolated blocks and Brauer's height zero conjecture.* Annals of Mathematics 178 (2013), 321–384.
-- **[Related]** D. Craven, C. Eaton, R. Kessar, M. Linckelmann. *The structure of blocks with a Klein four defect group.* Mathematische Zeitschrift 268 (2011), 441–476.
+- **[SOTA]** R. Kessar, G. Malle. *Quasi-isolated blocks and Brauer's height zero conjecture.* Annals of Mathematics 178 (2013), 321–384. [DOI](https://doi.org/10.4007/annals.2013.178.1.6)
+- **[Related]** D. Craven, C. Eaton, R. Kessar, M. Linckelmann. *The structure of blocks with a Klein four defect group.* Mathematische Zeitschrift 268 (2011), 441–476. [DOI](https://doi.org/10.1007/s00209-010-0679-4)
 - **[Survey]** M. Linckelmann. *The Block Theory of Finite Group Algebras*, Vols. I–II. London Mathematical Society Student Texts 91–92, Cambridge University Press, 2018.
-- **[Survey]** R. Rouquier. *Derived equivalences and finite dimensional algebras.* Proceedings of the International Congress of Mathematicians, Madrid 2006, Vol. II, EMS, 191–221.
-- **[Survey]** J. Chuang, R. Kessar. *Symmetric groups, wreath products, Morita equivalences, and Broué's abelian defect group conjecture.* Bulletin of the London Mathematical Society 34 (2002), 174–184.
+- **[Survey]** R. Rouquier. *Derived equivalences and finite dimensional algebras.* Proceedings of the International Congress of Mathematicians, Madrid 2006, Vol. II, EMS, 191–221. [DOI](https://doi.org/10.4171/022-2/9)
+- **[Survey]** J. Chuang, R. Kessar. *Symmetric groups, wreath products, Morita equivalences, and Broué's abelian defect group conjecture.* Bulletin of the London Mathematical Society 34 (2002), 174–184. [DOI](https://doi.org/10.1112/s0024609301008839)
 
 ## 10. Worked Example / Concrete Special Case
 

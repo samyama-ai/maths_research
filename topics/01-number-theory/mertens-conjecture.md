@@ -82,8 +82,8 @@ Leading mathematicians and computational number theorists suggest the following 
 
 - **[Foundational]** Odlyzko, A. M., and te Riele, H. J. J. *The resolution of the Mertens conjecture.* Journal für die reine und angewandte Mathematik 357 (1985): 138-160.
 - **[Foundational]** Mertens, F. *Über eine zahlentheoretische Funktion.* Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Klasse 106 (1897): 761–830.
-- **[SOTA / Recent]** Hurst, G. *Computations of the Mertens function and improved bounds on the Mertens conjecture.* Mathematics of Computation 87(310) (2018): 1013-1028.
-- **[Survey]** Kotnik, T., and te Riele, H. *The Mertens conjecture revisited.* International Symposium on Algorithmic Number Theory (ANTS), Springer (2006): 156-167.
+- **[SOTA / Recent]** Hurst, G. *Computations of the Mertens function and improved bounds on the Mertens conjecture.* Mathematics of Computation 87(310) (2018): 1013-1028. [DOI](https://doi.org/10.1090/mcom/3275)
+- **[Survey]** Kotnik, T., and te Riele, H. *The Mertens conjecture revisited.* International Symposium on Algorithmic Number Theory (ANTS), Springer (2006): 156-167. [DOI](https://doi.org/10.1007/11792086_12)
 
 ## 10. Worked Example / Concrete Special Case
 

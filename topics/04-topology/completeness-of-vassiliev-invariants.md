@@ -111,21 +111,21 @@ from containing more than $K$. Completeness is exactly the statement that this i
 
 ## 9. Key References
 
-- **[Foundational]** V. A. Vassiliev. *Cohomology of knot spaces.* In *Theory of Singularities and its Applications* (V. I. Arnold, ed.), Advances in Soviet Mathematics 1, AMS, 1990, 23–69.
+- **[Foundational]** V. A. Vassiliev. *Cohomology of knot spaces.* In *Theory of Singularities and its Applications* (V. I. Arnold, ed.), Advances in Soviet Mathematics 1, AMS, 1990, 23–69. [DOI](https://doi.org/10.1090/advsov/001/03)
 - **[Foundational]** M. Kontsevich. *Vassiliev's knot invariants.* Advances in Soviet Mathematics 16 (Part 2), AMS, 1993, 137–150.
 - **[Foundational]** D. Bar-Natan. *On the Vassiliev knot invariants.* Topology 34 (1995), 423–472.
 - **[Foundational]** J. S. Birman, X.-S. Lin. *Knot polynomials and Vassiliev's invariants.* Inventiones Mathematicae 111 (1993), 225–270.
-- **[Structural]** K. Habiro. *Claspers and finite type invariants of links.* Geometry & Topology 4 (2000), 1–83.
-- **[Structural]** M. Goussarov. *Finite type invariants and n-equivalence of 3-manifolds.* C. R. Acad. Sci. Paris Sér. I Math. 329 (1999), 517–522.
-- **[SOTA / Recent]** P. Vogel. *Algebraic structures on modules of diagrams.* Journal of Pure and Applied Algebra 215 (2011), 1292–1339.
-- **[SOTA / Recent]** D. Zagier. *Vassiliev invariants and a strange identity related to the Dedekind eta-function.* Topology 40 (2001), 945–960.
-- **[Related]** G. Kuperberg. *Detecting knot invertibility.* Journal of Knot Theory and Its Ramifications 5 (1996), 173–181.
-- **[Related]** T. Stanford. *Braid commutators and Vassiliev invariants.* Pacific Journal of Mathematics 174 (1996), 269–276.
-- **[Related]** H. R. Morton, P. R. Cromwell. *Distinguishing mutants by knot polynomials.* Journal of Knot Theory and Its Ramifications 5 (1996), 225–238.
-- **[Related]** N. Habegger, X.-S. Lin. *The classification of links up to link-homotopy.* Journal of the AMS 3 (1990), 389–419.
+- **[Structural]** K. Habiro. *Claspers and finite type invariants of links.* Geometry & Topology 4 (2000), 1–83. [DOI](https://doi.org/10.2140/gt.2000.4.1)
+- **[Structural]** M. Goussarov. *Finite type invariants and n-equivalence of 3-manifolds.* C. R. Acad. Sci. Paris Sér. I Math. 329 (1999), 517–522. [DOI](https://doi.org/10.1016/s0764-4442(00)80053-1)
+- **[SOTA / Recent]** P. Vogel. *Algebraic structures on modules of diagrams.* Journal of Pure and Applied Algebra 215 (2011), 1292–1339. [DOI](https://doi.org/10.1016/j.jpaa.2010.08.013)
+- **[SOTA / Recent]** D. Zagier. *Vassiliev invariants and a strange identity related to the Dedekind eta-function.* Topology 40 (2001), 945–960. [DOI](https://doi.org/10.1016/s0040-9383(00)00005-7)
+- **[Related]** G. Kuperberg. *Detecting knot invertibility.* Journal of Knot Theory and Its Ramifications 5 (1996), 173–181. [DOI](https://doi.org/10.1142/s021821659600014x)
+- **[Related]** T. Stanford. *Braid commutators and Vassiliev invariants.* Pacific Journal of Mathematics 174 (1996), 269–276. [DOI](https://doi.org/10.2140/pjm.1996.174.269)
+- **[Related]** H. R. Morton, P. R. Cromwell. *Distinguishing mutants by knot polynomials.* Journal of Knot Theory and Its Ramifications 5 (1996), 225–238. [DOI](https://doi.org/10.1142/s0218216596000163)
+- **[Related]** N. Habegger, X.-S. Lin. *The classification of links up to link-homotopy.* Journal of the AMS 3 (1990), 389–419. [DOI](https://doi.org/10.2307/1990959)
 - **[Survey]** S. Chmutov, S. Duzhin, J. Mostovoy. *Introduction to Vassiliev Knot Invariants.* Cambridge University Press, 2012.
 - **[Survey]** S. Chmutov, S. Duzhin. *The Kontsevich integral.* Acta Applicandae Mathematicae 66 (2001), 155–190.
-- **[Survey]** P. M. Kronheimer, T. S. Mrowka. *Khovanov homology is an unknot-detector.* Publications Mathématiques de l'IHÉS 113 (2011), 97–208.
+- **[Survey]** P. M. Kronheimer, T. S. Mrowka. *Khovanov homology is an unknot-detector.* Publications Mathématiques de l'IHÉS 113 (2011), 97–208. [DOI](https://doi.org/10.1007/s10240-010-0030-y)
 
 ## 10. Worked Example / Concrete Special Case
 

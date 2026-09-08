@@ -111,23 +111,23 @@ Precisely: Yau's method needs (i) a closed reference form so that potentials are
 
 ## 9. Key References
 
-- **[Foundational]** E. Calabi. *On Kähler manifolds with vanishing canonical class.* In *Algebraic Geometry and Topology: A Symposium in Honor of S. Lefschetz*, Princeton University Press, 1957, pp. 78–89.
-- **[Foundational]** S.-T. Yau. *On the Ricci curvature of a compact Kähler manifold and the complex Monge–Ampère equation, I.* Communications on Pure and Applied Mathematics 31 (1978), 339–411.
+- **[Foundational]** E. Calabi. *On Kähler manifolds with vanishing canonical class.* In *Algebraic Geometry and Topology: A Symposium in Honor of S. Lefschetz*, Princeton University Press, 1957, pp. 78–89. [DOI](https://doi.org/10.1515/9781400879915-006)
+- **[Foundational]** S.-T. Yau. *On the Ricci curvature of a compact Kähler manifold and the complex Monge–Ampère equation, I.* Communications on Pure and Applied Mathematics 31 (1978), 339–411. [DOI](https://doi.org/10.1002/cpa.3160310304)
 - **[Foundational]** T. Aubin. *Équations du type Monge–Ampère sur les variétés kählériennes compactes.* Bulletin des Sciences Mathématiques 102 (1978), 63–95.
 - **[Foundational]** S. Kołodziej. *The complex Monge–Ampère equation.* Acta Mathematica 180 (1998), 69–117.
-- **[SOTA]** G. Székelyhidi, V. Tosatti, B. Weinkove. *Gauduchon metrics with prescribed volume form.* Acta Mathematica 219 (2017), 181–211.
+- **[SOTA]** G. Székelyhidi, V. Tosatti, B. Weinkove. *Gauduchon metrics with prescribed volume form.* Acta Mathematica 219 (2017), 181–211. [DOI](https://doi.org/10.4310/acta.2017.v219.n1.a6)
 - **[SOTA]** V. Tosatti, B. Weinkove. *The complex Monge–Ampère equation on compact Hermitian manifolds.* Journal of the AMS 23 (2010), 1187–1195.
 - **[SOTA]** X.-X. Chen, S. Donaldson, S. Sun. *Kähler–Einstein metrics on Fano manifolds, I, II, III.* Journal of the AMS 28 (2015), 183–197, 199–234, 235–278.
-- **[SOTA]** B. Guo, D. H. Phong, F. Tong. *On $L^\infty$ estimates for complex Monge–Ampère equations.* Annals of Mathematics 198 (2023), 393–418.
+- **[SOTA]** B. Guo, D. H. Phong, F. Tong. *On $L^\infty$ estimates for complex Monge–Ampère equations.* Annals of Mathematics 198 (2023), 393–418. [DOI](https://doi.org/10.4007/annals.2023.198.1.4)
 - **[SOTA]** X.-X. Chen, J. Cheng. *On the constant scalar curvature Kähler metrics (I), (II).* Journal of the AMS 34 (2021), 909–936, 937–1009.
-- **[Key problem source]** S. K. Donaldson. *Two-forms on four-manifolds and elliptic equations.* In *Inspired by S. S. Chern*, Nankai Tracts in Mathematics 11, World Scientific, 2006, pp. 153–172.
-- **[Partial results, G2]** V. Tosatti, B. Weinkove, S.-T. Yau. *Taming symplectic forms and the Calabi–Yau equation.* Proceedings of the London Mathematical Society 97 (2008), 401–424.
+- **[Key problem source]** S. K. Donaldson. *Two-forms on four-manifolds and elliptic equations.* In *Inspired by S. S. Chern*, Nankai Tracts in Mathematics 11, World Scientific, 2006, pp. 153–172. [DOI](https://doi.org/10.1142/9789812772688_0007)
+- **[Partial results, G2]** V. Tosatti, B. Weinkove, S.-T. Yau. *Taming symplectic forms and the Calabi–Yau equation.* Proceedings of the London Mathematical Society 97 (2008), 401–424. [DOI](https://doi.org/10.1112/plms/pdn008)
 - **[Singular case]** P. Eyssidieux, V. Guedj, A. Zeriahi. *Singular Kähler–Einstein metrics.* Journal of the AMS 22 (2009), 607–639.
-- **[Big classes]** S. Boucksom, P. Eyssidieux, V. Guedj, A. Zeriahi. *Monge–Ampère equations in big cohomology classes.* Acta Mathematica 205 (2010), 199–262.
-- **[Non-compact]** G. Tian, S.-T. Yau. *Complete Kähler manifolds with zero Ricci curvature, I.* Journal of the AMS 3 (1990), 579–609.
-- **[Non-Kähler CY]** J.-X. Fu, S.-T. Yau. *The theory of superstring with flux on non-Kähler manifolds and the complex Monge–Ampère equation.* Journal of Differential Geometry 78 (2008), 369–428.
-- **[Survey]** D. H. Phong, J. Song, J. Sturm. *Complex Monge–Ampère equations.* Surveys in Differential Geometry 17 (2012), 327–411.
-- **[Survey/Book]** V. Guedj, A. Zeriahi. *Degenerate Complex Monge–Ampère Equations.* EMS Tracts in Mathematics 26, 2017.
+- **[Big classes]** S. Boucksom, P. Eyssidieux, V. Guedj, A. Zeriahi. *Monge–Ampère equations in big cohomology classes.* Acta Mathematica 205 (2010), 199–262. [DOI](https://doi.org/10.1007/s11511-010-0054-7)
+- **[Non-compact]** G. Tian, S.-T. Yau. *Complete Kähler manifolds with zero Ricci curvature, I.* Journal of the AMS 3 (1990), 579–609. [DOI](https://doi.org/10.1090/s0894-0347-1990-1040196-6)
+- **[Non-Kähler CY]** J.-X. Fu, S.-T. Yau. *The theory of superstring with flux on non-Kähler manifolds and the complex Monge–Ampère equation.* Journal of Differential Geometry 78 (2008), 369–428. [DOI](https://doi.org/10.4310/jdg/1207834550)
+- **[Survey]** D. H. Phong, J. Song, J. Sturm. *Complex Monge–Ampère equations.* Surveys in Differential Geometry 17 (2012), 327–411. [DOI](https://doi.org/10.1016/b978-0-12-415826-9.00011-0)
+- **[Survey/Book]** V. Guedj, A. Zeriahi. *Degenerate Complex Monge–Ampère Equations.* EMS Tracts in Mathematics 26, 2017. [DOI](https://doi.org/10.4171/167)
 - **[Book]** G. Székelyhidi. *An Introduction to Extremal Kähler Metrics.* Graduate Studies in Mathematics 152, AMS, 2014.
 
 ## 10. Worked Example / Concrete Special Case

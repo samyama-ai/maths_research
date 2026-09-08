@@ -116,23 +116,23 @@ For the original question there is no gap: the answer is complete. The live boun
 ## 9. Key References
 
 - **[Foundational]** H. Busemann, C. M. Petty. *Problems on convex bodies.* Mathematica Scandinavica 4 (1956), 88–94.
-- **[Foundational]** D. G. Larman, C. A. Rogers. *The existence of a centrally symmetric convex body with central sections that are unexpectedly small.* Mathematika 22 (1975), 164–175.
+- **[Foundational]** D. G. Larman, C. A. Rogers. *The existence of a centrally symmetric convex body with central sections that are unexpectedly small.* Mathematika 22 (1975), 164–175. [DOI](https://doi.org/10.1112/s0025579300006033)
 - **[Foundational]** K. Ball. *Cube slicing in $\mathbb{R}^n$.* Proceedings of the AMS 97 (1986), 465–473.
-- **[Foundational]** E. Lutwak. *Intersection bodies and dual mixed volumes.* Advances in Mathematics 71 (1988), 232–261.
-- **[Milestone]** J. Bourgain. *On the Busemann–Petty problem for perturbations of the ball.* Geometric and Functional Analysis 1 (1991), 1–13.
+- **[Foundational]** E. Lutwak. *Intersection bodies and dual mixed volumes.* Advances in Mathematics 71 (1988), 232–261. [DOI](https://doi.org/10.1016/0001-8708(88)90077-1)
+- **[Milestone]** J. Bourgain. *On the Busemann–Petty problem for perturbations of the ball.* Geometric and Functional Analysis 1 (1991), 1–13. [DOI](https://doi.org/10.1007/bf01895416)
 - **[Milestone]** M. Papadimitrakis. *On the Busemann–Petty problem about convex, centrally symmetric bodies in $\mathbb{R}^n$.* Mathematika 39 (1992), 258–266.
-- **[Milestone]** R. J. Gardner. *A positive answer to the Busemann–Petty problem in three dimensions.* Annals of Mathematics 140 (1994), 435–447.
-- **[Milestone]** R. J. Gardner. *Intersection bodies and the Busemann–Petty problem.* Transactions of the AMS 342 (1994), 435–445.
-- **[SOTA]** G. Zhang. *A positive solution to the Busemann–Petty problem in $\mathbb{R}^4$.* Annals of Mathematics 149 (1999), 535–543.
-- **[SOTA]** R. J. Gardner, A. Koldobsky, T. Schlumprecht. *An analytic solution to the Busemann–Petty problem on sections of convex bodies.* Annals of Mathematics 149 (1999), 691–703.
-- **[SOTA]** A. Koldobsky. *Intersection bodies, positive definite distributions, and the Busemann–Petty problem.* American Journal of Mathematics 120 (1998), 827–840.
-- **[Extension]** J. Bourgain, G. Zhang. *On a generalization of the Busemann–Petty problem.* In *Convex Geometric Analysis*, MSRI Publications 34, Cambridge University Press, 1999, 65–76.
-- **[Extension]** B. Rubin, G. Zhang. *Generalizations of the Busemann–Petty problem for sections of convex bodies.* Journal of Functional Analysis 213 (2004), 473–501.
-- **[Extension]** A. Zvavitch. *The Busemann–Petty problem for arbitrary measures.* Mathematische Annalen 331 (2005), 867–887.
-- **[Extension]** A. Koldobsky, H. König, M. Zymonopoulou. *The complex Busemann–Petty problem on sections of convex bodies.* Advances in Mathematics 218 (2008), 352–367.
+- **[Milestone]** R. J. Gardner. *A positive answer to the Busemann–Petty problem in three dimensions.* Annals of Mathematics 140 (1994), 435–447. [DOI](https://doi.org/10.2307/2118606)
+- **[Milestone]** R. J. Gardner. *Intersection bodies and the Busemann–Petty problem.* Transactions of the AMS 342 (1994), 435–445. [DOI](https://doi.org/10.2307/2154703)
+- **[SOTA]** G. Zhang. *A positive solution to the Busemann–Petty problem in $\mathbb{R}^4$.* Annals of Mathematics 149 (1999), 535–543. [DOI](https://doi.org/10.2307/120974)
+- **[SOTA]** R. J. Gardner, A. Koldobsky, T. Schlumprecht. *An analytic solution to the Busemann–Petty problem on sections of convex bodies.* Annals of Mathematics 149 (1999), 691–703. [DOI](https://doi.org/10.2307/120978)
+- **[SOTA]** A. Koldobsky. *Intersection bodies, positive definite distributions, and the Busemann–Petty problem.* American Journal of Mathematics 120 (1998), 827–840. [DOI](https://doi.org/10.1353/ajm.1998.0030)
+- **[Extension]** J. Bourgain, G. Zhang. *On a generalization of the Busemann–Petty problem.* In *Convex Geometric Analysis*, MSRI Publications 34, Cambridge University Press, 1999, 65–76. [DOI](https://doi.org/10.1017/9781009701761.007)
+- **[Extension]** B. Rubin, G. Zhang. *Generalizations of the Busemann–Petty problem for sections of convex bodies.* Journal of Functional Analysis 213 (2004), 473–501. [DOI](https://doi.org/10.1016/j.jfa.2003.10.008)
+- **[Extension]** A. Zvavitch. *The Busemann–Petty problem for arbitrary measures.* Mathematische Annalen 331 (2005), 867–887. [DOI](https://doi.org/10.1007/s00208-004-0611-5)
+- **[Extension]** A. Koldobsky, H. König, M. Zymonopoulou. *The complex Busemann–Petty problem on sections of convex bodies.* Advances in Mathematics 218 (2008), 352–367. [DOI](https://doi.org/10.1016/j.aim.2007.12.006)
 - **[Survey]** R. J. Gardner. *Geometric Tomography.* 2nd edition, Cambridge University Press, 2006.
-- **[Survey]** A. Koldobsky. *Fourier Analysis in Convex Geometry.* Mathematical Surveys and Monographs 116, AMS, 2005.
-- **[Survey]** A. Koldobsky, V. Yaskin. *The Interface between Convex Geometry and Harmonic Analysis.* CBMS Regional Conference Series 108, AMS, 2008.
+- **[Survey]** A. Koldobsky. *Fourier Analysis in Convex Geometry.* Mathematical Surveys and Monographs 116, AMS, 2005. [DOI](https://doi.org/10.1090/surv/116)
+- **[Survey]** A. Koldobsky, V. Yaskin. *The Interface between Convex Geometry and Harmonic Analysis.* CBMS Regional Conference Series 108, AMS, 2008. [DOI](https://doi.org/10.1090/cbms/108)
 
 ## 10. Worked Example / Concrete Special Case
 

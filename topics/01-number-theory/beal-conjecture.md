@@ -94,8 +94,8 @@ Leading number theorists have suggested several potential pathways:
 
 - **[Foundational]** Mauldin, R. D. *A Generalization of Fermat's Last Theorem: The Beal Conjecture and Prize Problem.* Notices of the AMS, 44(11), 1997.
 - **[Foundational]** Darmon, H., & Granville, A. *On the equations $z^m = F(x, y)$ and $Ax^p + By^q = Cz^r$.* Bulletin of the London Mathematical Society, 27(6), 1995.
-- **[SOTA / Recent]** Bennett, M. A., Chen, I., Dahmen, S. R., & Yazdani, S. *Generalized Fermat equations: a miscellany.* International Journal of Number Theory, 10(06), 2014.
-- **[Survey]** Wiles, A. *Modular elliptic curves and Fermat's Last Theorem.* Annals of Mathematics, 141(3), 1995.
+- **[SOTA / Recent]** Bennett, M. A., Chen, I., Dahmen, S. R., & Yazdani, S. *Generalized Fermat equations: a miscellany.* International Journal of Number Theory, 10(06), 2014. [DOI](https://doi.org/10.1142/s179304211530001x)
+- **[Survey]** Wiles, A. *Modular elliptic curves and Fermat's Last Theorem.* Annals of Mathematics, 141(3), 1995. [DOI](https://doi.org/10.1007/978-3-0348-9078-6_18)
 
 ## 10. Worked Example / Concrete Special Case
 

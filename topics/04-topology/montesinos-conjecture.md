@@ -102,18 +102,18 @@ Equivalently: prove that the class of universal knots is closed under the operat
 
 ## 9. Key References
 
-- **[Foundational]** J. W. Alexander. *Note on Riemann spaces.* Bulletin of the American Mathematical Society 26 (1920), 370–372.
-- **[Foundational]** H. M. Hilden. *Every closed orientable 3-manifold is a 3-fold branched covering space of $S^3$.* Bulletin of the American Mathematical Society 80 (1974), 1243–1244.
-- **[Foundational]** J. M. Montesinos. *A representation of closed orientable 3-manifolds as 3-fold branched coverings of $S^3$.* Bulletin of the American Mathematical Society 80 (1974), 845–846.
+- **[Foundational]** J. W. Alexander. *Note on Riemann spaces.* Bulletin of the American Mathematical Society 26 (1920), 370–372. [DOI](https://doi.org/10.1090/s0002-9904-1920-03319-7)
+- **[Foundational]** H. M. Hilden. *Every closed orientable 3-manifold is a 3-fold branched covering space of $S^3$.* Bulletin of the American Mathematical Society 80 (1974), 1243–1244. [DOI](https://doi.org/10.1090/s0002-9904-1974-13699-2)
+- **[Foundational]** J. M. Montesinos. *A representation of closed orientable 3-manifolds as 3-fold branched coverings of $S^3$.* Bulletin of the American Mathematical Society 80 (1974), 845–846. [DOI](https://doi.org/10.1090/s0002-9904-1974-13535-4)
 - **[Foundational]** W. P. Thurston. *Universal links.* Preprint, Princeton University, 1982.
 - **[SOTA]** H. M. Hilden, M. T. Lozano, J. M. Montesinos. *Universal knots.* Bulletin of the American Mathematical Society (N.S.) 8 (1983), 449–450.
 - **[SOTA]** H. M. Hilden, M. T. Lozano, J. M. Montesinos. *On knots that are universal.* Topology 24 (1985), 499–504.
 - **[SOTA]** H. M. Hilden, M. T. Lozano, J. M. Montesinos. *Universal knots.* In *Knot Theory and Manifolds* (D. Rolfsen, ed.), Lecture Notes in Mathematics 1144, Springer, 1985, 25–59.
-- **[SOTA]** H. M. Hilden, M. T. Lozano, J. M. Montesinos. *On the Borromean orbifolds: geometry and arithmetic.* In *Topology '90*, de Gruyter, 1992, 133–167.
-- **[Survey / Book]** J. M. Montesinos. *Classical Tessellations and Three-Manifolds.* Universitext, Springer-Verlag, 1987.
-- **[Survey]** J. M. Montesinos. *Representing 3-manifolds by a universal branching set.* Mathematical Proceedings of the Cambridge Philosophical Society 94 (1983), 109–123.
-- **[Related, resolved]** M. K. Dąbkowski, J. H. Przytycki. *Burnside obstructions to the Montesinos–Nakanishi 3-move conjecture.* Geometry & Topology 6 (2002), 355–360.
-- **[Context]** R. H. Fox. *Covering spaces with singularities.* In *Algebraic Geometry and Topology: A Symposium in Honor of S. Lefschetz*, Princeton University Press, 1957, 243–257.
+- **[SOTA]** H. M. Hilden, M. T. Lozano, J. M. Montesinos. *On the Borromean orbifolds: geometry and arithmetic.* In *Topology '90*, de Gruyter, 1992, 133–167. [DOI](https://doi.org/10.1515/9783110857726.133)
+- **[Survey / Book]** J. M. Montesinos. *Classical Tessellations and Three-Manifolds.* Universitext, Springer-Verlag, 1987. [DOI](https://doi.org/10.1007/978-3-642-61572-6)
+- **[Survey]** J. M. Montesinos. *Representing 3-manifolds by a universal branching set.* Mathematical Proceedings of the Cambridge Philosophical Society 94 (1983), 109–123. [DOI](https://doi.org/10.1017/s0305004100060941)
+- **[Related, resolved]** M. K. Dąbkowski, J. H. Przytycki. *Burnside obstructions to the Montesinos–Nakanishi 3-move conjecture.* Geometry & Topology 6 (2002), 355–360. [DOI](https://doi.org/10.2140/gt.2002.6.355)
+- **[Context]** R. H. Fox. *Covering spaces with singularities.* In *Algebraic Geometry and Topology: A Symposium in Honor of S. Lefschetz*, Princeton University Press, 1957, 243–257. [DOI](https://doi.org/10.1515/9781400879915-019)
 
 ## 10. Worked Example / Concrete Special Case
 

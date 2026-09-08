@@ -115,9 +115,9 @@ If the current frontier claims hold up to rigorous peer review, the pathways for
 ## 9. Key References
 
 - **[Foundational]** Chudnovsky, G. V. *Singular points on complex hypersurfaces and multidimensional Schwarz lemma.* Progress in Mathematics 12, Birkhäuser, 1981.
-- **[Foundational]** Demailly, J.-P. *Formules de Jensen en plusieurs variables et applications arithmétiques.* Bulletin de la Société Mathématique de France, 1982.
-- **[Foundational]** Ein, L., Lazarsfeld, R., Smith, K. E. *Uniform bounds and symbolic powers on smooth varieties.* Inventiones mathematicae, 2001.
-- **[Survey]** Bocci, C., Harbourne, B. *Comparing Powers and Symbolic Powers of Ideals.* Journal of Algebraic Geometry, 2010.
+- **[Foundational]** Demailly, J.-P. *Formules de Jensen en plusieurs variables et applications arithmétiques.* Bulletin de la Société Mathématique de France, 1982. [DOI](https://doi.org/10.24033/bsmf.1954)
+- **[Foundational]** Ein, L., Lazarsfeld, R., Smith, K. E. *Uniform bounds and symbolic powers on smooth varieties.* Inventiones mathematicae, 2001. [DOI](https://doi.org/10.1007/s002220100121)
+- **[Survey]** Bocci, C., Harbourne, B. *Comparing Powers and Symbolic Powers of Ideals.* Journal of Algebraic Geometry, 2010. [DOI](https://doi.org/10.1090/s1056-3911-09-00530-x)
 - **[SOTA / Recent]** Hà, T. H., Sivakumar, A. *Chudnovsky's and Demailly's Conjectures for Points in Projective Space.* arXiv:2608.16040, 2026.
 
 ## 10. Worked Example / Concrete Special Case

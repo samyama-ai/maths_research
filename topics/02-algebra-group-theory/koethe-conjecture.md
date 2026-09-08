@@ -112,20 +112,20 @@ Concretely: for $a, b, c, d \in N$ all nilpotent, must $\begin{pmatrix} a & b \\
 
 ## 9. Key References
 
-- **[Foundational]** G. Köthe. *Die Struktur der Ringe, deren Restklassenring nach dem Radikalideal vollständig reduzibel ist.* Mathematische Zeitschrift 32 (1930), 161–186.
+- **[Foundational]** G. Köthe. *Die Struktur der Ringe, deren Restklassenring nach dem Radikalideal vollständig reduzibel ist.* Mathematische Zeitschrift 32 (1930), 161–186. [DOI](https://doi.org/10.1007/bf01194626)
 - **[Foundational]** S. A. Amitsur. *Radicals of polynomial rings.* Canadian Journal of Mathematics 8 (1956), 355–361.
-- **[Foundational]** J. Krempa. *Logical connections between some open problems concerning nil rings.* Fundamenta Mathematicae 76 (1972), 121–130.
+- **[Foundational]** J. Krempa. *Logical connections between some open problems concerning nil rings.* Fundamenta Mathematicae 76 (1972), 121–130. [DOI](https://doi.org/10.4064/fm-76-2-121-130)
 - **[Foundational]** I. Kaplansky. *Rings with a polynomial identity.* Bulletin of the AMS 54 (1948), 575–580.
-- **[Partial results]** J. Levitzki. *On nil subrings.* Israel Journal of Mathematics 1 (1963), 215–216.
-- **[Partial results]** I. N. Herstein, L. Small. *Nil rings satisfying certain chain conditions.* Canadian Journal of Mathematics 16 (1964), 771–776.
-- **[Partial results]** C. Lanski. *Nil subrings of Goldie rings are nilpotent.* Canadian Journal of Mathematics 21 (1969), 904–907.
+- **[Partial results]** J. Levitzki. *On nil subrings.* Israel Journal of Mathematics 1 (1963), 215–216. [DOI](https://doi.org/10.1007/bf02759721)
+- **[Partial results]** I. N. Herstein, L. Small. *Nil rings satisfying certain chain conditions.* Canadian Journal of Mathematics 16 (1964), 771–776. [DOI](https://doi.org/10.4153/cjm-1964-074-0)
+- **[Partial results]** C. Lanski. *Nil subrings of Goldie rings are nilpotent.* Canadian Journal of Mathematics 21 (1969), 904–907. [DOI](https://doi.org/10.4153/cjm-1969-098-x)
 - **[Partial results]** A. A. Klein. *Rings of bounded index.* Communications in Algebra 12 (1984), 9–21.
-- **[SOTA / Recent]** A. Smoktunowicz. *Polynomial rings over nil rings need not be nil.* Journal of Algebra 233 (2000), 427–436.
-- **[SOTA / Recent]** A. Smoktunowicz. *A simple nil ring exists.* Communications in Algebra 30 (2002), 27–59.
-- **[SOTA / Recent]** T. H. Lenagan, A. Smoktunowicz. *An infinite dimensional affine nil algebra with finite Gelfand–Kirillov dimension.* Journal of the AMS 20 (2007), 989–1001.
-- **[SOTA / Recent]** E. R. Puczyłowski, A. Smoktunowicz. *On maximal ideals and the Brown–McCoy radical of polynomial rings.* Communications in Algebra 26 (1998), 2473–2482.
-- **[Survey]** E. R. Puczyłowski. *Questions related to Koethe's nil ideal problem.* In *Algebra and Its Applications*, Contemporary Mathematics 419, AMS, 2006, 269–283.
-- **[Survey]** A. Smoktunowicz. *Some results in noncommutative ring theory.* Proceedings of the ICM, Madrid 2006, Vol. II, EMS, 259–269.
+- **[SOTA / Recent]** A. Smoktunowicz. *Polynomial rings over nil rings need not be nil.* Journal of Algebra 233 (2000), 427–436. [DOI](https://doi.org/10.1006/jabr.2000.8451)
+- **[SOTA / Recent]** A. Smoktunowicz. *A simple nil ring exists.* Communications in Algebra 30 (2002), 27–59. [DOI](https://doi.org/10.1081/agb-120006478)
+- **[SOTA / Recent]** T. H. Lenagan, A. Smoktunowicz. *An infinite dimensional affine nil algebra with finite Gelfand–Kirillov dimension.* Journal of the AMS 20 (2007), 989–1001. [DOI](https://doi.org/10.1090/s0894-0347-07-00565-6)
+- **[SOTA / Recent]** E. R. Puczyłowski, A. Smoktunowicz. *On maximal ideals and the Brown–McCoy radical of polynomial rings.* Communications in Algebra 26 (1998), 2473–2482. [DOI](https://doi.org/10.1080/00927879808826292)
+- **[Survey]** E. R. Puczyłowski. *Questions related to Koethe's nil ideal problem.* In *Algebra and Its Applications*, Contemporary Mathematics 419, AMS, 2006, 269–283. [DOI](https://doi.org/10.1090/conm/419/08010)
+- **[Survey]** A. Smoktunowicz. *Some results in noncommutative ring theory.* Proceedings of the ICM, Madrid 2006, Vol. II, EMS, 259–269. [DOI](https://doi.org/10.4171/022-2/12)
 - **[Textbook]** T. Y. Lam. *A First Course in Noncommutative Rings*, 2nd ed. Graduate Texts in Mathematics 131, Springer, 2001 (§10: the Köthe conjecture).
 - **[Textbook]** K. R. Goodearl, R. B. Warfield Jr. *An Introduction to Noncommutative Noetherian Rings*, 2nd ed. Cambridge University Press, 2004.
 

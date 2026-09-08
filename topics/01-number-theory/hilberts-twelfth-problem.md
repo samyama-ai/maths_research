@@ -85,8 +85,8 @@ Leading mathematicians have outlined several pathways for future research:
 
 - **[Foundational]** Hilbert, D. *Mathematical Problems*. Bulletin of the American Mathematical Society, 1902.
 - **[Foundational]** Stark, H. M. *L-functions at $s=1$. I*. Advances in Mathematics, 7(3), 301-343, 1971.
-- **[SOTA / Recent]** Dasgupta, S., & Kakde, M. *On the Brumer-Stark conjecture*. Annals of Mathematics, 197(1), 289-388, 2023.
-- **[SOTA / Recent]** Darmon, H., & Vonk, J. *Singular moduli for real quadratic fields: a rigid analytic approach*. Duke Mathematical Journal, 170(1), 23-93, 2021.
+- **[SOTA / Recent]** Dasgupta, S., & Kakde, M. *On the Brumer-Stark conjecture*. Annals of Mathematics, 197(1), 289-388, 2023. [DOI](https://doi.org/10.4007/annals.2023.197.1.5)
+- **[SOTA / Recent]** Darmon, H., & Vonk, J. *Singular moduli for real quadratic fields: a rigid analytic approach*. Duke Mathematical Journal, 170(1), 23-93, 2021. [DOI](https://doi.org/10.1215/00127094-2020-0035)
 - **[Survey]** Schappacher, N. *On the history of Hilbert's twelfth problem: a comedy of errors*. Matériaux pour l'histoire des mathématiques au XXe siècle, 1998.
 
 ## 10. Worked Example / Concrete Special Case

@@ -104,25 +104,25 @@ Section 4 gives closed formulas exactly where $\mathrm{Kh}$ is thin or where the
 
 ## 9. Key References
 
-- **[Foundational]** M. Khovanov. *A categorification of the Jones polynomial.* Duke Math. J. 101 (2000), 359–426.
-- **[Foundational]** E. S. Lee. *An endomorphism of the Khovanov invariant.* Adv. Math. 197 (2005), 554–586.
-- **[Foundational]** J. Rasmussen. *Khovanov homology and the slice genus.* Invent. Math. 182 (2010), 419–447.
-- **[Foundational]** P. B. Kronheimer, T. S. Mrowka. *Gauge theory for embedded surfaces, I.* Topology 32 (1993), 773–826.
-- **[Foundational]** D. Bar-Natan. *Khovanov's homology for tangles and cobordisms.* Geom. Topol. 9 (2005), 1443–1499.
-- **[Foundational]** M. Jacobsson. *An invariant of link cobordisms from Khovanov homology.* Algebr. Geom. Topol. 4 (2004), 1211–1251.
-- **[SOTA]** P. B. Kronheimer, T. S. Mrowka. *Khovanov homology is an unknot-detector.* Publ. Math. IHÉS 113 (2011), 97–208.
+- **[Foundational]** M. Khovanov. *A categorification of the Jones polynomial.* Duke Math. J. 101 (2000), 359–426. [DOI](https://doi.org/10.1215/s0012-7094-00-10131-7)
+- **[Foundational]** E. S. Lee. *An endomorphism of the Khovanov invariant.* Adv. Math. 197 (2005), 554–586. [DOI](https://doi.org/10.1016/j.aim.2004.10.015)
+- **[Foundational]** J. Rasmussen. *Khovanov homology and the slice genus.* Invent. Math. 182 (2010), 419–447. [DOI](https://doi.org/10.1007/s00222-010-0275-6)
+- **[Foundational]** P. B. Kronheimer, T. S. Mrowka. *Gauge theory for embedded surfaces, I.* Topology 32 (1993), 773–826. [DOI](https://doi.org/10.1016/0040-9383(93)90051-v)
+- **[Foundational]** D. Bar-Natan. *Khovanov's homology for tangles and cobordisms.* Geom. Topol. 9 (2005), 1443–1499. [DOI](https://doi.org/10.2140/gt.2005.9.1443)
+- **[Foundational]** M. Jacobsson. *An invariant of link cobordisms from Khovanov homology.* Algebr. Geom. Topol. 4 (2004), 1211–1251. [DOI](https://doi.org/10.2140/agt.2004.4.1211)
+- **[SOTA]** P. B. Kronheimer, T. S. Mrowka. *Khovanov homology is an unknot-detector.* Publ. Math. IHÉS 113 (2011), 97–208. [DOI](https://doi.org/10.1007/s10240-010-0030-y)
 - **[SOTA]** R. Lipshitz, S. Sarkar. *A refinement of Rasmussen's s-invariant.* Duke Math. J. 163 (2014), 923–952.
-- **[SOTA]** L. Piccirillo. *The Conway knot is not slice.* Ann. of Math. 191 (2020), 581–591.
-- **[SOTA]** C. Manolescu, M. Marengon. *The knight move conjecture is false.* Proc. Amer. Math. Soc. 148 (2020), 435–439.
-- **[SOTA]** C. Manolescu, M. Marengon, S. Sarkar, M. Willis. *A generalization of Rasmussen's invariant, with applications to surfaces in some four-manifolds.* Duke Math. J. 172 (2023), 231–311.
-- **[SOTA]** D. Schütz. *A fast algorithm for calculating S-invariants.* Glasg. Math. J. 62 (2020), 617–642.
-- **[Computational]** M. Freedman, R. Gompf, S. Morrison, K. Walker. *Man and machine thinking about the smooth 4-dimensional Poincaré conjecture.* Quantum Topology 1 (2010), 171–208.
-- **[Related]** M. Hedden, P. Ording. *The Ozsváth–Szabó and Rasmussen concordance invariants are not equal.* Amer. J. Math. 130 (2008), 441–453.
+- **[SOTA]** L. Piccirillo. *The Conway knot is not slice.* Ann. of Math. 191 (2020), 581–591. [DOI](https://doi.org/10.4007/annals.2020.191.2.5)
+- **[SOTA]** C. Manolescu, M. Marengon. *The knight move conjecture is false.* Proc. Amer. Math. Soc. 148 (2020), 435–439. [DOI](https://doi.org/10.1090/proc/14694)
+- **[SOTA]** C. Manolescu, M. Marengon, S. Sarkar, M. Willis. *A generalization of Rasmussen's invariant, with applications to surfaces in some four-manifolds.* Duke Math. J. 172 (2023), 231–311. [DOI](https://doi.org/10.1215/00127094-2022-0039)
+- **[SOTA]** D. Schütz. *A fast algorithm for calculating S-invariants.* Glasg. Math. J. 62 (2020), 617–642. [DOI](https://doi.org/10.1017/s0017089520000257)
+- **[Computational]** M. Freedman, R. Gompf, S. Morrison, K. Walker. *Man and machine thinking about the smooth 4-dimensional Poincaré conjecture.* Quantum Topology 1 (2010), 171–208. [DOI](https://doi.org/10.4171/qt/5)
+- **[Related]** M. Hedden, P. Ording. *The Ozsváth–Szabó and Rasmussen concordance invariants are not equal.* Amer. J. Math. 130 (2008), 441–453. [DOI](https://doi.org/10.1353/ajm.2008.0017)
 - **[Related]** A. Lobb. *A slice genus lower bound from sl(n) Khovanov–Rozansky homology.* Adv. Math. 222 (2009), 1220–1276.
-- **[Related]** H. Wu. *On the quantum filtration of the Khovanov–Rozansky cohomology.* Adv. Math. 221 (2009), 54–139.
-- **[Related]** T. Abe. *The Rasmussen invariant of a homogeneous knot.* Proc. Amer. Math. Soc. 139 (2011), 2647–2656.
-- **[Related]** C. Manolescu, P. Ozsváth, S. Sarkar. *A combinatorial description of knot Floer homology.* Ann. of Math. 169 (2009), 633–660.
-- **[Survey]** P. Turner. *Five lectures on Khovanov homology.* J. Knot Theory Ramifications 26 (2017), 1741009.
+- **[Related]** H. Wu. *On the quantum filtration of the Khovanov–Rozansky cohomology.* Adv. Math. 221 (2009), 54–139. [DOI](https://doi.org/10.1016/j.aim.2008.12.003)
+- **[Related]** T. Abe. *The Rasmussen invariant of a homogeneous knot.* Proc. Amer. Math. Soc. 139 (2011), 2647–2656. [DOI](https://doi.org/10.1090/s0002-9939-2010-10687-1)
+- **[Related]** C. Manolescu, P. Ozsváth, S. Sarkar. *A combinatorial description of knot Floer homology.* Ann. of Math. 169 (2009), 633–660. [DOI](https://doi.org/10.4007/annals.2009.169.633)
+- **[Survey]** P. Turner. *Five lectures on Khovanov homology.* J. Knot Theory Ramifications 26 (2017), 1741009. [DOI](https://doi.org/10.1142/s0218216517410097)
 
 ## 10. Worked Example / Concrete Special Case
 

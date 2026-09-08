@@ -87,11 +87,11 @@ Leading algebraists and algebraic geometers suggest several pathways for either 
 - **Topological Invariants of $D$-modules:** Exploring whether advanced homological invariants—such as Hochschild homology, cyclic homology, or the K-theory of localized Weyl algebras—can definitively distinguish between automorphisms and strictly injective endomorphisms.
 
 ## 9. Key References
-- **[Foundational]** J. Dixmier. *Sur les algèbres de Weyl.* Bulletin de la Société Mathématique de France, 1968.
-- **[Foundational]** A. Belov-Kanel, M. Kontsevich. *The Jacobian conjecture is stably equivalent to the Dixmier conjecture.* Moscow Mathematical Journal, 2007.
+- **[Foundational]** J. Dixmier. *Sur les algèbres de Weyl.* Bulletin de la Société Mathématique de France, 1968. [DOI](https://doi.org/10.24033/bsmf.1667)
+- **[Foundational]** A. Belov-Kanel, M. Kontsevich. *The Jacobian conjecture is stably equivalent to the Dixmier conjecture.* Moscow Mathematical Journal, 2007. [DOI](https://doi.org/10.17323/1609-4514-2007-7-2-209-218)
 - **[Foundational]** Y. Tsuchimoto. *Endomorphisms of Weyl algebra and p-curvatures.* Osaka Journal of Mathematics, 2005.
-- **[Survey]** A. van den Essen. *Polynomial Automorphisms and the Jacobian Conjecture.* Progress in Mathematics, Birkhäuser, 2000.
-- **[SOTA / Recent]** V. Bavula. *The inversion formula for automorphisms of the Weyl algebras and polynomial algebras.* Journal of Pure and Applied Algebra, 2007.
+- **[Survey]** A. van den Essen. *Polynomial Automorphisms and the Jacobian Conjecture.* Progress in Mathematics, Birkhäuser, 2000. [DOI](https://doi.org/10.2307/3621827)
+- **[SOTA / Recent]** V. Bavula. *The inversion formula for automorphisms of the Weyl algebras and polynomial algebras.* Journal of Pure and Applied Algebra, 2007. [DOI](https://doi.org/10.1016/j.jpaa.2006.09.002)
 
 ## 10. Worked Example / Concrete Special Case
 To ground the abstract definitions, consider the first Weyl algebra $A_1(\mathbb{C})$ with generators $x$ and $y$ satisfying the single fundamental relation:

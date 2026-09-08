@@ -94,21 +94,21 @@ The gap is one certified inequality. For the KT/Conway pair, the known facts giv
 
 ## 9. Key References
 
-- **[Foundational]** J. H. Conway. *An enumeration of knots and links, and some of their algebraic properties.* In "Computational Problems in Abstract Algebra", Pergamon Press, 1970, 329–358.
+- **[Foundational]** J. H. Conway. *An enumeration of knots and links, and some of their algebraic properties.* In "Computational Problems in Abstract Algebra", Pergamon Press, 1970, 329–358. [DOI](https://doi.org/10.1016/b978-0-08-012975-4.50034-5)
 - **[Foundational]** S. Kinoshita, H. Terasaka. *On unions of knots.* Osaka Mathematical Journal 9 (1957), 131–153.
-- **[Foundational]** W. B. R. Lickorish, K. C. Millett. *A polynomial invariant of oriented links.* Topology 26 (1987), 107–141.
+- **[Foundational]** W. B. R. Lickorish, K. C. Millett. *A polynomial invariant of oriented links.* Topology 26 (1987), 107–141. [DOI](https://doi.org/10.1016/0040-9383(87)90025-5)
 - **[Foundational]** D. Ruberman. *Mutation and volumes of knots in $S^3$.* Inventiones Mathematicae 90 (1987), 189–215.
-- **[Foundational]** P. Kronheimer, T. Mrowka. *Gauge theory for embedded surfaces, I.* Topology 32 (1993), 773–826.
-- **[SOTA]** L. Piccirillo. *The Conway knot is not slice.* Annals of Mathematics 191 (2020), 581–591.
+- **[Foundational]** P. Kronheimer, T. Mrowka. *Gauge theory for embedded surfaces, I.* Topology 32 (1993), 773–826. [DOI](https://doi.org/10.1016/0040-9383(93)90051-v)
+- **[SOTA]** L. Piccirillo. *The Conway knot is not slice.* Annals of Mathematics 191 (2020), 581–591. [DOI](https://doi.org/10.4007/annals.2020.191.2.5)
 - **[SOTA]** C. McA. Gordon, J. Luecke. *Knots with unknotting number one and essential Conway spheres.* Algebraic & Geometric Topology 6 (2006), 2051–2116.
-- **[SOTA]** P. Ozsváth, Z. Szabó. *Knots with unknotting number one and Heegaard Floer homology.* Topology 44 (2005), 705–745.
-- **[SOTA]** J. Rasmussen. *Khovanov homology and the slice genus.* Inventiones Mathematicae 182 (2010), 419–447.
-- **[SOTA]** S. Wehrli. *Mutation invariance of Khovanov homology over $\mathbb{F}_2$.* Quantum Topology 1 (2010), 111–128.
-- **[SOTA]** J. M. Bloom. *Odd Khovanov homology is mutation invariant.* Mathematical Research Letters 17 (2010), 1–10.
+- **[SOTA]** P. Ozsváth, Z. Szabó. *Knots with unknotting number one and Heegaard Floer homology.* Topology 44 (2005), 705–745. [DOI](https://doi.org/10.1016/j.top.2005.01.002)
+- **[SOTA]** J. Rasmussen. *Khovanov homology and the slice genus.* Inventiones Mathematicae 182 (2010), 419–447. [DOI](https://doi.org/10.1007/s00222-010-0275-6)
+- **[SOTA]** S. Wehrli. *Mutation invariance of Khovanov homology over $\mathbb{F}_2$.* Quantum Topology 1 (2010), 111–128. [DOI](https://doi.org/10.4171/qt/3)
+- **[SOTA]** J. M. Bloom. *Odd Khovanov homology is mutation invariant.* Mathematical Research Letters 17 (2010), 1–10. [DOI](https://doi.org/10.4310/mrl.2010.v17.n1.a1)
 - **[SOTA]** C. Zibrowius. *On symmetries of peculiar modules; or, $\delta$-graded knot Floer homology is mutation invariant.* Preprint, 2019.
-- **[Recent]** A. Moore, L. Starkston. *Genus-two mutant knots with the same dimension in knot Floer and Khovanov homology.* Algebraic & Geometric Topology 15 (2015), 43–63.
-- **[Recent]** A. Stoimenow. *Polynomial values, the linking form and unknotting numbers.* Mathematical Research Letters 11 (2004), 755–769.
-- **[Survey]** R. Kirby (ed.). *Problems in Low-Dimensional Topology.* AMS/IP Studies in Advanced Mathematics 2.2, 1997.
+- **[Recent]** A. Moore, L. Starkston. *Genus-two mutant knots with the same dimension in knot Floer and Khovanov homology.* Algebraic & Geometric Topology 15 (2015), 43–63. [DOI](https://doi.org/10.2140/agt.2015.15.43)
+- **[Recent]** A. Stoimenow. *Polynomial values, the linking form and unknotting numbers.* Mathematical Research Letters 11 (2004), 755–769. [DOI](https://doi.org/10.4310/mrl.2004.v11.n6.a4)
+- **[Survey]** R. Kirby (ed.). *Problems in Low-Dimensional Topology.* AMS/IP Studies in Advanced Mathematics 2.2, 1997. [DOI](https://doi.org/10.1090/amsip/002.2/02)
 - **[Survey]** C. Livingston, A. H. Moore. *KnotInfo: Table of Knot Invariants.* Online database, accessed 2026.
 
 ## 10. Worked Example / Concrete Special Case

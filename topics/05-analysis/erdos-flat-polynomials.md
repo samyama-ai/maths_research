@@ -114,9 +114,9 @@ Leading mathematicians emphasize that resolving the Erdős conjecture requires a
 
 - **[Foundational]** Erdős, P. *Some unsolved problems*. Michigan Mathematical Journal, 1957. 
 - **[Foundational]** Littlewood, J. E. *On polynomials $\sum^n \pm z^m$, $\sum^n e^{\alpha_m i}z^m$, $z = e^{\theta i}$*. Journal of the London Mathematical Society, 1966.
-- **[SOTA / Recent]** Balister, P., Bollobás, B., Morris, R., Sahasrabudhe, J., & Tiba, M. *Flat Littlewood Polynomials Exist*. Annals of Mathematics, 2020.
+- **[SOTA / Recent]** Balister, P., Bollobás, B., Morris, R., Sahasrabudhe, J., & Tiba, M. *Flat Littlewood Polynomials Exist*. Annals of Mathematics, 2020. [DOI](https://doi.org/10.4007/annals.2020.192.3.6)
 - **[Survey]** Erdélyi, T. *Polynomials with Littlewood-type coefficient constraints*. Approximation Theory X: Abstract and Classical Analysis, 2001.
-- **[Survey]** Jedwab, J. *A survey of the merit factor problem for binary sequences*. Sequences and Their Applications, 2005.
+- **[Survey]** Jedwab, J. *A survey of the merit factor problem for binary sequences*. Sequences and Their Applications, 2005. [DOI](https://doi.org/10.1007/11423461_2)
 
 ## 10. Worked Example / Concrete Special Case
 

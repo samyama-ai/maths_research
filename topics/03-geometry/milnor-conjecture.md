@@ -101,20 +101,20 @@ The remaining gap is dimensions $4$ and $5$. Below dimension $4$ the splitting t
 
 ## 9. Key References
 
-- **[Foundational]** J. Milnor. *A note on curvature and fundamental group.* Journal of Differential Geometry, 2 (1968), 1–7.
+- **[Foundational]** J. Milnor. *A note on curvature and fundamental group.* Journal of Differential Geometry, 2 (1968), 1–7. [DOI](https://doi.org/10.4310/jdg/1214501132)
 - **[Foundational]** J. Cheeger, D. Gromoll. *The splitting theorem for manifolds of non-negative Ricci curvature.* Journal of Differential Geometry, 6 (1971), 119–128.
-- **[Foundational]** J. Cheeger, D. Gromoll. *On the structure of complete manifolds of nonnegative curvature.* Annals of Mathematics, 96 (1972), 413–443.
+- **[Foundational]** J. Cheeger, D. Gromoll. *On the structure of complete manifolds of nonnegative curvature.* Annals of Mathematics, 96 (1972), 413–443. [DOI](https://doi.org/10.2307/1970819)
 - **[Foundational]** M. Gromov. *Groups of polynomial growth and expanding maps.* Publications Mathématiques de l'IHÉS, 53 (1981), 53–73.
 - **[Partial]** P. Li. *Large time behavior of the heat equation on complete manifolds with nonnegative Ricci curvature.* Annals of Mathematics, 124 (1986), 1–21.
 - **[Partial]** M. Anderson. *On the topology of complete manifolds of nonnegative Ricci curvature.* Topology, 29 (1990), 41–55.
-- **[Partial]** C. Sormani. *Nonnegative Ricci curvature, small linear diameter growth and finite generation of fundamental groups.* Journal of Differential Geometry, 54 (2000), 547–559.
-- **[Partial]** B. Wilking. *On fundamental groups of manifolds of nonnegative curvature.* Differential Geometry and its Applications, 13 (2000), 129–165.
-- **[Partial]** G. Liu. *3-manifolds with nonnegative Ricci curvature.* Inventiones Mathematicae, 193 (2013), 367–375.
+- **[Partial]** C. Sormani. *Nonnegative Ricci curvature, small linear diameter growth and finite generation of fundamental groups.* Journal of Differential Geometry, 54 (2000), 547–559. [DOI](https://doi.org/10.4310/jdg/1214339792)
+- **[Partial]** B. Wilking. *On fundamental groups of manifolds of nonnegative curvature.* Differential Geometry and its Applications, 13 (2000), 129–165. [DOI](https://doi.org/10.1016/s0926-2245(00)00030-9)
+- **[Partial]** G. Liu. *3-manifolds with nonnegative Ricci curvature.* Inventiones Mathematicae, 193 (2013), 367–375. [DOI](https://doi.org/10.1007/s00222-012-0428-x)
 - **[SOTA]** E. Bruè, A. Naber, D. Semola. *Fundamental Groups and the Milnor Conjecture.* arXiv:2303.15347 (2023); Annals of Mathematics (2025).
 - **[SOTA]** E. Bruè, A. Naber, D. Semola. *Six dimensional counterexample to the Milnor Conjecture.* arXiv:2311.12155 (2023).
-- **[SOTA]** J. Pan. *Nonnegative Ricci curvature, stability at infinity and finite generation of fundamental groups.* Geometry & Topology, 23 (2019), 3203–3231.
-- **[SOTA]** J. Pan, G. Wei. *Examples of Ricci limit spaces with non-integer Hausdorff dimension.* Geometric and Functional Analysis, 32 (2022), 676–685.
-- **[Survey]** J. Cheeger, T. Colding. *On the structure of spaces with Ricci curvature bounded below, I.* Journal of Differential Geometry, 46 (1997), 406–480.
+- **[SOTA]** J. Pan. *Nonnegative Ricci curvature, stability at infinity and finite generation of fundamental groups.* Geometry & Topology, 23 (2019), 3203–3231. [DOI](https://doi.org/10.2140/gt.2019.23.3203)
+- **[SOTA]** J. Pan, G. Wei. *Examples of Ricci limit spaces with non-integer Hausdorff dimension.* Geometric and Functional Analysis, 32 (2022), 676–685. [DOI](https://doi.org/10.1007/s00039-022-00598-4)
+- **[Survey]** J. Cheeger, T. Colding. *On the structure of spaces with Ricci curvature bounded below, I.* Journal of Differential Geometry, 46 (1997), 406–480. [DOI](https://doi.org/10.4310/jdg/1214459974)
 - **[Survey]** V. Kapovitch, B. Wilking. *Structure of fundamental groups of manifolds with Ricci curvature bounded below.* arXiv:1105.5955 (2011).
 
 ## 10. Worked Example / Concrete Special Case

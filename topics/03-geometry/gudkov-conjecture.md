@@ -105,17 +105,17 @@ Not proven: a *complete* system of restrictions. The precise missing step is a f
 - **[Foundational]** A. Harnack. *Über die Vieltheiligkeit der ebenen algebraischen Curven.* Mathematische Annalen 10 (1876), 189–198.
 - **[Foundational]** D. Hilbert. *Über die reellen Züge algebraischer Curven.* Mathematische Annalen 38 (1891), 115–138.
 - **[Foundational]** D. A. Gudkov. *Complete topological classification of the disposition of ovals of a sixth order curve in the projective plane* (Russian). Gor'kov. Gos. Univ. Uchen. Zap. 87 (1969), 118–153.
-- **[Foundational]** V. I. Arnold. *On the arrangement of ovals of real plane algebraic curves, involutions of four-dimensional smooth manifolds, and the arithmetic of integral quadratic forms.* Functional Analysis and Its Applications 5 (1971), 169–176.
+- **[Foundational]** V. I. Arnold. *On the arrangement of ovals of real plane algebraic curves, involutions of four-dimensional smooth manifolds, and the arithmetic of integral quadratic forms.* Functional Analysis and Its Applications 5 (1971), 169–176. [DOI](https://doi.org/10.1007/978-3-642-31031-7_26)
 - **[Foundational]** V. A. Rokhlin. *Proof of Gudkov's hypothesis.* Functional Analysis and Its Applications 6 (1972), 136–138.
-- **[Extension]** D. A. Gudkov, A. D. Krakhnov. *On the periodicity of the Euler characteristic of real algebraic $(M-1)$-manifolds.* Functional Analysis and Its Applications 7 (1973), 98–102.
-- **[Extension]** V. M. Kharlamov. *New congruences for the Euler characteristic of real algebraic manifolds.* Functional Analysis and Its Applications 7 (1973), 147–150.
-- **[Foundational]** V. A. Rokhlin. *Complex topological characteristics of real algebraic curves.* Russian Mathematical Surveys 33:5 (1978), 85–98.
-- **[Survey]** D. A. Gudkov. *The topology of real projective algebraic varieties.* Russian Mathematical Surveys 29:4 (1974), 1–79.
+- **[Extension]** D. A. Gudkov, A. D. Krakhnov. *On the periodicity of the Euler characteristic of real algebraic $(M-1)$-manifolds.* Functional Analysis and Its Applications 7 (1973), 98–102. [DOI](https://doi.org/10.1007/bf01078880)
+- **[Extension]** V. M. Kharlamov. *New congruences for the Euler characteristic of real algebraic manifolds.* Functional Analysis and Its Applications 7 (1973), 147–150. [DOI](https://doi.org/10.1007/bf01078887)
+- **[Foundational]** V. A. Rokhlin. *Complex topological characteristics of real algebraic curves.* Russian Mathematical Surveys 33:5 (1978), 85–98. [DOI](https://doi.org/10.1070/rm1978v033n05abeh002514)
+- **[Survey]** D. A. Gudkov. *The topology of real projective algebraic varieties.* Russian Mathematical Surveys 29:4 (1974), 1–79. [DOI](https://doi.org/10.1070/rm1974v029n04abeh001288)
 - **[Survey]** G. Wilson. *Hilbert's sixteenth problem.* Topology 17 (1978), 53–73.
-- **[Survey]** O. Ya. Viro. *Progress in the topology of real algebraic varieties over the last six years.* Russian Mathematical Surveys 41:3 (1986), 55–82.
+- **[Survey]** O. Ya. Viro. *Progress in the topology of real algebraic varieties over the last six years.* Russian Mathematical Surveys 41:3 (1986), 55–82. [DOI](https://doi.org/10.1070/rm1986v041n03abeh003317)
 - **[Survey]** A. Degtyarev, V. Kharlamov. *Topological properties of real algebraic varieties: Rokhlin's way.* Russian Mathematical Surveys 55:4 (2000), 735–814.
-- **[SOTA]** S. Yu. Orevkov. *Link theory and oval arrangements of real algebraic curves.* Topology 38 (1999), 779–810.
-- **[SOTA]** I. Itenberg, O. Viro. *Patchworking algebraic curves disproves the Ragsdale conjecture.* The Mathematical Intelligencer 18 (1996), 19–28.
+- **[SOTA]** S. Yu. Orevkov. *Link theory and oval arrangements of real algebraic curves.* Topology 38 (1999), 779–810. [DOI](https://doi.org/10.1016/s0040-9383(98)00021-4)
+- **[SOTA]** I. Itenberg, O. Viro. *Patchworking algebraic curves disproves the Ragsdale conjecture.* The Mathematical Intelligencer 18 (1996), 19–28. [DOI](https://doi.org/10.1007/bf03026748)
 - **[Method]** L. Guillou, A. Marin (eds.). *À la recherche de la topologie perdue.* Progress in Mathematics 62, Birkhäuser, 1986.
 
 ## 10. Worked Example / Concrete Special Case

@@ -109,16 +109,16 @@ which current Bott-iteration bounds do not deliver.
 - **[Foundational]** H. Samelson. *On manifolds with many closed geodesics.* Portugaliae Mathematica **22** (1963), 193–196.
 - **[Foundational]** L. W. Green. *Auf Wiedersehensflächen.* Annals of Mathematics **78** (1963), 289–299.
 - **[Foundational]** M. Berger. *Lectures on Geodesics in Riemannian Geometry.* Tata Institute of Fundamental Research, Bombay, 1965.
-- **[Foundational]** A. W. Wadsley. *Geodesic foliations by circles.* Journal of Differential Geometry **10** (1975), 541–549.
+- **[Foundational]** A. W. Wadsley. *Geodesic foliations by circles.* Journal of Differential Geometry **10** (1975), 541–549. [DOI](https://doi.org/10.4310/jdg/1214433160)
 - **[Foundational]** A. Weinstein. *On the volume of manifolds all of whose geodesics are closed.* Journal of Differential Geometry **9** (1974), 513–517.
-- **[Survey / canonical]** A. L. Besse. *Manifolds all of whose Geodesics are Closed.* Ergebnisse der Mathematik und ihrer Grenzgebiete 93, Springer, 1978.
-- **[Partial result]** D. Gromoll, K. Grove. *On metrics on $S^2$ all of whose geodesics are closed.* Inventiones Mathematicae **65** (1981), 175–177.
-- **[SOTA]** M. Radeschi, B. Wilking. *On the Berger conjecture for manifolds all of whose geodesics are closed.* Inventiones Mathematicae **210** (2017), 911–962.
-- **[Technique]** V. Guillemin. *The Radon transform on Zoll surfaces.* Advances in Mathematics **22** (1976), 85–119.
-- **[Technique]** W. Ziller. *The free loop space of globally symmetric spaces.* Inventiones Mathematicae **41** (1977), 1–22.
-- **[Related]** C. T. Yang. *Odd-dimensional Wiedersehen manifolds are spheres.* Journal of Differential Geometry **15** (1980), 91–96.
-- **[Recent / adjacent]** V. Ginzburg, B. Gürel, M. Mazzucchelli. *On the spectral characterization of Besse and Zoll Reeb flows.* Annales de l'Institut Henri Poincaré C — Analyse Non Linéaire **38** (2021).
-- **[Survey]** M. Berger. *A Panoramic View of Riemannian Geometry.* Springer, 2003 (Ch. 10 on manifolds with closed geodesics).
+- **[Survey / canonical]** A. L. Besse. *Manifolds all of whose Geodesics are Closed.* Ergebnisse der Mathematik und ihrer Grenzgebiete 93, Springer, 1978. [DOI](https://doi.org/10.1007/978-3-642-61876-5)
+- **[Partial result]** D. Gromoll, K. Grove. *On metrics on $S^2$ all of whose geodesics are closed.* Inventiones Mathematicae **65** (1981), 175–177. [DOI](https://doi.org/10.1007/bf01389300)
+- **[SOTA]** M. Radeschi, B. Wilking. *On the Berger conjecture for manifolds all of whose geodesics are closed.* Inventiones Mathematicae **210** (2017), 911–962. [DOI](https://doi.org/10.1007/s00222-017-0742-4)
+- **[Technique]** V. Guillemin. *The Radon transform on Zoll surfaces.* Advances in Mathematics **22** (1976), 85–119. [DOI](https://doi.org/10.1016/0001-8708(76)90139-0)
+- **[Technique]** W. Ziller. *The free loop space of globally symmetric spaces.* Inventiones Mathematicae **41** (1977), 1–22. [DOI](https://doi.org/10.1007/bf01390161)
+- **[Related]** C. T. Yang. *Odd-dimensional Wiedersehen manifolds are spheres.* Journal of Differential Geometry **15** (1980), 91–96. [DOI](https://doi.org/10.4310/jdg/1214435386)
+- **[Recent / adjacent]** V. Ginzburg, B. Gürel, M. Mazzucchelli. *On the spectral characterization of Besse and Zoll Reeb flows.* Annales de l'Institut Henri Poincaré C — Analyse Non Linéaire **38** (2021). [DOI](https://doi.org/10.1016/j.anihpc.2020.08.004)
+- **[Survey]** M. Berger. *A Panoramic View of Riemannian Geometry.* Springer, 2003 (Ch. 10 on manifolds with closed geodesics). [DOI](https://doi.org/10.1007/978-3-642-18245-7)
 
 ## 10. Worked Example / Concrete Special Case
 

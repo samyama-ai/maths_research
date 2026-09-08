@@ -100,21 +100,33 @@ def crossref(title, cache):
         return cache[key]
     url = ("https://api.crossref.org/works?rows=5&select=title,DOI,issued&query.bibliographic="
            + urllib.parse.quote(title[:280]))
+    # Crossref answers 429 under sustained load: 18 of the first ~3,900 queries in
+    # the full pass. A 429 is not an answer, so it must not be cached as "no
+    # results" -- that would bake a lost reference into the cache permanently.
+    # Back off and retry instead.
     out = []
-    try:
-        req = urllib.request.Request(url, headers={"User-Agent": UA})
-        with urllib.request.urlopen(req, timeout=25) as r:
-            items = json.loads(r.read().decode()).get("message", {}).get("items", [])
+    for attempt in range(4):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=25) as r:
+                items = json.loads(r.read().decode()).get("message", {}).get("items", [])
+        except Exception as e:
+            code = getattr(e, "code", None)
+            if code == 429 and attempt < 3:
+                wait = 5 * (attempt + 1)
+                print(f"    crossref 429; backing off {wait}s", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            print(f"    crossref error for {title[:50]!r}: {e}", file=sys.stderr)
+            return None                  # None = unknown, do not cache a failure
         for it in items:
             t = (it.get("title") or [""])[0]
             parts = it.get("issued", {}).get("date-parts", [[None]])
             out.append({"title": t, "doi": it.get("DOI", ""),
                         "year": parts[0][0] if parts and parts[0] else None})
-    except Exception as e:
-        print(f"    crossref error for {title[:50]!r}: {e}", file=sys.stderr)
-        return None                      # None = unknown, do not cache a failure
-    cache[key] = out
-    return out
+        cache[key] = out
+        return out
+    return None
 
 
 # Journal-level records, not articles. A reference line that italicises the venue
@@ -210,12 +222,14 @@ def best_arxiv(title, year, cands):
     return best, best_score
 
 
-def process(path, cache, dry_run):
+def process(path, cache, dry_run, use_arxiv=True, resume=False):
     text = open(path, encoding="utf-8").read()
     if "## 9." not in text:
         return 0, 0
     head, _, rest = text.partition("## 9.")
     sec, sep, tail = rest.partition("## 10.")
+    if resume and ("doi.org/" in sec or "arxiv.org/" in sec):
+        return 0, 0
 
     linked = skipped = 0
     lines = sec.split("\n")
@@ -243,7 +257,7 @@ def process(path, cache, dry_run):
             continue
         # arXiv started in 1991 and costs 3.5s a query. Spending that on a 1930s
         # paper that cannot be there is how a 5,000-reference pass becomes a day.
-        if not year or int(year) < 1991:
+        if not use_arxiv or not year or int(year) < 1991:
             skipped += 1
             continue
         ahit, _ = best_arxiv(title, year, arxiv(title, cache))
@@ -267,6 +281,11 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--limit", type=int)
+    ap.add_argument("--no-arxiv", action="store_true",
+                    help="Crossref only. arXiv costs 3.5s a query against its rate "
+                         "limit, so a first full pass finishes in hours instead of days.")
+    ap.add_argument("--resume", action="store_true",
+                    help="Skip files whose Section 9 already carries identifiers.")
     a = ap.parse_args()
 
     files = sorted(p for p in glob.glob(os.path.join(ROOT, "topics", "*", "*.md"))
@@ -278,7 +297,7 @@ def main():
     total_l = total_s = 0
     try:
         for n, p in enumerate(files, 1):
-            l, s = process(p, cache, a.dry_run)
+            l, s = process(p, cache, a.dry_run, not a.no_arxiv, a.resume)
             total_l += l
             total_s += s
             if n % 25 == 0:

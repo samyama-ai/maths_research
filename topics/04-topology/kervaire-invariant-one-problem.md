@@ -103,18 +103,18 @@ Residual gaps after the resolution: (a) no explicit geometric model of a framed 
 
 ## 9. Key References
 
-- **[Foundational]** M. Kervaire. *A manifold which does not admit any differentiable structure.* Commentarii Mathematici Helvetici 34 (1960), 257–270.
+- **[Foundational]** M. Kervaire. *A manifold which does not admit any differentiable structure.* Commentarii Mathematici Helvetici 34 (1960), 257–270. [DOI](https://doi.org/10.1007/bf02565940)
 - **[Foundational]** M. Kervaire, J. Milnor. *Groups of homotopy spheres: I.* Annals of Mathematics 77 (1963), 504–537.
-- **[Foundational]** W. Browder. *The Kervaire invariant of framed manifolds and its generalization.* Annals of Mathematics 90 (1969), 157–186.
-- **[Foundational]** M. Mahowald, M. Tangora. *Some differentials in the Adams spectral sequence.* Topology 6 (1967), 349–369.
+- **[Foundational]** W. Browder. *The Kervaire invariant of framed manifolds and its generalization.* Annals of Mathematics 90 (1969), 157–186. [DOI](https://doi.org/10.2307/1970686)
+- **[Foundational]** M. Mahowald, M. Tangora. *Some differentials in the Adams spectral sequence.* Topology 6 (1967), 349–369. [DOI](https://doi.org/10.1016/0040-9383(67)90023-7)
 - **[Foundational]** M. G. Barratt, J. D. S. Jones, M. E. Mahowald. *Relating the Kervaire invariant and the Hopf invariant.* Algebraic Topology, Aarhus 1982, Lecture Notes in Mathematics 1051, Springer, 1984.
-- **[SOTA]** M. A. Hill, M. J. Hopkins, D. C. Ravenel. *On the nonexistence of elements of Kervaire invariant one.* Annals of Mathematics 184 (2016), 1–262.
+- **[SOTA]** M. A. Hill, M. J. Hopkins, D. C. Ravenel. *On the nonexistence of elements of Kervaire invariant one.* Annals of Mathematics 184 (2016), 1–262. [DOI](https://doi.org/10.4007/annals.2016.184.1.1)
 - **[SOTA]** M. A. Hill, M. J. Hopkins, D. C. Ravenel. *Equivariant Stable Homotopy Theory and the Kervaire Invariant Problem.* New Mathematical Monographs 40, Cambridge University Press, 2021.
-- **[SOTA / Recent]** Z. Xu. *The strong Kervaire invariant problem in dimension 62.* Geometry & Topology 20 (2016), 1611–1624.
-- **[SOTA / Recent]** D. C. Isaksen, G. Wang, Z. Xu. *Stable homotopy groups of spheres: from dimension 0 to 90.* Publications mathématiques de l'IHÉS 137 (2023), 107–243.
+- **[SOTA / Recent]** Z. Xu. *The strong Kervaire invariant problem in dimension 62.* Geometry & Topology 20 (2016), 1611–1624. [DOI](https://doi.org/10.2140/gt.2016.20.1611)
+- **[SOTA / Recent]** D. C. Isaksen, G. Wang, Z. Xu. *Stable homotopy groups of spheres: from dimension 0 to 90.* Publications mathématiques de l'IHÉS 137 (2023), 107–243. [DOI](https://doi.org/10.1007/s10240-023-00139-1)
 - **[SOTA / Recent]** W. Lin, G. Wang, Z. Xu. *On the last Kervaire invariant problem.* arXiv:2412.10879, 2024.
 - **[Survey]** H. Miller. *Kervaire invariant one (after M. A. Hill, M. J. Hopkins, and D. C. Ravenel).* Séminaire Bourbaki, exp. 1029, Astérisque 348 (2012), 65–98.
-- **[Survey]** V. Snaith. *Stable Homotopy Around the Arf–Kervaire Invariant.* Progress in Mathematics 273, Birkhäuser, 2009.
+- **[Survey]** V. Snaith. *Stable Homotopy Around the Arf–Kervaire Invariant.* Progress in Mathematics 273, Birkhäuser, 2009. [DOI](https://doi.org/10.1007/978-3-7643-9904-7)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -106,18 +106,18 @@ Equivalently: prove *combinatorial rigidity* — two infinitely renormalizable q
 ## 9. Key References
 
 - **[Foundational]** A. Douady and J. H. Hubbard. *Étude dynamique des polynômes complexes* (Publications Mathématiques d'Orsay 84-02, 85-04), Université de Paris-Sud, 1984–85.
-- **[Foundational]** A. Douady and J. H. Hubbard. *On the dynamics of polynomial-like mappings.* Annales Scientifiques de l'École Normale Supérieure, 18(2):287–343, 1985.
+- **[Foundational]** A. Douady and J. H. Hubbard. *On the dynamics of polynomial-like mappings.* Annales Scientifiques de l'École Normale Supérieure, 18(2):287–343, 1985. [DOI](https://doi.org/10.24033/asens.1491)
 - **[Foundational]** J. H. Hubbard. *Local connectivity of Julia sets and bifurcation loci: three theorems of J.-C. Yoccoz.* In *Topological Methods in Modern Mathematics*, Publish or Perish, 1993, pp. 467–511.
 - **[Foundational]** J. Milnor. *Dynamics in One Complex Variable*, 3rd ed., Annals of Mathematics Studies 160, Princeton University Press, 2006.
-- **[SOTA]** M. Lyubich. *Dynamics of quadratic polynomials, I–II.* Acta Mathematica, 178:185–247 and 247–297, 1997.
-- **[SOTA]** J. Graczyk and G. Świątek. *Generic hyperbolicity in the logistic family.* Annals of Mathematics, 146(1):1–52, 1997.
-- **[SOTA]** J. Kahn and M. Lyubich. *Local connectivity of Julia sets for unicritical polynomials.* Annals of Mathematics, 170(1):413–426, 2009.
-- **[SOTA]** A. Avila, J. Kahn, M. Lyubich, W. Shen. *Combinatorial rigidity for unicritical polynomials.* Annals of Mathematics, 170(2):783–797, 2009.
+- **[SOTA]** M. Lyubich. *Dynamics of quadratic polynomials, I–II.* Acta Mathematica, 178:185–247 and 247–297, 1997. [DOI](https://doi.org/10.1007/bf02392694)
+- **[SOTA]** J. Graczyk and G. Świątek. *Generic hyperbolicity in the logistic family.* Annals of Mathematics, 146(1):1–52, 1997. [DOI](https://doi.org/10.2307/2951831)
+- **[SOTA]** J. Kahn and M. Lyubich. *Local connectivity of Julia sets for unicritical polynomials.* Annals of Mathematics, 170(1):413–426, 2009. [DOI](https://doi.org/10.4007/annals.2009.170.413)
+- **[SOTA]** A. Avila, J. Kahn, M. Lyubich, W. Shen. *Combinatorial rigidity for unicritical polynomials.* Annals of Mathematics, 170(2):783–797, 2009. [DOI](https://doi.org/10.4007/annals.2009.170.783)
 - **[SOTA / Recent]** D. Dudko and M. Lyubich. *Local connectivity of the Mandelbrot set at some satellite parameters of bounded type.* arXiv:1808.10425 (2018); and *MLC at Feigenbaum points*, arXiv:2101.11834 (2021).
-- **[Recent]** X. Buff and A. Chéritat. *Quadratic Julia sets with positive area.* Annals of Mathematics, 176(2):673–746, 2012.
-- **[Recent]** A. Avila and M. Lyubich. *Lebesgue measure of Feigenbaum Julia sets.* Annals of Mathematics, 195(1):1–88, 2022.
-- **[Survey]** M. Shishikura. *The Hausdorff dimension of the boundary of the Mandelbrot set and Julia sets.* Annals of Mathematics, 147(2):225–267, 1998.
-- **[Survey]** J. Milnor. *Local connectivity of Julia sets: expository lectures.* In *The Mandelbrot Set, Theme and Variations* (ed. Tan Lei), LMS Lecture Note Series 274, Cambridge University Press, 2000, pp. 67–116.
+- **[Recent]** X. Buff and A. Chéritat. *Quadratic Julia sets with positive area.* Annals of Mathematics, 176(2):673–746, 2012. [DOI](https://doi.org/10.4007/annals.2012.176.2.1)
+- **[Recent]** A. Avila and M. Lyubich. *Lebesgue measure of Feigenbaum Julia sets.* Annals of Mathematics, 195(1):1–88, 2022. [DOI](https://doi.org/10.4007/annals.2022.195.1.1)
+- **[Survey]** M. Shishikura. *The Hausdorff dimension of the boundary of the Mandelbrot set and Julia sets.* Annals of Mathematics, 147(2):225–267, 1998. [DOI](https://doi.org/10.2307/121009)
+- **[Survey]** J. Milnor. *Local connectivity of Julia sets: expository lectures.* In *The Mandelbrot Set, Theme and Variations* (ed. Tan Lei), LMS Lecture Note Series 274, Cambridge University Press, 2000, pp. 67–116. [DOI](https://doi.org/10.1017/cbo9780511569159.006)
 - **[Survey]** C. T. McMullen. *Complex Dynamics and Renormalization*, Annals of Mathematics Studies 135, Princeton University Press, 1994.
 
 ## 10. Worked Example / Concrete Special Case

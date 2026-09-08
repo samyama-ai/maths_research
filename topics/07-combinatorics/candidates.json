@@ -808,5 +808,359 @@
     "slug": "erdos-gallai-conjecture",
     "status": "open",
     "description": "Every graph can be decomposed into a linear number of simple paths."
+  },
+  {
+    "title": "Ryser's Conjecture on Transversals in r-Partite Hypergraphs",
+    "slug": "rysers-conjecture-hypergraph-covering",
+    "status": "open",
+    "description": "Cover number at most r minus one times matching number"
+  },
+  {
+    "title": "Union-Closed Sets Conjecture Constant",
+    "slug": "union-closed-sets-constant",
+    "status": "partially-solved",
+    "description": "Improving the frequent element fraction toward one half"
+  },
+  {
+    "title": "Chv\u00e1tal\u2013Erd\u0151s Hamiltonicity Threshold Refinements",
+    "slug": "chvatal-erdos-hamiltonicity-refinements",
+    "status": "open",
+    "description": "Sharpening connectivity versus independence number Hamiltonicity conditions"
+  },
+  {
+    "title": "Brualdi\u2013Ryser\u2013Stein Conjecture on Latin Square Transversals",
+    "slug": "brualdi-ryser-stein-conjecture",
+    "status": "open",
+    "description": "Every Latin square has near-full partial transversal"
+  },
+  {
+    "title": "Nowhere-Zero Flows on Signed Graphs (Bouchet-Type 6-Flow Refinements)",
+    "slug": "signed-graph-nowhere-zero-flow-problem",
+    "status": "open",
+    "description": "Flow number bounds for flow-admissible signed graphs"
+  },
+  {
+    "title": "Danzer's Problem on Dense Forests and Bounded Density Sets",
+    "slug": "danzers-problem",
+    "status": "open",
+    "description": "Bounded density set meeting every convex body"
+  },
+  {
+    "title": "Zarankiewicz-Type K\u0151v\u00e1ri\u2013S\u00f3s\u2013Tur\u00e1n Exponent Determination",
+    "slug": "kovari-sos-turan-exponent-problem",
+    "status": "open",
+    "description": "Exact exponents for complete bipartite graph Turan numbers"
+  },
+  {
+    "title": "Erd\u0151s\u2013Ginzburg\u2013Ziv Constant for General Abelian Groups",
+    "slug": "erdos-ginzburg-ziv-constant-general-groups",
+    "status": "open",
+    "description": "Determining zero-sum constants for higher rank groups"
+  },
+  {
+    "title": "Davenport Constant of Finite Abelian Groups of Rank Three",
+    "slug": "davenport-constant-rank-three",
+    "status": "open",
+    "description": "Exact Davenport constant beyond rank two groups"
+  },
+  {
+    "title": "Existence of Perfect 1-Codes and Perfect Deletion Codes",
+    "slug": "perfect-deletion-correcting-codes-existence",
+    "status": "open",
+    "description": "Which parameters admit perfect deletion correcting codes"
+  },
+  {
+    "title": "Sensitivity of Boolean Function Composition: Log-Rank for Nonnegative Rank",
+    "slug": "nonnegative-rank-communication-complexity-gap",
+    "status": "open",
+    "description": "Gap between nonnegative rank and communication complexity"
+  },
+  {
+    "title": "Tuza-Type Fractional Triangle Cover Ratio for Hypergraphs",
+    "slug": "fractional-triangle-cover-hypergraph-ratio",
+    "status": "open",
+    "description": "Fractional analogues of triangle packing covering ratios"
+  },
+  {
+    "title": "Existence of Steiner Systems with Prescribed Automorphism Groups",
+    "slug": "steiner-systems-prescribed-automorphisms",
+    "status": "open",
+    "description": "Which groups act on given Steiner systems"
+  },
+  {
+    "title": "The Hadamard Matrix Conjecture",
+    "slug": "hadamard-matrix-conjecture",
+    "status": "open",
+    "description": "Hadamard matrices exist for every order divisible by four"
+  },
+  {
+    "title": "Existence of Projective Planes of Non-Prime-Power Order",
+    "slug": "projective-plane-prime-power-order-conjecture",
+    "status": "open",
+    "description": "Every finite projective plane has prime power order"
+  },
+  {
+    "title": "Mixing Time of the Switch Chain for Degree Sequences",
+    "slug": "switch-chain-mixing-degree-sequences",
+    "status": "partially-solved",
+    "description": "Polynomial mixing for sampling graphs with given degrees"
+  },
+  {
+    "title": "S\u00e1rk\u00f6zy's Conjecture on Square Differences and Density",
+    "slug": "sarkozy-square-difference-density-problem",
+    "status": "open",
+    "description": "Optimal density bounds for square difference free sets"
+  },
+  {
+    "title": "Chromatic Number of the Plane for Higher Dimensions",
+    "slug": "chromatic-number-euclidean-space-dimension-n",
+    "status": "open",
+    "description": "Growth rate of Euclidean space chromatic numbers"
+  },
+  {
+    "title": "Sidon Set Growth in Finite Abelian Groups (Erd\u0151s\u2013Tur\u00e1n B_h Problem)",
+    "slug": "bh-sidon-sets-growth-problem",
+    "status": "open",
+    "description": "Maximum size of B sub h sets"
+  },
+  {
+    "title": "Frankl\u2013F\u00fcredi Conjecture on Uniform Hypergraph Lagrangians",
+    "slug": "frankl-furedi-lagrangian-conjecture",
+    "status": "partially-solved",
+    "description": "Maximum Lagrangian for hypergraphs with given edge count"
+  },
+  {
+    "title": "Tur\u00e1n's Conjecture for the Complete 3-Uniform Hypergraph",
+    "slug": "turan-tetrahedron-density-conjecture",
+    "status": "open",
+    "description": "Density of tetrahedron free three uniform hypergraphs"
+  },
+  {
+    "title": "Nash-Williams Orientation and Well-Balanced Digraph Problems",
+    "slug": "well-balanced-orientation-problem",
+    "status": "open",
+    "description": "Efficiently constructing well balanced graph orientations"
+  },
+  {
+    "title": "Jones' Conjecture on Cycle Packing and Covering in Planar Graphs",
+    "slug": "jones-conjecture-planar-cycle-packing",
+    "status": "partially-solved",
+    "description": "Planar feedback vertex set at most twice packing"
+  },
+  {
+    "title": "The Path Partition Conjecture",
+    "slug": "path-partition-conjecture",
+    "status": "open",
+    "description": "Vertex set splits matching detour order parts"
+  },
+  {
+    "title": "Bar\u00e1t\u2013Thomassen Tree Decomposition Conjecture",
+    "slug": "barat-thomassen-conjecture",
+    "status": "solved-recently",
+    "description": "Highly connected graphs decompose into copies of a tree"
+  },
+  {
+    "title": "Antimagic Labeling Conjecture (Hartsfield\u2013Ringel)",
+    "slug": "antimagic-labeling-conjecture",
+    "status": "open",
+    "description": "Every connected graph except K2 is antimagic"
+  },
+  {
+    "title": "1-2-3 Conjecture and Weighted Proper Colorings",
+    "slug": "one-two-three-conjecture",
+    "status": "solved-recently",
+    "description": "Edge weights from three values give proper vertex sums"
+  },
+  {
+    "title": "Sparse Halves Problem for Triangle-Free Graphs (Erd\u0151s)",
+    "slug": "erdos-sparse-halves-problem",
+    "status": "partially-solved",
+    "description": "Triangle free graphs have sparse half vertex sets"
+  },
+  {
+    "title": "Kelly\u2013Ulam Set Reconstruction from Deck of Subsequences",
+    "slug": "sequence-reconstruction-from-subsequences",
+    "status": "open",
+    "description": "Reconstructing sequences from their multiset of subsequences"
+  },
+  {
+    "title": "Growth Rate of Hereditary Permutation Classes (Stanley\u2013Wilf Limits)",
+    "slug": "stanley-wilf-limit-growth-rates",
+    "status": "open",
+    "description": "Determining exact growth constants of permutation classes"
+  },
+  {
+    "title": "Kahn\u2013Kalai Conjecture on Thresholds and Expectation Thresholds",
+    "slug": "kahn-kalai-conjecture",
+    "status": "solved-recently",
+    "description": "Threshold of an increasing property is near its expectation threshold"
+  },
+  {
+    "title": "Erd\u0151s Matching Conjecture",
+    "slug": "erdos-matching-conjecture",
+    "status": "partially-solved",
+    "description": "Largest uniform family with no large matching is one of two extremes"
+  },
+  {
+    "title": "Manickam\u2013Mikl\u00f3s\u2013Singhi Conjecture",
+    "slug": "manickam-miklos-singhi-conjecture",
+    "status": "partially-solved",
+    "description": "Nonnegative-sum sets have many nonnegative k-element subset sums"
+  },
+  {
+    "title": "Chv\u00e1tal's Conjecture on Intersecting Families in Ideals",
+    "slug": "chvatals-ideal-intersecting-family-conjecture",
+    "status": "open",
+    "description": "Every downset has a largest intersecting subfamily that is a star"
+  },
+  {
+    "title": "Off-Diagonal Ramsey Numbers R(4,t)",
+    "slug": "ramsey-number-r-4-t",
+    "status": "solved-recently",
+    "description": "Order of growth of Ramsey numbers avoiding a four-clique"
+  },
+  {
+    "title": "Exponential Improvement for Diagonal Ramsey Numbers",
+    "slug": "diagonal-ramsey-exponential-improvement",
+    "status": "partially-solved",
+    "description": "Determining the exponential growth constant of diagonal Ramsey numbers"
+  },
+  {
+    "title": "Tur\u00e1n Problem for the Hypercube",
+    "slug": "hypercube-turan-problem",
+    "status": "open",
+    "description": "Maximum edge density of a four-cycle-free subgraph of the hypercube"
+  },
+  {
+    "title": "Ramsey\u2013Tur\u00e1n Density Problems",
+    "slug": "ramsey-turan-density-problem",
+    "status": "partially-solved",
+    "description": "Extremal densities for graphs with small independence number"
+  },
+  {
+    "title": "Erd\u0151s\u2013Rademacher Problem on Supersaturated Triangles",
+    "slug": "erdos-rademacher-problem",
+    "status": "partially-solved",
+    "description": "Minimum number of triangles in a graph above extremal density"
+  },
+  {
+    "title": "Ramsey Multiplicity Constant of the Complete Graph on Four Vertices",
+    "slug": "ramsey-multiplicity-constant-k4",
+    "status": "open",
+    "description": "Minimum density of monochromatic four-cliques in two-colored graphs"
+  },
+  {
+    "title": "Reed's Conjecture on Chromatic Number, Clique Number and Maximum Degree",
+    "slug": "reeds-chromatic-number-conjecture",
+    "status": "partially-solved",
+    "description": "Chromatic number at most average of clique number and degree bound"
+  },
+  {
+    "title": "Borodin\u2013Kostochka Conjecture",
+    "slug": "borodin-kostochka-conjecture",
+    "status": "partially-solved",
+    "description": "High-degree graphs without large cliques are degree-minus-one colorable"
+  },
+  {
+    "title": "Linear Arboricity Conjecture",
+    "slug": "linear-arboricity-conjecture",
+    "status": "partially-solved",
+    "description": "Every graph decomposes into few linear forests"
+  },
+  {
+    "title": "Acyclic Edge Coloring Conjecture",
+    "slug": "acyclic-edge-coloring-conjecture",
+    "status": "partially-solved",
+    "description": "Every graph has an acyclic edge coloring with degree plus two colors"
+  },
+  {
+    "title": "Goldberg\u2013Seymour Conjecture on Chromatic Index of Multigraphs",
+    "slug": "goldberg-seymour-conjecture",
+    "status": "solved-recently",
+    "description": "Multigraph chromatic index equals maximum of degree and fractional density"
+  },
+  {
+    "title": "Gallai's Path Decomposition Conjecture",
+    "slug": "gallai-path-decomposition-conjecture",
+    "status": "partially-solved",
+    "description": "Connected graphs decompose into about half as many paths as vertices"
+  },
+  {
+    "title": "Bollob\u00e1s\u2013Scott Judicious Partitioning Conjectures",
+    "slug": "judicious-partitioning-conjecture",
+    "status": "partially-solved",
+    "description": "Partitions simultaneously optimizing all parts of a graph or hypergraph"
+  },
+  {
+    "title": "Cereceda's Conjecture on Recoloring Diameter",
+    "slug": "cereceda-conjecture",
+    "status": "partially-solved",
+    "description": "Recoloring degenerate graphs takes quadratically many single-vertex color changes"
+  },
+  {
+    "title": "Graham's Pebbling Product Conjecture",
+    "slug": "grahams-pebbling-conjecture",
+    "status": "open",
+    "description": "Pebbling number of a product is at most the product"
+  },
+  {
+    "title": "White's Conjecture on Toric Ideals of Matroids",
+    "slug": "whites-conjecture-matroid-basis-exchange",
+    "status": "partially-solved",
+    "description": "Matroid basis exchange relations generate the whole toric ideal"
+  },
+  {
+    "title": "Mihail\u2013Vazirani Conjecture on Expansion of 0/1 Polytope Graphs",
+    "slug": "mihail-vazirani-conjecture",
+    "status": "partially-solved",
+    "description": "Skeletons of zero-one polytopes have edge expansion at least one"
+  },
+  {
+    "title": "Merino\u2013Welsh Conjecture on Spanning Trees, Forests and Acyclic Orientations",
+    "slug": "merino-welsh-conjecture",
+    "status": "partially-solved",
+    "description": "Spanning tree count bounded by forest and orientation counts"
+  },
+  {
+    "title": "Aharoni\u2013Berger Rainbow Matching Conjecture",
+    "slug": "aharoni-berger-conjecture",
+    "status": "partially-solved",
+    "description": "Matchings in bipartite multigraphs yield a large rainbow matching"
+  },
+  {
+    "title": "Brualdi\u2013Hollingsworth Conjecture on Rainbow Spanning Trees",
+    "slug": "brualdi-hollingsworth-conjecture",
+    "status": "partially-solved",
+    "description": "Properly colored complete graphs decompose into rainbow spanning trees"
+  },
+  {
+    "title": "Perfect 1-Factorization Conjecture",
+    "slug": "perfect-one-factorization-conjecture",
+    "status": "open",
+    "description": "Every even complete graph has a perfect one-factorization"
+  },
+  {
+    "title": "Existence of q-Analogs of Steiner Systems",
+    "slug": "q-analog-steiner-system-existence",
+    "status": "open",
+    "description": "Whether subspace designs like the q-Fano plane exist"
+  },
+  {
+    "title": "Conway's 99-Graph Problem",
+    "slug": "conway-99-graph-problem",
+    "status": "open",
+    "description": "Existence of a strongly regular graph on ninety-nine vertices"
+  },
+  {
+    "title": "Bunkbed Conjecture",
+    "slug": "bunkbed-conjecture",
+    "status": "solved-recently",
+    "description": "Percolation connection is likelier on the same bunk level"
+  },
+  {
+    "title": "Middle Levels Conjecture",
+    "slug": "middle-levels-conjecture",
+    "status": "solved-recently",
+    "description": "Middle two layers of odd hypercubes form Hamiltonian graphs"
   }
 ]

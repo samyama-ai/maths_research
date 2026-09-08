@@ -94,9 +94,9 @@ Leading mathematicians suggest the following pathways:
 
 ## 9. Key References
 
-- **[Foundational]** S. Chowla. *The Riemann Hypothesis and Hilbert's Tenth Problem*. Gordon and Breach, 1965.
-- **[Foundational]** K. Matomäki, M. Radziwiłł. *Multiplicative functions in short intervals*. Annals of Mathematics, 183(3):1015-1056, 2016.
-- **[SOTA / Recent]** K. Matomäki, M. Radziwiłł, T. Tao. *An averaged form of Chowla's conjecture*. Algebra & Number Theory, 9(9):2167-2196, 2015.
+- **[Foundational]** S. Chowla. *The Riemann Hypothesis and Hilbert's Tenth Problem*. Gordon and Breach, 1965. [DOI](https://doi.org/10.2307/2314216)
+- **[Foundational]** K. Matomäki, M. Radziwiłł. *Multiplicative functions in short intervals*. Annals of Mathematics, 183(3):1015-1056, 2016. [DOI](https://doi.org/10.4007/annals.2016.183.3.6)
+- **[SOTA / Recent]** K. Matomäki, M. Radziwiłł, T. Tao. *An averaged form of Chowla's conjecture*. Algebra & Number Theory, 9(9):2167-2196, 2015. [DOI](https://doi.org/10.2140/ant.2015.9.2167)
 - **[SOTA / Recent]** T. Tao, J. Teräväinen. *The structure of logarithmically averaged correlations of multiplicative functions, with applications to the Chowla and Elliott conjectures*. Duke Mathematical Journal, 168(11):1977-2027, 2019.
 - **[Survey]** K. Matomäki, M. Radziwiłł. *Recent progress in multiplicative number theory*. Proceedings of the International Congress of Mathematicians (ICM 2018).
 

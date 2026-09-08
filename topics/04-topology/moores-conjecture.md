@@ -118,20 +118,20 @@ Missing, precisely:
 ## 9. Key References
 
 - **[Foundational]** J.-P. Serre. *Groupes d'homotopie et classes de groupes abéliens.* Annals of Mathematics 58 (1953), 258–294.
-- **[Foundational]** I. M. James. *On the suspension sequence.* Annals of Mathematics 65 (1957), 74–107.
-- **[Foundational]** B. Gray. *On the sphere of origin of infinite families in the homotopy groups of spheres.* Topology 8 (1969), 219–232.
+- **[Foundational]** I. M. James. *On the suspension sequence.* Annals of Mathematics 65 (1957), 74–107. [DOI](https://doi.org/10.2307/1969666)
+- **[Foundational]** B. Gray. *On the sphere of origin of infinite families in the homotopy groups of spheres.* Topology 8 (1969), 219–232. [DOI](https://doi.org/10.1016/0040-9383(69)90012-3)
 - **[Foundational]** P. Selick. *Odd primary torsion in $\pi_k(S^3)$.* Topology 17 (1978), 407–412.
 - **[Foundational]** F. R. Cohen, J. C. Moore, J. A. Neisendorfer. *Torsion in homotopy groups.* Annals of Mathematics 109 (1979), 121–168.
 - **[Foundational]** F. R. Cohen, J. C. Moore, J. A. Neisendorfer. *Exponents in homotopy theory.* In *Algebraic Topology and Algebraic K-Theory*, Annals of Mathematics Studies 113, Princeton University Press, 1987.
 - **[Survey]** P. Selick. *Moore conjectures.* In *Algebraic Topology — Rational Homotopy* (Louvain-la-Neuve, 1986), Lecture Notes in Mathematics 1318, Springer, 1988, 219–227.
-- **[Foundational]** C. A. McGibbon, C. W. Wilkerson. *Loop spaces of finite complexes at large primes.* Proceedings of the American Mathematical Society 96 (1986), 698–702.
+- **[Foundational]** C. A. McGibbon, C. W. Wilkerson. *Loop spaces of finite complexes at large primes.* Proceedings of the American Mathematical Society 96 (1986), 698–702. [DOI](https://doi.org/10.1090/s0002-9939-1986-0826505-x)
 - **[Survey]** Y. Félix, S. Halperin, J.-C. Thomas. *Rational Homotopy Theory.* Graduate Texts in Mathematics 205, Springer, 2001.
-- **[SOTA]** Y. Félix, S. Halperin, J.-C. Thomas. *Exponential growth and an asymptotic formula for the ranks of homotopy groups of a finite 1-connected complex.* Annals of Mathematics 170 (2009), 443–464.
-- **[SOTA]** D. M. Davis, S. Theriault. *Odd-primary homotopy exponents of compact simple Lie groups.* Geometry & Topology Monographs 13 (2008), 195–201.
+- **[SOTA]** Y. Félix, S. Halperin, J.-C. Thomas. *Exponential growth and an asymptotic formula for the ranks of homotopy groups of a finite 1-connected complex.* Annals of Mathematics 170 (2009), 443–464. [DOI](https://doi.org/10.4007/annals.2009.170.443)
+- **[SOTA]** D. M. Davis, S. Theriault. *Odd-primary homotopy exponents of compact simple Lie groups.* Geometry & Topology Monographs 13 (2008), 195–201. [DOI](https://doi.org/10.2140/gtm.2008.13.195)
 - **[SOTA]** S. Theriault. *Homotopy exponents of mod $2^r$ Moore spaces.* Topology 47 (2008), 369–398.
-- **[Survey]** J. A. Neisendorfer. *Algebraic Methods in Unstable Homotopy Theory.* New Mathematical Monographs 12, Cambridge University Press, 2010.
-- **[SOTA]** R. Huang, J. Wu. *Exponential growth of homotopy groups of suspended finite complexes.* Mathematische Zeitschrift 295 (2020), 1301–1321.
-- **[SOTA]** G. Boyde. *$p$-hyperbolicity of homotopy groups via $K$-theory.* Mathematische Zeitschrift 301 (2022), 977–1009.
+- **[Survey]** J. A. Neisendorfer. *Algebraic Methods in Unstable Homotopy Theory.* New Mathematical Monographs 12, Cambridge University Press, 2010. [DOI](https://doi.org/10.1017/cbo9780511691638)
+- **[SOTA]** R. Huang, J. Wu. *Exponential growth of homotopy groups of suspended finite complexes.* Mathematische Zeitschrift 295 (2020), 1301–1321. [DOI](https://doi.org/10.1007/s00209-019-02383-w)
+- **[SOTA]** G. Boyde. *$p$-hyperbolicity of homotopy groups via $K$-theory.* Mathematische Zeitschrift 301 (2022), 977–1009. [DOI](https://doi.org/10.1007/s00209-021-02917-1)
 
 ## 10. Worked Example / Concrete Special Case
 

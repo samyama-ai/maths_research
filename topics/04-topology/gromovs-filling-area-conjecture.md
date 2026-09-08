@@ -113,15 +113,15 @@ Even a proof of $\operatorname{area}\ge 2\pi - \varepsilon$ uniform in genus, fo
 
 ## 9. Key References
 
-- **[Foundational]** M. Gromov. *Filling Riemannian manifolds.* Journal of Differential Geometry, 18(1):1–147, 1983.
+- **[Foundational]** M. Gromov. *Filling Riemannian manifolds.* Journal of Differential Geometry, 18(1):1–147, 1983. [DOI](https://doi.org/10.4310/jdg/1214509283)
 - **[Foundational]** P. M. Pu. *Some inequalities in certain nonholonomic systems.* Pacific Journal of Mathematics, 2(1):55–71, 1952.
-- **[Foundational]** A. S. Besicovitch. *On two problems of Loewner.* Journal of the London Mathematical Society, 27:141–144, 1952.
-- **[SOTA]** V. Bangert, C. Croke, S. Ivanov, M. Katz. *Filling area conjecture and ovalless real hyperelliptic surfaces.* Geometric and Functional Analysis (GAFA), 15(3):577–597, 2005.
-- **[SOTA]** S. Ivanov. *Filling minimality of Finslerian 2-discs.* Proceedings of the Steklov Institute of Mathematics, 273:176–190, 2011.
-- **[SOTA]** V. Bangert, C. Croke, S. Ivanov, M. Katz. *Boundary case of equality in optimal Loewner-type inequalities.* Transactions of the American Mathematical Society, 359(1):1–17, 2007.
-- **[Related]** D. Burago, S. Ivanov. *Riemannian tori without conjugate points are flat.* Geometric and Functional Analysis, 4(3):259–269, 1994.
+- **[Foundational]** A. S. Besicovitch. *On two problems of Loewner.* Journal of the London Mathematical Society, 27:141–144, 1952. [DOI](https://doi.org/10.1112/jlms/s1-27.2.141)
+- **[SOTA]** V. Bangert, C. Croke, S. Ivanov, M. Katz. *Filling area conjecture and ovalless real hyperelliptic surfaces.* Geometric and Functional Analysis (GAFA), 15(3):577–597, 2005. [DOI](https://doi.org/10.1007/s00039-005-0517-8)
+- **[SOTA]** S. Ivanov. *Filling minimality of Finslerian 2-discs.* Proceedings of the Steklov Institute of Mathematics, 273:176–190, 2011. [DOI](https://doi.org/10.1134/s0081543811040079)
+- **[SOTA]** V. Bangert, C. Croke, S. Ivanov, M. Katz. *Boundary case of equality in optimal Loewner-type inequalities.* Transactions of the American Mathematical Society, 359(1):1–17, 2007. [DOI](https://doi.org/10.1090/s0002-9947-06-03836-0)
+- **[Related]** D. Burago, S. Ivanov. *Riemannian tori without conjugate points are flat.* Geometric and Functional Analysis, 4(3):259–269, 1994. [DOI](https://doi.org/10.1007/bf01896241)
 - **[Survey]** M. Katz. *Systolic Geometry and Topology.* Mathematical Surveys and Monographs 137, American Mathematical Society, 2007.
-- **[Survey]** C. Croke, M. Katz. *Universal volume bounds in Riemannian manifolds.* Surveys in Differential Geometry VIII, International Press, 2003, pp. 109–137.
+- **[Survey]** C. Croke, M. Katz. *Universal volume bounds in Riemannian manifolds.* Surveys in Differential Geometry VIII, International Press, 2003, pp. 109–137. [DOI](https://doi.org/10.4310/sdg.2003.v8.n1.a4)
 - **[Survey]** M. Gromov. *Systoles and intersystolic inequalities.* Actes de la Table Ronde de Géométrie Différentielle (Luminy, 1992), Séminaires et Congrès 1, Société Mathématique de France, 1996, pp. 291–362.
 
 ## 10. Worked Example / Concrete Special Case

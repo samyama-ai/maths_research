@@ -101,10 +101,10 @@ Leading mathematicians have outlined several immediate pathways to extend the Ge
 
 ## 9. Key References
 
-- **[Foundational]** Gelfond, A. O. *Sur les nombres qui ont des propriétés additives et multiplicatives données.* Acta Arithmetica, 1968. (link if stable)
-- **[SOTA / Recent]** Mauduit, C., & Rivat, J. *La somme des chiffres des carrés.* Acta Mathematica, 2009.
+- **[Foundational]** Gelfond, A. O. *Sur les nombres qui ont des propriétés additives et multiplicatives données.* Acta Arithmetica, 1968. (link if stable). [DOI](https://doi.org/10.4064/aa-13-3-259-265)
+- **[SOTA / Recent]** Mauduit, C., & Rivat, J. *La somme des chiffres des carrés.* Acta Mathematica, 2009. [DOI](https://doi.org/10.1007/s11511-009-0040-0)
 - **[SOTA / Recent]** Mauduit, C., & Rivat, J. *Sur les chiffres des nombres premiers.* Annals of Mathematics, 2010.
-- **[SOTA / Recent]** Drmota, M., Mauduit, C., & Rivat, J. *The sum-of-digits function of polynomial sequences.* Journal of the European Mathematical Society, 2012.
+- **[SOTA / Recent]** Drmota, M., Mauduit, C., & Rivat, J. *The sum-of-digits function of polynomial sequences.* Journal of the European Mathematical Society, 2012. [DOI](https://doi.org/10.1112/jlms/jdr003)
 
 ## 10. Worked Example / Concrete Special Case
 

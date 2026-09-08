@@ -131,18 +131,18 @@ No interpolation exists between (1) and (3): every group is either in the flow-s
 
 ## 9. Key References
 
-- **[Foundational]** F. T. Farrell, L. E. Jones. *Isomorphism conjectures in algebraic $K$-theory.* Journal of the American Mathematical Society 6 (1993), 249–297.
-- **[Foundational]** J. F. Davis, W. Lück. *Spaces over a category and assembly maps in isomorphism conjectures in $K$- and $L$-theory.* $K$-Theory 15 (1998), 201–252.
-- **[SOTA]** A. Bartels, W. Lück, H. Reich. *The $K$-theoretic Farrell–Jones conjecture for hyperbolic groups.* Inventiones Mathematicae 172 (2008), 29–70.
-- **[SOTA]** A. Bartels, W. Lück. *The Borel conjecture for hyperbolic and CAT(0)-groups.* Annals of Mathematics 175 (2012), 631–689.
-- **[SOTA]** C. Wegner. *The Farrell–Jones conjecture for virtually solvable groups.* Journal of Topology 8 (2015), 975–1016.
-- **[SOTA]** A. Bartels, F. T. Farrell, W. Lück. *The Farrell–Jones Conjecture for cocompact lattices in virtually connected Lie groups.* J. Amer. Math. Soc. 27 (2014), 339–388.
+- **[Foundational]** F. T. Farrell, L. E. Jones. *Isomorphism conjectures in algebraic $K$-theory.* Journal of the American Mathematical Society 6 (1993), 249–297. [DOI](https://doi.org/10.2307/2152801)
+- **[Foundational]** J. F. Davis, W. Lück. *Spaces over a category and assembly maps in isomorphism conjectures in $K$- and $L$-theory.* $K$-Theory 15 (1998), 201–252. [DOI](https://doi.org/10.1023/a:1007784106877)
+- **[SOTA]** A. Bartels, W. Lück, H. Reich. *The $K$-theoretic Farrell–Jones conjecture for hyperbolic groups.* Inventiones Mathematicae 172 (2008), 29–70. [DOI](https://doi.org/10.1007/s00222-007-0093-7)
+- **[SOTA]** A. Bartels, W. Lück. *The Borel conjecture for hyperbolic and CAT(0)-groups.* Annals of Mathematics 175 (2012), 631–689. [DOI](https://doi.org/10.4007/annals.2012.175.2.5)
+- **[SOTA]** C. Wegner. *The Farrell–Jones conjecture for virtually solvable groups.* Journal of Topology 8 (2015), 975–1016. [DOI](https://doi.org/10.1112/jtopol/jtv026)
+- **[SOTA]** A. Bartels, F. T. Farrell, W. Lück. *The Farrell–Jones Conjecture for cocompact lattices in virtually connected Lie groups.* J. Amer. Math. Soc. 27 (2014), 339–388. [DOI](https://doi.org/10.1090/s0894-0347-2014-00782-7)
 - **[SOTA]** A. Bartels, W. Lück, H. Reich, H. Rüping. *$K$- and $L$-theory of group rings over $GL_n(\mathbb{Z})$.* Publications Mathématiques de l'IHÉS 119 (2014), 97–125.
-- **[SOTA]** A. Bartels, M. Bestvina. *The Farrell–Jones Conjecture for mapping class groups.* Inventiones Mathematicae 215 (2019), 651–712.
-- **[Survey]** W. Lück, H. Reich. *The Baum–Connes and the Farrell–Jones conjectures in $K$- and $L$-theory.* In: Handbook of $K$-theory, Springer, 2005, 703–842.
-- **[Survey]** A. Bartels. *On proofs of the Farrell–Jones conjecture.* In: Topology and Geometric Group Theory, Springer Proceedings in Mathematics & Statistics 184, 2016, 1–31.
-- **[Context]** N. Higson, V. Lafforgue, G. Skandalis. *Counterexamples to the Baum–Connes conjecture.* Geometric and Functional Analysis 12 (2002), 330–354.
-- **[Recent]** B. Brück, D. Kielak, X. Wu. *The Farrell–Jones Conjecture for normally poly-free groups.* Proceedings of the AMS 149 (2021), 2349–2356.
+- **[SOTA]** A. Bartels, M. Bestvina. *The Farrell–Jones Conjecture for mapping class groups.* Inventiones Mathematicae 215 (2019), 651–712. [DOI](https://doi.org/10.1007/s00222-018-0834-9)
+- **[Survey]** W. Lück, H. Reich. *The Baum–Connes and the Farrell–Jones conjectures in $K$- and $L$-theory.* In: Handbook of $K$-theory, Springer, 2005, 703–842. [DOI](https://doi.org/10.1007/978-3-540-27855-9_15)
+- **[Survey]** A. Bartels. *On proofs of the Farrell–Jones conjecture.* In: Topology and Geometric Group Theory, Springer Proceedings in Mathematics & Statistics 184, 2016, 1–31. [DOI](https://doi.org/10.1007/978-3-319-43674-6_1)
+- **[Context]** N. Higson, V. Lafforgue, G. Skandalis. *Counterexamples to the Baum–Connes conjecture.* Geometric and Functional Analysis 12 (2002), 330–354. [DOI](https://doi.org/10.1007/s00039-002-8249-5)
+- **[Recent]** B. Brück, D. Kielak, X. Wu. *The Farrell–Jones Conjecture for normally poly-free groups.* Proceedings of the AMS 149 (2021), 2349–2356. [DOI](https://doi.org/10.1090/proc/15357)
 
 ## 10. Worked Example / Concrete Special Case
 

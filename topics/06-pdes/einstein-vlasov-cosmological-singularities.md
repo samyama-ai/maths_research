@@ -104,20 +104,20 @@ The exact barrier: constructing a stable, spatially local, oscillatory Kasner re
 
 ## 9. Key References
 
-- **[Foundational]** V. A. Belinskii, I. M. Khalatnikov, E. M. Lifshitz. *Oscillatory approach to a singular point in the relativistic cosmology.* Advances in Physics 19 (1970), 525–573.
-- **[Foundational]** A. D. Rendall. *Crushing singularities in spacetimes with spherical, plane and hyperbolic symmetry.* Classical and Quantum Gravity 12 (1995), 1517–1533.
-- **[Foundational]** G. Rein. *Cosmological solutions of the Vlasov–Einstein system with spherical, plane and hyperbolic symmetry.* Mathematical Proceedings of the Cambridge Philosophical Society 119 (1996), 739–762.
-- **[Foundational]** A. D. Rendall. *The initial singularity in solutions of the Einstein–Vlasov system of Bianchi type I.* Journal of Mathematical Physics 37 (1996), 438–451.
-- **[Structural]** A. D. Rendall, K. P. Tod. *Dynamics of spatially homogeneous solutions of the Einstein–Vlasov equations which are locally rotationally symmetric.* Classical and Quantum Gravity 16 (1999), 1705–1726.
-- **[Structural]** H. Ringström. *The Bianchi IX attractor.* Annales Henri Poincaré 2 (2001), 405–500.
-- **[Structural]** J. M. Heinzle, C. Uggla. *Dynamics of the spatially homogeneous Bianchi type I Einstein–Vlasov equations.* Classical and Quantum Gravity 23 (2006), 3463–3490.
-- **[SOTA]** M. Dafermos, A. D. Rendall. *Strong cosmic censorship for surface-symmetric cosmological spacetimes with collisionless matter.* Communications on Pure and Applied Mathematics 69 (2016), 815–908.
-- **[SOTA]** H. Andréasson, H. Ringström. *Proof of the cosmic no-hair conjecture in the $T^3$-Gowdy symmetric Einstein–Vlasov setting.* Journal of the European Mathematical Society 18 (2016), 1565–1650.
-- **[SOTA]** G. Fournodavlos, I. Rodnianski, J. Speck. *Stable Big Bang formation for Einstein's equations: the complete sub-critical regime.* Journal of the American Mathematical Society 36 (2023), 827–916.
-- **[SOTA]** I. Rodnianski, J. Speck. *Stable Big Bang formation in near-FLRW solutions to the Einstein–scalar field and Einstein–stiff fluid systems.* Selecta Mathematica 24 (2018), 4293–4459.
+- **[Foundational]** V. A. Belinskii, I. M. Khalatnikov, E. M. Lifshitz. *Oscillatory approach to a singular point in the relativistic cosmology.* Advances in Physics 19 (1970), 525–573. [DOI](https://doi.org/10.1080/00018737000101171)
+- **[Foundational]** A. D. Rendall. *Crushing singularities in spacetimes with spherical, plane and hyperbolic symmetry.* Classical and Quantum Gravity 12 (1995), 1517–1533. [DOI](https://doi.org/10.1088/0264-9381/12/6/017)
+- **[Foundational]** G. Rein. *Cosmological solutions of the Vlasov–Einstein system with spherical, plane and hyperbolic symmetry.* Mathematical Proceedings of the Cambridge Philosophical Society 119 (1996), 739–762. [DOI](https://doi.org/10.1017/s0305004100074569)
+- **[Foundational]** A. D. Rendall. *The initial singularity in solutions of the Einstein–Vlasov system of Bianchi type I.* Journal of Mathematical Physics 37 (1996), 438–451. [DOI](https://doi.org/10.1063/1.531400)
+- **[Structural]** A. D. Rendall, K. P. Tod. *Dynamics of spatially homogeneous solutions of the Einstein–Vlasov equations which are locally rotationally symmetric.* Classical and Quantum Gravity 16 (1999), 1705–1726. [DOI](https://doi.org/10.1088/0264-9381/16/6/305)
+- **[Structural]** H. Ringström. *The Bianchi IX attractor.* Annales Henri Poincaré 2 (2001), 405–500. [DOI](https://doi.org/10.1007/pl00001041)
+- **[Structural]** J. M. Heinzle, C. Uggla. *Dynamics of the spatially homogeneous Bianchi type I Einstein–Vlasov equations.* Classical and Quantum Gravity 23 (2006), 3463–3490. [DOI](https://doi.org/10.1088/0264-9381/23/10/016)
+- **[SOTA]** M. Dafermos, A. D. Rendall. *Strong cosmic censorship for surface-symmetric cosmological spacetimes with collisionless matter.* Communications on Pure and Applied Mathematics 69 (2016), 815–908. [DOI](https://doi.org/10.1002/cpa.21628)
+- **[SOTA]** H. Andréasson, H. Ringström. *Proof of the cosmic no-hair conjecture in the $T^3$-Gowdy symmetric Einstein–Vlasov setting.* Journal of the European Mathematical Society 18 (2016), 1565–1650. [DOI](https://doi.org/10.4171/jems/623)
+- **[SOTA]** G. Fournodavlos, I. Rodnianski, J. Speck. *Stable Big Bang formation for Einstein's equations: the complete sub-critical regime.* Journal of the American Mathematical Society 36 (2023), 827–916. [DOI](https://doi.org/10.1090/jams/1015)
+- **[SOTA]** I. Rodnianski, J. Speck. *Stable Big Bang formation in near-FLRW solutions to the Einstein–scalar field and Einstein–stiff fluid systems.* Selecta Mathematica 24 (2018), 4293–4459. [DOI](https://doi.org/10.1007/s00029-018-0437-8)
 - **[Book]** H. Ringström. *On the Topology and Future Stability of the Universe.* Oxford University Press, 2013.
-- **[Survey]** H. Andréasson. *The Einstein–Vlasov System / Kinetic Theory.* Living Reviews in Relativity 14 (2011), 4.
-- **[Survey]** H. Ringström. *Cosmic censorship for Gowdy spacetimes.* Living Reviews in Relativity 13 (2010), 2.
+- **[Survey]** H. Andréasson. *The Einstein–Vlasov System / Kinetic Theory.* Living Reviews in Relativity 14 (2011), 4. [DOI](https://doi.org/10.12942/lrr-2011-4)
+- **[Survey]** H. Ringström. *Cosmic censorship for Gowdy spacetimes.* Living Reviews in Relativity 13 (2010), 2. [DOI](https://doi.org/10.12942/lrr-2010-2)
 
 ## 10. Worked Example / Concrete Special Case
 

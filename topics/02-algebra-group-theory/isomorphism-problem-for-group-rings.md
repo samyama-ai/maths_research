@@ -112,22 +112,22 @@ The precise barrier: all positive odd-$p$ results proceed by reconstructing $G$ 
 ## 9. Key References
 
 - **[Foundational]** G. Higman. *The units of group-rings.* Proceedings of the London Mathematical Society (2) **46** (1940), 231–248.
-- **[Foundational]** S. Perlis and G. L. Walker. *Abelian group algebras of finite order.* Transactions of the American Mathematical Society **68** (1950), 420–426.
-- **[Foundational]** W. E. Deskins. *Finite abelian groups with isomorphic group algebras.* Duke Mathematical Journal **23** (1956), 35–40.
-- **[Foundational]** D. S. Passman. *The group algebras of groups of order $p^4$ over a modular field.* Michigan Mathematical Journal **12** (1965), 405–415.
-- **[Foundational]** E. C. Dade. *Deux groupes finis distincts ayant la même algèbre de groupe sur tout corps.* Mathematische Zeitschrift **119** (1971), 345–348.
-- **[Foundational]** K. W. Roggenkamp and L. L. Scott. *Isomorphisms of $p$-adic group rings.* Annals of Mathematics (2) **126** (1987), 593–647.
-- **[Foundational]** A. Weiss. *Rigidity of $p$-adic $p$-torsion.* Annals of Mathematics (2) **127** (1988), 317–332.
-- **[SOTA]** M. Hertweck. *A counterexample to the isomorphism problem for integral group rings.* Annals of Mathematics (2) **154** (2001), 115–138.
-- **[SOTA]** F. Eisele and L. Margolis. *A counterexample to the first Zassenhaus conjecture.* Advances in Mathematics **339** (2018), 599–641.
-- **[SOTA]** D. García-Lucas, L. Margolis and Á. del Río. *Non-isomorphic 2-groups with isomorphic modular group algebras.* Journal für die reine und angewandte Mathematik (Crelle) **783** (2022), 269–274.
-- **[SOTA]** B. Eick. *Computing automorphism groups and testing isomorphisms for modular group algebras.* Journal of Algebra **320** (2008), 3895–3910.
+- **[Foundational]** S. Perlis and G. L. Walker. *Abelian group algebras of finite order.* Transactions of the American Mathematical Society **68** (1950), 420–426. [DOI](https://doi.org/10.1090/s0002-9947-1950-0034758-3)
+- **[Foundational]** W. E. Deskins. *Finite abelian groups with isomorphic group algebras.* Duke Mathematical Journal **23** (1956), 35–40. [DOI](https://doi.org/10.1215/s0012-7094-56-02304-3)
+- **[Foundational]** D. S. Passman. *The group algebras of groups of order $p^4$ over a modular field.* Michigan Mathematical Journal **12** (1965), 405–415. [DOI](https://doi.org/10.1307/mmj/1028999424)
+- **[Foundational]** E. C. Dade. *Deux groupes finis distincts ayant la même algèbre de groupe sur tout corps.* Mathematische Zeitschrift **119** (1971), 345–348. [DOI](https://doi.org/10.1007/bf01109886)
+- **[Foundational]** K. W. Roggenkamp and L. L. Scott. *Isomorphisms of $p$-adic group rings.* Annals of Mathematics (2) **126** (1987), 593–647. [DOI](https://doi.org/10.2307/1971362)
+- **[Foundational]** A. Weiss. *Rigidity of $p$-adic $p$-torsion.* Annals of Mathematics (2) **127** (1988), 317–332. [DOI](https://doi.org/10.2307/2007056)
+- **[SOTA]** M. Hertweck. *A counterexample to the isomorphism problem for integral group rings.* Annals of Mathematics (2) **154** (2001), 115–138. [DOI](https://doi.org/10.2307/3062112)
+- **[SOTA]** F. Eisele and L. Margolis. *A counterexample to the first Zassenhaus conjecture.* Advances in Mathematics **339** (2018), 599–641. [DOI](https://doi.org/10.1016/j.aim.2018.10.004)
+- **[SOTA]** D. García-Lucas, L. Margolis and Á. del Río. *Non-isomorphic 2-groups with isomorphic modular group algebras.* Journal für die reine und angewandte Mathematik (Crelle) **783** (2022), 269–274. [DOI](https://doi.org/10.1515/crelle-2021-0074)
+- **[SOTA]** B. Eick. *Computing automorphism groups and testing isomorphisms for modular group algebras.* Journal of Algebra **320** (2008), 3895–3910. [DOI](https://doi.org/10.1016/j.jalgebra.2008.05.002)
 - **[SOTA]** B. Eick and A. Konovalov. *The modular isomorphism problem for the groups of order 512.* In *Groups St Andrews 2009*, LMS Lecture Note Series **388**, Cambridge University Press (2011), 375–383.
-- **[Partial results]** C. Bagiński. *The isomorphism question for modular group algebras of metacyclic $p$-groups.* Proceedings of the American Mathematical Society **104** (1988), 39–42.
+- **[Partial results]** C. Bagiński. *The isomorphism question for modular group algebras of metacyclic $p$-groups.* Proceedings of the American Mathematical Society **104** (1988), 39–42. [DOI](https://doi.org/10.2307/2047457)
 - **[Partial results]** R. Sandling. *The modular group algebra of a central-elementary-by-abelian $p$-group.* Archiv der Mathematik **52** (1989), 22–27.
-- **[Partial results]** M. A. M. Salim and R. Sandling. *The modular group algebra problem for groups of order $p^5$.* Journal of the Australian Mathematical Society (Series A) **61** (1996), 229–237.
-- **[Partial results]** W. Kimmerle, R. Lyons, R. Sandling and D. N. Teague. *Composition factors from the group ring and Artin's theorem on orders of simple groups.* Proceedings of the London Mathematical Society (3) **60** (1990), 89–122.
-- **[Survey]** R. Sandling. *The isomorphism problem for group rings: a survey.* In *Orders and Their Applications*, Lecture Notes in Mathematics **1142**, Springer (1985), 256–288.
+- **[Partial results]** M. A. M. Salim and R. Sandling. *The modular group algebra problem for groups of order $p^5$.* Journal of the Australian Mathematical Society (Series A) **61** (1996), 229–237. [DOI](https://doi.org/10.1017/s1446788700000215)
+- **[Partial results]** W. Kimmerle, R. Lyons, R. Sandling and D. N. Teague. *Composition factors from the group ring and Artin's theorem on orders of simple groups.* Proceedings of the London Mathematical Society (3) **60** (1990), 89–122. [DOI](https://doi.org/10.1112/plms/s3-60.1.89)
+- **[Survey]** R. Sandling. *The isomorphism problem for group rings: a survey.* In *Orders and Their Applications*, Lecture Notes in Mathematics **1142**, Springer (1985), 256–288. [DOI](https://doi.org/10.1007/bfb0074806)
 - **[Survey]** S. K. Sehgal. *Units in Integral Group Rings.* Longman Scientific & Technical, 1993.
 - **[Survey]** L. Margolis and Á. del Río. *Finite subgroups of group rings: a survey.* Advances in Group Theory and Applications **8** (2019), 1–37.
 

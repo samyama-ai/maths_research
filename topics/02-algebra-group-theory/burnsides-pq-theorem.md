@@ -124,15 +124,15 @@ Open residue:
 - **[Character-free]** D. M. Goldschmidt. *A group theoretic proof of the $p^aq^b$ theorem for odd primes.* Mathematische Zeitschrift 113, 373–375, 1970.
 - **[Character-free]** H. Bender. *A group theoretic proof of Burnside's $p^aq^b$-theorem.* Mathematische Zeitschrift 126, 327–338, 1972.
 - **[Character-free]** H. Matsuyama. *Solvability of groups of order $2^aq^b$.* Osaka Journal of Mathematics 10, 375–378, 1973.
-- **[Tool]** G. Glauberman. *A characteristic subgroup of a $p$-stable group.* Canadian Journal of Mathematics 20, 1101–1135, 1968.
+- **[Tool]** G. Glauberman. *A characteristic subgroup of a $p$-stable group.* Canadian Journal of Mathematics 20, 1101–1135, 1968. [DOI](https://doi.org/10.4153/cjm-1968-107-2)
 - **[Textbook]** I. M. Isaacs. *Character Theory of Finite Groups.* Academic Press, 1976 (Dover reprint 1994). Chapter 3.
 - **[Textbook]** D. J. S. Robinson. *A Course in the Theory of Groups.* 2nd edition, Springer GTM 80, 1996.
 - **[Survey]** D. Gorenstein. *Finite Groups.* 2nd edition, Chelsea, 1980.
 - **[Related]** W. Feit and J. G. Thompson. *Solvability of groups of odd order.* Pacific Journal of Mathematics 13, 775–1029, 1963.
-- **[Generalisation]** O. H. Kegel. *Produkte nilpotenter Gruppen.* Archiv der Mathematik 12, 90–93, 1961.
-- **[Generalisation]** H. Wielandt. *Über Produkte von nilpotenten Gruppen.* Illinois Journal of Mathematics 2, 611–618, 1958.
+- **[Generalisation]** O. H. Kegel. *Produkte nilpotenter Gruppen.* Archiv der Mathematik 12, 90–93, 1961. [DOI](https://doi.org/10.1007/bf01650529)
+- **[Generalisation]** H. Wielandt. *Über Produkte von nilpotenten Gruppen.* Illinois Journal of Mathematics 2, 611–618, 1958. [DOI](https://doi.org/10.1215/ijm/1255448333)
 - **[Formalisation]** G. Gonthier, A. Mahboubi, L. Rideau, E. Tassi, L. Théry. *A modular formalisation of finite group theory.* Theorem Proving in Higher Order Logics (TPHOLs 2007), LNCS 4732, Springer, 86–101.
-- **[Historical]** C. W. Curtis. *Pioneers of Representation Theory: Frobenius, Burnside, Schur, and Brauer.* American Mathematical Society, 1999.
+- **[Historical]** C. W. Curtis. *Pioneers of Representation Theory: Frobenius, Burnside, Schur, and Brauer.* American Mathematical Society, 1999. [DOI](https://doi.org/10.1090/hmath/015)
 
 ## 10. Worked Example / Concrete Special Case
 

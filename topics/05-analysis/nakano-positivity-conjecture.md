@@ -115,19 +115,19 @@ or a direct construction of a Nakano positive metric on $E\otimes\det E$ bypassi
 
 ## 9. Key References
 
-- **[Foundational]** S. Nakano. *On complex analytic vector bundles.* J. Math. Soc. Japan **7** (1955), 1–12.
+- **[Foundational]** S. Nakano. *On complex analytic vector bundles.* J. Math. Soc. Japan **7** (1955), 1–12. [DOI](https://doi.org/10.2969/jmsj/00710001)
 - **[Foundational]** P. A. Griffiths. *Hermitian differential geometry, Chern classes, and positive vector bundles.* In: Global Analysis (Papers in Honor of K. Kodaira), Princeton Univ. Press, 1969, 185–251.
-- **[Foundational]** J.-P. Demailly, H. Skoda. *Relations entre les notions de positivités de P. A. Griffiths et de S. Nakano pour les fibrés vectoriels.* Séminaire P. Lelong–H. Skoda (Analyse), Lecture Notes in Math. **822**, Springer, 1980, 304–309.
-- **[Partial result]** H. Umemura. *Some results in the theory of vector bundles.* Nagoya Math. J. **52** (1973), 97–128.
-- **[Partial result]** F. Campana, H. Flenner. *A characterization of ample vector bundles on a curve.* Math. Ann. **287** (1990), 571–575.
-- **[Structural]** W. Fulton, R. Lazarsfeld. *Positive polynomials for ample vector bundles.* Ann. of Math. **118** (1983), 35–60.
-- **[SOTA]** B. Berndtsson. *Curvature of vector bundles associated to holomorphic fibrations.* Ann. of Math. **169** (2009), 531–560.
-- **[SOTA]** C. Mourougane, S. Takayama. *Hodge metrics and positivity of direct images.* J. Reine Angew. Math. **606** (2007), 167–178.
-- **[SOTA]** K. Liu, X. Sun, X. Yang. *Positivity and vanishing theorems for ample vector bundles.* J. Algebraic Geom. **22** (2013), 303–331.
-- **[SOTA]** J.-P. Demailly. *Hermitian–Yang–Mills approach to the conjecture of Griffiths on the positivity of ample vector bundles.* Sbornik: Mathematics **212** (2021), 305–318.
-- **[SOTA]** V. P. Pingali. *A note on Demailly's approach towards a conjecture of Griffiths.* C. R. Math. Acad. Sci. Paris **359** (2021), 501–503.
-- **[SOTA]** F. Deng, J. Ning, Z. Wang, X. Zhou. *Positivity of holomorphic vector bundles in terms of $L^p$-estimates for $\bar\partial$.* Math. Ann. **385** (2023), 575–607.
-- **[Recent]** T. Inayama. *Nakano positivity of singular Hermitian metrics and vanishing theorems of Demailly–Nadel–Nakano type.* Algebraic Geometry (Foundation Compositio), 2022.
+- **[Foundational]** J.-P. Demailly, H. Skoda. *Relations entre les notions de positivités de P. A. Griffiths et de S. Nakano pour les fibrés vectoriels.* Séminaire P. Lelong–H. Skoda (Analyse), Lecture Notes in Math. **822**, Springer, 1980, 304–309. [DOI](https://doi.org/10.1007/bfb0097764)
+- **[Partial result]** H. Umemura. *Some results in the theory of vector bundles.* Nagoya Math. J. **52** (1973), 97–128. [DOI](https://doi.org/10.1017/s0027763000015919)
+- **[Partial result]** F. Campana, H. Flenner. *A characterization of ample vector bundles on a curve.* Math. Ann. **287** (1990), 571–575. [DOI](https://doi.org/10.1007/bf01446914)
+- **[Structural]** W. Fulton, R. Lazarsfeld. *Positive polynomials for ample vector bundles.* Ann. of Math. **118** (1983), 35–60. [DOI](https://doi.org/10.2307/2006953)
+- **[SOTA]** B. Berndtsson. *Curvature of vector bundles associated to holomorphic fibrations.* Ann. of Math. **169** (2009), 531–560. [DOI](https://doi.org/10.4007/annals.2009.169.531)
+- **[SOTA]** C. Mourougane, S. Takayama. *Hodge metrics and positivity of direct images.* J. Reine Angew. Math. **606** (2007), 167–178. [DOI](https://doi.org/10.1515/crelle.2007.039)
+- **[SOTA]** K. Liu, X. Sun, X. Yang. *Positivity and vanishing theorems for ample vector bundles.* J. Algebraic Geom. **22** (2013), 303–331. [DOI](https://doi.org/10.1090/s1056-3911-2012-00588-8)
+- **[SOTA]** J.-P. Demailly. *Hermitian–Yang–Mills approach to the conjecture of Griffiths on the positivity of ample vector bundles.* Sbornik: Mathematics **212** (2021), 305–318. [DOI](https://doi.org/10.1070/sm9387)
+- **[SOTA]** V. P. Pingali. *A note on Demailly's approach towards a conjecture of Griffiths.* C. R. Math. Acad. Sci. Paris **359** (2021), 501–503. [DOI](https://doi.org/10.5802/crmath.192)
+- **[SOTA]** F. Deng, J. Ning, Z. Wang, X. Zhou. *Positivity of holomorphic vector bundles in terms of $L^p$-estimates for $\bar\partial$.* Math. Ann. **385** (2023), 575–607. [DOI](https://doi.org/10.1007/s00208-021-02348-7)
+- **[Recent]** T. Inayama. *Nakano positivity of singular Hermitian metrics and vanishing theorems of Demailly–Nadel–Nakano type.* Algebraic Geometry (Foundation Compositio), 2022. [DOI](https://doi.org/10.14231/ag-2022-003)
 - **[Survey/Book]** J.-P. Demailly. *Complex Analytic and Differential Geometry.* OpenContent book, Institut Fourier (Chapters VII, X).
 - **[Book]** S. Kobayashi. *Differential Geometry of Complex Vector Bundles.* Princeton University Press / Iwanami Shoten, 1987.
 

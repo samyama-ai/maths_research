@@ -117,13 +117,13 @@ cannot push $|a_n|$ past the value $2t e^{-t}\big|_{t=1}$ achieved by the single
 ## 9. Key References
 
 - **[Foundational]** J. Krzyż. *Coefficient problem for bounded nonvanishing functions.* Annales Polonici Mathematici 20 (1968), p. 314 (problem section).
-- **[Foundational]** J. A. Hummel, S. Scheinberg, L. Zalcman. *A coefficient problem for bounded nonvanishing functions.* Journal d'Analyse Mathématique 31 (1977), 169–190.
+- **[Foundational]** J. A. Hummel, S. Scheinberg, L. Zalcman. *A coefficient problem for bounded nonvanishing functions.* Journal d'Analyse Mathématique 31 (1977), 169–190. [DOI](https://doi.org/10.1007/bf02813302)
 - **[Bounds]** C. Horowitz. *Coefficients of nonvanishing functions in $H^\infty$.* Israel Journal of Mathematics 30 (1978), 285–291.
 - **[Cases]** D. V. Prokhorov, J. Szynal. *Coefficient estimates for bounded nonvanishing functions.* Bulletin de l'Académie Polonaise des Sciences, Série Sci. Math. 29 (1981), 223–230.
 - **[Thesis]** R. Ermers. *Coefficient Estimates for Bounded Nonvanishing Functions.* Ph.D. thesis, Katholieke Universiteit Nijmegen, 1990.
 - **[SOTA]** N. Samaris. *A proof of Krzyż's conjecture for the fifth coefficient.* Complex Variables, Theory and Application 48 (2003), 753–766.
 - **[SOTA / Recent]** M. J. Martín, E. T. Sawyer, I. Uriarte-Tuero, D. Vukotić. *The Krzyż conjecture revisited.* Advances in Applied Mathematics 57 (2014), 1–20.
-- **[Survey]** D. V. Prokhorov. *Coefficients of holomorphic functions.* Journal of Mathematical Sciences 106 (2001), 3518–3544.
+- **[Survey]** D. V. Prokhorov. *Coefficients of holomorphic functions.* Journal of Mathematical Sciences 106 (2001), 3518–3544. [DOI](https://doi.org/10.1023/a:1011975914158)
 - **[Background]** P. L. Duren. *Theory of $H^p$ Spaces.* Academic Press, 1970.
 - **[Background]** Ch. Pommerenke. *Univalent Functions.* Vandenhoeck & Ruprecht, Göttingen, 1975 (Carathéodory class, Herglotz representation).
 

@@ -7,17 +7,24 @@ Representation theory, classification of groups, ring & module theory, homologic
 * 🟢 [Abhyankar-Moh Theorem](./abhyankar-moh-theorem.md) — Can every affine line embedding extend to a full plane automorphism?
 * 🟢 [Abhyankar's Conjecture](./abhyankars-conjecture.md) — Which finite groups are Galois groups of coverings of affine curves?
 * 🟡 [Adams-Barbasch-Vogan Conjecture](./adams-barbasch-vogan-conjecture.md) — Describes complex Arthur packets specifically for real reductive algebraic mathematical groups.
+* 🟡 [Alperin-McKay Conjecture](./alperin-mckay-conjecture.md) — Height zero characters counted equally in block and normalizer
 * 🔴 [Alperin's Weight Conjecture](./alperins-weight-conjecture.md) — Relates the number of weights of a block to its simple modules.
+* 🔴 [Amitsur's Conjecture on Rational Identities of Division Rings](./amitsurs-conjecture-on-division-algebras.md) — Rational identity behaviour of finite dimensional division algebras
 * 🔴 [Andrews-Curtis Conjecture](./andrews-curtis-conjecture.md) — Can every balanced presentation of the trivial group be reduced trivially?
 * 🔴 [Auslander-Reiten Conjecture](./auslander-reiten-conjecture.md) — Is a module with vanishing self-extensions over its ring necessarily projective?
+* 🔴 [Babai's Conjecture on Diameters of Cayley Graphs](./babai-conjecture-on-cayley-graph-diameter.md) — Simple group Cayley graphs have polylogarithmic diameter bounds
 * 🟢 [Baer-Suzuki Theorem](./baer-suzuki-theorem.md) — Generates a guaranteed nilpotent normal subgroup within specific types of finite groups.
 * 🔴 [Bass Conjecture](./bass-conjecture.md) — Is the trace of a projective module over group rings integer-valued?
 * 🔴 [Baum-Connes Conjecture](./baum-connes-conjecture.md) — Does analytical K-theory of a crossed product correspond to topological K-theory?
 * 🟡 [Baumslag-Solitar Group Isomorphism](./baumslag-solitar-group-isomorphism.md) — What is the precise isomorphism problem for Baumslag-Solitar infinite algebraic groups?
 * 🔴 [Benson's Conjecture](./bensons-conjecture.md) — Predicts specific properties of module structures in the cohomology of groups.
 * 🟢 [Bloch-Kato Conjecture on Galois Cohomology (Norm Residue Isomorphism Theorem)](./bloch-kato-conjecture-on-galois-cohomology.md) — Generalizes Milnor's profound conjecture on quadratic forms to completely arbitrary prime numbers.
+* 🔴 [Bogomolov Multiplier Vanishing Problem](./bogomolov-multiplier-problem.md) — Which finite groups have nontrivial unramified Brauer obstruction
 * 🟢 [Boij–Söderberg Theory](./boij-soderberg-theory.md) — Completely characterizes the Betti tables of graded modules in commutative algebra.
 * 🔴 [Bouc's Conjecture](./boucs-conjecture.md) — Characterizes the exact invariant structure of the Dade group for p-groups.
+* 🟡 [Bounded Generation of Arithmetic Groups](./bounded-generation-of-arithmetic-groups.md) — Higher rank arithmetic groups are products of finitely many cyclics
+* 🟢 [Brauer's Height Zero Conjecture](./brauer-height-zero-conjecture.md) — Abelian defect groups correspond to blocks of height zero characters
+* 🔴 [Brauer's k(B) Conjecture](./brauer-k-b-conjecture.md) — Block character count bounded by defect group order
 * 🔴 [Broué–Michel Conjecture](./broue-michel-conjecture.md) — Relates Deligne-Lusztig geometric varieties directly to unipotent blocks of finite simple groups.
 * 🔴 [Broué's Abelian Defect Group Conjecture](./broues-abelian-defect-group-conjecture.md) — Is a block with an abelian defect group derived equivalent to another?
 * 🔴 [Buchsbaum-Eisenbud-Horrocks Conjecture](./buchsbaum-eisenbud-horrocks-conjecture.md) — Proposes lower bounds on the Betti numbers of finite length modules.
@@ -29,6 +36,8 @@ Representation theory, classification of groups, ring & module theory, homologic
 * 🔴 [Cherlin-Zilber Conjecture](./cherlin-zilber-conjecture.md) — Infinite simple groups of finite Morley rank are simple algebraic groups.
 * 🟡 [Chudnovsky's Conjecture](./chudnovskys-conjecture.md) — Proposes lower bounds for the Waldschmidt constant of a point set.
 * 🟢 [Classification of Finite Simple Groups](./classification-of-finite-simple-groups.md) — Is the official list of finite simple groups completely accurate and exhaustive?
+* 🟢 [Coclass Conjectures for Pro-p Groups](./coclass-conjectures.md) — Structure of finite p-groups organized by coclass invariant
+* 🔴 [Ore's Conjecture on Commutators in Infinite Simple Groups](./commutator-width-of-simple-groups.md) — Commutator width bounds for infinite simple groups remain unknown
 * 🟡 [Congruence Subgroup Problem](./congruence-subgroup-problem.md) — Does every finite index subgroup contain a principal congruence subgroup?
 * 🔴 [Dade's Ordinary Conjecture](./dades-ordinary-conjecture.md) — Relates the number of characters of a finite group to local subgroups.
 * 🟡 [Day's Conjecture](./days-conjecture.md) — Are elementary amenable groups exactly the same as amenable groups?
@@ -44,6 +53,7 @@ Representation theory, classification of groups, ring & module theory, homologic
 * 🟢 [Etingof-Kazhdan Quantization](./etingof-kazhdan-quantization.md) — Proves the strict quantization of arbitrary Lie bialgebras directly into quantum groups.
 * 🔴 [Farrell-Jones Conjecture](./farrell-jones-conjecture.md) — Is algebraic K-theory of group rings computed from virtually cyclic subgroups?
 * 🟢 [Feit-Thompson Theorem](./feit-thompson-theorem.md) — Proves that every finite group of odd order is always perfectly solvable.
+* 🔴 [Feit's Conjecture on Character Field Degrees](./feits-conjecture-on-character-fields.md) — Character field conductors bounded by element orders
 * 🔴 [Finitistic Dimension Conjecture](./finitistic-dimension-conjecture.md) — Is the supremum of finite projective dimensions of modules always finite?
 * 🔴 [Foulkes' Conjecture](./foulkes-conjecture.md) — Compares multiplicities of irreducible representations within complex symmetric group plethysm mathematical operations.
 * 🔴 [Fröberg Conjecture](./froberg-conjecture.md) — What is the Hilbert series of ideals generated by generic forms?

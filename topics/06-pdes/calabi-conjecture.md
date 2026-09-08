@@ -114,17 +114,17 @@ For the original conjecture there is no gap: Yau's estimates close the continuit
 
 ## 9. Key References
 
-- **[Foundational]** E. Calabi. *On Kähler manifolds with vanishing canonical class.* In "Algebraic Geometry and Topology: A Symposium in Honor of S. Lefschetz," Princeton University Press, 1957, pp. 78–89.
-- **[Foundational]** S.-T. Yau. *On the Ricci curvature of a compact Kähler manifold and the complex Monge–Ampère equation, I.* Communications on Pure and Applied Mathematics **31** (1978), 339–411.
+- **[Foundational]** E. Calabi. *On Kähler manifolds with vanishing canonical class.* In "Algebraic Geometry and Topology: A Symposium in Honor of S. Lefschetz," Princeton University Press, 1957, pp. 78–89. [DOI](https://doi.org/10.1515/9781400879915-006)
+- **[Foundational]** S.-T. Yau. *On the Ricci curvature of a compact Kähler manifold and the complex Monge–Ampère equation, I.* Communications on Pure and Applied Mathematics **31** (1978), 339–411. [DOI](https://doi.org/10.1002/cpa.3160310304)
 - **[Foundational]** T. Aubin. *Équations du type Monge–Ampère sur les variétés kählériennes compactes.* Bulletin des Sciences Mathématiques **102** (1978), 63–95.
 - **[Foundational]** S. Kołodziej. *The complex Monge–Ampère equation.* Acta Mathematica **180** (1998), 69–117.
 - **[SOTA]** X. Chen, S. Donaldson, S. Sun. *Kähler–Einstein metrics on Fano manifolds, I, II, III.* Journal of the American Mathematical Society **28** (2015), 183–197, 199–234, 235–278.
 - **[SOTA]** P. Eyssidieux, V. Guedj, A. Zeriahi. *Singular Kähler–Einstein metrics.* Journal of the American Mathematical Society **22** (2009), 607–639.
 - **[SOTA]** V. Tosatti, B. Weinkove. *The complex Monge–Ampère equation on compact Hermitian manifolds.* Journal of the American Mathematical Society **23** (2010), 1187–1195.
-- **[SOTA / Recent]** B. Guo, D. H. Phong, F. Tong. *On $L^\infty$ estimates for complex Monge–Ampère equations.* Annals of Mathematics **198** (2023), 393–418.
-- **[Recent]** J.-X. Fu, S.-T. Yau. *The theory of superstring with flux on non-Kähler manifolds and the complex Monge–Ampère equation.* Journal of Differential Geometry **78** (2008), 369–428.
+- **[SOTA / Recent]** B. Guo, D. H. Phong, F. Tong. *On $L^\infty$ estimates for complex Monge–Ampère equations.* Annals of Mathematics **198** (2023), 393–418. [DOI](https://doi.org/10.4007/annals.2023.198.1.4)
+- **[Recent]** J.-X. Fu, S.-T. Yau. *The theory of superstring with flux on non-Kähler manifolds and the complex Monge–Ampère equation.* Journal of Differential Geometry **78** (2008), 369–428. [DOI](https://doi.org/10.4310/jdg/1207834550)
 - **[Survey]** D. D. Joyce. *Compact Manifolds with Special Holonomy.* Oxford University Press, 2000.
-- **[Survey]** V. Guedj, A. Zeriahi. *Degenerate Complex Monge–Ampère Equations.* EMS Tracts in Mathematics 26, European Mathematical Society, 2017.
+- **[Survey]** V. Guedj, A. Zeriahi. *Degenerate Complex Monge–Ampère Equations.* EMS Tracts in Mathematics 26, European Mathematical Society, 2017. [DOI](https://doi.org/10.4171/167)
 - **[Survey]** G. Székelyhidi. *An Introduction to Extremal Kähler Metrics.* Graduate Studies in Mathematics 152, American Mathematical Society, 2014.
 
 ## 10. Worked Example / Concrete Special Case

@@ -99,16 +99,16 @@ The precise missing step: from $\psi_p = 0$ for almost all $p$, produce a *unifo
 
 ## 9. Key References
 
-- **[Foundational]** N. Katz. *Nilpotent connections and the monodromy theorem: applications of a result of Turrittin.* Publications Mathématiques de l'IHÉS 39 (1970), 175–232.
-- **[Foundational]** N. Katz. *Algebraic solutions of differential equations ($p$-curvature and the Hodge filtration).* Inventiones Mathematicae 18 (1972), 1–118.
-- **[Foundational]** N. Katz. *A conjecture in the arithmetic theory of differential equations.* Bulletin de la Société Mathématique de France 110 (1982), 203–239 (corrections, 347–348).
+- **[Foundational]** N. Katz. *Nilpotent connections and the monodromy theorem: applications of a result of Turrittin.* Publications Mathématiques de l'IHÉS 39 (1970), 175–232. [DOI](https://doi.org/10.1007/bf02684688)
+- **[Foundational]** N. Katz. *Algebraic solutions of differential equations ($p$-curvature and the Hodge filtration).* Inventiones Mathematicae 18 (1972), 1–118. [DOI](https://doi.org/10.1007/bf01389714)
+- **[Foundational]** N. Katz. *A conjecture in the arithmetic theory of differential equations.* Bulletin de la Société Mathématique de France 110 (1982), 203–239 (corrections, 347–348). [DOI](https://doi.org/10.24033/bsmf.1960)
 - **[Partial results]** D. V. Chudnovsky, G. V. Chudnovsky. *Applications of Padé approximations to the Grothendieck conjecture on linear differential equations.* In: Number Theory (New York 1983–84), Lecture Notes in Mathematics 1135, Springer, 1985, 52–100.
-- **[Partial results]** J.-B. Bost. *Algebraic leaves of algebraic foliations over number fields.* Publications Mathématiques de l'IHÉS 93 (2001), 161–221.
-- **[Partial results]** Y. André. *Sur la conjecture des $p$-courbures de Grothendieck–Katz et un problème de Dwork.* In: Geometric Aspects of Dwork Theory, Vol. I, Walter de Gruyter, 2004, 55–112.
-- **[Partial results]** B. Farb, M. Kisin. *Rigidity, locally symmetric varieties, and the Grothendieck–Katz conjecture.* International Mathematics Research Notices 2009, no. 22, 4159–4167.
-- **[SOTA / Recent]** A. Shankar. *The $p$-curvature conjecture and monodromy around simple closed loops.* Duke Mathematical Journal 167 (2018), no. 10, 1951–1980.
-- **[SOTA / Recent]** H. Esnault, M. Groechenig. *Rigid connections and $F$-isocrystals.* Acta Mathematica 225 (2020), no. 1, 103–158.
-- **[SOTA / Recent]** H. Esnault, A. Langer. *On a positive equicharacteristic variant of the $p$-curvature conjecture.* Documenta Mathematica 18 (2013), 23–50.
+- **[Partial results]** J.-B. Bost. *Algebraic leaves of algebraic foliations over number fields.* Publications Mathématiques de l'IHÉS 93 (2001), 161–221. [DOI](https://doi.org/10.1007/s10240-001-8191-3)
+- **[Partial results]** Y. André. *Sur la conjecture des $p$-courbures de Grothendieck–Katz et un problème de Dwork.* In: Geometric Aspects of Dwork Theory, Vol. I, Walter de Gruyter, 2004, 55–112. [DOI](https://doi.org/10.1515/9783110198133.1.55)
+- **[Partial results]** B. Farb, M. Kisin. *Rigidity, locally symmetric varieties, and the Grothendieck–Katz conjecture.* International Mathematics Research Notices 2009, no. 22, 4159–4167. [DOI](https://doi.org/10.1093/imrn/rnp082)
+- **[SOTA / Recent]** A. Shankar. *The $p$-curvature conjecture and monodromy around simple closed loops.* Duke Mathematical Journal 167 (2018), no. 10, 1951–1980. [DOI](https://doi.org/10.1215/00127094-2018-0008)
+- **[SOTA / Recent]** H. Esnault, M. Groechenig. *Rigid connections and $F$-isocrystals.* Acta Mathematica 225 (2020), no. 1, 103–158. [DOI](https://doi.org/10.4310/acta.2020.v225.n1.a2)
+- **[SOTA / Recent]** H. Esnault, A. Langer. *On a positive equicharacteristic variant of the $p$-curvature conjecture.* Documenta Mathematica 18 (2013), 23–50. [DOI](https://doi.org/10.4171/dm/390)
 - **[Survey]** A. Chambert-Loir. *Théorèmes d'algébricité en géométrie diophantienne (d'après J.-B. Bost, Y. André, D. & G. Chudnovsky).* Séminaire Bourbaki, Exp. 886, Astérisque 282 (2002), 175–209.
 - **[Background]** M. van der Put, M. F. Singer. *Galois Theory of Linear Differential Equations.* Grundlehren der mathematischen Wissenschaften 328, Springer, 2003.
 - **[Background]** F. Beukers, G. Heckman. *Monodromy for the hypergeometric function ${}_nF_{n-1}$.* Inventiones Mathematicae 95 (1989), 325–354.

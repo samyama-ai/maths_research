@@ -119,15 +119,15 @@ For the conjecture itself, the gap is closed: the ODE argument plus the $\tau=0$
 ## 9. Key References
 
 - **[Foundational]** M. Mariño, C. Vafa. *Framed knots at large $N$.* In *Orbifolds in Mathematics and Physics*, Contemp. Math. **310**, AMS, 2002, pp. 185–204.
-- **[Foundational]** C. Faber, R. Pandharipande. *Hodge integrals and Gromov–Witten theory.* Inventiones Mathematicae **139** (2000), 173–199.
+- **[Foundational]** C. Faber, R. Pandharipande. *Hodge integrals and Gromov–Witten theory.* Inventiones Mathematicae **139** (2000), 173–199. [DOI](https://doi.org/10.1007/s002229900028)
 - **[Foundational]** T. Ekedahl, S. Lando, M. Shapiro, A. Vainshtein. *Hodge integrals and Hurwitz numbers.* Inventiones Mathematicae **146** (2001), 297–327.
-- **[Proof]** C.-C. M. Liu, K. Liu, J. Zhou. *A proof of a conjecture of Mariño–Vafa on Hodge integrals.* Journal of Differential Geometry **65** (2003), no. 2, 289–340.
-- **[Proof]** A. Okounkov, R. Pandharipande. *Hodge integrals and invariants of the unknot.* Geometry & Topology **8** (2004), 675–699.
-- **[SOTA]** J. Li, C.-C. M. Liu, K. Liu, J. Zhou. *A mathematical theory of the topological vertex.* Geometry & Topology **13** (2009), 527–621.
-- **[SOTA]** C.-C. M. Liu, K. Liu, J. Zhou. *A formula of two-partition Hodge integrals.* Journal of the AMS **20** (2007), 149–184.
-- **[Physics origin]** H. Ooguri, C. Vafa. *Knot invariants and topological strings.* Nuclear Physics B **577** (2000), 419–438.
-- **[Physics origin]** M. Aganagic, A. Klemm, M. Mariño, C. Vafa. *The topological vertex.* Communications in Mathematical Physics **254** (2005), 425–478.
-- **[Survey]** C.-C. M. Liu, K. Liu, J. Zhou. *Mariño–Vafa formula and Hodge integral identities.* Journal of Algebraic Geometry **15** (2006), 379–398.
+- **[Proof]** C.-C. M. Liu, K. Liu, J. Zhou. *A proof of a conjecture of Mariño–Vafa on Hodge integrals.* Journal of Differential Geometry **65** (2003), no. 2, 289–340. [DOI](https://doi.org/10.4310/jdg/1090511689)
+- **[Proof]** A. Okounkov, R. Pandharipande. *Hodge integrals and invariants of the unknot.* Geometry & Topology **8** (2004), 675–699. [DOI](https://doi.org/10.2140/gt.2004.8.675)
+- **[SOTA]** J. Li, C.-C. M. Liu, K. Liu, J. Zhou. *A mathematical theory of the topological vertex.* Geometry & Topology **13** (2009), 527–621. [DOI](https://doi.org/10.2140/gt.2009.13.527)
+- **[SOTA]** C.-C. M. Liu, K. Liu, J. Zhou. *A formula of two-partition Hodge integrals.* Journal of the AMS **20** (2007), 149–184. [DOI](https://doi.org/10.1090/s0894-0347-06-00541-8)
+- **[Physics origin]** H. Ooguri, C. Vafa. *Knot invariants and topological strings.* Nuclear Physics B **577** (2000), 419–438. [DOI](https://doi.org/10.1016/s0550-3213(00)00118-8)
+- **[Physics origin]** M. Aganagic, A. Klemm, M. Mariño, C. Vafa. *The topological vertex.* Communications in Mathematical Physics **254** (2005), 425–478. [DOI](https://doi.org/10.1093/acprof:oso/9780198568490.003.0009)
+- **[Survey]** C.-C. M. Liu, K. Liu, J. Zhou. *Mariño–Vafa formula and Hodge integral identities.* Journal of Algebraic Geometry **15** (2006), 379–398. [DOI](https://doi.org/10.1090/s1056-3911-05-00419-4)
 - **[Survey]** M. Mariño. *Chern–Simons Theory, Matrix Models, and Topological Strings.* Oxford University Press, 2005.
 
 ## 10. Worked Example / Concrete Special Case

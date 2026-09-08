@@ -104,21 +104,21 @@ is injective over $\mathbb{Z}$, not merely after tensoring with $\mathbb{Q}$. Eq
 
 ## 9. Key References
 
-- **[Foundational]** K. Habiro. *Claspers and finite type invariants of links.* Geometry & Topology 4 (2000), 1–83.
-- **[Foundational]** M. Goussarov. *Finite type invariants and $n$-equivalence of 3-manifolds.* Comptes Rendus de l'Académie des Sciences Paris, Série I, 329 (1999), 517–522.
+- **[Foundational]** K. Habiro. *Claspers and finite type invariants of links.* Geometry & Topology 4 (2000), 1–83. [DOI](https://doi.org/10.2140/gt.2000.4.1)
+- **[Foundational]** M. Goussarov. *Finite type invariants and $n$-equivalence of 3-manifolds.* Comptes Rendus de l'Académie des Sciences Paris, Série I, 329 (1999), 517–522. [DOI](https://doi.org/10.1016/s0764-4442(00)80053-1)
 - **[Foundational]** M. Goussarov. *Variations of knotted graphs. The geometric technique of $n$-equivalence.* St. Petersburg Mathematical Journal 12 (2001), 569–604.
-- **[Foundational]** S. V. Matveev. *Generalized surgeries of three-dimensional manifolds and representations of homology spheres.* Matematicheskie Zametki 42 (1987), 268–278.
-- **[Foundational]** H. Murakami, Y. Nakanishi. *On a certain move generating link-homology.* Mathematische Annalen 284 (1989), 75–89.
-- **[SOTA]** S. Garoufalidis, M. Goussarov, M. Polyak. *Calculus of clovers and finite type invariants of 3-manifolds.* Geometry & Topology 5 (2001), 75–108.
-- **[SOTA]** G. Massuyeau. *Finite-type invariants of 3-manifolds and the dimension subgroup problem.* Journal of Topology 1 (2008), 465–488.
-- **[SOTA]** G. Massuyeau, J.-B. Meilhan. *Characterization of $Y_2$-equivalence for homology cylinders.* Journal of Knot Theory and Its Ramifications 12 (2003), 493–522.
-- **[SOTA]** J.-B. Meilhan, A. Yasuhara. *Characterization of finite type string link invariants of degree $<5$.* Mathematical Proceedings of the Cambridge Philosophical Society 148 (2010), 439–472.
-- **[SOTA]** E. Auclair, C. Lescop. *Clover calculus for homology spheres via basic algebraic topology.* Algebraic & Geometric Topology 5 (2005), 71–106.
-- **[SOTA]** D. Moussard. *Finite type invariants of rational homology 3-spheres.* Algebraic & Geometric Topology 12 (2012), 2389–2428.
-- **[Related]** J. Conant, P. Teichner. *Grope cobordism of classical knots.* Topology 43 (2004), 119–156.
+- **[Foundational]** S. V. Matveev. *Generalized surgeries of three-dimensional manifolds and representations of homology spheres.* Matematicheskie Zametki 42 (1987), 268–278. [DOI](https://doi.org/10.1007/bf01240455)
+- **[Foundational]** H. Murakami, Y. Nakanishi. *On a certain move generating link-homology.* Mathematische Annalen 284 (1989), 75–89. [DOI](https://doi.org/10.1007/bf01443506)
+- **[SOTA]** S. Garoufalidis, M. Goussarov, M. Polyak. *Calculus of clovers and finite type invariants of 3-manifolds.* Geometry & Topology 5 (2001), 75–108. [DOI](https://doi.org/10.2140/gt.2001.5.75)
+- **[SOTA]** G. Massuyeau. *Finite-type invariants of 3-manifolds and the dimension subgroup problem.* Journal of Topology 1 (2008), 465–488. [DOI](https://doi.org/10.1112/jlms/jdm034)
+- **[SOTA]** G. Massuyeau, J.-B. Meilhan. *Characterization of $Y_2$-equivalence for homology cylinders.* Journal of Knot Theory and Its Ramifications 12 (2003), 493–522. [DOI](https://doi.org/10.1142/s0218216503002585)
+- **[SOTA]** J.-B. Meilhan, A. Yasuhara. *Characterization of finite type string link invariants of degree $<5$.* Mathematical Proceedings of the Cambridge Philosophical Society 148 (2010), 439–472. [DOI](https://doi.org/10.1017/s0305004110000046)
+- **[SOTA]** E. Auclair, C. Lescop. *Clover calculus for homology spheres via basic algebraic topology.* Algebraic & Geometric Topology 5 (2005), 71–106. [DOI](https://doi.org/10.2140/agt.2005.5.71)
+- **[SOTA]** D. Moussard. *Finite type invariants of rational homology 3-spheres.* Algebraic & Geometric Topology 12 (2012), 2389–2428. [DOI](https://doi.org/10.2140/agt.2012.12.2389)
+- **[Related]** J. Conant, P. Teichner. *Grope cobordism of classical knots.* Topology 43 (2004), 119–156. [DOI](https://doi.org/10.1016/s0040-9383(03)00031-4)
 - **[Survey]** D. Bar-Natan. *On the Vassiliev knot invariants.* Topology 34 (1995), 423–472.
 - **[Survey]** S. Chmutov, S. Duzhin, J. Mostovoy. *Introduction to Vassiliev Knot Invariants.* Cambridge University Press, 2012.
-- **[Survey]** K. Habiro, G. Massuyeau. *From mapping class groups to monoids of homology cobordisms: a survey.* In: Handbook of Teichmüller Theory, Vol. III, EMS Publishing House, 2012.
+- **[Survey]** K. Habiro, G. Massuyeau. *From mapping class groups to monoids of homology cobordisms: a survey.* In: Handbook of Teichmüller Theory, Vol. III, EMS Publishing House, 2012. [DOI](https://doi.org/10.4171/103-1/9)
 
 ## 10. Worked Example / Concrete Special Case
 

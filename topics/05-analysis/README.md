@@ -4,12 +4,20 @@ Fourier analysis, operator algebras, complex dynamics, functional analysis, meas
 
 ## Problems Index
 
+* 🔴 [Muckenhoupt Weight A-infinity Dimensional Dependence](./a2-theorem-dimensional-dependence.md) — Dimension-free weighted bounds for singular integral operators
 * 🟢 [Ahlfors Measure Conjecture](./ahlfors-measure-conjecture.md) — Limit sets of finitely generated Kleinian groups have zero measure.
 * 🟢 [Alberti's Rank One Theorem](./alberti-rank-one.md) — Characterizes the singular part of derivative of bounded variation functions.
 * 🟡 [AM-GM for Matrices](./am-gm-for-matrices.md) — Generalizes arithmetic and geometric means to positive definite matrices.
+* 🟡 [Analytic Capacity and the Cauchy Transform Semiadditivity Constants](./analytic-capacity-comparability.md) — Comparing analytic capacity with continuous analytic capacity
+* 🟡 [The Angular Derivative Problem for Inner Functions](./angular-derivative-problem.md) — Existence of finite angular derivatives at boundary points
 * 🔴 [Baez-Duarte Criterion](./baez-duarte-criterion.md) — Formulates the Riemann Hypothesis as a distance problem in Hardy spaces.
 * 🔴 [Baker Conjecture](./baker-conjecture.md) — Entire functions of order less than half lack wandering domains.
+* 🔴 [Nazarov-Treil-Volberg Bellman Function Sharpness](./bellman-function-sharp-constants.md) — Explicit Bellman functions for dyadic martingale inequalities
+* 🟡 [Regularity of the Bergman Projection on Worm Domains](./bergman-projection-worm-domains.md) — Sobolev irregularity of Bergman projections on smooth pseudoconvex domains
+* 🔴 [Bergman Space Zero Set Characterization](./bergman-space-zero-sets.md) — Which discrete sets are zero sets of Bergman functions
 * 🟠 [Berry Random Wave Model](./berry-random-wave-model.md) — High energy eigenfunctions behave like random plane waves.
+* 🟡 [The Dimension of Besicovitch Sets in Four Dimensions](./besicovitch-sets-dimension-four.md) — Hausdorff dimension of measure-zero sets containing all directions
+* 🔴 [Rate of Convergence in the Hardy-Littlewood Maximal Constant](./best-constant-maximal-function.md) — Sharp weak type constant for centered maximal operators
 * 🔴 [Beurling-Lax Theorem Generalizations](./beurling-lax-theorem-generalizations.md) — Characterization of invariant subspaces for operators on general Banach spaces.
 * 🔴 [Beurling-Nyman Criterion](./beurling-nyman-criterion.md) — Equates the Riemann Hypothesis to a density problem in Hilbert space.
 * 🟢 [Bieberbach Conjecture](./bieberbach-conjecture.md) — Coefficients of univalent functions are bounded by their index.
@@ -22,11 +30,19 @@ Fourier analysis, operator algebras, complex dynamics, functional analysis, meas
 * 🔴 [Brennan Conjecture](./brennan-conjecture.md) — Bounds the integral of derivatives of conformal mappings.
 * 🔴 [Calderón–Zygmund Extensions](./calderon-zygmund-extensions.md) — Generalizations of singular integral operators to non homogeneous spaces.
 * 🟢 [Carleson Conjecture](./carleson-conjecture.md) — Fourier series of square integrable functions converge almost everywhere.
+* 🟡 [Chang-Marshall Sharp Exponential Inequality Extremals](./chang-marshall-inequality-extremals.md) — Extremal functions for exponential integrability of Dirichlet integrals
 * 🟡 [Chern-Ricci Flow](./chern-ricci-flow.md) — Evolution of Hermitian metrics by their Chern Ricci curvature.
+* 🟡 [The Complex Plateau Problem for Strictly Pseudoconvex Boundaries](./complex-plateau-problem.md) — Which real submanifolds bound complex analytic varieties
+* 🟡 [Composition Operator Spectra on the Hardy Space](./composition-operator-spectra.md) — Spectra of composition operators for general analytic self-maps
+* 🟡 [Wolff's Conjecture on Cone Multipliers](./cone-multiplier-conjecture.md) — Sharp bounds for Fourier multipliers adapted to light cones
 * 🟢 [Connes Embedding Problem](./connes-embedding-problem.md) — Finite von Neumann algebras embed into the ultrapower of hyperfinite.
 * 🟢 [Corona Theorem](./corona-theorem.md) — The open unit disk is dense in its maximal ideal space.
+* 🔴 [Cyclicity in Dirichlet-Type Spaces](./cyclic-vectors-dirichlet-space.md) — Characterizing cyclic functions for the shift on Dirichlet space
+* 🔴 [Global Regularity for the $\bar\partial$-Neumann Problem](./dbar-neumann-global-regularity.md) — Smooth solvability of the complex Neumann problem on pseudoconvex domains
+* 🔴 [Zeros of the Riemann Xi Function and de Branges Spaces](./de-branges-space-approach-to-rh.md) — Hilbert space of entire functions approach to zero location
 * 🟡 [De Giorgi Conjecture](./de-giorgi-conjecture.md) — Concerns the one dimensional symmetry of solutions to Allen Cahn equation.
 * 🔴 [Density Hypothesis](./density-hypothesis.md) — Bounds the number of zeros of the Riemann zeta function.
+* 🟡 [The Dvoretzky Covering Problem for Random Arcs](./dvoretzky-random-covering.md) — When random arcs almost surely cover the whole circle
 * 🔴 [Erdös Flat Polynomials Problem](./erdos-flat-polynomials.md) — Asks for polynomials on unit circle with restricted maximum modulus.
 * 🔴 [Erdős Similarity Problem](./erdos-similarity-problem.md) — Sets of positive measure contain affine copies of sequences.
 * 🔴 [Eremenko Conjecture](./eremenko-conjecture.md) — Escaping sets of entire functions have connected components.

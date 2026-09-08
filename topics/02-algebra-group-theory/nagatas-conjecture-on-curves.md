@@ -116,20 +116,20 @@ Closing the numerical gap $\sqrt{10} - 117/37 \approx 1.2 \times 10^{-5}$ by a *
 
 ## 9. Key References
 
-- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics **81** (1959), 766–772.
-- **[Foundational]** M. Nagata. *On rational surfaces II.* Memoirs of the College of Science, University of Kyoto, Ser. A **33** (1960), 271–293.
-- **[Foundational]** G. Xu. *Ample line bundles on smooth surfaces.* Journal für die reine und angewandte Mathematik **469** (1995), 199–209.
-- **[SOTA]** C. Ciliberto, R. Miranda. *Degenerations of planar linear systems.* J. reine angew. Math. **501** (1998), 191–220.
-- **[SOTA]** C. Ciliberto, R. Miranda. *Linear systems of plane curves with base points of equal multiplicity.* Transactions of the AMS **352** (2000), 4037–4050.
-- **[SOTA]** C. Ciliberto, R. Miranda. *Homogeneous interpolation on ten points.* Journal of Algebraic Geometry **20** (2011), 685–726.
+- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics **81** (1959), 766–772. [DOI](https://doi.org/10.2307/2372927)
+- **[Foundational]** M. Nagata. *On rational surfaces II.* Memoirs of the College of Science, University of Kyoto, Ser. A **33** (1960), 271–293. [DOI](https://doi.org/10.1215/kjm/1250775912)
+- **[Foundational]** G. Xu. *Ample line bundles on smooth surfaces.* Journal für die reine und angewandte Mathematik **469** (1995), 199–209. [DOI](https://doi.org/10.1515/crll.1995.469.199)
+- **[SOTA]** C. Ciliberto, R. Miranda. *Degenerations of planar linear systems.* J. reine angew. Math. **501** (1998), 191–220. [DOI](https://doi.org/10.1515/crll.1998.077)
+- **[SOTA]** C. Ciliberto, R. Miranda. *Linear systems of plane curves with base points of equal multiplicity.* Transactions of the AMS **352** (2000), 4037–4050. [DOI](https://doi.org/10.1090/s0002-9947-00-02416-8)
+- **[SOTA]** C. Ciliberto, R. Miranda. *Homogeneous interpolation on ten points.* Journal of Algebraic Geometry **20** (2011), 685–726. [DOI](https://doi.org/10.1090/s1056-3911-2011-00545-6)
 - **[SOTA]** L. Evain. *On the postulation of $s^d$ fat points in $\mathbb{P}^d$.* Journal of Algebra **285** (2005), 516–530.
 - **[SOTA]** M. Dumnicki, W. Jarnicki. *New effective bounds on the dimension of a linear system in $\mathbb{P}^2$.* Journal of Symbolic Computation **42** (2007), 621–635.
-- **[SOTA]** M. Dumnicki, B. Harbourne, A. Küronya, J. Roé, T. Szemberg. *Very general monomial valuations of $\mathbb{P}^2$ and a Nagata type conjecture.* Communications in Analysis and Geometry **25** (2017), 125–161.
+- **[SOTA]** M. Dumnicki, B. Harbourne, A. Küronya, J. Roé, T. Szemberg. *Very general monomial valuations of $\mathbb{P}^2$ and a Nagata type conjecture.* Communications in Analysis and Geometry **25** (2017), 125–161. [DOI](https://doi.org/10.4310/cag.2017.v25.n1.a4)
 - **[Survey]** C. Ciliberto, B. Harbourne, R. Miranda, J. Roé. *Variations on Nagata's conjecture.* In *A Celebration of Algebraic Geometry*, Clay Mathematics Proceedings **18**, AMS, 2013, 185–203.
-- **[Survey]** T. Bauer, S. Di Rocco, B. Harbourne, M. Kapustka, A. Knutsen, W. Syzdek, T. Szemberg. *A primer on Seshadri constants.* In *Interactions of Classical and Numerical Algebraic Geometry*, Contemporary Mathematics **496**, AMS, 2009, 33–70.
-- **[Background]** R. Lazarsfeld. *Positivity in Algebraic Geometry I.* Ergebnisse der Mathematik 48, Springer, 2004.
-- **[Related]** D. McDuff, L. Polterovich. *Symplectic packings and algebraic geometry.* Inventiones Mathematicae **115** (1994), 405–429.
-- **[Related]** B. Harbourne, J. Roé. *Discrete behavior of Seshadri constants on surfaces.* Journal of Pure and Applied Algebra **212** (2008), 616–627.
+- **[Survey]** T. Bauer, S. Di Rocco, B. Harbourne, M. Kapustka, A. Knutsen, W. Syzdek, T. Szemberg. *A primer on Seshadri constants.* In *Interactions of Classical and Numerical Algebraic Geometry*, Contemporary Mathematics **496**, AMS, 2009, 33–70. [DOI](https://doi.org/10.1090/conm/496/09718)
+- **[Background]** R. Lazarsfeld. *Positivity in Algebraic Geometry I.* Ergebnisse der Mathematik 48, Springer, 2004. [DOI](https://doi.org/10.1007/978-3-642-18808-4)
+- **[Related]** D. McDuff, L. Polterovich. *Symplectic packings and algebraic geometry.* Inventiones Mathematicae **115** (1994), 405–429. [DOI](https://doi.org/10.1007/bf01231766)
+- **[Related]** B. Harbourne, J. Roé. *Discrete behavior of Seshadri constants on surfaces.* Journal of Pure and Applied Algebra **212** (2008), 616–627. [DOI](https://doi.org/10.1016/j.jpaa.2007.06.018)
 
 ## 10. Worked Example / Concrete Special Case
 

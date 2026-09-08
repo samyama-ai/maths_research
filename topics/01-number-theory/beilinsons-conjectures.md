@@ -96,7 +96,7 @@ Leading experts suggest a few key strategies for the future:
 
 ## 9. Key References
 
-- **[Foundational]** Beilinson, A. A. *Higher regulators and values of L-functions*. Current Problems in Mathematics, Vol. 24, 181–238, Itogi Nauki i Tekhniki, Akad. Nauk SSSR, Moscow, 1984.
+- **[Foundational]** Beilinson, A. A. *Higher regulators and values of L-functions*. Current Problems in Mathematics, Vol. 24, 181–238, Itogi Nauki i Tekhniki, Akad. Nauk SSSR, Moscow, 1984. [DOI](https://doi.org/10.1007/bf02105861)
 - **[Foundational]** Bloch, S. *Higher regulators, algebraic $K$-theory, and zeta functions of elliptic curves*. CRM Monograph Series, Vol. 11, American Mathematical Society, 2000.
 - **[Survey]** Rapoport, M., Schappacher, N., Schneider, P. (Eds.). *Beilinson's Conjectures on Special Values of L-Functions*. Perspectives in Mathematics, Vol. 4, Academic Press, 1988.
 - **[SOTA / Recent]** Goncharov, A. B. *Multiple polylogarithms and mixed Tate motives*. Annals of Mathematics, 154(2), 397-440, 2001.

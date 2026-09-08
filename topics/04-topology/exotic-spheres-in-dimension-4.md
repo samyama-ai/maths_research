@@ -81,11 +81,11 @@ Leading topologists generally agree on the following strategic pathways to breac
 ## 9. Key References
 
 - **[Foundational]** Freedman, M. H. *The topology of four-dimensional manifolds.* Journal of Differential Geometry, 1982.
-- **[Foundational]** Donaldson, S. K. *An application of gauge theory to four-dimensional topology.* Journal of Differential Geometry, 1983.
-- **[Foundational]** Milnor, J. *On manifolds homeomorphic to the 7-sphere.* Annals of Mathematics, 1956.
+- **[Foundational]** Donaldson, S. K. *An application of gauge theory to four-dimensional topology.* Journal of Differential Geometry, 1983. [DOI](https://doi.org/10.4310/jdg/1214437665)
+- **[Foundational]** Milnor, J. *On manifolds homeomorphic to the 7-sphere.* Annals of Mathematics, 1956. [DOI](https://doi.org/10.2307/1969983)
 - **[Survey]** Gompf, R. E., and Stipsicz, A. I. *4-Manifolds and Kirby Calculus.* Graduate Studies in Mathematics, American Mathematical Society, 1999.
-- **[SOTA / Recent]** Gay, D., and Kirby, R. *Trisecting 4-manifolds.* Geometry & Topology, 2016.
-- **[SOTA / Recent]** Akbulut, S. *Cappell-Shaneson homotopy spheres are standard.* Annals of Mathematics, 2010.
+- **[SOTA / Recent]** Gay, D., and Kirby, R. *Trisecting 4-manifolds.* Geometry & Topology, 2016. [DOI](https://doi.org/10.2140/gt.2016.20.3097)
+- **[SOTA / Recent]** Akbulut, S. *Cappell-Shaneson homotopy spheres are standard.* Annals of Mathematics, 2010. [DOI](https://doi.org/10.4007/annals.2010.171.2171)
 
 ## 10. Worked Example / Concrete Special Case
 

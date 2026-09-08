@@ -108,22 +108,22 @@ valid for all knots, which with Kronheimer–Mrowka would close the problem inst
 
 ## 9. Key References
 
-- **[Foundational]** V. F. R. Jones. *A polynomial invariant for knots via von Neumann algebras.* Bulletin of the AMS 12 (1985), 103–111.
-- **[Foundational]** V. F. R. Jones. *Hecke algebra representations of braid groups and link polynomials.* Annals of Mathematics 126 (1987), 335–388.
-- **[Foundational]** L. H. Kauffman. *State models and the Jones polynomial.* Topology 26 (1987), 395–407.
-- **[Foundational]** K. Murasugi. *Jones polynomials and classical conjectures in knot theory.* Topology 26 (1987), 187–194.
-- **[Foundational]** M. B. Thistlethwaite. *A spanning tree expansion of the Jones polynomial.* Topology 26 (1987), 297–309.
-- **[Structural]** W. B. R. Lickorish and M. B. Thistlethwaite. *Some links with non-trivial polynomials and their crossing-numbers.* Commentarii Mathematici Helvetici 63 (1988), 527–539.
-- **[Counterexamples]** M. B. Thistlethwaite. *Links with trivial Jones polynomial.* Journal of Knot Theory and Its Ramifications 10 (2001), 641–643.
-- **[Counterexamples]** S. Eliahou, L. H. Kauffman and M. B. Thistlethwaite. *Infinite families of links with trivial Jones polynomial.* Topology 42 (2003), 155–169.
+- **[Foundational]** V. F. R. Jones. *A polynomial invariant for knots via von Neumann algebras.* Bulletin of the AMS 12 (1985), 103–111. [DOI](https://doi.org/10.1090/s0273-0979-1985-15304-2)
+- **[Foundational]** V. F. R. Jones. *Hecke algebra representations of braid groups and link polynomials.* Annals of Mathematics 126 (1987), 335–388. [DOI](https://doi.org/10.2307/1971403)
+- **[Foundational]** L. H. Kauffman. *State models and the Jones polynomial.* Topology 26 (1987), 395–407. [DOI](https://doi.org/10.1016/0040-9383(87)90009-7)
+- **[Foundational]** K. Murasugi. *Jones polynomials and classical conjectures in knot theory.* Topology 26 (1987), 187–194. [DOI](https://doi.org/10.1016/0040-9383(87)90058-9)
+- **[Foundational]** M. B. Thistlethwaite. *A spanning tree expansion of the Jones polynomial.* Topology 26 (1987), 297–309. [DOI](https://doi.org/10.1016/0040-9383(87)90003-6)
+- **[Structural]** W. B. R. Lickorish and M. B. Thistlethwaite. *Some links with non-trivial polynomials and their crossing-numbers.* Commentarii Mathematici Helvetici 63 (1988), 527–539. [DOI](https://doi.org/10.1007/bf02566777)
+- **[Counterexamples]** M. B. Thistlethwaite. *Links with trivial Jones polynomial.* Journal of Knot Theory and Its Ramifications 10 (2001), 641–643. [DOI](https://doi.org/10.1142/s0218216501001050)
+- **[Counterexamples]** S. Eliahou, L. H. Kauffman and M. B. Thistlethwaite. *Infinite families of links with trivial Jones polynomial.* Topology 42 (2003), 155–169. [DOI](https://doi.org/10.1016/s0040-9383(02)00012-5)
 - **[Reduction]** S. Bigelow. *Does the Jones polynomial detect unknottedness?* Experimental Mathematics 11 (2002), 493–505.
-- **[Braid groups]** S. Bigelow. *The Burau representation is not faithful for $n = 5$.* Geometry & Topology 3 (1999), 397–404.
-- **[SOTA]** P. B. Kronheimer and T. S. Mrowka. *Khovanov homology is an unknot-detector.* Publications Mathématiques de l'IHÉS 113 (2011), 97–208.
-- **[SOTA]** J. A. Baldwin and S. Sivek. *Khovanov homology detects the trefoils.* Duke Mathematical Journal 171 (2022), 885–956.
-- **[Computational]** O. Dasbach and S. Hougardy. *Does the Jones polynomial detect unknottedness?* Experimental Mathematics 6 (1997), 51–56.
-- **[Computational]** R. E. Tuzun and A. S. Sikora. *Verification of the Jones unknot conjecture up to 22 crossings.* Journal of Knot Theory and Its Ramifications 27 (2018), 1840009.
-- **[Categorification]** M. Khovanov. *A categorification of the Jones polynomial.* Duke Mathematical Journal 101 (2000), 359–426.
-- **[Categorification]** E. S. Lee. *An endomorphism of the Khovanov invariant.* Advances in Mathematics 197 (2005), 554–586.
+- **[Braid groups]** S. Bigelow. *The Burau representation is not faithful for $n = 5$.* Geometry & Topology 3 (1999), 397–404. [DOI](https://doi.org/10.2140/gt.1999.3.397)
+- **[SOTA]** P. B. Kronheimer and T. S. Mrowka. *Khovanov homology is an unknot-detector.* Publications Mathématiques de l'IHÉS 113 (2011), 97–208. [DOI](https://doi.org/10.1007/s10240-010-0030-y)
+- **[SOTA]** J. A. Baldwin and S. Sivek. *Khovanov homology detects the trefoils.* Duke Mathematical Journal 171 (2022), 885–956. [DOI](https://doi.org/10.1215/00127094-2021-0034)
+- **[Computational]** O. Dasbach and S. Hougardy. *Does the Jones polynomial detect unknottedness?* Experimental Mathematics 6 (1997), 51–56. [DOI](https://doi.org/10.1080/10586458.1997.10504350)
+- **[Computational]** R. E. Tuzun and A. S. Sikora. *Verification of the Jones unknot conjecture up to 22 crossings.* Journal of Knot Theory and Its Ramifications 27 (2018), 1840009. [DOI](https://doi.org/10.1142/s0218216518400096)
+- **[Categorification]** M. Khovanov. *A categorification of the Jones polynomial.* Duke Mathematical Journal 101 (2000), 359–426. [DOI](https://doi.org/10.1215/s0012-7094-00-10131-7)
+- **[Categorification]** E. S. Lee. *An endomorphism of the Khovanov invariant.* Advances in Mathematics 197 (2005), 554–586. [DOI](https://doi.org/10.1016/j.aim.2004.10.015)
 - **[Survey / Book]** W. B. R. Lickorish. *An Introduction to Knot Theory.* Graduate Texts in Mathematics 175, Springer, 1997.
 - **[Problem list]** V. F. R. Jones. *Ten problems.* In *Mathematics: Frontiers and Perspectives*, AMS, 2000.
 

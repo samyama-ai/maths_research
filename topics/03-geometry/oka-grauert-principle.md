@@ -104,14 +104,14 @@ Concretely, one must upgrade an approximation statement — every holomorphic ma
 
 ## 9. Key References
 
-- **[Foundational]** K. Oka. *Sur les fonctions analytiques de plusieurs variables, III: Deuxième problème de Cousin.* Journal of Science of the Hiroshima University, Series A, 9 (1939), 7–19.
-- **[Foundational]** H. Grauert. *Holomorphe Funktionen mit Werten in komplexen Lieschen Gruppen.* Mathematische Annalen 133 (1957), 450–472.
-- **[Foundational]** H. Grauert. *Analytische Faserungen über holomorph-vollständigen Räumen.* Mathematische Annalen 135 (1958), 263–273.
-- **[Foundational]** M. Gromov. *Oka's principle for holomorphic sections of elliptic bundles.* Journal of the American Mathematical Society 2 (1989), 851–897.
-- **[SOTA]** F. Forstnerič. *Runge approximation on convex sets implies the Oka property.* Annals of Mathematics 163 (2006), 689–707.
-- **[SOTA]** F. Forstnerič. *The Oka principle for sections of subelliptic submersions.* Mathematische Zeitschrift 241 (2002), 527–551.
-- **[SOTA]** B. Ivarsson, F. Kutzschebauch. *Holomorphic factorization of mappings into $SL_n(\mathbb{C})$.* Annals of Mathematics 175 (2012), 45–69.
-- **[SOTA / Recent]** Y. Kusakabe. *Elliptic characterization and localization of Oka manifolds.* Indiana University Mathematics Journal 70 (2021), 1039–1054.
+- **[Foundational]** K. Oka. *Sur les fonctions analytiques de plusieurs variables, III: Deuxième problème de Cousin.* Journal of Science of the Hiroshima University, Series A, 9 (1939), 7–19. [DOI](https://doi.org/10.32917/hmj/1558490525)
+- **[Foundational]** H. Grauert. *Holomorphe Funktionen mit Werten in komplexen Lieschen Gruppen.* Mathematische Annalen 133 (1957), 450–472. [DOI](https://doi.org/10.1007/bf01343758)
+- **[Foundational]** H. Grauert. *Analytische Faserungen über holomorph-vollständigen Räumen.* Mathematische Annalen 135 (1958), 263–273. [DOI](https://doi.org/10.1007/bf01351803)
+- **[Foundational]** M. Gromov. *Oka's principle for holomorphic sections of elliptic bundles.* Journal of the American Mathematical Society 2 (1989), 851–897. [DOI](https://doi.org/10.1090/s0894-0347-1989-1001851-9)
+- **[SOTA]** F. Forstnerič. *Runge approximation on convex sets implies the Oka property.* Annals of Mathematics 163 (2006), 689–707. [DOI](https://doi.org/10.4007/annals.2006.163.689)
+- **[SOTA]** F. Forstnerič. *The Oka principle for sections of subelliptic submersions.* Mathematische Zeitschrift 241 (2002), 527–551. [DOI](https://doi.org/10.1007/s00209-002-0429-3)
+- **[SOTA]** B. Ivarsson, F. Kutzschebauch. *Holomorphic factorization of mappings into $SL_n(\mathbb{C})$.* Annals of Mathematics 175 (2012), 45–69. [DOI](https://doi.org/10.4007/annals.2012.175.1.3)
+- **[SOTA / Recent]** Y. Kusakabe. *Elliptic characterization and localization of Oka manifolds.* Indiana University Mathematics Journal 70 (2021), 1039–1054. [DOI](https://doi.org/10.1512/iumj.2021.70.8454)
 - **[SOTA / Recent]** Y. Kusakabe. *Oka complements of countable sets and nonelliptic Oka manifolds.* Proceedings of the American Mathematical Society 149 (2021), 1233–1238.
 - **[Survey]** F. Forstnerič, F. Lárusson. *Survey of Oka theory.* New York Journal of Mathematics 17a (2011), 11–38.
 - **[Book]** F. Forstnerič. *Stein Manifolds and Holomorphic Mappings: The Homotopy Principle in Complex Analysis.* Springer, Ergebnisse der Mathematik, 2nd edition, 2017.

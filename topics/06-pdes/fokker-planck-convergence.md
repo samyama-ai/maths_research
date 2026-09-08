@@ -108,10 +108,10 @@ Leading figures such as Cedric Villani, Felix Otto, and José Carrillo have high
 ## 9. Key References
 
 - **[Foundational]** Bakry, D., & Émery, M. *Diffusions hypercontractives*. Séminaire de Probabilités XIX 1983/84. Springer, 1985.
-- **[Foundational]** Jordan, R., Kinderlehrer, D., & Otto, F. *The variational formulation of the Fokker-Planck equation*. SIAM Journal on Mathematical Analysis, 1998.
+- **[Foundational]** Jordan, R., Kinderlehrer, D., & Otto, F. *The variational formulation of the Fokker-Planck equation*. SIAM Journal on Mathematical Analysis, 1998. [DOI](https://doi.org/10.1137/s0036141096303359)
 - **[Survey]** Villani, C. *Hypocoercivity*. Memoirs of the American Mathematical Society, 2009.
-- **[SOTA / Recent]** Carrillo, J. A., McCann, R. J., & Villani, C. *Kinetic equilibration rates for granular media and related equations: entropy dissipation and mass transportation estimates*. Revista Matemática Iberoamericana, 2003.
-- **[SOTA / Recent]** Dolbeault, J., Mouhot, C., & Schmeiser, C. *Hypocoercivity for linear kinetic equations conserving mass*. Transactions of the American Mathematical Society, 2015.
+- **[SOTA / Recent]** Carrillo, J. A., McCann, R. J., & Villani, C. *Kinetic equilibration rates for granular media and related equations: entropy dissipation and mass transportation estimates*. Revista Matemática Iberoamericana, 2003. [DOI](https://doi.org/10.4171/rmi/376)
+- **[SOTA / Recent]** Dolbeault, J., Mouhot, C., & Schmeiser, C. *Hypocoercivity for linear kinetic equations conserving mass*. Transactions of the American Mathematical Society, 2015. [DOI](https://doi.org/10.1090/s0002-9947-2015-06012-7)
 
 ## 10. Worked Example / Concrete Special Case
 

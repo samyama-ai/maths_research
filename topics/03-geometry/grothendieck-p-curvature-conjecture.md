@@ -101,17 +101,17 @@ The exact missing step: given $(\mathcal E,\nabla)$ on a general $X/K$ with $\ps
 
 ## 9. Key References
 
-- **[Foundational]** N. M. Katz. *Nilpotent connections and the monodromy theorem: applications of a result of Turrittin.* Publications Mathématiques de l'IHÉS, 39:175–232, 1970.
-- **[Foundational]** N. M. Katz. *Algebraic solutions of differential equations ($p$-curvature and the Hodge filtration).* Inventiones Mathematicae, 18:1–118, 1972.
-- **[Foundational]** N. M. Katz. *A conjecture in the arithmetic theory of differential equations.* Bulletin de la Société Mathématique de France, 110:203–239, 1982 (and corrigendum, same volume, 347–348).
+- **[Foundational]** N. M. Katz. *Nilpotent connections and the monodromy theorem: applications of a result of Turrittin.* Publications Mathématiques de l'IHÉS, 39:175–232, 1970. [DOI](https://doi.org/10.1007/bf02684688)
+- **[Foundational]** N. M. Katz. *Algebraic solutions of differential equations ($p$-curvature and the Hodge filtration).* Inventiones Mathematicae, 18:1–118, 1972. [DOI](https://doi.org/10.1007/bf01389714)
+- **[Foundational]** N. M. Katz. *A conjecture in the arithmetic theory of differential equations.* Bulletin de la Société Mathématique de France, 110:203–239, 1982 (and corrigendum, same volume, 347–348). [DOI](https://doi.org/10.24033/bsmf.1960)
 - **[SOTA]** B. Farb, M. Kisin. *Rigid local systems and the multiplicative eigenvalue problem / Rigid local systems and the Grothendieck–Katz $p$-curvature conjecture.* American Journal of Mathematics, 131(5):1425–1450, 2009.
-- **[SOTA]** J.-B. Bost. *Algebraic leaves of algebraic foliations over number fields.* Publications Mathématiques de l'IHÉS, 93:161–221, 2001.
-- **[SOTA]** Y. André. *Sur la conjecture des $p$-courbures de Grothendieck–Katz et un problème de Dwork.* In *Geometric Aspects of Dwork Theory*, de Gruyter, 2004.
+- **[SOTA]** J.-B. Bost. *Algebraic leaves of algebraic foliations over number fields.* Publications Mathématiques de l'IHÉS, 93:161–221, 2001. [DOI](https://doi.org/10.1007/s10240-001-8191-3)
+- **[SOTA]** Y. André. *Sur la conjecture des $p$-courbures de Grothendieck–Katz et un problème de Dwork.* In *Geometric Aspects of Dwork Theory*, de Gruyter, 2004. [DOI](https://doi.org/10.1515/9783110198133.1.55)
 - **[SOTA]** A. Ogus, V. Vologodsky. *Nonabelian Hodge theory in characteristic $p$.* Publications Mathématiques de l'IHÉS, 106:1–138, 2007.
-- **[SOTA]** H. Esnault, M. Groechenig. *Cohomologically rigid local systems and integrality.* Selecta Mathematica, 24(5):4279–4292, 2018.
+- **[SOTA]** H. Esnault, M. Groechenig. *Cohomologically rigid local systems and integrality.* Selecta Mathematica, 24(5):4279–4292, 2018. [DOI](https://doi.org/10.1007/s00029-018-0409-z)
 - **[Survey]** D. V. Chudnovsky, G. V. Chudnovsky. *Applications of Padé approximations to the Grothendieck conjecture on linear differential equations.* In *Number Theory (New York 1983–84)*, Lecture Notes in Mathematics 1135, Springer, 1985.
 - **[Survey]** M. van der Put, M. F. Singer. *Galois Theory of Linear Differential Equations.* Grundlehren der mathematischen Wissenschaften 328, Springer, 2003.
-- **[Computational]** A. Bostan, X. Caruso, É. Schost. *A fast algorithm for computing the $p$-curvature.* Proceedings of ISSAC 2015, ACM, 2015.
+- **[Computational]** A. Bostan, X. Caruso, É. Schost. *A fast algorithm for computing the $p$-curvature.* Proceedings of ISSAC 2015, ACM, 2015. [DOI](https://doi.org/10.1145/2755996.2756674)
 
 ## 10. Worked Example / Concrete Special Case
 

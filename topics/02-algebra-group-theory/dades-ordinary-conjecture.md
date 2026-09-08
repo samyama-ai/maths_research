@@ -100,9 +100,9 @@ Leading mathematicians suggest that future breakthroughs will rely on proving th
 
 ## 9. Key References
 
-- **[Foundational]** Dade, E. C. *Counting characters in blocks, I.* Inventiones mathematicae, 1992.
-- **[Foundational]** Dade, E. C. *Counting characters in blocks, II.* Journal für die reine und angewandte Mathematik, 1994.
-- **[SOTA / Recent]** Späth, B. *A reduction theorem for Dade's projective conjecture.* Journal of the European Mathematical Society, 2017.
+- **[Foundational]** Dade, E. C. *Counting characters in blocks, I.* Inventiones mathematicae, 1992. [DOI](https://doi.org/10.1007/bf01232023)
+- **[Foundational]** Dade, E. C. *Counting characters in blocks, II.* Journal für die reine und angewandte Mathematik, 1994. [DOI](https://doi.org/10.1515/crll.1994.448.97)
+- **[SOTA / Recent]** Späth, B. *A reduction theorem for Dade's projective conjecture.* Journal of the European Mathematical Society, 2017. [DOI](https://doi.org/10.4171/jems/688)
 - **[Survey]** Navarro, G. *Characters and Blocks of Finite Groups.* Cambridge University Press, 1998.
 - **[Survey]** Cabanes, M., Enguehard, M. *Representation Theory of Finite Reductive Groups.* Cambridge University Press, 2004.
 

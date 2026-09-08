@@ -75,7 +75,7 @@ Leading mathematicians suggest exploring variations of the problem where the den
 
 - **[Foundational]** P. Erdős and R. L. Graham. *Old and New Problems and Results in Combinatorial Number Theory*. Monographies de L'Enseignement Mathématique, 1980.
 - **[SOTA / Recent]** T. F. Bloom. *On a density conjecture about unit fractions*. Journal of the European Mathematical Society (JEMS), 27(11), 2025.
-- **[SOTA / Recent]** E. S. Croot III. *On a coloring conjecture about unit fractions*. Annals of Mathematics, 157(2), 2003.
+- **[SOTA / Recent]** E. S. Croot III. *On a coloring conjecture about unit fractions*. Annals of Mathematics, 157(2), 2003. [DOI](https://doi.org/10.4007/annals.2003.157.545)
 - **[Survey]** T. F. Bloom and C. Elsholtz. *Egyptian fractions*. Nieuw Archief voor Wiskunde, 2022.
 
 ## 10. Worked Example / Concrete Special Case

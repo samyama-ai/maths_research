@@ -107,21 +107,21 @@ Everything proved falls into two shapes: (i) $-K$ effective and nef, so $n\le 9$
 
 ## 9. Key References
 
-- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics 81 (1959), 766–772.
+- **[Foundational]** M. Nagata. *On the 14-th problem of Hilbert.* American Journal of Mathematics 81 (1959), 766–772. [DOI](https://doi.org/10.2307/2372927)
 - **[Foundational]** B. Segre. *Alcune questioni su insiemi finiti di punti in geometria algebrica.* Atti del Convegno Internazionale di Geometria Algebrica, Torino, 1961, 15–33.
 - **[Foundational]** B. Harbourne. *The geometry of rational surfaces and Hilbert functions of points in the plane.* Canadian Mathematical Society Conference Proceedings 6 (1986), 95–111.
 - **[Foundational]** A. Gimigliano. *On linear systems of plane curves.* PhD thesis, Queen's University, Kingston, Ontario, 1987.
-- **[Foundational]** A. Hirschowitz. *Une conjecture pour la cohomologie des diviseurs sur les surfaces rationnelles génériques.* Journal für die reine und angewandte Mathematik 397 (1989), 208–213.
-- **[SOTA]** C. Ciliberto, R. Miranda. *Degenerations of planar linear systems.* Journal für die reine und angewandte Mathematik 501 (1998), 191–220.
-- **[SOTA]** C. Ciliberto, R. Miranda. *Linear systems of plane curves with base points of equal multiplicity.* Transactions of the American Mathematical Society 352 (2000), 4037–4050.
+- **[Foundational]** A. Hirschowitz. *Une conjecture pour la cohomologie des diviseurs sur les surfaces rationnelles génériques.* Journal für die reine und angewandte Mathematik 397 (1989), 208–213. [DOI](https://doi.org/10.1515/crll.1989.397.208)
+- **[SOTA]** C. Ciliberto, R. Miranda. *Degenerations of planar linear systems.* Journal für die reine und angewandte Mathematik 501 (1998), 191–220. [DOI](https://doi.org/10.1515/crll.1998.077)
+- **[SOTA]** C. Ciliberto, R. Miranda. *Linear systems of plane curves with base points of equal multiplicity.* Transactions of the American Mathematical Society 352 (2000), 4037–4050. [DOI](https://doi.org/10.1090/s0002-9947-00-02416-8)
 - **[SOTA]** L. Evain. *La fonction de Hilbert de la réunion de $4^h$ gros points génériques de $\mathbb{P}^2$.* Journal of Algebraic Geometry 8 (1999), 787–796.
 - **[SOTA]** S. Yang. *Linear systems in $\mathbb{P}^2$ with base points of bounded multiplicity.* Journal of Algebraic Geometry 16 (2007), 19–38.
 - **[SOTA]** M. Dumnicki, W. Jarnicki. *New effective bounds on the dimension of a linear system in $\mathbb{P}^2$.* Journal of Symbolic Computation 42 (2007), 621–635.
-- **[SOTA / Recent]** C. Ciliberto, R. Miranda. *Homogeneous interpolation on ten points.* Journal of Algebraic Geometry 20 (2011), 685–726.
-- **[Survey]** C. Ciliberto, R. Miranda. *The Segre and Harbourne–Hirschowitz conjectures.* In: Applications of Algebraic Geometry to Coding Theory, Physics and Computation, NATO Science Series II, vol. 36, Kluwer, 2001, 37–51.
+- **[SOTA / Recent]** C. Ciliberto, R. Miranda. *Homogeneous interpolation on ten points.* Journal of Algebraic Geometry 20 (2011), 685–726. [DOI](https://doi.org/10.1090/s1056-3911-2011-00545-6)
+- **[Survey]** C. Ciliberto, R. Miranda. *The Segre and Harbourne–Hirschowitz conjectures.* In: Applications of Algebraic Geometry to Coding Theory, Physics and Computation, NATO Science Series II, vol. 36, Kluwer, 2001, 37–51. [DOI](https://doi.org/10.1007/978-94-010-1011-5_4)
 - **[Survey]** C. Ciliberto, B. Harbourne, R. Miranda, J. Roé. *Variations on Nagata's conjecture.* Clay Mathematics Proceedings 18 (2013), 185–203.
 - **[Survey]** R. Miranda. *Linear systems of plane curves.* Notices of the American Mathematical Society 46 (1999), 192–202.
-- **[Related]** J. Alexander, A. Hirschowitz. *Polynomial interpolation in several variables.* Journal of Algebraic Geometry 4 (1995), 201–222.
+- **[Related]** J. Alexander, A. Hirschowitz. *Polynomial interpolation in several variables.* Journal of Algebraic Geometry 4 (1995), 201–222. [DOI](https://doi.org/10.1007/978-1-4615-1791-7_9)
 - **[Related]** B. Harbourne, J. Roé. *Linear systems with multiple base points in $\mathbb{P}^2$.* Advances in Geometry 4 (2004), 41–59.
 
 ## 10. Worked Example / Concrete Special Case

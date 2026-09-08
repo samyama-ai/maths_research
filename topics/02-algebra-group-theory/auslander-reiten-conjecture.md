@@ -92,10 +92,10 @@ Leading researchers suggest the following pathways:
 
 ## 9. Key References
 
-- **[Foundational]** M. Auslander and I. Reiten. *On a generalized version of the Nakayama conjecture*. Proceedings of the American Mathematical Society, Vol. 52, 1975.
-- **[Foundational]** M. Auslander, S. Ding, and Ø. Solberg. *Liftings and weak liftings of modules*. Journal of Algebra, Vol. 156, 1993.
-- **[SOTA / Recent]** L. L. Avramov and R.-O. Buchweitz. *Support varieties and cohomology over complete intersections*. Inventiones mathematicae, Vol. 142, 2000.
-- **[SOTA / Recent]** T. Araya. *The Auslander-Reiten conjecture for Gorenstein rings*. Proceedings of the American Mathematical Society, Vol. 137, 2009.
+- **[Foundational]** M. Auslander and I. Reiten. *On a generalized version of the Nakayama conjecture*. Proceedings of the American Mathematical Society, Vol. 52, 1975. [DOI](https://doi.org/10.1090/s0002-9939-1975-0389977-6)
+- **[Foundational]** M. Auslander, S. Ding, and Ø. Solberg. *Liftings and weak liftings of modules*. Journal of Algebra, Vol. 156, 1993. [DOI](https://doi.org/10.1006/jabr.1993.1076)
+- **[SOTA / Recent]** L. L. Avramov and R.-O. Buchweitz. *Support varieties and cohomology over complete intersections*. Inventiones mathematicae, Vol. 142, 2000. [DOI](https://doi.org/10.1007/s002220000090)
+- **[SOTA / Recent]** T. Araya. *The Auslander-Reiten conjecture for Gorenstein rings*. Proceedings of the American Mathematical Society, Vol. 137, 2009. [DOI](https://doi.org/10.1090/s0002-9939-08-09757-8)
 - **[Survey]** C. Huneke and G. Leuschke. *Two theorems about maximal Cohen-Macaulay modules*. Mathematische Annalen, Vol. 331, 2004.
 
 ## 10. Worked Example / Concrete Special Case

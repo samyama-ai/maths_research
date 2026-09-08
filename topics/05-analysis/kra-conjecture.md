@@ -113,14 +113,14 @@ The exact step to cross: given such $\Gamma$ and $\varepsilon>0$, construct $\va
 
 ## 9. Key References
 
-- **[Foundational]** L. V. Ahlfors. *Finitely generated Kleinian groups.* American Journal of Mathematics 86 (1964), 413–429.
-- **[Foundational]** L. Bers. *Automorphic forms and Poincaré series for infinitely generated Fuchsian groups.* American Journal of Mathematics 87 (1965), 196–214.
-- **[Foundational]** L. Bers. *Inequalities for finitely generated Kleinian groups.* Journal d'Analyse Mathématique 18 (1967), 23–41.
+- **[Foundational]** L. V. Ahlfors. *Finitely generated Kleinian groups.* American Journal of Mathematics 86 (1964), 413–429. [DOI](https://doi.org/10.2307/2373173)
+- **[Foundational]** L. Bers. *Automorphic forms and Poincaré series for infinitely generated Fuchsian groups.* American Journal of Mathematics 87 (1965), 196–214. [DOI](https://doi.org/10.2307/2373231)
+- **[Foundational]** L. Bers. *Inequalities for finitely generated Kleinian groups.* Journal d'Analyse Mathématique 18 (1967), 23–41. [DOI](https://doi.org/10.1007/bf02798032)
 - **[Foundational]** I. Kra. *Automorphic Forms and Kleinian Groups.* W. A. Benjamin, Reading MA, 1972.
 - **[Structural]** C. J. Earle. *Some remarks on Poincaré series.* Compositio Mathematica 21 (1969), 167–176.
 - **[SOTA]** H. Ohtake. *On the norm of the Poincaré series operator for a finitely generated Fuchsian group.* Journal of Mathematics of Kyoto University 22 (1982), 725–732.
-- **[SOTA]** I. Kra. *On the vanishing of and spanning sets for Poincaré series for cusp forms.* Acta Mathematica 153 (1984), 47–116.
-- **[Related]** D. Niebur and M. Sheingorn. *Characterization of Fuchsian groups whose integrable forms are bounded.* Annals of Mathematics (2) 106 (1977), 239–258.
+- **[SOTA]** I. Kra. *On the vanishing of and spanning sets for Poincaré series for cusp forms.* Acta Mathematica 153 (1984), 47–116. [DOI](https://doi.org/10.1007/bf02392375)
+- **[Related]** D. Niebur and M. Sheingorn. *Characterization of Fuchsian groups whose integrable forms are bounded.* Annals of Mathematics (2) 106 (1977), 239–258. [DOI](https://doi.org/10.2307/1971094)
 - **[Survey / Book]** F. P. Gardiner and N. Lakic. *Quasiconformal Teichmüller Theory.* Mathematical Surveys and Monographs 76, American Mathematical Society, 2000.
 - **[Survey / Book]** P. J. Nicholls. *The Ergodic Theory of Discrete Groups.* LMS Lecture Note Series 143, Cambridge University Press, 1989.
 - **[Background]** A. F. Beardon. *The Geometry of Discrete Groups.* Graduate Texts in Mathematics 91, Springer, 1983.

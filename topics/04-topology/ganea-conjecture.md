@@ -100,11 +100,11 @@ Leading algebraic topologists suggest several critical pathways forward:
 ## 9. Key References
 
 - **[Foundational]** Ganea, T. *Some problems on topology*. Lecture Notes in Mathematics, Vol. 249, Springer, 1971. (Introduces the original conjecture).
-- **[Foundational]** James, I. M. *On category, in the sense of Lusternik-Schnirelmann*. Topology, Vol. 17, No. 4, 1978.
+- **[Foundational]** James, I. M. *On category, in the sense of Lusternik-Schnirelmann*. Topology, Vol. 17, No. 4, 1978. [DOI](https://doi.org/10.1016/0040-9383(78)90002-2)
 - **[SOTA / Recent]** Iwase, N. *Ganea's conjecture on Lusternik-Schnirelmann category*. Bulletin of the London Mathematical Society, Vol. 30, No. 6, 1998. (The groundbreaking disproof for $n \ge 2$).
-- **[SOTA / Recent]** Iwase, N. *$A_\infty$-method in Lusternik-Schnirelmann category*. Topology, Vol. 41, No. 4, 2002. (Extension of the disproof to $n=1$).
+- **[SOTA / Recent]** Iwase, N. *$A_\infty$-method in Lusternik-Schnirelmann category*. Topology, Vol. 41, No. 4, 2002. (Extension of the disproof to $n=1$). [DOI](https://doi.org/10.1016/s0040-9383(00)00045-8)
 - **[Survey]** Cornea, O., Lupton, G., Oprea, J., Tanré, D. *Lusternik-Schnirelmann Category*. Mathematical Surveys and Monographs, Vol. 103, American Mathematical Society, 2003. (The definitive modern textbook on the subject).
-- **[SOTA / Recent]** Hess, K. P. *A proof of Ganea's conjecture for rational spaces*. Topology, Vol. 30, No. 2, 1991. (The proof of the rationalized case).
+- **[SOTA / Recent]** Hess, K. P. *A proof of Ganea's conjecture for rational spaces*. Topology, Vol. 30, No. 2, 1991. (The proof of the rationalized case). [DOI](https://doi.org/10.1016/0040-9383(91)90006-p)
 
 ## 10. Worked Example / Concrete Special Case
 

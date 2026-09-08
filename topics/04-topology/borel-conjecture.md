@@ -116,14 +116,14 @@ Missing: a proof of FJC for a *general* torsion-free Poincaré duality group, wi
 - **[Foundational]** C. T. C. Wall. *Surgery on Compact Manifolds.* Academic Press, 1970; 2nd ed., AMS Mathematical Surveys and Monographs 69, 1999.
 - **[Foundational]** R. C. Kirby and L. C. Siebenmann. *Foundational Essays on Topological Manifolds, Smoothings, and Triangulations.* Annals of Mathematics Studies 88, Princeton University Press, 1977.
 - **[Foundational]** F. T. Farrell and L. E. Jones. *A topological analogue of Mostow's rigidity theorem.* Journal of the American Mathematical Society 2 (1989), 257–370.
-- **[Foundational]** F. T. Farrell and L. E. Jones. *Isomorphism conjectures in algebraic $K$-theory.* Journal of the American Mathematical Society 6 (1993), 249–297.
+- **[Foundational]** F. T. Farrell and L. E. Jones. *Isomorphism conjectures in algebraic $K$-theory.* Journal of the American Mathematical Society 6 (1993), 249–297. [DOI](https://doi.org/10.2307/2152801)
 - **[Foundational]** A. Ranicki. *Algebraic $L$-theory and Topological Manifolds.* Cambridge Tracts in Mathematics 102, Cambridge University Press, 1992.
-- **[SOTA / Recent]** A. Bartels and W. Lück. *The Borel conjecture for hyperbolic and CAT(0)-groups.* Annals of Mathematics 175 (2012), 631–689.
-- **[SOTA / Recent]** A. Bartels, W. Lück and H. Reich. *The $K$-theoretic Farrell–Jones conjecture for hyperbolic groups.* Inventiones Mathematicae 172 (2008), 29–70.
-- **[SOTA / Recent]** C. Wegner. *The Farrell–Jones conjecture for virtually solvable groups.* Journal of Topology 8 (2015), 975–1016.
-- **[SOTA / Recent]** H. Kammeyer, W. Lück and H. Rüping. *The Farrell–Jones conjecture for arbitrary lattices in virtually connected Lie groups.* Geometry & Topology 20 (2016), 1275–1287.
+- **[SOTA / Recent]** A. Bartels and W. Lück. *The Borel conjecture for hyperbolic and CAT(0)-groups.* Annals of Mathematics 175 (2012), 631–689. [DOI](https://doi.org/10.4007/annals.2012.175.2.5)
+- **[SOTA / Recent]** A. Bartels, W. Lück and H. Reich. *The $K$-theoretic Farrell–Jones conjecture for hyperbolic groups.* Inventiones Mathematicae 172 (2008), 29–70. [DOI](https://doi.org/10.1007/s00222-007-0093-7)
+- **[SOTA / Recent]** C. Wegner. *The Farrell–Jones conjecture for virtually solvable groups.* Journal of Topology 8 (2015), 975–1016. [DOI](https://doi.org/10.1112/jtopol/jtv026)
+- **[SOTA / Recent]** H. Kammeyer, W. Lück and H. Rüping. *The Farrell–Jones conjecture for arbitrary lattices in virtually connected Lie groups.* Geometry & Topology 20 (2016), 1275–1287. [DOI](https://doi.org/10.2140/gt.2016.20.1275)
 - **[Survey]** W. Lück. *Survey on aspherical manifolds.* In: Proceedings of the 5th European Congress of Mathematics, EMS, 2010, 53–82.
-- **[Survey]** W. Lück and H. Reich. *The Baum–Connes and the Farrell–Jones conjectures in $K$- and $L$-theory.* In: Handbook of $K$-theory, Springer, 2005, 703–842.
+- **[Survey]** W. Lück and H. Reich. *The Baum–Connes and the Farrell–Jones conjectures in $K$- and $L$-theory.* In: Handbook of $K$-theory, Springer, 2005, 703–842. [DOI](https://doi.org/10.1007/978-3-540-27855-9_15)
 - **[Survey]** M. W. Davis. *The Geometry and Topology of Coxeter Groups.* London Mathematical Society Monographs 32, Princeton University Press, 2008.
 - **[Reference]** M. Freedman and F. Quinn. *Topology of 4-Manifolds.* Princeton University Press, 1990.
 

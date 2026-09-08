@@ -84,7 +84,7 @@ Leading mathematicians suggest three primary pathways for future exploration:
 
 - **[Foundational]** Gross, B. H. *p-adic L-series at s=0.* Journal of the Faculty of Science, the University of Tokyo, 1981.
 - **[SOTA / Recent]** Dasgupta, S., Kakde, M., & Ventullo, K. *On the Gross–Stark conjecture.* Annals of Mathematics, 2018.
-- **[Survey]** Darmon, H., Dasgupta, S., & Pollack, R. *Hilbert modular forms and the Gross-Stark conjecture.* Annals of Mathematics, 2011.
+- **[Survey]** Darmon, H., Dasgupta, S., & Pollack, R. *Hilbert modular forms and the Gross-Stark conjecture.* Annals of Mathematics, 2011. [DOI](https://doi.org/10.4007/annals.2011.174.1.12)
 
 ## 10. Worked Example / Concrete Special Case
 

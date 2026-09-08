@@ -89,7 +89,7 @@ Leading mathematicians suggest the following pathways:
 ## 9. Key References
 
 - **[Foundational]** Cohen, H., & Lenstra, H. W. *Heuristics on class groups of number fields.* Number Theory, Noordwijkerhout 1983. Lecture Notes in Mathematics, vol 1068. Springer, 1984.
-- **[SOTA / Recent]** Ellenberg, J. S., Venkatesh, A., & Westerland, C. *Homological stability for Hurwitz spaces and the "Cohen-Lenstra" conjecture over function fields.* Annals of Mathematics, 2016.
+- **[SOTA / Recent]** Ellenberg, J. S., Venkatesh, A., & Westerland, C. *Homological stability for Hurwitz spaces and the "Cohen-Lenstra" conjecture over function fields.* Annals of Mathematics, 2016. [DOI](https://doi.org/10.4007/annals.2016.183.3.1)
 - **[SOTA / Recent]** Smith, A. *$2^\infty$-Selmer groups, $2^\infty$-class groups, and heuristics for number fields.* arXiv:1702.02325, 2017.
 - **[Survey]** Wood, M. M. *Cohen-Lenstra heuristics and random groups.* Proceedings of the International Congress of Mathematicians (ICM), 2022.
 

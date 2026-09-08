@@ -82,9 +82,9 @@ Leading number theorists suggest the following pathways:
 ## 9. Key References
 
 - **[Foundational]** Ankeny, N. C., Artin, E., & Chowla, S. *The class-number of real quadratic number fields.* Annals of Mathematics, 56(3), 479-493, 1952.
-- **[Foundational]** Mordell, L. J. *On a Pellian equation conjecture.* Acta Arithmetica, 6, 137-144, 1960.
+- **[Foundational]** Mordell, L. J. *On a Pellian equation conjecture.* Acta Arithmetica, 6, 137-144, 1960. [DOI](https://doi.org/10.4064/aa-6-2-137-144)
 - **[SOTA / Recent]** van der Linden, F. J. *Class numbers of real quadratic fields.* Mathematics of Computation, 39(160), 693-707, 1982.
-- **[Survey]** Cohen, H. *A Course in Computational Algebraic Number Theory*. Springer-Verlag, 1993. 
+- **[Survey]** Cohen, H. *A Course in Computational Algebraic Number Theory*. Springer-Verlag, 1993. [DOI](https://doi.org/10.1007/978-3-662-02945-9)
 
 ## 10. Worked Example / Concrete Special Case
 

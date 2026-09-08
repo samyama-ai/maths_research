@@ -132,17 +132,17 @@ The **remaining gaps** are the generalizations:
 ## 9. Key References
 
 - **[Foundational]** H. B. Lawson Jr. *Complete minimal surfaces in $S^3$.* Annals of Mathematics **92** (1970), 335–374.
-- **[Foundational]** W.-Y. Hsiang and H. B. Lawson Jr. *Minimal submanifolds of low cohomogeneity.* Journal of Differential Geometry **5** (1971), 1–38.
-- **[Foundational]** J. Simons. *Minimal varieties in Riemannian manifolds.* Annals of Mathematics **88** (1968), 62–105.
-- **[Foundational]** S. S. Chern, M. do Carmo, S. Kobayashi. *Minimal submanifolds of a sphere with second fundamental form of constant length.* In *Functional Analysis and Related Fields*, Springer, 1970, 59–75.
-- **[Foundational]** U. Pinkall and I. Sterling. *On the classification of constant mean curvature tori.* Annals of Mathematics **130** (1989), 407–451.
+- **[Foundational]** W.-Y. Hsiang and H. B. Lawson Jr. *Minimal submanifolds of low cohomogeneity.* Journal of Differential Geometry **5** (1971), 1–38. [DOI](https://doi.org/10.4310/jdg/1214429775)
+- **[Foundational]** J. Simons. *Minimal varieties in Riemannian manifolds.* Annals of Mathematics **88** (1968), 62–105. [DOI](https://doi.org/10.2307/1970556)
+- **[Foundational]** S. S. Chern, M. do Carmo, S. Kobayashi. *Minimal submanifolds of a sphere with second fundamental form of constant length.* In *Functional Analysis and Related Fields*, Springer, 1970, 59–75. [DOI](https://doi.org/10.1007/978-3-642-48272-4_2)
+- **[Foundational]** U. Pinkall and I. Sterling. *On the classification of constant mean curvature tori.* Annals of Mathematics **130** (1989), 407–451. [DOI](https://doi.org/10.2307/1971425)
 - **[SOTA]** S. Brendle. *Embedded minimal tori in $S^3$ and the Lawson conjecture.* Acta Mathematica **211** (2013), 177–190.
-- **[SOTA]** B. Andrews and H. Li. *Embedded constant mean curvature tori in the three-sphere.* Journal of Differential Geometry **99** (2015), 169–189.
-- **[SOTA]** F. C. Marques and A. Neves. *Min-max theory and the Willmore conjecture.* Annals of Mathematics **179** (2014), 683–782.
-- **[Related]** F. Urbano. *Minimal surfaces with low index in the three-dimensional sphere.* Proceedings of the AMS **108** (1990), 989–992.
-- **[Related]** A. Ros. *A two-piece property for compact minimal surfaces in a three-sphere.* Indiana University Mathematics Journal **44** (1995), 841–849.
-- **[Survey]** S. Brendle. *Minimal surfaces in $S^3$: a survey of recent results.* Bulletin of Mathematical Sciences **3** (2013), 133–171.
-- **[Survey]** B. Andrews. *Noncollapsing in mean-convex mean curvature flow.* Geometry & Topology **16** (2012), 1413–1418.
+- **[SOTA]** B. Andrews and H. Li. *Embedded constant mean curvature tori in the three-sphere.* Journal of Differential Geometry **99** (2015), 169–189. [DOI](https://doi.org/10.4310/jdg/1421415560)
+- **[SOTA]** F. C. Marques and A. Neves. *Min-max theory and the Willmore conjecture.* Annals of Mathematics **179** (2014), 683–782. [DOI](https://doi.org/10.4007/annals.2014.179.2.6)
+- **[Related]** F. Urbano. *Minimal surfaces with low index in the three-dimensional sphere.* Proceedings of the AMS **108** (1990), 989–992. [DOI](https://doi.org/10.2307/2047957)
+- **[Related]** A. Ros. *A two-piece property for compact minimal surfaces in a three-sphere.* Indiana University Mathematics Journal **44** (1995), 841–849. [DOI](https://doi.org/10.1512/iumj.1995.44.2011)
+- **[Survey]** S. Brendle. *Minimal surfaces in $S^3$: a survey of recent results.* Bulletin of Mathematical Sciences **3** (2013), 133–171. [DOI](https://doi.org/10.1007/s13373-013-0034-2)
+- **[Survey]** B. Andrews. *Noncollapsing in mean-convex mean curvature flow.* Geometry & Topology **16** (2012), 1413–1418. [DOI](https://doi.org/10.2140/gt.2012.16.1413)
 
 ## 10. Worked Example / Concrete Special Case
 

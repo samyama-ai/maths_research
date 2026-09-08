@@ -114,18 +114,18 @@ No credible claim of a proof or counterexample to the general conjecture is curr
 
 ## 9. Key References
 
-- **[Foundational]** H. O. Foulkes. *Concomitants of the quintic and sextic up to degree four in the coefficients of the ground form.* Journal of the London Mathematical Society **25** (1950), 205–209.
-- **[Foundational]** R. M. Thrall. *On symmetrized Kronecker powers and the structure of the free Lie ring.* American Journal of Mathematics **64** (1942), 371–388.
+- **[Foundational]** H. O. Foulkes. *Concomitants of the quintic and sextic up to degree four in the coefficients of the ground form.* Journal of the London Mathematical Society **25** (1950), 205–209. [DOI](https://doi.org/10.1112/jlms/s1-25.3.205)
+- **[Foundational]** R. M. Thrall. *On symmetrized Kronecker powers and the structure of the free Lie ring.* American Journal of Mathematics **64** (1942), 371–388. [DOI](https://doi.org/10.2307/2371691)
 - **[Foundational]** R. Howe. *$(GL_n, GL_m)$-duality and symmetric plethysm.* Proceedings of the Indian Academy of Sciences (Mathematical Sciences) **97** (1987), 85–109.
-- **[Structural]** M. Brion. *Stable properties of plethysm: on two conjectures of Foulkes.* Manuscripta Mathematica **80** (1993), 347–371.
-- **[Partial result]** S. C. Dent and J. Siemons. *On a conjecture of Foulkes.* Journal of Algebra **226** (2000), 236–249.
-- **[Partial result]** R. Vessenes. *Generalized Foulkes' conjecture and tableaux construction.* Journal of Algebra **277** (2004), 579–614.
-- **[Computational]** J. Müller and M. Neunhöffer. *Some computations regarding Foulkes' conjecture.* Experimental Mathematics **14** (2005), 277–283.
-- **[Partial result]** T. McKay. *On plethysm conjectures of Stanley and Foulkes.* Journal of Algebra **319** (2008), 2050–2071.
-- **[SOTA / Recent]** W. Cheung, C. Ikenmeyer and S. Mkrtchyan. *Symmetrizing tableaux and the 5th case of the Foulkes conjecture.* Journal of Symbolic Computation **80** (2017), 833–843.
-- **[SOTA / Recent]** C. Ikenmeyer and G. Panova. *Rectangular Kronecker coefficients and plethysms in geometric complexity theory.* Advances in Mathematics **319** (2017), 40–66.
-- **[SOTA / Recent]** N. Fischer and C. Ikenmeyer. *The computational complexity of plethysm coefficients.* Computational Complexity **29** (2020), article 8.
-- **[SOTA / Recent]** R. Paget and M. Wildon. *Generalized Foulkes modules and maximal and minimal constituents of plethysms of Schur functions.* Proceedings of the London Mathematical Society **118** (2019), 1153–1187.
+- **[Structural]** M. Brion. *Stable properties of plethysm: on two conjectures of Foulkes.* Manuscripta Mathematica **80** (1993), 347–371. [DOI](https://doi.org/10.1007/bf03026558)
+- **[Partial result]** S. C. Dent and J. Siemons. *On a conjecture of Foulkes.* Journal of Algebra **226** (2000), 236–249. [DOI](https://doi.org/10.1006/jabr.1999.8169)
+- **[Partial result]** R. Vessenes. *Generalized Foulkes' conjecture and tableaux construction.* Journal of Algebra **277** (2004), 579–614. [DOI](https://doi.org/10.1016/j.jalgebra.2004.01.017)
+- **[Computational]** J. Müller and M. Neunhöffer. *Some computations regarding Foulkes' conjecture.* Experimental Mathematics **14** (2005), 277–283. [DOI](https://doi.org/10.1080/10586458.2005.10128928)
+- **[Partial result]** T. McKay. *On plethysm conjectures of Stanley and Foulkes.* Journal of Algebra **319** (2008), 2050–2071. [DOI](https://doi.org/10.1016/j.jalgebra.2007.12.003)
+- **[SOTA / Recent]** W. Cheung, C. Ikenmeyer and S. Mkrtchyan. *Symmetrizing tableaux and the 5th case of the Foulkes conjecture.* Journal of Symbolic Computation **80** (2017), 833–843. [DOI](https://doi.org/10.1016/j.jsc.2016.09.002)
+- **[SOTA / Recent]** C. Ikenmeyer and G. Panova. *Rectangular Kronecker coefficients and plethysms in geometric complexity theory.* Advances in Mathematics **319** (2017), 40–66. [DOI](https://doi.org/10.1016/j.aim.2017.08.024)
+- **[SOTA / Recent]** N. Fischer and C. Ikenmeyer. *The computational complexity of plethysm coefficients.* Computational Complexity **29** (2020), article 8. [DOI](https://doi.org/10.1007/s00037-020-00198-4)
+- **[SOTA / Recent]** R. Paget and M. Wildon. *Generalized Foulkes modules and maximal and minimal constituents of plethysms of Schur functions.* Proceedings of the London Mathematical Society **118** (2019), 1153–1187. [DOI](https://doi.org/10.1112/plms.12210)
 - **[Survey]** R. P. Stanley. *Positivity problems and conjectures in algebraic combinatorics.* In *Mathematics: Frontiers and Perspectives*, American Mathematical Society, 2000, 295–319.
 - **[Survey / Textbook]** I. G. Macdonald. *Symmetric Functions and Hall Polynomials*, 2nd edition. Oxford University Press, 1995. (Chapter I.8 and Appendix A: plethysm.)
 

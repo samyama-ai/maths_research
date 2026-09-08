@@ -104,23 +104,23 @@ The precise missing step is a **multiplicity-preserving replacement for the Wron
 
 ## 9. Key References
 
-- **[Foundational]** R. Nevanlinna. *Zur Theorie der meromorphen Funktionen.* Acta Mathematica 46 (1925), 1–99.
+- **[Foundational]** R. Nevanlinna. *Zur Theorie der meromorphen Funktionen.* Acta Mathematica 46 (1925), 1–99. [DOI](https://doi.org/10.1007/bf02543858)
 - **[Foundational]** H. Cartan. *Sur les zéros des combinaisons linéaires de $p$ fonctions holomorphes données.* Mathematica (Cluj) 7 (1933), 5–31.
-- **[Foundational]** P. Griffiths, J. King. *Nevanlinna theory and holomorphic mappings between algebraic varieties.* Acta Mathematica 130 (1973), 145–220.
-- **[Foundational]** M. Green, P. Griffiths. *Two applications of algebraic geometry to entire holomorphic mappings.* In: The Chern Symposium 1979, Springer, 1980, 41–74.
-- **[Foundational]** P. Vojta. *Diophantine Approximations and Value Distribution Theory.* Lecture Notes in Mathematics 1239, Springer, 1987.
-- **[Foundational]** D. Drasin. *The inverse problem of the Nevanlinna theory.* Acta Mathematica 138 (1977), 83–151.
-- **[SOTA / Recent]** M. Ru. *Holomorphic curves into algebraic varieties.* Annals of Mathematics 169 (2009), 255–267.
-- **[SOTA / Recent]** M. Ru, P. Vojta. *A birational Nevanlinna constant and its consequences.* American Journal of Mathematics 142 (2020), 957–991.
-- **[SOTA / Recent]** K. Yamanoi. *The second main theorem for small functions and related problems.* Acta Mathematica 192 (2004), 225–294.
-- **[SOTA / Recent]** K. Yamanoi. *Holomorphic curves in algebraic varieties of maximal Albanese dimension.* International Journal of Mathematics 26 (2015), 1541006.
-- **[SOTA / Recent]** Y.-T. Siu. *Hyperbolicity of generic high-degree hypersurfaces in complex projective space.* Inventiones Mathematicae 202 (2015), 1069–1166.
-- **[SOTA / Recent]** D. Brotbek. *On the hyperbolicity of general hypersurfaces.* Publications Mathématiques de l'IHÉS 126 (2017), 1–34.
-- **[SOTA / Recent]** D. Brotbek, Y. Deng. *Kobayashi hyperbolicity of the complements of general hypersurfaces of high degree.* Geometric and Functional Analysis 29 (2019), 690–750.
-- **[SOTA / Recent]** M. McQuillan. *Diophantine approximations and foliations.* Publications Mathématiques de l'IHÉS 87 (1998), 121–174.
-- **[Survey]** J. Noguchi, J. Winkelmann. *Nevanlinna Theory in Several Complex Variables and Diophantine Approximation.* Grundlehren der mathematischen Wissenschaften 350, Springer, 2014.
-- **[Survey]** M. Ru. *Nevanlinna Theory and Its Relation to Diophantine Approximation.* 2nd ed., World Scientific, 2021.
-- **[Survey]** J.-P. Demailly. *Algebraic criteria for Kobayashi hyperbolic projective varieties and jet differentials.* Proceedings of Symposia in Pure Mathematics 62, AMS, 1997, 285–360.
+- **[Foundational]** P. Griffiths, J. King. *Nevanlinna theory and holomorphic mappings between algebraic varieties.* Acta Mathematica 130 (1973), 145–220. [DOI](https://doi.org/10.1007/bf02392265)
+- **[Foundational]** M. Green, P. Griffiths. *Two applications of algebraic geometry to entire holomorphic mappings.* In: The Chern Symposium 1979, Springer, 1980, 41–74. [DOI](https://doi.org/10.1007/978-1-4613-8109-9_4)
+- **[Foundational]** P. Vojta. *Diophantine Approximations and Value Distribution Theory.* Lecture Notes in Mathematics 1239, Springer, 1987. [DOI](https://doi.org/10.1007/bfb0072989)
+- **[Foundational]** D. Drasin. *The inverse problem of the Nevanlinna theory.* Acta Mathematica 138 (1977), 83–151. [DOI](https://doi.org/10.1007/bf02392314)
+- **[SOTA / Recent]** M. Ru. *Holomorphic curves into algebraic varieties.* Annals of Mathematics 169 (2009), 255–267. [DOI](https://doi.org/10.4007/annals.2009.169.255)
+- **[SOTA / Recent]** M. Ru, P. Vojta. *A birational Nevanlinna constant and its consequences.* American Journal of Mathematics 142 (2020), 957–991. [DOI](https://doi.org/10.1353/ajm.2020.0022)
+- **[SOTA / Recent]** K. Yamanoi. *The second main theorem for small functions and related problems.* Acta Mathematica 192 (2004), 225–294. [DOI](https://doi.org/10.1007/bf02392741)
+- **[SOTA / Recent]** K. Yamanoi. *Holomorphic curves in algebraic varieties of maximal Albanese dimension.* International Journal of Mathematics 26 (2015), 1541006. [DOI](https://doi.org/10.1142/s0129167x15410062)
+- **[SOTA / Recent]** Y.-T. Siu. *Hyperbolicity of generic high-degree hypersurfaces in complex projective space.* Inventiones Mathematicae 202 (2015), 1069–1166. [DOI](https://doi.org/10.1007/s00222-015-0584-x)
+- **[SOTA / Recent]** D. Brotbek. *On the hyperbolicity of general hypersurfaces.* Publications Mathématiques de l'IHÉS 126 (2017), 1–34. [DOI](https://doi.org/10.1007/s10240-017-0090-3)
+- **[SOTA / Recent]** D. Brotbek, Y. Deng. *Kobayashi hyperbolicity of the complements of general hypersurfaces of high degree.* Geometric and Functional Analysis 29 (2019), 690–750. [DOI](https://doi.org/10.1007/s00039-019-00496-2)
+- **[SOTA / Recent]** M. McQuillan. *Diophantine approximations and foliations.* Publications Mathématiques de l'IHÉS 87 (1998), 121–174. [DOI](https://doi.org/10.1007/bf02698862)
+- **[Survey]** J. Noguchi, J. Winkelmann. *Nevanlinna Theory in Several Complex Variables and Diophantine Approximation.* Grundlehren der mathematischen Wissenschaften 350, Springer, 2014. [DOI](https://doi.org/10.1007/978-4-431-54571-2)
+- **[Survey]** M. Ru. *Nevanlinna Theory and Its Relation to Diophantine Approximation.* 2nd ed., World Scientific, 2021. [DOI](https://doi.org/10.1142/12188)
+- **[Survey]** J.-P. Demailly. *Algebraic criteria for Kobayashi hyperbolic projective varieties and jet differentials.* Proceedings of Symposia in Pure Mathematics 62, AMS, 1997, 285–360. [DOI](https://doi.org/10.1090/pspum/062.2/1492539)
 
 ## 10. Worked Example / Concrete Special Case
 

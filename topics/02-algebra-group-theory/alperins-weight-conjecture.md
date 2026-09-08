@@ -85,10 +85,10 @@ Leading modular representation theorists suggest the following pathways:
 
 ## 9. Key References
 
-- **[Foundational]** Alperin, J. L. *Weights for finite groups.* The Arcata Conference on Representations of Finite Groups (Arcata, Calif., 1986), Proc. Sympos. Pure Math., 47, Part 1, Amer. Math. Soc., 1987.
-- **[Foundational]** Knörr, R., and Robinson, G. R. *Some remarks on a conjecture of Alperin.* Journal of the London Mathematical Society, 39(1), 1989.
-- **[SOTA / Recent]** Navarro, G., and Tiep, P. H. *A reduction theorem for the Alperin weight conjecture.* Inventiones mathematicae, 184(3), 2011.
-- **[SOTA / Recent]** Späth, B. *A reduction theorem for the Alperin weight conjecture.* Inventiones mathematicae, 192(3), 2013.
+- **[Foundational]** Alperin, J. L. *Weights for finite groups.* The Arcata Conference on Representations of Finite Groups (Arcata, Calif., 1986), Proc. Sympos. Pure Math., 47, Part 1, Amer. Math. Soc., 1987. [DOI](https://doi.org/10.1090/pspum/047.1/933373)
+- **[Foundational]** Knörr, R., and Robinson, G. R. *Some remarks on a conjecture of Alperin.* Journal of the London Mathematical Society, 39(1), 1989. [DOI](https://doi.org/10.1112/jlms/s2-39.1.48)
+- **[SOTA / Recent]** Navarro, G., and Tiep, P. H. *A reduction theorem for the Alperin weight conjecture.* Inventiones mathematicae, 184(3), 2011. [DOI](https://doi.org/10.1007/s00222-010-0295-2)
+- **[SOTA / Recent]** Späth, B. *A reduction theorem for the Alperin weight conjecture.* Inventiones mathematicae, 192(3), 2013. [DOI](https://doi.org/10.1515/jgt-2012-0032)
 - **[Survey]** Linckelmann, M. *The Block Theory of Finite Group Algebras.* Cambridge University Press, 2018.
 
 ## 10. Worked Example / Concrete Special Case

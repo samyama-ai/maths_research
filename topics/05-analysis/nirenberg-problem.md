@@ -114,19 +114,19 @@ The gap is the entire zone between: functions $K$ that are positive somewhere, e
 ## 9. Key References
 
 - **[Foundational]** J. Moser. *On a nonlinear problem in differential geometry.* In *Dynamical Systems* (M. Peixoto, ed.), Academic Press, 1973, pp. 273–280.
-- **[Foundational]** J. Kazdan, F. Warner. *Curvature functions for compact 2-manifolds.* Annals of Mathematics 99 (1974), 14–47.
-- **[Foundational]** J. Kazdan, F. Warner. *Scalar curvature and conformal deformation of Riemannian structure.* Journal of Differential Geometry 10 (1975), 113–134.
+- **[Foundational]** J. Kazdan, F. Warner. *Curvature functions for compact 2-manifolds.* Annals of Mathematics 99 (1974), 14–47. [DOI](https://doi.org/10.2307/1971012)
+- **[Foundational]** J. Kazdan, F. Warner. *Scalar curvature and conformal deformation of Riemannian structure.* Journal of Differential Geometry 10 (1975), 113–134. [DOI](https://doi.org/10.4310/jdg/1214432678)
 - **[SOTA]** S.-Y. A. Chang, P. Yang. *Prescribing Gaussian curvature on $S^2$.* Acta Mathematica 159 (1987), 215–259.
-- **[SOTA]** S.-Y. A. Chang, P. Yang. *Conformal deformation of metrics on $S^2$.* Journal of Differential Geometry 27 (1988), 259–296.
-- **[SOTA]** A. Bahri, J.-M. Coron. *The scalar curvature problem on the standard three-dimensional sphere.* Journal of Functional Analysis 95 (1991), 106–172.
-- **[SOTA]** S.-Y. A. Chang, M. Gursky, P. Yang. *The scalar curvature equation on 2- and 3-spheres.* Calculus of Variations and PDE 1 (1993), 205–229.
+- **[SOTA]** S.-Y. A. Chang, P. Yang. *Conformal deformation of metrics on $S^2$.* Journal of Differential Geometry 27 (1988), 259–296. [DOI](https://doi.org/10.4310/jdg/1214441783)
+- **[SOTA]** A. Bahri, J.-M. Coron. *The scalar curvature problem on the standard three-dimensional sphere.* Journal of Functional Analysis 95 (1991), 106–172. [DOI](https://doi.org/10.1016/0022-1236(91)90026-2)
+- **[SOTA]** S.-Y. A. Chang, M. Gursky, P. Yang. *The scalar curvature equation on 2- and 3-spheres.* Calculus of Variations and PDE 1 (1993), 205–229. [DOI](https://doi.org/10.1007/bf01191617)
 - **[SOTA]** Y.-Y. Li. *Prescribing scalar curvature on $S^n$ and related problems, Part I.* Journal of Differential Equations 120 (1995), 319–410; *Part II: existence and compactness.* Communications on Pure and Applied Mathematics 49 (1996), 541–597.
-- **[SOTA]** C.-C. Chen, C.-S. Lin. *Estimates of the conformal scalar curvature equation via the method of moving planes.* Communications on Pure and Applied Mathematics 50 (1997), 971–1017.
+- **[SOTA]** C.-C. Chen, C.-S. Lin. *Estimates of the conformal scalar curvature equation via the method of moving planes.* Communications on Pure and Applied Mathematics 50 (1997), 971–1017. [DOI](https://doi.org/10.1002/(sici)1097-0312(199710)50:10<971::aid-cpa2>3.0.co;2-d)
 - **[SOTA]** M. Struwe. *A flow approach to Nirenberg's problem.* Duke Mathematical Journal 128 (2005), 19–64.
-- **[Related]** J. Escobar, R. Schoen. *Conformal metrics with prescribed scalar curvature.* Inventiones Mathematicae 86 (1986), 243–254.
+- **[Related]** J. Escobar, R. Schoen. *Conformal metrics with prescribed scalar curvature.* Inventiones Mathematicae 86 (1986), 243–254. [DOI](https://doi.org/10.1007/bf01389071)
 - **[Related]** W. Chen, W. Ding. *Scalar curvatures on $S^2$.* Transactions of the AMS 303 (1987), 365–382.
-- **[Survey]** J. Kazdan. *Prescribing the Curvature of a Riemannian Manifold.* CBMS Regional Conference Series in Mathematics 57, AMS, 1985.
-- **[Survey]** T. Aubin. *Some Nonlinear Problems in Riemannian Geometry.* Springer Monographs in Mathematics, 1998.
+- **[Survey]** J. Kazdan. *Prescribing the Curvature of a Riemannian Manifold.* CBMS Regional Conference Series in Mathematics 57, AMS, 1985. [DOI](https://doi.org/10.1090/cbms/057)
+- **[Survey]** T. Aubin. *Some Nonlinear Problems in Riemannian Geometry.* Springer Monographs in Mathematics, 1998. [DOI](https://doi.org/10.1007/978-3-662-13006-3)
 
 ## 10. Worked Example / Concrete Special Case
 

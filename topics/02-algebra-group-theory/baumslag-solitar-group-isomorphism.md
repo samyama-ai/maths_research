@@ -108,22 +108,22 @@ Either would immediately give the algorithm: the first bounds the search, the se
 
 ## 9. Key References
 
-- **[Foundational]** G. Baumslag, D. Solitar. *Some two-generator one-relator non-Hopfian groups.* Bulletin of the American Mathematical Society **68** (1962), 199–201.
-- **[Foundational]** S. Meskin. *Nonresidually finite one-relator groups.* Transactions of the American Mathematical Society **164** (1972), 105–114.
+- **[Foundational]** G. Baumslag, D. Solitar. *Some two-generator one-relator non-Hopfian groups.* Bulletin of the American Mathematical Society **68** (1962), 199–201. [DOI](https://doi.org/10.1090/s0002-9904-1962-10745-9)
+- **[Foundational]** S. Meskin. *Nonresidually finite one-relator groups.* Transactions of the American Mathematical Society **164** (1972), 105–114. [DOI](https://doi.org/10.1090/s0002-9947-1972-0285589-5)
 - **[Foundational]** J.-P. Serre. *Trees.* Springer-Verlag, 1980.
-- **[Foundational]** H. Bass. *Covering theory for graphs of groups.* Journal of Pure and Applied Algebra **89** (1993), 3–47.
+- **[Foundational]** H. Bass. *Covering theory for graphs of groups.* Journal of Pure and Applied Algebra **89** (1993), 3–47. [DOI](https://doi.org/10.1016/0022-4049(93)90085-8)
 - **[Classical solution]** D. I. Moldavanskii. *On the isomorphisms of Baumslag–Solitar groups.* Ukrainian Mathematical Journal **43** (1991), 1569–1571.
-- **[Structure]** P. H. Kropholler. *Baumslag–Solitar groups and some other groups of cohomological dimension two.* Commentarii Mathematici Helvetici **65** (1990), 547–558.
-- **[Structure]** M. Forester. *Deformation and rigidity of simplicial group actions on trees.* Geometry & Topology **6** (2002), 219–267.
-- **[Structure]** M. Forester. *On uniqueness of JSJ decompositions of finitely generated groups.* Commentarii Mathematici Helvetici **78** (2003), 740–751.
-- **[Structure]** M. Forester. *Splittings of generalized Baumslag–Solitar groups.* Geometriae Dedicata **121** (2006), 43–59.
-- **[SOTA]** M. Clay, M. Forester. *On the isomorphism problem for generalized Baumslag–Solitar groups.* Algebraic & Geometric Topology **8** (2008), 2289–2322.
-- **[SOTA]** M. Clay, M. Forester. *Whitehead moves for G-trees.* Bulletin of the London Mathematical Society **41** (2009), 205–212.
-- **[SOTA]** G. Levitt. *On the automorphism group of generalized Baumslag–Solitar groups.* Geometry & Topology **11** (2007), 473–515.
-- **[SOTA]** G. Levitt. *Generalized Baumslag–Solitar groups: rank and finite index subgroups.* Annales de l'Institut Fourier **65** (2015), 725–762.
-- **[SOTA / Recent]** F. A. Dudkin. *The isomorphism problem for generalized Baumslag–Solitar groups with one mobile edge.* Algebra and Logic **56** (2017), 197–209.
-- **[Geometry]** B. Farb, L. Mosher. *A rigidity theorem for the solvable Baumslag–Solitar groups.* Inventiones Mathematicae **131** (1998), 419–451.
-- **[Geometry]** K. Whyte. *The large scale geometry of the higher Baumslag–Solitar groups.* Geometric and Functional Analysis **11** (2001), 1327–1343.
+- **[Structure]** P. H. Kropholler. *Baumslag–Solitar groups and some other groups of cohomological dimension two.* Commentarii Mathematici Helvetici **65** (1990), 547–558. [DOI](https://doi.org/10.1007/bf02566625)
+- **[Structure]** M. Forester. *Deformation and rigidity of simplicial group actions on trees.* Geometry & Topology **6** (2002), 219–267. [DOI](https://doi.org/10.2140/gt.2002.6.219)
+- **[Structure]** M. Forester. *On uniqueness of JSJ decompositions of finitely generated groups.* Commentarii Mathematici Helvetici **78** (2003), 740–751. [DOI](https://doi.org/10.1007/s00014-003-0780-y)
+- **[Structure]** M. Forester. *Splittings of generalized Baumslag–Solitar groups.* Geometriae Dedicata **121** (2006), 43–59. [DOI](https://doi.org/10.1007/s10711-006-9085-9)
+- **[SOTA]** M. Clay, M. Forester. *On the isomorphism problem for generalized Baumslag–Solitar groups.* Algebraic & Geometric Topology **8** (2008), 2289–2322. [DOI](https://doi.org/10.2140/agt.2008.8.2289)
+- **[SOTA]** M. Clay, M. Forester. *Whitehead moves for G-trees.* Bulletin of the London Mathematical Society **41** (2009), 205–212. [DOI](https://doi.org/10.1112/blms/bdn118)
+- **[SOTA]** G. Levitt. *On the automorphism group of generalized Baumslag–Solitar groups.* Geometry & Topology **11** (2007), 473–515. [DOI](https://doi.org/10.2140/gt.2007.11.473)
+- **[SOTA]** G. Levitt. *Generalized Baumslag–Solitar groups: rank and finite index subgroups.* Annales de l'Institut Fourier **65** (2015), 725–762. [DOI](https://doi.org/10.5802/aif.2943)
+- **[SOTA / Recent]** F. A. Dudkin. *The isomorphism problem for generalized Baumslag–Solitar groups with one mobile edge.* Algebra and Logic **56** (2017), 197–209. [DOI](https://doi.org/10.1007/s10469-017-9440-y)
+- **[Geometry]** B. Farb, L. Mosher. *A rigidity theorem for the solvable Baumslag–Solitar groups.* Inventiones Mathematicae **131** (1998), 419–451. [DOI](https://doi.org/10.1007/s002220050210)
+- **[Geometry]** K. Whyte. *The large scale geometry of the higher Baumslag–Solitar groups.* Geometric and Functional Analysis **11** (2001), 1327–1343. [DOI](https://doi.org/10.1007/s00039-001-8232-6)
 - **[Survey]** D. J. S. Robinson. *Recent results on generalized Baumslag–Solitar groups.* Note di Matematica **30** (2010), 37–53.
 
 ## 10. Worked Example / Concrete Special Case

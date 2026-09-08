@@ -724,5 +724,311 @@
     "slug": "l-space-conjecture",
     "status": "open",
     "description": "Relates Heegaard Floer homology to the existence of orderable fundamental groups."
+  },
+  {
+    "title": "Hodge Conjecture for Abelian Varieties",
+    "slug": "hodge-conjecture-abelian-varieties",
+    "status": "open",
+    "description": "Hodge classes on abelian varieties are algebraic cycle classes"
+  },
+  {
+    "title": "Tate Conjecture for Divisors",
+    "slug": "tate-conjecture-divisors",
+    "status": "partially-solved",
+    "description": "Galois-invariant Tate classes come from algebraic divisor classes"
+  },
+  {
+    "title": "Bloch-Beilinson Filtration Conjecture",
+    "slug": "bloch-beilinson-filtration-conjecture",
+    "status": "open",
+    "description": "Existence of a functorial filtration on Chow groups"
+  },
+  {
+    "title": "Chow Ring Conjecture for Hyperk\u00e4hler Manifolds (Beauville-Voisin)",
+    "slug": "beauville-voisin-conjecture",
+    "status": "partially-solved",
+    "description": "Special multiplicative structure on Chow rings of hyperkahler manifolds"
+  },
+  {
+    "title": "Existence of Hyperk\u00e4hler Manifolds in New Deformation Types",
+    "slug": "new-hyperkahler-deformation-types",
+    "status": "open",
+    "description": "Are there infinitely many deformation types of compact hyperkahler manifolds"
+  },
+  {
+    "title": "Kodaira Problem on Deformations of Compact K\u00e4hler Manifolds",
+    "slug": "kodaira-problem-kahler-deformation",
+    "status": "solved-recently",
+    "description": "Can every compact Kahler manifold deform to a projective one"
+  },
+  {
+    "title": "Fano Varieties with Nef Tangent Bundle (Campana-Peternell Conjecture)",
+    "slug": "campana-peternell-conjecture",
+    "status": "partially-solved",
+    "description": "Fano manifolds with nef tangent bundle are rational homogeneous"
+  },
+  {
+    "title": "Mukai's Conjecture on Fano Manifolds",
+    "slug": "mukai-conjecture-fano",
+    "status": "partially-solved",
+    "description": "Inequality relating Picard number, pseudoindex and dimension of Fano manifolds"
+  },
+  {
+    "title": "Rationality of the Very General Cubic Fourfold",
+    "slug": "rationality-cubic-fourfold",
+    "status": "open",
+    "description": "Is a very general cubic fourfold irrational"
+  },
+  {
+    "title": "L\u00fcroth Problem in Positive Characteristic",
+    "slug": "luroth-problem-positive-characteristic",
+    "status": "partially-solved",
+    "description": "Unirational varieties that fail to be rational over positive characteristic"
+  },
+  {
+    "title": "Hartshorne Conjecture on Complete Intersections",
+    "slug": "hartshorne-complete-intersection-conjecture",
+    "status": "open",
+    "description": "Small codimension smooth subvarieties of projective space are complete intersections"
+  },
+  {
+    "title": "Existence of Rank Two Bundles on Projective Spaces",
+    "slug": "rank-two-bundles-projective-space",
+    "status": "open",
+    "description": "Are there indecomposable rank two bundles on high dimensional projective space"
+  },
+  {
+    "title": "Minimal Resolution Conjecture for Points",
+    "slug": "minimal-resolution-conjecture-points",
+    "status": "partially-solved",
+    "description": "Predicted Betti numbers for general points in projective space"
+  },
+  {
+    "title": "Maximal Rank Conjecture for Curves",
+    "slug": "maximal-rank-conjecture",
+    "status": "solved-recently",
+    "description": "General embedded curves impose independent conditions on hypersurfaces"
+  },
+  {
+    "title": "Uniform Boundedness of Rational Points on Curves of Fixed Genus",
+    "slug": "uniform-boundedness-rational-points-curves",
+    "status": "open",
+    "description": "Bounding rational points on curves by genus and field"
+  },
+  {
+    "title": "Kodaira Dimension of the Moduli Space of Curves in Intermediate Genus",
+    "slug": "kodaira-dimension-moduli-curves",
+    "status": "open",
+    "description": "Determining Kodaira dimension of moduli of curves for unresolved genera"
+  },
+  {
+    "title": "Prym-Torelli and Schottky-Type Problems for Prym Varieties",
+    "slug": "prym-schottky-problem",
+    "status": "open",
+    "description": "Characterizing Prym varieties inside moduli of abelian varieties"
+  },
+  {
+    "title": "Coleman's Conjecture on Jacobians with Complex Multiplication",
+    "slug": "coleman-oort-cm-jacobians",
+    "status": "open",
+    "description": "Finitely many CM Jacobians in high genus"
+  },
+  {
+    "title": "Deligne-Mostow and Integrality of Ball Quotient Lattices",
+    "slug": "nonarithmetic-ball-quotient-lattices",
+    "status": "open",
+    "description": "Existence of nonarithmetic complex hyperbolic lattices in high dimensions"
+  },
+  {
+    "title": "Serre's Problem on Positivity of Coherent Sheaf Multiplicities",
+    "slug": "serre-positivity-conjecture",
+    "status": "partially-solved",
+    "description": "Positivity of intersection multiplicities for modules over regular local rings"
+  },
+  {
+    "title": "Hopf Problem on Positive Curvature and Symmetry Rank",
+    "slug": "positive-curvature-symmetry-rank",
+    "status": "open",
+    "description": "Classifying positively curved manifolds with large torus symmetry"
+  },
+  {
+    "title": "Gromov's Betti Number Bound Conjecture",
+    "slug": "gromov-betti-number-conjecture",
+    "status": "open",
+    "description": "Sharp bound on total Betti number under nonnegative curvature"
+  },
+  {
+    "title": "Blaschke Conjecture on Wiedersehen Manifolds",
+    "slug": "blaschke-conjecture",
+    "status": "partially-solved",
+    "description": "Manifolds all of whose geodesics close are compact rank one symmetric"
+  },
+  {
+    "title": "Yau's Conjecture on Nodal Sets of Eigenfunctions",
+    "slug": "yau-nodal-set-conjecture",
+    "status": "partially-solved",
+    "description": "Nodal set volume of eigenfunctions grows like the frequency"
+  },
+  {
+    "title": "Min-Oo Conjecture on Scalar Curvature Rigidity",
+    "slug": "min-oo-conjecture",
+    "status": "solved-recently",
+    "description": "Scalar curvature rigidity of the hemisphere fails in higher dimensions"
+  },
+  {
+    "title": "Zariski's Conjecture on Dimension of Linear Systems (Nagata-type Multiplier Problem)",
+    "slug": "zariski-cancellation-problem-affine-spaces",
+    "status": "partially-solved",
+    "description": "Is affine space cancellative in all dimensions and characteristics"
+  },
+  {
+    "title": "Tame Generators Problem for Affine Space",
+    "slug": "tame-generators-problem",
+    "status": "partially-solved",
+    "description": "Are all polynomial automorphisms of affine space tame"
+  },
+  {
+    "title": "Hodge Conjecture for Kaehler Manifolds (Grothendieck Amended Form)",
+    "slug": "integral-hodge-conjecture",
+    "status": "partially-solved",
+    "description": "Which integral Hodge classes are classes of algebraic cycles"
+  },
+  {
+    "title": "Rationality of the Generic Cubic Threefold Moduli and Unirationality Problems",
+    "slug": "unirationality-hypersurfaces-low-degree",
+    "status": "open",
+    "description": "Are low degree hypersurfaces over any field unirational"
+  },
+  {
+    "title": "Kollar's Conjecture on Nonrational Hypersurfaces (Stable Irrationality)",
+    "slug": "stable-irrationality-hypersurfaces",
+    "status": "partially-solved",
+    "description": "Very general hypersurfaces of high degree are stably irrational"
+  },
+  {
+    "title": "Fano Variety Boundedness of Anticanonical Volumes in Higher Rank",
+    "slug": "weak-fano-boundedness",
+    "status": "partially-solved",
+    "description": "Bounding weak Fano varieties with epsilon log canonical singularities"
+  },
+  {
+    "title": "Existence of Rational Curves on Calabi-Yau Threefolds",
+    "slug": "rational-curves-calabi-yau-threefolds",
+    "status": "open",
+    "description": "Every Calabi-Yau threefold contains a rational curve"
+  },
+  {
+    "title": "Cone Conjecture of Morrison and Kawamata",
+    "slug": "morrison-kawamata-cone-conjecture",
+    "status": "partially-solved",
+    "description": "Automorphisms act with rational polyhedral fundamental domain on nef cone"
+  },
+  {
+    "title": "Finiteness of Calabi-Yau Threefold Topological Types",
+    "slug": "finiteness-calabi-yau-threefold-types",
+    "status": "open",
+    "description": "Only finitely many topological types of Calabi-Yau threefolds exist"
+  },
+  {
+    "title": "Coleman-Gross Conjecture on Torsion Points and Higher Genus Curves (Manin-Mumford Effectivity)",
+    "slug": "effective-manin-mumford",
+    "status": "partially-solved",
+    "description": "Effective bounds on torsion points lying on curves"
+  },
+  {
+    "title": "Deligne's Conjecture on the Semisimplicity of Local Systems",
+    "slug": "deligne-conjecture-local-systems",
+    "status": "partially-solved",
+    "description": "Companions and finiteness for irreducible lisse sheaves on varieties"
+  },
+  {
+    "title": "Serre's Uniformity and Frey-Mazur Conjecture on Isogeny of Elliptic Curves",
+    "slug": "frey-mazur-conjecture",
+    "status": "open",
+    "description": "Congruent mod p torsion forces isogenous elliptic curves"
+  },
+  {
+    "title": "Symplectic Isotopy Problem",
+    "slug": "symplectic-isotopy-problem",
+    "status": "open",
+    "description": "Are symplectic surfaces in the projective plane isotopic to algebraic"
+  },
+  {
+    "title": "Flux Conjecture for Symplectic Manifolds",
+    "slug": "flux-conjecture",
+    "status": "partially-solved",
+    "description": "Hamiltonian diffeomorphism group is closed in symplectomorphism group"
+  },
+  {
+    "title": "Audin Conjecture on Maslov Class of Lagrangian Tori",
+    "slug": "audin-conjecture",
+    "status": "partially-solved",
+    "description": "Lagrangian tori in complex space have Maslov number two"
+  },
+  {
+    "title": "Gromov's Conjecture on Symplectic Packing Stability",
+    "slug": "symplectic-packing-stability",
+    "status": "partially-solved",
+    "description": "Ball packing obstructions vanish for large enough ball numbers"
+  },
+  {
+    "title": "Contact Geometry Analogue of the Weinstein Conjecture: Existence of Infinitely Many Reeb Orbits",
+    "slug": "infinitely-many-reeb-orbits",
+    "status": "partially-solved",
+    "description": "Every closed contact manifold carries infinitely many Reeb orbits"
+  },
+  {
+    "title": "Existence of Einstein Metrics on Spheres and Sphere Theorem Rigidity (Besse Problem)",
+    "slug": "einstein-metrics-on-spheres",
+    "status": "open",
+    "description": "Classifying Einstein metrics on the four dimensional sphere"
+  },
+  {
+    "title": "Yamabe Invariant of Four-Manifolds",
+    "slug": "yamabe-invariant-computation",
+    "status": "partially-solved",
+    "description": "Computing the Yamabe invariant for closed four dimensional manifolds"
+  },
+  {
+    "title": "Cartan-Hadamard Conjecture for Ricci Flow Singularities: Uniqueness of Ancient Solutions",
+    "slug": "classification-ancient-ricci-flows",
+    "status": "partially-solved",
+    "description": "Classifying noncollapsed ancient solutions of Ricci flow"
+  },
+  {
+    "title": "Hopf Fibration Rigidity and Positive Isotropic Curvature Classification",
+    "slug": "positive-isotropic-curvature-classification",
+    "status": "partially-solved",
+    "description": "Classifying manifolds admitting positive isotropic curvature metrics"
+  },
+  {
+    "title": "Multiplicity One Conjecture in Min-Max Theory",
+    "slug": "multiplicity-one-conjecture-min-max",
+    "status": "solved-recently",
+    "description": "Min-max minimal hypersurfaces are two sided with multiplicity one"
+  },
+  {
+    "title": "Yau's Conjecture on Existence of Infinitely Many Minimal Hypersurfaces",
+    "slug": "yau-infinitely-many-minimal-surfaces",
+    "status": "solved-recently",
+    "description": "Every closed Riemannian manifold contains infinitely many minimal hypersurfaces"
+  },
+  {
+    "title": "Bernstein Problem for Minimal Graphs in Higher Codimension",
+    "slug": "bernstein-problem-higher-codimension",
+    "status": "partially-solved",
+    "description": "Entire minimal graphs of higher codimension need not be planes"
+  },
+  {
+    "title": "Schoen's Conjecture on Harmonic Maps and Compactification of Hyperbolic Spaces",
+    "slug": "schoen-harmonic-map-conjecture",
+    "status": "partially-solved",
+    "description": "Quasiconformal boundary maps extend to harmonic diffeomorphisms of hyperbolic space"
+  },
+  {
+    "title": "Existence of Closed Geodesics on Riemannian Two-Spheres of Bounded Length",
+    "slug": "three-closed-geodesics-length-bounds",
+    "status": "open",
+    "description": "Quantitative length bounds for closed geodesics on two spheres"
   }
 ]

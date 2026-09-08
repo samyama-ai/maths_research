@@ -120,21 +120,21 @@ The gap has two precise crossings:
 
 ## 9. Key References
 
-- **[Foundational]** J. Hadamard. *Sur la distribution des zéros de la fonction $\zeta(s)$ et ses conséquences arithmétiques.* Bulletin de la Société Mathématique de France 24, 1896.
+- **[Foundational]** J. Hadamard. *Sur la distribution des zéros de la fonction $\zeta(s)$ et ses conséquences arithmétiques.* Bulletin de la Société Mathématique de France 24, 1896. [DOI](https://doi.org/10.24033/bsmf.545)
 - **[Foundational]** H. Jacquet, J. Shalika. *A non-vanishing theorem for zeta functions of $GL_n$.* Inventiones Mathematicae 38, 1976.
-- **[Foundational]** S. Chowla. *The Riemann Hypothesis and Hilbert's Tenth Problem.* Gordon and Breach, 1965.
+- **[Foundational]** S. Chowla. *The Riemann Hypothesis and Hilbert's Tenth Problem.* Gordon and Breach, 1965. [DOI](https://doi.org/10.2307/2314216)
 - **[Foundational]** J.-L. Waldspurger. *Sur les coefficients de Fourier des formes modulaires de poids demi-entier.* Journal de Mathématiques Pures et Appliquées 60, 1981.
-- **[Foundational]** W. Kohnen, D. Zagier. *Values of $L$-series of modular forms at the center of the critical strip.* Inventiones Mathematicae 64, 1981.
+- **[Foundational]** W. Kohnen, D. Zagier. *Values of $L$-series of modular forms at the center of the critical strip.* Inventiones Mathematicae 64, 1981. [DOI](https://doi.org/10.1007/bf01389166)
 - **[SOTA]** K. Soundararajan. *Nonvanishing of quadratic Dirichlet $L$-functions at $s=\tfrac12$.* Annals of Mathematics 152(2), 2000, 447–488.
-- **[SOTA]** H. Iwaniec, P. Sarnak. *The non-vanishing of central values of automorphic $L$-functions and Landau–Siegel zeros.* Israel Journal of Mathematics 120, 2000, 155–177.
+- **[SOTA]** H. Iwaniec, P. Sarnak. *The non-vanishing of central values of automorphic $L$-functions and Landau–Siegel zeros.* Israel Journal of Mathematics 120, 2000, 155–177. [DOI](https://doi.org/10.1007/s11856-000-1275-9)
 - **[SOTA]** H. Iwaniec, P. Sarnak. *Dirichlet $L$-functions at the central point.* In: Number Theory in Progress, vol. 2, de Gruyter, 1999.
-- **[SOTA]** R. Khan, H. Ngo. *Nonvanishing of Dirichlet $L$-functions.* Algebra & Number Theory 10(10), 2016.
+- **[SOTA]** R. Khan, H. Ngo. *Nonvanishing of Dirichlet $L$-functions.* Algebra & Number Theory 10(10), 2016. [DOI](https://doi.org/10.2140/ant.2016.10.2081)
 - **[SOTA]** K. Pratt. *Average non-vanishing of Dirichlet $L$-functions at the central point.* Algebra & Number Theory 13(1), 2019.
-- **[SOTA]** M. Radziwiłł, K. Soundararajan. *Moments and distribution of central $L$-values of quadratic twists of elliptic curves.* Inventiones Mathematicae 202, 2015.
-- **[SOTA]** D. Bump, S. Friedberg, J. Hoffstein. *Nonvanishing theorems for $L$-functions of modular forms and their derivatives.* Inventiones Mathematicae 102, 1990.
-- **[SOTA]** K. Ono, C. Skinner. *Non-vanishing of quadratic twists of modular $L$-functions.* Inventiones Mathematicae 134, 1998.
+- **[SOTA]** M. Radziwiłł, K. Soundararajan. *Moments and distribution of central $L$-values of quadratic twists of elliptic curves.* Inventiones Mathematicae 202, 2015. [DOI](https://doi.org/10.1007/s00222-015-0582-z)
+- **[SOTA]** D. Bump, S. Friedberg, J. Hoffstein. *Nonvanishing theorems for $L$-functions of modular forms and their derivatives.* Inventiones Mathematicae 102, 1990. [DOI](https://doi.org/10.1007/bf01233440)
+- **[SOTA]** K. Ono, C. Skinner. *Non-vanishing of quadratic twists of modular $L$-functions.* Inventiones Mathematicae 134, 1998. [DOI](https://doi.org/10.1007/978-3-0348-8956-8_7)
 - **[Survey]** H. Iwaniec, E. Kowalski. *Analytic Number Theory.* AMS Colloquium Publications 53, 2004.
-- **[Survey]** N. Katz, P. Sarnak. *Zeroes of zeta functions and symmetry.* Bulletin of the AMS 36(1), 1999.
+- **[Survey]** N. Katz, P. Sarnak. *Zeroes of zeta functions and symmetry.* Bulletin of the AMS 36(1), 1999. [DOI](https://doi.org/10.1090/s0273-0979-99-00766-1)
 - **[Survey]** J. B. Conrey, J. P. Keating, M. Rubinstein, N. Snaith. *On the frequency of vanishing of quadratic twists of modular $L$-functions.* In: Number Theory for the Millennium I, A K Peters, 2002.
 
 ## 10. Worked Example / Concrete Special Case

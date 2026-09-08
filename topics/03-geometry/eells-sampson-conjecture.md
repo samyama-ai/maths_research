@@ -118,14 +118,14 @@ Crossing either barrier for space forms settles (ES-1); crossing (1) in general 
 - **[Foundational]** J. Eells, L. Lemaire. *Selected Topics in Harmonic Maps.* CBMS Regional Conference Series in Mathematics 50, American Mathematical Society, 1983.
 - **[Foundational]** G. Y. Jiang. *2-harmonic maps and their first and second variational formulas.* Chinese Annals of Mathematics Ser. A **7** (1986), 389–402.
 - **[Foundational]** B.-Y. Chen. *Some open problems and conjectures on submanifolds of finite type.* Soochow Journal of Mathematics **17** (1991), 169–188.
-- **[Key case]** T. Hasanis, T. Vlachos. *Hypersurfaces in $E^4$ with harmonic mean curvature vector field.* Mathematische Nachrichten **172** (1995), 145–169.
+- **[Key case]** T. Hasanis, T. Vlachos. *Hypersurfaces in $E^4$ with harmonic mean curvature vector field.* Mathematische Nachrichten **172** (1995), 145–169. [DOI](https://doi.org/10.1002/mana.19951720112)
 - **[Key case]** R. Caddeo, S. Montaldo, C. Oniciuc. *Biharmonic submanifolds of $\mathbb{S}^3$.* International Journal of Mathematics **12** (2001), 867–876.
-- **[Key case]** A. Balmuş, S. Montaldo, C. Oniciuc. *Classification results for biharmonic submanifolds in spheres.* Israel Journal of Mathematics **168** (2008), 201–220.
-- **[Structure]** Y.-L. Ou. *Biharmonic hypersurfaces in Riemannian manifolds.* Pacific Journal of Mathematics **248** (2010), 217–232.
-- **[Counterexample]** Y.-L. Ou, L. Tang. *On the generalized Chen's conjecture on biharmonic submanifolds.* Michigan Mathematical Journal **61** (2012), 531–542.
-- **[SOTA]** N. Nakauchi, H. Urakawa, S. Gudmundsson. *Biharmonic maps into a Riemannian manifold of non-positive curvature.* Geometriae Dedicata **169** (2014), 263–272.
-- **[SOTA]** S. Maeta. *Biharmonic maps from a complete Riemannian manifold into a non-positively curved manifold.* Annals of Global Analysis and Geometry **46** (2014), 75–85.
-- **[SOTA]** L. J. Alías, S. C. García-Martínez, M. Rigoli. *Biharmonic hypersurfaces in complete Riemannian manifolds.* Pacific Journal of Mathematics **263** (2013), 1–12.
+- **[Key case]** A. Balmuş, S. Montaldo, C. Oniciuc. *Classification results for biharmonic submanifolds in spheres.* Israel Journal of Mathematics **168** (2008), 201–220. [DOI](https://doi.org/10.1007/s11856-008-1064-4)
+- **[Structure]** Y.-L. Ou. *Biharmonic hypersurfaces in Riemannian manifolds.* Pacific Journal of Mathematics **248** (2010), 217–232. [DOI](https://doi.org/10.2140/pjm.2010.248.217)
+- **[Counterexample]** Y.-L. Ou, L. Tang. *On the generalized Chen's conjecture on biharmonic submanifolds.* Michigan Mathematical Journal **61** (2012), 531–542. [DOI](https://doi.org/10.1307/mmj/1347040257)
+- **[SOTA]** N. Nakauchi, H. Urakawa, S. Gudmundsson. *Biharmonic maps into a Riemannian manifold of non-positive curvature.* Geometriae Dedicata **169** (2014), 263–272. [DOI](https://doi.org/10.1007/s10711-013-9854-1)
+- **[SOTA]** S. Maeta. *Biharmonic maps from a complete Riemannian manifold into a non-positively curved manifold.* Annals of Global Analysis and Geometry **46** (2014), 75–85. [DOI](https://doi.org/10.1007/s10455-014-9410-8)
+- **[SOTA]** L. J. Alías, S. C. García-Martínez, M. Rigoli. *Biharmonic hypersurfaces in complete Riemannian manifolds.* Pacific Journal of Mathematics **263** (2013), 1–12. [DOI](https://doi.org/10.2140/pjm.2013.263.1)
 - **[SOTA]** Y. Fu, M.-C. Hong, X. Zhan. *On Chen's biharmonic conjecture for hypersurfaces in $\mathbb{R}^5$.* Advances in Mathematics **383** (2021), 107697.
 - **[Survey]** S. Montaldo, C. Oniciuc. *A short survey on differential geometry of biharmonic maps.* Revista de la Unión Matemática Argentina **47** (2006), 1–22.
 - **[Survey / Book]** Y.-L. Ou, B.-Y. Chen. *Biharmonic Submanifolds and Biharmonic Maps in Riemannian Geometry.* World Scientific, 2020.

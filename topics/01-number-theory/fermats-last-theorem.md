@@ -83,11 +83,11 @@ Leading number theorists emphasize the following pathways originating from the r
 
 ## 9. Key References
 
-- **[Foundational]** Wiles, A. *Modular elliptic curves and Fermat's Last Theorem.* Annals of Mathematics, 1995.
-- **[Foundational]** Taylor, R. and Wiles, A. *Ring-theoretic properties of certain Hecke algebras.* Annals of Mathematics, 1995.
+- **[Foundational]** Wiles, A. *Modular elliptic curves and Fermat's Last Theorem.* Annals of Mathematics, 1995. [DOI](https://doi.org/10.1007/978-3-0348-9078-6_18)
+- **[Foundational]** Taylor, R. and Wiles, A. *Ring-theoretic properties of certain Hecke algebras.* Annals of Mathematics, 1995. [DOI](https://doi.org/10.2307/2118560)
 - **[Foundational]** Ribet, K. *On modular representations of $\operatorname{Gal}(\overline{\mathbb{Q}}/\mathbb{Q})$ arising from modular forms.* Inventiones Mathematicae, 1990.
 - **[Survey]** Darmon, H., Diamond, F., and Taylor, R. *Fermat's Last Theorem.* Current Developments in Mathematics, 1995.
-- **[SOTA / Recent]** Breuil, C., Conrad, B., Diamond, F., and Taylor, R. *On the modularity of elliptic curves over $\mathbb{Q}$: wild 3-adic exercises.* Journal of the American Mathematical Society, 2001.
+- **[SOTA / Recent]** Breuil, C., Conrad, B., Diamond, F., and Taylor, R. *On the modularity of elliptic curves over $\mathbb{Q}$: wild 3-adic exercises.* Journal of the American Mathematical Society, 2001. [DOI](https://doi.org/10.1090/s0894-0347-01-00370-8)
 
 ## 10. Worked Example / Concrete Special Case
 

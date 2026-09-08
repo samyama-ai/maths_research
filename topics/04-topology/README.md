@@ -8,29 +8,40 @@ Low-dimensional topology, homotopy groups, knot invariants, manifolds and cell c
 * 🟠 [3D-3D Correspondence](./3d-3d-correspondence.md) — Relates supersymmetric gauge theories on 3-manifolds to topological invariants.
 * 🔴 [AJ Conjecture](./aj-conjecture.md) — Relates the A-polynomial of a knot to its colored Jones polynomials.
 * 🟢 [Akbulut Corks Existence](./akbulut-corks-existence.md) — Any two homeomorphic smooth simply connected 4-manifolds are related by cork twists.
+* 🟡 [Novikov's Problem on Recognizing the Sphere in High Dimensions](./algorithmic-sphere-recognition.md) — Undecidability of recognizing spheres in dimension five and above
 * 🔴 [AMU Conjecture (Andersen–Masbaum–Ueno)](./amu-conjecture.md) — Pseudo-Anosov mapping classes act on skein modules with exponentially growing traces.
 * 🟡 [Arnold Chord Conjecture](./arnold-chord-conjecture.md) — Every Legendrian submanifold of a contact manifold admits a Reeb chord.
 * 🟡 [Atiyah Conjecture on L2-Betti Numbers](./atiyah-conjecture-on-l2-betti-numbers.md) — The L2-Betti numbers of a finite complex with torsion-free group are integers.
 * 🟢 [Beilinson-Lichtenbaum Conjecture](./beilinson-lichtenbaum-conjecture.md) — Asserts motivic cohomology complexes compute etale cohomology in specific degrees.
 * 🟡 [Berge Conjecture](./berge-conjecture.md) — Classifies knots admitting Dehn surgeries that yield lens spaces.
 * 🔴 [Bing's Recognition Problem](./bings-recognition-problem.md) — Characterizing topological spaces that are homeomorphic to the standard 3-sphere.
-* 🔴 [Borel Conjecture](./borel-conjecture.md)
+* 🔴 [Borel Conjecture](./borel-conjecture.md) — Aspherical closed manifolds are homotopy rigid up to homeomorphism
 * 🟢 [Borsuk's Conjecture](./borsuks-conjecture.md) — Can every set in n-dimensional space be divided into smaller diameter subsets.
+* 🔴 [Bounded Homeomorphism Conjecture for Open Manifolds](./bounded-homeomorphism-conjecture.md) — Bounded rigidity for proper homotopy equivalences of open manifolds
+* 🟢 [Bridge Number Additivity under Connected Sum](./bridge-number-additivity.md) — Bridge number minus one adds under knot connected sum
+* 🟡 [Faithfulness of the Burau Representation for Braid Groups](./burau-representation-faithfulness.md) — Is the Burau representation faithful for four strands
 * 🔴 [Cabling Conjecture](./cabling-conjecture.md) — Only cable knots admit Dehn surgeries yielding a reducible manifold.
+* 🔴 [Casson Invariant and the Homology Cobordism Group Structure](./casson-invariant-homology-cobordism.md) — Does Casson invariant detect all homology cobordism obstructions
 * 🔴 [Categorification of Witten-Reshetikhin-Turaev Invariants](./categorification-of-witten-reshetikhin-turaev-invariants.md) — Finding a homology theory whose Euler characteristic recovers WRT quantum invariants.
+* 🟡 [Dehn Surgery Characterizing Slopes Conjecture](./characterizing-slopes-conjecture.md) — Every knot slope large enough characterizes the knot
 * 🔴 [Charney-Davis Conjecture](./charney-davis-conjecture.md) — Flag complexes of rational homology manifolds satisfy specific Euler characteristic bounds.
+* 🟡 [Volume Conjecture for Turaev–Viro Invariants of Links in 3-Manifolds](./chen-yang-volume-conjecture.md) — Turaev-Viro invariants grow like hyperbolic volume exponentially
 * 🔴 [Chern's Conjecture on Affine Manifolds](./cherns-conjecture-on-affine-manifolds.md) — The Euler characteristic of a compact affine manifold is always zero.
 * 🟢 [Chromatic Convergence Theorem](./chromatic-convergence-theorem.md) — The p-local sphere spectrum can be recovered from its chromatic localizations.
 * 🔴 [Classification of Exotic $\mathbb{R}^4$s](./classification-of-exotic-r4s.md) — Can we completely classify all uncountable exotic smooth structures on Euclidean 4-space.
 * 🟢 [Cobordism Hypothesis](./cobordism-hypothesis.md) — Classifies fully extended topological quantum field theories via their value on points.
+* 🔴 [Zeeman's Collapsibility and Simple Homotopy of Contractible Complexes](./collapsibility-of-contractible-complexes.md) — Recognizing collapsible triangulations among contractible simplicial complexes
 * 🟡 [Colored Jones Polynomial Stability](./colored-jones-polynomial-stability.md) — The coefficients of colored Jones polynomials of a knot eventually stabilize.
 * 🔴 [Combinatorial Definition of Rasmussen s-invariant](./combinatorial-definition-of-rasmussen-s-invariant.md) — Seeking a purely combinatorial computation of the Rasmussen s-invariant without homology.
 * 🔴 [Completeness of Vassiliev Invariants](./completeness-of-vassiliev-invariants.md) — Finite type invariants completely distinguish all non isotopic knots in three dimensions.
 * 🔴 [Composite Knot Crossing Number Conjecture](./composite-knot-crossing-number-conjecture.md) — The minimum crossing number strictly adds under the connected sum of knots.
 * 🔴 [Cosmetic Crossing Conjecture](./cosmetic-crossing-conjecture.md) — Changing a crossing in a knot projection cannot preserve its oriented type.
 * 🔴 [Cosmetic Surgery Conjecture](./cosmetic-surgery-conjecture.md) — No two distinct Dehn surgeries on a knot yield homeomorphic manifolds.
+* 🔴 [Additivity of Crossing Number Under Connected Sum](./crossing-number-additivity-general.md) — Crossing number adds over connected sum of knots
 * 🟢 [Eilenberg-Zilber Theorem](./eilenberg-zilber-theorem.md) — Calculates the homology of the Cartesian product of two topological spaces.
+* 🔴 [Existence of Exotic Smooth Structures on $S^3 \times \mathbb{R}$](./exotic-smooth-structures-noncompact-4manifolds.md) — Uncountably many exotic structures on noncompact four-manifolds
 * 🔴 [Exotic Spheres in Dimension 4](./exotic-spheres-in-dimension-4.md) — Do exotic smooth structures exist on the 4-sphere.
+* 🟡 [Section Conjecture for Configuration Spaces and Fadell–Neuwirth Fibrations](./fadell-neuwirth-section-problem.md) — When configuration space fibrations admit continuous cross-sections
 * 🟢 [Fintushel-Stern Knot Surgery Conjecture (Symplectic Structures)](./fintushel-stern-knot-surgery.md) — Knot surgery produces infinitely many exotic smooth structures on 4-manifolds.
 * 🟡 [Fox-Artin Arc Problem](./fox-artin-arc-problem.md) — Classifies wild arcs in 3-dimensional space up to ambient isotopy.
 * 🔴 [Fox Trapezoidal Conjecture](./fox-trapezoidal-conjecture.md) — The coefficients of alternating knot polynomials always form a strictly trapezoidal sequence.
@@ -38,10 +49,12 @@ Low-dimensional topology, homotopy groups, knot invariants, manifolds and cell c
 * 🟢 [The g-Conjecture](./g-conjecture.md) — Characterizes the possible face numbers of simplicial spheres.
 * 🟢 [Galewski-Stern Conjecture](./galewski-stern-conjecture.md) — Concerns existence of a homology 3-sphere with specific Rokhlin invariant properties.
 * 🟢 [Ganea Conjecture](./ganea-conjecture.md) — Adding a cell to a space increases its Lusternik-Schnirelmann category by one.
+* 🔴 [Generalized Property R Conjecture](./generalized-property-r-conjecture.md) — Links with surgery giving connected sums of circle-cross-sphere
 * 🟢 [Geometrization Conjecture](./geometrization-conjecture.md) — Every closed 3-manifold can be decomposed into pieces with standard geometries.
 * 🟡 [Gopakumar-Vafa Conjecture](./gopakumar-vafa-conjecture.md) — Expresses Gromov-Witten invariants in terms of integer BPS state counts.
 * 🟢 [Gordon-Luecke Theorem](./gordon-luecke-theorem.md) — Knots in the 3-sphere are determined by their complements.
 * 🔴 [Gromov Bounded Cohomology Conjecture](./gromov-bounded-cohomology-conjecture.md) — The comparison map to singular cohomology is injective for all aspherical manifolds.
+* 🟡 [Bordism of Positive Scalar Curvature Metrics (Gromov–Lawson–Rosenberg Conjecture)](./gromov-lawson-rosenberg-conjecture.md) — Index obstruction detects positive scalar curvature on spin manifolds
 * 🟡 [Gromov-Witten Invariants Integrality](./gromov-witten-invariants-integrality.md) — Certain combinations of Gromov-Witten invariants are integers due to underlying geometry.
 * 🟢 [Gromov's Filling Area Conjecture](./gromovs-filling-area-conjecture.md) — The hemisphere minimizes filling area among surfaces with a given boundary.
 * 🟠 [Gukov-Peacock-Putrov Conjecture](./gukov-peacock-putrov-conjecture.md) — Predicts specific relations between homological blocks and quantum invariants.

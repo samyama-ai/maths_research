@@ -105,24 +105,24 @@ The gap is exactly this: **for $\mathcal{H}^1$-non-$\sigma$-finite sets, transla
 
 ## 9. Key References
 
-- **[Foundational]** P. Painlevé. *Sur les lignes singulières des fonctions analytiques.* Annales de la Faculté des Sciences de Toulouse, 1888.
+- **[Foundational]** P. Painlevé. *Sur les lignes singulières des fonctions analytiques.* Annales de la Faculté des Sciences de Toulouse, 1888. [DOI](https://doi.org/10.5802/afst.18)
 - **[Foundational]** L. V. Ahlfors. *Bounded analytic functions.* Duke Mathematical Journal 14 (1947), 1–11.
-- **[Foundational]** A. G. Vitushkin. *The analytic capacity of sets in problems of approximation theory.* Russian Mathematical Surveys 22 (1967), 139–200.
-- **[Foundational]** A. P. Calderón. *Cauchy integrals on Lipschitz curves and related operators.* PNAS 74 (1977), 1324–1327.
-- **[Structural]** P. Mattila. *Smooth maps, null-sets for integralgeometric measure and analytic capacity.* Annals of Mathematics 123 (1986), 303–309.
+- **[Foundational]** A. G. Vitushkin. *The analytic capacity of sets in problems of approximation theory.* Russian Mathematical Surveys 22 (1967), 139–200. [DOI](https://doi.org/10.1070/rm1967v022n06abeh003763)
+- **[Foundational]** A. P. Calderón. *Cauchy integrals on Lipschitz curves and related operators.* PNAS 74 (1977), 1324–1327. [DOI](https://doi.org/10.1073/pnas.74.4.1324)
+- **[Structural]** P. Mattila. *Smooth maps, null-sets for integralgeometric measure and analytic capacity.* Annals of Mathematics 123 (1986), 303–309. [DOI](https://doi.org/10.2307/1971273)
 - **[Foundational]** M. S. Melnikov. *Analytic capacity: a discrete approach and the curvature of measure.* Sbornik: Mathematics 186 (1995), 827–846.
 - **[Foundational]** M. S. Melnikov, J. Verdera. *A geometric proof of the $L^2$ boundedness of the Cauchy integral on Lipschitz graphs.* International Mathematics Research Notices 1995, 325–331.
-- **[Foundational]** P. Mattila, M. S. Melnikov, J. Verdera. *The Cauchy integral, analytic capacity, and uniform rectifiability.* Annals of Mathematics 144 (1996), 127–136.
+- **[Foundational]** P. Mattila, M. S. Melnikov, J. Verdera. *The Cauchy integral, analytic capacity, and uniform rectifiability.* Annals of Mathematics 144 (1996), 127–136. [DOI](https://doi.org/10.2307/2118585)
 - **[SOTA]** G. David. *Unrectifiable 1-sets have vanishing analytic capacity.* Revista Matemática Iberoamericana 14 (1998), 369–479.
-- **[SOTA]** X. Tolsa. *Painlevé's problem and the semiadditivity of analytic capacity.* Acta Mathematica 190 (2003), 105–149.
-- **[SOTA]** X. Tolsa. *Bilipschitz maps, analytic capacity, and the Cauchy integral.* Annals of Mathematics 162 (2005), 1243–1304.
-- **[SOTA]** J. Mateu, X. Tolsa, J. Verdera. *The planar Cantor sets of zero analytic capacity and the local $T(b)$-theorem.* Journal of the AMS 16 (2003), 19–28.
-- **[SOTA]** F. Nazarov, X. Tolsa, A. Volberg. *On the uniform rectifiability of AD-regular measures with bounded Riesz transform operators: the case of codimension 1.* Acta Mathematica 213 (2014), 237–321.
-- **[SOTA]** F. Nazarov, X. Tolsa, A. Volberg. *The Riesz transform, rectifiability, and removability for Lipschitz harmonic functions.* Publicacions Matemàtiques 58 (2014), 517–532.
-- **[Related]** D. Bateman, A. Volberg. *An estimate from below for the Buffon needle probability of the four-corner Cantor set.* Mathematical Research Letters 17 (2010), 959–967.
-- **[Survey]** X. Tolsa. *Analytic Capacity, the Cauchy Transform, and Non-homogeneous Calderón–Zygmund Theory.* Progress in Mathematics 307, Birkhäuser, 2014.
-- **[Survey]** J. J. Dudziak. *Vitushkin's Conjecture for Removable Sets.* Universitext, Springer, 2010.
-- **[Survey]** J. Verdera. *Removability, capacity and approximation.* In *Complex Potential Theory*, NATO ASI Series C 439, Kluwer, 1994, 419–473.
+- **[SOTA]** X. Tolsa. *Painlevé's problem and the semiadditivity of analytic capacity.* Acta Mathematica 190 (2003), 105–149. [DOI](https://doi.org/10.1007/bf02393237)
+- **[SOTA]** X. Tolsa. *Bilipschitz maps, analytic capacity, and the Cauchy integral.* Annals of Mathematics 162 (2005), 1243–1304. [DOI](https://doi.org/10.4007/annals.2005.162.1243)
+- **[SOTA]** J. Mateu, X. Tolsa, J. Verdera. *The planar Cantor sets of zero analytic capacity and the local $T(b)$-theorem.* Journal of the AMS 16 (2003), 19–28. [DOI](https://doi.org/10.1090/s0894-0347-02-00401-0)
+- **[SOTA]** F. Nazarov, X. Tolsa, A. Volberg. *On the uniform rectifiability of AD-regular measures with bounded Riesz transform operators: the case of codimension 1.* Acta Mathematica 213 (2014), 237–321. [DOI](https://doi.org/10.1007/s11511-014-0120-7)
+- **[SOTA]** F. Nazarov, X. Tolsa, A. Volberg. *The Riesz transform, rectifiability, and removability for Lipschitz harmonic functions.* Publicacions Matemàtiques 58 (2014), 517–532. [DOI](https://doi.org/10.5565/publmat_58214_26)
+- **[Related]** D. Bateman, A. Volberg. *An estimate from below for the Buffon needle probability of the four-corner Cantor set.* Mathematical Research Letters 17 (2010), 959–967. [DOI](https://doi.org/10.4310/mrl.2010.v17.n5.a12)
+- **[Survey]** X. Tolsa. *Analytic Capacity, the Cauchy Transform, and Non-homogeneous Calderón–Zygmund Theory.* Progress in Mathematics 307, Birkhäuser, 2014. [DOI](https://doi.org/10.1007/978-3-319-00596-6)
+- **[Survey]** J. J. Dudziak. *Vitushkin's Conjecture for Removable Sets.* Universitext, Springer, 2010. [DOI](https://doi.org/10.1007/978-1-4419-6709-1)
+- **[Survey]** J. Verdera. *Removability, capacity and approximation.* In *Complex Potential Theory*, NATO ASI Series C 439, Kluwer, 1994, 419–473. [DOI](https://doi.org/10.1007/978-94-011-0934-5_10)
 
 ## 10. Worked Example / Concrete Special Case
 

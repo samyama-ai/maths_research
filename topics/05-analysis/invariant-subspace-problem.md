@@ -116,22 +116,22 @@ with the quasinilpotent subfamily $\sigma(T)=\{0\}$ as its hard core. Crossing t
 
 ## 9. Key References
 
-- **[Foundational]** Beurling, A. *On two problems concerning linear transformations in Hilbert space.* Acta Mathematica 81 (1949), 239–255.
-- **[Foundational]** Aronszajn, N., Smith, K. T. *Invariant subspaces of completely continuous operators.* Annals of Mathematics 60 (1954), 345–350.
-- **[Foundational]** Bernstein, A. R., Robinson, A. *Solution of an invariant subspace problem of K. T. Smith and P. R. Halmos.* Pacific Journal of Mathematics 16 (1966), 421–431.
+- **[Foundational]** Beurling, A. *On two problems concerning linear transformations in Hilbert space.* Acta Mathematica 81 (1949), 239–255. [DOI](https://doi.org/10.1007/bf02395019)
+- **[Foundational]** Aronszajn, N., Smith, K. T. *Invariant subspaces of completely continuous operators.* Annals of Mathematics 60 (1954), 345–350. [DOI](https://doi.org/10.2307/1969637)
+- **[Foundational]** Bernstein, A. R., Robinson, A. *Solution of an invariant subspace problem of K. T. Smith and P. R. Halmos.* Pacific Journal of Mathematics 16 (1966), 421–431. [DOI](https://doi.org/10.2140/pjm.1966.16.421)
 - **[Foundational]** Lomonosov, V. I. *Invariant subspaces of the family of operators that commute with a completely continuous operator.* Funktsional. Analiz i Prilozhen. 7 (1973), 55–56.
-- **[Foundational]** Michaels, A. J. *Hilden's simple proof of Lomonosov's invariant subspace theorem.* Advances in Mathematics 25 (1977), 56–58.
-- **[Foundational]** Brown, S. W. *Some invariant subspaces for subnormal operators.* Integral Equations and Operator Theory 1 (1978), 310–333.
-- **[Counterexample]** Enflo, P. *On the invariant subspace problem for Banach spaces.* Acta Mathematica 158 (1987), 213–313.
+- **[Foundational]** Michaels, A. J. *Hilden's simple proof of Lomonosov's invariant subspace theorem.* Advances in Mathematics 25 (1977), 56–58. [DOI](https://doi.org/10.1016/0001-8708(77)90089-5)
+- **[Foundational]** Brown, S. W. *Some invariant subspaces for subnormal operators.* Integral Equations and Operator Theory 1 (1978), 310–333. [DOI](https://doi.org/10.1007/bf01682842)
+- **[Counterexample]** Enflo, P. *On the invariant subspace problem for Banach spaces.* Acta Mathematica 158 (1987), 213–313. [DOI](https://doi.org/10.1007/bf02392260)
 - **[Counterexample]** Read, C. J. *A solution to the invariant subspace problem.* Bulletin of the London Mathematical Society 16 (1984), 337–401.
-- **[Counterexample]** Read, C. J. *A solution to the invariant subspace problem on the space $l_1$.* Bulletin of the London Mathematical Society 17 (1985), 305–317.
-- **[Counterexample]** Read, C. J. *Quasinilpotent operators and the invariant subspace problem.* Journal of the London Mathematical Society 56 (1997), 595–606.
-- **[SOTA]** Brown, S., Chevreau, B., Pearcy, C. *On the structure of contraction operators. I.* Journal of Functional Analysis 76 (1988), 30–55.
-- **[SOTA]** Argyros, S. A., Haydon, R. G. *A hereditarily indecomposable $\mathcal{L}_\infty$-space that solves the scalar-plus-compact problem.* Acta Mathematica 206 (2011), 1–54.
-- **[SOTA]** Ansari, S., Enflo, P. *Extremal vectors and invariant subspaces.* Transactions of the American Mathematical Society 350 (1998), 539–558.
-- **[SOTA]** Grivaux, S., Roginskaya, M. *A general approach to Read's type constructions of operators without non-trivial invariant subspaces.* Proceedings of the London Mathematical Society 109 (2014), 596–652.
+- **[Counterexample]** Read, C. J. *A solution to the invariant subspace problem on the space $l_1$.* Bulletin of the London Mathematical Society 17 (1985), 305–317. [DOI](https://doi.org/10.1112/blms/17.4.305)
+- **[Counterexample]** Read, C. J. *Quasinilpotent operators and the invariant subspace problem.* Journal of the London Mathematical Society 56 (1997), 595–606. [DOI](https://doi.org/10.1112/s0024610797005486)
+- **[SOTA]** Brown, S., Chevreau, B., Pearcy, C. *On the structure of contraction operators. I.* Journal of Functional Analysis 76 (1988), 30–55. [DOI](https://doi.org/10.1016/0022-1236(88)90046-8)
+- **[SOTA]** Argyros, S. A., Haydon, R. G. *A hereditarily indecomposable $\mathcal{L}_\infty$-space that solves the scalar-plus-compact problem.* Acta Mathematica 206 (2011), 1–54. [DOI](https://doi.org/10.1007/s11511-011-0058-y)
+- **[SOTA]** Ansari, S., Enflo, P. *Extremal vectors and invariant subspaces.* Transactions of the American Mathematical Society 350 (1998), 539–558. [DOI](https://doi.org/10.1090/s0002-9947-98-01865-0)
+- **[SOTA]** Grivaux, S., Roginskaya, M. *A general approach to Read's type constructions of operators without non-trivial invariant subspaces.* Proceedings of the London Mathematical Society 109 (2014), 596–652. [DOI](https://doi.org/10.1112/plms/pdu012)
 - **[Survey / Book]** Radjavi, H., Rosenthal, P. *Invariant Subspaces.* Springer-Verlag, 1973; 2nd ed. Dover, 2003.
-- **[Survey / Book]** Beauzamy, B. *Introduction to Operator Theory and Invariant Subspaces.* North-Holland, 1988.
+- **[Survey / Book]** Beauzamy, B. *Introduction to Operator Theory and Invariant Subspaces.* North-Holland, 1988. [DOI](https://doi.org/10.1016/s0924-6509(08)x7031-x)
 - **[Survey / Book]** Chalendar, I., Partington, J. R. *Modern Approaches to the Invariant-Subspace Problem.* Cambridge University Press, 2011.
 - **[Frontier — verify]** Enflo, P. *On the invariant subspace problem in Hilbert spaces.* arXiv:2305.15442 (2023). Unrefereed.
 

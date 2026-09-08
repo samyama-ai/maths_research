@@ -107,21 +107,21 @@ The precise barrier: current arguments bound the multiplicity of a tube family b
 
 ## 9. Key References
 
-- **[Foundational]** A. S. Besicovitch. *On Kakeya's problem and a similar one.* Mathematische Zeitschrift 27 (1928), 312–320.
-- **[Foundational]** R. O. Davies. *Some remarks on the Kakeya problem.* Proc. Cambridge Philos. Soc. 69 (1971), 417–421.
-- **[Foundational]** C. Fefferman. *The multiplier problem for the ball.* Annals of Mathematics 94 (1971), 330–336.
-- **[Foundational]** A. Córdoba. *The Kakeya maximal function and the spherical summation multipliers.* American J. of Mathematics 99 (1977), 1–22.
-- **[Foundational]** J. Bourgain. *Besicovitch type maximal operators and applications to Fourier analysis.* Geometric and Functional Analysis 1 (1991), 147–187.
-- **[Foundational]** T. Wolff. *An improved bound for Kakeya type maximal functions.* Revista Matemática Iberoamericana 11 (1995), 651–674.
+- **[Foundational]** A. S. Besicovitch. *On Kakeya's problem and a similar one.* Mathematische Zeitschrift 27 (1928), 312–320. [DOI](https://doi.org/10.1007/bf01171101)
+- **[Foundational]** R. O. Davies. *Some remarks on the Kakeya problem.* Proc. Cambridge Philos. Soc. 69 (1971), 417–421. [DOI](https://doi.org/10.1017/s0305004100046867)
+- **[Foundational]** C. Fefferman. *The multiplier problem for the ball.* Annals of Mathematics 94 (1971), 330–336. [DOI](https://doi.org/10.2307/1970864)
+- **[Foundational]** A. Córdoba. *The Kakeya maximal function and the spherical summation multipliers.* American J. of Mathematics 99 (1977), 1–22. [DOI](https://doi.org/10.2307/2374006)
+- **[Foundational]** J. Bourgain. *Besicovitch type maximal operators and applications to Fourier analysis.* Geometric and Functional Analysis 1 (1991), 147–187. [DOI](https://doi.org/10.1007/bf01896376)
+- **[Foundational]** T. Wolff. *An improved bound for Kakeya type maximal functions.* Revista Matemática Iberoamericana 11 (1995), 651–674. [DOI](https://doi.org/10.4171/rmi/188)
 - **[Survey]** T. Wolff. *Recent work connected with the Kakeya problem.* In *Prospects in Mathematics* (H. Rossi, ed.), Amer. Math. Soc., 1999, 129–162.
 - **[Survey]** P. Mattila. *Fourier Analysis and Hausdorff Dimension.* Cambridge University Press, 2015.
-- **[Milestone]** N. Katz, I. Łaba, T. Tao. *An improved bound on the Minkowski dimension of Besicovitch sets in $\mathbb{R}^3$.* Annals of Mathematics 152 (2000), 383–446.
-- **[Milestone]** N. Katz, T. Tao. *New bounds for Kakeya problems.* Journal d'Analyse Mathématique 87 (2002), 231–263.
-- **[Milestone]** J. Bennett, A. Carbery, T. Tao. *On the multilinear restriction and Kakeya conjectures.* Acta Mathematica 196 (2006), 261–302.
-- **[Milestone]** Z. Dvir. *On the size of Kakeya sets in finite fields.* J. Amer. Math. Soc. 22 (2009), 1093–1097.
-- **[Milestone]** L. Guth. *The endpoint case of the Bennett–Carbery–Tao multilinear Kakeya conjecture.* Acta Mathematica 205 (2010), 263–286.
+- **[Milestone]** N. Katz, I. Łaba, T. Tao. *An improved bound on the Minkowski dimension of Besicovitch sets in $\mathbb{R}^3$.* Annals of Mathematics 152 (2000), 383–446. [DOI](https://doi.org/10.2307/2661389)
+- **[Milestone]** N. Katz, T. Tao. *New bounds for Kakeya problems.* Journal d'Analyse Mathématique 87 (2002), 231–263. [DOI](https://doi.org/10.1007/bf02868476)
+- **[Milestone]** J. Bennett, A. Carbery, T. Tao. *On the multilinear restriction and Kakeya conjectures.* Acta Mathematica 196 (2006), 261–302. [DOI](https://doi.org/10.1007/s11511-006-0006-4)
+- **[Milestone]** Z. Dvir. *On the size of Kakeya sets in finite fields.* J. Amer. Math. Soc. 22 (2009), 1093–1097. [DOI](https://doi.org/10.1090/s0894-0347-08-00607-3)
+- **[Milestone]** L. Guth. *The endpoint case of the Bennett–Carbery–Tao multilinear Kakeya conjecture.* Acta Mathematica 205 (2010), 263–286. [DOI](https://doi.org/10.1007/s11511-010-0055-6)
 - **[SOTA]** N. Katz, J. Zahl. *An improved bound on the Hausdorff dimension of Besicovitch sets in $\mathbb{R}^3$.* J. Amer. Math. Soc. 32 (2019), 195–259.
-- **[SOTA]** J. Zahl. *New Kakeya estimates using Gromov's algebraic lemma.* Advances in Mathematics 380 (2021), 107596.
+- **[SOTA]** J. Zahl. *New Kakeya estimates using Gromov's algebraic lemma.* Advances in Mathematics 380 (2021), 107596. [DOI](https://doi.org/10.1016/j.aim.2021.107596)
 - **[SOTA]** H. Wang, J. Zahl. *Sticky Kakeya sets and the sticky Kakeya conjecture.* arXiv:2210.09581 (2022).
 - **[SOTA]** H. Wang, J. Zahl. *Volume estimates for unions of convex sets, and the Kakeya set conjecture in three dimensions.* arXiv:2502.17655 (2025).
 - **[Textbook]** L. Guth. *Polynomial Methods in Combinatorics.* University Lecture Series 64, Amer. Math. Soc., 2016.

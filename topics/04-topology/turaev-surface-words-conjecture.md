@@ -99,17 +99,17 @@ Missing: a **reconstruction map**. Given $W$ satisfying (N1)–(N3), one has an 
 ## 9. Key References
 
 - **[Foundational]** V. G. Turaev. *A simple proof of the Murasugi and Kauffman theorems on alternating links.* L'Enseignement Mathématique (2) **33** (1987), 203–225.
-- **[Foundational]** B. Bollobás, O. Riordan. *A polynomial invariant of graphs on orientable surfaces.* Proc. London Math. Soc. **83** (2001), 513–531.
-- **[Foundational]** O. Dasbach, D. Futer, E. Kalfagianni, X.-S. Lin, N. Stoltzfus. *The Jones polynomial and graphs on surfaces.* J. Combin. Theory Ser. B **98** (2008), 384–399.
-- **[Problem source]** C. Armond, N. Druivenga, T. Kindred. *Heegaard diagrams corresponding to Turaev surfaces.* Journal of Knot Theory and Its Ramifications **24** (2015), no. 4, 1550019.
-- **[SOTA / Recent]** S. Kim. *Link diagrams with low Turaev genus.* Proc. Amer. Math. Soc. **146** (2018), 875–890.
-- **[SOTA / Recent]** S. Kim, A. Lowrance. *Turaev genus and alternating decompositions.* Algebr. Geom. Topol. **18** (2018), 1665–1682.
-- **[SOTA / Recent]** A. Champanerkar, I. Kofman, N. Stoltzfus. *Graphs on surfaces and Khovanov homology.* Algebr. Geom. Topol. **7** (2007), 1531–1540.
-- **[SOTA / Recent]** A. Lowrance. *On knot Floer width and Turaev genus.* Algebr. Geom. Topol. **8** (2008), 1141–1162.
-- **[SOTA / Recent]** T. Abe. *The Turaev genus of an adequate knot.* Topology and its Applications **156** (2009), 2704–2712.
-- **[SOTA / Recent]** O. Dasbach, A. Lowrance. *Turaev genus, knot signature, and the knot homology concordance invariants.* Proc. Amer. Math. Soc. **139** (2011), 2631–2645.
-- **[Survey]** A. Champanerkar, I. Kofman. *A survey on the Turaev genus of knots.* Acta Mathematica Vietnamica **39** (2014), 497–514.
-- **[Survey]** J. Ellis-Monaghan, I. Moffatt. *Graphs on Surfaces: Dualities, Polynomials, and Knots.* SpringerBriefs in Mathematics, Springer, 2013.
+- **[Foundational]** B. Bollobás, O. Riordan. *A polynomial invariant of graphs on orientable surfaces.* Proc. London Math. Soc. **83** (2001), 513–531. [DOI](https://doi.org/10.1112/plms/83.3.513)
+- **[Foundational]** O. Dasbach, D. Futer, E. Kalfagianni, X.-S. Lin, N. Stoltzfus. *The Jones polynomial and graphs on surfaces.* J. Combin. Theory Ser. B **98** (2008), 384–399. [DOI](https://doi.org/10.1016/j.jctb.2007.08.003)
+- **[Problem source]** C. Armond, N. Druivenga, T. Kindred. *Heegaard diagrams corresponding to Turaev surfaces.* Journal of Knot Theory and Its Ramifications **24** (2015), no. 4, 1550019. [DOI](https://doi.org/10.1142/s0218216515500261)
+- **[SOTA / Recent]** S. Kim. *Link diagrams with low Turaev genus.* Proc. Amer. Math. Soc. **146** (2018), 875–890. [DOI](https://doi.org/10.1090/proc/13723)
+- **[SOTA / Recent]** S. Kim, A. Lowrance. *Turaev genus and alternating decompositions.* Algebr. Geom. Topol. **18** (2018), 1665–1682. [DOI](https://doi.org/10.2140/agt.2017.17.793)
+- **[SOTA / Recent]** A. Champanerkar, I. Kofman, N. Stoltzfus. *Graphs on surfaces and Khovanov homology.* Algebr. Geom. Topol. **7** (2007), 1531–1540. [DOI](https://doi.org/10.2140/agt.2007.7.1531)
+- **[SOTA / Recent]** A. Lowrance. *On knot Floer width and Turaev genus.* Algebr. Geom. Topol. **8** (2008), 1141–1162. [DOI](https://doi.org/10.2140/agt.2008.8.1141)
+- **[SOTA / Recent]** T. Abe. *The Turaev genus of an adequate knot.* Topology and its Applications **156** (2009), 2704–2712. [DOI](https://doi.org/10.1016/j.topol.2009.07.020)
+- **[SOTA / Recent]** O. Dasbach, A. Lowrance. *Turaev genus, knot signature, and the knot homology concordance invariants.* Proc. Amer. Math. Soc. **139** (2011), 2631–2645. [DOI](https://doi.org/10.1090/s0002-9939-2010-10698-6)
+- **[Survey]** A. Champanerkar, I. Kofman. *A survey on the Turaev genus of knots.* Acta Mathematica Vietnamica **39** (2014), 497–514. [DOI](https://doi.org/10.1007/s40306-014-0083-y)
+- **[Survey]** J. Ellis-Monaghan, I. Moffatt. *Graphs on Surfaces: Dualities, Polynomials, and Knots.* SpringerBriefs in Mathematics, Springer, 2013. [DOI](https://doi.org/10.5860/choice.51-3890)
 
 ## 10. Worked Example / Concrete Special Case
 

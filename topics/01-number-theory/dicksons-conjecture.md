@@ -80,10 +80,10 @@ Leading mathematicians suggest the following open pathways:
 ## 9. Key References
 
 - **[Foundational]** Dickson, L. E. *A new extension of Dirichlet's theorem on prime numbers.* Messenger of Mathematics, 1904.
-- **[Foundational]** Hardy, G. H., and Littlewood, J. E. *Some problems of 'Partitio numerorum'; III: On the expression of a number as a sum of primes.* Acta Mathematica, 1923.
-- **[SOTA / Recent]** Maynard, J. *Small gaps between primes.* Annals of Mathematics, 2015.
-- **[SOTA / Recent]** Green, B., and Tao, T. *The primes contain arbitrarily long arithmetic progressions.* Annals of Mathematics, 2008.
-- **[Survey]** Granville, A. *Primes in intervals of bounded length.* Bulletin of the American Mathematical Society, 2015.
+- **[Foundational]** Hardy, G. H., and Littlewood, J. E. *Some problems of 'Partitio numerorum'; III: On the expression of a number as a sum of primes.* Acta Mathematica, 1923. [DOI](https://doi.org/10.1007/bf02403921)
+- **[SOTA / Recent]** Maynard, J. *Small gaps between primes.* Annals of Mathematics, 2015. [DOI](https://doi.org/10.4007/annals.2015.181.1.7)
+- **[SOTA / Recent]** Green, B., and Tao, T. *The primes contain arbitrarily long arithmetic progressions.* Annals of Mathematics, 2008. [DOI](https://doi.org/10.4007/annals.2008.167.481)
+- **[Survey]** Granville, A. *Primes in intervals of bounded length.* Bulletin of the American Mathematical Society, 2015. [DOI](https://doi.org/10.1090/s0273-0979-2015-01480-1)
 - **[Survey]** Soundararajan, K. *Small gaps between prime numbers: The work of Goldston-Pintz-Yıldırım.* Bulletin of the American Mathematical Society, 2007.
 
 ## 10. Worked Example / Concrete Special Case

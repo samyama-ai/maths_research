@@ -111,22 +111,22 @@ For the classical statement of Section 1 there is **no gap**: the theorem is pro
 
 ## 9. Key References
 
-- **[Foundational]** T. Kato. *Fractional powers of dissipative operators.* J. Math. Soc. Japan 13 (1961), 246–274.
-- **[Foundational]** J.-L. Lions. *Espaces d'interpolation et domaines de puissances fractionnaires d'opérateurs.* J. Math. Soc. Japan 14 (1962), 233–241.
+- **[Foundational]** T. Kato. *Fractional powers of dissipative operators.* J. Math. Soc. Japan 13 (1961), 246–274. [DOI](https://doi.org/10.2969/jmsj/01330246)
+- **[Foundational]** J.-L. Lions. *Espaces d'interpolation et domaines de puissances fractionnaires d'opérateurs.* J. Math. Soc. Japan 14 (1962), 233–241. [DOI](https://doi.org/10.2969/jmsj/01420233)
 - **[Foundational]** A. McIntosh. *On the comparability of $A^{1/2}$ and $A^{*1/2}$.* Proc. Amer. Math. Soc. 32 (1972), 430–434.
 - **[Foundational]** R. Coifman, A. McIntosh, Y. Meyer. *L'intégrale de Cauchy définit un opérateur borné sur $L^2$ pour les courbes lipschitziennes.* Ann. of Math. 116 (1982), 361–387.
-- **[Foundational]** E. Fabes, D. Jerison, C. Kenig. *Multilinear square functions and partial differential equations.* Amer. J. Math. 107 (1985), 1325–1368.
-- **[SOTA]** P. Auscher, S. Hofmann, M. Lacey, A. McIntosh, Ph. Tchamitchian. *The solution of the Kato square root problem for second order elliptic operators on $\mathbb{R}^n$.* Ann. of Math. 156 (2002), 633–654.
-- **[SOTA]** S. Hofmann, M. Lacey, A. McIntosh. *The solution of the Kato problem for divergence form elliptic operators with Gaussian heat kernel bounds.* Ann. of Math. 156 (2002), 623–631.
-- **[SOTA]** P. Auscher, S. Hofmann, J. Lewis, Ph. Tchamitchian. *Extrapolation of Carleson measures and the analyticity of Kato's square-root operators.* Acta Math. 187 (2001), 161–190.
-- **[SOTA]** A. Axelsson, S. Keith, A. McIntosh. *Quadratic estimates and functional calculi of perturbed Dirac operators.* Invent. Math. 163 (2006), 455–497.
-- **[SOTA]** P. Auscher, S. Hofmann, A. McIntosh, Ph. Tchamitchian. *The Kato square root problem for higher-order elliptic operators and systems on $\mathbb{R}^n$.* J. Evol. Equ. 1 (2001), 361–385.
-- **[Recent]** M. Egert, R. Haller-Dintelmann, P. Tolksdorf. *The Kato square root problem for mixed boundary conditions.* J. Funct. Anal. 267 (2014), 1419–1461.
-- **[Recent]** D. Cruz-Uribe, C. Rios. *The solution of the Kato problem for degenerate elliptic operators with Gaussian bounds.* Trans. Amer. Math. Soc. 364 (2012), 3449–3478.
-- **[Recent]** A. Morris. *The Kato square root problem on submanifolds.* J. London Math. Soc. 86 (2012), 879–910.
-- **[Recent]** A. Carbonaro, O. Dragičević. *Convexity of power functions and bilinear embedding for divergence-form operators with complex coefficients.* J. Eur. Math. Soc. 22 (2020), 3175–3221.
+- **[Foundational]** E. Fabes, D. Jerison, C. Kenig. *Multilinear square functions and partial differential equations.* Amer. J. Math. 107 (1985), 1325–1368. [DOI](https://doi.org/10.2307/2374409)
+- **[SOTA]** P. Auscher, S. Hofmann, M. Lacey, A. McIntosh, Ph. Tchamitchian. *The solution of the Kato square root problem for second order elliptic operators on $\mathbb{R}^n$.* Ann. of Math. 156 (2002), 633–654. [DOI](https://doi.org/10.2307/3597201)
+- **[SOTA]** S. Hofmann, M. Lacey, A. McIntosh. *The solution of the Kato problem for divergence form elliptic operators with Gaussian heat kernel bounds.* Ann. of Math. 156 (2002), 623–631. [DOI](https://doi.org/10.2307/3597200)
+- **[SOTA]** P. Auscher, S. Hofmann, J. Lewis, Ph. Tchamitchian. *Extrapolation of Carleson measures and the analyticity of Kato's square-root operators.* Acta Math. 187 (2001), 161–190. [DOI](https://doi.org/10.1007/bf02392615)
+- **[SOTA]** A. Axelsson, S. Keith, A. McIntosh. *Quadratic estimates and functional calculi of perturbed Dirac operators.* Invent. Math. 163 (2006), 455–497. [DOI](https://doi.org/10.1007/s00222-005-0464-x)
+- **[SOTA]** P. Auscher, S. Hofmann, A. McIntosh, Ph. Tchamitchian. *The Kato square root problem for higher-order elliptic operators and systems on $\mathbb{R}^n$.* J. Evol. Equ. 1 (2001), 361–385. [DOI](https://doi.org/10.1007/pl00001377)
+- **[Recent]** M. Egert, R. Haller-Dintelmann, P. Tolksdorf. *The Kato square root problem for mixed boundary conditions.* J. Funct. Anal. 267 (2014), 1419–1461. [DOI](https://doi.org/10.1016/j.jfa.2014.06.003)
+- **[Recent]** D. Cruz-Uribe, C. Rios. *The solution of the Kato problem for degenerate elliptic operators with Gaussian bounds.* Trans. Amer. Math. Soc. 364 (2012), 3449–3478. [DOI](https://doi.org/10.1090/s0002-9947-2012-05380-3)
+- **[Recent]** A. Morris. *The Kato square root problem on submanifolds.* J. London Math. Soc. 86 (2012), 879–910. [DOI](https://doi.org/10.1112/jlms/jds039)
+- **[Recent]** A. Carbonaro, O. Dragičević. *Convexity of power functions and bilinear embedding for divergence-form operators with complex coefficients.* J. Eur. Math. Soc. 22 (2020), 3175–3221. [DOI](https://doi.org/10.4171/jems/984)
 - **[Survey]** P. Auscher, Ph. Tchamitchian. *Square root problem for divergence operators and related topics.* Astérisque 249, Soc. Math. France, 1998.
-- **[Survey]** S. Hofmann. *A short course on the Kato problem.* Contemp. Math. 289 (2001), 61–77.
+- **[Survey]** S. Hofmann. *A short course on the Kato problem.* Contemp. Math. 289 (2001), 61–77. [DOI](https://doi.org/10.1090/conm/289/04875)
 - **[Survey]** P. Auscher. *On necessary and sufficient conditions for $L^p$ estimates of Riesz transforms associated to elliptic operators on $\mathbb{R}^n$ and related estimates.* Mem. Amer. Math. Soc. 186 (2007), no. 871.
 - **[Book]** T. Kato. *Perturbation Theory for Linear Operators.* Springer, 1966.
 

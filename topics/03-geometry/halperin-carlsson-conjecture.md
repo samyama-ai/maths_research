@@ -95,16 +95,16 @@ Proven inputs give: (i) exponential bounds under parity or ellipticity hypothese
 
 ## 9. Key References
 
-- **[Foundational]** S. Halperin. *Rational homotopy and torus actions.* In: Homotopy Theory (Durham 1985), London Math. Soc. Lecture Note Series 117, Cambridge University Press, 1987, pp. 293–306.
+- **[Foundational]** S. Halperin. *Rational homotopy and torus actions.* In: Homotopy Theory (Durham 1985), London Math. Soc. Lecture Note Series 117, Cambridge University Press, 1987, pp. 293–306. [DOI](https://doi.org/10.1017/cbo9781107359925.015)
 - **[Foundational]** G. Carlsson. *On the nonexistence of free actions of elementary abelian groups on products of spheres.* American Journal of Mathematics 102 (1980), 1147–1157.
-- **[Foundational]** G. Carlsson. *On the rank of abelian groups acting freely on $(S^n)^k$.* Inventiones Mathematicae 69 (1982), 393–400.
-- **[SOTA]** M. E. Walker. *Total Betti numbers of modules of finite projective dimension.* Annals of Mathematics 186 (2017), 641–646.
-- **[SOTA]** S. B. Iyengar, M. E. Walker. *Examples of finite free complexes of small rank and small homology.* Acta Mathematica 221 (2018), 143–158.
-- **[SOTA]** A. Adem, W. Browder. *The free rank of symmetry of $(S^n)^k$.* Inventiones Mathematicae 92 (1988), 431–440.
-- **[SOTA]** Yu. M. Ustinovskiy. *Toral rank conjecture for moment-angle complexes.* Mathematical Notes 90 (2011), 279–283.
+- **[Foundational]** G. Carlsson. *On the rank of abelian groups acting freely on $(S^n)^k$.* Inventiones Mathematicae 69 (1982), 393–400. [DOI](https://doi.org/10.1007/bf01389361)
+- **[SOTA]** M. E. Walker. *Total Betti numbers of modules of finite projective dimension.* Annals of Mathematics 186 (2017), 641–646. [DOI](https://doi.org/10.4007/annals.2017.186.2.6)
+- **[SOTA]** S. B. Iyengar, M. E. Walker. *Examples of finite free complexes of small rank and small homology.* Acta Mathematica 221 (2018), 143–158. [DOI](https://doi.org/10.4310/acta.2018.v221.n1.a4)
+- **[SOTA]** A. Adem, W. Browder. *The free rank of symmetry of $(S^n)^k$.* Inventiones Mathematicae 92 (1988), 431–440. [DOI](https://doi.org/10.1007/bf01404462)
+- **[SOTA]** Yu. M. Ustinovskiy. *Toral rank conjecture for moment-angle complexes.* Mathematical Notes 90 (2011), 279–283. [DOI](https://doi.org/10.1134/s0001434611070273)
 - **[Survey]** C. Allday, V. Puppe. *Cohomological Methods in Transformation Groups.* Cambridge Studies in Advanced Mathematics 32, Cambridge University Press, 1993.
 - **[Survey]** Y. Félix, S. Halperin, J.-C. Thomas. *Rational Homotopy Theory.* Graduate Texts in Mathematics 205, Springer, 2001.
-- **[Survey]** V. Puppe. *Multiplicative aspects of the Halperin–Carlsson conjecture.* Georgian Mathematical Journal 16 (2009), 369–379.
+- **[Survey]** V. Puppe. *Multiplicative aspects of the Halperin–Carlsson conjecture.* Georgian Mathematical Journal 16 (2009), 369–379. [DOI](https://doi.org/10.1515/gmj.2009.369)
 
 ## 10. Worked Example / Concrete Special Case
 

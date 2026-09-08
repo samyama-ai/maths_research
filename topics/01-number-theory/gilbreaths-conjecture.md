@@ -86,9 +86,9 @@ Leading mathematicians suggest that directly attacking the conjecture is likely 
 ## 9. Key References
 
 - **[Foundational]** Proth, F. *Théorèmes sur les nombres premiers.* Comptes Rendus de l'Académie des Sciences, Paris, 87 (1878), p. 926.
-- **[Foundational]** Killgrove, R. B., and Ralston, K. E. *On a conjecture concerning the primes.* Mathematical Tables and Other Aids to Computation, 13 (1959), 121-122.
-- **[SOTA / Computational]** Odlyzko, A. M. *Iterated absolute values of differences of consecutive primes.* Mathematics of Computation, 61(203) (1993), 373-380.
-- **[Survey]** Guy, R. K. *Unsolved Problems in Number Theory (3rd ed).* Springer-Verlag, 2004. (Section A10).
+- **[Foundational]** Killgrove, R. B., and Ralston, K. E. *On a conjecture concerning the primes.* Mathematical Tables and Other Aids to Computation, 13 (1959), 121-122. [DOI](https://doi.org/10.1090/s0025-5718-59-99262-2)
+- **[SOTA / Computational]** Odlyzko, A. M. *Iterated absolute values of differences of consecutive primes.* Mathematics of Computation, 61(203) (1993), 373-380. [DOI](https://doi.org/10.1090/s0025-5718-1993-1182247-7)
+- **[Survey]** Guy, R. K. *Unsolved Problems in Number Theory (3rd ed).* Springer-Verlag, 2004. (Section A10). [DOI](https://doi.org/10.1017/s0025557200178817)
 
 ## 10. Worked Example / Concrete Special Case
 

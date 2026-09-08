@@ -121,18 +121,18 @@ Concretely, three gaps remain between Section 4 and Section 1's program:
 ## 9. Key References
 
 - **[Foundational]** V. Drinfeld. *Langlands' conjecture for $\mathrm{GL}(2)$ over functional fields.* Proc. ICM Helsinki, 1978 (publ. 1980).
-- **[Foundational]** G. Laumon. *Correspondance de Langlands géométrique pour les corps de fonctions.* Duke Mathematical Journal 54 (1987), 309–359.
+- **[Foundational]** G. Laumon. *Correspondance de Langlands géométrique pour les corps de fonctions.* Duke Mathematical Journal 54 (1987), 309–359. [DOI](https://doi.org/10.1215/s0012-7094-87-05418-4)
 - **[Foundational]** A. Beilinson, V. Drinfeld. *Quantization of Hitchin's integrable system and Hecke eigensheaves.* Preprint, ca. 1991–2000 (unpublished manuscript).
-- **[Foundational]** I. Mirković, K. Vilonen. *Geometric Langlands duality and representations of algebraic groups over commutative rings.* Annals of Mathematics 166 (2007), 95–143.
+- **[Foundational]** I. Mirković, K. Vilonen. *Geometric Langlands duality and representations of algebraic groups over commutative rings.* Annals of Mathematics 166 (2007), 95–143. [DOI](https://doi.org/10.4007/annals.2007.166.95)
 - **[Key theorem]** E. Frenkel, D. Gaitsgory, K. Vilonen. *On the geometric Langlands conjecture.* Journal of the AMS 15 (2002), 367–417.
-- **[Key theorem]** D. Gaitsgory. *On a vanishing conjecture appearing in the geometric Langlands correspondence.* Annals of Mathematics 160 (2004), 617–682.
-- **[Formulation]** D. Arinkin, D. Gaitsgory. *Singular support of coherent sheaves and the geometric Langlands conjecture.* Selecta Mathematica 21 (2015), 1–199.
+- **[Key theorem]** D. Gaitsgory. *On a vanishing conjecture appearing in the geometric Langlands correspondence.* Annals of Mathematics 160 (2004), 617–682. [DOI](https://doi.org/10.4007/annals.2004.160.617)
+- **[Formulation]** D. Arinkin, D. Gaitsgory. *Singular support of coherent sheaves and the geometric Langlands conjecture.* Selecta Mathematica 21 (2015), 1–199. [DOI](https://doi.org/10.1007/s00029-014-0167-5)
 - **[SOTA / Recent]** D. Arinkin, D. Beraldo, J. Campbell, L. Chen, J. Færgeman, D. Gaitsgory, K. Lin, S. Raskin, N. Rozenblyum. *Proof of the geometric Langlands conjecture, I–V.* Preprint series, 2024.
-- **[Physics]** A. Kapustin, E. Witten. *Electric-magnetic duality and the geometric Langlands program.* Communications in Number Theory and Physics 1 (2007), 1–236.
-- **[Positive characteristic]** R. Bezrukavnikov, A. Braverman. *Geometric Langlands correspondence for D-modules in prime characteristic: the $\mathrm{GL}(n)$ case.* Pure and Applied Mathematics Quarterly 3 (2007), 153–179.
-- **[Betti]** D. Ben-Zvi, D. Nadler. *Betti geometric Langlands.* Proceedings of Symposia in Pure Mathematics 97.2 (2018), 3–41.
+- **[Physics]** A. Kapustin, E. Witten. *Electric-magnetic duality and the geometric Langlands program.* Communications in Number Theory and Physics 1 (2007), 1–236. [DOI](https://doi.org/10.4310/cntp.2007.v1.n1.a1)
+- **[Positive characteristic]** R. Bezrukavnikov, A. Braverman. *Geometric Langlands correspondence for D-modules in prime characteristic: the $\mathrm{GL}(n)$ case.* Pure and Applied Mathematics Quarterly 3 (2007), 153–179. [DOI](https://doi.org/10.4310/pamq.2007.v3.n1.a5)
+- **[Betti]** D. Ben-Zvi, D. Nadler. *Betti geometric Langlands.* Proceedings of Symposia in Pure Mathematics 97.2 (2018), 3–41. [DOI](https://doi.org/10.1090/pspum/097.2/01)
 - **[Survey]** E. Frenkel. *Lectures on the Langlands program and conformal field theory.* In *Frontiers in Number Theory, Physics and Geometry II*, Springer, 2007, 387–533.
-- **[Related]** D. Gaitsgory, J. Lurie. *Weil's Conjecture for Function Fields I.* Annals of Mathematics Studies 199, Princeton University Press, 2019.
+- **[Related]** D. Gaitsgory, J. Lurie. *Weil's Conjecture for Function Fields I.* Annals of Mathematics Studies 199, Princeton University Press, 2019. [DOI](https://doi.org/10.23943/princeton/9780691182148.001.0001)
 - **[Local, $p$-adic]** L. Fargues, P. Scholze. *Geometrization of the local Langlands correspondence.* Preprint, arXiv:2102.13459, 2021.
 
 ## 10. Worked Example / Concrete Special Case

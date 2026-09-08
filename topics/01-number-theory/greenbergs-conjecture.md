@@ -91,10 +91,10 @@ Leading number theorists propose several pathways to tackle the problem:
 
 ## 9. Key References
 
-- **[Foundational]** Greenberg, R. *On the Iwasawa invariants of totally real number fields.* American Journal of Mathematics, 1976.
+- **[Foundational]** Greenberg, R. *On the Iwasawa invariants of totally real number fields.* American Journal of Mathematics, 1976. [DOI](https://doi.org/10.2307/2373625)
 - **[Foundational]** Iwasawa, K. *On $\Gamma$-extensions of algebraic number fields.* Bulletin of the American Mathematical Society, 1959.
-- **[Foundational]** Ferrero, B., & Washington, L. C. *The Iwasawa invariant $\mu_p$ vanishes for abelian number fields.* Annals of Mathematics, 1979.
-- **[SOTA / Recent]** Dasgupta, S., & Kakde, M. *On the Brumer-Stark Conjecture.* Annals of Mathematics, 2023.
+- **[Foundational]** Ferrero, B., & Washington, L. C. *The Iwasawa invariant $\mu_p$ vanishes for abelian number fields.* Annals of Mathematics, 1979. [DOI](https://doi.org/10.2307/1971116)
+- **[SOTA / Recent]** Dasgupta, S., & Kakde, M. *On the Brumer-Stark Conjecture.* Annals of Mathematics, 2023. [DOI](https://doi.org/10.4007/annals.2023.197.1.5)
 - **[Survey]** Washington, L. C. *Introduction to Cyclotomic Fields* (2nd Ed.). Springer-Verlag, 1997.
 
 ## 10. Worked Example / Concrete Special Case

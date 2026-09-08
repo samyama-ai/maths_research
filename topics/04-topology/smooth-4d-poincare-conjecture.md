@@ -112,24 +112,24 @@ Active groups: Stanford/Berkeley (Manolescu, Gabai's students), MIT (Piccirillo)
 - **[Foundational]** M. Freedman. *The topology of four-dimensional manifolds.* Journal of Differential Geometry 17 (1982), 357–453.
 - **[Foundational]** S. Smale. *Generalized Poincaré's conjecture in dimensions greater than four.* Annals of Mathematics 74 (1961), 391–406.
 - **[Foundational]** M. Kervaire, J. Milnor. *Groups of homotopy spheres: I.* Annals of Mathematics 77 (1963), 504–537.
-- **[Foundational]** H. Gluck. *The embedding of two-spheres in the four-sphere.* Transactions of the AMS 104 (1962), 308–333.
-- **[Foundational]** S. Cappell, J. Shaneson. *Some new four-manifolds.* Annals of Mathematics 104 (1976), 61–72.
+- **[Foundational]** H. Gluck. *The embedding of two-spheres in the four-sphere.* Transactions of the AMS 104 (1962), 308–333. [DOI](https://doi.org/10.1090/s0002-9904-1961-10703-9)
+- **[Foundational]** S. Cappell, J. Shaneson. *Some new four-manifolds.* Annals of Mathematics 104 (1976), 61–72. [DOI](https://doi.org/10.2307/1971056)
 - **[Foundational]** C. T. C. Wall. *On simply-connected 4-manifolds.* Journal of the London Mathematical Society 39 (1964), 141–149.
 - **[Key]** S. Akbulut, R. Kirby. *An exotic involution of $S^4$.* Topology 18 (1979), 75–81.
-- **[Key]** R. Gompf. *Killing the Akbulut–Kirby 4-sphere, with relevance to the Andrews–Curtis and Schoenflies problems.* Topology 30 (1991), 97–115.
-- **[SOTA]** S. Akbulut. *Cappell–Shaneson homotopy spheres are standard.* Annals of Mathematics 171 (2010), 2171–2175.
-- **[SOTA]** R. Gompf. *More Cappell–Shaneson spheres are standard.* Algebraic & Geometric Topology 10 (2010), 1665–1681.
-- **[SOTA]** M. Freedman, R. Gompf, S. Morrison, K. Walker. *Man and machine thinking about the smooth 4-dimensional Poincaré conjecture.* Quantum Topology 1 (2010), 171–208.
-- **[SOTA]** J. Rasmussen. *Khovanov homology and the slice genus.* Inventiones Mathematicae 182 (2010), 419–447.
+- **[Key]** R. Gompf. *Killing the Akbulut–Kirby 4-sphere, with relevance to the Andrews–Curtis and Schoenflies problems.* Topology 30 (1991), 97–115. [DOI](https://doi.org/10.1016/0040-9383(91)90036-4)
+- **[SOTA]** S. Akbulut. *Cappell–Shaneson homotopy spheres are standard.* Annals of Mathematics 171 (2010), 2171–2175. [DOI](https://doi.org/10.4007/annals.2010.171.2171)
+- **[SOTA]** R. Gompf. *More Cappell–Shaneson spheres are standard.* Algebraic & Geometric Topology 10 (2010), 1665–1681. [DOI](https://doi.org/10.2140/agt.2010.10.1665)
+- **[SOTA]** M. Freedman, R. Gompf, S. Morrison, K. Walker. *Man and machine thinking about the smooth 4-dimensional Poincaré conjecture.* Quantum Topology 1 (2010), 171–208. [DOI](https://doi.org/10.4171/qt/5)
+- **[SOTA]** J. Rasmussen. *Khovanov homology and the slice genus.* Inventiones Mathematicae 182 (2010), 419–447. [DOI](https://doi.org/10.1007/s00222-010-0275-6)
 - **[SOTA]** C. Manolescu, L. Piccirillo. *From zero surgeries to candidates for exotic definite four-manifolds.* arXiv:2102.04391 (2021).
 - **[SOTA]** K. Nakamura. *Trace embeddings from zero surgery homeomorphisms.* arXiv:2009.03053 (2020).
-- **[SOTA]** C. Manolescu, M. Marengon, S. Sarkar, M. Willis. *A generalization of Rasmussen's invariant, with applications to surfaces in some four-manifolds.* Duke Mathematical Journal 172 (2023).
-- **[SOTA]** D. Gabai. *The 4-dimensional light bulb theorem.* Journal of the AMS 33 (2020), 609–652.
-- **[SOTA]** J. Meier, A. Zupan. *Genus-two trisections are standard.* Geometry & Topology 21 (2017), 1583–1630.
-- **[Survey]** R. Kirby. *Problems in low-dimensional topology.* In *Geometric Topology* (AMS/IP Studies in Advanced Mathematics 2.2), 1997.
+- **[SOTA]** C. Manolescu, M. Marengon, S. Sarkar, M. Willis. *A generalization of Rasmussen's invariant, with applications to surfaces in some four-manifolds.* Duke Mathematical Journal 172 (2023). [DOI](https://doi.org/10.1215/00127094-2022-0039)
+- **[SOTA]** D. Gabai. *The 4-dimensional light bulb theorem.* Journal of the AMS 33 (2020), 609–652. [DOI](https://doi.org/10.1090/jams/920)
+- **[SOTA]** J. Meier, A. Zupan. *Genus-two trisections are standard.* Geometry & Topology 21 (2017), 1583–1630. [DOI](https://doi.org/10.2140/gt.2017.21.1583)
+- **[Survey]** R. Kirby. *Problems in low-dimensional topology.* In *Geometric Topology* (AMS/IP Studies in Advanced Mathematics 2.2), 1997. [DOI](https://doi.org/10.1090/amsip/002.2/02)
 - **[Survey]** R. Gompf, A. Stipsicz. *4-Manifolds and Kirby Calculus.* Graduate Studies in Mathematics 20, AMS, 1999.
 - **[Survey]** A. Scorpan. *The Wild World of 4-Manifolds.* AMS, 2005.
-- **[Survey]** D. Gay, R. Kirby. *Trisecting 4-manifolds.* Geometry & Topology 20 (2016), 3097–3132.
+- **[Survey]** D. Gay, R. Kirby. *Trisecting 4-manifolds.* Geometry & Topology 20 (2016), 3097–3132. [DOI](https://doi.org/10.2140/gt.2016.20.3097)
 
 ## 10. Worked Example / Concrete Special Case
 

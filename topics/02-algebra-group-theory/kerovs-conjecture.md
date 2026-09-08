@@ -96,19 +96,19 @@ At $\gamma=0$ this must specialize to the DFŚ factorization count. Finding $\et
 
 ## 9. Key References
 
-- **[Foundational]** Biane, P. *Representations of symmetric groups and free probability.* Advances in Mathematics 138 (1998), 126–181.
+- **[Foundational]** Biane, P. *Representations of symmetric groups and free probability.* Advances in Mathematics 138 (1998), 126–181. [DOI](https://doi.org/10.1006/aima.1998.1745)
 - **[Foundational]** Biane, P. *Characters of symmetric groups and free cumulants.* In: Asymptotic Combinatorics with Applications to Mathematical Physics, Lecture Notes in Mathematics 1815, Springer, 2003, 185–200.
-- **[Foundational]** Kerov, S. V. *Asymptotic Representation Theory of the Symmetric Group and its Applications in Analysis.* Translations of Mathematical Monographs 219, American Mathematical Society, 2003.
-- **[Foundational]** Kerov, S. V. *Anisotropic Young diagrams and symmetric functions.* Functional Analysis and Its Applications 34 (2000), 41–51.
-- **[SOTA]** Féray, V. *Combinatorial interpretation and positivity of Kerov's character polynomials.* Journal of Algebraic Combinatorics 29 (2009), 473–507.
-- **[SOTA]** Dołęga, M., Féray, V., Śniady, P. *Explicit combinatorial interpretation of Kerov character polynomials as numbers of permutation factorizations.* Advances in Mathematics 225 (2010), 81–120.
-- **[SOTA]** Lassalle, M. *Jack polynomials and free cumulants.* Advances in Mathematics 222 (2009), 2227–2269.
-- **[SOTA / Recent]** Dołęga, M., Féray, V. *Gaussian fluctuations of Young diagrams and structure constants of Jack characters.* Duke Mathematical Journal 165 (2016), 1193–1282.
-- **[SOTA / Recent]** Dołęga, M., Féray, V. *Cumulants of Jack symmetric functions and the $b$-conjecture.* Transactions of the American Mathematical Society 369 (2017), 9015–9060.
-- **[SOTA / Recent]** Śniady, P. *Asymptotics of Jack characters.* Journal of Combinatorial Theory, Series A 166 (2019), 91–143.
+- **[Foundational]** Kerov, S. V. *Asymptotic Representation Theory of the Symmetric Group and its Applications in Analysis.* Translations of Mathematical Monographs 219, American Mathematical Society, 2003. [DOI](https://doi.org/10.1090/mmono/219)
+- **[Foundational]** Kerov, S. V. *Anisotropic Young diagrams and symmetric functions.* Functional Analysis and Its Applications 34 (2000), 41–51. [DOI](https://doi.org/10.1007/bf02467066)
+- **[SOTA]** Féray, V. *Combinatorial interpretation and positivity of Kerov's character polynomials.* Journal of Algebraic Combinatorics 29 (2009), 473–507. [DOI](https://doi.org/10.46298/dmtcs.3629)
+- **[SOTA]** Dołęga, M., Féray, V., Śniady, P. *Explicit combinatorial interpretation of Kerov character polynomials as numbers of permutation factorizations.* Advances in Mathematics 225 (2010), 81–120. [DOI](https://doi.org/10.1016/j.aim.2010.02.011)
+- **[SOTA]** Lassalle, M. *Jack polynomials and free cumulants.* Advances in Mathematics 222 (2009), 2227–2269. [DOI](https://doi.org/10.1016/j.aim.2009.07.007)
+- **[SOTA / Recent]** Dołęga, M., Féray, V. *Gaussian fluctuations of Young diagrams and structure constants of Jack characters.* Duke Mathematical Journal 165 (2016), 1193–1282. [DOI](https://doi.org/10.1215/00127094-3449566)
+- **[SOTA / Recent]** Dołęga, M., Féray, V. *Cumulants of Jack symmetric functions and the $b$-conjecture.* Transactions of the American Mathematical Society 369 (2017), 9015–9060. [DOI](https://doi.org/10.1090/tran/7191)
+- **[SOTA / Recent]** Śniady, P. *Asymptotics of Jack characters.* Journal of Combinatorial Theory, Series A 166 (2019), 91–143. [DOI](https://doi.org/10.1016/j.jcta.2019.02.020)
 - **[Related]** Goulden, I. P., Rattan, A. *An explicit form for Kerov's character polynomials: three operators approach.* Transactions of the American Mathematical Society 359 (2007), 3669–3685.
-- **[Related]** Rattan, A., Śniady, P. *Upper bound on the characters of the symmetric groups for balanced Young diagrams and a generalized Frobenius formula.* Advances in Mathematics 218 (2008), 673–695.
-- **[Survey]** Féray, V., Śniady, P. *Asymptotics of characters of symmetric groups related to Stanley character formula.* Annals of Mathematics 173 (2011), 887–906.
+- **[Related]** Rattan, A., Śniady, P. *Upper bound on the characters of the symmetric groups for balanced Young diagrams and a generalized Frobenius formula.* Advances in Mathematics 218 (2008), 673–695. [DOI](https://doi.org/10.1016/j.aim.2008.01.008)
+- **[Survey]** Féray, V., Śniady, P. *Asymptotics of characters of symmetric groups related to Stanley character formula.* Annals of Mathematics 173 (2011), 887–906. [DOI](https://doi.org/10.4007/annals.2011.173.2.6)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -85,7 +85,7 @@ Leading mathematicians suggest the following research pathways:
 
 - **[Foundational]** L. Euler. *Observationes circa biquadrata*. Novi Commentarii academiae scientiarum Petropolitanae, 1772.
 - **[SOTA / Recent]** N. D. Elkies. *On $A^4 + B^4 + C^4 = D^4$*. Mathematics of Computation, 51(184):825-835, 1988.
-- **[SOTA / Recent]** L. J. Lander and T. R. Parkin. *Counterexample to Euler's conjecture on sums of like powers*. Bulletin of the American Mathematical Society, 72(6):1079, 1966.
+- **[SOTA / Recent]** L. J. Lander and T. R. Parkin. *Counterexample to Euler's conjecture on sums of like powers*. Bulletin of the American Mathematical Society, 72(6):1079, 1966. [DOI](https://doi.org/10.1090/s0002-9904-1966-11654-3)
 - **[Survey]** R. K. Guy. *Unsolved Problems in Number Theory*. Springer, 3rd Edition, 2004.
 
 ## 10. Worked Example / Concrete Special Case

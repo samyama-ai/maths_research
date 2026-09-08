@@ -103,20 +103,20 @@ The sharpest formulation of the barrier: for a hyperbolic $M$ with torus boundar
 
 ## 9. Key References
 
-- **[Foundational]** P. Ozsváth, Z. Szabó. *Holomorphic disks and topological invariants for closed three-manifolds.* Annals of Mathematics 159 (2004), 1027–1158.
-- **[Foundational]** P. Ozsváth, Z. Szabó. *Holomorphic disks and genus bounds.* Geometry & Topology 8 (2004), 311–334.
-- **[Foundational]** S. Boyer, D. Rolfsen, B. Wiest. *Orderable 3-manifold groups.* Annales de l'Institut Fourier 55 (2005), 243–288.
-- **[Foundational / Conjecture]** S. Boyer, C. McA. Gordon, L. Watson. *On L-spaces and left-orderable fundamental groups.* Mathematische Annalen 356 (2013), 1213–1245.
-- **[Foundational]** Y. Eliashberg, W. Thurston. *Confoliations.* University Lecture Series 13, American Mathematical Society, 1998.
-- **[SOTA]** J. Hanselman, J. Rasmussen, S. D. Rasmussen, L. Watson. *L-spaces, taut foliations, and graph manifolds.* Compositio Mathematica 156 (2020), 604–612.
-- **[SOTA]** S. Boyer, A. Clay. *Foliations, orders, representations, L-spaces and graph manifolds.* Advances in Mathematics 310 (2017), 159–234.
-- **[SOTA]** J. Hanselman, J. Rasmussen, L. Watson. *Bordered Floer homology for manifolds with torus boundary via immersed curves.* arXiv:1604.03466.
-- **[SOTA]** J. Rasmussen, S. D. Rasmussen. *L-space intervals for graph manifolds and cables.* Compositio Mathematica 153 (2017), 1008–1049.
-- **[Computational]** N. Dunfield. *Floer homology, group orderability, and taut foliations of hyperbolic 3-manifolds.* Algebraic & Geometric Topology 20 (2020), 3001–3030.
-- **[Computational]** M. Culler, N. Dunfield. *Orderability and Dehn filling.* Geometry & Topology 22 (2018), 1405–1457.
-- **[Regularity]** J. Bowden. *Approximating $C^0$-foliations by contact structures.* Geometric and Functional Analysis 26 (2016), 1255–1296.
+- **[Foundational]** P. Ozsváth, Z. Szabó. *Holomorphic disks and topological invariants for closed three-manifolds.* Annals of Mathematics 159 (2004), 1027–1158. [DOI](https://doi.org/10.4007/annals.2004.159.1027)
+- **[Foundational]** P. Ozsváth, Z. Szabó. *Holomorphic disks and genus bounds.* Geometry & Topology 8 (2004), 311–334. [DOI](https://doi.org/10.2140/gt.2004.8.311)
+- **[Foundational]** S. Boyer, D. Rolfsen, B. Wiest. *Orderable 3-manifold groups.* Annales de l'Institut Fourier 55 (2005), 243–288. [DOI](https://doi.org/10.5802/aif.2098)
+- **[Foundational / Conjecture]** S. Boyer, C. McA. Gordon, L. Watson. *On L-spaces and left-orderable fundamental groups.* Mathematische Annalen 356 (2013), 1213–1245. [DOI](https://doi.org/10.1007/s00208-012-0852-7)
+- **[Foundational]** Y. Eliashberg, W. Thurston. *Confoliations.* University Lecture Series 13, American Mathematical Society, 1998. [DOI](https://doi.org/10.1090/ulect/013)
+- **[SOTA]** J. Hanselman, J. Rasmussen, S. D. Rasmussen, L. Watson. *L-spaces, taut foliations, and graph manifolds.* Compositio Mathematica 156 (2020), 604–612. [DOI](https://doi.org/10.1112/s0010437x19007814)
+- **[SOTA]** S. Boyer, A. Clay. *Foliations, orders, representations, L-spaces and graph manifolds.* Advances in Mathematics 310 (2017), 159–234. [DOI](https://doi.org/10.1016/j.aim.2017.01.026)
+- **[SOTA]** J. Hanselman, J. Rasmussen, L. Watson. *Bordered Floer homology for manifolds with torus boundary via immersed curves.* arXiv:1604.03466. [DOI](https://doi.org/10.1090/jams/1029)
+- **[SOTA]** J. Rasmussen, S. D. Rasmussen. *L-space intervals for graph manifolds and cables.* Compositio Mathematica 153 (2017), 1008–1049. [DOI](https://doi.org/10.1112/s0010437x16008319)
+- **[Computational]** N. Dunfield. *Floer homology, group orderability, and taut foliations of hyperbolic 3-manifolds.* Algebraic & Geometric Topology 20 (2020), 3001–3030. [DOI](https://doi.org/10.2140/gt.2020.24.2075)
+- **[Computational]** M. Culler, N. Dunfield. *Orderability and Dehn filling.* Geometry & Topology 22 (2018), 1405–1457. [DOI](https://doi.org/10.2140/gt.2018.22.1405)
+- **[Regularity]** J. Bowden. *Approximating $C^0$-foliations by contact structures.* Geometric and Functional Analysis 26 (2016), 1255–1296. [DOI](https://doi.org/10.1007/s00039-016-0387-2)
 - **[Regularity]** W. Kazez, R. Roberts. *$C^0$ approximations of foliations.* Geometry & Topology 21 (2017), 3601–3657.
-- **[Survey]** A. Juhász. *A survey of Heegaard Floer homology.* In *New Ideas in Low Dimensional Topology*, World Scientific, 2015, 237–296.
+- **[Survey]** A. Juhász. *A survey of Heegaard Floer homology.* In *New Ideas in Low Dimensional Topology*, World Scientific, 2015, 237–296. [DOI](https://doi.org/10.1142/9789814630627_0007)
 - **[Survey]** A. Clay, D. Rolfsen. *Ordered Groups and Topology.* Graduate Studies in Mathematics 176, American Mathematical Society, 2016.
 
 ## 10. Worked Example / Concrete Special Case

@@ -105,15 +105,15 @@ Open: the bare $2\times2$ statement. The precise missing step is a transcendence
 ## 9. Key References
 
 - **[Foundational]** Lang, S. *Introduction to Transcendental Numbers.* Addison-Wesley, 1966.
-- **[Foundational]** Ramachandra, K. *Contributions to the theory of transcendental numbers. I, II.* Acta Arithmetica **14** (1968), 65–72, 73–88.
-- **[Foundational]** Schneider, Th. *Einführung in die transzendenten Zahlen.* Springer-Verlag, 1957.
-- **[Foundational]** Alaoglu, L. and Erdős, P. *On highly composite and similar numbers.* Transactions of the American Mathematical Society **56** (1944), 448–469.
-- **[SOTA]** Waldschmidt, M. *Transcendance et exponentielles en plusieurs variables.* Inventiones Mathematicae **63** (1981), 97–127. (Five exponentials theorem.)
-- **[SOTA]** Roy, D. *Matrices whose coefficients are linear forms in logarithms.* Journal of Number Theory **41** (1992), 22–47.
-- **[SOTA]** Laurent, M. *Linear forms in two logarithms and interpolation determinants.* Acta Arithmetica **66** (1994), 181–199.
-- **[SOTA]** Diaz, G. *La conjecture des quatre exponentielles et les conjectures de D. Bertrand sur la fonction modulaire.* Journal de Théorie des Nombres de Bordeaux **9** (1997), 229–245.
+- **[Foundational]** Ramachandra, K. *Contributions to the theory of transcendental numbers. I, II.* Acta Arithmetica **14** (1968), 65–72, 73–88. [DOI](https://doi.org/10.4064/aa-14-1-73-88)
+- **[Foundational]** Schneider, Th. *Einführung in die transzendenten Zahlen.* Springer-Verlag, 1957. [DOI](https://doi.org/10.1007/978-3-642-94694-3)
+- **[Foundational]** Alaoglu, L. and Erdős, P. *On highly composite and similar numbers.* Transactions of the American Mathematical Society **56** (1944), 448–469. [DOI](https://doi.org/10.2307/1990319)
+- **[SOTA]** Waldschmidt, M. *Transcendance et exponentielles en plusieurs variables.* Inventiones Mathematicae **63** (1981), 97–127. (Five exponentials theorem.). [DOI](https://doi.org/10.1007/bf01389195)
+- **[SOTA]** Roy, D. *Matrices whose coefficients are linear forms in logarithms.* Journal of Number Theory **41** (1992), 22–47. [DOI](https://doi.org/10.1016/0022-314x(92)90081-y)
+- **[SOTA]** Laurent, M. *Linear forms in two logarithms and interpolation determinants.* Acta Arithmetica **66** (1994), 181–199. [DOI](https://doi.org/10.4064/aa-66-2-181-199)
+- **[SOTA]** Diaz, G. *La conjecture des quatre exponentielles et les conjectures de D. Bertrand sur la fonction modulaire.* Journal de Théorie des Nombres de Bordeaux **9** (1997), 229–245. [DOI](https://doi.org/10.5802/jtnb.198)
 - **[Survey]** Waldschmidt, M. *Diophantine Approximation on Linear Algebraic Groups: Transcendence Properties of the Exponential Function in Several Variables.* Grundlehren der mathematischen Wissenschaften 326, Springer, 2000.
-- **[Survey]** Waldschmidt, M. *Open Diophantine problems.* Moscow Mathematical Journal **4** (2004), no. 1, 245–305.
+- **[Survey]** Waldschmidt, M. *Open Diophantine problems.* Moscow Mathematical Journal **4** (2004), no. 1, 245–305. [DOI](https://doi.org/10.17323/1609-4514-2004-4-1-245-305)
 - **[Background]** Baker, A. *Transcendental Number Theory.* Cambridge University Press, 1975.
 - **[Background]** Nesterenko, Yu. V. *Modular functions and transcendence problems.* Comptes Rendus de l'Académie des Sciences Paris, Série I, **322** (1996), 909–914.
 

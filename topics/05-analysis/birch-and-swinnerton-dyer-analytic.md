@@ -102,16 +102,16 @@ plus $p$-parts of the leading-coefficient formula under ordinary/irreducibility 
 - **[Foundational]** V. A. Kolyvagin. *Finiteness of $E(\mathbb{Q})$ and $Ш(E,\mathbb{Q})$ for a subclass of Weil curves.* Izvestiya Akademii Nauk SSSR, Ser. Mat. 52 (1988), 522–540.
 - **[Foundational]** J. Coates and A. Wiles. *On the conjecture of Birch and Swinnerton-Dyer.* Inventiones Mathematicae 39 (1977), 223–251.
 - **[SOTA / Recent]** C. Skinner and E. Urban. *The Iwasawa main conjectures for $\mathrm{GL}_2$.* Inventiones Mathematicae 195 (2014), 1–277.
-- **[SOTA / Recent]** K. Rubin. *The "main conjectures" of Iwasawa theory for imaginary quadratic fields.* Inventiones Mathematicae 103 (1991), 25–68.
+- **[SOTA / Recent]** K. Rubin. *The "main conjectures" of Iwasawa theory for imaginary quadratic fields.* Inventiones Mathematicae 103 (1991), 25–68. [DOI](https://doi.org/10.1007/bf01239508)
 - **[SOTA / Recent]** K. Kato. *$p$-adic Hodge theory and values of zeta functions of modular forms.* Astérisque 295 (2004), 117–290.
 - **[SOTA / Recent]** M. Bhargava, C. Skinner and W. Zhang. *A majority of elliptic curves over $\mathbb{Q}$ satisfy the Birch and Swinnerton-Dyer conjecture.* arXiv:1407.1826, 2014.
 - **[SOTA / Recent]** W. Zhang. *Selmer groups and the indivisibility of Kolyvagin classes.* Cambridge Journal of Mathematics 2 (2014), 191–253.
-- **[SOTA / Recent]** G. Grigorov, A. Jorza, S. Patrikis, W. Stein and C. Tarniţă. *Computational verification of the Birch and Swinnerton-Dyer conjecture for individual elliptic curves.* Mathematics of Computation 78 (2009), 2397–2425.
+- **[SOTA / Recent]** G. Grigorov, A. Jorza, S. Patrikis, W. Stein and C. Tarniţă. *Computational verification of the Birch and Swinnerton-Dyer conjecture for individual elliptic curves.* Mathematics of Computation 78 (2009), 2397–2425. [DOI](https://doi.org/10.1090/s0025-5718-09-02253-4)
 - **[Survey]** A. Wiles. *The Birch and Swinnerton-Dyer conjecture.* In *The Millennium Prize Problems*, Clay Mathematics Institute / AMS, 2006.
 - **[Survey]** J. H. Silverman. *The Arithmetic of Elliptic Curves*, 2nd ed. Graduate Texts in Mathematics 106, Springer, 2009.
 - **[Survey]** J. E. Cremona. *Algorithms for Modular Elliptic Curves*, 2nd ed. Cambridge University Press, 1997.
-- **[Related]** J. B. Tunnell. *A classical Diophantine problem and modular forms of weight $3/2$.* Inventiones Mathematicae 72 (1983), 323–334.
-- **[Related]** C. Breuil, B. Conrad, F. Diamond and R. Taylor. *On the modularity of elliptic curves over $\mathbb{Q}$: wild 3-adic exercises.* Journal of the AMS 14 (2001), 843–939.
+- **[Related]** J. B. Tunnell. *A classical Diophantine problem and modular forms of weight $3/2$.* Inventiones Mathematicae 72 (1983), 323–334. [DOI](https://doi.org/10.1007/bf01389327)
+- **[Related]** C. Breuil, B. Conrad, F. Diamond and R. Taylor. *On the modularity of elliptic curves over $\mathbb{Q}$: wild 3-adic exercises.* Journal of the AMS 14 (2001), 843–939. [DOI](https://doi.org/10.1090/s0894-0347-01-00370-8)
 
 ## 10. Worked Example / Concrete Special Case
 

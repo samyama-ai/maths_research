@@ -98,17 +98,17 @@ Every proven case comes with a *preferred geometric decomposition* — into idea
 
 ## 9. Key References
 
-- **[Foundational]** V. G. Turaev, O. Y. Viro. *State sum invariants of $3$-manifolds and quantum $6j$-symbols.* Topology 31 (1992), 865–902.
-- **[Foundational]** J. W. Barrett, B. W. Westbury. *Invariants of piecewise-linear $3$-manifolds.* Transactions of the AMS 348 (1996), 3997–4022.
-- **[Foundational]** J. Roberts. *Skein theory and Turaev–Viro invariants.* Topology 34 (1995), 771–787.
-- **[Foundational]** R. Kashaev. *The hyperbolic volume of knots from quantum dilogarithm.* Letters in Mathematical Physics 39 (1997), 269–275.
-- **[Foundational]** H. Murakami, J. Murakami. *The colored Jones polynomials and the simplicial volume of a knot.* Acta Mathematica 186 (2001), 85–104.
-- **[SOTA]** Q. Chen, T. Yang. *Volume conjectures for the Reshetikhin–Turaev and the Turaev–Viro invariants.* Quantum Topology 9 (2018), 419–460.
-- **[SOTA]** R. Detcherry, E. Kalfagianni, T. Yang. *Turaev–Viro invariants, colored Jones polynomials and volume.* Quantum Topology 9 (2018), 775–813.
-- **[SOTA]** R. Detcherry, E. Kalfagianni. *Gromov norm and Turaev–Viro invariants of $3$-manifolds.* Annales Scientifiques de l'École Normale Supérieure 53 (2020), 1363–1391.
-- **[SOTA]** T. Ohtsuki. *On the asymptotic expansion of the quantum $SU(2)$ invariant at $q=\exp(4\pi\sqrt{-1}/N)$ for closed hyperbolic $3$-manifolds obtained by integral surgery along the figure-eight knot.* Algebraic & Geometric Topology 18 (2018), 4187–4274.
+- **[Foundational]** V. G. Turaev, O. Y. Viro. *State sum invariants of $3$-manifolds and quantum $6j$-symbols.* Topology 31 (1992), 865–902. [DOI](https://doi.org/10.1016/0040-9383(92)90015-a)
+- **[Foundational]** J. W. Barrett, B. W. Westbury. *Invariants of piecewise-linear $3$-manifolds.* Transactions of the AMS 348 (1996), 3997–4022. [DOI](https://doi.org/10.1090/s0002-9947-96-01660-1)
+- **[Foundational]** J. Roberts. *Skein theory and Turaev–Viro invariants.* Topology 34 (1995), 771–787. [DOI](https://doi.org/10.1016/0040-9383(94)00053-0)
+- **[Foundational]** R. Kashaev. *The hyperbolic volume of knots from quantum dilogarithm.* Letters in Mathematical Physics 39 (1997), 269–275. [DOI](https://doi.org/10.1023/a:1007364912784)
+- **[Foundational]** H. Murakami, J. Murakami. *The colored Jones polynomials and the simplicial volume of a knot.* Acta Mathematica 186 (2001), 85–104. [DOI](https://doi.org/10.1007/bf02392716)
+- **[SOTA]** Q. Chen, T. Yang. *Volume conjectures for the Reshetikhin–Turaev and the Turaev–Viro invariants.* Quantum Topology 9 (2018), 419–460. [DOI](https://doi.org/10.4171/qt/111)
+- **[SOTA]** R. Detcherry, E. Kalfagianni, T. Yang. *Turaev–Viro invariants, colored Jones polynomials and volume.* Quantum Topology 9 (2018), 775–813. [DOI](https://doi.org/10.4171/qt/120)
+- **[SOTA]** R. Detcherry, E. Kalfagianni. *Gromov norm and Turaev–Viro invariants of $3$-manifolds.* Annales Scientifiques de l'École Normale Supérieure 53 (2020), 1363–1391. [DOI](https://doi.org/10.24033/asens.2449)
+- **[SOTA]** T. Ohtsuki. *On the asymptotic expansion of the quantum $SU(2)$ invariant at $q=\exp(4\pi\sqrt{-1}/N)$ for closed hyperbolic $3$-manifolds obtained by integral surgery along the figure-eight knot.* Algebraic & Geometric Topology 18 (2018), 4187–4274. [DOI](https://doi.org/10.2140/agt.2018.18.4187)
 - **[SOTA]** G. Belletti, R. Detcherry, E. Kalfagianni, T. Yang. *Growth of Turaev–Viro invariants and cabling.* Mathematical Proceedings of the Cambridge Philosophical Society 170 (2021), 625–650.
-- **[SOTA]** G. Belletti. *The maximum volume of hyperbolic polyhedra.* Transactions of the AMS 374 (2021), 1125–1153.
+- **[SOTA]** G. Belletti. *The maximum volume of hyperbolic polyhedra.* Transactions of the AMS 374 (2021), 1125–1153. [DOI](https://doi.org/10.1090/tran/8215)
 - **[Survey]** H. Murakami. *An introduction to the volume conjecture.* In *Interactions between Hyperbolic Geometry, Quantum Topology and Number Theory*, Contemporary Mathematics 541, AMS, 2011, 1–40.
 - **[Survey]** T. Ohtsuki (ed.). *Problems on invariants of knots and $3$-manifolds.* Geometry & Topology Monographs 4, 2002.
 - **[Background]** L. Kauffman, S. Lins. *Temperley–Lieb Recoupling Theory and Invariants of $3$-Manifolds.* Annals of Mathematics Studies 134, Princeton University Press, 1994.

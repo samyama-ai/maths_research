@@ -4,36 +4,56 @@ Existence/uniqueness of solutions, regularity, Navier-Stokes smoothness, dispers
 
 ## Problems Index
 
+* 🔴 [Turbulent Cascade and Weak Solutions for the Alpha Models of Fluid Flow](./alpha-models-turbulence-limit.md) — Do regularised fluid models converge to Euler dissipative solutions
+* 🔴 [Analyticity Radius Lower Bounds for Solutions of the Muskat and SQG Equations](./analyticity-radius-interface-equations.md) — Quantitative analyticity persistence for fluid interface evolution
+* 🔴 [Rigidity of Ancient Solutions to the Mean Curvature Flow in Higher Codimension](./ancient-mean-curvature-flow-codimension.md) — Classifying eternal high codimension mean curvature flows
+* 🟡 [Rigidity of Ancient Solutions to the Ricci Flow in Higher Dimensions](./ancient-ricci-flow-classification.md) — Classify eternal backwards solutions of curvature flow
+* 🔴 [Global Well-posedness of the Two-Dimensional Kuramoto–Sivashinsky Equation with Anisotropic Viscosity](./anisotropic-kuramoto-sivashinsky-wellposedness.md) — Global smooth solutions for anisotropic two-dimensional flame front model
 * 🟠 [Batchelor Spectrum in Passive Scalar Turbulence](./batchelor-spectrum-turbulence.md) — Mathematically derive the scalar variance cascade in turbulent fluid mixing.
 * 🟡 [Benjamin-Bona-Mahony Long Time Asymptotics](./benjamin-bona-mahony-asymptotics.md) — Examines the dispersive tail and stabilization rates of long surface waves.
 * 🟢 [Benjamin–Ono Global Well-Posedness at Optimal Regularity](./benjamin-ono-global-well-posedness.md) — Prove internal fluid waves propagate forever without breaking down entirely.
 * 🔴 [Bingham Fluid Multi-Dimensional Regularity](./bingham-fluid-multi-dimensional-regularity.md) — Concerns the smoothness of velocity fields in visco plastic fluid models.
 * 🔴 [Boltzmann Equation Large Data](./boltzmann-equation-large-data.md) — Establish global existence of smooth solutions for gases far from equilibrium.
+* 🟡 [Global Solvability of the Boltzmann Equation Without Angular Cutoff for Soft Potentials](./boltzmann-soft-potentials-noncutoff.md) — Large data solutions for grazing collisions with soft interactions
 * 🔴 [Boussinesq Equations Regularity](./boussinesq-equations-regularity.md) — Prove global well posedness for stratified fluids lacking full dissipation.
 * 🟡 [Boussinesq Inviscid Limit](./boussinesq-inviscid-limit.md) — Prove that slightly viscous stratified flows converge to completely ideal models.
 * 🟡 [Boussinesq Stratification Limit](./boussinesq-stratification-limit.md) — Show how strong gravity forces atmospheric flows into purely horizontal layers.
 * 🟡 [Cahn–Hilliard Droplet Formation](./cahn-hilliard-droplet-formation.md) — Describe the mathematical sequence of phase separation into distinct pure domains.
 * 🟢 [Calabi Conjecture](./calabi-conjecture.md) — Prove the existence of canonical metrics on complex geometric manifolds.
 * 🟢 [Camassa–Holm Wave Breaking](./camassa-holm-wave-breaking.md) — Rigorously prove that shallow water waves steepen into vertical walls.
+* 🔴 [Global Existence for the Two-Dimensional Water Wave Equation with Surface Tension and Vorticity](./capillary-gravity-waves-long-time.md) — Lifespan of capillary gravity waves beyond quadratic time
+* 🔴 [Global Existence for the Two-Dimensional Water Wave Problem with Surface Tension and Vorticity](./capillary-water-waves-vorticity.md) — Long time solutions for capillary waves with rotational flow
+* 🔴 [Chapman-Enskog Expansion Convergence for Kinetic Equations](./chapman-enskog-expansion-convergence.md) — Whether hydrodynamic expansions converge beyond first order
+* 🟡 [Global Well-posedness of the Chemotaxis–Navier–Stokes System in Three Dimensions](./chemotaxis-navier-stokes-regularity.md) — Smooth solutions for bacteria swimming in fluid
 * 🟡 [Chern-Ricci Flow Singularities](./chern-ricci-flow-singularities.md) — Classify geometric bottlenecks in the evolution of non Kaehler complex manifolds.
+* 🟡 [Global Well-posedness of the Chern-Simons-Schrödinger Equation at Critical Regularity](./chern-simons-schrodinger-critical.md) — Threshold behavior for gauged planar Schrodinger dynamics
+* 🔴 [Blow-up for the Supercritical Complex Ginzburg-Landau Equation](./complex-ginzburg-landau-blowup.md) — Existence of finite-time singularities in supercritical dissipative regime
 * 🔴 [Compressible Navier-Stokes-Fourier Regularity](./compressible-navier-stokes-fourier-regularity.md) — Explores heat conducting viscous compressible fluids and their large data existence.
 * 🟡 [Global Well-Posedness of the Compressible Navier–Stokes Equations with Vacuum](./compressible-navier-stokes-vacuum.md) — Track the dynamic boundary of a gas expanding into empty space.
 * 🟡 [Constantin-Lax-Majda Equation Blow-Up](./constantin-lax-majda-blow-up.md) — Describes singularity formation in one-dimensional models of fluid vorticity equations.
 * 🟢 [Couette Flow Stability](./couette-flow-stability.md) — Prove sheared fluid flows stabilize despite high Reynolds number perturbations.
+* 🔴 [Regularity of Solutions to the Monge-Kantorovich Flow with Congestion](./crowd-motion-congestion-regularity.md) — Smoothness of congested transport and crowd motion densities
 * 🟡 [D'Alembert's Paradox](./d-alembert-paradox.md) — Explain the emergence of drag from purely inviscid fluid theory.
+* 🔴 [Global Attractors for the Damped Driven Nonlinear Schrödinger Equation](./damped-driven-nls-attractor.md) — Finite dimensionality of attractors for forced dispersive dynamics
+* 🟡 [De Giorgi Conjecture for the Allen–Cahn Equation in Dimensions Nine and Above](./de-giorgi-conjecture-allen-cahn.md) — Are bounded monotone entire solutions one-dimensional in high dimensions
 * 🟡 [Global Existence vs. Wave Breaking for the Degasperis–Procesi Equation](./degasperis-procesi-global-existence.md) — Establish criteria for discontinuous shock formation in nonlinear wave equations.
 * 🟢 [Global Solutions of the Derivative Nonlinear Schrödinger Equation](./derivative-nonlinear-schrodinger-global-solutions.md) — Determines global existence for magnetic wave envelopes without mass threshold limits.
 * 🟡 [Einstein-Euler Shock Formation](./einstein-euler-shock-formation.md) — Prove fluid shocks develop in the relativistic regime of general relativity.
 * 🔴 [Einstein-Vlasov System Cosmological Singularities](./einstein-vlasov-cosmological-singularities.md) — Investigates the initial big bang singularity structure for collisionless matter models.
 * 🔴 [Regularity of Elliptic Systems in Morrey Spaces](./elliptic-systems-morrey-regularity.md) — Determines whether weak solutions to certain nonlinear systems are uniformly continuous.
+* 🟡 [Uniqueness of Blow-up Profiles for the Energy-Critical Heat Equation](./energy-critical-heat-blowup-profiles.md) — Classification of type II singularities in semilinear heat flow
 * 🟡 [Enhanced Dissipation](./enhanced-dissipation.md) — Quantify how rapid mixing accelerates energy decay in viscous flows.
 * 🟡 [Ericksen-Leslie Equations for Nematic Liquid Crystals](./ericksen-leslie-liquid-crystals.md) — Characterize the development of orientation defects in flowing nematic liquid crystals.
 * 🟡 [Euler Anomalous Dissipation](./euler-anomalous-dissipation.md) — Prove ideal fluids can mysteriously lose energy without any explicit friction.
 * 🔴 [Euler Equations Global Regularity](./euler-equations-global-regularity.md) — Prove if ideal three dimensional fluids remain smooth forever.
+* 🟡 [Global Solutions of the Two-Fluid Euler–Maxwell System](./euler-maxwell-two-fluid-global.md) — Long time existence for coupled ion electron plasma equations
 * 🟡 [Euler-Poisson Shock Formation](./euler-poisson-shock-formation.md) — Prove that compressible plasmas inevitably develop abrupt discontinuities in finite time.
+* 🟡 [Sharp Decay Rates for Nonlinear Wave Equations on Extremal Black Hole Backgrounds](./extremal-black-hole-horizon-instability.md) — Aretakis instability effects on nonlinear waves at extremal horizons
 * 🟡 [Fisher KPP Wave Stability](./fisher-kpp-wave-stability.md) — Prove propagating biological population fronts remain stable under arbitrary small disruptions.
 * 🟡 [FitzHugh-Nagumo Spiral Waves](./fitzhugh-nagumo-spiral-waves.md) — Analyze the stability of rotating chemical waves in excitable nerve tissues.
 * 🟡 [Convergence to Equilibrium for the Fokker-Planck Equation](./fokker-planck-convergence.md) — Quantify the exact rate at which particle probabilities reach thermal equilibrium.
+* 🟡 [Sharp Well-posedness Threshold for the Cubic Fourth-Order Schrödinger Equation](./fourth-order-schrodinger-critical-wellposedness.md) — Determine minimal regularity for biharmonic nonlinear Schrodinger solutions
+* 🟡 [Global Regularity of the Fractional Burgers Equation at the Critical Exponent](./fractional-burgers-critical-regularity.md) — Behavior of dissipative Burgers at borderline fractional diffusion
 * 🟡 [Fractional Laplacian Regularity](./fractional-laplacian-regularity.md) — Classify the boundary behavior of non local anomalous diffusion processes.
 * 🔴 [G-Equation Turbulent Flame Speed](./g-equation-turbulent-flame-speed.md) — Determines the macroscopic propagation rate of wrinkled flames in turbulent flows.
 * 🟡 [Gelfand Problem Blow-Up Curve](./gelfand-problem-blow-up-curve.md) — Analyzes singular limits and bifurcation diagrams of solid fuel ignition equations.

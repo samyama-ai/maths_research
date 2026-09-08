@@ -99,18 +99,18 @@ The precise missing step: **for a $d$-regular $\mathbf{w}$ with $d\neq 1,h$, sho
 ## 9. Key References
 
 - **[Foundational]** M. Broué, J. Michel. *Blocs et séries de Lusztig dans les groupes réductifs finis.* J. reine angew. Math. **395** (1989), 56–67.
-- **[Foundational]** M. Broué, J. Michel. *Sur certains éléments réguliers des groupes de Weyl et les variétés de Deligne–Lusztig associées.* In: Finite Reductive Groups: Related Structures and Representations (M. Cabanes, ed.), Progress in Math. 141, Birkhäuser, 1997, 73–139.
-- **[Foundational]** P. Deligne, G. Lusztig. *Representations of reductive groups over finite fields.* Ann. of Math. (2) **103** (1976), 103–161.
-- **[Foundational]** G. Lusztig. *Coxeter orbits and eigenspaces of Frobenius.* Invent. Math. **38** (1976/77), 101–159.
+- **[Foundational]** M. Broué, J. Michel. *Sur certains éléments réguliers des groupes de Weyl et les variétés de Deligne–Lusztig associées.* In: Finite Reductive Groups: Related Structures and Representations (M. Cabanes, ed.), Progress in Math. 141, Birkhäuser, 1997, 73–139. [DOI](https://doi.org/10.1007/978-1-4612-4124-9_4)
+- **[Foundational]** P. Deligne, G. Lusztig. *Representations of reductive groups over finite fields.* Ann. of Math. (2) **103** (1976), 103–161. [DOI](https://doi.org/10.2307/1971021)
+- **[Foundational]** G. Lusztig. *Coxeter orbits and eigenspaces of Frobenius.* Invent. Math. **38** (1976/77), 101–159. [DOI](https://doi.org/10.1007/bf01408569)
 - **[Foundational]** M. Broué, G. Malle, J. Michel. *Generic blocks of finite reductive groups.* Astérisque **212** (1993), 7–92.
-- **[Foundational]** M. Broué, G. Malle, R. Rouquier. *Complex reflection groups, braid groups, Hecke algebras.* J. reine angew. Math. **500** (1998), 127–190.
-- **[SOTA]** F. Digne, J. Michel, R. Rouquier. *Cohomologie des variétés de Deligne–Lusztig.* Adv. Math. **209** (2007), 749–822.
-- **[SOTA]** F. Digne, J. Michel. *Parabolic Deligne–Lusztig varieties.* Adv. Math. **257** (2014), 136–218.
+- **[Foundational]** M. Broué, G. Malle, R. Rouquier. *Complex reflection groups, braid groups, Hecke algebras.* J. reine angew. Math. **500** (1998), 127–190. [DOI](https://doi.org/10.1515/crll.1998.064)
+- **[SOTA]** F. Digne, J. Michel, R. Rouquier. *Cohomologie des variétés de Deligne–Lusztig.* Adv. Math. **209** (2007), 749–822. [DOI](https://doi.org/10.1016/j.aim.2006.06.001)
+- **[SOTA]** F. Digne, J. Michel. *Parabolic Deligne–Lusztig varieties.* Adv. Math. **257** (2014), 136–218. [DOI](https://doi.org/10.1016/j.aim.2014.02.023)
 - **[SOTA]** C. Bonnafé, J.-F. Dat, R. Rouquier. *Derived categories and Deligne–Lusztig varieties II.* Ann. of Math. (2) **185** (2017), 609–670.
-- **[SOTA]** C. Bonnafé, R. Rouquier. *Coxeter orbits and modular representations.* Nagoya Math. J. **183** (2006), 1–34.
-- **[SOTA]** O. Dudas. *Coxeter orbits and Brauer trees.* Adv. Math. **229** (2012), 3398–3435.
-- **[SOTA]** D. Craven, R. Rouquier. *Perverse equivalences and Broué's conjecture.* Adv. Math. **248** (2013), 1–58.
-- **[SOTA]** D. Bessis. *Finite complex reflection arrangements are $K(\pi,1)$.* Ann. of Math. (2) **181** (2015), 809–904.
+- **[SOTA]** C. Bonnafé, R. Rouquier. *Coxeter orbits and modular representations.* Nagoya Math. J. **183** (2006), 1–34. [DOI](https://doi.org/10.1017/s0027763000009259)
+- **[SOTA]** O. Dudas. *Coxeter orbits and Brauer trees.* Adv. Math. **229** (2012), 3398–3435. [DOI](https://doi.org/10.1016/j.aim.2012.02.011)
+- **[SOTA]** D. Craven, R. Rouquier. *Perverse equivalences and Broué's conjecture.* Adv. Math. **248** (2013), 1–58. [DOI](https://doi.org/10.1016/j.aim.2013.07.010)
+- **[SOTA]** D. Bessis. *Finite complex reflection arrangements are $K(\pi,1)$.* Ann. of Math. (2) **181** (2015), 809–904. [DOI](https://doi.org/10.4007/annals.2015.181.3.1)
 - **[Survey]** M. Cabanes, M. Enguehard. *Representation Theory of Finite Reductive Groups.* Cambridge Univ. Press, New Math. Monographs 1, 2004.
 - **[Survey]** F. Digne, J. Michel. *Representations of Finite Groups of Lie Type.* 2nd ed., LMS Student Texts 95, Cambridge Univ. Press, 2020.
 - **[Survey]** M. Broué, G. Malle, J. Michel. *Split spetses for primitive reflection groups.* Astérisque **359** (2014).

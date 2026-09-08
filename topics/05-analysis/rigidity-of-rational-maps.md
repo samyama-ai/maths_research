@@ -108,24 +108,24 @@ Concretely, one needs a Lebesgue density argument: at a density point $z_0$ of t
 
 ## 9. Key References
 
-- **[Foundational]** D. Sullivan. *Quasiconformal homeomorphisms and dynamics I: Solution of the Fatou–Julia problem on wandering domains.* Annals of Mathematics 122 (1985), 401–418.
+- **[Foundational]** D. Sullivan. *Quasiconformal homeomorphisms and dynamics I: Solution of the Fatou–Julia problem on wandering domains.* Annals of Mathematics 122 (1985), 401–418. [DOI](https://doi.org/10.2307/1971308)
 - **[Foundational]** R. Mañé, P. Sad, D. Sullivan. *On the dynamics of rational maps.* Annales scientifiques de l'ÉNS 16 (1983), 193–217.
-- **[Foundational]** A. Douady, J. H. Hubbard. *A proof of Thurston's topological characterization of rational functions.* Acta Mathematica 171 (1993), 263–297.
+- **[Foundational]** A. Douady, J. H. Hubbard. *A proof of Thurston's topological characterization of rational functions.* Acta Mathematica 171 (1993), 263–297. [DOI](https://doi.org/10.1007/bf02392534)
 - **[Foundational]** C. T. McMullen. *Complex Dynamics and Renormalization.* Annals of Mathematics Studies 135, Princeton University Press, 1994.
 - **[Foundational]** C. T. McMullen. *Renormalization and 3-Manifolds which Fiber over the Circle.* Annals of Mathematics Studies 142, Princeton University Press, 1996.
-- **[Foundational]** C. T. McMullen, D. Sullivan. *Quasiconformal homeomorphisms and dynamics III: The Teichmüller space of a holomorphic dynamical system.* Advances in Mathematics 135 (1998), 351–395.
-- **[SOTA]** M. Lyubich. *Dynamics of quadratic polynomials I–II.* Acta Mathematica 178 (1997), 185–297.
-- **[SOTA]** J. Graczyk, G. Świątek. *Generic hyperbolicity in the logistic family.* Annals of Mathematics 146 (1997), 1–52.
-- **[SOTA]** O. Kozlovski, W. Shen, S. van Strien. *Density of hyperbolicity in dimension one.* Annals of Mathematics 166 (2007), 145–182.
-- **[SOTA]** A. Avila, J. Kahn, M. Lyubich, W. Shen. *Combinatorial rigidity for unicritical polynomials.* Annals of Mathematics 170 (2009), 783–797.
-- **[SOTA]** J. Kahn, M. Lyubich. *Local connectivity of Julia sets for unicritical polynomials.* Annals of Mathematics 170 (2009), 413–426.
-- **[SOTA]** X. Buff, A. Chéritat. *Quadratic Julia sets with positive area.* Annals of Mathematics 176 (2012), 673–746.
-- **[SOTA]** A. Avila, M. Lyubich. *Lebesgue measure of Feigenbaum Julia sets.* Annals of Mathematics 195 (2022), 1–88.
-- **[Related]** A. Zdunik. *Parabolic orbifolds and the dimension of the maximal measure for rational maps.* Inventiones Mathematicae 99 (1990), 627–649.
-- **[Related]** M. Baker, L. DeMarco. *Preperiodic points and unlikely intersections.* Duke Mathematical Journal 159 (2011), 1–29.
+- **[Foundational]** C. T. McMullen, D. Sullivan. *Quasiconformal homeomorphisms and dynamics III: The Teichmüller space of a holomorphic dynamical system.* Advances in Mathematics 135 (1998), 351–395. [DOI](https://doi.org/10.1006/aima.1998.1726)
+- **[SOTA]** M. Lyubich. *Dynamics of quadratic polynomials I–II.* Acta Mathematica 178 (1997), 185–297. [DOI](https://doi.org/10.1007/bf02392694)
+- **[SOTA]** J. Graczyk, G. Świątek. *Generic hyperbolicity in the logistic family.* Annals of Mathematics 146 (1997), 1–52. [DOI](https://doi.org/10.2307/2951831)
+- **[SOTA]** O. Kozlovski, W. Shen, S. van Strien. *Density of hyperbolicity in dimension one.* Annals of Mathematics 166 (2007), 145–182. [DOI](https://doi.org/10.4007/annals.2007.166.145)
+- **[SOTA]** A. Avila, J. Kahn, M. Lyubich, W. Shen. *Combinatorial rigidity for unicritical polynomials.* Annals of Mathematics 170 (2009), 783–797. [DOI](https://doi.org/10.4007/annals.2009.170.783)
+- **[SOTA]** J. Kahn, M. Lyubich. *Local connectivity of Julia sets for unicritical polynomials.* Annals of Mathematics 170 (2009), 413–426. [DOI](https://doi.org/10.4007/annals.2009.170.413)
+- **[SOTA]** X. Buff, A. Chéritat. *Quadratic Julia sets with positive area.* Annals of Mathematics 176 (2012), 673–746. [DOI](https://doi.org/10.4007/annals.2012.176.2.1)
+- **[SOTA]** A. Avila, M. Lyubich. *Lebesgue measure of Feigenbaum Julia sets.* Annals of Mathematics 195 (2022), 1–88. [DOI](https://doi.org/10.4007/annals.2022.195.1.1)
+- **[Related]** A. Zdunik. *Parabolic orbifolds and the dimension of the maximal measure for rational maps.* Inventiones Mathematicae 99 (1990), 627–649. [DOI](https://doi.org/10.1007/bf01234434)
+- **[Related]** M. Baker, L. DeMarco. *Preperiodic points and unlikely intersections.* Duke Mathematical Journal 159 (2011), 1–29. [DOI](https://doi.org/10.1215/00127094-1384773)
 - **[Survey]** J. Milnor. *Dynamics in One Complex Variable*, 3rd ed. Annals of Mathematics Studies 160, Princeton University Press, 2006.
 - **[Survey]** C. T. McMullen. *Frontiers in complex dynamics.* Bulletin of the AMS 31 (1994), 155–172.
-- **[Survey]** J. Milnor. *On Lattès maps.* In *Dynamics on the Riemann Sphere*, European Mathematical Society, 2006, 9–43.
+- **[Survey]** J. Milnor. *On Lattès maps.* In *Dynamics on the Riemann Sphere*, European Mathematical Society, 2006, 9–43. [DOI](https://doi.org/10.4171/011-1/1)
 
 ## 10. Worked Example / Concrete Special Case
 

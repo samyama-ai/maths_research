@@ -113,21 +113,21 @@ Three precise gaps:
 ## 9. Key References
 
 - **[Foundational]** A. D. Alexandrov. *Uniqueness theorems for surfaces in the large, V.* Vestnik Leningrad Univ. **13** (1958), 5–8; English transl. Amer. Math. Soc. Transl. (2) **21** (1962), 412–416.
-- **[Foundational]** E. Heintze, H. Karcher. *A general comparison theorem with applications to volume estimates for submanifolds.* Ann. Sci. École Norm. Sup. (4) **11** (1978), 451–470.
+- **[Foundational]** E. Heintze, H. Karcher. *A general comparison theorem with applications to volume estimates for submanifolds.* Ann. Sci. École Norm. Sup. (4) **11** (1978), 451–470. [DOI](https://doi.org/10.24033/asens.1354)
 - **[Foundational]** R. C. Reilly. *Applications of the Hessian operator in a Riemannian manifold.* Indiana Univ. Math. J. **26** (1977), 459–472.
-- **[Foundational]** A. Ros. *Compact hypersurfaces with constant higher order mean curvatures.* Rev. Mat. Iberoamericana **3** (1987), 447–453.
-- **[Foundational]** H. C. Wente. *Counterexample to a conjecture of H. Hopf.* Pacific J. Math. **121** (1986), 193–243.
-- **[Foundational]** W.-Y. Hsiang. *Generalized rotational hypersurfaces of constant mean curvature in the Euclidean spaces, I.* J. Differential Geom. **17** (1982), 337–356.
-- **[Foundational]** J. Serrin. *A symmetry problem in potential theory.* Arch. Rational Mech. Anal. **43** (1971), 304–318.
-- **[SOTA]** S. Brendle. *Constant mean curvature surfaces in warped product manifolds.* Publ. Math. IHÉS **117** (2013), 247–269.
-- **[SOTA]** G. Ciraolo, L. Vezzoni. *A sharp quantitative version of Alexandrov's theorem via the method of moving planes.* J. Eur. Math. Soc. **20** (2018), 261–299.
-- **[SOTA]** G. Ciraolo, F. Maggi. *On the shape of compact hypersurfaces with almost-constant mean curvature.* Comm. Pure Appl. Math. **70** (2017), 665–716.
+- **[Foundational]** A. Ros. *Compact hypersurfaces with constant higher order mean curvatures.* Rev. Mat. Iberoamericana **3** (1987), 447–453. [DOI](https://doi.org/10.4171/rmi/58)
+- **[Foundational]** H. C. Wente. *Counterexample to a conjecture of H. Hopf.* Pacific J. Math. **121** (1986), 193–243. [DOI](https://doi.org/10.2140/pjm.1986.121.193)
+- **[Foundational]** W.-Y. Hsiang. *Generalized rotational hypersurfaces of constant mean curvature in the Euclidean spaces, I.* J. Differential Geom. **17** (1982), 337–356. [DOI](https://doi.org/10.4310/jdg/1214436924)
+- **[Foundational]** J. Serrin. *A symmetry problem in potential theory.* Arch. Rational Mech. Anal. **43** (1971), 304–318. [DOI](https://doi.org/10.1007/bf00250468)
+- **[SOTA]** S. Brendle. *Constant mean curvature surfaces in warped product manifolds.* Publ. Math. IHÉS **117** (2013), 247–269. [DOI](https://doi.org/10.1007/s10240-012-0047-5)
+- **[SOTA]** G. Ciraolo, L. Vezzoni. *A sharp quantitative version of Alexandrov's theorem via the method of moving planes.* J. Eur. Math. Soc. **20** (2018), 261–299. [DOI](https://doi.org/10.4171/jems/766)
+- **[SOTA]** G. Ciraolo, F. Maggi. *On the shape of compact hypersurfaces with almost-constant mean curvature.* Comm. Pure Appl. Math. **70** (2017), 665–716. [DOI](https://doi.org/10.1002/cpa.21683)
 - **[SOTA]** M. G. Delgadino, F. Maggi. *Alexandrov's theorem revisited.* Analysis & PDE **12** (2019), 1613–1642.
-- **[SOTA]** R. Magnanini, G. Poggesi. *On the stability for Alexandrov's Soap Bubble theorem.* J. Anal. Math. **139** (2019), 179–205.
-- **[SOTA]** R. Magnanini, G. Poggesi. *Nearly optimal stability for Serrin's problem and the soap bubble theorem.* Calc. Var. Partial Differential Equations **59** (2020), art. 35.
-- **[SOTA]** A. De Rosa, S. Kolasiński, M. Santilli. *Uniqueness of critical points of the anisotropic isoperimetric problem for finite perimeter sets.* Arch. Ration. Mech. Anal. **238** (2020), 1157–1198.
+- **[SOTA]** R. Magnanini, G. Poggesi. *On the stability for Alexandrov's Soap Bubble theorem.* J. Anal. Math. **139** (2019), 179–205. [DOI](https://doi.org/10.1007/s11854-019-0058-y)
+- **[SOTA]** R. Magnanini, G. Poggesi. *Nearly optimal stability for Serrin's problem and the soap bubble theorem.* Calc. Var. Partial Differential Equations **59** (2020), art. 35. [DOI](https://doi.org/10.1007/s00526-019-1689-7)
+- **[SOTA]** A. De Rosa, S. Kolasiński, M. Santilli. *Uniqueness of critical points of the anisotropic isoperimetric problem for finite perimeter sets.* Arch. Ration. Mech. Anal. **238** (2020), 1157–1198. [DOI](https://doi.org/10.1007/s00205-020-01562-y)
 - **[SOTA]** X. Cabré, M. M. Fall, J. Solà-Morales, T. Weth. *Curves and surfaces with constant nonlocal mean curvature: meeting Alexandrov and Delaunay.* J. Reine Angew. Math. **745** (2018), 253–280.
-- **[SOTA]** G. Wang, C. Xia. *Uniqueness of stable capillary hypersurfaces in a ball.* Math. Ann. **374** (2019), 1845–1882.
+- **[SOTA]** G. Wang, C. Xia. *Uniqueness of stable capillary hypersurfaces in a ball.* Math. Ann. **374** (2019), 1845–1882. [DOI](https://doi.org/10.1007/s00208-019-01845-0)
 - **[Survey]** R. Magnanini. *Alexandrov, Serrin, Weinberger, Reilly: symmetry and stability by integral identities.* Bruno Pini Math. Anal. Semin. **8** (2017), 121–141.
 - **[Survey]** S. Montiel, A. Ros. *Compact hypersurfaces: the Alexandrov theorem for higher order mean curvatures.* In: Differential Geometry (Pitman Monographs 52), Longman, 1991, 279–296.
 

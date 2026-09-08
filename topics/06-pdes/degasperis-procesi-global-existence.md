@@ -111,20 +111,20 @@ The gap is the *unordered sign-changing* class: $y_0$ with two or more sign alte
 ## 9. Key References
 
 - **[Foundational]** A. Degasperis, M. Procesi. *Asymptotic Integrability.* In: Symmetry and Perturbation Theory (A. Degasperis, G. Gaeta, eds.), World Scientific, 1999, pp. 23–37.
-- **[Foundational]** A. Degasperis, D. D. Holm, A. N. W. Hone. *A New Integrable Equation with Peakon Solutions.* Theoretical and Mathematical Physics, 133 (2002), 1463–1474.
-- **[Foundational]** Z. Yin. *On the Cauchy Problem for an Integrable Equation with Peakon Solutions.* Illinois Journal of Mathematics, 47 (2003), 649–666.
-- **[SOTA]** Y. Liu, Z. Yin. *Global Existence and Blow-up Phenomena for the Degasperis–Procesi Equation.* Communications in Mathematical Physics, 267 (2006), 801–820.
-- **[SOTA]** J. Escher, Y. Liu, Z. Yin. *Global Weak Solutions and Blow-up Structure for the Degasperis–Procesi Equation.* Journal of Functional Analysis, 241 (2006), 457–485.
+- **[Foundational]** A. Degasperis, D. D. Holm, A. N. W. Hone. *A New Integrable Equation with Peakon Solutions.* Theoretical and Mathematical Physics, 133 (2002), 1463–1474. [DOI](https://doi.org/10.1023/a:1021186408422)
+- **[Foundational]** Z. Yin. *On the Cauchy Problem for an Integrable Equation with Peakon Solutions.* Illinois Journal of Mathematics, 47 (2003), 649–666. [DOI](https://doi.org/10.1215/ijm/1258138186)
+- **[SOTA]** Y. Liu, Z. Yin. *Global Existence and Blow-up Phenomena for the Degasperis–Procesi Equation.* Communications in Mathematical Physics, 267 (2006), 801–820. [DOI](https://doi.org/10.1007/s00220-006-0082-5)
+- **[SOTA]** J. Escher, Y. Liu, Z. Yin. *Global Weak Solutions and Blow-up Structure for the Degasperis–Procesi Equation.* Journal of Functional Analysis, 241 (2006), 457–485. [DOI](https://doi.org/10.1016/j.jfa.2006.03.022)
 - **[SOTA]** G. M. Coclite, K. H. Karlsen. *On the Well-Posedness of the Degasperis–Procesi Equation.* Journal of Functional Analysis, 233 (2006), 60–91.
-- **[SOTA]** H. Lundmark. *Formation and Dynamics of Shock Waves in the Degasperis–Procesi Equation.* Journal of Nonlinear Science, 17 (2007), 169–198.
-- **[SOTA]** H. Lundmark, J. Szmigielski. *Multi-peakon Solutions of the Degasperis–Procesi Equation.* Inverse Problems, 19 (2003), 1241–1245.
-- **[SOTA]** Z. Lin, Y. Liu. *Stability of Peakons for the Degasperis–Procesi Equation.* Communications on Pure and Applied Mathematics, 62 (2009), 125–146.
-- **[SOTA]** Y. Guo, X. Liu, L. Molinet, Z. Yin. *Ill-posedness of the Camassa–Holm and Related Equations in the Critical Space.* Journal of Differential Equations, 266 (2019), 1698–1707.
-- **[Related]** J. Escher, Z. Yin. *Well-posedness, Blow-up Phenomena, and Global Solutions for the b-equation.* Journal für die reine und angewandte Mathematik, 624 (2008), 51–80.
+- **[SOTA]** H. Lundmark. *Formation and Dynamics of Shock Waves in the Degasperis–Procesi Equation.* Journal of Nonlinear Science, 17 (2007), 169–198. [DOI](https://doi.org/10.1007/s00332-006-0803-3)
+- **[SOTA]** H. Lundmark, J. Szmigielski. *Multi-peakon Solutions of the Degasperis–Procesi Equation.* Inverse Problems, 19 (2003), 1241–1245. [DOI](https://doi.org/10.1088/0266-5611/19/6/001)
+- **[SOTA]** Z. Lin, Y. Liu. *Stability of Peakons for the Degasperis–Procesi Equation.* Communications on Pure and Applied Mathematics, 62 (2009), 125–146. [DOI](https://doi.org/10.1002/cpa.20239)
+- **[SOTA]** Y. Guo, X. Liu, L. Molinet, Z. Yin. *Ill-posedness of the Camassa–Holm and Related Equations in the Critical Space.* Journal of Differential Equations, 266 (2019), 1698–1707. [DOI](https://doi.org/10.1016/j.jde.2018.08.013)
+- **[Related]** J. Escher, Z. Yin. *Well-posedness, Blow-up Phenomena, and Global Solutions for the b-equation.* Journal für die reine und angewandte Mathematik, 624 (2008), 51–80. [DOI](https://doi.org/10.1515/crelle.2008.080)
 - **[Related]** Z. Jiang, L. Ni, Y. Zhou. *Wave Breaking of the Camassa–Holm Equation.* Journal of Nonlinear Science, 22 (2012), 235–245. (Proof of McKean's criterion — the CH template for P1.)
-- **[Related]** D. Henry. *Infinite Propagation Speed for the Degasperis–Procesi Equation.* Journal of Mathematical Analysis and Applications, 311 (2005), 755–759.
-- **[Survey]** A. Constantin, D. Lannes. *The Hydrodynamical Relevance of the Camassa–Holm and Degasperis–Procesi Equations.* Archive for Rational Mechanics and Analysis, 192 (2009), 165–186.
-- **[Survey]** A. Constantin. *Nonlinear Water Waves with Applications to Wave-Current Interactions and Tsunamis.* CBMS-NSF Regional Conference Series in Applied Mathematics 81, SIAM, 2011.
+- **[Related]** D. Henry. *Infinite Propagation Speed for the Degasperis–Procesi Equation.* Journal of Mathematical Analysis and Applications, 311 (2005), 755–759. [DOI](https://doi.org/10.1016/j.jmaa.2005.03.001)
+- **[Survey]** A. Constantin, D. Lannes. *The Hydrodynamical Relevance of the Camassa–Holm and Degasperis–Procesi Equations.* Archive for Rational Mechanics and Analysis, 192 (2009), 165–186. [DOI](https://doi.org/10.1007/s00205-008-0128-2)
+- **[Survey]** A. Constantin. *Nonlinear Water Waves with Applications to Wave-Current Interactions and Tsunamis.* CBMS-NSF Regional Conference Series in Applied Mathematics 81, SIAM, 2011. [DOI](https://doi.org/10.1137/1.9781611971873)
 
 ## 10. Worked Example / Concrete Special Case
 

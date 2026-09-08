@@ -92,10 +92,10 @@ Leading mathematicians, including Larry Guth and Hong Wang, have articulated sev
 
 ## 9. Key References
 
-- **[Foundational]** Falconer, K. J. *On the Hausdorff dimensions of distance sets*. Mathematika 32.2, 1985.
-- **[Foundational]** Mattila, P. *Spherical averages of Fourier transforms of measures with finite energy; dimension of intersections and distance sets*. Mathematika 34.2, 1987.
-- **[SOTA / Recent]** Guth, L., Iosevich, A., Ou, Y., Wang, H. *On Falconer's distance set problem in the plane*. Inventiones mathematicae 219.3, 2020.
-- **[SOTA / Recent]** Du, X., Guth, L., Ou, Y., Wang, H., Wilson, B., Zhang, R. *Weighted restriction estimates and application to Falconer distance set problem*. American Journal of Mathematics 143.1, 2021.
+- **[Foundational]** Falconer, K. J. *On the Hausdorff dimensions of distance sets*. Mathematika 32.2, 1985. [DOI](https://doi.org/10.1112/s0025579300010998)
+- **[Foundational]** Mattila, P. *Spherical averages of Fourier transforms of measures with finite energy; dimension of intersections and distance sets*. Mathematika 34.2, 1987. [DOI](https://doi.org/10.1112/s0025579300013462)
+- **[SOTA / Recent]** Guth, L., Iosevich, A., Ou, Y., Wang, H. *On Falconer's distance set problem in the plane*. Inventiones mathematicae 219.3, 2020. [DOI](https://doi.org/10.1007/s00222-019-00917-x)
+- **[SOTA / Recent]** Du, X., Guth, L., Ou, Y., Wang, H., Wilson, B., Zhang, R. *Weighted restriction estimates and application to Falconer distance set problem*. American Journal of Mathematics 143.1, 2021. [DOI](https://doi.org/10.1353/ajm.2021.0005)
 - **[Survey]** Mattila, P. *Fourier Analysis and Hausdorff Dimension*. Cambridge University Studies in Advanced Mathematics, Cambridge University Press, 2015.
 
 ## 10. Worked Example / Concrete Special Case

@@ -81,10 +81,10 @@ Leading mathematicians suggest the following pathways:
 
 ## 9. Key References
 
-- **[Foundational]** Goldston, D. A., Pintz, J., & Yıldırım, C. Y. *Primes in tuples I*. Annals of Mathematics, 170(2), 2009.
+- **[Foundational]** Goldston, D. A., Pintz, J., & Yıldırım, C. Y. *Primes in tuples I*. Annals of Mathematics, 170(2), 2009. [DOI](https://doi.org/10.4007/annals.2009.170.819)
 - **[SOTA / Recent]** Zhang, Yitang. *Bounded gaps between primes*. Annals of Mathematics, 179(3), 1121-1174, 2014.
-- **[SOTA / Recent]** Maynard, James. *Small gaps between primes*. Annals of Mathematics, 181(1), 383-413, 2015.
-- **[Survey]** Polymath, D. H. J. *Variants of the Selberg sieve, and bounded intervals containing many primes*. Research in the Mathematical Sciences, 1(1), 12, 2014.
+- **[SOTA / Recent]** Maynard, James. *Small gaps between primes*. Annals of Mathematics, 181(1), 383-413, 2015. [DOI](https://doi.org/10.4007/annals.2015.181.1.7)
+- **[Survey]** Polymath, D. H. J. *Variants of the Selberg sieve, and bounded intervals containing many primes*. Research in the Mathematical Sciences, 1(1), 12, 2014. [DOI](https://doi.org/10.1186/s40687-014-0012-7)
 
 ## 10. Worked Example / Concrete Special Case
 

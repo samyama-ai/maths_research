@@ -108,14 +108,14 @@ The remaining gap is dimensional. In $\mathbb{R}^n$, $n \ge 3$, the natural $\va
 
 ## 9. Key References
 
-- **[Foundational]** L. Carleson. *On the distortion of sets on a Jordan curve under conformal mapping.* Duke Mathematical Journal, 40 (1973), 547–559.
-- **[Foundational]** C. J. Bishop. *Some questions concerning harmonic measure.* In *Partial Differential Equations with Minimal Smoothness and Applications*, IMA Volumes in Mathematics and its Applications 42, Springer, 1992, 89–97.
-- **[Foundational]** P. W. Jones. *Rectifiable sets and the traveling salesman problem.* Inventiones Mathematicae, 102 (1990), 1–15.
-- **[Foundational]** C. J. Bishop, P. W. Jones. *Harmonic measure and arclength.* Annals of Mathematics, 132 (1990), 511–547.
-- **[SOTA]** B. Jaye, X. Tolsa, M. Villa. *A proof of Carleson's $\varepsilon^2$-conjecture.* Annals of Mathematics, 194 (2021), 97–161.
-- **[SOTA]** J. Azzam, M. Mourgoglou, X. Tolsa. *Mutual absolute continuity of interior and exterior harmonic measure implies rectifiability.* Communications on Pure and Applied Mathematics, 70 (2017), 2121–2163.
+- **[Foundational]** L. Carleson. *On the distortion of sets on a Jordan curve under conformal mapping.* Duke Mathematical Journal, 40 (1973), 547–559. [DOI](https://doi.org/10.1215/s0012-7094-73-04049-0)
+- **[Foundational]** C. J. Bishop. *Some questions concerning harmonic measure.* In *Partial Differential Equations with Minimal Smoothness and Applications*, IMA Volumes in Mathematics and its Applications 42, Springer, 1992, 89–97. [DOI](https://doi.org/10.1007/978-1-4612-2898-1_7)
+- **[Foundational]** P. W. Jones. *Rectifiable sets and the traveling salesman problem.* Inventiones Mathematicae, 102 (1990), 1–15. [DOI](https://doi.org/10.1007/bf01233418)
+- **[Foundational]** C. J. Bishop, P. W. Jones. *Harmonic measure and arclength.* Annals of Mathematics, 132 (1990), 511–547. [DOI](https://doi.org/10.2307/1971428)
+- **[SOTA]** B. Jaye, X. Tolsa, M. Villa. *A proof of Carleson's $\varepsilon^2$-conjecture.* Annals of Mathematics, 194 (2021), 97–161. [DOI](https://doi.org/10.4007/annals.2021.194.1.2)
+- **[SOTA]** J. Azzam, M. Mourgoglou, X. Tolsa. *Mutual absolute continuity of interior and exterior harmonic measure implies rectifiability.* Communications on Pure and Applied Mathematics, 70 (2017), 2121–2163. [DOI](https://doi.org/10.1002/cpa.21687)
 - **[Survey]** G. David, S. Semmes. *Singular Integrals and Rectifiable Sets in $\mathbb{R}^n$: Beyond Lipschitz Graphs.* Astérisque 193, Société Mathématique de France, 1991.
-- **[Survey]** X. Tolsa. *Analytic Capacity, the Cauchy Transform, and Non-homogeneous Calderón–Zygmund Theory.* Progress in Mathematics 307, Birkhäuser, 2014.
+- **[Survey]** X. Tolsa. *Analytic Capacity, the Cauchy Transform, and Non-homogeneous Calderón–Zygmund Theory.* Progress in Mathematics 307, Birkhäuser, 2014. [DOI](https://doi.org/10.1007/978-3-319-00596-6)
 - **[Survey]** P. Mattila. *Geometry of Sets and Measures in Euclidean Spaces: Fractals and Rectifiability.* Cambridge University Press, 1995.
 
 ## 10. Worked Example / Concrete Special Case

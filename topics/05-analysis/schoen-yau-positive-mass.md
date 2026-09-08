@@ -109,20 +109,20 @@ The Riemannian statement of Section 1 is now proved in full generality; the resi
 
 ## 9. Key References
 
-- **[Foundational]** R. Schoen and S.-T. Yau. *On the proof of the positive mass conjecture in general relativity.* Communications in Mathematical Physics **65** (1979), 45–76.
-- **[Foundational]** R. Schoen and S.-T. Yau. *Proof of the positive mass theorem II.* Communications in Mathematical Physics **79** (1981), 231–260.
-- **[Foundational]** E. Witten. *A new proof of the positive energy theorem.* Communications in Mathematical Physics **80** (1981), 381–402.
-- **[Foundational]** T. Parker and C. H. Taubes. *On Witten's proof of the positive energy theorem.* Communications in Mathematical Physics **84** (1982), 223–238.
-- **[Foundational]** R. Arnowitt, S. Deser, C. W. Misner. *Coordinate invariance and energy expressions in general relativity.* Physical Review **122** (1961), 997–1006.
-- **[Foundational]** R. Bartnik. *The mass of an asymptotically flat manifold.* Communications on Pure and Applied Mathematics **39** (1986), 661–693.
-- **[SOTA / Recent]** R. Schoen and S.-T. Yau. *Positive scalar curvature and minimal hypersurface singularities.* Surveys in Differential Geometry **24** (2019), 441–480.
-- **[SOTA / Recent]** M. Eichmair, L.-H. Huang, D. A. Lee, R. Schoen. *The spacetime positive mass theorem in dimensions less than eight.* Journal of the European Mathematical Society **18** (2016), 83–121.
-- **[SOTA / Recent]** L.-H. Huang and D. A. Lee. *Equality in the spacetime positive mass theorem.* Communications in Mathematical Physics **376** (2020), 2379–2407.
-- **[SOTA / Recent]** G. Huisken and T. Ilmanen. *The inverse mean curvature flow and the Riemannian Penrose inequality.* Journal of Differential Geometry **59** (2001), 353–437.
-- **[SOTA / Recent]** H. L. Bray. *Proof of the Riemannian Penrose inequality using the positive mass theorem.* Journal of Differential Geometry **59** (2001), 177–267.
+- **[Foundational]** R. Schoen and S.-T. Yau. *On the proof of the positive mass conjecture in general relativity.* Communications in Mathematical Physics **65** (1979), 45–76. [DOI](https://doi.org/10.1007/bf01940959)
+- **[Foundational]** R. Schoen and S.-T. Yau. *Proof of the positive mass theorem II.* Communications in Mathematical Physics **79** (1981), 231–260. [DOI](https://doi.org/10.1007/bf01942062)
+- **[Foundational]** E. Witten. *A new proof of the positive energy theorem.* Communications in Mathematical Physics **80** (1981), 381–402. [DOI](https://doi.org/10.1007/bf01208277)
+- **[Foundational]** T. Parker and C. H. Taubes. *On Witten's proof of the positive energy theorem.* Communications in Mathematical Physics **84** (1982), 223–238. [DOI](https://doi.org/10.1007/bf01208569)
+- **[Foundational]** R. Arnowitt, S. Deser, C. W. Misner. *Coordinate invariance and energy expressions in general relativity.* Physical Review **122** (1961), 997–1006. [DOI](https://doi.org/10.1103/physrev.122.997)
+- **[Foundational]** R. Bartnik. *The mass of an asymptotically flat manifold.* Communications on Pure and Applied Mathematics **39** (1986), 661–693. [DOI](https://doi.org/10.1002/cpa.3160390505)
+- **[SOTA / Recent]** R. Schoen and S.-T. Yau. *Positive scalar curvature and minimal hypersurface singularities.* Surveys in Differential Geometry **24** (2019), 441–480. [DOI](https://doi.org/10.4310/sdg.2019.v24.n1.a10)
+- **[SOTA / Recent]** M. Eichmair, L.-H. Huang, D. A. Lee, R. Schoen. *The spacetime positive mass theorem in dimensions less than eight.* Journal of the European Mathematical Society **18** (2016), 83–121. [DOI](https://doi.org/10.4171/jems/584)
+- **[SOTA / Recent]** L.-H. Huang and D. A. Lee. *Equality in the spacetime positive mass theorem.* Communications in Mathematical Physics **376** (2020), 2379–2407. [DOI](https://doi.org/10.1007/s00220-019-03619-w)
+- **[SOTA / Recent]** G. Huisken and T. Ilmanen. *The inverse mean curvature flow and the Riemannian Penrose inequality.* Journal of Differential Geometry **59** (2001), 353–437. [DOI](https://doi.org/10.4310/jdg/1090349447)
+- **[SOTA / Recent]** H. L. Bray. *Proof of the Riemannian Penrose inequality using the positive mass theorem.* Journal of Differential Geometry **59** (2001), 177–267. [DOI](https://doi.org/10.4310/jdg/1090349428)
 - **[Survey]** D. A. Lee. *Geometric Relativity.* Graduate Studies in Mathematics **201**, American Mathematical Society, 2019.
-- **[Survey]** M. Gromov. *Four lectures on scalar curvature.* In *Perspectives in Scalar Curvature*, World Scientific, 2023.
-- **[Survey]** P. T. Chruściel, G. J. Galloway, D. Pollack. *Mathematical general relativity: a sampler.* Bulletin of the AMS **47** (2010), 567–638.
+- **[Survey]** M. Gromov. *Four lectures on scalar curvature.* In *Perspectives in Scalar Curvature*, World Scientific, 2023. [DOI](https://doi.org/10.1142/9789811273223_0001)
+- **[Survey]** P. T. Chruściel, G. J. Galloway, D. Pollack. *Mathematical general relativity: a sampler.* Bulletin of the AMS **47** (2010), 567–638. [DOI](https://doi.org/10.1090/s0273-0979-2010-01304-5)
 
 ## 10. Worked Example / Concrete Special Case
 

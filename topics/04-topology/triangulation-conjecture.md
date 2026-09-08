@@ -97,10 +97,10 @@ Leading geometric topologists emphasize the following open pathways:
 
 ## 9. Key References
 
-- **[Foundational]** Moise, E. E. *Affine Structures in 3-Manifolds, V. The Triangulation Theorem and Hauptvermutung.* Annals of Mathematics, 1952.
-- **[Foundational]** Galewski, D., and Stern, R. *Classification of simplicial triangulations of topological manifolds.* Annals of Mathematics, 1980.
+- **[Foundational]** Moise, E. E. *Affine Structures in 3-Manifolds, V. The Triangulation Theorem and Hauptvermutung.* Annals of Mathematics, 1952. [DOI](https://doi.org/10.2307/1969769)
+- **[Foundational]** Galewski, D., and Stern, R. *Classification of simplicial triangulations of topological manifolds.* Annals of Mathematics, 1980. [DOI](https://doi.org/10.2307/1971215)
 - **[Foundational]** Matumoto, T. *Triangulation of manifolds.* Algebraic and Geometric Topology (Proc. Sympos. Pure Math., Stanford Univ., 1976), AMS, 1978.
-- **[SOTA / Recent]** Manolescu, C. *Pin(2)-equivariant Seiberg-Witten Floer homology and the Triangulation Conjecture.* Journal of the American Mathematical Society, 2016.
+- **[SOTA / Recent]** Manolescu, C. *Pin(2)-equivariant Seiberg-Witten Floer homology and the Triangulation Conjecture.* Journal of the American Mathematical Society, 2016. [DOI](https://doi.org/10.1090/jams829)
 - **[Survey]** Manolescu, C. *Homology cobordism and the triangulation conjecture.* Proceedings of the International Congress of Mathematicians (Seoul), 2014.
 
 ## 10. Worked Example / Concrete Special Case

@@ -91,9 +91,9 @@ Leading geometric topologists suggest several pathways to attack the remaining c
 ## 9. Key References
 
 - **[Foundational]** Benzécri, J. P. *Sur les variétés affines et les espaces projectifs.* Bulletin de la Société Mathématique de France, 1955.
-- **[Foundational]** Kostant, B. and Sullivan, D. *The Euler characteristic of an affine space form is zero.* Bulletin of the American Mathematical Society, 1975.
+- **[Foundational]** Kostant, B. and Sullivan, D. *The Euler characteristic of an affine space form is zero.* Bulletin of the American Mathematical Society, 1975. [DOI](https://doi.org/10.1090/s0002-9904-1975-13896-1)
 - **[Foundational]** Smillie, J. *Flat manifolds with non-zero Euler characteristic.* Commentarii Mathematici Helvetici, 1977.
-- **[SOTA / Recent]** Klingler, B. *Chern's conjecture for special affine manifolds.* Annals of Mathematics, 2017.
+- **[SOTA / Recent]** Klingler, B. *Chern's conjecture for special affine manifolds.* Annals of Mathematics, 2017. [DOI](https://doi.org/10.4007/annals.2017.186.1.2)
 - **[Survey]** Goldman, W. M. *Geometric structures on manifolds and varieties of representations.* Geometry and Topology, 2022.
 
 ## 10. Worked Example / Concrete Special Case

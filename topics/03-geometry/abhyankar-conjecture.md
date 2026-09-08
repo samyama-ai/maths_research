@@ -105,18 +105,18 @@ Crossing (1) requires a construction that simultaneously realizes a prescribed g
 
 ## 9. Key References
 
-- **[Foundational]** S. S. Abhyankar. *Coverings of algebraic curves.* American Journal of Mathematics 79 (1957), 825–856.
+- **[Foundational]** S. S. Abhyankar. *Coverings of algebraic curves.* American Journal of Mathematics 79 (1957), 825–856. [DOI](https://doi.org/10.2307/2372438)
 - **[Foundational]** A. Grothendieck. *Revêtements étales et groupe fondamental (SGA 1).* Lecture Notes in Mathematics 224, Springer, 1971.
 - **[Foundational]** D. Harbater. *Galois coverings of the arithmetic line.* In Number Theory (New York 1984–85), Lecture Notes in Mathematics 1240, Springer, 1987, 165–195.
 - **[SOTA]** M. Raynaud. *Revêtements de la droite affine en caractéristique $p>0$ et conjecture d'Abhyankar.* Inventiones Mathematicae 116 (1994), 425–462.
-- **[SOTA]** D. Harbater. *Abhyankar's conjecture on Galois groups over curves.* Inventiones Mathematicae 117 (1994), 1–25.
+- **[SOTA]** D. Harbater. *Abhyankar's conjecture on Galois groups over curves.* Inventiones Mathematicae 117 (1994), 1–25. [DOI](https://doi.org/10.1007/bf01232232)
 - **[SOTA]** J.-P. Serre. *Construction de revêtements étales de la droite affine en caractéristique $p$.* C. R. Acad. Sci. Paris, Série I, 311 (1990), 341–346.
 - **[SOTA]** F. Pop. *Étale Galois covers of affine smooth curves. The geometric case of a conjecture of Shafarevich. On Abhyankar's conjecture.* Inventiones Mathematicae 120 (1995), 555–578.
-- **[Recent]** S. S. Abhyankar. *Resolution of singularities and modular Galois theory.* Bulletin of the American Mathematical Society 38 (2001), 131–169. (States the Inertia Conjecture.)
-- **[Recent]** I. Bouw and R. Pries. *Rigidity, reduction, and ramification.* Mathematische Annalen 326 (2003), 803–824.
+- **[Recent]** S. S. Abhyankar. *Resolution of singularities and modular Galois theory.* Bulletin of the American Mathematical Society 38 (2001), 131–169. (States the Inertia Conjecture.). [DOI](https://doi.org/10.1090/s0273-0979-00-00892-2)
+- **[Recent]** I. Bouw and R. Pries. *Rigidity, reduction, and ramification.* Mathematische Annalen 326 (2003), 803–824. [DOI](https://doi.org/10.1007/s00208-003-0441-x)
 - **[Survey]** J.-P. Serre. *Revêtements de courbes algébriques.* Séminaire Bourbaki, Exp. 749, Astérisque 206 (1992), 167–182.
-- **[Survey]** D. Harbater, A. Obus, R. Pries, K. Stevenson. *Abhyankar's conjectures in Galois theory: current status and future directions.* Bulletin of the American Mathematical Society 55 (2018), 239–287.
-- **[Context]** D. Harbater. *Fundamental groups and embedding problems in characteristic $p$.* In Recent Developments in the Inverse Galois Problem, Contemporary Mathematics 186, AMS, 1995, 353–369.
+- **[Survey]** D. Harbater, A. Obus, R. Pries, K. Stevenson. *Abhyankar's conjectures in Galois theory: current status and future directions.* Bulletin of the American Mathematical Society 55 (2018), 239–287. [DOI](https://doi.org/10.1090/bull/1594)
+- **[Context]** D. Harbater. *Fundamental groups and embedding problems in characteristic $p$.* In Recent Developments in the Inverse Galois Problem, Contemporary Mathematics 186, AMS, 1995, 353–369. [DOI](https://doi.org/10.1090/conm/186/02191)
 
 ## 10. Worked Example / Concrete Special Case
 

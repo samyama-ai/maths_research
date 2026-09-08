@@ -107,18 +107,18 @@ The precise missing step: a *presentation/moving lemma over a mixed-characterist
 - **[Foundational]** J.-P. Serre. *Espaces fibrés algébriques.* Séminaire C. Chevalley, 2ᵉ année, Exp. 1, ENS, 1958.
 - **[Foundational]** A. Grothendieck. *Torsion homologique et sections rationnelles.* Séminaire C. Chevalley, 2ᵉ année, Exp. 5, ENS, 1958.
 - **[Foundational]** A. Grothendieck. *Le groupe de Brauer II: théorie cohomologique.* In *Dix exposés sur la cohomologie des schémas*, North-Holland, 1968.
-- **[Foundational]** M. Auslander, O. Goldman. *The Brauer group of a commutative ring.* Trans. Amer. Math. Soc. 97 (1960), 367–409.
+- **[Foundational]** M. Auslander, O. Goldman. *The Brauer group of a commutative ring.* Trans. Amer. Math. Soc. 97 (1960), 367–409. [DOI](https://doi.org/10.1090/s0002-9947-1960-0121392-6)
 - **[Partial]** Y. Nisnevich. *Espaces homogènes principaux rationnellement triviaux et arithmétique des schémas en groupes réductifs sur les anneaux de Dedekind.* C. R. Acad. Sci. Paris Sér. I 299 (1984), 5–8.
-- **[Partial]** J.-L. Colliot-Thélène, J.-J. Sansuc. *Principal homogeneous spaces under flasque tori: applications.* J. Algebra 106 (1987), 148–205.
-- **[Partial]** J.-L. Colliot-Thélène, M. Ojanguren. *Espaces principaux homogènes localement triviaux.* Publ. Math. IHÉS 75 (1992), 97–122.
-- **[SOTA]** R. Fedorov, I. Panin. *A proof of the Grothendieck–Serre conjecture on principal bundles over regular local rings containing infinite fields.* Publ. Math. IHÉS 122 (2015), 169–193.
-- **[SOTA]** I. Panin, A. Stavrova, N. Vavilov. *On Grothendieck–Serre's conjecture concerning principal $G$-bundles over reductive group schemes: I.* Compositio Math. 151 (2015), 535–567.
-- **[SOTA]** I. Panin. *Proof of the Grothendieck–Serre conjecture on principal bundles over regular local rings containing a finite field.* Izvestiya: Mathematics 84 (2020), 780–795.
-- **[SOTA]** K. Česnavičius. *Grothendieck–Serre in the quasi-split unramified case.* Forum of Mathematics, Pi 10 (2022), e9.
+- **[Partial]** J.-L. Colliot-Thélène, J.-J. Sansuc. *Principal homogeneous spaces under flasque tori: applications.* J. Algebra 106 (1987), 148–205. [DOI](https://doi.org/10.1016/0021-8693(87)90026-3)
+- **[Partial]** J.-L. Colliot-Thélène, M. Ojanguren. *Espaces principaux homogènes localement triviaux.* Publ. Math. IHÉS 75 (1992), 97–122. [DOI](https://doi.org/10.1007/bf02699492)
+- **[SOTA]** R. Fedorov, I. Panin. *A proof of the Grothendieck–Serre conjecture on principal bundles over regular local rings containing infinite fields.* Publ. Math. IHÉS 122 (2015), 169–193. [DOI](https://doi.org/10.1007/s10240-015-0075-z)
+- **[SOTA]** I. Panin, A. Stavrova, N. Vavilov. *On Grothendieck–Serre's conjecture concerning principal $G$-bundles over reductive group schemes: I.* Compositio Math. 151 (2015), 535–567. [DOI](https://doi.org/10.1070/im8452)
+- **[SOTA]** I. Panin. *Proof of the Grothendieck–Serre conjecture on principal bundles over regular local rings containing a finite field.* Izvestiya: Mathematics 84 (2020), 780–795. [DOI](https://doi.org/10.1070/im8982)
+- **[SOTA]** K. Česnavičius. *Grothendieck–Serre in the quasi-split unramified case.* Forum of Mathematics, Pi 10 (2022), e9. [DOI](https://doi.org/10.1017/fmp.2022.5)
 - **[SOTA]** N. Guo. *The Grothendieck–Serre conjecture over semilocal Dedekind rings.* Transformation Groups 27 (2022), 897–917.
-- **[SOTA]** R. Fedorov. *On the Grothendieck–Serre conjecture about principal bundles and its generalizations.* Algebra & Number Theory 16 (2022), 447–465.
-- **[Survey]** I. Panin. *On Grothendieck–Serre conjecture concerning principal bundles.* Proc. International Congress of Mathematicians, Rio de Janeiro 2018, Vol. II, 201–221, World Scientific, 2018.
-- **[Survey]** K. Česnavičius. *Problems about torsors over regular rings.* Acta Mathematica Vietnamica 47 (2022), 39–107.
+- **[SOTA]** R. Fedorov. *On the Grothendieck–Serre conjecture about principal bundles and its generalizations.* Algebra & Number Theory 16 (2022), 447–465. [DOI](https://doi.org/10.2140/ant.2022.16.447)
+- **[Survey]** I. Panin. *On Grothendieck–Serre conjecture concerning principal bundles.* Proc. International Congress of Mathematicians, Rio de Janeiro 2018, Vol. II, 201–221, World Scientific, 2018. [DOI](https://doi.org/10.1142/9789813272880_0051)
+- **[Survey]** K. Česnavičius. *Problems about torsors over regular rings.* Acta Mathematica Vietnamica 47 (2022), 39–107. [DOI](https://doi.org/10.1007/s40306-022-00477-y)
 - **[Background]** M. Demazure, A. Grothendieck (eds.). *Schémas en groupes (SGA 3), Tome III.* Lecture Notes in Math. 153, Springer, 1970.
 
 ## 10. Worked Example / Concrete Special Case

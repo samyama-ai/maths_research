@@ -103,24 +103,24 @@ Active groups: Princeton (Gabai), MIT/Stanford (Piccirillo, Manolescu), UT Austi
 
 ## 9. Key References
 
-- **[Foundational]** J. W. Alexander. *On the subdivision of 3-space by a polyhedron.* Proc. Natl. Acad. Sci. USA 10 (1924), 6–8.
+- **[Foundational]** J. W. Alexander. *On the subdivision of 3-space by a polyhedron.* Proc. Natl. Acad. Sci. USA 10 (1924), 6–8. [DOI](https://doi.org/10.1073/pnas.10.1.6)
 - **[Foundational]** B. Mazur. *On embeddings of spheres.* Bull. Amer. Math. Soc. 65 (1959), 59–65.
-- **[Foundational]** M. Morse. *A reduction of the Schoenflies extension problem.* Bull. Amer. Math. Soc. 66 (1960), 113–115.
-- **[Foundational]** M. Brown. *A proof of the generalized Schoenflies theorem.* Bull. Amer. Math. Soc. 66 (1960), 74–76.
+- **[Foundational]** M. Morse. *A reduction of the Schoenflies extension problem.* Bull. Amer. Math. Soc. 66 (1960), 113–115. [DOI](https://doi.org/10.1090/s0002-9904-1960-10420-x)
+- **[Foundational]** M. Brown. *A proof of the generalized Schoenflies theorem.* Bull. Amer. Math. Soc. 66 (1960), 74–76. [DOI](https://doi.org/10.1090/s0002-9904-1960-10400-4)
 - **[Foundational]** S. Smale. *Generalized Poincaré's conjecture in dimensions greater than four.* Ann. of Math. 74 (1961), 391–406.
 - **[Foundational]** M. Kervaire and J. Milnor. *Groups of homotopy spheres: I.* Ann. of Math. 77 (1963), 504–537.
 - **[Foundational]** J. Milnor. *Lectures on the h-Cobordism Theorem.* Princeton University Press, 1965.
 - **[Foundational]** J. Cerf. *Sur les difféomorphismes de la sphère de dimension trois ($\Gamma_4 = 0$).* Lecture Notes in Mathematics 53, Springer, 1968.
-- **[Key partial result]** M. Scharlemann. *Smooth spheres in $\mathbb{R}^4$ with four critical points are standard.* Invent. Math. 79 (1985), 125–141.
-- **[Foundational]** A. Hatcher. *A proof of the Smale conjecture, $\mathrm{Diff}(S^3) \simeq O(4)$.* Ann. of Math. 117 (1983), 553–607.
+- **[Key partial result]** M. Scharlemann. *Smooth spheres in $\mathbb{R}^4$ with four critical points are standard.* Invent. Math. 79 (1985), 125–141. [DOI](https://doi.org/10.1007/bf01388659)
+- **[Foundational]** A. Hatcher. *A proof of the Smale conjecture, $\mathrm{Diff}(S^3) \simeq O(4)$.* Ann. of Math. 117 (1983), 553–607. [DOI](https://doi.org/10.2307/2007035)
 - **[Foundational]** M. Freedman. *The topology of four-dimensional manifolds.* J. Differential Geom. 17 (1982), 357–453.
-- **[SOTA / Recent]** S. Akbulut. *Cappell–Shaneson homotopy spheres are standard.* Ann. of Math. 171 (2010), 2171–2175.
-- **[SOTA / Recent]** R. Gompf. *More Cappell–Shaneson spheres are standard.* Algebr. Geom. Topol. 10 (2010), 1665–1681.
-- **[SOTA / Recent]** M. Freedman, R. Gompf, S. Morrison, K. Walker. *Man and machine thinking about the smooth 4-dimensional Poincaré conjecture.* Quantum Topology 1 (2010), 171–208.
-- **[SOTA / Recent]** D. Gabai. *The 4-dimensional light bulb theorem.* J. Amer. Math. Soc. 33 (2020), 609–652.
+- **[SOTA / Recent]** S. Akbulut. *Cappell–Shaneson homotopy spheres are standard.* Ann. of Math. 171 (2010), 2171–2175. [DOI](https://doi.org/10.4007/annals.2010.171.2171)
+- **[SOTA / Recent]** R. Gompf. *More Cappell–Shaneson spheres are standard.* Algebr. Geom. Topol. 10 (2010), 1665–1681. [DOI](https://doi.org/10.2140/agt.2010.10.1665)
+- **[SOTA / Recent]** M. Freedman, R. Gompf, S. Morrison, K. Walker. *Man and machine thinking about the smooth 4-dimensional Poincaré conjecture.* Quantum Topology 1 (2010), 171–208. [DOI](https://doi.org/10.4171/qt/5)
+- **[SOTA / Recent]** D. Gabai. *The 4-dimensional light bulb theorem.* J. Amer. Math. Soc. 33 (2020), 609–652. [DOI](https://doi.org/10.1090/jams/920)
 - **[SOTA / Recent]** T. Watanabe. *Some exotic nontrivial elements of the rational homotopy groups of $\mathrm{Diff}(S^4)$.* arXiv:1812.02448, 2018.
 - **[SOTA / Recent]** C. Manolescu, L. Piccirillo. *From zero surgeries to candidates for exotic definite four-manifolds.* arXiv:2102.04391, 2021.
-- **[Survey]** R. Kirby. *Problems in low-dimensional topology.* In: Geometric Topology (AMS/IP Stud. Adv. Math. 2.2), AMS, 1997.
+- **[Survey]** R. Kirby. *Problems in low-dimensional topology.* In: Geometric Topology (AMS/IP Stud. Adv. Math. 2.2), AMS, 1997. [DOI](https://doi.org/10.1090/amsip/002.2/02)
 - **[Survey]** A. Scorpan. *The Wild World of 4-Manifolds.* American Mathematical Society, 2005.
 - **[Survey]** T. B. Rushing. *Topological Embeddings.* Academic Press, 1973.
 

@@ -118,21 +118,21 @@ Precisely:
 
 ## 9. Key References
 
-- **[Foundational]** G. Szegő. *Ein Grenzwertsatz über die Toeplitzschen Determinanten einer reellen positiven Funktion.* Mathematische Annalen 76 (1915), 490–503.
+- **[Foundational]** G. Szegő. *Ein Grenzwertsatz über die Toeplitzschen Determinanten einer reellen positiven Funktion.* Mathematische Annalen 76 (1915), 490–503. [DOI](https://doi.org/10.1007/bf01458220)
 - **[Foundational]** G. Szegő. *On certain Hermitian forms associated with the Fourier series of a positive function.* Comm. Sém. Math. Univ. Lund (1952), 228–238.
-- **[Foundational]** M. Kac. *Toeplitz matrices, translation kernels and a related problem in probability theory.* Duke Mathematical Journal 21 (1954), 501–509.
+- **[Foundational]** M. Kac. *Toeplitz matrices, translation kernels and a related problem in probability theory.* Duke Mathematical Journal 21 (1954), 501–509. [DOI](https://doi.org/10.1215/s0012-7094-54-02149-3)
 - **[Foundational]** I. A. Ibragimov. *A theorem of Gabor Szegő.* Matematicheskie Zametki 3 (1968), 693–702.
-- **[Foundational]** M. E. Fisher, R. E. Hartwig. *Toeplitz determinants: some applications, theorems, and conjectures.* Advances in Chemical Physics 15 (1968), 333–353.
-- **[Foundational]** H. Widom. *Asymptotic behavior of block Toeplitz matrices and determinants. II.* Advances in Mathematics 21 (1976), 1–29.
-- **[Foundational]** H. Widom. *On a class of integral operators with discontinuous symbol.* Toeplitz Centennial, Operator Theory: Advances and Applications 4, Birkhäuser (1982), 477–500.
-- **[SOTA]** P. Deift, A. Its, I. Krasovsky. *Asymptotics of Toeplitz, Hankel, and Toeplitz+Hankel determinants with Fisher–Hartwig singularities.* Annals of Mathematics 174 (2011), 1243–1299.
-- **[SOTA]** A. V. Sobolev. *Pseudo-differential operators with discontinuous symbols: Widom's conjecture.* Memoirs of the American Mathematical Society 222, no. 1043 (2013).
-- **[SOTA]** T. Claeys, A. Its, I. Krasovsky. *Emergence of a singularity for Toeplitz determinants and Painlevé V.* Duke Mathematical Journal 160 (2011), 207–262.
-- **[SOTA]** H. Leschke, A. V. Sobolev, W. Spitzer. *Scaling of Rényi entanglement entropies of the free Fermi-gas ground state: a rigorous proof.* Physical Review Letters 112 (2014), 160403.
-- **[SOTA]** A. Borodin, A. Okounkov. *A Fredholm determinant formula for Toeplitz determinants.* Integral Equations and Operator Theory 37 (2000), 386–396.
+- **[Foundational]** M. E. Fisher, R. E. Hartwig. *Toeplitz determinants: some applications, theorems, and conjectures.* Advances in Chemical Physics 15 (1968), 333–353. [DOI](https://doi.org/10.1002/9780470143605.ch18)
+- **[Foundational]** H. Widom. *Asymptotic behavior of block Toeplitz matrices and determinants. II.* Advances in Mathematics 21 (1976), 1–29. [DOI](https://doi.org/10.1016/0001-8708(76)90113-4)
+- **[Foundational]** H. Widom. *On a class of integral operators with discontinuous symbol.* Toeplitz Centennial, Operator Theory: Advances and Applications 4, Birkhäuser (1982), 477–500. [DOI](https://doi.org/10.1007/978-3-0348-5183-1_28)
+- **[SOTA]** P. Deift, A. Its, I. Krasovsky. *Asymptotics of Toeplitz, Hankel, and Toeplitz+Hankel determinants with Fisher–Hartwig singularities.* Annals of Mathematics 174 (2011), 1243–1299. [DOI](https://doi.org/10.4007/annals.2011.174.2.12)
+- **[SOTA]** A. V. Sobolev. *Pseudo-differential operators with discontinuous symbols: Widom's conjecture.* Memoirs of the American Mathematical Society 222, no. 1043 (2013). [DOI](https://doi.org/10.1090/s0065-9266-2012-00670-8)
+- **[SOTA]** T. Claeys, A. Its, I. Krasovsky. *Emergence of a singularity for Toeplitz determinants and Painlevé V.* Duke Mathematical Journal 160 (2011), 207–262. [DOI](https://doi.org/10.1215/00127094-1444207)
+- **[SOTA]** H. Leschke, A. V. Sobolev, W. Spitzer. *Scaling of Rényi entanglement entropies of the free Fermi-gas ground state: a rigorous proof.* Physical Review Letters 112 (2014), 160403. [DOI](https://doi.org/10.1103/physrevlett.112.160403)
+- **[SOTA]** A. Borodin, A. Okounkov. *A Fredholm determinant formula for Toeplitz determinants.* Integral Equations and Operator Theory 37 (2000), 386–396. [DOI](https://doi.org/10.1007/bf01192827)
 - **[Survey]** B. Simon. *Szegő's Theorem and Its Descendants: Spectral Theory for $L^2$ Perturbations of Orthogonal Polynomials.* Princeton University Press, 2011.
 - **[Survey]** A. Böttcher, B. Silbermann. *Analysis of Toeplitz Operators*, 2nd ed. Springer, 2006.
-- **[Survey]** P. Deift, A. Its, I. Krasovsky. *Toeplitz matrices and Toeplitz determinants under the impetus of the Ising model: some history and some recent results.* Communications on Pure and Applied Mathematics 66 (2013), 1360–1438.
+- **[Survey]** P. Deift, A. Its, I. Krasovsky. *Toeplitz matrices and Toeplitz determinants under the impetus of the Ising model: some history and some recent results.* Communications on Pure and Applied Mathematics 66 (2013), 1360–1438. [DOI](https://doi.org/10.1002/cpa.21467)
 
 ## 10. Worked Example / Concrete Special Case
 

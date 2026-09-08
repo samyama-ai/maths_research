@@ -110,17 +110,17 @@ The exact step to be crossed: produce either (i) a bound $H(n,d) \le \mathrm{pol
 - **[Foundational]** G. B. Dantzig. *Linear Programming and Extensions.* Princeton University Press, 1963.
 - **[Foundational]** V. Klee, D. W. Walkup. *The $d$-step conjecture for polyhedra of dimension $d<6$.* Acta Mathematica 117 (1967), 53–78.
 - **[Foundational]** D. G. Larman. *Paths on polytopes.* Proceedings of the London Mathematical Society 20 (1970), 161–178.
-- **[Foundational]** G. Kalai, D. J. Kleitman. *A quasi-polynomial bound for the diameter of graphs of polyhedra.* Bulletin of the American Mathematical Society 26 (1992), 315–316.
-- **[SOTA]** F. Santos. *A counterexample to the Hirsch conjecture.* Annals of Mathematics 176(1) (2012), 383–412.
-- **[SOTA]** B. Matschke, F. Santos, C. Weibel. *The width of five-dimensional prismatoids.* Proceedings of the London Mathematical Society 110(3) (2015), 647–672.
-- **[SOTA]** M. J. Todd. *An improved Kalai–Kleitman bound for the diameter of a polyhedron.* SIAM Journal on Discrete Mathematics 28(4) (2014), 1944–1947.
-- **[SOTA]** N. Sukegawa. *An asymptotically improved upper bound on the diameter of polyhedra.* Discrete & Computational Geometry 62 (2019), 690–699.
-- **[SOTA]** K. Adiprasito, B. Benedetti. *The Hirsch conjecture holds for normal flag complexes.* Mathematics of Operations Research 39(4) (2014), 1340–1348.
-- **[SOTA]** N. Bonifas, M. Di Summa, F. Eisenbrand, N. Hähnle, M. Niemeier. *On sub-determinants and the diameter of polyhedra.* Discrete & Computational Geometry 52 (2014), 102–115.
-- **[Related]** F. Eisenbrand, N. Hähnle, A. Razborov, T. Rothvoß. *Diameter of polyhedra: limits of abstraction.* Mathematics of Operations Research 35(4) (2010), 786–794.
-- **[Survey]** E. D. Kim, F. Santos. *An update on the Hirsch conjecture.* Jahresbericht der Deutschen Mathematiker-Vereinigung 112(2) (2010), 73–98.
-- **[Survey]** F. Santos. *Recent progress on the combinatorial diameter of polytopes and simplicial complexes.* TOP 21(3) (2013), 426–460.
-- **[Related]** D. Bremner, A. Deza, W. Hua, L. Schewe. *More bounds on the diameters of convex polytopes.* Optimization Methods and Software 28(3) (2013), 442–450.
+- **[Foundational]** G. Kalai, D. J. Kleitman. *A quasi-polynomial bound for the diameter of graphs of polyhedra.* Bulletin of the American Mathematical Society 26 (1992), 315–316. [DOI](https://doi.org/10.1090/s0273-0979-1992-00285-9)
+- **[SOTA]** F. Santos. *A counterexample to the Hirsch conjecture.* Annals of Mathematics 176(1) (2012), 383–412. [DOI](https://doi.org/10.4007/annals.2012.176.1.7)
+- **[SOTA]** B. Matschke, F. Santos, C. Weibel. *The width of five-dimensional prismatoids.* Proceedings of the London Mathematical Society 110(3) (2015), 647–672. [DOI](https://doi.org/10.1112/plms/pdu064)
+- **[SOTA]** M. J. Todd. *An improved Kalai–Kleitman bound for the diameter of a polyhedron.* SIAM Journal on Discrete Mathematics 28(4) (2014), 1944–1947. [DOI](https://doi.org/10.1137/140962310)
+- **[SOTA]** N. Sukegawa. *An asymptotically improved upper bound on the diameter of polyhedra.* Discrete & Computational Geometry 62 (2019), 690–699. [DOI](https://doi.org/10.1007/s00454-018-0016-y)
+- **[SOTA]** K. Adiprasito, B. Benedetti. *The Hirsch conjecture holds for normal flag complexes.* Mathematics of Operations Research 39(4) (2014), 1340–1348. [DOI](https://doi.org/10.1287/moor.2014.0661)
+- **[SOTA]** N. Bonifas, M. Di Summa, F. Eisenbrand, N. Hähnle, M. Niemeier. *On sub-determinants and the diameter of polyhedra.* Discrete & Computational Geometry 52 (2014), 102–115. [DOI](https://doi.org/10.1007/s00454-014-9601-x)
+- **[Related]** F. Eisenbrand, N. Hähnle, A. Razborov, T. Rothvoß. *Diameter of polyhedra: limits of abstraction.* Mathematics of Operations Research 35(4) (2010), 786–794. [DOI](https://doi.org/10.1287/moor.1100.0470)
+- **[Survey]** E. D. Kim, F. Santos. *An update on the Hirsch conjecture.* Jahresbericht der Deutschen Mathematiker-Vereinigung 112(2) (2010), 73–98. [DOI](https://doi.org/10.1365/s13291-010-0001-8)
+- **[Survey]** F. Santos. *Recent progress on the combinatorial diameter of polytopes and simplicial complexes.* TOP 21(3) (2013), 426–460. [DOI](https://doi.org/10.1007/s11750-013-0295-7)
+- **[Related]** D. Bremner, A. Deza, W. Hua, L. Schewe. *More bounds on the diameters of convex polytopes.* Optimization Methods and Software 28(3) (2013), 442–450. [DOI](https://doi.org/10.1080/10556788.2012.668906)
 
 ## 10. Worked Example / Concrete Special Case
 

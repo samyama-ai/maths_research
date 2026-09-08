@@ -120,20 +120,20 @@ that does *not* require $E_0$ small. All known routes to it use the effective fl
 ## 9. Key References
 
 - **[Foundational]** P.-L. Lions. *Mathematical Topics in Fluid Mechanics, Volume 2: Compressible Models.* Oxford Lecture Series in Mathematics and its Applications, Oxford University Press, 1998.
-- **[Foundational]** E. Feireisl, A. Novotný, H. Petzeltová. *On the existence of globally defined weak solutions to the Navier–Stokes equations.* Journal of Mathematical Fluid Mechanics, 3(4):358–392, 2001.
-- **[Foundational]** Z. Xin. *Blowup of smooth solutions to the compressible Navier–Stokes system with compact density.* Communications on Pure and Applied Mathematics, 51(3):229–240, 1998.
-- **[Foundational]** V. A. Vaigant, A. V. Kazhikhov. *On the existence of global solutions to two-dimensional Navier–Stokes equations of a compressible viscous fluid.* Siberian Mathematical Journal, 36(6):1108–1141, 1995.
-- **[Foundational]** D. Hoff. *Global solutions of the Navier–Stokes equations for multidimensional compressible flow with discontinuous initial data.* Journal of Differential Equations, 120(1):215–254, 1995.
-- **[Foundational]** Y. Cho, H. J. Choe, H. Kim. *Unique solvability of the initial boundary value problems for compressible viscous fluids.* Journal de Mathématiques Pures et Appliquées, 83(2):243–275, 2004.
-- **[SOTA / Recent]** X. Huang, J. Li, Z. Xin. *Global well-posedness of classical solutions with large oscillations and vacuum to the three-dimensional isentropic compressible Navier–Stokes equations.* Communications on Pure and Applied Mathematics, 65(4):549–585, 2012.
-- **[SOTA / Recent]** J. Li, Z. Xin. *Global well-posedness and large time asymptotic behavior of classical solutions to the compressible Navier–Stokes equations with vacuum.* Annals of PDE, 5:7, 2019.
-- **[SOTA / Recent]** A. Vasseur, C. Yu. *Existence of global weak solutions for 3D degenerate compressible Navier–Stokes equations.* Inventiones Mathematicae, 206(3):935–974, 2016.
+- **[Foundational]** E. Feireisl, A. Novotný, H. Petzeltová. *On the existence of globally defined weak solutions to the Navier–Stokes equations.* Journal of Mathematical Fluid Mechanics, 3(4):358–392, 2001. [DOI](https://doi.org/10.1007/pl00000976)
+- **[Foundational]** Z. Xin. *Blowup of smooth solutions to the compressible Navier–Stokes system with compact density.* Communications on Pure and Applied Mathematics, 51(3):229–240, 1998. [DOI](https://doi.org/10.1002/(sici)1097-0312(199803)51:3<229::aid-cpa1>3.0.co;2-c)
+- **[Foundational]** V. A. Vaigant, A. V. Kazhikhov. *On the existence of global solutions to two-dimensional Navier–Stokes equations of a compressible viscous fluid.* Siberian Mathematical Journal, 36(6):1108–1141, 1995. [DOI](https://doi.org/10.1007/bf02106835)
+- **[Foundational]** D. Hoff. *Global solutions of the Navier–Stokes equations for multidimensional compressible flow with discontinuous initial data.* Journal of Differential Equations, 120(1):215–254, 1995. [DOI](https://doi.org/10.1006/jdeq.1995.1111)
+- **[Foundational]** Y. Cho, H. J. Choe, H. Kim. *Unique solvability of the initial boundary value problems for compressible viscous fluids.* Journal de Mathématiques Pures et Appliquées, 83(2):243–275, 2004. [DOI](https://doi.org/10.1016/j.matpur.2003.11.004)
+- **[SOTA / Recent]** X. Huang, J. Li, Z. Xin. *Global well-posedness of classical solutions with large oscillations and vacuum to the three-dimensional isentropic compressible Navier–Stokes equations.* Communications on Pure and Applied Mathematics, 65(4):549–585, 2012. [DOI](https://doi.org/10.1002/cpa.21382)
+- **[SOTA / Recent]** J. Li, Z. Xin. *Global well-posedness and large time asymptotic behavior of classical solutions to the compressible Navier–Stokes equations with vacuum.* Annals of PDE, 5:7, 2019. [DOI](https://doi.org/10.1007/s40818-019-0064-5)
+- **[SOTA / Recent]** A. Vasseur, C. Yu. *Existence of global weak solutions for 3D degenerate compressible Navier–Stokes equations.* Inventiones Mathematicae, 206(3):935–974, 2016. [DOI](https://doi.org/10.1007/s00222-016-0666-4)
 - **[SOTA / Recent]** D. Bresch, A. Vasseur, C. Yu. *Global existence of entropy-weak solutions to the compressible Navier–Stokes equations with non-linear density dependent viscosities.* Journal of the European Mathematical Society, 24(5):1791–1837, 2022.
-- **[SOTA / Recent]** J. Li, Z. Wang, Z. Xin. *Non-existence of classical solutions with finite energy to the Cauchy problem of the compressible Navier–Stokes equations.* Archive for Rational Mechanics and Analysis, 232(2):557–590, 2019.
-- **[SOTA / Recent]** F. Merle, P. Raphaël, I. Rodnianski, J. Szeftel. *On the implosion of a compressible fluid I: Smooth self-similar inviscid profiles.* Annals of Mathematics, 196(2):567–778, 2022.
-- **[Foundational]** D. Bresch, B. Desjardins. *Existence of global weak solutions for a 2D viscous shallow water equations and convergence to the quasi-geostrophic model.* Communications in Mathematical Physics, 238(1–2):211–223, 2003.
-- **[Survey]** E. Feireisl. *Dynamics of Viscous Compressible Fluids.* Oxford Lecture Series in Mathematics and its Applications 26, Oxford University Press, 2004.
-- **[Survey]** A. Novotný, I. Straškraba. *Introduction to the Mathematical Theory of Compressible Flow.* Oxford University Press, 2004.
+- **[SOTA / Recent]** J. Li, Z. Wang, Z. Xin. *Non-existence of classical solutions with finite energy to the Cauchy problem of the compressible Navier–Stokes equations.* Archive for Rational Mechanics and Analysis, 232(2):557–590, 2019. [DOI](https://doi.org/10.1007/s00205-018-1328-z)
+- **[SOTA / Recent]** F. Merle, P. Raphaël, I. Rodnianski, J. Szeftel. *On the implosion of a compressible fluid I: Smooth self-similar inviscid profiles.* Annals of Mathematics, 196(2):567–778, 2022. [DOI](https://doi.org/10.4007/annals.2022.196.2.3)
+- **[Foundational]** D. Bresch, B. Desjardins. *Existence of global weak solutions for a 2D viscous shallow water equations and convergence to the quasi-geostrophic model.* Communications in Mathematical Physics, 238(1–2):211–223, 2003. [DOI](https://doi.org/10.1007/s00220-003-0859-8)
+- **[Survey]** E. Feireisl. *Dynamics of Viscous Compressible Fluids.* Oxford Lecture Series in Mathematics and its Applications 26, Oxford University Press, 2004. [DOI](https://doi.org/10.1093/acprof:oso/9780198528388.001.0001)
+- **[Survey]** A. Novotný, I. Straškraba. *Introduction to the Mathematical Theory of Compressible Flow.* Oxford University Press, 2004. [DOI](https://doi.org/10.1093/oso/9780198530848.001.0001)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -88,10 +88,10 @@ Leading mathematicians suggest the following pathways for approaching the proble
 ## 9. Key References
 
 - **[Foundational]** Robin, G. *Grandes valeurs de la fonction somme des diviseurs et hypothèse de Riemann*. Journal de Mathématiques Pures et Appliquées, 1984.
-- **[Foundational]** Grönwall, T. H. *Some asymptotic expressions in the theory of numbers*. Transactions of the American Mathematical Society, 1913.
+- **[Foundational]** Grönwall, T. H. *Some asymptotic expressions in the theory of numbers*. Transactions of the American Mathematical Society, 1913. [DOI](https://doi.org/10.1090/s0002-9947-1913-1500940-6)
 - **[SOTA / Recent]** Choie, Y., Lichiardopol, N., Moree, P., & Solé, P. *On Robin's criterion for the Riemann hypothesis*. Journal de Théorie des Nombres de Bordeaux, 2007.
-- **[SOTA / Recent]** Akbary, A., & Friggstad, Z. *Superabundant numbers and the Riemann hypothesis*. The American Mathematical Monthly, 2009.
-- **[Survey]** Lagarias, J. C. *An elementary problem equivalent to the Riemann hypothesis*. The American Mathematical Monthly, 2002.
+- **[SOTA / Recent]** Akbary, A., & Friggstad, Z. *Superabundant numbers and the Riemann hypothesis*. The American Mathematical Monthly, 2009. [DOI](https://doi.org/10.1080/00029890.2009.11920937)
+- **[Survey]** Lagarias, J. C. *An elementary problem equivalent to the Riemann hypothesis*. The American Mathematical Monthly, 2002. [DOI](https://doi.org/10.1080/00029890.2002.11919883)
 
 ## 10. Worked Example / Concrete Special Case
 

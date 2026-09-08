@@ -102,26 +102,26 @@ Required: a single construction that (a) accepts the Kirby color as a categorifi
 
 ## 9. Key References
 
-- **[Foundational]** E. Witten. *Quantum field theory and the Jones polynomial.* Communications in Mathematical Physics 121 (1989), 351–399.
-- **[Foundational]** N. Reshetikhin, V. G. Turaev. *Invariants of 3-manifolds via link polynomials and quantum groups.* Inventiones Mathematicae 103 (1991), 547–597.
-- **[Foundational]** R. Kirby, P. Melvin. *The 3-manifold invariants of Witten and Reshetikhin–Turaev for $sl(2,\mathbb{C})$.* Inventiones Mathematicae 105 (1991), 473–545.
+- **[Foundational]** E. Witten. *Quantum field theory and the Jones polynomial.* Communications in Mathematical Physics 121 (1989), 351–399. [DOI](https://doi.org/10.1142/9789812798329_0039)
+- **[Foundational]** N. Reshetikhin, V. G. Turaev. *Invariants of 3-manifolds via link polynomials and quantum groups.* Inventiones Mathematicae 103 (1991), 547–597. [DOI](https://doi.org/10.1007/bf01239527)
+- **[Foundational]** R. Kirby, P. Melvin. *The 3-manifold invariants of Witten and Reshetikhin–Turaev for $sl(2,\mathbb{C})$.* Inventiones Mathematicae 105 (1991), 473–545. [DOI](https://doi.org/10.1007/bf01232277)
 - **[Foundational]** C. Blanchet, N. Habegger, G. Masbaum, P. Vogel. *Topological quantum field theories derived from the Kauffman bracket.* Topology 34 (1995), 883–927.
-- **[Foundational]** L. Crane, I. B. Frenkel. *Four-dimensional topological quantum field theory, Hopf categories, and the canonical bases.* Journal of Mathematical Physics 35 (1994), 5136–5154.
-- **[Foundational]** M. Khovanov. *A categorification of the Jones polynomial.* Duke Mathematical Journal 101 (2000), 359–426.
-- **[Foundational]** M. Khovanov, L. Rozansky. *Matrix factorizations and link homology.* Fundamenta Mathematicae 199 (2008), 1–91.
-- **[Foundational]** K. Habiro. *A unified Witten–Reshetikhin–Turaev invariant for integral homology spheres.* Inventiones Mathematicae 171 (2008), 1–81.
-- **[SOTA / Recent]** B. Cooper, V. Krushkal. *Categorification of the Jones–Wenzl projectors.* Quantum Topology 3 (2012), 139–180.
-- **[SOTA / Recent]** L. Rozansky. *An infinite torus braid yields a categorified Jones–Wenzl projector.* Fundamenta Mathematicae 225 (2014), 305–326.
+- **[Foundational]** L. Crane, I. B. Frenkel. *Four-dimensional topological quantum field theory, Hopf categories, and the canonical bases.* Journal of Mathematical Physics 35 (1994), 5136–5154. [DOI](https://doi.org/10.1063/1.530746)
+- **[Foundational]** M. Khovanov. *A categorification of the Jones polynomial.* Duke Mathematical Journal 101 (2000), 359–426. [DOI](https://doi.org/10.1215/s0012-7094-00-10131-7)
+- **[Foundational]** M. Khovanov, L. Rozansky. *Matrix factorizations and link homology.* Fundamenta Mathematicae 199 (2008), 1–91. [DOI](https://doi.org/10.4064/fm199-1-1)
+- **[Foundational]** K. Habiro. *A unified Witten–Reshetikhin–Turaev invariant for integral homology spheres.* Inventiones Mathematicae 171 (2008), 1–81. [DOI](https://doi.org/10.1007/s00222-007-0071-0)
+- **[SOTA / Recent]** B. Cooper, V. Krushkal. *Categorification of the Jones–Wenzl projectors.* Quantum Topology 3 (2012), 139–180. [DOI](https://doi.org/10.4171/qt/27)
+- **[SOTA / Recent]** L. Rozansky. *An infinite torus braid yields a categorified Jones–Wenzl projector.* Fundamenta Mathematicae 225 (2014), 305–326. [DOI](https://doi.org/10.4064/fm225-1-14)
 - **[SOTA / Recent]** L. Rozansky. *A categorification of the stable SU(2) Witten–Reshetikhin–Turaev invariant of links in $S^2 \times S^1$.* arXiv:1011.1958 (2010).
-- **[SOTA / Recent]** B. Webster. *Knot invariants and higher representation theory.* Memoirs of the American Mathematical Society 250 (2017), no. 1191.
-- **[SOTA / Recent]** A. Beliakova, K. Putyra, S. Wehrli. *Quantum link homology via trace functor I.* Inventiones Mathematicae 215 (2019), 383–492.
-- **[SOTA / Recent]** S. Gukov, P. Putrov, C. Vafa. *Fivebranes and 3-manifold homology.* Journal of High Energy Physics 2017, no. 7, 071.
-- **[SOTA / Recent]** S. Gukov, D. Pei, P. Putrov, C. Vafa. *BPS spectra and 3-manifold invariants.* Journal of Knot Theory and Its Ramifications 29 (2020), 2040003.
-- **[SOTA / Recent]** S. Gukov, C. Manolescu. *A two-variable series for knot complements.* Quantum Topology 12 (2021), 1–109.
-- **[SOTA / Recent]** S. Morrison, K. Walker, P. Wedrich. *Invariants of 4-manifolds from Khovanov–Rozansky link homology.* Geometry & Topology 26 (2022), 3367–3420.
-- **[SOTA / Recent]** C. Manolescu, I. Neithalath. *Skein lasagna modules for 2-handlebodies.* Journal für die reine und angewandte Mathematik (Crelle) 779 (2021), 265–284.
+- **[SOTA / Recent]** B. Webster. *Knot invariants and higher representation theory.* Memoirs of the American Mathematical Society 250 (2017), no. 1191. [DOI](https://doi.org/10.1090/memo/1191)
+- **[SOTA / Recent]** A. Beliakova, K. Putyra, S. Wehrli. *Quantum link homology via trace functor I.* Inventiones Mathematicae 215 (2019), 383–492. [DOI](https://doi.org/10.1007/s00222-018-0830-0)
+- **[SOTA / Recent]** S. Gukov, P. Putrov, C. Vafa. *Fivebranes and 3-manifold homology.* Journal of High Energy Physics 2017, no. 7, 071. [DOI](https://doi.org/10.1007/jhep07(2017)071)
+- **[SOTA / Recent]** S. Gukov, D. Pei, P. Putrov, C. Vafa. *BPS spectra and 3-manifold invariants.* Journal of Knot Theory and Its Ramifications 29 (2020), 2040003. [DOI](https://doi.org/10.1142/s0218216520400039)
+- **[SOTA / Recent]** S. Gukov, C. Manolescu. *A two-variable series for knot complements.* Quantum Topology 12 (2021), 1–109. [DOI](https://doi.org/10.4171/qt/145)
+- **[SOTA / Recent]** S. Morrison, K. Walker, P. Wedrich. *Invariants of 4-manifolds from Khovanov–Rozansky link homology.* Geometry & Topology 26 (2022), 3367–3420. [DOI](https://doi.org/10.2140/gt.2022.26.3367)
+- **[SOTA / Recent]** C. Manolescu, I. Neithalath. *Skein lasagna modules for 2-handlebodies.* Journal für die reine und angewandte Mathematik (Crelle) 779 (2021), 265–284. [DOI](https://doi.org/10.1515/crelle-2022-0021)
 - **[SOTA / Recent]** Q. Ren, M. Willis. *Khovanov skein lasagna detects exotic 4-manifolds.* arXiv:2402.10452 (2024).
-- **[Survey]** M. Khovanov. *Categorifications from planar diagrammatics.* Japanese Journal of Mathematics 5 (2010), 153–181.
+- **[Survey]** M. Khovanov. *Categorifications from planar diagrammatics.* Japanese Journal of Mathematics 5 (2010), 153–181. [DOI](https://doi.org/10.1007/s11537-010-0925-x)
 - **[Survey]** V. G. Turaev. *Quantum Invariants of Knots and 3-Manifolds.* De Gruyter Studies in Mathematics 18, 3rd edition, 2016.
 
 ## 10. Worked Example / Concrete Special Case

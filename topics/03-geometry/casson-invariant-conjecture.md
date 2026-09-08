@@ -94,8 +94,8 @@ Leading mathematicians have outlined several high-leverage strategies to force a
 
 ## 9. Key References
 
-- **[Foundational]** Neumann, W. D., & Wahl, J. *Casson invariant of links of singularities.* Commentarii Mathematici Helvetici, 65, 1990.
-- **[SOTA / Recent]** Némethi, A., & Okuma, T. *On the Casson invariant conjecture of Neumann-Wahl.* Journal of Algebraic Geometry, 18, 2009.
+- **[Foundational]** Neumann, W. D., & Wahl, J. *Casson invariant of links of singularities.* Commentarii Mathematici Helvetici, 65, 1990. [DOI](https://doi.org/10.1007/bf02566593)
+- **[SOTA / Recent]** Némethi, A., & Okuma, T. *On the Casson invariant conjecture of Neumann-Wahl.* Journal of Algebraic Geometry, 18, 2009. [DOI](https://doi.org/10.1090/s1056-3911-08-00493-1)
 - **[Survey]** Némethi, A. *The topology of normal surface singularities.* Proceedings of the European Congress of Mathematics, 2004.
 
 ## 10. Worked Example / Concrete Special Case

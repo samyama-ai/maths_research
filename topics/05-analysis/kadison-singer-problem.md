@@ -102,19 +102,19 @@ The original gap — between structured classes (Section 4) and arbitrary zero-d
 
 ## 9. Key References
 
-- **[Foundational]** R. V. Kadison and I. M. Singer. *Extensions of pure states.* American Journal of Mathematics 81 (1959), 383–400.
-- **[Foundational]** J. Anderson. *Extensions, restrictions, and representations of states on C\*-algebras.* Transactions of the AMS 249 (1979), 303–329.
+- **[Foundational]** R. V. Kadison and I. M. Singer. *Extensions of pure states.* American Journal of Mathematics 81 (1959), 383–400. [DOI](https://doi.org/10.2307/2372748)
+- **[Foundational]** J. Anderson. *Extensions, restrictions, and representations of states on C\*-algebras.* Transactions of the AMS 249 (1979), 303–329. [DOI](https://doi.org/10.2307/1998793)
 - **[Foundational]** J. Bourgain and L. Tzafriri. *On a problem of Kadison and Singer.* Journal für die reine und angewandte Mathematik 420 (1991), 1–43.
-- **[Reformulation]** N. Weaver. *The Kadison–Singer problem in discrepancy theory.* Discrete Mathematics 278 (2004), 227–239.
-- **[Solution]** A. Marcus, D. A. Spielman, N. Srivastava. *Interlacing families II: Mixed characteristic polynomials and the Kadison–Singer problem.* Annals of Mathematics 182 (2015), 327–350.
-- **[Companion]** A. Marcus, D. A. Spielman, N. Srivastava. *Interlacing families I: Bipartite Ramanujan graphs of all degrees.* Annals of Mathematics 182 (2015), 307–325.
+- **[Reformulation]** N. Weaver. *The Kadison–Singer problem in discrepancy theory.* Discrete Mathematics 278 (2004), 227–239. [DOI](https://doi.org/10.1016/s0012-365x(03)00253-x)
+- **[Solution]** A. Marcus, D. A. Spielman, N. Srivastava. *Interlacing families II: Mixed characteristic polynomials and the Kadison–Singer problem.* Annals of Mathematics 182 (2015), 327–350. [DOI](https://doi.org/10.4007/annals.2015.182.1.8)
+- **[Companion]** A. Marcus, D. A. Spielman, N. Srivastava. *Interlacing families I: Bipartite Ramanujan graphs of all degrees.* Annals of Mathematics 182 (2015), 307–325. [DOI](https://doi.org/10.4007/annals.2015.182.1.7)
 - **[SOTA / Recent]** M. Bownik, P. G. Casazza, A. Marcus, D. Speegle. *Improved bounds in Weaver and Feichtinger conjectures.* Journal für die reine und angewandte Mathematik 749 (2019), 267–293.
 - **[SOTA / Recent]** M. Ravichandran, N. Srivastava. *Asymptotically optimal multi-paving.* International Mathematics Research Notices 2021.
 - **[Related]** N. Anari, S. Oveis Gharan. *The Kadison–Singer problem for strongly Rayleigh measures and applications to asymmetric TSP.* Preprint, 2014.
-- **[Survey]** P. G. Casazza, M. Fickus, J. C. Tremain, E. Weber. *The Kadison–Singer problem in mathematics and engineering: a detailed account.* Contemporary Mathematics 414 (2006), 299–355.
+- **[Survey]** P. G. Casazza, M. Fickus, J. C. Tremain, E. Weber. *The Kadison–Singer problem in mathematics and engineering: a detailed account.* Contemporary Mathematics 414 (2006), 299–355. [DOI](https://doi.org/10.1090/conm/414/07820)
 - **[Survey]** P. G. Casazza and J. C. Tremain. *The Kadison–Singer problem in mathematics and engineering.* PNAS 103 (2006), 2032–2039.
-- **[Book]** M. Stevens. *The Kadison–Singer Property.* SpringerBriefs in Mathematical Physics, Springer, 2016.
-- **[Related]** C. Akemann and N. Weaver. *A Lyapunov-type theorem from Kadison–Singer.* Bulletin of the London Mathematical Society 46 (2014), 517–524.
+- **[Book]** M. Stevens. *The Kadison–Singer Property.* SpringerBriefs in Mathematical Physics, Springer, 2016. [DOI](https://doi.org/10.1007/978-3-319-47702-2)
+- **[Related]** C. Akemann and N. Weaver. *A Lyapunov-type theorem from Kadison–Singer.* Bulletin of the London Mathematical Society 46 (2014), 517–524. [DOI](https://doi.org/10.1112/blms/bdu005)
 
 ## 10. Worked Example / Concrete Special Case
 

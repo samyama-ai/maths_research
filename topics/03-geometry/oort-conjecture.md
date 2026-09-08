@@ -115,19 +115,19 @@ Pop closed the gap not by solving those cases directly, but by a **degeneration/
 ## 9. Key References
 
 - **[Foundational]** A. Grothendieck. *Revêtements étales et groupe fondamental (SGA 1).* Lecture Notes in Math. 224, Springer, 1971.
-- **[Foundational]** F. Oort. *Lifting algebraic curves, abelian varieties, and their endomorphisms to characteristic zero.* Proc. Sympos. Pure Math. 46, Part 2, AMS, 1987, 165–195.
-- **[Foundational]** T. Sekiguchi, F. Oort, N. Suwa. *On the deformation of Artin–Schreier to Kummer.* Ann. Sci. École Norm. Sup. (4) 22 (1989), 345–375.
-- **[Foundational]** B. Green, M. Matignon. *Liftings of Galois covers of smooth curves.* Compositio Math. 113 (1998), 237–272.
-- **[Foundational]** B. Green, M. Matignon. *Order $p$ automorphisms of the open disc of a $p$-adic field.* J. Amer. Math. Soc. 12 (1999), 269–303.
-- **[Foundational]** J. Bertin, A. Mézard. *Déformations formelles des revêtements sauvagement ramifiés de courbes algébriques.* Invent. Math. 141 (2000), 195–238.
-- **[SOTA]** A. Obus, S. Wewers. *Cyclic extensions and the local lifting problem.* Annals of Mathematics 180 (2014), 233–284.
-- **[SOTA]** F. Pop. *The Oort conjecture on lifting covers of curves.* Annals of Mathematics 180 (2014), 285–322.
+- **[Foundational]** F. Oort. *Lifting algebraic curves, abelian varieties, and their endomorphisms to characteristic zero.* Proc. Sympos. Pure Math. 46, Part 2, AMS, 1987, 165–195. [DOI](https://doi.org/10.1090/pspum/046.2/927980)
+- **[Foundational]** T. Sekiguchi, F. Oort, N. Suwa. *On the deformation of Artin–Schreier to Kummer.* Ann. Sci. École Norm. Sup. (4) 22 (1989), 345–375. [DOI](https://doi.org/10.24033/asens.1586)
+- **[Foundational]** B. Green, M. Matignon. *Liftings of Galois covers of smooth curves.* Compositio Math. 113 (1998), 237–272. [DOI](https://doi.org/10.1023/a:1000455506835)
+- **[Foundational]** B. Green, M. Matignon. *Order $p$ automorphisms of the open disc of a $p$-adic field.* J. Amer. Math. Soc. 12 (1999), 269–303. [DOI](https://doi.org/10.1090/s0894-0347-99-00284-2)
+- **[Foundational]** J. Bertin, A. Mézard. *Déformations formelles des revêtements sauvagement ramifiés de courbes algébriques.* Invent. Math. 141 (2000), 195–238. [DOI](https://doi.org/10.1007/s002220000071)
+- **[SOTA]** A. Obus, S. Wewers. *Cyclic extensions and the local lifting problem.* Annals of Mathematics 180 (2014), 233–284. [DOI](https://doi.org/10.4007/annals.2014.180.1.5)
+- **[SOTA]** F. Pop. *The Oort conjecture on lifting covers of curves.* Annals of Mathematics 180 (2014), 285–322. [DOI](https://doi.org/10.4007/annals.2014.180.1.6)
 - **[SOTA]** A. Obus. *The local lifting problem for $A_4$.* Algebra & Number Theory 10 (2016), 1683–1693.
-- **[SOTA]** A. Obus. *A generalization of the Oort conjecture.* Comment. Math. Helv. 92 (2017), 551–620.
-- **[Structural]** T. Chinburg, R. Guralnick, D. Harbater. *Oort groups and lifting problems.* Compositio Math. 144 (2008), 849–866.
-- **[Structural]** T. Chinburg, R. Guralnick, D. Harbater. *The local lifting problem for actions of finite groups on curves.* Ann. Sci. Éc. Norm. Supér. (4) 44 (2011), 537–605.
-- **[Structural]** I. Bouw, S. Wewers. *The local lifting problem for dihedral groups.* Duke Math. J. 134 (2006), 421–452.
-- **[Structural]** L. Brewis, S. Wewers. *Artin characters, Hurwitz trees and the lifting problem.* Math. Ann. 345 (2009), 711–730.
+- **[SOTA]** A. Obus. *A generalization of the Oort conjecture.* Comment. Math. Helv. 92 (2017), 551–620. [DOI](https://doi.org/10.4171/cmh/419)
+- **[Structural]** T. Chinburg, R. Guralnick, D. Harbater. *Oort groups and lifting problems.* Compositio Math. 144 (2008), 849–866. [DOI](https://doi.org/10.1112/s0010437x08003515)
+- **[Structural]** T. Chinburg, R. Guralnick, D. Harbater. *The local lifting problem for actions of finite groups on curves.* Ann. Sci. Éc. Norm. Supér. (4) 44 (2011), 537–605. [DOI](https://doi.org/10.24033/asens.2150)
+- **[Structural]** I. Bouw, S. Wewers. *The local lifting problem for dihedral groups.* Duke Math. J. 134 (2006), 421–452. [DOI](https://doi.org/10.1215/s0012-7094-06-13431-2)
+- **[Structural]** L. Brewis, S. Wewers. *Artin characters, Hurwitz trees and the lifting problem.* Math. Ann. 345 (2009), 711–730. [DOI](https://doi.org/10.1007/s00208-009-0374-0)
 - **[Survey]** A. Obus. *The (local) lifting problem.* Survey, arXiv:1105.1530, 2011.
 
 ## 10. Worked Example / Concrete Special Case

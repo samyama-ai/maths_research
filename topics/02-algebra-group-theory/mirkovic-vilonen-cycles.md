@@ -119,19 +119,19 @@ Section 4 settles comparison of bases in ranks $\le 4$ and refutes it at rank 5.
 
 ## 9. Key References
 
-- **[Foundational]** I. Mirković, K. Vilonen. *Geometric Langlands duality and representations of algebraic groups over commutative rings.* Annals of Mathematics **166** (2007), 95–143.
+- **[Foundational]** I. Mirković, K. Vilonen. *Geometric Langlands duality and representations of algebraic groups over commutative rings.* Annals of Mathematics **166** (2007), 95–143. [DOI](https://doi.org/10.4007/annals.2007.166.95)
 - **[Foundational]** G. Lusztig. *Singularities, character formulas, and a $q$-analog of weight multiplicities.* Astérisque **101–102** (1983), 208–229.
 - **[Foundational]** V. Ginzburg. *Perverse sheaves on a loop group and Langlands' duality.* Preprint, alg-geom/9511007, 1995.
-- **[Foundational]** J. Anderson. *A polytope calculus for semisimple groups.* Duke Mathematical Journal **116** (2003), 567–588.
-- **[Structural]** J. Kamnitzer. *Mirković–Vilonen cycles and polytopes.* Annals of Mathematics **171** (2010), 245–294.
-- **[Structural]** J. Kamnitzer. *The crystal structure on the set of Mirković–Vilonen polytopes.* Advances in Mathematics **215** (2007), 66–93.
-- **[Structural]** A. Braverman, D. Gaitsgory. *Crystals via the affine Grassmannian.* Duke Mathematical Journal **107** (2001), 561–575.
-- **[Structural]** S. Gaussent, P. Littelmann. *LS galleries, the path model, and MV cycles.* Duke Mathematical Journal **127** (2005), 35–88.
-- **[Structural]** P. Baumann, J. Kamnitzer. *Preprojective algebras and MV polytopes.* Representation Theory **16** (2012), 152–188.
-- **[SOTA / Recent]** P. Baumann, J. Kamnitzer, A. Knutson. *The Mirković–Vilonen basis and Duistermaat–Heckman measures.* Acta Mathematica **227** (2021), 1–101. (With an appendix by A. Dranowski, J. Kamnitzer, C. Morton-Ferguson.)
-- **[SOTA / Recent]** P. Baumann, J. Kamnitzer, P. Tingley. *Affine Mirković–Vilonen polytopes.* Publications mathématiques de l'IHÉS **120** (2014), 113–205.
-- **[Related]** M. Kashiwara, Y. Saito. *Geometric construction of crystal bases.* Duke Mathematical Journal **89** (1997), 9–36.
-- **[Survey]** X. Zhu. *An introduction to affine Grassmannians and the geometric Satake equivalence.* In *Geometry of Moduli Spaces and Representation Theory*, IAS/Park City Mathematics Series 24, AMS, 2017.
+- **[Foundational]** J. Anderson. *A polytope calculus for semisimple groups.* Duke Mathematical Journal **116** (2003), 567–588. [DOI](https://doi.org/10.1215/s0012-7094-03-11636-1)
+- **[Structural]** J. Kamnitzer. *Mirković–Vilonen cycles and polytopes.* Annals of Mathematics **171** (2010), 245–294. [DOI](https://doi.org/10.4007/annals.2010.171.245)
+- **[Structural]** J. Kamnitzer. *The crystal structure on the set of Mirković–Vilonen polytopes.* Advances in Mathematics **215** (2007), 66–93. [DOI](https://doi.org/10.1016/j.aim.2007.03.012)
+- **[Structural]** A. Braverman, D. Gaitsgory. *Crystals via the affine Grassmannian.* Duke Mathematical Journal **107** (2001), 561–575. [DOI](https://doi.org/10.1215/s0012-7094-01-10736-9)
+- **[Structural]** S. Gaussent, P. Littelmann. *LS galleries, the path model, and MV cycles.* Duke Mathematical Journal **127** (2005), 35–88. [DOI](https://doi.org/10.1215/s0012-7094-04-12712-5)
+- **[Structural]** P. Baumann, J. Kamnitzer. *Preprojective algebras and MV polytopes.* Representation Theory **16** (2012), 152–188. [DOI](https://doi.org/10.1090/s1088-4165-2012-00413-7)
+- **[SOTA / Recent]** P. Baumann, J. Kamnitzer, A. Knutson. *The Mirković–Vilonen basis and Duistermaat–Heckman measures.* Acta Mathematica **227** (2021), 1–101. (With an appendix by A. Dranowski, J. Kamnitzer, C. Morton-Ferguson.). [DOI](https://doi.org/10.4310/acta.2021.v227.n1.a1)
+- **[SOTA / Recent]** P. Baumann, J. Kamnitzer, P. Tingley. *Affine Mirković–Vilonen polytopes.* Publications mathématiques de l'IHÉS **120** (2014), 113–205. [DOI](https://doi.org/10.1007/s10240-013-0057-y)
+- **[Related]** M. Kashiwara, Y. Saito. *Geometric construction of crystal bases.* Duke Mathematical Journal **89** (1997), 9–36. [DOI](https://doi.org/10.1215/s0012-7094-97-08902-x)
+- **[Survey]** X. Zhu. *An introduction to affine Grassmannians and the geometric Satake equivalence.* In *Geometry of Moduli Spaces and Representation Theory*, IAS/Park City Mathematics Series 24, AMS, 2017. [DOI](https://doi.org/10.1090/pcms/024/02)
 
 ## 10. Worked Example / Concrete Special Case
 

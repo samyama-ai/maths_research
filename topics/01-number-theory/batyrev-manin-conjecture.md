@@ -83,12 +83,12 @@ Leading mathematicians have proposed the following open pathways:
 
 ## 9. Key References
 
-- **[Foundational]** Franke, J., Manin, Y. I., & Tschinkel, Y. *Rational points of bounded height on Fano varieties.* Inventiones mathematicae, 1989.
-- **[Foundational]** Batyrev, V. V., & Manin, Y. I. *Sur le nombre des points rationnels de hauteur borné des variétés algébriques.* Mathematische Annalen, 1990.
-- **[Foundational]** Peyre, E. *Hauteurs et nombres de Tamagawa sur les variétés de Fano.* Duke Mathematical Journal, 1995.
+- **[Foundational]** Franke, J., Manin, Y. I., & Tschinkel, Y. *Rational points of bounded height on Fano varieties.* Inventiones mathematicae, 1989. [DOI](https://doi.org/10.1007/bf01233436)
+- **[Foundational]** Batyrev, V. V., & Manin, Y. I. *Sur le nombre des points rationnels de hauteur borné des variétés algébriques.* Mathematische Annalen, 1990. [DOI](https://doi.org/10.1007/bf01453564)
+- **[Foundational]** Peyre, E. *Hauteurs et nombres de Tamagawa sur les variétés de Fano.* Duke Mathematical Journal, 1995. [DOI](https://doi.org/10.1215/s0012-7094-95-07904-6)
 - **[Foundational]** Batyrev, V. V., & Tschinkel, Y. *Rational points on some Fano cubic bundles.* Comptes Rendus de l'Académie des Sciences, Série I, 1996.
 - **[SOTA / Recent]** Lehmann, B., Sengupta, A., & Tanimoto, S. *Geometric properties of exceptional sets in Manin's conjecture.* Duke Mathematical Journal, 2018.
-- **[Survey]** Browning, T. D. *Quantitative Arithmetic of Projective Varieties.* Progress in Mathematics, Vol. 277. Birkhäuser, 2009.
+- **[Survey]** Browning, T. D. *Quantitative Arithmetic of Projective Varieties.* Progress in Mathematics, Vol. 277. Birkhäuser, 2009. [DOI](https://doi.org/10.1007/978-3-0346-0129-0)
 
 ## 10. Worked Example / Concrete Special Case
 

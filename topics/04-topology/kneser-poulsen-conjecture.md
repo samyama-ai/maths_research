@@ -118,20 +118,20 @@ Route 3 is where the least is known and the most is being attempted.
 ## 9. Key References
 
 - **[Foundational]** E. T. Poulsen. *Problem 10.* Mathematica Scandinavica, vol. 2, 1954, p. 346.
-- **[Foundational]** M. Kneser. *Einige Bemerkungen über das Minkowskische Flächenmaß.* Archiv der Mathematik, vol. 6, 1955, pp. 382–390.
+- **[Foundational]** M. Kneser. *Einige Bemerkungen über das Minkowskische Flächenmaß.* Archiv der Mathematik, vol. 6, 1955, pp. 382–390. [DOI](https://doi.org/10.1007/bf01900510)
 - **[Foundational]** B. Bollobás. *Area of the union of disks.* Elemente der Mathematik, vol. 23, 1968, pp. 60–61.
-- **[Foundational]** M. Gromov. *Monotonicity of the volume of intersection of balls.* In: Geometrical Aspects of Functional Analysis, Lecture Notes in Mathematics 1267, Springer, 1987, pp. 1–4.
-- **[Foundational]** V. Capoyleas, J. Pach. *On the perimeter of a point set in the plane.* In: Discrete and Computational Geometry (DIMACS Series in Discrete Mathematics and Theoretical Computer Science, vol. 6), AMS, 1991, pp. 67–76.
-- **[Key technique]** B. Csikós. *On the volume of the union of balls.* Discrete & Computational Geometry, vol. 20, 1998, pp. 449–461.
-- **[Key technique]** B. Csikós. *On the volume of flowers in space forms.* Geometriae Dedicata, vol. 86, 2001, pp. 59–79.
-- **[SOTA]** K. Bezdek, R. Connelly. *Pushing disks apart — the Kneser–Poulsen conjecture in the plane.* Journal für die reine und angewandte Mathematik (Crelle), vol. 553, 2002, pp. 221–236.
-- **[SOTA]** K. Bezdek, R. Connelly. *The Kneser–Poulsen conjecture for spherical polytopes.* Discrete & Computational Geometry, vol. 32, 2004, pp. 101–106.
-- **[SOTA]** B. Csikós. *A Schläfli-type formula for polytopes with curved faces and its application to the Kneser–Poulsen conjecture.* Monatshefte für Mathematik, vol. 147, 2006, pp. 255–274.
-- **[SOTA / Recent]** I. Gorbovickis. *Strict Kneser–Poulsen conjecture for large radii.* Geometriae Dedicata, vol. 162, 2013, pp. 95–107.
-- **[SOTA / Recent]** K. Bezdek, M. Naszódi. *The Kneser–Poulsen conjecture for special contractions.* Discrete & Computational Geometry, vol. 60, 2018, pp. 967–980.
-- **[Survey]** K. Bezdek. *From the Kneser–Poulsen conjecture to ball-polyhedra.* European Journal of Combinatorics, vol. 29, 2008, pp. 1820–1830.
-- **[Survey / Book]** K. Bezdek. *Classical Topics in Discrete Geometry.* CMS Books in Mathematics, Springer, 2010 (Part on the Kneser–Poulsen conjecture).
-- **[Survey / Book]** V. Klee, S. Wagon. *Old and New Unsolved Problems in Plane Geometry and Number Theory.* Mathematical Association of America, 1991.
+- **[Foundational]** M. Gromov. *Monotonicity of the volume of intersection of balls.* In: Geometrical Aspects of Functional Analysis, Lecture Notes in Mathematics 1267, Springer, 1987, pp. 1–4. [DOI](https://doi.org/10.1007/bfb0078131)
+- **[Foundational]** V. Capoyleas, J. Pach. *On the perimeter of a point set in the plane.* In: Discrete and Computational Geometry (DIMACS Series in Discrete Mathematics and Theoretical Computer Science, vol. 6), AMS, 1991, pp. 67–76. [DOI](https://doi.org/10.1090/dimacs/006/04)
+- **[Key technique]** B. Csikós. *On the volume of the union of balls.* Discrete & Computational Geometry, vol. 20, 1998, pp. 449–461. [DOI](https://doi.org/10.1007/pl00009395)
+- **[Key technique]** B. Csikós. *On the volume of flowers in space forms.* Geometriae Dedicata, vol. 86, 2001, pp. 59–79. [DOI](https://doi.org/10.1023/a:1011983123985)
+- **[SOTA]** K. Bezdek, R. Connelly. *Pushing disks apart — the Kneser–Poulsen conjecture in the plane.* Journal für die reine und angewandte Mathematik (Crelle), vol. 553, 2002, pp. 221–236. [DOI](https://doi.org/10.1515/crll.2002.101)
+- **[SOTA]** K. Bezdek, R. Connelly. *The Kneser–Poulsen conjecture for spherical polytopes.* Discrete & Computational Geometry, vol. 32, 2004, pp. 101–106. [DOI](https://doi.org/10.1007/s00454-004-0831-1)
+- **[SOTA]** B. Csikós. *A Schläfli-type formula for polytopes with curved faces and its application to the Kneser–Poulsen conjecture.* Monatshefte für Mathematik, vol. 147, 2006, pp. 255–274. [DOI](https://doi.org/10.1007/s00605-005-0363-7)
+- **[SOTA / Recent]** I. Gorbovickis. *Strict Kneser–Poulsen conjecture for large radii.* Geometriae Dedicata, vol. 162, 2013, pp. 95–107. [DOI](https://doi.org/10.1007/s10711-012-9718-0)
+- **[SOTA / Recent]** K. Bezdek, M. Naszódi. *The Kneser–Poulsen conjecture for special contractions.* Discrete & Computational Geometry, vol. 60, 2018, pp. 967–980. [DOI](https://doi.org/10.1007/s00454-018-9976-1)
+- **[Survey]** K. Bezdek. *From the Kneser–Poulsen conjecture to ball-polyhedra.* European Journal of Combinatorics, vol. 29, 2008, pp. 1820–1830. [DOI](https://doi.org/10.1016/j.ejc.2008.01.011)
+- **[Survey / Book]** K. Bezdek. *Classical Topics in Discrete Geometry.* CMS Books in Mathematics, Springer, 2010 (Part on the Kneser–Poulsen conjecture). [DOI](https://doi.org/10.1007/978-1-4419-0600-7)
+- **[Survey / Book]** V. Klee, S. Wagon. *Old and New Unsolved Problems in Plane Geometry and Number Theory.* Mathematical Association of America, 1991. [DOI](https://doi.org/10.1090/dol/011)
 
 ## 10. Worked Example / Concrete Special Case
 

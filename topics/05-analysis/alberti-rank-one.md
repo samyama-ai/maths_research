@@ -107,17 +107,17 @@ The Euclidean gap is closed. The residual gaps are sharply localisable:
 
 ## 9. Key References
 
-- **[Foundational]** G. Alberti. *A Lusin type theorem for gradients.* Journal of Functional Analysis, 100(1):110–118, 1991.
-- **[Foundational]** G. Alberti. *Rank one property for derivatives of functions with bounded variation.* Proceedings of the Royal Society of Edinburgh Section A, 123(2):239–274, 1993.
-- **[Book]** L. Ambrosio, N. Fusco, D. Pallara. *Functions of Bounded Variation and Free Discontinuity Problems.* Oxford University Press, 2000. (Rank one theorem = Theorem 3.94.)
-- **[SOTA]** G. De Philippis, F. Rindler. *On the structure of $\mathcal{A}$-free measures and applications.* Annals of Mathematics, 184(3):1017–1039, 2016.
-- **[SOTA]** B. Kirchheim, J. Kristensen. *On rank one convex functions that are homogeneous of degree one.* Archive for Rational Mechanics and Analysis, 221(1):527–558, 2016.
-- **[SOTA]** A. Massaccesi, D. Vittone. *An elementary proof of the rank-one theorem for BV functions.* Journal of the European Mathematical Society, 21(10):3255–3258, 2019.
-- **[SOTA]** S. Don, A. Massaccesi, D. Vittone. *Rank-one theorem and subgraphs of BV functions in Carnot groups.* Journal of Functional Analysis, 276(3):687–715, 2019.
-- **[SOTA]** L. Ambrosio, E. Bruè, D. Semola. *Rigidity of the 1-Bakry–Émery inequality and sets of finite perimeter in RCD spaces.* Geometric and Functional Analysis, 29(4):949–1001, 2019.
-- **[SOTA]** A. Arroyo-Rabasa, G. De Philippis, J. Hirsch, F. Rindler. *Dimensional estimates and rectifiability for measures satisfying linear PDE constraints.* Geometric and Functional Analysis, 29(3):639–658, 2019.
-- **[Survey]** G. De Philippis, F. Rindler. *On the structure of measures constrained by linear PDEs.* Proceedings of the International Congress of Mathematicians (Rio de Janeiro), Vol. III, 2018.
-- **[Context]** L. Ambrosio, G. Coscia, G. Dal Maso. *Fine properties of functions with bounded deformation.* Archive for Rational Mechanics and Analysis, 139(3):201–238, 1997.
+- **[Foundational]** G. Alberti. *A Lusin type theorem for gradients.* Journal of Functional Analysis, 100(1):110–118, 1991. [DOI](https://doi.org/10.1016/0022-1236(91)90104-d)
+- **[Foundational]** G. Alberti. *Rank one property for derivatives of functions with bounded variation.* Proceedings of the Royal Society of Edinburgh Section A, 123(2):239–274, 1993. [DOI](https://doi.org/10.1017/s030821050002566x)
+- **[Book]** L. Ambrosio, N. Fusco, D. Pallara. *Functions of Bounded Variation and Free Discontinuity Problems.* Oxford University Press, 2000. (Rank one theorem = Theorem 3.94.). [DOI](https://doi.org/10.1093/oso/9780198502456.001.0001)
+- **[SOTA]** G. De Philippis, F. Rindler. *On the structure of $\mathcal{A}$-free measures and applications.* Annals of Mathematics, 184(3):1017–1039, 2016. [DOI](https://doi.org/10.4007/annals.2016.184.3.10)
+- **[SOTA]** B. Kirchheim, J. Kristensen. *On rank one convex functions that are homogeneous of degree one.* Archive for Rational Mechanics and Analysis, 221(1):527–558, 2016. [DOI](https://doi.org/10.1007/s00205-016-0967-1)
+- **[SOTA]** A. Massaccesi, D. Vittone. *An elementary proof of the rank-one theorem for BV functions.* Journal of the European Mathematical Society, 21(10):3255–3258, 2019. [DOI](https://doi.org/10.4171/jems/903)
+- **[SOTA]** S. Don, A. Massaccesi, D. Vittone. *Rank-one theorem and subgraphs of BV functions in Carnot groups.* Journal of Functional Analysis, 276(3):687–715, 2019. [DOI](https://doi.org/10.1016/j.jfa.2018.09.016)
+- **[SOTA]** L. Ambrosio, E. Bruè, D. Semola. *Rigidity of the 1-Bakry–Émery inequality and sets of finite perimeter in RCD spaces.* Geometric and Functional Analysis, 29(4):949–1001, 2019. [DOI](https://doi.org/10.1007/s00039-019-00504-5)
+- **[SOTA]** A. Arroyo-Rabasa, G. De Philippis, J. Hirsch, F. Rindler. *Dimensional estimates and rectifiability for measures satisfying linear PDE constraints.* Geometric and Functional Analysis, 29(3):639–658, 2019. [DOI](https://doi.org/10.1007/s00039-019-00497-1)
+- **[Survey]** G. De Philippis, F. Rindler. *On the structure of measures constrained by linear PDEs.* Proceedings of the International Congress of Mathematicians (Rio de Janeiro), Vol. III, 2018. [DOI](https://doi.org/10.1142/9789813272880_0136)
+- **[Context]** L. Ambrosio, G. Coscia, G. Dal Maso. *Fine properties of functions with bounded deformation.* Archive for Rational Mechanics and Analysis, 139(3):201–238, 1997. [DOI](https://doi.org/10.1007/s002050050051)
 
 ## 10. Worked Example / Concrete Special Case
 

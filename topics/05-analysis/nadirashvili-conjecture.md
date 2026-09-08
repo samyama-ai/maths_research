@@ -109,17 +109,17 @@ Open, and the precise barrier:
 
 ## 9. Key References
 
-- **[Foundational]** N. Nadirashvili. *Geometry of nodal sets and multiplicity of eigenvalues.* Current Developments in Mathematics 1997, International Press, 1999, pp. 231–235.
+- **[Foundational]** N. Nadirashvili. *Geometry of nodal sets and multiplicity of eigenvalues.* Current Developments in Mathematics 1997, International Press, 1999, pp. 231–235. [DOI](https://doi.org/10.4310/cdm.1997.v1997.n1.a16)
 - **[Foundational]** H. Donnelly, C. Fefferman. *Nodal sets of eigenfunctions on Riemannian manifolds.* Inventiones Mathematicae 93 (1988), 161–183.
-- **[Foundational]** R. Hardt, L. Simon. *Nodal sets for solutions of elliptic equations.* Journal of Differential Geometry 30 (1989), 505–522.
+- **[Foundational]** R. Hardt, L. Simon. *Nodal sets for solutions of elliptic equations.* Journal of Differential Geometry 30 (1989), 505–522. [DOI](https://doi.org/10.4310/jdg/1214443599)
 - **[Foundational]** N. Garofalo, F.-H. Lin. *Monotonicity properties of variational integrals, $A_p$ weights and unique continuation.* Indiana University Mathematics Journal 35 (1986), 245–268.
-- **[SOTA]** A. Logunov. *Nodal sets of Laplace eigenfunctions: proof of Nadirashvili's conjecture and of the lower bound in Yau's conjecture.* Annals of Mathematics 187 (2018), no. 1, 241–262.
-- **[SOTA]** A. Logunov. *Nodal sets of Laplace eigenfunctions: polynomial upper estimates of the Hausdorff measure.* Annals of Mathematics 187 (2018), no. 1, 221–239.
-- **[SOTA]** A. Logunov, E. Malinnikova. *Nodal sets of Laplace eigenfunctions: estimates of the Hausdorff measure in dimensions two and three.* In *50 Years with Hardy Spaces*, Operator Theory: Advances and Applications 261, Birkhäuser, 2018, pp. 333–344.
-- **[SOTA]** A. Naber, D. Valtorta. *Volume estimates on the critical sets of solutions to elliptic PDEs.* Communications on Pure and Applied Mathematics 70 (2017), 1835–1897.
-- **[Related]** T. H. Colding, W. P. Minicozzi II. *Lower bounds for nodal sets of eigenfunctions.* Communications in Mathematical Physics 306 (2011), 777–784.
-- **[Related]** R.-T. Dong. *Nodal sets of eigenfunctions on Riemann surfaces.* Journal of Differential Geometry 36 (1992), 493–506.
-- **[Survey]** A. Logunov, E. Malinnikova. *Review of Yau's conjecture on zero sets of Laplace eigenfunctions.* Current Developments in Mathematics 2018, International Press, 2020.
+- **[SOTA]** A. Logunov. *Nodal sets of Laplace eigenfunctions: proof of Nadirashvili's conjecture and of the lower bound in Yau's conjecture.* Annals of Mathematics 187 (2018), no. 1, 241–262. [DOI](https://doi.org/10.4007/annals.2018.187.1.5)
+- **[SOTA]** A. Logunov. *Nodal sets of Laplace eigenfunctions: polynomial upper estimates of the Hausdorff measure.* Annals of Mathematics 187 (2018), no. 1, 221–239. [DOI](https://doi.org/10.4007/annals.2018.187.1.4)
+- **[SOTA]** A. Logunov, E. Malinnikova. *Nodal sets of Laplace eigenfunctions: estimates of the Hausdorff measure in dimensions two and three.* In *50 Years with Hardy Spaces*, Operator Theory: Advances and Applications 261, Birkhäuser, 2018, pp. 333–344. [DOI](https://doi.org/10.1007/978-3-319-59078-3_17)
+- **[SOTA]** A. Naber, D. Valtorta. *Volume estimates on the critical sets of solutions to elliptic PDEs.* Communications on Pure and Applied Mathematics 70 (2017), 1835–1897. [DOI](https://doi.org/10.1002/cpa.21708)
+- **[Related]** T. H. Colding, W. P. Minicozzi II. *Lower bounds for nodal sets of eigenfunctions.* Communications in Mathematical Physics 306 (2011), 777–784. [DOI](https://doi.org/10.1007/s00220-011-1225-x)
+- **[Related]** R.-T. Dong. *Nodal sets of eigenfunctions on Riemann surfaces.* Journal of Differential Geometry 36 (1992), 493–506. [DOI](https://doi.org/10.4310/jdg/1214448750)
+- **[Survey]** A. Logunov, E. Malinnikova. *Review of Yau's conjecture on zero sets of Laplace eigenfunctions.* Current Developments in Mathematics 2018, International Press, 2020. [DOI](https://doi.org/10.4310/cdm.2018.v2018.n1.a4)
 - **[Survey]** Q. Han, F.-H. Lin. *Nodal Sets of Solutions of Elliptic Differential Equations.* Book manuscript, 2007 (widely circulated lecture notes).
 
 ## 10. Worked Example / Concrete Special Case

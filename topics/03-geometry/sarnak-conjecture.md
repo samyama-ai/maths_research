@@ -113,18 +113,18 @@ Crossing either gap requires a new source of cancellation beyond the Matomäki�
 ## 9. Key References
 
 - **[Foundational]** P. Sarnak. *Three lectures on the Möbius function randomness and dynamics.* Lecture notes, Institute for Advanced Study, 2010–2011.
-- **[Foundational]** H. Davenport. *On some infinite series involving arithmetical functions (II).* Quarterly Journal of Mathematics 8 (1937), 313–320.
-- **[Foundational]** S. Chowla. *The Riemann Hypothesis and Hilbert's Tenth Problem.* Gordon and Breach, New York, 1965.
-- **[Foundational]** B. Green, T. Tao. *The Möbius function is strongly orthogonal to nilsequences.* Annals of Mathematics 175 (2012), 541–566.
+- **[Foundational]** H. Davenport. *On some infinite series involving arithmetical functions (II).* Quarterly Journal of Mathematics 8 (1937), 313–320. [DOI](https://doi.org/10.1093/qmath/os-8.1.313)
+- **[Foundational]** S. Chowla. *The Riemann Hypothesis and Hilbert's Tenth Problem.* Gordon and Breach, New York, 1965. [DOI](https://doi.org/10.2307/2314216)
+- **[Foundational]** B. Green, T. Tao. *The Möbius function is strongly orthogonal to nilsequences.* Annals of Mathematics 175 (2012), 541–566. [DOI](https://doi.org/10.4007/annals.2012.175.2.3)
 - **[Foundational]** J. Bourgain, P. Sarnak, T. Ziegler. *Disjointness of Möbius from horocycle flows.* In: From Fourier Analysis and Number Theory to Radon Transforms and Geometry, Developments in Mathematics 28, Springer, 2013, 67–83.
-- **[SOTA / Recent]** K. Matomäki, M. Radziwiłł. *Multiplicative functions in short intervals.* Annals of Mathematics 183 (2016), 1015–1056.
-- **[SOTA / Recent]** K. Matomäki, M. Radziwiłł, T. Tao. *An averaged form of Chowla's conjecture.* Algebra & Number Theory 9 (2015), 2167–2196.
-- **[SOTA / Recent]** T. Tao. *The logarithmically averaged Chowla and Elliott conjectures for two-point correlations.* Forum of Mathematics, Pi 4 (2016), e8.
-- **[SOTA / Recent]** T. Tao. *Equivalence of the logarithmically averaged Chowla and Sarnak conjectures.* In: Number Theory — Diophantine Problems, Uniform Distribution and Applications, Springer, 2017, 391–421.
-- **[SOTA / Recent]** N. Frantzikinakis, B. Host. *The logarithmic Sarnak conjecture for ergodic weights.* Annals of Mathematics 187 (2018), 869–931.
-- **[SOTA / Recent]** T. Tao, J. Teräväinen. *The structure of logarithmically averaged correlations of multiplicative functions, with applications to the Chowla and Elliott conjectures.* Duke Mathematical Journal 168 (2019), 1977–2027.
+- **[SOTA / Recent]** K. Matomäki, M. Radziwiłł. *Multiplicative functions in short intervals.* Annals of Mathematics 183 (2016), 1015–1056. [DOI](https://doi.org/10.4007/annals.2016.183.3.6)
+- **[SOTA / Recent]** K. Matomäki, M. Radziwiłł, T. Tao. *An averaged form of Chowla's conjecture.* Algebra & Number Theory 9 (2015), 2167–2196. [DOI](https://doi.org/10.2140/ant.2015.9.2167)
+- **[SOTA / Recent]** T. Tao. *The logarithmically averaged Chowla and Elliott conjectures for two-point correlations.* Forum of Mathematics, Pi 4 (2016), e8. [DOI](https://doi.org/10.1017/fmp.2016.6)
+- **[SOTA / Recent]** T. Tao. *Equivalence of the logarithmically averaged Chowla and Sarnak conjectures.* In: Number Theory — Diophantine Problems, Uniform Distribution and Applications, Springer, 2017, 391–421. [DOI](https://doi.org/10.1007/978-3-319-55357-3_21)
+- **[SOTA / Recent]** N. Frantzikinakis, B. Host. *The logarithmic Sarnak conjecture for ergodic weights.* Annals of Mathematics 187 (2018), 869–931. [DOI](https://doi.org/10.4007/annals.2018.187.3.6)
+- **[SOTA / Recent]** T. Tao, J. Teräväinen. *The structure of logarithmically averaged correlations of multiplicative functions, with applications to the Chowla and Elliott conjectures.* Duke Mathematical Journal 168 (2019), 1977–2027. [DOI](https://doi.org/10.1215/00127094-2019-0002)
 - **[SOTA / Recent]** A. Kanigowski, M. Lemańczyk, M. Radziwiłł. *Rigidity in dynamics and Möbius disjointness.* Fundamenta Mathematicae 255 (2021), 309–336.
-- **[SOTA / Recent]** A. Kanigowski, M. Lemańczyk, M. Radziwiłł. *Prime number theorem for analytic skew products.* Annals of Mathematics 199 (2024), 591–705.
+- **[SOTA / Recent]** A. Kanigowski, M. Lemańczyk, M. Radziwiłł. *Prime number theorem for analytic skew products.* Annals of Mathematics 199 (2024), 591–705. [DOI](https://doi.org/10.4007/annals.2024.199.2.2)
 - **[SOTA / Recent]** T. Downarowicz, J. Serafin. *Almost full entropy subshifts uncorrelated to the Möbius function.* International Mathematics Research Notices 2019, 3459–3472.
 - **[Survey]** S. Ferenczi, J. Kułaga-Przymus, M. Lemańczyk. *Sarnak's conjecture: what's new.* In: Ergodic Theory and Dynamical Systems in their Interactions with Arithmetics and Combinatorics, Lecture Notes in Mathematics 2213, Springer, 2018, 163–235.
 - **[Survey]** A. Kanigowski, M. Lemańczyk, M. Radziwiłł. *Ergodic theory and the Sarnak conjecture.* European Congress of Mathematics survey, EMS Press, 2023.

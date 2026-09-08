@@ -102,17 +102,17 @@ The exact barrier: for high $k$ the eigenfunction oscillates on scale $\alpha^{-
 
 ## 9. Key References
 
-- **[Foundational]** S. A. Williams. *A partial solution of the Pompeiu problem.* Mathematische Annalen 223 (1976), 183–190.
+- **[Foundational]** S. A. Williams. *A partial solution of the Pompeiu problem.* Mathematische Annalen 223 (1976), 183–190. [DOI](https://doi.org/10.1007/bf01360881)
 - **[Foundational]** S. A. Williams. *Analyticity of the boundary for Lipschitz domains without the Pompeiu property.* Indiana University Mathematics Journal 30 (1981), 357–369.
-- **[Foundational]** L. Brown, B. M. Schreiber, B. A. Taylor. *Spectral synthesis and the Pompeiu problem.* Annales de l'Institut Fourier 23 (1973), 125–154.
-- **[Foundational]** J. Serrin. *A symmetry problem in potential theory.* Archive for Rational Mechanics and Analysis 43 (1971), 304–318; H. F. Weinberger, *Remark on the preceding paper of Serrin*, same volume, 319–320.
-- **[Partial]** C. A. Berenstein. *An inverse spectral theorem and its relation to the Pompeiu problem.* Journal d'Analyse Mathématique 37 (1980), 128–144.
+- **[Foundational]** L. Brown, B. M. Schreiber, B. A. Taylor. *Spectral synthesis and the Pompeiu problem.* Annales de l'Institut Fourier 23 (1973), 125–154. [DOI](https://doi.org/10.5802/aif.474)
+- **[Foundational]** J. Serrin. *A symmetry problem in potential theory.* Archive for Rational Mechanics and Analysis 43 (1971), 304–318; H. F. Weinberger, *Remark on the preceding paper of Serrin*, same volume, 319–320. [DOI](https://doi.org/10.1007/bf00250468)
+- **[Partial]** C. A. Berenstein. *An inverse spectral theorem and its relation to the Pompeiu problem.* Journal d'Analyse Mathématique 37 (1980), 128–144. [DOI](https://doi.org/10.1007/bf02797683)
 - **[Partial]** C. A. Berenstein, P. C. Yang. *An inverse Neumann problem.* Journal für die reine und angewandte Mathematik 382 (1987), 1–21.
-- **[Partial]** P. Aviles. *Symmetry theorems related to Pompeiu's problem.* American Journal of Mathematics 108 (1986), 1023–1036.
-- **[Partial]** N. Garofalo, F. Segàla. *Univalent functions and the Pompeiu problem.* Transactions of the American Mathematical Society 346 (1994), 137–146.
-- **[Partial]** P. Ebenfelt. *Propagation of singularities from singular and infinite points in certain complex-analytic Cauchy problems and an application to the Pompeiu problem.* Duke Mathematical Journal 73 (1994), 561–582.
+- **[Partial]** P. Aviles. *Symmetry theorems related to Pompeiu's problem.* American Journal of Mathematics 108 (1986), 1023–1036. [DOI](https://doi.org/10.2307/2374594)
+- **[Partial]** N. Garofalo, F. Segàla. *Univalent functions and the Pompeiu problem.* Transactions of the American Mathematical Society 346 (1994), 137–146. [DOI](https://doi.org/10.2307/2154945)
+- **[Partial]** P. Ebenfelt. *Propagation of singularities from singular and infinite points in certain complex-analytic Cauchy problems and an application to the Pompeiu problem.* Duke Mathematical Journal 73 (1994), 561–582. [DOI](https://doi.org/10.1215/s0012-7094-94-07323-7)
 - **[SOTA / Recent]** A. Enciso, A. J. Fernández, D. Ruiz, P. Sicbaldi. *The Schiffer problem on the cylinder and on the 2-sphere.* arXiv:2306.03449 (2023).
-- **[Survey]** L. Zalcman. *A bibliographic survey of the Pompeiu problem.* In: B. Fuglede et al. (eds.), *Approximation by Solutions of Partial Differential Equations*, NATO ASI Series C 365, Kluwer, 1992, 185–194; with *Supplementary bibliography*, Contemporary Mathematics 278 (2001), 69–74.
+- **[Survey]** L. Zalcman. *A bibliographic survey of the Pompeiu problem.* In: B. Fuglede et al. (eds.), *Approximation by Solutions of Partial Differential Equations*, NATO ASI Series C 365, Kluwer, 1992, 185–194; with *Supplementary bibliography*, Contemporary Mathematics 278 (2001), 69–74. [DOI](https://doi.org/10.1007/978-94-011-2436-2_17)
 - **[Survey]** S.-T. Yau (ed.). *Problem section*, in *Seminar on Differential Geometry*, Annals of Mathematics Studies 102, Princeton University Press, 1982 (Problem 80).
 
 ## 10. Worked Example / Concrete Special Case

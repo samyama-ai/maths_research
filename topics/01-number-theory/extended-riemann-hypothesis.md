@@ -97,7 +97,7 @@ Future strategies consistently articulated by leading mathematicians include:
 - **[Foundational]** Davenport, H. *Multiplicative Number Theory*. Springer Graduate Texts in Mathematics, 3rd Edition, 2000.
 - **[SOTA / Recent]** Platt, D. J. *Computing degree 1 L-functions rigorously*. LMS Journal of Computation and Mathematics, 17(1), 282-308, 2014.
 - **[Survey]** Iwaniec, H., & Kowalski, E. *Analytic Number Theory*. American Mathematical Society Colloquium Publications, Vol. 53, 2004.
-- **[Survey]** Katz, N. M., & Sarnak, P. *Zeroes of zeta functions and symmetry*. Bulletin of the American Mathematical Society, 36(1), 1-26, 1999.
+- **[Survey]** Katz, N. M., & Sarnak, P. *Zeroes of zeta functions and symmetry*. Bulletin of the American Mathematical Society, 36(1), 1-26, 1999. [DOI](https://doi.org/10.1090/s0273-0979-99-00766-1)
 
 ## 10. Worked Example / Concrete Special Case
 

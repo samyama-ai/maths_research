@@ -88,10 +88,10 @@ Leading analytic number theorists suggest the following pathways:
 
 ## 9. Key References
 
-- **[Foundational]** Hardy, G. H., & Littlewood, J. E. *Some problems of 'Partitio numerorum'; III: On the expression of a number as a sum of primes.* Acta Mathematica, 1923.
-- **[Foundational]** Hensley, D., & Richards, I. *On the incompatibility of two conjectures concerning primes.* Proceedings of Symposia in Pure Mathematics, 1973.
-- **[SOTA / Recent]** Richards, I. *On the incompatibility of two conjectures concerning primes; a discussion of the use of computers in attacking a theoretical problem.* Bulletin of the American Mathematical Society, 1974.
-- **[SOTA / Recent]** Maynard, J. *Small gaps between primes.* Annals of Mathematics, 2015.
+- **[Foundational]** Hardy, G. H., & Littlewood, J. E. *Some problems of 'Partitio numerorum'; III: On the expression of a number as a sum of primes.* Acta Mathematica, 1923. [DOI](https://doi.org/10.1007/bf02403921)
+- **[Foundational]** Hensley, D., & Richards, I. *On the incompatibility of two conjectures concerning primes.* Proceedings of Symposia in Pure Mathematics, 1973. [DOI](https://doi.org/10.1090/pspum/024/9945)
+- **[SOTA / Recent]** Richards, I. *On the incompatibility of two conjectures concerning primes; a discussion of the use of computers in attacking a theoretical problem.* Bulletin of the American Mathematical Society, 1974. [DOI](https://doi.org/10.1090/s0002-9904-1974-13434-8)
+- **[SOTA / Recent]** Maynard, J. *Small gaps between primes.* Annals of Mathematics, 2015. [DOI](https://doi.org/10.4007/annals.2015.181.1.7)
 - **[Survey]** Soundararajan, K. *Small gaps between prime numbers: The work of Goldston-Pintz-Yıldırım.* Bulletin of the American Mathematical Society, 2007.
 
 ## 10. Worked Example / Concrete Special Case

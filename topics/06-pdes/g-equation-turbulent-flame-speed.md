@@ -91,9 +91,9 @@ Leading mathematicians suggest several pathways to overcome the current deadlock
 
 - **[Foundational]** Majda, A. J., & Souganidis, P. E. *Large-scale front dynamics for turbulent reacting flows with separated velocity scales.* Nonlinearity, 1998.
 - **[Foundational]** Peters, N. *Turbulent Combustion.* Cambridge University Press, 2000.
-- **[SOTA / Recent]** Xin, J., & Yu, Y. *Periodic homogenization of inviscid G-equation for incompressible flows.* Communications in Mathematical Sciences, 2010.
+- **[SOTA / Recent]** Xin, J., & Yu, Y. *Periodic homogenization of inviscid G-equation for incompressible flows.* Communications in Mathematical Sciences, 2010. [DOI](https://doi.org/10.4310/cms.2010.v8.n4.a14)
 - **[SOTA / Recent]** Nolen, J., & Novikov, A. *Homogenization of the G-equation with incompressible random drift.* Communications in Mathematical Sciences, 2011.
-- **[Survey]** Xin, J. *Front propagation in heterogeneous media.* SIAM Review, 2000.
+- **[Survey]** Xin, J. *Front propagation in heterogeneous media.* SIAM Review, 2000. [DOI](https://doi.org/10.1137/s0036144599364296)
 
 ## 10. Worked Example / Concrete Special Case
 

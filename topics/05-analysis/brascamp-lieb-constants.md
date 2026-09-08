@@ -115,21 +115,21 @@ with $\Phi$ explicit and depending only on the finiteness margin $\delta=\min_V\
 
 ## 9. Key References
 
-- **[Foundational]** H. J. Brascamp and E. H. Lieb. *Best constants in Young's inequality, its converse, and its generalization to more than three functions.* Advances in Mathematics 20 (1976), 151–173.
-- **[Foundational]** E. H. Lieb. *Gaussian kernels have only Gaussian maximizers.* Inventiones Mathematicae 102 (1990), 179–208.
+- **[Foundational]** H. J. Brascamp and E. H. Lieb. *Best constants in Young's inequality, its converse, and its generalization to more than three functions.* Advances in Mathematics 20 (1976), 151–173. [DOI](https://doi.org/10.1016/0001-8708(76)90184-5)
+- **[Foundational]** E. H. Lieb. *Gaussian kernels have only Gaussian maximizers.* Inventiones Mathematicae 102 (1990), 179–208. [DOI](https://doi.org/10.1007/bf01233426)
 - **[Foundational]** W. Beckner. *Inequalities in Fourier analysis.* Annals of Mathematics 102 (1975), 159–182.
 - **[Foundational]** K. Ball. *Volumes of sections of cubes and related problems.* Geometric Aspects of Functional Analysis, Lecture Notes in Mathematics 1376, Springer, 1989, 251–260.
-- **[Foundational]** F. Barthe. *On a reverse form of the Brascamp–Lieb inequality.* Inventiones Mathematicae 134 (1998), 335–361.
-- **[SOTA]** J. Bennett, A. Carbery, M. Christ, T. Tao. *The Brascamp–Lieb inequalities: finiteness, structure and extremals.* Geometric and Functional Analysis 17 (2008), 1343–1415.
-- **[SOTA]** J. Bennett, A. Carbery, T. Tao. *On the multilinear restriction and Kakeya conjectures.* Acta Mathematica 196 (2006), 261–302.
-- **[SOTA]** L. Guth. *The endpoint case of the Bennett–Carbery–Tao multilinear Kakeya conjecture.* Acta Mathematica 205 (2010), 263–286.
-- **[SOTA]** J. Bennett, N. Bez, M. Cowling, T. Flock. *Behaviour of the Brascamp–Lieb constant.* Bulletin of the London Mathematical Society 49 (2017), 512–518.
-- **[SOTA]** A. Garg, L. Gurvits, R. Oliveira, A. Wigderson. *Algorithmic and optimization aspects of Brascamp–Lieb inequalities, via operator scaling.* Geometric and Functional Analysis 28 (2018), 100–145.
-- **[Recent]** J. Bennett, N. Bez, S. Buschenhenke, M. Cowling, T. Flock. *On the nonlinear Brascamp–Lieb inequality.* Duke Mathematical Journal 169 (2020), 3291–3338.
-- **[Recent]** T. A. Courtade and J. Liu. *Euclidean forward–reverse Brascamp–Lieb inequalities: finiteness, structure and extremals.* Journal of Geometric Analysis 31 (2021), 3300–3350.
-- **[Recent]** S. I. Valdimarsson. *Optimisers for the Brascamp–Lieb inequality.* Israel Journal of Mathematics 168 (2008), 253–274.
-- **[Survey]** J. Bennett. *Aspects of multilinear harmonic analysis related to transversality.* Contemporary Mathematics 612, American Mathematical Society, 2014, 1–28.
-- **[Survey]** E. Carlen, E. H. Lieb, M. Loss. *A sharp analog of Young's inequality on $S^N$ and related entropy inequalities.* Journal of Geometric Analysis 14 (2004), 487–520.
+- **[Foundational]** F. Barthe. *On a reverse form of the Brascamp–Lieb inequality.* Inventiones Mathematicae 134 (1998), 335–361. [DOI](https://doi.org/10.1007/s002220050267)
+- **[SOTA]** J. Bennett, A. Carbery, M. Christ, T. Tao. *The Brascamp–Lieb inequalities: finiteness, structure and extremals.* Geometric and Functional Analysis 17 (2008), 1343–1415. [DOI](https://doi.org/10.1007/s00039-007-0619-6)
+- **[SOTA]** J. Bennett, A. Carbery, T. Tao. *On the multilinear restriction and Kakeya conjectures.* Acta Mathematica 196 (2006), 261–302. [DOI](https://doi.org/10.1007/s11511-006-0006-4)
+- **[SOTA]** L. Guth. *The endpoint case of the Bennett–Carbery–Tao multilinear Kakeya conjecture.* Acta Mathematica 205 (2010), 263–286. [DOI](https://doi.org/10.1007/s11511-010-0055-6)
+- **[SOTA]** J. Bennett, N. Bez, M. Cowling, T. Flock. *Behaviour of the Brascamp–Lieb constant.* Bulletin of the London Mathematical Society 49 (2017), 512–518. [DOI](https://doi.org/10.1112/blms.12049)
+- **[SOTA]** A. Garg, L. Gurvits, R. Oliveira, A. Wigderson. *Algorithmic and optimization aspects of Brascamp–Lieb inequalities, via operator scaling.* Geometric and Functional Analysis 28 (2018), 100–145. [DOI](https://doi.org/10.1145/3055399.3055458)
+- **[Recent]** J. Bennett, N. Bez, S. Buschenhenke, M. Cowling, T. Flock. *On the nonlinear Brascamp–Lieb inequality.* Duke Mathematical Journal 169 (2020), 3291–3338. [DOI](https://doi.org/10.1215/00127094-2020-0027)
+- **[Recent]** T. A. Courtade and J. Liu. *Euclidean forward–reverse Brascamp–Lieb inequalities: finiteness, structure and extremals.* Journal of Geometric Analysis 31 (2021), 3300–3350. [DOI](https://doi.org/10.1007/s12220-020-00398-y)
+- **[Recent]** S. I. Valdimarsson. *Optimisers for the Brascamp–Lieb inequality.* Israel Journal of Mathematics 168 (2008), 253–274. [DOI](https://doi.org/10.1007/s11856-008-1067-1)
+- **[Survey]** J. Bennett. *Aspects of multilinear harmonic analysis related to transversality.* Contemporary Mathematics 612, American Mathematical Society, 2014, 1–28. [DOI](https://doi.org/10.1090/conm/612/12221)
+- **[Survey]** E. Carlen, E. H. Lieb, M. Loss. *A sharp analog of Young's inequality on $S^N$ and related entropy inequalities.* Journal of Geometric Analysis 14 (2004), 487–520. [DOI](https://doi.org/10.1007/bf02922101)
 
 ## 10. Worked Example / Concrete Special Case
 

@@ -121,24 +121,24 @@ Two precise barriers:
 
 ## 9. Key References
 
-- **[Foundational]** S. Lang. *Hyperbolic and Diophantine analysis.* Bulletin of the American Mathematical Society **14** (1986), 159–205.
+- **[Foundational]** S. Lang. *Hyperbolic and Diophantine analysis.* Bulletin of the American Mathematical Society **14** (1986), 159–205. [DOI](https://doi.org/10.1007/978-1-4612-2116-6_15)
 - **[Foundational]** S. Kobayashi. *Hyperbolic Complex Spaces.* Grundlehren der mathematischen Wissenschaften 318, Springer, 1998.
-- **[Foundational]** R. Brody. *Compact manifolds and hyperbolicity.* Transactions of the AMS **235** (1978), 213–219.
-- **[Foundational]** M. Green, P. Griffiths. *Two applications of algebraic geometry to entire holomorphic mappings.* In: The Chern Symposium 1979, Springer, 1980, 41–74.
+- **[Foundational]** R. Brody. *Compact manifolds and hyperbolicity.* Transactions of the AMS **235** (1978), 213–219. [DOI](https://doi.org/10.2307/1998216)
+- **[Foundational]** M. Green, P. Griffiths. *Two applications of algebraic geometry to entire holomorphic mappings.* In: The Chern Symposium 1979, Springer, 1980, 41–74. [DOI](https://doi.org/10.1007/978-1-4613-8109-9_4)
 - **[Foundational]** Y. Kawamata. *On Bloch's conjecture.* Inventiones Mathematicae **57** (1980), 97–100.
-- **[Foundational]** T. Ochiai. *On holomorphic curves in algebraic varieties with ample irregularity.* Inventiones Mathematicae **43** (1977), 83–96.
-- **[Foundational]** P. Vojta. *Diophantine Approximations and Value Distribution Theory.* Lecture Notes in Mathematics 1239, Springer, 1987.
-- **[SOTA]** M. McQuillan. *Diophantine approximations and foliations.* Publications Mathématiques de l'IHÉS **87** (1998), 121–174.
-- **[SOTA]** J.-P. Demailly, J. El Goul. *Hyperbolicity of generic surfaces of high degree in projective 3-space.* American Journal of Mathematics **122** (2000), 515–546.
-- **[SOTA]** S. Diverio, J. Merker, E. Rousseau. *Effective algebraic degeneracy.* Inventiones Mathematicae **180** (2010), 161–223.
-- **[SOTA]** Y.-T. Siu. *Hyperbolicity of generic high-degree hypersurfaces in complex projective space.* Inventiones Mathematicae **202** (2015), 1069–1166.
-- **[SOTA]** D. Brotbek. *On the hyperbolicity of general hypersurfaces.* Publications Mathématiques de l'IHÉS **126** (2017), 1–34.
-- **[SOTA]** D. Brotbek, Y. Deng. *Hyperbolicity of the complements of general hypersurfaces of high degree.* Geometric and Functional Analysis **29** (2019), 690–750.
+- **[Foundational]** T. Ochiai. *On holomorphic curves in algebraic varieties with ample irregularity.* Inventiones Mathematicae **43** (1977), 83–96. [DOI](https://doi.org/10.1007/bf01390205)
+- **[Foundational]** P. Vojta. *Diophantine Approximations and Value Distribution Theory.* Lecture Notes in Mathematics 1239, Springer, 1987. [DOI](https://doi.org/10.1007/bfb0072989)
+- **[SOTA]** M. McQuillan. *Diophantine approximations and foliations.* Publications Mathématiques de l'IHÉS **87** (1998), 121–174. [DOI](https://doi.org/10.1007/bf02698862)
+- **[SOTA]** J.-P. Demailly, J. El Goul. *Hyperbolicity of generic surfaces of high degree in projective 3-space.* American Journal of Mathematics **122** (2000), 515–546. [DOI](https://doi.org/10.1353/ajm.2000.0019)
+- **[SOTA]** S. Diverio, J. Merker, E. Rousseau. *Effective algebraic degeneracy.* Inventiones Mathematicae **180** (2010), 161–223. [DOI](https://doi.org/10.1007/s00222-010-0232-4)
+- **[SOTA]** Y.-T. Siu. *Hyperbolicity of generic high-degree hypersurfaces in complex projective space.* Inventiones Mathematicae **202** (2015), 1069–1166. [DOI](https://doi.org/10.1007/s00222-015-0584-x)
+- **[SOTA]** D. Brotbek. *On the hyperbolicity of general hypersurfaces.* Publications Mathématiques de l'IHÉS **126** (2017), 1–34. [DOI](https://doi.org/10.1007/s10240-017-0090-3)
+- **[SOTA]** D. Brotbek, Y. Deng. *Hyperbolicity of the complements of general hypersurfaces of high degree.* Geometric and Functional Analysis **29** (2019), 690–750. [DOI](https://doi.org/10.1007/s00039-019-00496-2)
 - **[SOTA]** J. Merker, T.-A. Ta. *Degrees $d \ge (\sqrt{n}\log n)^n$ and $d \ge (n\log n)^n$ in the conjectures of Green–Griffiths and of Kobayashi.* Acta Mathematica Vietnamica **44** (2019), 63–99.
 - **[SOTA]** G. Faltings. *Diophantine approximation on abelian varieties.* Annals of Mathematics **133** (1991), 549–576.
-- **[SOTA]** K. Yamanoi. *Pseudo Kobayashi hyperbolicity of subvarieties of general type on abelian varieties.* Journal of the Mathematical Society of Japan **71** (2019), 259–298.
-- **[Survey]** J.-P. Demailly. *Recent results on the Kobayashi and Green–Griffiths–Lang conjectures.* Japanese Journal of Mathematics **15** (2020), 1–120.
-- **[Survey]** F. Campana. *Orbifolds, special varieties and classification theory.* Annales de l'Institut Fourier **54** (2004), 499–630.
+- **[SOTA]** K. Yamanoi. *Pseudo Kobayashi hyperbolicity of subvarieties of general type on abelian varieties.* Journal of the Mathematical Society of Japan **71** (2019), 259–298. [DOI](https://doi.org/10.2969/jmsj/75817581)
+- **[Survey]** J.-P. Demailly. *Recent results on the Kobayashi and Green–Griffiths–Lang conjectures.* Japanese Journal of Mathematics **15** (2020), 1–120. [DOI](https://doi.org/10.1007/s11537-019-1566-3)
+- **[Survey]** F. Campana. *Orbifolds, special varieties and classification theory.* Annales de l'Institut Fourier **54** (2004), 499–630. [DOI](https://doi.org/10.5802/aif.2027)
 
 ## 10. Worked Example / Concrete Special Case
 

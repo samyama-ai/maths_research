@@ -95,19 +95,19 @@ Missing: the *every curve* statement for $\operatorname{Cliff}(C)\ge 5$ in the l
 
 ## 9. Key References
 
-- **[Foundational]** M. Green. *Koszul cohomology and the geometry of projective varieties.* J. Differential Geometry **19** (1984), 125–171. (Appendix with R. Lazarsfeld: non-vanishing.)
-- **[Foundational]** F.-O. Schreyer. *Syzygies of canonical curves and special linear series.* Math. Ann. **275** (1986), 105–137.
-- **[Foundational]** F.-O. Schreyer. *A standard basis approach to syzygies of canonical curves.* J. reine angew. Math. **421** (1991), 83–123.
-- **[Milestone]** A. Hirschowitz, S. Ramanan. *New evidence for Green's conjecture on syzygies of canonical curves.* Ann. Sci. École Norm. Sup. **31** (1998), 145–152.
-- **[Milestone]** C. Voisin. *Green's generic syzygy conjecture for curves of even genus lying on a K3 surface.* J. Eur. Math. Soc. **4** (2002), 363–404.
-- **[Milestone]** C. Voisin. *Green's canonical syzygy conjecture for generic curves of odd genus.* Compositio Math. **141** (2005), 1163–1190.
-- **[SOTA]** M. Aprodu, G. Farkas, Ş. Papadima, C. Raicu, J. Weyman. *Koszul modules and Green's conjecture.* Invent. Math. **218** (2019), 657–720.
-- **[SOTA]** C. Raicu, S. V. Sam. *Bi-graded Koszul modules, K3 carpets, and Green's conjecture.* Compositio Math. **157** (2021), 883–911.
+- **[Foundational]** M. Green. *Koszul cohomology and the geometry of projective varieties.* J. Differential Geometry **19** (1984), 125–171. (Appendix with R. Lazarsfeld: non-vanishing.). [DOI](https://doi.org/10.4310/jdg/1214438426)
+- **[Foundational]** F.-O. Schreyer. *Syzygies of canonical curves and special linear series.* Math. Ann. **275** (1986), 105–137. [DOI](https://doi.org/10.1007/bf01458587)
+- **[Foundational]** F.-O. Schreyer. *A standard basis approach to syzygies of canonical curves.* J. reine angew. Math. **421** (1991), 83–123. [DOI](https://doi.org/10.1515/crll.1991.421.83)
+- **[Milestone]** A. Hirschowitz, S. Ramanan. *New evidence for Green's conjecture on syzygies of canonical curves.* Ann. Sci. École Norm. Sup. **31** (1998), 145–152. [DOI](https://doi.org/10.1016/s0012-9593(98)80013-x)
+- **[Milestone]** C. Voisin. *Green's generic syzygy conjecture for curves of even genus lying on a K3 surface.* J. Eur. Math. Soc. **4** (2002), 363–404. [DOI](https://doi.org/10.1007/s100970200042)
+- **[Milestone]** C. Voisin. *Green's canonical syzygy conjecture for generic curves of odd genus.* Compositio Math. **141** (2005), 1163–1190. [DOI](https://doi.org/10.1112/s0010437x05001387)
+- **[SOTA]** M. Aprodu, G. Farkas, Ş. Papadima, C. Raicu, J. Weyman. *Koszul modules and Green's conjecture.* Invent. Math. **218** (2019), 657–720. [DOI](https://doi.org/10.1007/s00222-019-00894-1)
+- **[SOTA]** C. Raicu, S. V. Sam. *Bi-graded Koszul modules, K3 carpets, and Green's conjecture.* Compositio Math. **157** (2021), 883–911. [DOI](https://doi.org/10.1112/s0010437x21007703)
 - **[SOTA]** M. Aprodu, G. Farkas. *Green's conjecture for curves on arbitrary K3 surfaces.* Compositio Math. **147** (2011), 839–851.
-- **[Related]** M. Teixidor i Bigas. *Green's conjecture for the generic $r$-gonal curve of genus $g \ge 3r-7$.* Duke Math. J. **111** (2002), 195–222.
-- **[Related]** M. Aprodu. *Remarks on syzygies of $d$-gonal curves.* Math. Res. Lett. **12** (2005), 387–400.
-- **[Survey]** M. Aprodu, J. Nagel. *Koszul Cohomology and Algebraic Geometry.* AMS University Lecture Series **52**, 2010.
-- **[Survey]** D. Eisenbud. *The Geometry of Syzygies.* Graduate Texts in Mathematics **229**, Springer, 2005.
+- **[Related]** M. Teixidor i Bigas. *Green's conjecture for the generic $r$-gonal curve of genus $g \ge 3r-7$.* Duke Math. J. **111** (2002), 195–222. [DOI](https://doi.org/10.1215/s0012-7094-02-11121-1)
+- **[Related]** M. Aprodu. *Remarks on syzygies of $d$-gonal curves.* Math. Res. Lett. **12** (2005), 387–400. [DOI](https://doi.org/10.4310/mrl.2005.v12.n3.a9)
+- **[Survey]** M. Aprodu, J. Nagel. *Koszul Cohomology and Algebraic Geometry.* AMS University Lecture Series **52**, 2010. [DOI](https://doi.org/10.1090/ulect/052)
+- **[Survey]** D. Eisenbud. *The Geometry of Syzygies.* Graduate Texts in Mathematics **229**, Springer, 2005. [DOI](https://doi.org/10.1007/b137572)
 
 ## 10. Worked Example / Concrete Special Case
 
