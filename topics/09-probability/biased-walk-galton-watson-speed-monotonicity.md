@@ -76,6 +76,9 @@ with $\eta$ the return probability of the reversed step; then $v(\lambda)$ is a 
 - **2013.** Ben Arous–Hu–Olla–Zeitouni prove the Einstein relation: $v$ is differentiable at $\lambda=1$ with $v'(1)$ given by the CLT variance of the unbiased walk — a *local* monotonicity statement at the single point $\lambda=1$.
 - **2014.** Ben Arous–Fribergh–Sidoravicius (*CPAM*) prove the conjecture for high biases: there is $\lambda_0<\infty$ such that $v$ is strictly decreasing on $(\lambda_0,m)$ for every leafless offspring law with $m>\lambda_0$. This is the strongest general result to date.
 - **2014–2018.** Aïdékon's speed formula; Bowditch's refinement of escape regimes; Dembo–Sun's multi-type CLT. No further progress on global monotonicity.
+- **2020.** Bowditch–Tokushige prove $\lambda\mapsto v(\lambda)$ is differentiable wherever the walk is ballistic and satisfies a CLT, with the derivative expressed through a two-dimensional Gaussian. (Their separate 2020 claim that the speed is *analytic* was retracted in 2021.)
+- **2025.** Song–Wang–Xiang prove strict decrease on $[0,\,m_1/(1+\sqrt{1-1/m_1})]$ for leafless trees of minimum degree $m_1\ge2$ — for $m_1=2$ this is $\lambda\le 2/(1+\sqrt{1/2})=1.17157\ldots$, the first bound of order $1$ rather than $1/2$ or $1/1160$.
+- **2026.** Song–Liu give the speed and spectral radius explicitly on $d$-regular trees, confirming strict decrease there. Mandarapu–Kunkunuru give the first computer-assisted partial example for a *random* offspring law: strict decrease on $[0,1.755]$ for $Z$ uniform on $\{2,3\}$ (arXiv:2609.29894), 70% of $[0,m)$.
 
 ## 4. Partial Results / Verified Cases
 
@@ -87,6 +90,8 @@ with $\eta$ the return probability of the reversed step; then $v(\lambda)$ is a 
 | $\lambda\in(\lambda_0,m)$, leafless, $\lambda_0$ an absolute (large) constant | Proved: Ben Arous–Fribergh–Sidoravicius 2014. |
 | Trees with leaves, $\lambda\in[\lambda_c,m)$ with $\lambda_c=1/f'(q)$ | $v\equiv0$; monotone (weakly) but degenerate. |
 | $\lambda\uparrow m$ | $v(\lambda)\to0$; the rate of vanishing is not known in general. |
+| $Z$ uniform on $\{2,3\}$, $\lambda\le 1.17157\ldots$ | Proved analytically: Song–Wang–Xiang 2025, the $m_1=2$ case of their bound. |
+| $Z$ uniform on $\{2,3\}$, $\lambda\in[0,1.755]$ | Proved, computer-assisted: Mandarapu–Kunkunuru 2026 (arXiv:2609.29894). Aïdékon's formula rewritten as $v=(R-\lambda)/(R+\lambda)$, a difference-quotient criterion needing no differentiability of the conductance, a pathwise Lipschitz bound on it, and stochastic-order envelopes for its law; 62 $\lambda$-cells each closed by one inequality in exact rational arithmetic, with an independent interval-arithmetic re-check of five cells including the one that fixes the endpoint. Covers 70% of $[0,2.5)$. |
 | Numerics | Monte-Carlo simulation of $v(\lambda)$ for binary/geometric offspring laws is consistent with strict decrease across the full range; no counterexample has ever been observed. |
 
 The unresolved region is the intermediate band: $\lambda$ bounded away from $1$ and from $\lambda_0$, for general offspring laws — precisely where the tree's degree fluctuations matter most.
@@ -138,6 +143,10 @@ The Ben Arous–Fribergh–Sidoravicius argument fails below $\lambda_0$ because
 - **[Related model]** A. Fribergh, A. Hammond. *Phase transition for the speed of the biased random walk on the supercritical percolation cluster.* Communications on Pure and Applied Mathematics 67 (2014), 173–245.
 - **[Survey / Book]** R. Lyons, Y. Peres. *Probability on Trees and Networks.* Cambridge University Press, 2016 (Chapters 16–17).
 - **[Refinement]** A. Bowditch. *Escape regimes of biased random walks on Galton–Watson trees.* Probability Theory and Related Fields 170 (2018).
+- **[Regularity]** A. Bowditch, Y. Tokushige. *Differentiability of the speed of biased random walks on Galton–Watson trees.* ALEA, Latin American Journal of Probability and Mathematical Statistics 17 (2020), 609–642.
+- **[SOTA, low bias]** H. Song, L. Wang, K. Xiang. *The speed of a biased walk on a Galton–Watson tree without leaves is monotonic for low values of bias.* Journal of Applied Probability 62 (2025), 1044–1052.
+- **[Regular trees]** H. Song, M. Liu. *Spectral radius of biased random walks on regular trees.* AIMS Mathematics 11 (2026), 4787–4804.
+- **[Computer-assisted example]** M. Mandarapu, S. Kunkunuru. *A computer-assisted proof of speed monotonicity for the biased random walk on a Galton–Watson tree beyond the known range.* arXiv:2609.29894 (2026). Code and certificates: `github.com/samyama-ai/gw-speed-certificate`.
 
 ## 10. Worked Example / Concrete Special Case
 
@@ -163,7 +172,9 @@ Now push to $\lambda=2$. The distance process is no longer Markov: at a $2$-chil
 
 $$\tfrac12\cdot 0+\tfrac12\cdot\tfrac15=0.1,$$
 
-is not the speed: it ignores the fact that time spent at each degree class is itself $\lambda$-dependent and correlated with backtracking. Simulation gives $v(2)\approx0.09$ for this law — below the naive average and below $v(1)=5/12$, consistent with the conjecture. But no argument currently proves $v(2)<v(1.5)<v(1)$ for this two-point offspring law. That single explicit instance, unresolved, is the whole problem in miniature.
+is not the speed: it ignores the fact that time spent at each degree class is itself $\lambda$-dependent and correlated with backtracking. Simulation gives $v(2)\approx0.09$ for this law — below the naive average and below $v(1)=5/12$, consistent with the conjecture.
+
+**Status of this instance (2026).** $v(1.5)<v(1)$ is now proved, and so is strict decrease everywhere on $[0,1.755]$, by the computer-assisted certificate of Mandarapu–Kunkunuru (arXiv:2609.29894). $v(2)<v(1.5)$ is **not**: $\lambda=2$ lies beyond the certified range. The obstruction there is not computing power but one crude estimate — the pathwise bound $0\le\beta(\lambda_1)-\beta(\lambda_2)\le(\lambda_2-\lambda_1)\beta(\lambda_1)/(2-\lambda_2)$ on the escape probability, whose constant blows up as $\lambda\to2$; and at $\lambda\ge2$ the support bound $\beta\ge1-\lambda/2$ that the whole argument rests on becomes vacuous. So the miniature version of the problem is now half-answered, and the remaining half needs a sharper bound on how the conductance law moves with the bias.
 
 ---
 *Part of the [Maths Research catalog](../../README.md). Schema: [TEMPLATE.md](../../TEMPLATE.md).*
